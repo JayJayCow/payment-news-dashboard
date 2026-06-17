@@ -21,17 +21,10 @@ DATA_FILE     = Path(__file__).parent.parent / "data" / "news.json"
 KEEP_DAYS     = 90
 
 SEARCH_QUERIES = [
-    "네이버페이",
-    "네이버파이낸셜",
-    "카카오페이",
-    "토스페이 토스페이먼츠",
-    "토스플레이스",
-    "토스 간편결제",
-    "페이코 간편결제",
-    "쿠팡페이",
-    "삼성페이 삼성월렛",
-    "애플페이",
-    "간편결제",
+    "네이버페이", "네이버파이낸셜", "카카오페이",
+    "토스페이 토스페이먼츠", "토스플레이스", "토스 간편결제",
+    "페이코 간편결제", "쿠팡페이", "삼성페이 삼성월렛",
+    "애플페이", "간편결제",
 ]
 
 PROVIDERS = {
@@ -75,12 +68,17 @@ def parse_pub_date(s: str) -> str:
         return s
 
 
+def keyword_match(keyword: str, text: str) -> bool:
+    """키워드가 다른 한글 단어 중간에 포함된 경우 제외 (예: '미토스'에서 '토스' 오인식 방지)"""
+    return bool(re.search(r'(?<![가-힣])' + re.escape(keyword.lower()), text, re.I))
+
+
 def classify(title: str) -> str:
     t = title.lower()
     for cat, keywords in PROVIDERS.items():
-        if any(k.lower() in t for k in keywords):
+        if any(keyword_match(k, t) for k in keywords):
             return cat
-    # 제목에 결제 관련 키워드가 있어야만 간편결제로 분류 (본문에만 있는 기사 제외)
+    # 제목에 결제 관련 키워드가 있어야만 간편결제로 분류
     if any(k in t for k in ["간편결제", "핀테크", "간편 결제", "결제 서비스", "결제 시장", "결제 업계", "결제 플랫폼"]):
         return "간편결제"
     return ""  # 무관 기사
