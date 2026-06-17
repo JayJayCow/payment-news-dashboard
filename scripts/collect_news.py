@@ -64,7 +64,6 @@ def strip_html(s: str) -> str:
 
 
 def parse_pub_date(s: str) -> str:
-    """RSS pubDate → ISO 8601 UTC 문자열"""
     try:
         dt = parsedate_to_datetime(s)
         return dt.astimezone(timezone.utc).isoformat()
@@ -81,14 +80,16 @@ def classify(title: str) -> str:
     for cat, keywords in PROVIDERS.items():
         if any(k.lower() in t for k in keywords):
             return cat
-    return "간편결제"
+    # 제목에 결제 관련 키워드가 있어야만 간편결제로 분류 (본문에만 있는 기사 제외)
+    if any(k in t for k in ["간편결제", "핀테크", "간편 결제", "결제 서비스", "결제 시장", "결제 업계", "결제 플랫폼"]):
+        return "간편결제"
+    return ""  # 무관 기사
 
 
 _domain_name_cache: dict[str, str] = {}
 
 
 def fetch_site_name(url: str) -> str:
-    """기사 페이지의 og:site_name 메타 태그에서 뉴스 매체명을 가져옴"""
     try:
         from urllib.parse import urlparse
         host = urlparse(url).hostname or ""
@@ -165,13 +166,17 @@ def collect_all() -> list[dict]:
             seen_ids.add(aid)
 
             title = strip_html(item.get("title", ""))
+            category = classify(title)
+            if not category:
+                continue  # 무관 기사 제외
+
             articles.append({
                 "title":        title,
                 "link":         item.get("link", ""),
                 "originallink": item.get("originallink", ""),
                 "description":  strip_html(item.get("description", "")),
                 "pubDate":      parse_pub_date(item.get("pubDate", "")),
-                "category":     classify(title),
+                "category":     category,
                 "source":       extract_source(item.get("originallink", "") or item.get("link", "")),
             })
 
@@ -192,7 +197,6 @@ def load_existing() -> tuple[list[dict], str | None]:
 
 
 def merge_and_prune(existing: list[dict], new_items: list[dict]) -> list[dict]:
-    """기존 + 신규 병합, 중복 제거, 90일 초과 항목 제거"""
     cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
     id_map: dict[str, dict] = {}
 
