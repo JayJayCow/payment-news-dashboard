@@ -78,7 +78,6 @@ def classify(title: str) -> str:
     for cat, keywords in PROVIDERS.items():
         if any(keyword_match(k, t) for k in keywords):
             return cat
-    # 제목에 결제 관련 키워드가 있어야만 간편결제로 분류
     if any(k in t for k in ["간편결제", "핀테크", "간편 결제", "결제 서비스", "결제 시장", "결제 업계", "결제 플랫폼"]):
         return "간편결제"
     return ""  # 무관 기사
@@ -237,8 +236,19 @@ def main():
     existing, last_fetch = load_existing()
     print(f"  기존 데이터: {len(existing)}건  (마지막 수집: {last_fetch})")
 
+    # 기존 기사 재분류: 분류 로직 변경 시 이전 데이터에도 자동 적용
+    reclassified = []
+    for a in existing:
+        cat = classify(a.get("title", ""))
+        if cat:
+            a["category"] = cat
+            reclassified.append(a)
+    removed = len(existing) - len(reclassified)
+    if removed:
+        print(f"  재분류 후 무관 기사 {removed}건 제거")
+
     new_items = collect_all()
-    merged = merge_and_prune(existing, new_items)
+    merged = merge_and_prune(reclassified, new_items)
     save(merged)
     print("=== 완료 ===")
 
