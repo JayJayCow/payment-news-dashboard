@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>간편결제 뉴스 대시보드</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f0f2f5; color: #1a1a1a; }
+
+  .header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); color: white; padding: 16px 20px; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 8px rgba(0,0,0,0.3); }
+  .header-top { display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 8px; }
+  .header h1 { font-size: 18px; font-weight: 700; }
+  .header-meta { font-size: 11px; color: rgba(255,255,255,0.6); }
+  .refresh-btn { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: 12px; transition: all 0.2s; }
+  .refresh-btn:hover { background: rgba(255,255,255,0.25); }
+
+  .stats-bar { display: flex; gap: 8px; padding: 10px 16px; background: white; border-bottom: 1px solid #e8e8e8; overflow-x: auto; scrollbar-width: none; white-space: nowrap; }
+  .stats-bar::-webkit-scrollbar { display: none; }
+  .stat-chip { display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; background: #f0f2f5; color: #555; cursor: pointer; transition: all 0.2s; flex-shrink: 0; }
+  .stat-chip.active { background: #0f3460; color: white; }
+  .stat-chip .count { background: rgba(255,255,255,0.25); padding: 1px 6px; border-radius: 10px; font-size: 11px; }
+  .stat-chip:not(.active) .count { background: rgba(0,0,0,0.1); }
+
+  .date-filter { display: flex; gap: 6px; padding: 10px 16px; background: white; border-bottom: 1px solid #e8e8e8; overflow-x: auto; scrollbar-width: none; }
+  .date-filter::-webkit-scrollbar { display: none; }
+  .df-btn { padding: 5px 14px; border-radius: 16px; border: 1px solid #ddd; background: white; font-size: 12px; cursor: pointer; white-space: nowrap; transition: all 0.2s; }
+  .df-btn.active { background: #0f3460; color: white; border-color: #0f3460; }
+
+  .feed { padding: 12px 16px; max-width: 900px; margin: 0 auto; }
+  .article-card { background: white; border-radius: 12px; padding: 14px 16px; margin-bottom: 10px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); border-left: 3px solid #e8e8e8; transition: transform 0.15s, box-shadow 0.15s; }
+  .article-card:hover { transform: translateY(-1px); box-shadow: 0 4px 12px rgba(0,0,0,0.1); }
+  .article-card.네이버페이 { border-left-color: #03c75a; }
+  .article-card.카카오페이 { border-left-color: #fee500; }
+  .article-card.토스페이  { border-left-color: #0064ff; }
+  .article-card.페이코    { border-left-color: #ff4800; }
+  .article-card.쿠팡페이  { border-left-color: #e82127; }
+  .article-card.삼성페이  { border-left-color: #1428a0; }
+  .article-card.애플페이  { border-left-color: #555; }
+  .article-card.간편결제  { border-left-color: #9b59b6; }
+
+  .card-top { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; }
+  .cat-badge { font-size: 10px; font-weight: 700; padding: 2px 8px; border-radius: 10px; background: #f0f2f5; color: #555; }
+  .card-date { font-size: 11px; color: #999; margin-left: auto; }
+  .card-source { font-size: 11px; color: #0f3460; background: #e8f0fe; padding: 1px 7px; border-radius: 8px; }
+  .card-title { font-size: 14px; font-weight: 600; line-height: 1.5; color: #1a1a1a; }
+  .card-title a { color: inherit; text-decoration: none; }
+  .card-title a:hover { color: #0f3460; text-decoration: underline; }
+  .card-desc { font-size: 12px; color: #666; margin-top: 5px; line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .empty { text-align: center; padding: 60px 20px; color: #aaa; }
+  .empty-icon { font-size: 40px; margin-bottom: 12px; }
+  .loading { text-align: center; padding: 60px 20px; color: #999; }
+
+  .error-banner { background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 12px 16px; margin: 12px 16px; font-size: 13px; color: #856404; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-top">
+    <h1>💳 간편결제 뉴스</h1>
+    <div style="display:flex;align-items:center;gap:10px;">
+      <span class="header-meta" id="lastUpdate">로딩 중...</span>
+      <button class="refresh-btn" onclick="loadData()">🔄 새로고침</button>
+    </div>
+  </div>
+</div>
+
+<div class="stats-bar" id="statsBar"></div>
+<div class="date-filter" id="dateFilter"></div>
+<div class="feed" id="feed"><div class="loading">📰 뉴스 데이터를 불러오는 중...</div></div>
+
+<script>
+const PROVIDERS = {
+  '네이버페이': ['네이버페이','네이버파이낸셜','네이버 페이','npay','naver pay'],
+  '카카오페이': ['카카오페이','카카오 페이','kakaopay'],
+  '토스페이':  ['토스페이','토스페이먼츠','토스플레이스','토스','toss pay','tosspay'],
+  '페이코':    ['페이코','payco'],
+  '쿠팡페이':  ['쿠팡페이','coupangpay'],
+  '삼성페이':  ['삼성페이','삼성월렛','삼성 월렛','samsung pay','samsung wallet'],
+  '애플페이':  ['애플페이','애플 페이','apple pay']
+};
+
+const CAT_ORDER = ['전체','네이버페이','카카오페이','토스페이','페이코','쿠팡페이','삼성페이','애플페이','간편결제'];
+const DATE_FILTERS = [
+  {key:'today',label:'오늘'},
+  {key:'yesterday',label:'어제'},
+  {key:'3days',label:'최근 3일'},
+  {key:'7days',label:'최근 7일'},
+  {key:'all',label:'전체'}
+];
+
+let state = { articles:[], dateFilter:'today', catFilter:'전체', error:null };
+
+function classifyTitle(title) {
+  const t = title.toLowerCase();
+  for (const [cat, keywords] of Object.entries(PROVIDERS)) {
+    if (keywords.some(k => t.includes(k.toLowerCase()))) return cat;
+  }
+  return '간편결제';
+}
+
+function stripHtml(s) { return s ? s.replace(/<[^>]*>/g,'') : ''; }
+
+function formatDate(iso) {
+  try {
+    const kst = new Date(new Date(iso).getTime() + 9*60*60*1000);
+    return `${kst.getUTCFullYear()}.${String(kst.getUTCMonth()+1).padStart(2,'0')}.${String(kst.getUTCDate()).padStart(2,'0')} ${String(kst.getUTCHours()).padStart(2,'0')}:${String(kst.getUTCMinutes()).padStart(2,'0')}`;
+  } catch(e) { return ''; }
+}
+
+function kstDateStr(iso) {
+  try {
+    const kst = new Date(new Date(iso).getTime() + 9*60*60*1000);
+    return `${kst.getUTCFullYear()}-${String(kst.getUTCMonth()+1).padStart(2,'0')}-${String(kst.getUTCDate()).padStart(2,'0')}`;
+  } catch(e) { return ''; }
+}
+
+function todayKST() { return kstDateStr(new Date().toISOString()); }
+function daysAgoKST(n) { return kstDateStr(new Date(Date.now()-n*86400000).toISOString()); }
+
+function bestDate(a) { return a.verifiedDate || a.pubDate; }
+
+function getFiltered() {
+  let f = state.articles;
+  if (state.catFilter !== '전체') f = f.filter(a => a.category === state.catFilter);
+  const t = todayKST(), y = daysAgoKST(1);
+  if      (state.dateFilter === 'today')     f = f.filter(a => kstDateStr(bestDate(a)) === t);
+  else if (state.dateFilter === 'yesterday') f = f.filter(a => kstDateStr(bestDate(a)) === y);
+  else if (state.dateFilter === '3days')     f = f.filter(a => kstDateStr(bestDate(a)) >= daysAgoKST(3));
+  else if (state.dateFilter === '7days')     f = f.filter(a => kstDateStr(bestDate(a)) >= daysAgoKST(7));
+  return f.sort((a,b) => new Date(bestDate(b)) - new Date(bestDate(a)));
+}
+
+function getCounts() {
+  const df = (() => {
+    let f = state.articles;
+    const t = todayKST(), y = daysAgoKST(1);
+    if      (state.dateFilter === 'today')     f = f.filter(a => kstDateStr(bestDate(a)) === t);
+    else if (state.dateFilter === 'yesterday') f = f.filter(a => kstDateStr(bestDate(a)) === y);
+    else if (state.dateFilter === '3days')     f = f.filter(a => kstDateStr(bestDate(a)) >= daysAgoKST(3));
+    else if (state.dateFilter === '7days')     f = f.filter(a => kstDateStr(bestDate(a)) >= daysAgoKST(7));
+    return f;
+  })();
+  const counts = {전체: df.length};
+  df.forEach(a => { counts[a.category] = (counts[a.category]||0)+1; });
+  return counts;
+}
+
+function renderStats() {
+  const counts = getCounts();
+  const bar = document.getElementById('statsBar');
+  bar.innerHTML = CAT_ORDER.filter(c => counts[c] > 0).map(c =>
+    `<div class="stat-chip${state.catFilter===c?' active':''}" onclick="setCat('${c}')">
+      ${c} <span class="count">${counts[c]}</span>
+    </div>`
+  ).join('');
+}
+
+function renderDateFilter() {
+  const df = document.getElementById('dateFilter');
+  df.innerHTML = DATE_FILTERS.map(f =>
+    `<button class="df-btn${state.dateFilter===f.key?' active':''}" onclick="setDate('${f.key}')">${f.label}</button>`
+  ).join('');
+}
+
+function renderFeed() {
+  const feed = document.getElementById('feed');
+  const articles = getFiltered();
+  if (!articles.length) {
+    feed.innerHTML = '<div class="empty"><div class="empty-icon">📭</div><div>해당 날짜의 뉴스가 없습니다</div></div>';
+    return;
+  }
+  feed.innerHTML = articles.map(a => {
+    const title = stripHtml(a.title);
+    const desc  = stripHtml(a.description);
+    const date  = formatDate(bestDate(a));
+    const link  = a.link || a.originallink || '#';
+    const src   = a.source || '';
+    return `<div class="article-card ${a.category}">
+      <div class="card-top">
+        <span class="cat-badge">${a.category}</span>
+        ${src ? `<span class="card-source">${src}</span>` : ''}
+        <span class="card-date">${date}</span>
+      </div>
+      <div class="card-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>
+      ${desc ? `<div class="card-desc">${desc}</div>` : ''}
+    </div>`;
+  }).join('');
+}
+
+function setCat(c) { state.catFilter = c; renderStats(); renderFeed(); }
+function setDate(k) { state.dateFilter = k; renderStats(); renderDateFilter(); renderFeed(); }
+
+async function loadData() {
+  document.getElementById('feed').innerHTML = '<div class="loading">📰 데이터 로딩 중...</div>';
+  try {
+    // 캐시 방지를 위해 타임스탬프 파라미터 추가
+    const res = await fetch(`data/news.json?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    state.articles = (data.articles || []).map(a => ({
+      ...a,
+      category: a.category || classifyTitle(a.title || '')
+    }));
+    const lastFetch = data.lastFetch ? formatDate(data.lastFetch) : '알 수 없음';
+    document.getElementById('lastUpdate').textContent = `최종 수집: ${lastFetch} | 총 ${state.articles.length}건`;
+  } catch(e) {
+    state.articles = [];
+    document.getElementById('feed').innerHTML = `
+      <div class="error-banner">
+        ⚠️ 데이터를 불러올 수 없습니다. <code>data/news.json</code> 파일을 확인해주세요.<br>
+        <small>로컬에서 직접 열면 CORS 오류가 발생합니다. GitHub Pages에 배포 후 사용해주세요.</small>
+      </div>
+      <div class="empty"><div class="empty-icon">📭</div><div>뉴스 데이터 없음</div></div>`;
+    document.getElementById('lastUpdate').textContent = '데이터 없음';
+  }
+  renderStats();
+  renderDateFilter();
+  renderFeed();
+}
+
+loadData();
+</script>
+</body>
+</html>
