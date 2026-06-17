@@ -83,12 +83,18 @@ def classify(title: str) -> str:
     return "간편결제"
 
 
-def extract_source(url: str) -> str:
+(url: str) -> str:
     try:
         from urllib.parse import urlparse
         host = urlparse(url).hostname or ""
         host = host.lstrip("www.")
-        return SOURCE_MAP.get(host) or host.split(".")[-2] if "." in host else host
+        if host in SOURCE_MAP:
+            return SOURCE_MAP[host]
+        parts = host.split(".")
+        KR_2ND = {"co.kr", "or.kr", "go.kr", "ac.kr", "ne.kr", "re.kr", "pe.kr", "mil.kr"}
+        if len(parts) >= 3 and ".".join(parts[-2:]) in KR_2ND:
+            return parts[-3]
+        return parts[-2] if len(parts) >= 2 else host
     except Exception:
         return ""
 
