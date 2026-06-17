@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "중국서울관광사무소-유니온페이, 중국내 올인원 결제 서비스 선봬",
+      "link": "https://www.newspim.com/news/view/20260618000135",
+      "originallink": "https://www.newspim.com/news/view/20260618000135",
+      "description": "유니온페이는 최근 한국인들의 중국 여행 편리성을 제고하기 위해 중국내 올인원 간편 결재 시스템을 선보였다.  2026.06.18 chk@newspim.com 한국어를 지원하는 이 앱은 사용자가 이메일 주소, 전화번호 또는 애플 ID를 통해...",
+      "pubDate": "2026-06-17T23:39:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스핌"
+    },
+    {
       "title": "공정위, 두나무·네이버파이낸셜 기업결합 심사 착수",
       "link": "https://www.globale.co.kr/news/articleView.html?idxno=38877",
       "originallink": "https://www.globale.co.kr/news/articleView.html?idxno=38877",
@@ -2458,5 +2467,5 @@
       "source": "newstomato"
     }
   ],
-  "lastFetch": "2026-06-17T23:41:45.457730+00:00"
+  "lastFetch": "2026-06-17T23:47:32.868198+00:00"
 }
