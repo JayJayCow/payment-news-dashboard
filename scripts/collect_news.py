@@ -54,6 +54,7 @@ SOURCE_MAP = {
     "heraldcorp.com": "헤럴드경제", "asiae.co.kr": "아시아경제", "newspim.com": "뉴스핌",
     "thebell.co.kr": "더벨", "bloter.net": "블로터", "venturebeat.com": "VentureBeat",
     "techcrunch.com": "TechCrunch", "m.etnews.com": "전자신문", "news.naver.com": "네이버뉴스",
+    "financialpost.co.kr": "파이낸셜포스트",
 }
 # ──────────────────────────────────────────────────────
 
@@ -83,13 +84,43 @@ def classify(title: str) -> str:
     return "간편결제"
 
 
-(url: str) -> str:
+_domain_name_cache: dict[str, str] = {}
+
+
+def fetch_site_name(url: str) -> str:
+    """기사 페이지의 og:site_name 메타 태그에서 뉴스 매체명을 가져옴"""
+    try:
+        from urllib.parse import urlparse
+        host = urlparse(url).hostname or ""
+        host = host.lstrip("www.")
+        if host in _domain_name_cache:
+            return _domain_name_cache[host]
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=5) as resp:
+            html = resp.read(8192).decode("utf-8", errors="ignore")
+        m = re.search(r'<meta[^>]+property=["\']og:site_name["\'][^>]+content=["\'](.*?)["\']', html, re.I)
+        if not m:
+            m = re.search(r'<meta[^>]+content=["\'](.*?)["\'][^>]+property=["\']og:site_name["\']', html, re.I)
+        name = m.group(1).strip() if m else ""
+        _domain_name_cache[host] = name
+        return name
+    except Exception:
+        return ""
+
+
+def extract_source(url: str) -> str:
+    if not url:
+        return ""
     try:
         from urllib.parse import urlparse
         host = urlparse(url).hostname or ""
         host = host.lstrip("www.")
         if host in SOURCE_MAP:
             return SOURCE_MAP[host]
+        name = fetch_site_name(url)
+        if name:
+            SOURCE_MAP[host] = name
+            return name
         parts = host.split(".")
         KR_2ND = {"co.kr", "or.kr", "go.kr", "ac.kr", "ne.kr", "re.kr", "pe.kr", "mil.kr"}
         if len(parts) >= 3 and ".".join(parts[-2:]) in KR_2ND:
@@ -176,7 +207,6 @@ def merge_and_prune(existing: list[dict], new_items: list[dict]) -> list[dict]:
             id_map[aid] = a
             added += 1
 
-    # 90일 초과 제거
     def is_recent(a: dict) -> bool:
         try:
             dt = datetime.fromisoformat(a.get("pubDate", ""))
@@ -184,7 +214,7 @@ def merge_and_prune(existing: list[dict], new_items: list[dict]) -> list[dict]:
                 dt = dt.replace(tzinfo=timezone.utc)
             return dt >= cutoff
         except Exception:
-            return True  # 날짜 파싱 실패 시 보관
+            return True
 
     result = [a for a in id_map.values() if is_recent(a)]
     result.sort(key=lambda a: a.get("pubDate", ""), reverse=True)
