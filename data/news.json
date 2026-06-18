@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "title": "\"디지털금융 문턱 낮췄다\" 카카오페이, 과기정통부 장관 표창",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=125116",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125116",
+      "description": "카카오페이가 지난 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 개최된 '제39회 정보문화의 달 기념식'에서 정보문화 유공 정부포상 과학기술정보통신부(과기정통부) 장관 표창을 받았다. '사각사각 페이스쿨...",
+      "pubDate": "2026-06-18T01:20:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오페이, 시니어 디지털 정보격차 해소 공로로 과기부 장관 표창 수...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=526715",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=526715",
+      "description": "|중앙이코노미뉴스 김수현 기자|카카오페이(대표 신원근)는 지난 17일 '제39회 정보문화의 달 기념식'에서 과학기술정보통신부 장관 표창을 수상했다고 18일 밝혔다. [카카오페이 ci]  카카오페이(대표 신원근)는 지난 17일...",
+      "pubDate": "2026-06-18T01:20:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이, 고령층 디지털 격차 해소 인정받았다",
+      "link": "https://n.news.naver.com/mnews/article/001/0016145345?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260618062800017?input=1195m",
+      "description": "'사각사각 페이스쿨' 운영 성과로 과기부 장관표창 카카오페이는 시니어 디지털 정보격차 해소와 포용적 금융 문화 확산에 기여한 공로로 과학기술정보통신부 장관 표창을 받았다고 18일 밝혔다. 카카오페이는 고령층의...",
+      "pubDate": "2026-06-18T01:19:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오페이, 시니어 디지털 금융교육 공로로 과기부 장관 표창",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676107",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676107",
+      "description": "카카오페이의 '사각사각 페이스쿨' 시니어 클래스 강의 현장. [사진: 카카오페이] 카카오페이가 시니어 디지털 정보격차 해소와 포용적 금융문화 확산에 기여한 공로로 과학기술정보통신부 장관 표창을 받았다....",
+      "pubDate": "2026-06-18T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오페이, 시니어 디지털 금융교육 성과…과기부 장관 표창",
+      "link": "https://n.news.naver.com/mnews/article/003/0014013259?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260618_0003673954",
+      "description": "카카오페이가 고령층의 디지털 금융 소외 해소를 위해 운영해 온 금융교육 프로그램 '사각사각 페이스쿨'의 성과를 인정받아 과학기술정보통신부 장관 표창을 수상했다. 카카오페이는 전날 서울 마포구 누리꿈스퀘어...",
+      "pubDate": "2026-06-18T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이, 정보문화 유공 장관 표창 수상…시니어 금융교육 공로 인정",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82286",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=82286",
+      "description": "인더스트리뉴스 이주엽 기자  카카오페이가 시니어층의 디지털 정보격차 해소와 포용적 금융문화 확산에 기여한 공로를 인정받아 정부 표창을 수상했다. 카카오페이는 지난 17일 서울 마포구 누리꿈스퀘어...",
+      "pubDate": "2026-06-18T01:08:00+00:00",
+      "category": "카카오페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "채비·KT, AI 기반 충전 플랫폼 협력 추진…영상 관제·간편결제·AI 고객...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461088",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461088",
+      "description": "채비 앱에 KT 휴대폰 결제 서비스를 연동해 별도 결제수단 등록 없이 간편하게 충전요금을 결제할 수 있도록 하고, KT 전용 상품 출시와 공동 마케팅으로 고객 혜택을 확대할 예정이다. 스마트시티·공공사업...",
+      "pubDate": "2026-06-18T00:54:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
       "title": "카카오페이, 과기정통부 장관 표창…\"고령층 디지털 정보 격차 해소\"",
       "link": "https://n.news.naver.com/mnews/article/421/0009010017?sid=101",
       "originallink": "https://www.news1.kr/it-science/internet-platform/6200954",
@@ -109,15 +172,6 @@
       "source": "비즈월드뉴스"
     },
     {
-      "title": "카카오페이손해보험, 반려동물 실종 알림부터 구조까지 연계 강화",
-      "link": "http://www.sisacast.kr/news/articleView.html?idxno=96815",
-      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=96815",
-      "description": "카카오페이손해보험이 지해피독과 협력해 실종 반려동물 발견과 구조를 지원하는 체계를 강화한다.사진=카카오페이손해보험  카카오페이손해보험이 유실동물 구조지원 단체 지해피독과 협력해 실종 반려동물 발견과...",
-      "pubDate": "2026-06-17T10:42:00+00:00",
-      "category": "카카오페이",
-      "source": "시사캐스트"
-    },
-    {
       "title": "[보험단신] 삼성화재·삼성생명·NH농협생명·미래에셋생명·카카오페이...",
       "link": "https://daily.hankooki.com/news/articleView.html?idxno=1377522",
       "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1377522",
@@ -125,15 +179,6 @@
       "pubDate": "2026-06-17T08:56:00+00:00",
       "category": "카카오페이",
       "source": "데일리한국"
-    },
-    {
-      "title": "[보험업계 소식] 삼성생명, NH농협생명, 삼성화재, 카카오페이손해보험",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=262928",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=262928",
-      "description": "◆카카오페이손해보험, 지해피독과 ﻿실종 반려동물 찾기 지원 강화 카카오페이손해보험은 유실동물 구조지원 단체 지해피독과 업무협약을 맺고 '실종 반려동물 찾기 협력체계'를 구축했다고 17일 밝혔다....",
-      "pubDate": "2026-06-17T08:50:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜포스트"
     },
     {
       "title": "두나무, 네이버페이 비상장 지분 294억원에 매각",
@@ -154,15 +199,6 @@
       "source": "SBS Biz"
     },
     {
-      "title": "공정위, 증권사에 '두나무-네이버파이낸셜간 합병' 의견 조회 이유는?",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=205186",
-      "originallink": "https://www.tfmedia.co.kr/news/article.html?no=205186",
-      "description": "최근 다수의 증권사를 대상으로 두나무-네이버파이낸셜간 기업결합에 대한 의견을 요청한 것으로 알려졌다. [사진출처=연합뉴스] 작년 11월 27일 열린 네이버, 네이버페이, 두나무간 공동 기자간담회 [사진출처=네이버]",
-      "pubDate": "2026-06-17T08:40:00+00:00",
-      "category": "네이버페이",
-      "source": "더팩트"
-    },
-    {
       "title": "페이스페이 키우는 토스, 이번엔 맛집앱...오프라인 생태계 키운다",
       "link": "https://www.insight.co.kr/news/559032",
       "originallink": "https://www.insight.co.kr/news/559032",
@@ -179,15 +215,6 @@
       "pubDate": "2026-06-17T08:20:00+00:00",
       "category": "쿠팡페이",
       "source": "뉴시스"
-    },
-    {
-      "title": "카카오페이손보, 지해피독과 손잡고 실종 반려동물 찾기 지원 강화",
-      "link": "https://n.news.naver.com/mnews/article/374/0000516664?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000317200?division=NAVER",
-      "description": "카카오페이손해보험이 유실동물 구조지원 단체 지해피독과 업무협약을 맺고 실종 반려동물 찾기 지원 강화에 나섭니다. 카카오페이손해보험은 펫보험 가입자를 대상으로 실종견·실종묘 정보를 공유하고 제보를 받을 수...",
-      "pubDate": "2026-06-17T08:15:00+00:00",
-      "category": "카카오페이",
-      "source": "SBS Biz"
     },
     {
       "title": "네이버페이, 오프라인 가맹점주와 소통 나섰다…‘Npay & 사장님’ 개최",
@@ -370,15 +397,6 @@
       "source": "이코노미사이언스"
     },
     {
-      "title": "[금융레이더]BNK경남은행/iM뱅크/토스뱅크/NH농협생명/삼성생명/농협손...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171227167510692",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171227167510692",
-      "description": "◆카카오페이손보, 지해피독과 실종 반려동물 찾기 협약 카카오페이손해보험이 유실동물 구조지원 단체 지해피독과 실종 반려동물 찾기 지원을 위한 업무협약을 체결했다고 17일 밝혔다. 카카오페이손해보험은...",
-      "pubDate": "2026-06-17T04:20:00+00:00",
-      "category": "토스페이",
-      "source": "대한경제"
-    },
-    {
       "title": "금감원, 개인정보 유출·고금리 대출 쿠팡페이·쿠팡파이낸셜 제재 착수",
       "link": "https://www.livebiz.today/news/articleView.html?idxno=202681",
       "originallink": "https://www.livebiz.today/news/articleView.html?idxno=202681",
@@ -433,15 +451,6 @@
       "source": "한국NGO신문"
     },
     {
-      "title": "카카오페이손보, 실종반려동물 카톡으로 찾는다…'같이찾개' 지원 강화",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263607",
-      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263607",
-      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이손해보험)  카카오페이손해보험이 반려동물 실종 시 카카오톡을 통한 신속한 정보 전파와 현장 수색 지원을 통해 실종 반려동물과 보호자의 빠른 재회를 돕는 안전망 강화에...",
-      "pubDate": "2026-06-17T02:26:00+00:00",
-      "category": "카카오페이",
-      "source": "화이트페이퍼"
-    },
-    {
       "title": "금융당국, 쿠팡페이·쿠팡파이낸셜 제재 착수",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000043151",
       "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000043151",
@@ -460,15 +469,6 @@
       "source": "연합뉴스"
     },
     {
-      "title": "카카오페이손해보험, 지해피독과 함께 '실종 반려동물 찾기' 협력 나선...",
-      "link": "https://n.news.naver.com/mnews/article/243/0000099237?sid=101",
-      "originallink": "https://economist.co.kr/article/view/ecn202606170018",
-      "description": "카카오페이손해보험(대표 장영근)이 유실동물 구조지원 단체 지해피독(대표 송유정)과 업무협약(MOU)을 체결하고 실종 반려동물 찾기 지원 체계를 강화한다. 카카오페이손해보험은 펫보험 가입자를 대상으로 실종견...",
-      "pubDate": "2026-06-17T02:08:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노미스트"
-    },
-    {
       "title": "\"젠슨황 반한 네이버페이 커넥트 어때요\"…가맹점 간담회",
       "link": "https://n.news.naver.com/mnews/article/421/0009008039?sid=101",
       "originallink": "https://www.news1.kr/it-science/internet-platform/6199839",
@@ -476,33 +476,6 @@
       "pubDate": "2026-06-17T01:54:00+00:00",
       "category": "네이버페이",
       "source": "뉴스1"
-    },
-    {
-      "title": "제보에서 구조까지…카카오페이손보, 실종 반려동물 찾기 지원 강화",
-      "link": "https://n.news.naver.com/mnews/article/003/0014010941?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20260617_0003672224",
-      "description": "카카오페이손해보험이 펫보험 가입자를 대상으로 제공하는 반려동물 실종 알림 서비스 '같이찾개'에 현장 수색과 구조 역량을 더해 실종 반려동물의 빠른 복귀를 돕는 체계 강화에 나선다. 카카오페이손보는 유실동물...",
-      "pubDate": "2026-06-17T01:41:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "카카오페이손보 \"실종 반려동물 신속 구조 돕는다\"",
-      "link": "https://n.news.naver.com/mnews/article/014/0005536007?sid=101",
-      "originallink": "http://www.fnnews.com/news/202606171037375293",
-      "description": "카카오페이손해보험이 유실동물 구조지원 단체 지해피독과 업무협약(MOU)을 체결하고 실종 반려동물 구조 지원에 나선다고 17일 밝혔다. 이번 협약은 카카오페이손해보험의 반려동물 실종 알림 서비스 '같이찾개'와...",
-      "pubDate": "2026-06-17T01:40:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "카카오페이손해보험, 실종견·묘 구조 협력 체계 구축",
-      "link": "http://www.lawissue.co.kr/view.php?ud=2026061710372734429817d053b9_12",
-      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026061710372734429817d053b9_12",
-      "description": "카카오페이손해보험이 유실동물 구조지원 단체 지해피독과 협력해 실종 반려동물 찾기 지원을 확대한다고 17일 밝혔다. 카카오페이손해보험에 따르면 펫보험 가입자를 통해 접수된 실종 동물 정보를 카카오톡으로...",
-      "pubDate": "2026-06-17T01:38:00+00:00",
-      "category": "카카오페이",
-      "source": "로이슈"
     },
     {
       "title": "공정위, 두나무-네이버파이낸셜 결합 심사 본격화...증권사들 \"플랫폼 ...",
@@ -523,15 +496,6 @@
       "source": "공감신문"
     },
     {
-      "title": "“잃어버린 반려동물, 카톡으로 찾는다”... 카카오페이손보, '같이찾개...",
-      "link": "https://n.news.naver.com/mnews/article/123/0002384872?sid=101",
-      "originallink": "http://www.joseilbo.com/news/news_read.php?uid=570193&class=18&grp=",
-      "description": "카카오페이손해보험이 반려동물 실종 시 신속한 정보 전파와 현장 수색을 함께 지원하는 협력 체계를 구축한다. 펫보험 가입자를 대상으로 운영 중인 실종 반려동물 알림 서비스에 유실동물 구조 전문 단체의 현장 대응...",
-      "pubDate": "2026-06-17T01:31:00+00:00",
-      "category": "카카오페이",
-      "source": "조세일보"
-    },
-    {
       "title": "공정위, 두나무·네이버파이낸셜 결합 심사 본격화…증권사 18곳에 의견...",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460779",
       "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460779",
@@ -539,15 +503,6 @@
       "pubDate": "2026-06-17T01:30:00+00:00",
       "category": "네이버페이",
       "source": "핀포인트뉴스"
-    },
-    {
-      "title": "실종 반려동물 구조망 넓힌다···카카오페이손보, 지해피독과 협력",
-      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=88829",
-      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=88829",
-      "description": "카카오페이손해보험은 유실동물 구조지원 단체 지해피독과 업무협약(MOU)을 하고 실종 반려동물 발견과 보호자 재회를 지원하기 위한 협력 체계를 구축한다고 17일 밝혔다. 이번 협약은 카카오페이손해보험의 반려동물...",
-      "pubDate": "2026-06-17T01:22:00+00:00",
-      "category": "카카오페이",
-      "source": "더리포트"
     },
     {
       "title": "공정위, 증권사들에 두나무·네이버파이낸셜 합병 의견 조회",
@@ -730,15 +685,6 @@
       "source": "연합뉴스"
     },
     {
-      "title": "[금융레이더]토스뱅크/삼성화재/AXA손보/DB손보/신한라이프/교보라이프...",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606160903044990469",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606160903044990469",
-      "description": "◆토스뱅크, 신용대출 한도 조정 토스뱅크가 안정적인 가계대출 관리와 건전성 강화를 위해 신규 가계... ◆카카오페이, 여름맞이 6월 결제 혜택 공개 카카오페이가 6월 여름 소비 시즌을 맞아 무신사, 투썸플레이스...",
-      "pubDate": "2026-06-16T00:20:00+00:00",
-      "category": "토스페이",
-      "source": "대한경제"
-    },
-    {
       "title": "[핀테크핫이슈] 韓 증시 역대급 변동성...빗장 풀린 금융 망분리 규제",
       "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675142",
       "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675142",
@@ -746,15 +692,6 @@
       "pubDate": "2026-06-15T22:30:00+00:00",
       "category": "간편결제",
       "source": "디지털투데이 (DigitalToday)"
-    },
-    {
-      "title": "[단독]토스뱅크, 신용대출 최대 한도 1억원으로 제한",
-      "link": "https://n.news.naver.com/mnews/article/417/0001147635?sid=101",
-      "originallink": "https://www.sidae.com/article/2026061523180641442",
-      "description": "우리은행은 토스·카카오페이·네이버파이낸셜·핀다·뱅크샐러드 등 대출 비교 플랫폼을 통한 신규 및 갈아타기 신용대출 접수를 중단했다. KB국민은행은 마이너스통장을 신규 개설할 때 한도를 5000만원으로 제한한다....",
-      "pubDate": "2026-06-15T14:24:00+00:00",
-      "category": "토스페이",
-      "source": "동행미디어 시대"
     },
     {
       "title": "\"휴대폰도 안 꺼낸다\" … 토스·네이버 '얼굴 결제' 경쟁 본격화",
@@ -908,15 +845,6 @@
       "pubDate": "2026-06-12T05:26:00+00:00",
       "category": "카카오페이",
       "source": "CBC뉴스 | CBCNEWS"
-    },
-    {
-      "title": "쿠팡엔 6247억·카카오페이엔 60억…개인정보 과징금, 위험보다 매출이...",
-      "link": "https://www.cnbizm.com/news/articleView.html?idxno=305354",
-      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=305354",
-      "description": "단순 비교하면 개인정보가 관련된 이용자 수는 카카오페이가 쿠팡보다 많고, 금융정보와 결제정보가 포함됐으며, 해외 사업자로의 이전까지 이뤄졌다. 그럼에도 과징금 규모는 쿠팡의 약 100분의 1 수준이다. 비슷한...",
-      "pubDate": "2026-06-12T05:20:00+00:00",
-      "category": "카카오페이",
-      "source": "문화경제"
     },
     {
       "title": "토스플레이스, 예비 외식 창업자 대상 결제 실습 지원",
@@ -1088,15 +1016,6 @@
       "pubDate": "2026-06-11T11:23:00+00:00",
       "category": "카카오페이",
       "source": "세계일보"
-    },
-    {
-      "title": "[금융·경제 트렌드] 토스뱅크, 체크카드 발급 연령 만 7세로 확대… \"아...",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=151998",
-      "originallink": "https://www.ibabynews.com/news/articleView.html?idxno=151998",
-      "description": "◇ 토스뱅크, 체크카드 발급 연령 만 7세로 확대… \"아이 금융 경험 조기 지원\" 만 7세 이상도 토스뱅크... 없이 간편결제를 이용할 수 있는 서비스다. 이와 함께 방한 외국인이 자국 화폐로 충전해 국내에서 사용할 수 있는...",
-      "pubDate": "2026-06-11T10:48:00+00:00",
-      "category": "토스페이",
-      "source": "베이비뉴스"
     },
     {
       "title": "중국 알리페이에 고객정보 넘긴 카카오페이‥법원 \"과징금 60억 원 적법...",
@@ -1288,15 +1207,6 @@
       "source": "뉴스투데이"
     },
     {
-      "title": "토스뱅크, 만 7세 이상 체크카드 발급…초등학생 체크카드 시대 열어",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000096525",
-      "originallink": "https://www.seoultimes.news/news/article.html?no=2000096525",
-      "description": "앱에서 간편 신청…영업점 방문·서류 제출 없이 처리 청소년 유해업종 결제 제한 적용…안전한 금융 경험 지원 [서울타임즈뉴스 = 최남주 기자] 토스뱅크가 체크카드 발급 가능 연령을 만 7세 이상으로 확대하며 어린이...",
-      "pubDate": "2026-06-11T07:45:00+00:00",
-      "category": "토스페이",
-      "source": "seoultimes"
-    },
-    {
       "title": "알리페이에 고객정보 준 카카오페이…법원 \"과징금 60억원 적법\"(종합)",
       "link": "https://n.news.naver.com/mnews/article/001/0016133876?sid=102",
       "originallink": "https://www.yna.co.kr/view/AKR20260611120751004?input=1195m",
@@ -1411,7 +1321,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -2404,15 +2314,6 @@
       "source": "게임뷰"
     },
     {
-      "title": "\"매장 결제 주도권 잡아라\" 네이버-토스부터 카카오페이까지...오프라인...",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=151164",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=151164",
-      "description": "그러나 오프라인 간편결제 시장은 삼성페이를 앞세운 삼성월렛이 점유율 42%로 여전히 주도권을 쥐고 있고, 핀테크 업계가 이를 따라가는 모양새다. 온라인에서 네이버페이(51%), 카카오페이(25%), 토스페이(13%) 순으로...",
-      "pubDate": "2026-04-20T00:26:00+00:00",
-      "category": "카카오페이",
-      "source": "테크M"
-    },
-    {
       "title": "토스, 네카오 다음 혁신이 될까 [김현아의 IT세상읽기]",
       "link": "https://n.news.naver.com/mnews/article/018/0006255808?sid=105",
       "originallink": "http://www.edaily.co.kr/news/newspath.asp?newsid=02597766645415464",
@@ -2472,7 +2373,7 @@
       "originallink": "https://news.dealsitetv.com/articles/168052",
       "description": "인터넷 전문은행인 토스뱅크는 삼성페이 수수료 문제에서 자유롭다. 토스뱅크는 국내 3대 결제대행업체(PG사) 토스페이먼츠, 결제단말기 계열사 토스플레이스 등과 연계해 시너지를 낼 수 있다. 이미 토스페이먼츠는 NHN...",
       "pubDate": "2026-04-03T23:08:00+00:00",
-      "category": "토스페이",
+      "category": "삼성페이",
       "source": "dealsitetv"
     },
     {
@@ -2482,7 +2383,7 @@
       "description": "네이버페이가 포인트 적립형 캐릭터 서비스 ‘페이펫’의 꾸미기 기능과 게임 콘텐츠를 대폭 늘렸고, 토스페이먼츠는 국내 금융·IT 업계 최초로 양자내성암호를 전면 도입하며 차세대 결제 보안 체계 구축에 나섰다. NHN...",
       "pubDate": "2026-04-03T06:34:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "토스 호주 시장 공략 본격화…상장 앞두고 몸집 키운다",
@@ -2512,5 +2413,5 @@
       "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-18T00:54:26.394977+00:00"
+  "lastFetch": "2026-06-18T01:30:43.481529+00:00"
 }
