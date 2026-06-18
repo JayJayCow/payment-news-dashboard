@@ -88,7 +88,12 @@ SOURCE_MAP = {
 
 def strip_html(s: str) -> str:
     s = re.sub(r"<[^>]+>", "", s or "")
-    s = s.replace("&quot;", '"').replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&#39;", "'")
+    # 이중 인코딩(&amp;quot; 등) 대응: 안정화될 때까지 반복 디코딩
+    for _ in range(3):
+        prev = s
+        s = s.replace("&quot;", '"').replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&#39;", "'")
+        if s == prev:
+            break
     return s.strip()
 
 
