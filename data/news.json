@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "카카오페이, 과기정통부 장관 표창…\"고령층 디지털 정보 격차 해소\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009010017?sid=101",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6200954",
+      "description": "카카오페이(377300)가 고령층의 디지털 정보 격차 해소와 포용적 금융 문화 확산에 기여한 공로를 인정받아 정부 표창을 수상했다. 카카오페이는 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 열린 '제39회 정보문화의 달...",
+      "pubDate": "2026-06-18T00:47:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이, 시니어 금융교육 공로 인정…과기정통부 장관 표창 수상",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000096756",
+      "originallink": "https://www.seoultimes.news/news/article.html?no=2000096756",
+      "description": "'사각사각 페이스쿨' 통해 고령층 디지털 금융 이용 지원 전국 50개 복지관서 운영…중장년 강사 참여형 교육 모델 정착 금융 소외 해소 넘어 사회참여 확대·일자리 창출 효과 [서울타임즈뉴스 = 허성미 기자] 카카오페이가...",
+      "pubDate": "2026-06-18T00:39:00+00:00",
+      "category": "카카오페이",
+      "source": "seoultimes"
+    },
+    {
+      "title": "카카오페이, 과기부장관 표창수상…\"시니어 디지털 정보격차 해소공로...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005778009?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026061809273348123",
+      "description": "카카오페이는 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 열린 '제39회 정보문화의 달 기념식'에서 정보문화 유공 정부포상 과학기술정보통신부 장관 표창을 수상했다고 18일 밝혔다. 과기정통부는 건전한 정보문화...",
+      "pubDate": "2026-06-18T00:27:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아경제"
+    },
+    {
       "title": "카카오페이, 시니어 디지털 금융교육 공로 인정···과기정통부 장관 ...",
       "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695103",
       "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695103",
@@ -2485,5 +2512,5 @@
       "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-18T00:18:17.289655+00:00"
+  "lastFetch": "2026-06-18T00:54:26.394977+00:00"
 }
