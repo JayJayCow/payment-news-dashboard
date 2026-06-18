@@ -4,7 +4,7 @@
 - 네이버 뉴스 Search API 사용
 - 매일 실행하여 data/news.json에 누적 저장 (90일 보관)
 """
- 
+
 import os
 import json
 import re
@@ -13,13 +13,13 @@ import urllib.parse
 from datetime import datetime, timezone, timedelta
 from email.utils import parsedate_to_datetime
 from pathlib import Path
- 
+
 # ─── 설정 ─────────────────────────────────────────────
 CLIENT_ID     = os.environ["NAVER_CLIENT_ID"]
 CLIENT_SECRET = os.environ["NAVER_CLIENT_SECRET"]
 DATA_FILE     = Path(__file__).parent.parent / "data" / "news.json"
 KEEP_DAYS     = 90
- 
+
 SEARCH_QUERIES = [
     "네이버페이",
     "네이버파이낸셜",
@@ -33,7 +33,7 @@ SEARCH_QUERIES = [
     "애플페이",
     "간편결제",
 ]
- 
+
 PROVIDERS = {
     "네이버페이": ["네이버페이", "네이버파이낸셜", "네이버 페이", "npay", "naver pay"],
     "카카오페이": ["카카오페이", "카카오 페이", "kakaopay"],
@@ -43,7 +43,7 @@ PROVIDERS = {
     "삼성페이":  ["삼성페이", "삼성월렛", "삼성 월렛", "samsung pay", "samsung wallet"],
     "애플페이":  ["애플페이", "애플 페이", "apple pay"],
 }
- 
+
 SOURCE_MAP = {
     "hankyung.com": "한국경제", "mk.co.kr": "매일경제", "chosun.com": "조선일보",
     "joongang.co.kr": "중앙일보", "donga.com": "동아일보", "hani.co.kr": "한겨레",
@@ -84,14 +84,14 @@ SOURCE_MAP = {
     "bizwnews.com": "비즈월드뉴스", "kdfnews.com": "한국면세뉴스",
 }
 # ──────────────────────────────────────────────────────
- 
- 
+
+
 def strip_html(s: str) -> str:
     s = re.sub(r"<[^>]+>", "", s or "")
     s = s.replace("&quot;", '"').replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">").replace("&#39;", "'")
     return s.strip()
- 
- 
+
+
 def parse_pub_date(s: str) -> str:
     """RSS pubDate → ISO 8601 UTC 문자열"""
     try:
@@ -103,13 +103,13 @@ def parse_pub_date(s: str) -> str:
         return datetime.fromisoformat(s).isoformat()
     except Exception:
         return s
- 
- 
+
+
 def keyword_match(keyword: str, text: str) -> bool:
     """키워드가 다른 한글 단어 중간에 포함된 경우 제외 (예: '미토스'에서 '토스' 오인식 방지)"""
     return bool(re.search(r'(?<![가-힣])' + re.escape(keyword.lower()), text, re.I))
- 
- 
+
+
 def classify(title: str) -> str:
     t = title.lower()
     for cat, keywords in PROVIDERS.items():
@@ -119,11 +119,11 @@ def classify(title: str) -> str:
     if any(k in t for k in ["간편결제", "핀테크", "간편 결제", "결제 서비스", "결제 시장", "결제 업계", "결제 플랫폼"]):
         return "간편결제"
     return ""  # 무관 기사
- 
- 
+
+
 _domain_name_cache: dict[str, str] = {}
- 
- 
+
+
 def fetch_site_name(url: str) -> str:
     """기사 페이지의 og:site_name 메타 태그에서 뉴스 매체명을 가져옴"""
     try:
@@ -143,8 +143,8 @@ def fetch_site_name(url: str) -> str:
         return name
     except Exception:
         return ""
- 
- 
+
+
 def extract_source(url: str) -> str:
     if not url:
         return ""
@@ -165,8 +165,8 @@ def extract_source(url: str) -> str:
         return parts[-2] if len(parts) >= 2 else host
     except Exception:
         return ""
- 
- 
+
+
 def search_naver(query: str, display: int = 100) -> list[dict]:
     url = (
         "https://openapi.naver.com/v1/search/news.json?"
@@ -182,16 +182,16 @@ def search_naver(query: str, display: int = 100) -> list[dict]:
     except Exception as e:
         print(f"  [WARN] 검색 실패 '{query}': {e}")
         return []
- 
- 
+
+
 def make_id(item: dict) -> str:
     return item.get("originallink") or item.get("link") or item.get("title", "")
- 
- 
+
+
 def collect_all() -> list[dict]:
     seen_ids: set[str] = set()
     articles: list[dict] = []
- 
+
     for q in SEARCH_QUERIES:
         print(f"  검색: {q}")
         items = search_naver(q)
@@ -200,7 +200,7 @@ def collect_all() -> list[dict]:
             if aid in seen_ids:
                 continue
             seen_ids.add(aid)
- 
+
             title = strip_html(item.get("title", ""))
             category = classify(title)
             if not category:
@@ -214,11 +214,11 @@ def collect_all() -> list[dict]:
                 "category":     category,
                 "source":       extract_source(item.get("originallink", "") or item.get("link", "")),
             })
- 
+
     print(f"  수집 완료: {len(articles)}건 (중복 제거 후)")
     return articles
- 
- 
+
+
 def load_existing() -> tuple[list[dict], str | None]:
     if not DATA_FILE.exists():
         return [], None
@@ -229,24 +229,24 @@ def load_existing() -> tuple[list[dict], str | None]:
     except Exception as e:
         print(f"  [WARN] 기존 데이터 로드 실패: {e}")
         return [], None
- 
- 
+
+
 def merge_and_prune(existing: list[dict], new_items: list[dict]) -> list[dict]:
     """기존 + 신규 병합, 중복 제거, 90일 초과 항목 제거"""
     cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
     id_map: dict[str, dict] = {}
- 
+
     for a in existing:
         aid = a.get("originallink") or a.get("link") or a.get("title", "")
         id_map[aid] = a
- 
+
     added = 0
     for a in new_items:
         aid = a.get("originallink") or a.get("link") or a.get("title", "")
         if aid not in id_map:
             id_map[aid] = a
             added += 1
- 
+
     # 90일 초과 제거
     def is_recent(a: dict) -> bool:
         try:
@@ -256,42 +256,53 @@ def merge_and_prune(existing: list[dict], new_items: list[dict]) -> list[dict]:
             return dt >= cutoff
         except Exception:
             return True  # 날짜 파싱 실패 시 보관
- 
+
     result = [a for a in id_map.values() if is_recent(a)]
     result.sort(key=lambda a: a.get("pubDate", ""), reverse=True)
     print(f"  +{added}건 추가 / 총 {len(result)}건 보관")
     return result
- 
- 
+
+
 def save(articles: list[dict]) -> None:
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
     now_iso = datetime.now(timezone.utc).isoformat()
     with DATA_FILE.open("w", encoding="utf-8") as f:
         json.dump({"articles": articles, "lastFetch": now_iso}, f, ensure_ascii=False, indent=2)
     print(f"  저장 완료 → {DATA_FILE}  ({len(articles)}건, lastFetch={now_iso})")
- 
- 
+
+
 def main():
     print("=== 간편결제 뉴스 수집 시작 ===")
     existing, last_fetch = load_existing()
     print(f"  기존 데이터: {len(existing)}건  (마지막 수집: {last_fetch})")
- 
-    # 기존 기사 재분류: 분류 로직 변경 시 이전 데이터에도 자동 적용
+
+    # 기존 기사 재분류 + 제목 HTML 엔티티 디코딩 + 출처명 재추출
     reclassified = []
     for a in existing:
+        # 제목/설명 HTML 엔티티 디코딩
+        a["title"] = strip_html(a.get("title", ""))
+        a["description"] = strip_html(a.get("description", ""))
         cat = classify(a.get("title", ""))
-        if cat:
-            a["category"] = cat
-            reclassified.append(a)
+        if not cat:
+            continue
+        a["category"] = cat
+        # 출처명이 영문 소문자 도메인처럼 보이면 재추출
+        src = a.get("source", "")
+        if src and src == src.lower() and src.replace("-", "").replace(".", "").isalnum() and len(src) < 30:
+            url = a.get("originallink", "") or a.get("link", "")
+            new_src = extract_source(url)
+            if new_src:
+                a["source"] = new_src
+        reclassified.append(a)
     removed = len(existing) - len(reclassified)
     if removed:
         print(f"  재분류 후 무관 기사 {removed}건 제거")
- 
+
     new_items = collect_all()
     merged = merge_and_prune(reclassified, new_items)
     save(merged)
     print("=== 완료 ===")
- 
- 
+
+
 if __name__ == "__main__":
     main()
