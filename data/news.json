@@ -1,6 +1,285 @@
 {
   "articles": [
     {
+      "title": "카카오페이, 시니어 디지털 금융 지원 전국으로 확산",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=96867",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=96867",
+      "description": "카카오페이의 '사각사각 페이스쿨' 시니어 클래스 강의 현장. 사진=카카오페이  디지털 금융 서비스가 일상화되면서 정보 접근성과 활용 능력에 따른 격차 해소가 새로운 과제로 떠오르고 있다. 금융 플랫폼 기업들도 단순...",
+      "pubDate": "2026-06-18T09:18:00+00:00",
+      "category": "카카오페이",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "중기중앙회·간편결제진흥원 노란우산 가입확산 MOU",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=912293",
+      "originallink": "http://www.cctimes.kr/news/articleView.html?idxno=912293",
+      "description": "중소기업중앙회는 18일 여의도 중기중앙회에서 (재)한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다. /중소기업중앙회 제공",
+      "pubDate": "2026-06-18T08:08:00+00:00",
+      "category": "간편결제",
+      "source": "충청타임즈"
+    },
+    {
+      "title": "“하루 1.3조원 선불결제 시장 잡아라”…선불·포인트 업계, 디지털 결...",
+      "link": "https://n.news.naver.com/mnews/article/030/0003439132?sid=101",
+      "originallink": "https://www.etnews.com/20260618000421",
+      "description": "선불결제 시장 규모가 하루 1조3000억원을 넘어선 가운데 선불사업자와 포인트, 간편결제 업계가 디지털 결제 전환과 생태계 확대를 위한 협력 방안 모색에 나섰다. BK C&C는 최근 서울 강남구 컬처랜드타워 씨스퀘어(C...",
+      "pubDate": "2026-06-18T08:04:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "중기중앙회-간편결제진흥원, 노란우산 가입 확대",
+      "link": "http://amenews.kr/news/view.php?idx=67127",
+      "originallink": "http://amenews.kr/news/view.php?idx=67127",
+      "description": "중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 협약식에는 이창호 중기중앙회 공제사업단장과...",
+      "pubDate": "2026-06-18T08:04:00+00:00",
+      "category": "간편결제",
+      "source": "신소재경제신문"
+    },
+    {
+      "title": "중기중앙회·간편결제진흥원 '노란우산 가입확산' 협력키로",
+      "link": "https://n.news.naver.com/mnews/article/015/0005300274?sid=101",
+      "originallink": "https://www.hankyung.com/article/202606184942i",
+      "description": "중소기업중앙회는 18일 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 이번 협약을 통해 양 기관은 전국 200만 제로페이...",
+      "pubDate": "2026-06-18T07:39:00+00:00",
+      "category": "간편결제",
+      "source": "한국경제"
+    },
+    {
+      "title": "중기중앙회·간편결제진흥원 맞손…200만 가맹점에 노란우산 알린다",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1382975",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1382975",
+      "description": "좌 4번째부터 이창호 중기중앙회 공제사업단장, 권대수 (재)한국간편결제진흥원 이사장. 사진= 중기중앙회 제공 매일일보 = 이지완 기자  |  중소기업중앙회와 한국간편결제진흥원이 소기업·소상공인의 사회안전망...",
+      "pubDate": "2026-06-18T07:16:00+00:00",
+      "category": "간편결제",
+      "source": "매일일보"
+    },
+    {
+      "title": "카카오페이, 시니어 금융교육 공로로 과기정통부 장관 표창 수상한 내용...",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=432028",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=432028",
+      "description": "카카오페이는 지난 17일 누리꿈스퀘어 국제회의실에서 열린 '제39회 정보문화의 달 기념식'에서 정보문화 유공 정부포상인 과학기술정보통신부 장관 표창을 받았다고 18일 밝혔다. 과학기술정보통신부는 건전한 정보문화...",
+      "pubDate": "2026-06-18T07:02:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "카카오페이, 시니어 디지털 정보격차 해소 공로로 '과기부 장관 표창' 수...",
+      "link": "https://n.news.naver.com/mnews/article/374/0000516872?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000317433?division=NAVER",
+      "description": "카카오페이가 시니어 디지털 정보격차 해소와 포용적 금융 문화 확산에 기여한 공로를 인정받아 정부 표창을 수상했습니다. 카카오페이는 어제(17일) 서울 마포구 누리꿈스퀘어 국제회의실에서 열린 ‘제39회 정보문화의...",
+      "pubDate": "2026-06-18T06:15:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "[금융체크] NH농협금융·SBI저축은행·카카오페이 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=138946",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=138946",
+      "description": "카카오페이의 '사각사각 페이스쿨' 시니어 클래스 강의 현장이다. 사진=카카오페이 ◆ 카카오페이, '과기부 장관 표창' 수상…시니어 디지털 정보격차 해소 카카오페이(대표 신원근)는 '제39회 정보문화의 달 기념식...",
+      "pubDate": "2026-06-18T06:14:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "중기중앙회-간편결제진흥원, 노란우산공제사업 업무협약 체결",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461213",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461213",
+      "description": "(왼쪽 네 번째부터) 이창호 중기중앙회 공제사업단장, 권대수 (재)한국간편결제진흥원 이사장. 사진= 중기중앙회. 전국 200만 제로페이 가맹점 소상공인들이 별도의 창구 방문 없이 스마트폰 터치 몇 번만으로 대표적인...",
+      "pubDate": "2026-06-18T06:04:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "두나무, 네이버페이비상장 지분 정리 완료… '핀테크·가상자산 결합' ...",
+      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518695",
+      "originallink": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518695",
+      "description": "[뉴시스] 두나무가 네이버페이비상장 지분을 모두 네이버 측에 넘기면서 네이버와의 기업결합을 앞둔 지배구조 정비 움직임이 본격화되고 있다. 비상장주식 플랫폼 사업을 정리하고 가상자산 중심 사업 구조를 명확히...",
+      "pubDate": "2026-06-18T06:02:00+00:00",
+      "category": "간편결제",
+      "source": "일요서울i"
+    },
+    {
+      "title": "쿠팡페이·파이낸셜 제재 절차 착수...연내 수위 확정",
+      "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6136",
+      "originallink": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6136",
+      "description": "금융당국이 '쿠팡 개인정보 유출 사태'와 관련해 쿠팡페이와 쿠팡파이낸셜에 대한 제재 절차에 착수했다. 쿠팡 개인정보 유출이 본격적으로 시작된 시점(2025년 6월) 기준 약 1년 만이다. 이르면 이번 주 두 회사에...",
+      "pubDate": "2026-06-18T05:58:00+00:00",
+      "category": "쿠팡페이",
+      "source": "데일리브리프"
+    },
+    {
+      "title": "시니어 디지털 정보격차 줄인 카카오페이, '과기정통부 장관 표창'",
+      "link": "https://n.news.naver.com/mnews/article/018/0006309041?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04664166645483032",
+      "description": "카카오페이(377300)가 시니어 디지털 정보격차 해소와 포용적 금융 문화 확산에 기여한 공로를 인정받았다. 카카오페이는 지난 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 열린 ‘제39회 정보문화의 달 기념식’에서...",
+      "pubDate": "2026-06-18T05:55:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "삼성월렛 1904만명 1위…페이 경쟁 가열",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=99761",
+      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=99761",
+      "description": "삼성월렛이 월간 활성 사용자 수 1900만명을 넘기며 선두 자리를 지킨 가운데 카카오페이, KB페이, 네이버페이, NH페이 등 주요 페이 앱들도 역대 최대 이용자를 기록하며 이용자 확보 경쟁에 속도를 내고 있다. 앱...",
+      "pubDate": "2026-06-18T05:50:00+00:00",
+      "category": "삼성페이",
+      "source": "데일리팝"
+    },
+    {
+      "title": "카카오페이, 노년층 디지털 격차 해소로 장관 표창…시니어 교육 혁신 ...",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=869547",
+      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=869547",
+      "description": "카카오페이가 노년층의 디지털 정보격차 해소에 기여한 공로로 과학기술정보통신부 장관 표창을 받았다. 이는 '사각사각 페이스쿨'이라는 프로그램이 디지털 금융 접근성을 높이는 데 중요한 역할을 했다는 점을...",
+      "pubDate": "2026-06-18T05:44:00+00:00",
+      "category": "카카오페이",
+      "source": "공감신문"
+    },
+    {
+      "title": "조재박 네이버페이 CBO \"금융 경쟁력 유지할 규제 고민해야\" [DT금융포럼...",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164134",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092164134",
+      "description": "\"현재 금융 경쟁력을 잘 유지하고 향후에도 더욱 발전할 수 있도록 이에 걸맞은 규제를 고민해야 할 때가 됐다.\" 조재박 네이버페이 최고사업책임자(CBO)는 18일 서울 여의도 FKI타워에서 IT조선 주최로 열린 '2026...",
+      "pubDate": "2026-06-18T05:36:00+00:00",
+      "category": "네이버페이",
+      "source": "IT조선"
+    },
+    {
+      "title": "카카오페이, 정보문화 유공 과기정통부 장관 표창 수상",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=255911",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=255911",
+      "description": "현대경제신문 이지운 기자 | 카카오페이가 고령층의 디지털 금융 접근성 개선에 기여한 공로로 과학기술정보통신부 장관 표창을 받았다. 카카오페이는 지난 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 열린 '제39회...",
+      "pubDate": "2026-06-18T05:06:00+00:00",
+      "category": "카카오페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "카카오페이, '시니어가 시니어 도와' 상생 모델…과기부 표창",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1005085",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1005085",
+      "description": "디지털 금융 소외 계층인 고령층의 정보 격차를 해소하기 위해 카카오페이가 맞춤형 금융 교육 프로그램을 운영하며 포용적 금융 문화 확산에 기여한 성과로 정부 표창을 받았다. 카카오페이는 시니어 디지털 정보격차...",
+      "pubDate": "2026-06-18T04:36:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "중기중앙회·간편결제진흥원, 노란우산 가입 확대 맞손…200만 제로페이...",
+      "link": "https://n.news.naver.com/mnews/article/030/0003438912?sid=101",
+      "originallink": "https://www.etnews.com/20260618000144",
+      "description": "중소기업중앙회와 한국간편결제진흥원이 전국 200만 제로페이 가맹점을 대상으로 노란우산 가입 확대에 나선다. 중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망...",
+      "pubDate": "2026-06-18T04:31:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "중기중앙회, 간편결제진흥원과 노란우산 확산 '맞손'",
+      "link": "https://n.news.naver.com/mnews/article/277/0005778245?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026061809454438801",
+      "description": "중소기업중앙회는 18일 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 이번 협약을 통해 양 기관은 전국 200만 제로페이 가맹점 소상공인을 대상으로...",
+      "pubDate": "2026-06-18T04:30:00+00:00",
+      "category": "간편결제",
+      "source": "아시아경제"
+    },
+    {
+      "title": "[금융레이더]교보생명/메트라이프생명/KB국민카드/카카오페이",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181107474600858",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606181107474600858",
+      "description": "◆카카오페이, 시니어 디지털 금융교육 공로 과기부 장관 표창 카카오페이가 시니어 디지털 정보격차 해소와 포용적 금융 문화 확산에 기여한 공로로 과학기술정보통신부 장관 표창을 수상했다고 18일 밝혔다....",
+      "pubDate": "2026-06-18T04:20:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "카카오페이, 디지털 정보격차 해소···과기부 장관 표창",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=88877",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=88877",
+      "description": "카카오페이가 시니어층의 디지털 정보격차 해소와 금융 접근성 향상에 기여한 공로를 인정받아 과학기술정보통신부 장관 표창을 받았다. 18일 카카오페이에 따르면 전날 서울 마포구 누리꿈스퀘어 국제회의실에서...",
+      "pubDate": "2026-06-18T03:36:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "카카오페이, '사각사각 페이스쿨' 3년 성과로 과기부 장관 표창…관심도...",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202606181223465103c808fa9903_23",
+      "originallink": "http://www.thebigdata.co.kr/view.php?ud=202606181223465103c808fa9903_23",
+      "description": "카카오페이가 2023년부터 3년간 이어온 시니어 디지털 금융교육 프로그램 '사각사각 페이스쿨' 시니어클래스의 성과를 인정받아 과학기술정보통신부 장관 표창을 수상하며 핀테크 업계 포용금융의 대표 사례로...",
+      "pubDate": "2026-06-18T03:32:00+00:00",
+      "category": "카카오페이",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "카카오페이, '디지털 정보격차 해소' 과기정통부 장관 표창",
+      "link": "https://n.news.naver.com/mnews/article/030/0003438878?sid=101",
+      "originallink": "https://www.etnews.com/20260618000179",
+      "description": "카카오페이가 시니어 디지털 정보격차 해소와 포용적 금융 문화 확산에 기여한 공로를 인정받아 정부 표창을 받았다. 카카오페이는 지난 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 열린 '제39회 정보문화의 달 기념식...",
+      "pubDate": "2026-06-18T03:22:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "물가 오르고 신용카드·간편결제 확산…사라지는 동전",
+      "link": "https://n.news.naver.com/mnews/article/018/0006308926?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04234486645483032",
+      "description": "동전의 쓰임새가 예전만 못하고 디지털 결제 확산 등 변화하는 환경에 발맞춰 신속한 폐기방식을 도입했지만 동전이 완전히 사라지는 것은 아니라는 것이다. 한은 관계자는 “주화 자체 소각과 관계없이 국민들의 주화...",
+      "pubDate": "2026-06-18T03:20:00+00:00",
+      "category": "간편결제",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, 과기정통부 장관 표창 수상…시니어 디지털 금융교육 공로...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203621",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=203621",
+      "description": "이러한 가운데 카카오페이가 시니어 디지털 금융교육을 통해 정보격차 해소와 금융포용 확대에 기여한 공로를 인정받아 정부 표창을 수상했다. 카카오페이는 지난 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 열린...",
+      "pubDate": "2026-06-18T02:26:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "카카오페이, 시니어 디지털 금융교육 공로 인정 '과기부 장관 표창' 수상",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91373",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=91373",
+      "description": "고령층의 디지털 금융 접근성 확대에 기여해 온 카카오페이가 정부로부터 공로를 인정받았다. 카카오페이는 시니어 대상 금융교육 프로그램 운영 성과를 바탕으로 지난 17일 서울 마포구 누리꿈스퀘어 국제회의실에서...",
+      "pubDate": "2026-06-18T02:18:00+00:00",
+      "category": "카카오페이",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "카카오페이, 정보격차 해소 공로 장관 표창 수상",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308699",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308699",
+      "description": "사진=카카오페이  카카오페이가 고령층의 디지털 정보격차를 줄이고 포용 금융을 실천한 공로를 인정받아 정부 표창을 받았다. 카카오페이는 과학기술정보통신부가 주최한 '제39회 정보문화의 달 기념식'에서 과기정통부...",
+      "pubDate": "2026-06-18T01:54:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "\"시니어가 시니어 돕는다\"...카카오페이, 과기정통부 장관 표창",
+      "link": "https://n.news.naver.com/mnews/article/014/0005536583?sid=101",
+      "originallink": "http://www.fnnews.com/news/202606180938209712",
+      "description": "카카오페이가 시니어 맞춤형 디지털 금융교육으로 디지털 정보격차 해소와 포용금융 문화 확산에 기여한 공로를 인정받았다. 18일 카카오페이에 따르면 지난 17일 서울 마포구 누리꿈스퀘어 국제회의실에서 열린 '제39회...",
+      "pubDate": "2026-06-18T01:43:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 시니어 디지털 금융교육 성과…과기부 장관 표창",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=296030",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=296030",
+      "description": "카카오페이가 고령층의 디지털 금융 소외 해소를 위해 운영해 온 금융교육 프로그램 '사각사각 페이스쿨'의 성과를 인정받아 과학기술정보통신부 장관 표창을 수상했다. 카카오페이는 전날 서울 마포구 누리꿈스퀘어...",
+      "pubDate": "2026-06-18T01:42:00+00:00",
+      "category": "카카오페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "카카오페이, 과기부 장관 표창 수상…시니어 금융교육 공로 인정",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263641",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263641",
+      "description": "화이트페이퍼, WHITEPAPER카카오페이의 '사각사각 페이스쿨' 시니어 클래스 강의 현장. (사진=카카오페이)  카카오페이가 고령층의 디지털 정보 격차 해소를 위해 실시한 시니어 금융교육 공로를 인정받아...",
+      "pubDate": "2026-06-18T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
       "title": "\"디지털금융 문턱 낮췄다\" 카카오페이, 과기정통부 장관 표창",
       "link": "https://www.catchnews.kr/news/articleView.html?idxno=125116",
       "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125116",
@@ -1321,7 +1600,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -2383,7 +2662,7 @@
       "description": "네이버페이가 포인트 적립형 캐릭터 서비스 ‘페이펫’의 꾸미기 기능과 게임 콘텐츠를 대폭 늘렸고, 토스페이먼츠는 국내 금융·IT 업계 최초로 양자내성암호를 전면 도입하며 차세대 결제 보안 체계 구축에 나섰다. NHN...",
       "pubDate": "2026-04-03T06:34:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스 호주 시장 공략 본격화…상장 앞두고 몸집 키운다",
@@ -2413,5 +2692,5 @@
       "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-18T01:30:43.481529+00:00"
+  "lastFetch": "2026-06-18T12:16:43.885885+00:00"
 }
