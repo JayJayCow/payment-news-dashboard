@@ -15,15 +15,13 @@
   .refresh-btn { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.3); color: white; padding: 6px 14px; border-radius: 20px; cursor: pointer; font-size: 12px; transition: all 0.2s; }
   .refresh-btn:hover { background: rgba(255,255,255,0.25); }
 
-  .stats-bar { display: flex; gap: 8px; padding: 10px 16px; background: white; border-bottom: 1px solid #e8e8e8; overflow-x: auto; scrollbar-width: none; white-space: nowrap; }
-  .stats-bar::-webkit-scrollbar { display: none; }
-  .stat-chip { display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; background: #f0f2f5; color: #555; cursor: pointer; transition: all 0.2s; flex-shrink: 0; }
+  .stats-bar { display: flex; flex-wrap: wrap; gap: 6px; padding: 10px 16px; background: white; border-bottom: 1px solid #e8e8e8; }
+  .stat-chip { display: inline-flex; align-items: center; gap: 5px; padding: 4px 12px; border-radius: 20px; font-size: 12px; font-weight: 600; background: #f0f2f5; color: #555; cursor: pointer; transition: all 0.2s; }
   .stat-chip.active { background: #0f3460; color: white; }
   .stat-chip .count { background: rgba(255,255,255,0.25); padding: 1px 6px; border-radius: 10px; font-size: 11px; }
   .stat-chip:not(.active) .count { background: rgba(0,0,0,0.1); }
 
-  .date-filter { display: flex; gap: 6px; padding: 10px 16px; background: white; border-bottom: 1px solid #e8e8e8; overflow-x: auto; scrollbar-width: none; }
-  .date-filter::-webkit-scrollbar { display: none; }
+  .date-filter { display: flex; flex-wrap: wrap; gap: 6px; padding: 10px 16px; background: white; border-bottom: 1px solid #e8e8e8; }
   .df-btn { padding: 5px 14px; border-radius: 16px; border: 1px solid #ddd; background: white; font-size: 12px; cursor: pointer; white-space: nowrap; transition: all 0.2s; }
   .df-btn.active { background: #0f3460; color: white; border-color: #0f3460; }
 
