@@ -110,10 +110,24 @@ def parse_pub_date(s: str) -> str:
         return s
 
 
-def keyword_match(keyword: str, text: str) -> bool:
-    """키워드가 다른 한글 단어 중간에 포함된 경우 제외 (예: '미토스'에서 '토스' 오인식 방지)"""
-    return bool(re.search(r'(?<![가-힣])' + re.escape(keyword.lower()), text, re.I))
+# 키워드 바로 뒤에 와도 복합어가 아닌 것으로 판단하는 한글 조사
+_KR_PARTICLES = set("가이을를은는의에로도만와과야아")
 
+
+def keyword_match(keyword: str, text: str) -> bool:
+    """키워드 매칭:
+    - 앞에 한글이 있으면 제외 (예: '미토스'에서 '토스' 오인식 방지)
+    - 뒤에 조사가 아닌 한글이 오면 복합어로 간주하여 제외 (예: '카카오페이손해보험')
+    """
+    pattern = r'(?<![가-힣])' + re.escape(keyword.lower())
+    for m in re.finditer(pattern, text, re.I):
+        end = m.end()
+        if end < len(text) and '가' <= text[end] <= '힣':
+            if text[end] not in _KR_PARTICLES:
+                continue  # 복합어 → 이 매칭은 제외
+        return True
+    return False
+    
 
 def classify(title: str) -> str:
     t = title.lower()
