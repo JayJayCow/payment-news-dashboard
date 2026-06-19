@@ -1,6 +1,447 @@
 {
   "articles": [
     {
+      "title": "[금융레이더]NH농협손해보험/카카오페이/DB저축은행",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606191116540050007",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606191116540050007",
+      "description": "◆카카오페이, 청소년 불법도박 예방 영상 캠페인 진행 카카오페이가 금융감독원, 청소년금융교육협의회와 함께 청소년 불법도박 예방을 위한 영상 캠페인을 진행한다고 19일 밝혔다. 이번 캠페인은 청소년...",
+      "pubDate": "2026-06-19T02:22:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "카카오페이, 금감원과 10대 도박예방 나서…12.5세에 도박 첫 경험",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263690",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263690",
+      "description": "화이트페이퍼, WHITEPAPER카카오페이, 금융감독원·청소년금융교육협의회와 함께 '청소년 불법도박 예방 영상 캠페인' 진행. (사진=카카오페이)  스마트폰과 SNS를 통한 불법도박이 10대 청소년 사이에서 빠르게 번지는...",
+      "pubDate": "2026-06-19T02:12:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "카카오페이, 청소년 불법도박 예방 캠페인 전개",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91392",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=91392",
+      "description": "카카오페이가 금융감독원, 청소년금융교육협의회와 손잡고 청소년 불법도박 예방을 위한 금융교육 캠페인에 나선다. 카카오페이는 청소년 대상 금융교육 프로그램인 '사각사각 페이스쿨 주니어클래스'의 일환으로...",
+      "pubDate": "2026-06-19T02:10:00+00:00",
+      "category": "카카오페이",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "[Telecom & Now] SK브로드밴드·토스플레이스, 소상공인 맞춤 상품 출시",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1713179",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1713179",
+      "description": "SK브로드밴드는 결제 단말기 및 포스(POS) 설루션 기업 토스플레이스와 손잡고 소상공인의 매장 운영비 부담을 덜어줄 통신·결제 제휴 상품을 오는 25일 공식 출시한다고 19일 밝혔다. 이번 제휴는 SK브로드밴드의...",
+      "pubDate": "2026-06-19T02:00:00+00:00",
+      "category": "토스페이",
+      "source": "EBN"
+    },
+    {
+      "title": "선불·마일리지·간편결제 연결 모색...BK C&C, 차세대 결제 생태계 협력...",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=2026061910295635379aeda69934_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=2026061910295635379aeda69934_30",
+      "description": "현장에는 선불사업자, 포인트사, 마일리지사, 간편결제사, 블록체인 인프라사, 법률, 금융투자 분야 관계자 약 120명이 참석했다. 한국은행이 발표한 ‘2025년중 전자지급서비스 이용현황’에 따르면...",
+      "pubDate": "2026-06-19T02:00:00+00:00",
+      "category": "간편결제",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "결제 넘어 통신까지…토스플레이스, '사장님 플랫폼' 확장 나선다",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=130799",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=130799",
+      "description": "네이버페이는 예약·주문·리뷰 관리 기능을 강화한 'Npay 커넥트'를 확대하고 있으며, 토스 역시 토스플레이스와 토스페이먼츠를 중심으로 사업자 대상 서비스를 넓혀가고 있다. 업계에서는 이러한 변화를 'POS 경쟁'이 아닌...",
+      "pubDate": "2026-06-19T01:58:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "카카오페이, 청소년 불법도박 예방 캠페인…안전한 금융 조성",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=296069",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=296069",
+      "description": "최근 청소년 불법도박이 사회적 문제로 부상한 가운데 카카오페이가 10대들의 눈높이에 맞춘 캠페인을 통해 예방 인식 확산에 나섰다. 카카오페이는 금융감독원, 청소년금융교육협의회와 함께 청소년 불법도박 예방을...",
+      "pubDate": "2026-06-19T01:48:00+00:00",
+      "category": "카카오페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "토스플레이스, SKB와 소상공인 통신비·매장 운영 지원 '맞손'",
+      "link": "https://n.news.naver.com/mnews/article/003/0014015914?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260619_0003675596",
+      "description": "토스플레이스가 SK브로드밴드와 협력해 소상공인 전용 통신·결제 결합 상품을 출시하고 매장 운영 지원 확대에 나선다. 양사는 인터넷 요금 할인과 결제 솔루션 제공, 교육 프로그램 운영 등을 통해 소상공인의 통신비와...",
+      "pubDate": "2026-06-19T01:48:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "[오늘의 게임·IT 소식] 칠리즈 체인, 네이버페이 월렛 가입자 100만 돌파...",
+      "link": "https://dealsite.co.kr/articles/163908",
+      "originallink": "https://dealsite.co.kr/articles/163908",
+      "description": "글로벌 스포츠·엔터테인먼트 블록체인 기업 칠리즈(CHILIZ)가 네이버페이 월렛과의 협업을 통해 네이버페이 월렛의 가입자 및 홀더 수가 100만 명을 돌파했다고 19일 밝혔다.칠리즈 체인은 네이버페이 월렛의...",
+      "pubDate": "2026-06-19T01:46:00+00:00",
+      "category": "네이버페이",
+      "source": "딜사이트"
+    },
+    {
+      "title": "\"소상공인 통신비 낮추고 결제관리까지\"…SK브로드밴드·토스플레이스 ...",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=268155",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=268155",
+      "description": "SK브로드밴드와 토스플레이스가 소상공인을 겨냥한 통신·결제 결합 상품을 내놓는다. 초고속인터넷과 매장관리 솔루션을 묶어 통신비 부담을 낮추고 결제·매출 관리 효율을 높이겠다는 전략이다. SK브로드밴드는...",
+      "pubDate": "2026-06-19T01:16:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "카카오페이, 청소년 불법도박 예방 영상 캠페인 나서",
+      "link": "https://n.news.naver.com/mnews/article/277/0005778684?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026061910092797097",
+      "description": "카카오페이가 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방을 위한 영상 캠페인에 나선다고 19일 밝혔다. 이번 캠페인은 카카오페이의 대표적인 청소년 금융교육 지원 사업인 '사각사각 페이스쿨...",
+      "pubDate": "2026-06-19T01:09:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "카카오페이, 10대 불법도박 예상 영상 공개",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308858",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308858",
+      "description": "이미지=카카오페이  카카오페이가 청소년들의 일상을 파고드는 불법 인터넷 도박의 위험성을 알리고, 이를 막기 위한 시각 자료 기반의 인식 개선 활동을 전개한다. 카카오페이는 금융감독원, 청소년금융교육협의회와...",
+      "pubDate": "2026-06-19T01:08:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "SK브로드밴드-토스플레이스, 통신·매장 운영 설루션 결합 상품 출시",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=255960",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=255960",
+      "description": "현대경제신문 최예헌 기자 | SK브로드밴드가 결제 단말기 및 포스(POS) 설루션 기업 토스플레이스와 손잡고 소상공인의 매장 운영비 부담을 덜어줄 통신·결제 제휴 상품을 오는 25일 공식 출시한다고 19일 밝혔다. 이번...",
+      "pubDate": "2026-06-19T01:06:00+00:00",
+      "category": "토스페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "카카오페이, 청소년 불법도박 예방 영상 캠페인 진행",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=526931",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=526931",
+      "description": "|중앙이코노미뉴스 김수현 기자|카카오페이(대표 신원근)는 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방을 위한 영상 캠페인에 나선다고 19일 밝혔다. [이미지=카카오페이]  카카오페이(대표...",
+      "pubDate": "2026-06-19T01:04:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "SK브로드밴드·토스플레이스, 소상공인 전용 통신·결제 결합상품 출시",
+      "link": "https://www.eroun.net/news/articleView.html?idxno=83485",
+      "originallink": "https://www.eroun.net/news/articleView.html?idxno=83485",
+      "description": "인터넷 요금 월 최대 4400원 할인 제공토스 프론트 무상 지원·매장 운영 솔루션 연계실무 교육 프로그램 및 경품 이벤트도 마련 이로운넷 = 조은결 기자 SK브로드밴드가 토스플레이스와 손잡고 소상공인의 매장 운영비...",
+      "pubDate": "2026-06-19T01:00:00+00:00",
+      "category": "토스페이",
+      "source": "이로운넷"
+    },
+    {
+      "title": "SKB-토스플레이스, 통신·결제 묶어 자영업 운영비 낮춘다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004632832?sid=105",
+      "originallink": "https://www.sedaily.com/article/20057692?ref=naver",
+      "description": "SK브로드밴드가 결제 단말기·포스 솔루션 기업 토스플레이스와 손잡고 소상공인의 매장 운영비 부담을 덜어줄 통신, 결제 제휴 상품을 이달 25일 공식 출시한다고 19일 밝혔다. 이번 제휴는 SK브로드밴드의 안정적인...",
+      "pubDate": "2026-06-19T00:59:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "\"도박광고 10명 중 7명 봤다\" 카카오페이, 금감원·청소년금융교육협의...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=125169",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125169",
+      "description": "카카오페이가 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방을 위한 영상 캠페인에 나선다. [이미지 카카오페이] 스마트폰과 SNS를 통한 불법 도박이 10대 사이로 빠르게 번지고 있는 가운데...",
+      "pubDate": "2026-06-19T00:57:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오페이, 금감원과 청소년 불법도박 예방 캠페인 진행",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=263190",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=263190",
+      "description": "카카오페이가 금융감독원, 청소년금융교육협의회와 손잡고 청소년 불법도박 예방을 위한 영상 캠페인을 진행한다. 모바일 환경에서 청소년의 불법도박 노출 위험이 커지는 가운데, 애니메이션 영상을 통해 도박의...",
+      "pubDate": "2026-06-19T00:56:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "토스플레이스, SK브로드밴드와 소상공인 대상 통신·결제 결합상품 출시",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=263172",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=263172",
+      "description": "토스플레이스가 SK브로드밴드와 손잡고 소상공인 대상 통신·결제 결합 상품을 선보인다. 인터넷 요금 할인과 결제 단말기·매장 운영 솔루션 혜택을 함께 제공해 소상공인의 비용 부담을 낮추겠다는 취지다. 19일...",
+      "pubDate": "2026-06-19T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "SK브로드밴드, 토스플레이스와 통신·결제 결합상품 출시",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=203673",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=203673",
+      "description": "라이센스뉴스 = 백성요 기자 | SK브로드밴드 인터넷과 토스플레이스의 결제 단말기 토스 프론트 등 매장관리 솔루션을 사용하면 요금을 할인해 주는 통신·결제 제휴 상품이 출시된다. SK브로드밴드는 토스플레이스와...",
+      "pubDate": "2026-06-19T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "토스플레이스, SK브로드밴드와 손잡고 소상공인 통신비 부담 낮춘다",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=137414",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=137414",
+      "description": "토스플레이스는 19일 SK브로드밴드와 함께 소상공인 고객을 위한 통신·결제 결합 상품을 출시하고, 매장 운영 지원 확대에 나선다고 밝혔다. [토스플레이스] 토스플레이스가 SK브로드밴드와 협력해 소상공인 대상 통신...",
+      "pubDate": "2026-06-19T00:54:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "[단독] 메가박스서 카카오·토스페이 막혔다… PG사 대탈출",
+      "link": "https://n.news.naver.com/mnews/article/366/0001172879?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/06/19/WPIWLGZ7E5E5LE5FSCGCOZHDLI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "카카오페이와 토스페이가 메가박스에 제공하던 결제 대행(PG·Payment Gateway) 서비스를 중단한 것으로 확인됐다. 메가박스가 회생절차에 돌입하고 신용등급까지 떨어지자 대형 PG사들이 발을 빼는 모습이다. 19일 조선비즈...",
+      "pubDate": "2026-06-19T00:49:00+00:00",
+      "category": "토스페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "카카오페이, 청소년 불법도박 예방 캠페인…안전한 금융 조성",
+      "link": "https://n.news.naver.com/mnews/article/003/0014015660?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260619_0003675483",
+      "description": "최근 청소년 불법도박이 사회적 문제로 부상한 가운데 카카오페이가 10대들의 눈높이에 맞춘 캠페인을 통해 예방 인식 확산에 나섰다. 카카오페이는 금융감독원, 청소년금융교육협의회와 함께 청소년 불법도박 예방을...",
+      "pubDate": "2026-06-19T00:47:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "SK브로드밴드·토스플레이스 맞손…소상공인 통신비·매장 운영비 낮춘...",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=248442",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=248442",
+      "description": "SK브로드밴드가 토스플레이스와 손잡고 소상공인을 위한 통신·결제 결합 상품을 선보인다. SK브로드밴드는 결제 단말기 및 포스(POS) 솔루션 기업 토스플레이스와 제휴해 소상공인 대상 통신·결제 패키지 상품을 오는...",
+      "pubDate": "2026-06-19T00:46:00+00:00",
+      "category": "토스페이",
+      "source": "인사이트코리아"
+    },
+    {
+      "title": "SKB·토스플레이스 손잡았다…“사장님 인터넷 요금 깎아준다”",
+      "link": "https://n.news.naver.com/mnews/article/009/0005696002?sid=105",
+      "originallink": "https://www.mk.co.kr/article/12078207",
+      "description": "통신·결제 결합 상품 출시 인터넷 요금 월 최대 4400원 할인 토스 프론트 무상 제공 혜택도 소상공인 운영비 절감 지원 SK브로드밴드가 토스플레이스와 손잡고 소상공인 매장 운영비 절감에 나선다. 통신 서비스와 결제...",
+      "pubDate": "2026-06-19T00:46:00+00:00",
+      "category": "토스페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "토스플레이스, SK브로드밴드와 맞손…소상공인 부담 낮춘다",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308847",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=308847",
+      "description": "17일 토스 신논현 오피스에서 열린 '소상공인 상생을 위한 파트너십 체결 협약식'에서 (왼쪽부터)권정훈 SK브로드밴드 SOHO&VALUE 담당과 김정열 토스플레이스 부대표가 기념사진을 촬영하고 있다. 사진=토스...",
+      "pubDate": "2026-06-19T00:42:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "SK브로드밴드-토스플레이스 제휴 .... 통신·결제 묶어 소상공인 매장 운...",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=85816",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=85816",
+      "description": "권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십 체결 후 기념 촬영을 하는 모습. SK브로드밴드는 결제 단말기 및 포스(POS) 솔루션 기업 토스플레이스와...",
+      "pubDate": "2026-06-19T00:38:00+00:00",
+      "category": "토스페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "토스플레이스·SK브로드밴드, 소상공인 통신·결제 결합상품 출시",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202606190936461526de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202606190936461526de3f0aa1be_7",
+      "description": "토스플레이스가 SK브로드밴드와 함께 소상공인 매장을 대상으로 통신과 결제 서비스를 결합한 제휴 상품을 선보인다. 매장 운영에 필요한 인터넷, 결제 단말기, 운영 솔루션을 묶어 소상공인의 비용 부담과 관리 불편을...",
+      "pubDate": "2026-06-19T00:38:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "[테크스냅] 토스플레이스, SKB와 소상공인 통신비 지원",
+      "link": "https://n.news.naver.com/mnews/article/001/0016147363?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20260619031800017?input=1195m",
+      "description": "네이버, 상반기 최대 쇼핑 프로모션 진행 코난테크, 모빌리티·배터리 기업 등과 상품테스트 토스의 결제 단말기 자회사 토스플레이스가 SK브로드밴드와 통신·결제 결합 상품을 출시하고 매장 운영 지원을 확대한다고...",
+      "pubDate": "2026-06-19T00:31:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "도박 첫 경험 나이 12.5세까지 내려왔다, 카카오페이 영상 캠페인 나서",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=742860",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=742860",
+      "description": "카카오페이는 금융감독원 청소년금융교육협의회와 함께 청소년 불법도박 예방을 위한 영상 캠페인을 진행한다고 19일 밝혔다. 카카오페이의 청소년 금융교육 지원 사업인 사각사각 페이스쿨 주니어클래스의 일환으로...",
+      "pubDate": "2026-06-19T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 청소년 불법 도박 예방 영상 캠페인 진행",
+      "link": "https://n.news.naver.com/mnews/article/421/0009012240?sid=101",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6202191",
+      "description": "카카오페이(377300)가 금융감독원·청소년금융교육협의회와 함께 청소년 불법 도박 예방을 위한 영상 캠페인을 진행한다고 19일 밝혔다. 이번 캠페인은 카카오페이의 대표적인 청소년 금융 교육 지원 사업 '사각사각...",
+      "pubDate": "2026-06-19T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "SKB-토스플레이스, 통신·결제 제휴 상품 출시…소상공인 매장 운영·관...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=88251",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=88251",
+      "description": "신규 제휴 상품 가입 시 월 최대 4400원 인터넷 요금 할인 '토스 프론트·포스' 동시 설치 시 토스 프론트 무상 제공 인더뉴스 이종현 기자ㅣSK브로드밴드는 결제 단말기 및 포스(POS) 솔루션 기업 토스플레이스와 함께...",
+      "pubDate": "2026-06-19T00:22:00+00:00",
+      "category": "토스페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "SK브로드밴드-토스플레이스, 통신·결제 제휴 상품 6월 25일 론칭",
+      "link": "https://www.newspost.kr/news/articleView.html?idxno=223669",
+      "originallink": "https://www.newspost.kr/news/articleView.html?idxno=223669",
+      "description": "SK브로드밴드는 토스플레이스와 통신·결제 제휴 상품을 오는 25일 출시한다고 19일 밝혔다. SK브로드밴드의 통신 인프라, 토스플레이스의 결제 시스템을 함께 이용하는 소상공인들에게 혜택을 제공하는 상품이다. 신규...",
+      "pubDate": "2026-06-19T00:20:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스포스트"
+    },
+    {
+      "title": "SK브로드밴드·토스플레이스, 소상공인 통신·결제 상품 출시",
+      "link": "https://n.news.naver.com/mnews/article/018/0006309627?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03247206645483360",
+      "description": "SK브로드밴드가 토스플레이스와 손잡고 소상공인의 매장 운영비 부담을 낮추기 위한 통신·결제 결합 상품을 선보인다. 권정훈(왼쪽) SK브로드밴드 SOHO&Value 담당과 김정열 토스플레이스 부대표가 소상공인 상생을 위한...",
+      "pubDate": "2026-06-19T00:17:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "SKB-토스플레이스, 통신·매장 운영 솔루션 결합한 소상공인 맞춤 상품...",
+      "link": "https://www.viva100.com/article/20260619500069",
+      "originallink": "https://www.viva100.com/article/20260619500069",
+      "description": "SK브로드밴드가 결제 단말기 및 포스(POS) 솔루션 기업 토스플레이스와 손잡고 소상공인의 매장 운영비 부담을 덜어줄 통신·결제 제휴 상품을 오는 25일 공식 출시한다. 이번 제휴는 SKB의 안정적인 초고속 통신...",
+      "pubDate": "2026-06-19T00:12:00+00:00",
+      "category": "토스페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "SKB, 토스플레이스와 소상공인 지원 협력…통신·결제 통합 상품 출시",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676451",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676451",
+      "description": "정훈 SK브로드밴드 소호&밸류 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십 체결 후 기념 촬영을 하는 모습. SK브로드밴드는 결제 단말기 및 포스(POS) 솔루션 기업 토스플레이스와 협력해...",
+      "pubDate": "2026-06-19T00:10:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "[단독] 메가박스, 회생절차 신청 여파?... 앱서 카카오페이 사라지고 토...",
+      "link": "https://m.entertain.naver.com/article/241/0003515551",
+      "originallink": "https://isplus.com/article/view/isp202606190026",
+      "description": "중앙그룹 계열사인 메가박스중앙의 모바일 앱에서 카카오페이와 토스페이 결제가 일제히 먹통이 됐다. 19일 업계에 따르면 현재 메가박스 모바일 앱 내 영화 예매 화면에서 카카오페이 결제창은 아예 사라졌으며...",
+      "pubDate": "2026-06-19T00:03:00+00:00",
+      "category": "카카오페이",
+      "source": "일간스포츠"
+    },
+    {
+      "title": "월 최대 4400원↓…SKB·토스플레이스, 소상공인 제휴 상품 출시",
+      "link": "https://n.news.naver.com/mnews/article/008/0005374244?sid=105",
+      "originallink": "https://www.mt.co.kr/tech/2026/06/19/2026061908453521276",
+      "description": "SK브로드밴드와 토스플레이스가 소상공인 인프라 사업 협업에 나선다. 양사는 초고속 통신과 매장관리 솔루션을 결합해 시너지를 노린다. SK브로드밴드는 오는 25일 토스플레이스와 함께 통신·결제 제휴 상품을 공식...",
+      "pubDate": "2026-06-18T23:59:00+00:00",
+      "category": "토스페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "토스플레이스·SK브로드밴드 소상공인 지원에 나서",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=136875",
+      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=136875",
+      "description": "토스플레이스와 SK브로드밴드가 통신과 결제 서비스를 한데 묶어 소상공인 지원에 나선다. 매장을 꾸리며 자영업자가 떠안는 비용과 관리 부담을 함께 덜어주겠다는 구상이다. 비바리퍼블리카(토스)의 자회사로 결제...",
+      "pubDate": "2026-06-18T23:52:00+00:00",
+      "category": "토스페이",
+      "source": "투어코리아"
+    },
+    {
+      "title": "SK브로드밴드, 토스플레이스와 통신·결제 솔루션 상품 25일 출시",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1378014",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1378014",
+      "description": "권정훈 SK브로드밴드 SOHO&벨류 담당(왼쪽)과 김정열 토스플레이스 부대표(오른쪽)가 파트너십 체결 후 기념 촬영을 하고 있다. 사진=SK브로드밴드 제공 SK브로드밴드가 통신과 결제 솔루션을 결합해 소상공인의 부담...",
+      "pubDate": "2026-06-18T23:50:00+00:00",
+      "category": "토스페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "\"소상공인 부담 낮춘다\"…SKB-토스플레이스, 통신·결제 묶어 할인",
+      "link": "https://n.news.naver.com/mnews/article/421/0009012121?sid=105",
+      "originallink": "https://www.news1.kr/it-science/cc-newmedia/6202097",
+      "description": "SK브로드밴드(033630)는 결제 단말기 및 포스(POS) 설루션 기업 토스플레이스와 소상공인의 매장 운영비 부담을 덜어줄 통신·결제 제휴 상품을 출시한다고 19일 밝혔다. 상품은 SK브로드밴드의 안정적인 초고속 통신...",
+      "pubDate": "2026-06-18T23:50:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "토스플레이스, SK브로드밴드와 소상공인 통신·결제 결합 상품 출시",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=526890",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=526890",
+      "description": "|중앙이코노미뉴스 김수현 기자|지난 17일 권정훈 SK브로드밴드 SOHO&VALUE 담당(왼쪽)과 김정열 토스플레이스 부대표가 기념사진을 촬영하고 있다. [사진=토스플레이스]  토스플레이스(대표 최재호)는 SK브로드밴드와...",
+      "pubDate": "2026-06-18T23:38:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "SK브로드밴드-토스플레이스, 소상공인 상생을 위한 파트너십 체결",
+      "link": "https://n.news.naver.com/mnews/article/001/0016147183?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20260619012500013?input=1196m",
+      "description": "SK브로드밴드는 결제 단말기 및 포스(POS) 설루션 기업 토스플레이스와 손잡고 소상공인의 매장 운영비 부담을 덜어줄 통신·결제 제휴 상품을 오는 25일 공식 출시한다고 19일 밝혔다. 권정훈 SK브로드밴드 SOHO...",
+      "pubDate": "2026-06-18T23:29:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "토스플레이스, SK브로드밴드와 맞손···소상공인 통신비·매장 운영비...",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695323",
+      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695323",
+      "description": "토스플레이스가 SK브로드밴드와 손잡고 소상공인 대상 통신·결제 결합 상품을 출시한다. 통신비 절감과 함께 결제 단말기, 매장 운영 설루션 할인 혜택을 제공해 자영업자의 고정비 부담을 낮춘다는 구상이다. 토스의...",
+      "pubDate": "2026-06-18T23:28:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스프리존"
+    },
+    {
+      "title": "토스플레이스, SK브로드밴드와 손잡고 소상공인 통신결제 결합상품 낸다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=742847",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=742847",
+      "description": "결제 단말기 시장에서 입지를 넓혀온 토스플레이스가 통신 인프라를 가진 SK브로드밴드와 결합상품을 내놓으면서 핀테크와 통신의 경계가 허물어지는 모습이다. 비바리퍼블리카의 결제 단말기 및 포스 솔루션 공급...",
+      "pubDate": "2026-06-18T23:26:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "토스플레이스, SK브로드밴드와 소상공인 지원 '맞손'",
+      "link": "https://n.news.naver.com/mnews/article/277/0005778507?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026061908143550861",
+      "description": "토스 운영사 비바리퍼블리카의 결제 단말기 및 포스(POS·판매관리시스템 단말기) 솔루션 공급 자회사 토스플레이스는 SK브로드밴드와 함께 소상공인 고객 통신·결제 상품을 출시하고 매장 운영 지원을 확대한다고 19일...",
+      "pubDate": "2026-06-18T23:14:00+00:00",
+      "category": "토스페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "토스플레이스·SK브로드밴드, 소상공인 경영 부담 덜어줄 결합 모델 출...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=79924",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=79924",
+      "description": "토스플레이스와 SK브로드밴드가 손을 잡고 소상공인의 경영 환경 개선을 위한 전방위적 협력에 나선다. 양사는 결제와 통신 인프라를 결합한 전용 상품을 출시하고 매장 운영 효율화를 지원하기로 뜻을 모았다고 19일...",
+      "pubDate": "2026-06-18T23:08:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "[N2 포커스] 지역화폐에 줄 선 카드사·핀테크…결제 주도권 경쟁 본격...",
+      "link": "https://www.news2day.co.kr/article/20260618500233",
+      "originallink": "https://www.news2day.co.kr/article/20260618500233",
+      "description": "카카오페이는 모바일 결제 자체에 혜택을 거는 방식을 택했다. 자사 서비스 내 삼성페이 기능으로 코나아이 지역사랑상품권 결제를 올해 처음 이용하는 사용자에게 이달 말까지 최대 5700원의 페이백을 제공한다....",
+      "pubDate": "2026-06-18T22:08:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "고령층 디지털 격차 해소 기여… 카카오페이 과기정통부 표창",
+      "link": "https://n.news.naver.com/mnews/article/022/0004136653?sid=101",
+      "originallink": "https://www.segye.com/newsView/20260618515629?OutUrl=naver",
+      "description": "카카오페이가 시니어 디지털 정보격차 해소와 포용적 금융 문화 확산에 기여한 공로로 과학기술정보통신부 장관 표창을 받았다고 18일 밝혔다. 카카오페이 측은 2023년부터 카카오임팩트, 시니어금융교육협의회에 함께...",
+      "pubDate": "2026-06-18T21:04:00+00:00",
+      "category": "카카오페이",
+      "source": "세계일보"
+    },
+    {
       "title": "카카오페이, 시니어 디지털 금융 지원 전국으로 확산",
       "link": "http://www.sisacast.kr/news/articleView.html?idxno=96867",
       "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=96867",
@@ -2692,5 +3133,5 @@
       "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-18T12:16:43.885885+00:00"
+  "lastFetch": "2026-06-19T02:24:08.696433+00:00"
 }
