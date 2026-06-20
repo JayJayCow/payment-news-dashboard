@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "[여론 속의 여론] 국민 10명 중 9명 \"오프라인 간편결제 해봤다\"… 고령...",
+      "link": "https://n.news.naver.com/mnews/article/469/0000937553?sid=103",
+      "originallink": "https://www.hankookilbo.com/news/article/A2026061621380005463?did=NA",
+      "description": "온라인에서는 네이버페이, 카카오페이, 토스페이와 같은 ‘빅테크/플랫폼 기반 간편결제’를 사용했다는 응답이 74%로, 응답자 4명 중 3명에게서 확인되었다. 그 뒤를 이어 ‘신용카드/체크카드 번호 직접 입력’(58...",
+      "pubDate": "2026-06-20T02:00:00+00:00",
+      "category": "간편결제",
+      "source": "hankookilbo"
+    },
+    {
+      "title": "[금융] 카카오페이·금감원, 청소년 불법도박 예방 캠페인 / KB국민은행...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2206457",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2206457",
+      "description": "◼︎ 카카오페이·금감원, 청소년 불법도박 예방 애니메이션 캠페인 카카오페이는 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방 영상 캠페인을 실시한다고 20일 밝혔다. 청소년 금융교육 사업...",
+      "pubDate": "2026-06-20T01:26:00+00:00",
+      "category": "카카오페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "간편결제 시장 경쟁 격화…생활 밀착형 할인 마케팅 총력전",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1377866",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1377866",
+      "description": "20일 핀테크 업계에 따르면 토스, 카카오페이, 네이버페이 등 주요 간편결제 사업자들은 소비자 접점 확대를 위해 다양한 제휴 혜택을 선보이고 있다. 토스는 페이스페이를 중심으로 오프라인 결제 시장 확대에 나섰다....",
+      "pubDate": "2026-06-20T00:00:00+00:00",
+      "category": "간편결제",
+      "source": "데일리한국"
+    },
+    {
       "title": "카카오페이, 청소년 금융사기·불법도박 예방 활동 확대",
       "link": "http://www.sisacast.kr/news/articleView.html?idxno=96922",
       "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=96922",
@@ -376,7 +403,7 @@
       "description": "글로벌 스포츠·엔터테인먼트 블록체인 기업 칠리즈(CHILIZ)가 네이버페이 월렛과의 협업을 통해 네이버페이 월렛의 가입자 및 홀더 수가 100만 명을 돌파했다고 19일 밝혔다.칠리즈 체인은 네이버페이 월렛의...",
       "pubDate": "2026-06-19T01:46:00+00:00",
       "category": "네이버페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "\"소상공인 통신비 낮추고 결제관리까지\"…SK브로드밴드·토스플레이스 ...",
@@ -3391,7 +3418,7 @@
       "description": "인터넷 전문은행인 토스뱅크는 삼성페이 수수료 문제에서 자유롭다. 토스뱅크는 국내 3대 결제대행업체(PG사) 토스페이먼츠, 결제단말기 계열사 토스플레이스 등과 연계해 시너지를 낼 수 있다. 이미 토스페이먼츠는 NHN...",
       "pubDate": "2026-04-03T23:08:00+00:00",
       "category": "삼성페이",
-      "source": "dealsitetv"
+      "source": "DealSite경제TV"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 핀테크 소식…네이버페이·토스페이먼츠·NHN KC...",
@@ -3430,5 +3457,5 @@
       "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-19T12:58:06.937978+00:00"
+  "lastFetch": "2026-06-20T10:17:58.723222+00:00"
 }
