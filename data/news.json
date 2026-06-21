@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "[금융 HOT 뉴스] \"10명 중 7명, 도박 광고 봤다\"…카카오페이, 청소년 불...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=139071",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=139071",
+      "description": "카카오페이가 금융감독원, 청소년금융교육협의회와 함께 청소년 불법도박 예방을 위한 영상 캠페인을 진행한다. 영상=카카오페이  카카오페이(대표 신원근)가 금융감독원, 청소년금융교육협의회와 손잡고 청소년...",
+      "pubDate": "2026-06-20T12:24:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
       "title": "[여론 속의 여론] 국민 10명 중 9명 \"오프라인 간편결제 해봤다\"… 고령...",
       "link": "https://n.news.naver.com/mnews/article/469/0000937553?sid=103",
       "originallink": "https://www.hankookilbo.com/news/article/A2026061621380005463?did=NA",
@@ -214,7 +223,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -3457,5 +3466,5 @@
       "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-20T10:17:58.723222+00:00"
+  "lastFetch": "2026-06-21T10:58:37.924158+00:00"
 }
