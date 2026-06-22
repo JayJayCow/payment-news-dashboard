@@ -1,6 +1,339 @@
 {
   "articles": [
     {
+      "title": "카카오페이, 소상공인 상생 기획전 연다",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101049",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101049",
+      "description": "카카오페이가 소상공인 상생 캠페인 오래오래 함께가게의 2026년 신규 입점 브랜드를 소개하는 온라인 기획전을 연다. 6월 22일부터 7월 5일까지 진행되는 이번 행사에서는 올해 새롭게 합류한 소상공인 브랜드 100개사가...",
+      "pubDate": "2026-06-22T12:50:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "카카오페이, 소상공인 브랜드 육성 확대…100개 신규 브랜드 기획전",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=130882",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=130882",
+      "description": "| 이코노미사이언스 박성현 기자 | 카카오페이가 소상공인 브랜드 육성 사업을 확대하며 신규 입점 브랜드를 소개하는 온라인 기획전을 연다. 단순 판매 지원을 넘어 교육과 홍보, 판로 확대를 결합한 상생 플랫폼 모델을...",
+      "pubDate": "2026-06-22T09:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "[금융체크] 하나금융·농협은행·카카오페이 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=139142",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=139142",
+      "description": "카카오페이가 '오래오래 함께가게'의 2026년 신규 입점 브랜드를 소개하는 온라인 기획전을 개최한다. 사진=카카오페이 ◆ 카카오페이, '오래오래 함께가게' 신규 입점사 온라인 기획전 열어 카카오페이(대표 신원근)가...",
+      "pubDate": "2026-06-22T08:26:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "[함께가자 우리ESG] 우아한청년들, 카카오페이 제휴로 라이더 주유비 지...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=131936",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=131936",
+      "description": "우아한청년들이 카카오페이와 제휴해 배민커넥트 라이더 대상 주유비 지원 혜택을 확대 운영한다고 22일 밝혔다. 이번 혜택은 유가 상승에 따른 라이더들의 주유비 부담을 낮추고 이용 편의성을 높이기 위해 마련됐다....",
+      "pubDate": "2026-06-22T08:08:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "하나카드, 여행 플랫폼으로 진화한 트래블로그...해외결제 시장 주도권...",
+      "link": "http://www.lkp.news/news/articleView.html?idxno=81119",
+      "originallink": "http://www.lkp.news/news/articleView.html?idxno=81119",
+      "description": "대표적으로 비자(Visa), 카카오페이와 협업해 선보인 '트래블GO 체크카드 트블컵(한정판)' 출시를 기념한 프로모션이 진행 중이다. 해당 이벤트는 이용자가 응원팀을 직접 선택한 뒤 외화 환전 실적에 따라 응원 점수를...",
+      "pubDate": "2026-06-22T07:40:00+00:00",
+      "category": "간편결제",
+      "source": "리버티코리아포스트"
+    },
+    {
+      "title": "토스·모니모에 맞불…신한금융 슈퍼앱 시장 주도권 잡는다",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309101",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309101",
+      "description": "국내 주식 기준 토스증권과 카카오페이증권의 수수료율(0.015%)보다 낮고 신한투자증권의 일반 온라인 수수료보다도 경쟁력이 있다는 평가다. 인공지능(AI) 기능도 강화했다. 홈 화면 최상단 '오늘' 영역을 통해 급여일...",
+      "pubDate": "2026-06-22T07:30:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "카카오페이, '오래오래 함께가게' 신규 브랜드 기획전 개최 내용은?",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=432479",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=432479",
+      "description": "카카오페이가 소상공인 상생 캠페인 '오래오래 함께가게'의 2026년 신규 입점 브랜드를 소개하는 온라인 기획전을 개최한다. 이번 기획전은 6월 22일부터 7월 5일까지 진행되며, 올해 새롭게 선정된 소상공인 브랜드...",
+      "pubDate": "2026-06-22T06:54:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "“해외서도 통했다”…네이버페이, 해외QR결제 일본·중국서 2년만에 4....",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606221511391250276",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606221511391250276",
+      "description": "네이버페이의 해외 QR결제 서비스 이용이 일본과 중국을 넘어 홍콩, 싱가포르 등으로 확대되며 성장세를 이어가고 있다. 22일 네이버페이에 따르면 해외 QR결제가 가장 활발한 일본과 중국에서 올해 1~5월 결제...",
+      "pubDate": "2026-06-22T06:40:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "카카오페이, 상생 캠페인 소상공인 브랜드 기획전",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309133",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309133",
+      "description": "이미지=카카오페이  카카오페이가 잠재력 있는 소상공인들을 발굴해 대중과의 접점을 넓히고 자립 기반을 다질 수 있도록 돕는 온라인 상생 무대를 마련했다. 카카오페이는 소상공인들의 비즈니스 성장을 견인하는 상생...",
+      "pubDate": "2026-06-22T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "두나무·카카오·토스가 말하는 미래 금융의 모습은 [미리보는 DAIF 2026]",
+      "link": "https://n.news.naver.com/mnews/article/015/0005301359?sid=101",
+      "originallink": "https://www.hankyung.com/article/202606220599i",
+      "description": "이어 신원근 카카오페이 대표는 '카카오페이가 바라보는 넥스트 파이낸스'를 주제로 무대에 오른다. 디지털 기술과 금융의 결합이 가속화되는 가운데 플랫폼 기업이 바라보는 차세대 금융의 모습과 새로운 서비스...",
+      "pubDate": "2026-06-22T06:35:00+00:00",
+      "category": "토스페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "카카오페이, '낙점'된 소상공인 100곳 판로 열어...온·오프라인 전방위...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=253011",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=253011",
+      "description": "카카오페이가 소상공인 상생 캠페인 '오래오래 함께가게'의 올해 신규 입점 브랜드를 소개하는 온라인 기획전을 열고 본격적인 지원 사격에 나선다. 22일 카카오페이에 따르면 오는 7월 5일까지 '시간이 만든 가치, 오래...",
+      "pubDate": "2026-06-22T06:28:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "배민 라이더, 카카오페이로 주유하면 최대 3000포인트 받는다",
+      "link": "https://n.news.naver.com/mnews/article/448/0000621407?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/06/22/2026062290194.html",
+      "description": "배달의민족 물류서비스를 맡는 우아한청년들은 카카오페이와 제휴해 배민커넥트 라이더 대상 주유비 지원 혜택을 운영한다고 22일 밝혔다. 이번 혜택은 유가 상승으로 커진 라이더들의 기름값 부담을 덜기 위해...",
+      "pubDate": "2026-06-22T06:09:00+00:00",
+      "category": "카카오페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "삼성·애플페이 지하철 승차권 3중 결제…이용자 불편 가중",
+      "link": "https://n.news.naver.com/mnews/article/030/0003439925?sid=101",
+      "originallink": "https://www.etnews.com/20260622000150",
+      "description": "지난 3월부터는 삼성페이와 애플페이, 네이버페이, 카카오페이, 알리페이 등 다양한 모바일 간편결제를 이용해 승차권을 구매할 수 있도록 기능을 확대했다. 하지만 모바일 간편결제로 일회용 교통카드를 구매할 경우...",
+      "pubDate": "2026-06-22T05:01:00+00:00",
+      "category": "애플페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[진단_카드업계 ⑤현대카드] 애플페이 효과의 이면… 현대카드, 외형 성...",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=432437",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=432437",
+      "description": "감각적인 디자인과 공격적인 문화 마케팅으로 금융권의 '트렌드 세터' 이미지를 구축해온 현대카드(정태영·조창현 각자대표)는 애플페이 도입 이후 젊은 고객층 유입에 성공하며 외형 성장을 이어가고 있다. 그러나...",
+      "pubDate": "2026-06-22T04:36:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "카카오페이, 소상공인 브랜드 100곳 온라인 기획전 개최",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=124417",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=124417",
+      "description": "카카오페이가 소상공인 상생 캠페인 '오래오래 함께가게'의 신규 입점 브랜드를 소개하는 온라인 기획전을 연다. 올해 새로 선정된 소상공인 브랜드 100곳의 판로 확대를 지원하기 위한 행사다. 22일 카카오페이에 따르면...",
+      "pubDate": "2026-06-22T04:26:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "우아한청년들, 카카오페이와 손잡고 배민커넥트 라이더 주유비 지원 확...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=583594",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=583594",
+      "description": "우아한청년들이 카카오페이와 협력해 배민커넥트 라이더의 주유비 부담 완화를 위한 지원을 확대한다. 이번 지원은 배달의민족 물류서비스를 담당하는 우아한청년들이 카카오페이와의 제휴로 진행하며, 라이더들은...",
+      "pubDate": "2026-06-22T04:22:00+00:00",
+      "category": "카카오페이",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "\"소상공인브랜드 100곳 판로 확짝\" 카카오페이, 7월5일까지 '오래오래함...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=125232",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125232",
+      "description": "카카오페이가 7월 5일까지 소상공인 상생 캠페인 '오래오래 함께가게'의 2026년 신규 입점 브랜드를 소개하는 온라인 기획전을 개최한다. [이미지 카카오페이] 소상공인이 디지털·스마트 기술 중 온라인 판로를...",
+      "pubDate": "2026-06-22T04:11:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오페이, 소상공인 동행 나서…신규 100개사 온라인 기획전",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263736",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263736",
+      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이)  카카오페이가 함께일하는재단과 함께 소상공인 성장 지원 캠페인 '오래오래 함께가게'의 신규 입점 브랜드를 소개하는 온라인 기획전을 진행한다. 소상공인 브랜드의 판로...",
+      "pubDate": "2026-06-22T02:44:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "“100개 소상공인 브랜드 한자리에”…카카오페이, ‘오래오래 함께가게...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002231605?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026062209264092169",
+      "description": "카카오페이가 소상공인 브랜드의 판로 확대를 위한 온라인 기획전을 연다. 카카오페이는 함께일하는재단과 함께 소상공인 성장 지원 캠페인 ‘오래오래 함께가게’의 신규 입점 브랜드를 소개하는 온라인 기획전을...",
+      "pubDate": "2026-06-22T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "우아한청년들, 고유가 시대 라이더 주유비 지원 확대…카카오페이 제휴",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=88314",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=88314",
+      "description": "인더뉴스 이종현 기자ㅣ배달의민족(배민)의 물류서비스를 전담하는 우아한청년들은 카카오페이와 제휴해 배민커넥트 라이더 대상 주유비 지원 혜택을 내달 11일까지 확대 운영한다고 22일 밝혔습니다. 라이더 주유비...",
+      "pubDate": "2026-06-22T01:22:00+00:00",
+      "category": "카카오페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "신규 가입하면 비트코인 준다?... 카카오페이 퀴즈타임 정답은",
+      "link": "https://www.wikitree.co.kr/articles/1142507",
+      "originallink": "https://www.wikitree.co.kr/articles/1142507",
+      "description": "스마트폰으로 간단한 퀴즈를 풀고 포인트를 적립하는 이른바 '앱테크'가 인기를 끌고 있는 가운데, 카카오페이가 운영하는 퀴즈형 이벤트 '퀴즈타임'에도 이용자들의 관심이 쏠리고 있다. 카카오페이 퀴즈타임은 다양한...",
+      "pubDate": "2026-06-22T01:16:00+00:00",
+      "category": "카카오페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "신형 로봇청소기 관련 문제 출제 .. 토스 행운퀴즈 정답은?",
+      "link": "https://www.wikitree.co.kr/articles/1142506",
+      "originallink": "https://www.wikitree.co.kr/articles/1142506",
+      "description": "최근에는 토스 행운퀴즈뿐 아니라 카카오뱅크 AI 퀴즈, 카카오페이 퀴즈 등 다양한 앱테크 콘텐츠가 활발하게 운영되고 있다. 출석 체크나 퀴즈 참여, 간단한 미션 수행만으로 포인트를 적립할 수 있어 이용자들의 관심이...",
+      "pubDate": "2026-06-22T01:10:00+00:00",
+      "category": "토스페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "[테크스냅] 카카오페이, '오래오래 함께가게' 신규 입점사 기획전",
+      "link": "https://n.news.naver.com/mnews/article/001/0016150954?sid=103",
+      "originallink": "https://www.yna.co.kr/view/AKR20260622043500017?input=1195m",
+      "description": "롯데이노베이트 코튼시드, FC서울 팝업으로 팬덤 접점 확대 카카오페이가 소상공인 상생 캠페인 '오래오래 함께가게'의 2026년 신규 입점 브랜드를 소개하는 온라인 기획전을 연다. 롯데이노베이트는 자사의 팬덤...",
+      "pubDate": "2026-06-22T00:48:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "네이버페이 해외 QR결제, 아시아 전역서 가파른 성장세… 신규 이용자 ...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=308518",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=308518",
+      "description": "현재 네이버페이 해외 QR결제는 전 세계 72개국에서 이용 가능하며, 이는 국내 간편결제 서비스 가운데 가장 많은 국가를 지원하는 수준이다. 최근 이 서비스는 현금 분실이나 카드 불법 복제 등의 위험을 줄일 수 있는...",
+      "pubDate": "2026-06-22T00:46:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "배민 라이더 주유비 부담 낮춘다…카카오페이 결제시 최대 3000P 지급",
+      "link": "https://n.news.naver.com/mnews/article/003/0014019356?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260622_0003677718",
+      "description": "배달의민족 물류서비스를 전담하는 우아한청년들은 카카오페이와 제휴해 배민커넥트 라이더를 대상으로 주유비 지원 혜택을 확대 운영한다고 22일 밝혔다. 이번 혜택은 유가 상승에 따른 라이더들의 경제적 부담을 덜고...",
+      "pubDate": "2026-06-22T00:44:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이, 신규 소상공인 입점사 온라인 기획전 개최",
+      "link": "https://n.news.naver.com/mnews/article/374/0000517351?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000317921?division=NAVER",
+      "description": "카카오페이가 소상공인 상생 캠페인 ‘오래오래 함께가게’의 2026년 신규 입점 브랜드를 소개하는 온라인 기획전을 개최한다고 오늘(22일) 밝혔습니다. 이번 기획전은 6월 22일부터 7월 5일까지 진행되며, 올해 새롭게...",
+      "pubDate": "2026-06-22T00:40:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "카카오페이 '오래오래 함께가게' 신규 브랜드 기획전 개최",
+      "link": "https://n.news.naver.com/mnews/article/018/0006311844?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02561686645484344",
+      "description": "카카오페이(377300)가 소상공인 상생 캠페인 ‘오래오래 함께가게’의 2026년 신규 입점 브랜드를 소개하는 온라인 기획전을 22일부터 다음 달 5일까지 개최한다. 기획전은 ‘시간이 만든 가치, 오래 함께할 이야기’를...",
+      "pubDate": "2026-06-22T00:35:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "우아한청년들, 카카오페이 제휴…배민커넥트 라이더 주유비 지원",
+      "link": "https://n.news.naver.com/mnews/article/018/0006311838?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02538726645484344",
+      "description": "배달의민족 물류서비스를 전담하는 우아한청년들이 카카오페이와 손잡고 배민커넥트 라이더 대상 주유비 지원 혜택을 확대한다. 고유가 상황에서 라이더의 비용 부담을 줄이기 위한 상생 프로그램의 일환이다....",
+      "pubDate": "2026-06-22T00:31:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "배민, 라이더 주유비 지원 확대…카카오페이와 손잡고 고유가 부담 낮춰",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1383677",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1383677",
+      "description": "우아한청년들은 카카오페이와 제휴를 맺고 배민커넥트 라이더를 대상으로 주유비 지원 혜택을 확대 운영한다. 사진=우아한청년들 제공 매일일보 = 오시내 기자  |  배달의민족이 고유가로 부담이 커진 배달 라이더들의...",
+      "pubDate": "2026-06-22T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "배달의민족, 카카오페이 제휴·사내 해커톤 진행",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=746788",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=746788",
+      "description": "배민커넥트 라이더가 스마트폰의 카카오페이 내 삼성페이 간편결제 기능으로 주유소에서 1만원 이상 결제하면 카카오페이포인트 1000P를 최대 3회 받을 수 있다. 휘발유 기준 리터당 약 200원 수준의 지원이며, 총...",
+      "pubDate": "2026-06-22T00:10:00+00:00",
+      "category": "카카오페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "배민, 기름값에 우는 라이더 챙긴다... 카카오페이 손잡고 주유비 지원...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=743012",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=743012",
+      "description": "우아한청년들(대표이사 권오중)은 배달의민족(배민)의 물류서비스를 전담하는 자회사로서 카카오페이와... 쿠팡이츠도 라이더 대상 보험 지원과 수수료 정책을 잇따라 손보고 있고, 요기요 역시 배달 파트너 대상 멤버십...",
+      "pubDate": "2026-06-21T23:48:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "네이버페이 해외QR결제 급성장…홍콩 등으로 확대",
+      "link": "https://n.news.naver.com/mnews/article/422/0000877018?sid=105",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260622080923bID",
+      "description": "네이버페이 해외 QR결제는 현재 전 세계 72개국에서 이용할 수 있으며 이는 국내 간편결제 서비스 중 최다 수준의 제공 국가 수입니다. 최근에는 현금 분실이나 카드 해킹 위험을 줄일 수 있는 결제 수단으로도 주목받고...",
+      "pubDate": "2026-06-21T23:10:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "\"현금도 카드도 필요 없다\"…네이버페이 해외 QR결제, 亞 전역 확산",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1713316",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1713316",
+      "description": "결제망 확대와 포인트 혜택 강화에 힘입어 이용 규모가 크게 늘면서 해외여행객들의 대표 간편결제 수단으로 자리 잡고 있다는 평가다. 22일 네이버페이에 따르면 올해 1~5월 기준 해외 QR결제의 중국·일본 결제 규모는...",
+      "pubDate": "2026-06-21T23:04:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "\"환전 안 해도 된다\"…네이버페이 해외 QR결제, 일본·중국 넘어 폭풍 성...",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=111070",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=111070",
+      "description": "현재 네이버페이 해외 QR결제는 전 세계 72개국에서 이용 가능하며, 이는 국내 간편결제 서비스 가운데 가장 많은 수준이다. 특히 최근에는 일본과 중국을 넘어 홍콩과 싱가포르 등 아시아 주요 여행지에서도 이용이...",
+      "pubDate": "2026-06-21T21:48:00+00:00",
+      "category": "네이버페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "네이버페이 해외QR결제 급성장…홍콩·싱가포르로 확대",
+      "link": "https://n.news.naver.com/mnews/article/001/0016150595?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20260621019600017?input=1195m",
+      "description": "네이버페이 해외 QR결제는 현재 전 세계 72개국에서 이용할 수 있으며 이는 국내 간편결제 서비스 중 최다 수준의 제공 국가 수다. 최근에는 현금 분실이나 카드 해킹 위험을 줄일 수 있는 결제 수단으로도 주목받고...",
+      "pubDate": "2026-06-21T21:33:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오페이 패소에 핀테크 업계 '촉각'…'제3자 정보제공' 파장 예고",
+      "link": "https://n.news.naver.com/mnews/article/277/0005779271?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026061916591181590",
+      "description": "법원은 개보위와 마찬가지로 알리페이를 카카오페이가 아닌 애플의 수탁자로 보고, 카카오페이가 제3자인 애플에 개인정보를 국외 이전했다고 판단했다. 알리페이가 해당 정보를 바탕으로 이용자의 결제대금 지불 여력을...",
+      "pubDate": "2026-06-21T21:10:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "정승규 NHN 페이코 대표 “내실 경영 결실 눈앞”…B2B·스테이블코인으...",
+      "link": "http://www.fntimes.com/html/view.php?ud=202606192243306804dd55077bc2_18",
+      "originallink": "http://www.fntimes.com/html/view.php?ud=202606192243306804dd55077bc2_18",
+      "description": "티메프 사태 딛고 체질 개선… 흑자 전환 기반 마련 NHN 페이코(NHN PAYCO)는 간편결제를 기반으로 포인트 결제, 쿠폰, B2B 기업복지솔루션, 캠퍼스 서비스 등으로 사업 포트폴리오를 확대하며 생활밀착형 플랫폼 생태계...",
+      "pubDate": "2026-06-21T15:02:00+00:00",
+      "category": "페이코",
+      "source": "한국금융신문"
+    },
+    {
       "title": "[금융 HOT 뉴스] \"10명 중 7명, 도박 광고 봤다\"…카카오페이, 청소년 불...",
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=139071",
       "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=139071",
@@ -223,7 +556,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "datanews"
+      "source": "데이터뉴스"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -3466,5 +3799,5 @@
       "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-21T10:58:37.924158+00:00"
+  "lastFetch": "2026-06-22T17:20:37.143466+00:00"
 }
