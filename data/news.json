@@ -1,6 +1,564 @@
 {
   "articles": [
     {
+      "title": "카카오페이, 금융계열사 재편 가속… 이제는 수익성 시험대",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=41968",
+      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=41968",
+      "description": "카카오페이가 카카오페이증권을 완전자회사로 편입하며 금융 계열사 재편 작업에 사실상 마침표를 찍었다. 결제·증권·보험을 아우르는 금융 생태계 구축을 위한 지배구조 정비는 속도를 내고 있지만, 핵심...",
+      "pubDate": "2026-06-23T10:02:00+00:00",
+      "category": "카카오페이",
+      "source": "S저널"
+    },
+    {
+      "title": "카카오페이, 트래블로그 50만좌 돌파…결제 플랫폼 확장 성과",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=97023",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=97023",
+      "description": "카카오페이가 하나카드와 함께 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만좌를 넘어섰다. 사진=카카오페이  카카오페이가 하나카드와 함께 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가...",
+      "pubDate": "2026-06-23T09:48:00+00:00",
+      "category": "카카오페이",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전자회사 편입",
+      "link": "http://www.metroseoul.co.kr/article/20260623500480",
+      "originallink": "http://www.metroseoul.co.kr/article/20260623500480",
+      "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
+      "pubDate": "2026-06-23T09:40:00+00:00",
+      "category": "카카오페이",
+      "source": "메트로신문"
+    },
+    {
+      "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202606231820498893204ead0791_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=202606231820498893204ead0791_12",
+      "description": "배스킨라빈스가 네이버페이와 연계한 결제 적용 행사를 시작했다고 23일 밝혔다. 이번 행사는 매장에서 네이버페이 QR코드로 결제할 경우 적용되며, 별도 쿠폰을 통해 할인 조건이 반영되는 방식이다. 적용 기간은...",
+      "pubDate": "2026-06-23T09:22:00+00:00",
+      "category": "네이버페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "환전 없이 결제·송금 척척… 핀테크 '외화지갑'커진다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005538706?sid=101",
+      "originallink": "http://www.fnnews.com/news/202606231820379499",
+      "description": "네이버페이도 해외 결제망을 넓혀가고 있다. 현재 네이버페이 해외QR결제는 아시아 27개국을 포함해 전 세계 72개국에서 환전 없이 이용할 수 있다. 외화 송금부터 해외 현지 결제까지 하나의 앱에서 해결할 수 있게...",
+      "pubDate": "2026-06-23T09:22:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전 자회사로 편입",
+      "link": "https://n.news.naver.com/mnews/article/018/0006313283?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=05202086645484672",
+      "description": "카카오페이(377300)가 자회사 카카오페이증권의 지분을 전량 인수하며 완전 자회사로 편입했다. 23일 금융감독원 전자공시시스템에 따르면 카카오페이는 이날 카카오페이증권의 2대 주주 보유 주식 291만4652주(27.1%)를...",
+      "pubDate": "2026-06-23T09:22:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전자회사로 편입",
+      "link": "https://www.ajunews.com/view/20260623172604806",
+      "originallink": "https://www.ajunews.com/view/20260623172604806",
+      "description": "1730억에 카카오페이 증권 추가 취득 \"지배구조 개선 통한 경영 효율성 제고\" 아주경제=김지윤 기자 yoon0930@ajunews.com [사진=연합뉴스] 카카오페이가 카카오페이증권을 완전자회사로 편입한다. 그룹 내 지배구조를...",
+      "pubDate": "2026-06-23T09:20:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 100% 완전자회사 품었다",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421466",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421466",
+      "description": "카카오페이는 자회사 카카오페이증권 주식 291만4천652주를 약 1천730억원에 추가 취득했다고 23일 공시했다. 주식 취득 이후 카카오페이의 카카오페이증권 지분율은 100%로 확대됐다. 주식 취득 예정일은 내달 20일이다....",
+      "pubDate": "2026-06-23T09:18:00+00:00",
+      "category": "카카오페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "카카오페이 카카오페이증권 '완전 자회사'로 편입한다, 잔여 지분 전량...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=440684",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=440684",
+      "description": "카카오페이가 카카오페이증권의 2대 주주가 보유한 지분 전량을 인수하며 완전자회사 체제로 편입한다. 카카오페이는 23일 이사회를 열고 카카오페이증권 주식 291만4652주를 약 1730억 원에 추가 취득하기로 결정했다고...",
+      "pubDate": "2026-06-23T09:18:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전자회사로...\"경영 효율성 높인다\"",
+      "link": "https://n.news.naver.com/mnews/article/014/0005538640?sid=101",
+      "originallink": "http://www.fnnews.com/news/202606231740330610",
+      "description": "카카오페이가 자회사 카카오페이증권의 잔여 지분을 전량 인수하며 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730억원에 취득했다고 공시했다. 이로써...",
+      "pubDate": "2026-06-23T08:57:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 100% 자회사 편입…\"경영 효율성 향상\"",
+      "link": "https://n.news.naver.com/mnews/article/374/0000517787?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000318399?division=NAVER",
+      "description": "카카오페이가 카카오페이증권의 2대 주주가 보유한 지분 전량을 인수해 완전자회사로 편입합니다. 카카오페이는 금융투자업 자회사 카카오페이증권 주식 291만4천652주를 약 1천730억원에 추가 취득하기로 했다고 오늘...",
+      "pubDate": "2026-06-23T08:50:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 100% 자회사 편입…“디지털자산 사업 시너...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002231834?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026062317422559364",
+      "description": "카카오페이가 카카오페이증권의 잔여 지분을 모두 인수하며 완전자회사 체제를 구축한다. 지배구조 단순화를 통해 경영 효율성을 높이는 동시에 스테이블코인과 토큰증권(STO) 등 미래 금융 사업 추진에도 속도를 낼...",
+      "pubDate": "2026-06-23T08:45:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 주식 1730억원에 추가취득",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=205934",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=205934",
+      "description": "카카오페이증권 잔여 지분을 추가 취득하는 건이라고 밝혔다. 한편, 금융권에서는 비은행·플랫폼 계열사를 중심으로 지배구조를 재정비하려는 움직임이 이어지고 있다. 네이버파이낸셜과 토스 등 주요 핀테크...",
+      "pubDate": "2026-06-23T08:40:00+00:00",
+      "category": "카카오페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 주식 추가 취득…완전 자회사 전환",
+      "link": "https://n.news.naver.com/mnews/article/029/0003033289?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12069112?ref=naver",
+      "description": "카카오페이가 카카오페이증권의 잔여 지분을 전량 인수하며 완전자회사로 편입한다. 안정적인 경영 환경을 구축해 양사의 시너지를 극대화하고 중복상장 잠재이슈를 해소해 주주가치 보호에 나선다는 계획이다....",
+      "pubDate": "2026-06-23T08:35:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전자회사 편입…“경영 효율성 향상”",
+      "link": "https://www.etoday.co.kr/news/view/2596489",
+      "originallink": "https://www.etoday.co.kr/news/view/2596489",
+      "description": "이투데이=박민석 기자 | 2대 주주 잔여지분 1730억에 전량 인수…손보·페이민트 이어 세 번째 카카오페이 “지배구조 단순화로 경영 효율성·사업 시너지 강화” 카카오페이가 카카오페이증권의 잔여 지분을 모두...",
+      "pubDate": "2026-06-23T08:34:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "카카오페이, 증권 100% 자회사 편입…'중복상장 우려' 해소",
+      "link": "https://n.news.naver.com/mnews/article/030/0003440564?sid=101",
+      "originallink": "https://www.etnews.com/20260623000436",
+      "description": "카카오페이가 카카오페이증권을 완전자회사로 편입한다. 자회사 지배구조를 단순화해 경영 효율성을 높이고, 중복상장 가능성을 사전에 차단해 주주가치를 보호하기 위한 조치다. 카카오페이는 23일 이사회를 열고...",
+      "pubDate": "2026-06-23T08:32:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이 \"카카오페이증권 완전자회사로 편입\"",
+      "link": "https://n.news.naver.com/mnews/article/422/0000877665?sid=105",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260623172633d7m",
+      "description": "카카오페이가 카카오페이증권의 2대 주주가 보유한 지분 전량을 인수해 완전자회사로 편입합니다. 카카오페이는 금융투자업 자회사 카카오페이증권 주식 291만4,652주를 약 1,730억원에 추가 취득하기로 했다고 오늘(23일)...",
+      "pubDate": "2026-06-23T08:27:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "배스킨라빈스, 네이버페이 '메가딜' 프로모션",
+      "link": "http://www.bokuennews.com/news/article.html?no=280237",
+      "originallink": "http://www.bokuennews.com/news/article.html?no=280237",
+      "description": "배스킨라빈스가 네이버페이와 함께 '메가딜' 프로모션을 진행한다. 배스킨라빈스 매장에서 네이버페이 QR코드 결제 시 쿠폰을 제시하면 50% 혜택이 적용된다. 쿠폰은 네이버페이 앱 내 쿠폰 페이지에서 선착순으로...",
+      "pubDate": "2026-06-23T08:26:00+00:00",
+      "category": "네이버페이",
+      "source": "bokuennews"
+    },
+    {
+      "title": "﻿카카오페이, '카카오페이 트래블로그 체크카드' 누적 발급 50만좌 돌파",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=263679",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=263679",
+      "description": "카카오페이는 하나카드와 함께 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만좌를 넘어섰다고 23일 밝혔다. 카카오페이는 흥행 요인으로 국내외 결제 혜택, 전 금융권 계좌를 제한 없이 연결할 수 있는...",
+      "pubDate": "2026-06-23T08:22:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 1730억원에 완전자회사 편입",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462494",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462494",
+      "description": "이미지=카카오페이 카카오페이가 자회사인 카카오페이증권의 잔여 지분을 모두 인수해 완전자회사로 편입한다. 23일 금융감독원 전자공시시스템에 따르면 카카오페이는 카카오페이증권 주식 291만4652주를...",
+      "pubDate": "2026-06-23T08:14:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전자회사로 편입(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016154569?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260623141551008?input=1195m",
+      "description": "잔여지분 1천730억원에 인수…2대주주 지분 전량 취득 \"지배구조 개선으로 경영 효율성 향상\" 카카오페이가 카카오페이증권의 2대 주주가 보유한 지분 전량을 인수해 완전자회사로 편입한다. 카카오페이는 금융투자업...",
+      "pubDate": "2026-06-23T08:12:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전자회사 전환…\"경영 효율성 제고\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009019381?sid=101",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6206014",
+      "description": "카카오페이(377300)가 자회사 카카오페이증권의 잔여 지분을 전량 인수해 완전자회사로 전환했다. 카카오페이는 23일 이사회를 열고 카카오페이증권 주식 291만 4652주를 1729억 8168만 원에 취득하기로 결정했다고 이날...",
+      "pubDate": "2026-06-23T08:01:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 1730억원 추가 출자…완전자회사 전환",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026062316490187025",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026062316490187025",
+      "description": "카카오페이가 카카오페이증권의 잔여 지분을 추가 취득해 완전자회사 체제를 구축한다. 그룹 내 지배구조를 단순화하고 경영 효율성을 높이기 위한 조치다. 23일 금융감독원 전자공시시스템에 따르면...",
+      "pubDate": "2026-06-23T08:00:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "카카오페이 \"카카오페이증권 주식 1천730억원에 추가취득\"",
+      "link": "https://n.news.naver.com/mnews/article/374/0000517753?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000318357?division=NAVER",
+      "description": "코스피 상장사 카카오페이는 금융투자업 자회사 카카오페이증권의 주식 291만4천652주를 약 1천730억원에 추가 취득한다고 23일 공시했습니다. 주식 취득 뒤 카카오페이의 카카오페이증권 지분율은 100%가 되며, 주식...",
+      "pubDate": "2026-06-23T07:49:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 100% 완전 자회사로..신안그룹 회장 차남 지...",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/108703",
+      "originallink": "https://www.smarttoday.co.kr/ko-kr/articles/108703",
+      "description": "카카오페이가 카카오페이증권을 완전 자회사로 편입한다. 카카오페이는 카카오페이증권 지분 27%를 1730억원에 취득키로 했다고 23일 공시했다. 지배구조를 개선, 경영 효율성을 높인다는 취지라고 회사측은 밝혔다....",
+      "pubDate": "2026-06-23T07:46:00+00:00",
+      "category": "카카오페이",
+      "source": "스마트투데이"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전 자회사 전환…1730억에 잔여지분 인수",
+      "link": "https://n.news.naver.com/mnews/article/003/0014023260?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260623_0003680090",
+      "description": "카카오페이가 자회사 카카오페이증권의 잔여 지분을 전량 인수하며 완전자회사로 전환했다. 23일 금융감독원 전자공시시스템에 따르면 카카오페이는 이날 카카오페이증권의 2대 주주 보유 주식 291만4652주(27.1%)를 약...",
+      "pubDate": "2026-06-23T07:33:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "[카드사 풍향계] 카카오페이 트래블로그 체크카드, 50만 발급 돌파 外",
+      "link": "https://www.ekn.kr/web/view.php?key=20260623025355822",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260623025355822",
+      "description": "◇ 카카오페이 트래블로그 체크카드, 50만 발급 돌파 '카카오페이 트래블로그 체크카드'가 누적 발급 50만좌를 넘어섰다. 이는 카카오페이와 하나카드가 손잡고 출시한 상품으로, 외화 하나머니(해외)와...",
+      "pubDate": "2026-06-23T07:14:00+00:00",
+      "category": "카카오페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "KB국민카드, ‘적립·맞춤혜택·간편결제’ 스포츠 비유…이색 광고 100...",
+      "link": "https://www.g-enews.com/view.php?ud=202606231602074042e30fcb1ba8_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202606231602074042e30fcb1ba8_1",
+      "description": "타깃을 정확하게 찌르는 장면을 통해 간편결제와 온라인 소비에 특화된 혜택을 필요한 순간 제공한다는 의미를 담았다. KB국민카드 관계자는 “이번 광고는 카드별 핵심 혜택을 소비자가 쉽게 이해할 수 있도록...",
+      "pubDate": "2026-06-23T07:12:00+00:00",
+      "category": "간편결제",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "배스킨라빈스, 네이버페이 결제 시 전 제품 50% 할인 프로모션",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4090829",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4090829",
+      "description": "배스킨라빈스가 네이버페이와 함께 최대 50%의 할인 혜택을 제공하는 '메가딜' 프로모션을 진행합니다. 이번 행사는 배스킨라빈스 매장에서 네이버페이 앱을 통해 선착순으로 다운로드한 쿠폰을 제시하고, QR코드로...",
+      "pubDate": "2026-06-23T07:04:00+00:00",
+      "category": "네이버페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "금융위 샌드박스 개편…핀테크 경쟁도 '지정'서 '사업화'로",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=188932",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=188932",
+      "description": "네이버페이는 생활금융 플랫폼 확장에 나서고 있고, 카카오페이는 결제 기반 금융 생태계 구축을 추진하고 있다. 토스는 계열 금융사를 중심으로 종합 금융 플랫폼 경쟁력을 강화하고 있다. 이 같은 상황에서 금융위의...",
+      "pubDate": "2026-06-23T06:58:00+00:00",
+      "category": "간편결제",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "핀테크 AI는 '보험 추천' 못하는데… 챗GPT는 상품명까지 술술",
+      "link": "https://n.news.naver.com/mnews/article/008/0005375893?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/06/23/2026062311283822702",
+      "description": "대표적으로 카카오페이의 생성형 AI 기반 '페이아이'가 있다. 페이아이는 고객이 보험 분석을 요청하면 현재 가입한 상품이 특정 질환을 어느 정도 보장하는지 분석하고 비슷한 연령대의 평균 보험료 등을 비교해준다....",
+      "pubDate": "2026-06-23T06:20:00+00:00",
+      "category": "간편결제",
+      "source": "머니투데이"
+    },
+    {
+      "title": "﻿아이씨비, 제로페이 방한 외국인 간편결제 운영사업자 선정",
+      "link": "https://n.news.naver.com/mnews/article/015/0005301804?sid=101",
+      "originallink": "https://www.hankyung.com/article/202606232769O",
+      "description": "크로스보더(국가 간) 결제 전문 전자금융기업 아이씨비(ICB, 대표 이한용)가 한국간편결제진흥원(이사장 권대수)이 운영하는 제로페이의 외국인 간편결제 운영사업자로 최종 선정됐다고 23일 밝혔다. 이번 선정에 따라...",
+      "pubDate": "2026-06-23T05:30:00+00:00",
+      "category": "간편결제",
+      "source": "한국경제"
+    },
+    {
+      "title": "해외 결제 시장 커지자…카카오페이 트래블로그 50만장 넘었다",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5033419",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5033419",
+      "description": "카카오페이와 하나카드가 함께 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만장을 넘어섰다. 23일 카드업계에 따르면, 카카오페이 트래블로그 체크카드는 출시 이후 국내외 결제 혜택과 계좌 연결...",
+      "pubDate": "2026-06-23T05:24:00+00:00",
+      "category": "카카오페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "카카오페이, 하나카드 손잡고 '초연결 영토' 확장",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1005550",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1005550",
+      "description": "카카오페이가 모바일 간편결제와 실물카드의 경계를 허물며 가입자 기반을 빠르게 넓히고 있다. 23일 카카오페이는 하나카드와 손잡고 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만좌를 돌파했다고...",
+      "pubDate": "2026-06-23T05:02:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "카카오페이, '카카오페이 트래블로그 체크카드' 누적 50만좌 돌파",
+      "link": "https://www.ajunews.com/view/20260623133758124",
+      "originallink": "https://www.ajunews.com/view/20260623133758124",
+      "description": "모든 금융권 계좌와 연결 가능 강점 내세워 아주경제=권가림 기자 hidden@ajunews.com 카카오페이가 하나카드와 함께 선보인 ‘카카오페이 트래블로그 체크카드’의 누적 발급 수가 50만좌를 돌파했다고 23일 밝혔다. 이 같은...",
+      "pubDate": "2026-06-23T04:42:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "배스킨라빈스, 네이버페이 '메가딜' 진행",
+      "link": "https://www.hg-times.com/news/articleView.html?idxno=302987",
+      "originallink": "https://www.hg-times.com/news/articleView.html?idxno=302987",
+      "description": "한강타임즈 김광호 기자 = 배스킨라빈스는 네이버페이와 함께 '메가딜' 프로모션을 진행한다고 23일 밝혔다. 배스킨라빈스에 따르면 매장에서 네이버페이 QR코드 결제 시 쿠폰을 제시하면 50% 혜택이 적용된다. 쿠폰은...",
+      "pubDate": "2026-06-23T04:36:00+00:00",
+      "category": "네이버페이",
+      "source": "한강타임즈"
+    },
+    {
+      "title": "카카오페이 트래블로그 체크카드, 출시 후 발급 50만좌 넘어",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=308705",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=308705",
+      "description": "카카오페이가 하나카드와 함께 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만좌를 넘어섰다. 카카오페이는 '카카오페이 트래블로그 체크카드'가 국내외 결제 혜택과 다양한 계좌 연동 기능을 바탕으로...",
+      "pubDate": "2026-06-23T02:50:00+00:00",
+      "category": "카카오페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "네이버·두나무 주총 전 결론 날까… 공정위, 거래소·핀테크에도 의견...",
+      "link": "https://n.news.naver.com/mnews/article/081/0003654982?sid=101",
+      "originallink": "https://www.seoul.co.kr/news/economy/2026/06/23/20260623500093?wlog_tag3=naver",
+      "description": "8월 주총 앞두고 심사 장기화하나 거래소·증권·핀테크 의견 청취 네이버·업비트 결합에 지배력 우려 스테이블코인·STO 확장성도 변수네이버파이낸셜과 두나무의 포괄적 주식교환 주주총회가 두 달도 채 남지 않은...",
+      "pubDate": "2026-06-23T02:43:00+00:00",
+      "category": "간편결제",
+      "source": "서울신문"
+    },
+    {
+      "title": "롯데백화점, 유니온페이와 결제 서비스 협력 확대",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7170925",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7170925",
+      "description": "양사는 오는 9월부터 롯데백화점 전 점포에 QR코드 기반 결제 서비스와 NFC(근거리무선통신) 기반 비접촉식 간편결제 서비스인 'NFC 퀵패스'를 도입할 예정이다. 회사 측은 백화점 업계 최초 적용 사례라고 설명했다....",
+      "pubDate": "2026-06-23T02:36:00+00:00",
+      "category": "간편결제",
+      "source": "주간한국"
+    },
+    {
+      "title": "아이씨비, 제로페이 외국인 결제사업자 선정…18개국 간편결제 연동",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=82440",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=82440",
+      "description": "인더스트리뉴스 김은경 기자  크로스보더(국가 간) 결제 전문 전자금융기업 아이씨비(ICB, 대표 이한용)가 한국간편결제진흥원이 운영하는 제로페이의 외국인 간편결제 운영사업자로 최종 선정됐다. 아이씨비는 이번...",
+      "pubDate": "2026-06-23T02:34:00+00:00",
+      "category": "간편결제",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "롯데백화점, 외국인 관광객 위한 간편결제 도입...유니온페이와 협업",
+      "link": "https://www.tokenpost.kr/news/economy/371948",
+      "originallink": "https://www.tokenpost.kr/news/economy/371948",
+      "description": "롯데백화점이 오는 9월부터 전 점포에 외국인 전용 간편결제 체계를 확대 도입하면서, 방한 관광객의 쇼핑 결제 환경이 한층 쉬워질 전망이다. 롯데백화점은 23일 중국 상하이에서 유니온페이와 ‘외국인 결제 편의 및...",
+      "pubDate": "2026-06-23T02:24:00+00:00",
+      "category": "간편결제",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "'카카오페이 트래블로그 체크카드' 누적 발급 50만좌 돌파",
+      "link": "https://n.news.naver.com/mnews/article/374/0000517617?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000318212?division=NAVER",
+      "description": "카카오페이가 하나카드와 함께 선보인 ‘카카오페이 트래블로그 체크카드’의 누적 발급 수가 50만 좌를 돌파했습니다. '카카오페이 트래블로그 체크카드'는 출시 이후 국내외를 아우르는 강력한 혜택을 바탕으로 사용자...",
+      "pubDate": "2026-06-23T02:17:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "배스킨라빈스, 네이버페이와 '메가딜' 프로모션 진행",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=250648",
+      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=250648",
+      "description": "배스킨라빈스 관계자는 간편결제 이용 고객에게 더 많은 혜택을 제공하기 위해 이번 행사를 기획했다며, 무더운 여름 네이버페이와 함께 시원한 아이스크림을 즐겨보길 바란다고 말했다.",
+      "pubDate": "2026-06-23T02:00:00+00:00",
+      "category": "네이버페이",
+      "source": "넥스트데일리"
+    },
+    {
+      "title": "카카오페이 트래블로그 체크카드, 누적 발급 50만 좌 돌파",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=124540",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=124540",
+      "description": "카카오페이가 하나카드와 함께 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만 좌를 넘어섰다. 해외에서는 트래블로그 혜택을, 국내에서는 카카오페이머니 결제 혜택을 제공하는 구조가 이용자 확대까지...",
+      "pubDate": "2026-06-23T01:52:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "카카오페이, ‘카카오페이 트래블로그 체크카드’ 누적 50만좌 돌파",
+      "link": "https://n.news.naver.com/mnews/article/016/0002660195?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10784949?ref=naver",
+      "description": "카카오페이가 하나카드와 함께 선보인 ‘카카오페이 트래블로그 체크카드’의 누적 발급 수가 50만 좌를 돌파했다고 23일 밝혔다. ‘카카오페이 트래블로그 체크카드’는 국내·외 결제 혜택, 전 금융권 계좌를 제한 없이...",
+      "pubDate": "2026-06-23T01:51:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "개인정보 리스크에도 카카오페이 본업은 컸다…첫 흑자 뒤 1분기 매출 3...",
+      "link": "https://sateconomy.co.kr/news/view/1065575855272399",
+      "originallink": "https://sateconomy.co.kr/news/view/1065575855272399",
+      "description": "2025년 첫 연간 흑자·2026년 1분기 순이익 347억…법원 패소로 신뢰 회복은 새 과제 ▲카카오페이 CI 카카오페이가 개인정보 국외 이전 소송에서 패소하며 규제 리스크를 안게 됐지만, 본업의 성장세까지 꺾인 것은 아니다....",
+      "pubDate": "2026-06-23T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "카카오페이 여행 체크카드, 누적구좌 50만 돌파",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263772",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=263772",
+      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이)  카카오페이가 하나카드와 손잡고 출시한 해외 결제 특화 상품이 편의성과 수수료 면제 혜택을 무기로 단기간에 50만 좌를 돌파하는 성과를 거뒀다. 사용자가 이미 거래 중인...",
+      "pubDate": "2026-06-23T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 카카오 소식...카카오뱅크·카카오페이",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199549",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199549",
+      "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게' 2026 신규 입점사 온라인 기획전을 개최했다. 또 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만 돌파했다. ◆ 카카오뱅크, 인터넷전문은행 최초로...",
+      "pubDate": "2026-06-23T01:40:00+00:00",
+      "category": "카카오페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "롯데百, 유니온페이 손잡고 9월 전점에 QR·NFC 간편결제 도입",
+      "link": "https://n.news.naver.com/mnews/article/030/0003440229?sid=101",
+      "originallink": "https://www.etnews.com/20260623000130",
+      "description": "QR결제는 QR코드를 스캔하는 방식이며, NFC 퀵패스는 NFC 기반 비접촉식 간편결제 서비스다. 양사는 오는 9월부터 롯데백화점 전 점에 두 결제 시스템을 적용한다. 유니온페이는 중국을 중심으로 전 세계에 결제...",
+      "pubDate": "2026-06-23T01:31:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, 트래블로그 체크카드 '50만장' 돌파",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91442",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=91442",
+      "description": "카카오페이가 하나카드와 함께 선보인 '카카오페이 트래블로그 체크카드'가 이용자들의 호응을 이끌어내고 있다. 카카오페이는 '카카오페이 트래블로그 체크카드'의 누적 발급 규모가 50만장을 돌파했다고 23일 밝혔다....",
+      "pubDate": "2026-06-23T01:30:00+00:00",
+      "category": "카카오페이",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "\"페이머니 사용성확대로 결제편의 높인다\" 카카오페이 '트래블로그 체크...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=125277",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125277",
+      "description": "카카오페이가 하나카드와 손잡고 선보인 특화 결제 수단이 국내외 금융 소비자들의 필수재로 자리 잡으며 모바일 간편결제와 실물 카드의 융합이 가져올 시너지 효과를 증명해 내고 있다. 카카오페이가 하나카드와...",
+      "pubDate": "2026-06-23T01:23:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "‘카카오페이 트래블로그 체크카드’ 누적 발급 50만좌 돌파",
+      "link": "https://n.news.naver.com/mnews/article/243/0000099506?sid=101",
+      "originallink": "https://economist.co.kr/article/view/ecn202606230011",
+      "description": "카카오페이(대표 신원근)가 하나카드와 함께 선보인 ‘카카오페이 트래블로그 체크카드’의 누적 발급 수가 50만 좌를 돌파했다. ‘카카오페이 트래블로그 체크카드’는 출시 이후 국내외를 아우르는 강력한 혜택을...",
+      "pubDate": "2026-06-23T01:15:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미스트"
+    },
+    {
+      "title": "카카오페이 트래블로그 체크카드, 50만장 돌파",
+      "link": "https://n.news.naver.com/mnews/article/030/0003440202?sid=101",
+      "originallink": "https://www.etnews.com/20260623000102",
+      "description": "카카오페이가 하나카드와 함께 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만좌를 돌파했다. 카카오페이는 흥행 요인으로 △국내·외 결제 혜택 △전 금융권 계좌를 제한 없이 연결하는 '초연결성...",
+      "pubDate": "2026-06-23T01:11:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, ‘카카오페이 트래블로그 체크카드’ 누적 발급 50만 좌 돌...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002231720?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026062309233614281",
+      "description": "카카오페이가 하나카드와 함께 선보인 ‘카카오페이 트래블로그 체크카드’의 누적 발급 수가 50만 좌를 돌파했다고 23일 밝혔다. 이 카드는 출시 이후 국내외를 아우르는 혜택을 바탕으로 사용자 기반을 빠르게 확대해...",
+      "pubDate": "2026-06-23T00:36:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오페이 트래블로그 체크카드, 누적 발급 50만좌 넘어",
+      "link": "https://n.news.naver.com/mnews/article/018/0006312801?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03211126645484672",
+      "description": "카카오페이(377300)가 하나카드와 함께 선보인 ‘카카오페이 트래블로그 체크카드’의 누적 발급 수가 50만 좌를 돌파했다. ‘카카오페이 트래블로그 체크카드’는 출시 이후 국내외를 아우르는 혜택을 바탕으로 사용자...",
+      "pubDate": "2026-06-23T00:33:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이 트래블로그 체크카드 50만 돌파, 머니 생태계 확장 신호탄",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=743128",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=743128",
+      "description": "해외여행 수요 회복과 고환율 시대가 맞물리며 수수료 없는 해외 결제에 대한 수요가 폭발적으로 늘어나는 한편 카카오페이머니를 중심으로 전 금융권 계좌를 하나로 묶는 이른바 초연결 전략이 시장에서 먹히고 있다....",
+      "pubDate": "2026-06-23T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 트래블로그 체크카드 50만좌 돌파",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677380",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677380",
+      "description": "카카오페이가 하나카드와 선보인 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만좌를 넘어섰다. 카카오페이머니와 하나카드 트래블로그 혜택을 결합해 국내외 결제 편의성을 높인 점이 사용자 확대에 영향을 미친...",
+      "pubDate": "2026-06-23T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오페이, 트래블로그 카드 50만좌 돌파...해외 직구족·여행객 사로잡...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=253061",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=253061",
+      "description": "카카오페이가 하나카드와 손잡고 출시한 해외 결제 특화 상품이 강력한 편의성과 혜택을 무기로 단기간에 50만좌를 돌파하는 성과를 거뒀다. 카카오페이는 23일 하나카드와 협업해 선보인 '카카오페이 트래블로그...",
+      "pubDate": "2026-06-23T00:22:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "디지털 결제 시장 확대에도 관련주 혼조…옥석 가리기 시작",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462270",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462270",
+      "description": "카카오페이는 간편결제와 핀테크 플랫폼을 기반으로 디지털 금융 생태계 확대의 핵심 기업으로 평가받고 있다. 프리엠스와 누리플렉스는 단기적인 매물 부담으로 약세를 보이고 있지만, 누리플렉스의 경우 스마트...",
+      "pubDate": "2026-06-23T00:12:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "이렇게 쉽게 풀릴 수가…토스 6월 넷째주 경제퀴즈 문제와 정답 '바로 확...",
+      "link": "https://www.wikitree.co.kr/articles/1142694",
+      "originallink": "https://www.wikitree.co.kr/articles/1142694",
+      "description": "토스는 비바리퍼블리카가 운영하는 모바일 금융 플랫폼이다. 간편 송금 서비스로 2015년 처음 출시된 이후 빠르게 서비스 영역을 확장하며 국내 대표 핀테크 기업으로 성장했다. 현재는 송금·결제·투자 등 다양한 금융...",
+      "pubDate": "2026-06-22T23:50:00+00:00",
+      "category": "토스페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "바로 풀어보자…카카오페이 퀴즈타임 6월 23일 정답 대공개",
+      "link": "https://www.wikitree.co.kr/articles/1142683",
+      "originallink": "https://www.wikitree.co.kr/articles/1142683",
+      "description": "23일 오전 카카오페이 퀴즈타임의 문제와 정답을 공개한다. 문제: 내 보험 탐험의 ○ ○ ○ 탐험을 참여하면 내 보험을 더 자세히 확인할 수 있어요 정답: 보너스 카카오페이란? 카카오페이는 카카오의 금융 계열사...",
+      "pubDate": "2026-06-22T23:14:00+00:00",
+      "category": "카카오페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "[핀테크핫이슈] 금융권 슈퍼앱 전쟁 재점화...AI 업무 현장으로",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677190",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677190",
+      "description": "외형 성장 넘어 내실 경쟁 본격화 카카오페이는 무신사·투썸플레이스·편의점·올리브영 등 생활 소비처와 연계한 6월 결제 혜택을 공개하며, 간편결제 이용 확대에 나섰다. 토스페이먼츠는 웹케시와 손잡고...",
+      "pubDate": "2026-06-22T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
       "title": "카카오페이, 소상공인 상생 기획전 연다",
       "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101049",
       "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101049",
@@ -3445,7 +4003,7 @@
       "description": "삼성 월렛에 바로 저장된다. 여행자는 별도 앱을 실행하거나 이메일을 찾지 않아도 모바일 티켓 형태로 현장에서 즉시 사용할 수 있다. 삼성페이 기반 결제 환경도...",
       "pubDate": "2026-05-13T23:00:00+00:00",
       "category": "삼성페이",
-      "source": "벤처스퀘어"
+      "source": "venturesquare"
     },
     {
       "title": "와그, 삼성 월렛과 연동…예약부터 티켓 관리까지 통합 여행 서비스",
@@ -3788,16 +4346,7 @@
       "pubDate": "2026-04-01T08:56:00+00:00",
       "category": "토스페이",
       "source": "인사이트코리아"
-    },
-    {
-      "title": "'중국자본' 카카오페이에 CBDC 유통까지?",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1295514&inflow=N",
-      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1295514&inflow=N",
-      "description": "그러다 지난 1월16일 앤트그룹이 보유했던 토스페이먼츠 지분 전량을 인수하면서 중국 자본과 멀어졌습니다. 금융권 일각에서는 이러한 구조가 알리페이·위챗페이 유통망 기반으로 위안화 디지털화폐(e-CNY)을...",
-      "pubDate": "2026-03-25T07:02:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스토마토"
     }
   ],
-  "lastFetch": "2026-06-22T17:20:37.143466+00:00"
+  "lastFetch": "2026-06-23T10:53:39.812858+00:00"
 }
