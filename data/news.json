@@ -1,6 +1,195 @@
 {
   "articles": [
     {
+      "title": "금감원 네이버·카카오·토스 계열 전자금융업자 CIO 소집, \"전통금융 이...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=440766",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=440766",
+      "description": "간담회에는 네이버파이낸셜, 카카오, 카카오페이, 카카오모빌리티, 비바리퍼블리카, 토스페이먼츠 등이 참석했다. 전자금융업자는 디지털 기술에 바탕을 두고 간편결제(페이), 송금, 선불전자지급수단(머니) 발행·관리...",
+      "pubDate": "2026-06-24T08:42:00+00:00",
+      "category": "토스페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "\"손보·페이민트 이어 증권까지\"...카카오페이, 카카오페이증권 완전자...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=308939",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=308939",
+      "description": "카카오페이가 카카오페이증권 2대 주주가 보유한 잔여 지분 전량을 인수해 증권 자회사를 100% 완전자회사로 편입한다. 금융 자회사 지배구조를 단순화하고 디지털자산 기반 신사업 추진 속도를 높이기 위한 조치다. 24일...",
+      "pubDate": "2026-06-24T08:28:00+00:00",
+      "category": "카카오페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "성영수 하나카드 대표, '트래블로그' 안방으로 결제 시장 넓힌다",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=248771",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=248771",
+      "description": "성영수 하나카드 대표가 해외여행 특화 서비스인 '트래블로그'를 카카오페이와의 제휴를 통해 국내 생활결제 영역으로 보폭을 넓히고 있다. 해외 결제 영역에서 강점을 보이고 있는 하나카드가 카카오페이 이용자...",
+      "pubDate": "2026-06-24T08:24:00+00:00",
+      "category": "간편결제",
+      "source": "인사이트코리아"
+    },
+    {
+      "title": "[業의 전쟁, 핀테크 vs 신용카드] ③ 페이 전성시대, 카드업권 '생존전략...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=263780",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=263780",
+      "description": "네이버페이·카카오페이·토스 등 핀테크·빅테크 플랫폼이 결제의 시작점과 소비자 경험 전반을 장악하면서, 전통적인 결제 인프라의 중심이었던 카드업권의 위상은 이미 크게 약화했다. 파이낸셜포스트는 카드산업이...",
+      "pubDate": "2026-06-24T05:58:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "금감원 \"네이버·카카오·토스, 금융사 수준 IT 통제 강화\"",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=243706",
+      "originallink": "https://www.safetimes.co.kr/news/articleView.html?idxno=243706",
+      "description": "간담회에는 △네이버파이낸셜 △카카오 △카카오페이 △카카오모빌리티 △비바리퍼블리카 △토스페이먼츠 등의  관계자들이 참석했다. 금감원에 따르면 올해 들어 일부 전자금융업자들은 결제·충전·송금 서비스...",
+      "pubDate": "2026-06-24T05:24:00+00:00",
+      "category": "토스페이",
+      "source": "세이프타임즈"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 잔여 지분 1730억원에 인수…완전자회사 편...",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4787054",
+      "originallink": "https://www.newsinside.kr/news/articleView.html?idxno=4787054",
+      "description": "카카오페이가 카카오페이증권의 잔여 지분을 모두 사들이며 100% 완전자회사로 편입한다. 신속한 의사결정 체계를 구축하고 결제 플랫폼과 증권 서비스 간의 결합을 극대화해, 정체된 증권 부문의 실적 반등을 꾀하려는...",
+      "pubDate": "2026-06-24T05:04:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스인사이드"
+    },
+    {
+      "title": "배스킨라빈스-네이버페이 콜라보 ‘메가딜’ 프로모션… 전 제품 ‘반값...",
+      "link": "http://www.breaknews.com/1216446",
+      "originallink": "http://www.breaknews.com/1216446",
+      "description": "배스킨라빈스 관계자는 \"간편결제 서비스를 이용하는 고객들에게 실질적인 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"여름철 고객들이 아이스크림을 보다...",
+      "pubDate": "2026-06-24T04:36:00+00:00",
+      "category": "네이버페이",
+      "source": "breaknews"
+    },
+    {
+      "title": "카드업계, 공공지원·간편결제·생활혜택으로 고객 접점 넓혀",
+      "link": "https://sateconomy.co.kr/news/view/1065584505688079",
+      "originallink": "https://sateconomy.co.kr/news/view/1065584505688079",
+      "description": "우리카드, 법무부와 난민신청자 지원 협약…KB국민카드 이벤트·광고 성과, 삼성카드 생활특화 상품 출시 카드업계가 공공 지원, 간편결제 이벤트, 생활밀착형 카드 출시를 통해 고객 접점을 넓히고 있다. 우리카드는...",
+      "pubDate": "2026-06-24T04:16:00+00:00",
+      "category": "간편결제",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "신세계면세점, 외국인 관광객 할부 결제 서비스 '나누페이' 도입",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=440713",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=440713",
+      "description": "신세계면세점은 외국인 고객을 위한 간편결제 서비스도 확대하고 있다. 신세계면세점은 3월 서울 명동점과 인천공항점 등 주요 오프라인 매장에 대만 간편결제 서비스 '라인페이'를 차례대로 도입했다. 라인페이는...",
+      "pubDate": "2026-06-24T02:26:00+00:00",
+      "category": "간편결제",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "카카오페이證 카톡 채널, 3개월만에 친구 100만",
+      "link": "https://n.news.naver.com/mnews/article/016/0002660815?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10786416?ref=naver",
+      "description": "카카오페이증권은 자사 카카오톡 채널 친구 수가 100만명을 돌파했다고 24일 밝혔다. 이는 카카오톡 채널 내 ‘증권’ 검색 시 노출되는 친구 수 기준(2026년 6월 22일) 국내 증권사 공식 채널 중 1위다. 카카오페이증권...",
+      "pubDate": "2026-06-24T02:03:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "토스페이먼츠, 쇼피파이에 공식 결제 연동",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309412",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309412",
+      "description": "이미지=토스페이먼츠  토스페이먼츠가 글로벌 쇼핑몰 플랫폼인 쇼피파이와 손잡고 온라인 쇼핑몰 운영자들을 위한 간편 결제 연동 서비스를 전격 선보인다. 비바리퍼블리카(토스)의 전자지급결제대행(PG) 계열사...",
+      "pubDate": "2026-06-24T01:50:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 완전자회사로 편입...\"경영효율성\"",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=602199",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=602199",
+      "description": "카카오페이가 자회사인 카카오페이증권의 잔여 지분을 전량 인수해 완전자회사로 편입한다. 지배구조 단순화를 통해 경영 효율성을 제고하기 위해서다. 24일 전자공시시스템에 따르면 카카오페이는 카카오페이증권...",
+      "pubDate": "2026-06-24T01:20:00+00:00",
+      "category": "카카오페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "금감원, 네이버·카카오·토스 불렀다…\"전산사고 재발 막아야\"",
+      "link": "https://n.news.naver.com/mnews/article/417/0001148796?sid=101",
+      "originallink": "https://www.sidae.com/article/2026062410072779983",
+      "description": "금감원은 24일 서울 여의도 본원에서 네이버파이낸셜, 카카오, 카카오페이, 카카오모빌리티, 비바리퍼블리카, 토스페이먼츠 등 빅테크 계열 전자금융업자 6개사 최고정보책임자(CIO)와 감사 담당자 등이 참석한 간담회를...",
+      "pubDate": "2026-06-24T01:17:00+00:00",
+      "category": "토스페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "금감원, 네이버·카카오·토스 등 CIO 소집 ‘전산사고 예방’ 주문",
+      "link": "https://n.news.naver.com/mnews/article/016/0002660716?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10786158?ref=naver",
+      "description": "전자금융업자 측에서는 네이버파이낸셜·카카오·카카오페이·카카오모빌리티·비바리퍼블리카(토스 운영사)·토스페이먼츠 등 6개사의 CIO와 감사담당자가 자리했다. 최근 전자금융업을 영위하는 빅테크 계열 회사의...",
+      "pubDate": "2026-06-24T01:01:00+00:00",
+      "category": "토스페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "카카오페이證 카톡 채널 100만 돌파…3개월 만에 증권사 1위",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=113495",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=113495",
+      "description": "카카오페이증권이 자사 카카오톡 채널 친구 수가 100만명을 돌파하며 국내 증권사 공식 채널 중 1위를 기록했다고 24일 밝혔다. 올해 3월 24일 7만명 수준이던 친구 수는 약 3개월 만에 14배 이상 늘었으며 이 기간 증권사...",
+      "pubDate": "2026-06-23T23:58:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "카카오페이, 카카오페이증권 100% 자회사 편입…1730억원에 잔여 지분 인...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003104052?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1659164/?sc=Naver",
+      "description": "카카오페이가 카카오페이증권을 완전자회사로 편입한다. 지배구조를 단순화해 경영 효율성을 높이고 향후 중복상장 가능성을 차단하겠다는 구상이다. 24일 금융권에 따르면 카카오페이는 전날(23일) 공시를 통해...",
+      "pubDate": "2026-06-23T23:49:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "토스페이먼츠, 쇼피파이와 손잡고 자사몰 결제 시장 공략 나섰다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=743240",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=743240",
+      "description": "카카오페이·네이버페이 등 경쟁 핀테크 사업자들이 자사몰 생태계에서의 결제 점유율 확대를 노리는 가운데 토스페이먼츠가 쇼피파이라는 글로벌 채널을 통해 가맹점 접점을 먼저 확보한 셈이다. 토스페이먼츠 관계자는...",
+      "pubDate": "2026-06-23T23:14:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "안도걸 의원 \"핀테크에 34% 경영권 보장\"…은행은 지급 안정성과 신뢰 ...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=846011",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=846011",
+      "description": "결제망·커머스·간편송금·가상자산 서비스와 연결하기도 쉽다. 다만 원화 기반 토큰이 민간 플랫폼 안에서 빠르게 퍼질 경우 △예금 이탈 △지급결제 질서 변화 △통화정책 전달 경로 약화 논란이 커질 수 있다. 은행...",
+      "pubDate": "2026-06-23T22:56:00+00:00",
+      "category": "간편결제",
+      "source": "한스경제"
+    },
+    {
+      "title": "[굿모닝금융] BNK금융·카카오페이·우리다문화장학재단 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=139290",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=139290",
+      "description": "카카오페이가 하나카드와 선보인 '카카오페이 트래블로그 체크카드'의 누적 발급 수가 50만좌를 돌파했다. 사진=카카오페이 ◆ 카카오페이, '카카오페이 트래블로그 체크카드' 50만좌 발급 카카오페이(대표 신원근)가...",
+      "pubDate": "2026-06-23T21:24:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "카카오페이, '카카오페이증권 완전 자회사' 전환…'이재명노믹스' 모범...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=263703",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=263703",
+      "description": "카카오페이가 카카오페이증권을 완전자회사로 편입한다. 24일 업권에 따르면, 이번 조치는 자회사 지배구조를 단순화해 경영 효율성을 높이고, 중복상장 가능성을 사전에 차단해 주주가치를 보호하기 위한 결단으로...",
+      "pubDate": "2026-06-23T21:10:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "네이버페이가 결제 금액의 50%를 돌려주는 이유",
+      "link": "https://news.mtn.co.kr/news-detail/2026062315385273441",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026062315385273441",
+      "description": "기존 카드사와 PG사가 결제 인프라를 장악하고 있는 데다 카카오페이, 토스, NHN 페이코 등 경쟁 사업자들이 일찍부터 오프라인 간편결제 시장을 공략해 왔기 때문이다. 업계 관계자는 \"네이버가 온라인 쇼핑과 검색, 예약...",
+      "pubDate": "2026-06-23T21:06:00+00:00",
+      "category": "네이버페이",
+      "source": "mtn"
+    },
+    {
       "title": "카카오페이, 금융계열사 재편 가속… 이제는 수익성 시험대",
       "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=41968",
       "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=41968",
@@ -4003,7 +4192,7 @@
       "description": "삼성 월렛에 바로 저장된다. 여행자는 별도 앱을 실행하거나 이메일을 찾지 않아도 모바일 티켓 형태로 현장에서 즉시 사용할 수 있다. 삼성페이 기반 결제 환경도...",
       "pubDate": "2026-05-13T23:00:00+00:00",
       "category": "삼성페이",
-      "source": "venturesquare"
+      "source": "벤처스퀘어"
     },
     {
       "title": "와그, 삼성 월렛과 연동…예약부터 티켓 관리까지 통합 여행 서비스",
@@ -4348,5 +4537,5 @@
       "source": "인사이트코리아"
     }
   ],
-  "lastFetch": "2026-06-23T10:53:39.812858+00:00"
+  "lastFetch": "2026-06-24T10:37:30.295203+00:00"
 }
