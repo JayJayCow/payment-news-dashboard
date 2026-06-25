@@ -1,6 +1,474 @@
 {
   "articles": [
     {
+      "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=659314",
+      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=659314",
+      "description": "한국금융경제신문=김선재 기자 | 광주은행이 토스플레이스와 '소상공인 및 지역경제 활성화를 위한 전략적 업무 제휴 협약'을 체결했다. 변미경 광주은행 부행장과 최재호 토스플레이스 대표가 기념촬영을 하고 있다.. 사진...",
+      "pubDate": "2026-06-25T10:22:00+00:00",
+      "category": "토스페이",
+      "source": "한국금융경제신문"
+    },
+    {
+      "title": "\"결제 편해야 지갑 열린다\"…유통가, 중화권 간편결제 확대",
+      "link": "https://www.ajunews.com/view/20260624155924316",
+      "originallink": "https://www.ajunews.com/view/20260624155924316",
+      "description": "com [그래픽=아주경제] 한국을 찾는 중화권 관광객이 늘면서 유통업계가 현지 간편결제 수단 도입에 속도를 내고 있다. 결제 편의성이 매출과 직결되는 만큼 국내 매장에서 관광객이 평소 쓰던 결제 앱으로 바로 결제할...",
+      "pubDate": "2026-06-25T09:00:00+00:00",
+      "category": "간편결제",
+      "source": "아주경제"
+    },
+    {
+      "title": "현대카드, 애플페이 기반 해외결제 '독보'…하반기도 주도권 잇는다",
+      "link": "https://n.news.naver.com/mnews/article/293/0000086805?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=666560",
+      "description": "국내 유일의 애플페이 사업자로서 결제 플랫폼의 편의성과 효율성을 극대화한 전략이 실적 성장에 주효했다는 평가가 나온다. 현대카드는 경쟁사들의 시장 진입이 예고된 상황에 애플페이라는 단일 플랫폼에만...",
+      "pubDate": "2026-06-25T08:36:00+00:00",
+      "category": "애플페이",
+      "source": "블로터"
+    },
+    {
+      "title": "토스플레이스·사조푸디스트·보람그룹, 협업 확대…금융·식품·문화예...",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=184575",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=184575",
+      "description": "6월 24일 토스 신논현 오피스에서 열린 '광주·전남 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약식'에서 (왼쪽부터)변미경 광주은행 디지털본부 부행장과 최재호 토스플레이스 대표가 기념사진을...",
+      "pubDate": "2026-06-25T08:34:00+00:00",
+      "category": "토스페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "광주은행, 토스플레이스와 소상공인 결제환경 개선 협력",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305126",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=305126",
+      "description": "광주은행이 토스플레이스 신논현 오피스에서 토스플레이스와 소상공인에게 보다 편리한 금융·결제 서비스를 연계 제공하고 지역경제 활성화를 지원하기 위한 전략적 업무 제휴 협약을 체결했다고 24일 밝혔다. 이날...",
+      "pubDate": "2026-06-25T07:52:00+00:00",
+      "category": "토스페이",
+      "source": "FETV"
+    },
+    {
+      "title": "광주은행, 토스플레이스와 소상공인 금융 지원 강화",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=914779",
+      "originallink": "https://www.namdonews.com/news/articleView.html?idxno=914779",
+      "description": "광주은행이 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 서비스 연계를 강화한다. 25일 광주은행에 따르면 광주은행은 전날 토스플레이스 신논현 오피스에서 토스플레이스와 전략적 업무협약을 체결했다. 이번...",
+      "pubDate": "2026-06-25T07:36:00+00:00",
+      "category": "토스페이",
+      "source": "남도일보"
+    },
+    {
+      "title": "동네 가게도 '디지털 점포' 시대…광주은행·토스플레이스 협력",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131005",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=131005",
+      "description": "이러한 가운데 광주은행과 토스플레이스는 광주·전남 지역 소상공인의 디지털 전환과 지역경제 활성화를 지원하기 위한 전략적 업무협약을 체결했다. 양사는 금융 서비스와 결제 인프라를 결합해 지역 상권의 경쟁력...",
+      "pubDate": "2026-06-25T07:36:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "토스플레이스, 전남 소상공인 결제 혁신 지원…광주은행과 MOU",
+      "link": "https://n.news.naver.com/mnews/article/003/0014028794?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260625_0003683901",
+      "description": "토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 광주은행과 손잡고 광주·전남 소상공인들에게 디지털 기반 결제 인프라 제공을 통해 매장 운영 효율화 지원에 나선다. 토스플레이스는 광주은행과...",
+      "pubDate": "2026-06-25T07:10:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "늘어나는 방한객…유통가, 외국인 결제 서비스 고도화",
+      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=202151",
+      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=202151",
+      "description": "단순히 해외 간편결제를 도입하는 수준을 넘어 국가별 소비 성향에 맞춘 맞춤형 결제 수단과 금융 서비스를 제공하며 쇼핑 경험 전반을 개선하려는 움직임이 확산될 것이라는 전망이다. 실제 한국을 찾는 외국인...",
+      "pubDate": "2026-06-25T06:24:00+00:00",
+      "category": "간편결제",
+      "source": "시사오늘(시사ON)"
+    },
+    {
+      "title": "토스-광주은행 연합전선 확대... 소상공인 결제환경 개선 나서",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=758166",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=758166",
+      "description": "지난해 토스뱅크가 광주은행과의 협업을 통해 은행권 최초의 공동대출 상품인 '함께 대출'을 선보인데 이어 결제 단말기 공급 자회사인 토스플레이스도 광주은행과 업무협약을 체결했다. 토스플레이스는 광주은행과 광주...",
+      "pubDate": "2026-06-25T06:10:00+00:00",
+      "category": "토스페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 맞손…광주·전남 소상공인 결제 인프라 확대",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=263886",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=263886",
+      "description": "토스플레이스가 광주은행과 손잡고 광주·전남 지역 소상공인 결제 인프라 확대에 나선다. 토스의 결제 단말기 및 포스 솔루션 공급 자회사 토스플레이스는 지난 24일 광주은행과 '광주·전남 지역 소상공인 지원 및...",
+      "pubDate": "2026-06-25T06:10:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "토스플레이스, 광주·전남 소상공인 결제 환경 혁신 나서",
+      "link": "https://n.news.naver.com/mnews/article/018/0006314784?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04552646645485328",
+      "description": "토스의 결제 단말기·포스(POS) 솔루션 공급 자회사 토스플레이스가 광주은행과 광주·전남 지역 소상공인 지원, 지역경제 활성화를 위해 협력한다. 6월 24일 토스 신논현 오피스에서 열린 '광주·전남 지역 소상공인 지원 및...",
+      "pubDate": "2026-06-25T05:56:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 MOU 체결… 광주·전남 소상공인 결제 환경 개...",
+      "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/06/25/2026062580107.html",
+      "originallink": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/06/25/2026062580107.html",
+      "description": "송정현 기자 | 비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 광주은행과 광주·전남 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약(MOU)을 체결했다고 25일...",
+      "pubDate": "2026-06-25T05:56:00+00:00",
+      "category": "토스페이",
+      "source": "dizzo"
+    },
+    {
+      "title": "광주은행, 토스플레이스와 전략적 업무제휴 협약",
+      "link": "http://www.jndn.com/article.php?aid=1782366730434956095",
+      "originallink": "http://www.jndn.com/article.php?aid=1782366730434956095",
+      "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
+      "pubDate": "2026-06-25T05:56:00+00:00",
+      "category": "토스페이",
+      "source": "jndmnews"
+    },
+    {
+      "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=249190",
+      "originallink": "https://www.safetynews.co.kr/news/articleView.html?idxno=249190",
+      "description": "광주은행 토스플레이스와 '전략적 업무 제휴 협약'을 체결했다/광주은행 제공 지역 소상공인들의 경영 부담을 줄이고 상권 경쟁력을 높이기 위한 금융·결제 서비스 협력이 본격화된다. 광주은행은 24일 토스플레이스와...",
+      "pubDate": "2026-06-25T05:38:00+00:00",
+      "category": "토스페이",
+      "source": "안전신문"
+    },
+    {
+      "title": "카카오페이, 계열 증권사 품고 미래금융 '승부수'",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1379822",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1379822",
+      "description": "카카오페이 로고. 사진=연합뉴스 카카오페이가 카카오페이증권을 완전자회사로 편입하며 금융 계열사 지배구조 단순화에 속도를 내고 있다. 중복상장 우려를 해소하고 의사결정 효율성을 높이는 동시에...",
+      "pubDate": "2026-06-25T05:16:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "토스플레이스-광주은행…광주·전남 소상공인 디지털 전환 지원",
+      "link": "https://n.news.naver.com/mnews/article/030/0003441326?sid=101",
+      "originallink": "https://www.etnews.com/20260625000297",
+      "description": "토스플레이스가 광주은행과 광주·전남 지역 소상공인 지원, 지역경제 활성화를 위한 전략적 업무협약을 체결했다. 양사는 지난 24일 토스플레이스 신논현 오피스에서 최재호 토스플레이스 대표와 변미경 광주은행 부행장...",
+      "pubDate": "2026-06-25T05:14:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "광주은행-토스플레이스 \"소상공인 금융·결제 서비스 강화\"",
+      "link": "https://news.dealsitetv.com/articles/172360",
+      "originallink": "https://news.dealsitetv.com/articles/172360",
+      "description": "지역 상권 활성화 위한 전략적 MOU…공동 마케팅·가맹점 인프라 확대 추진 광주은행이 토스플레이스와 손잡고 소상공인 지원과 지역경제 활성화에 나선다. 광주은행은 24일 서울 토스플레이스 신논현 오피스에서...",
+      "pubDate": "2026-06-25T05:00:00+00:00",
+      "category": "토스페이",
+      "source": "DealSite경제TV"
+    },
+    {
+      "title": "'中 알리페이 정보 이전' 카카오페이 2심 간다…핀테크 업계 긴장",
+      "link": "https://n.news.naver.com/mnews/article/374/0000518207?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000318789?division=NAVER",
+      "description": "중국 핀테크 알리페이에 개인정보 국외 이전을 이유로 부과된 과징금 처분을 둘러싼 카카오페이와 개인정보보호위원회의 법적 공방이 2심으로 이어지게 됐습니다. 오늘(25일) 업계에 따르면 카카오페이는 개인정보위의...",
+      "pubDate": "2026-06-25T04:54:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "광주은행·토스플레이스 업무협약…소상공인 금융·결제 지원 강화",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=873280",
+      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=873280",
+      "description": "광주은행은 24일 토스플레이스 신논현 오피스에서 토스플레이스와 소상공인 대상 금융·결제 서비스 연계 및 지역 상권 활성화를 위한 전략적 업무 제휴 협약을 체결했다고 밝혔다. 이날 협약식에는 변미경 광주은행...",
+      "pubDate": "2026-06-25T04:48:00+00:00",
+      "category": "토스페이",
+      "source": "글로벌경제신문"
+    },
+    {
+      "title": "광주은행·토스플레이스, 소상공인 금융·결제 지원 협력",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1713904",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1713904",
+      "description": "광주은행이 토스플레이스와 손잡고 광주·전남 지역 소상공인의 금융·결제 편의성을 높이기 위한 협력 체계를 구축한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스와 지역 소상공인 지원과 상권...",
+      "pubDate": "2026-06-25T04:42:00+00:00",
+      "category": "토스페이",
+      "source": "EBN"
+    },
+    {
+      "title": "카카오페이, '中 알리페이 개인정보 제공' 패소에 항소",
+      "link": "https://www.lawtv.kr/news/articleView.html?idxno=60304",
+      "originallink": "https://www.lawtv.kr/news/articleView.html?idxno=60304",
+      "description": "카카오페이가 개인정보보호위원회의 59억6,800만원 과징금이 정당하다는 법원 판단에 불복해 항소했다. 25일 법조계에 따르면 카카오페이는 전날 서울행정법원 행정 12부(강재원 부장판사)에 항소장을 제출했다....",
+      "pubDate": "2026-06-25T04:28:00+00:00",
+      "category": "카카오페이",
+      "source": "법률방송뉴스"
+    },
+    {
+      "title": "핀테크 전산사고 잇따르자 '네·카·토' 불러모은 금감원",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=253399",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=253399",
+      "description": "25일 금융권에 따르면 금감원은 전날(24일) 네이버파이낸셜, 카카오, 카카오페이, 카카오모빌리티, 비바리퍼블리카(토스), 토스페이먼츠 등 빅테크 계열 전자금융업자 6개 사 최고정보책임자(CIO)와 간담회를 열었다....",
+      "pubDate": "2026-06-25T04:06:00+00:00",
+      "category": "간편결제",
+      "source": "아시아A"
+    },
+    {
+      "title": "토스플레이스·광주은행, 광주·전남 소상공인 디지털 전환 맞손",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202606251231571345de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202606251231571345de3f0aa1be_7",
+      "description": "토스플레이스는 광주은행과 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약을 체결했다고 25일 밝혔다. 협약식은 지난 24일 토스플레이스 신논현 오피스에서 열렸다. 현장에는 최재호 토스플레이스 대표와...",
+      "pubDate": "2026-06-25T03:34:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "광주은행, 토스플레이스와 협약… 소상공인 금융·결제 지원 확대",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3617625",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3617625",
+      "description": "광주은행은 토스플레이스와 소상공인 금융·결제 서비스 연계를 위한 전략적 업무 제휴 협약을 체결했다고 25일 밝혔다. 서울 토스플레이스 오피스에서 열린 협약식에는 변미경 광주은행 부행장과 최재호 토스플레이스...",
+      "pubDate": "2026-06-25T02:44:00+00:00",
+      "category": "토스페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "광주은행-토스플레이스 '맞손' 소상공인 지원",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000045279",
+      "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000045279",
+      "description": "광주은행이 토스플레이스와 전략적 업무협약을 맺고 소상공인 금융·결제 서비스 확대와 지역경제 활성화에 나선다. 광주은행은 최근 토스플레이스 신논현 오피스에서 토스플레이스와 소상공인을 위한 금융·결제 서비스...",
+      "pubDate": "2026-06-25T02:37:00+00:00",
+      "category": "토스페이",
+      "source": "전남일보"
+    },
+    {
+      "title": "“지역 소상공인도 토스 결제망으로”…토스플레이스, 광주은행과 맞손",
+      "link": "https://n.news.naver.com/mnews/article/138/0002232050?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026062510284040974",
+      "description": "토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스가 광주은행과 손잡고 광주·전남 지역 소상공인 지원에 나선다. 지역 상권의 디지털 결제 환경을 넓히고 매장 운영 효율을 높이겠다는 취지다. 토스플레이스는...",
+      "pubDate": "2026-06-25T02:32:00+00:00",
+      "category": "토스페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "토스플레이스·광주은행, 소상공인 결제 환경 혁신 나선다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005539538?sid=101",
+      "originallink": "http://www.fnnews.com/news/202606250941567098",
+      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 광주은행과 손잡고 지역 소상공인을 지원한다. 이를 통해 지역경제 활성화를 돕는다는 구상이다. 25일 토스플레이스와 광주은행에...",
+      "pubDate": "2026-06-25T02:23:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "광주은행, 토스플레이스와 손잡고 소상공인 디지털금융 지원",
+      "link": "https://news.mtn.co.kr/news-detail/2026062510141031404",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026062510141031404",
+      "description": "변미경 광주은행 디지털본부 부행장(왼쪽)과 최재호 토스플레이스 대표가 지난 24일 업무협약식 이후 기념사진을 촬영하고 있다. (제공=광주은행) 광주은행이 토스플레이스와 손잡고 광주·전남 지역 소상공인의 디지털...",
+      "pubDate": "2026-06-25T02:18:00+00:00",
+      "category": "토스페이",
+      "source": "mtn"
+    },
+    {
+      "title": "남원시, 상하수도요금 간편결제…온라인 납부 서비스 운영",
+      "link": "https://www.newspim.com/news/view/20260625000567",
+      "originallink": "https://www.newspim.com/news/view/20260625000567",
+      "description": "전북 남원시는 상하수도요금 온라인 납부 서비스를 본격 운영한다고 25일 밝혔다. 남원시는 시민들이 누리집에서 상하수도요금을 조회하고 즉시 납부할 수 있는 온라인 서비스를 구축해 납부 편의를 높였다....",
+      "pubDate": "2026-06-25T02:14:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "광주은행, 토스플레이스와 지역 소상공인 금융·결제 협력 강화",
+      "link": "http://www.lawissue.co.kr/view.php?ud=2026062510582629159817d053b9_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026062510582629159817d053b9_12",
+      "description": "광주은행이 토스플레이스와 소상공인 지원 및 지역경제 활성화를 위한 업무 제휴 협약을 체결했다고 25일 밝혔다. 광주은행에 따르면 협약은 지역 소상공인의 경영 환경 개선과 지역 상권 활성화를 목표로 마련됐다....",
+      "pubDate": "2026-06-25T02:00:00+00:00",
+      "category": "토스페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "카카오페이 \"알리페이 제공은 업무 위탁\"…과징금 59억 판결에 항소",
+      "link": "https://n.news.naver.com/mnews/article/092/0002428008?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260625103759",
+      "description": "카카오페이가 개인정보보호위원회(개보위)가 부과한 과징금 59억 6800만원이 정당하다는 법원 결정에 대해 불복하며 항소를 진행한다. 25일 카카오페이에 따르면 카카오페이는 서울행정법원 행정 12부에 24일 항소장을...",
+      "pubDate": "2026-06-25T01:59:00+00:00",
+      "category": "카카오페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "토스플레이스·광주은행, 호남 소상공인 돕는다",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309594",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=309594",
+      "description": "24일 토스 신논현 오피스에서 열린 '광주·전남 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약식'에서 (왼쪽부터)변미경 광주은행 디지털본부 부행장과 최재호 토스플레이스 대표가 기념사진을 촬영하고...",
+      "pubDate": "2026-06-25T01:58:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "[단독] 네이버페이, 스테이블코인 TF 가동 … 결제·송금 모델 검토",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/25/2026062500093.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/06/25/2026062500093.html",
+      "description": "뉴데일리 신희강 기자 = 원화 스테이블코인 시장 선점 경쟁이 본격화되는 가운데 네이버파이낸셜이 내부 태스크포스(TF)를 가동하고 결제·송금 모델 검토에 착수했다. 두나무와의 기업결합 심사가 진행 중인 상황에서도...",
+      "pubDate": "2026-06-25T01:48:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "광주은행-토스플레이스 맞손…지역 소상공인 ‘금융·결제 원스톱 시대...",
+      "link": "https://www.viva100.com/article/20260625500499",
+      "originallink": "https://www.viva100.com/article/20260625500499",
+      "description": "광주은행이 간편결제 플랫폼 기업인 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 서비스 혁신에 나선다. 디지털 금융 경쟁이 치열해지는 가운데 지역은행의 경쟁력을 높이는 동시에 소상공인의 경영 부담을...",
+      "pubDate": "2026-06-25T01:32:00+00:00",
+      "category": "토스페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "지역 상권 공략 나선 토스플레이스… 광주은행과 협력 확대",
+      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518980",
+      "originallink": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518980",
+      "description": "광주·전남 지역 소상공인의 디지털 전환을 지원하기 위해 비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스와 광주은행이 손을 잡았다. [제공 = 토스] 광주·전남 지역 소상공인의 디지털...",
+      "pubDate": "2026-06-25T01:26:00+00:00",
+      "category": "토스페이",
+      "source": "일요서울i"
+    },
+    {
+      "title": "광주은행, '토스플레이스' 손잡고 소상공인 금융결제 지원 확대",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=433055",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=433055",
+      "description": "광주은행(은행장 정일선)이 토스플레이스(대표 최재호)와 손잡고 지역 소상공인을 위한 금융·결제 지원 확대에 나선다고 25일 밝혔다. 이번 협약은 금융 접근성과 결제 편의성을 동시에 높여 광주·전남 지역 상권에...",
+      "pubDate": "2026-06-25T01:12:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "\"소상공인 든든한 동반자\"…광주은행·토스플레이스 선언",
+      "link": "https://n.news.naver.com/mnews/article/015/0005302640?sid=101",
+      "originallink": "https://www.hankyung.com/article/202606257074i",
+      "description": "광주은행은 토스플레이스와 지역 소상공인에게 디지털 금융·결제 서비스를 연계·제공하고 지역경제 활성화를 지원하기 위한 전략적 업무 제휴 협약을 체결했다고 25일 밝혔다. 전날 진행한 협약식에는 변미경 광주은행...",
+      "pubDate": "2026-06-25T01:11:00+00:00",
+      "category": "토스페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 맞손…광주·전남 지역 소상공인 지원",
+      "link": "https://n.news.naver.com/mnews/article/374/0000518127?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000318753?division=NAVER",
+      "description": "토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 광주은행과 광주·전남 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약(MOU)을 체결했다고 오늘(25일) 밝혔습니다. 양사는 어제(24일)...",
+      "pubDate": "2026-06-25T00:59:00+00:00",
+      "category": "토스페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 협약…\"광주·전남 소상공인 결제환경 혁신\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005781259?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026062509583919638",
+      "description": "비바리퍼블리카(토스)의 결제 단말기 및 판매시점정보관리시스템(POS) 솔루션 공급 자회사 토스플레이스는 광주은행과 광주·전남 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약을 체결했다고 25일 밝혔다....",
+      "pubDate": "2026-06-25T00:58:00+00:00",
+      "category": "토스페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "광주은행-토스플레이스, 상권 활성화 위한 금융·결제 협력",
+      "link": "https://n.news.naver.com/mnews/article/417/0001148967?sid=102",
+      "originallink": "https://www.sidae.com/article/2026062509371823130",
+      "description": "광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스와 전략적 업무 제휴 협약을 체결했다고 25일 밝혔다. 이번 협약은 지역 소상공인의 경영 환경 개선과 지역 상권 활성화를 지원하기 위해 마련됐다....",
+      "pubDate": "2026-06-25T00:57:00+00:00",
+      "category": "토스페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "토스플레이스·광주은행, 소상공인 지원 MOU",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=846324",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=846324",
+      "description": "토스플레이스 | 서울=한스경제 김종효 기자 | 토스플레이스와 광주은행이 광주·전남 지역 소상공인 결제 환경 혁신을 위해 전략적 업무협약을 맺었다. 양사는 24일 토스플레이스 신논현 오피스에서 협약식을 열었다....",
+      "pubDate": "2026-06-25T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 맞손…광주·전남 소상공인 DT 활성화 지원",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=217328",
+      "originallink": "https://www.itbiznews.com/news/articleView.html?idxno=217328",
+      "description": "토스플레이스가 광주은행과 광주·전남 지역 소상공인 지원과 지역경제 활성화를 위한 전략적 업무협약을 체결했다고 25일 밝혔다. 양사는 전날(24일) 토스플레이스 신논현 오피스에서 최재호 토스플레이스 대표, 변미경...",
+      "pubDate": "2026-06-25T00:50:00+00:00",
+      "category": "토스페이",
+      "source": "IT비즈뉴스"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 MOU 체결",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2442294",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2442294",
+      "description": "토스플레이스가 광주은행과 광주·전남 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약(MOU)을 체결했다고 25일 밝혔다. 양사는 지난 24일 토스플레이스 신논현 오피스에서 최재호 토스플레이스 대표와...",
+      "pubDate": "2026-06-25T00:47:00+00:00",
+      "category": "토스페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "광주은행·토스플레이스 맞손…소상공인 금융·결제 서비스 강화",
+      "link": "https://n.news.naver.com/mnews/article/003/0014026790?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20260625_0003682983",
+      "description": "광주은행이 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 서비스 강화에 나선다. 25일 광주은행에 따르면 전날 서울 토스플레이스 신논현 오피스에서 토스플레이스와 소상공인 지원·지역경제 활성화를 위한...",
+      "pubDate": "2026-06-25T00:46:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 '지역 경제 활성화 업무협약' 체결",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=137947",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=137947",
+      "description": "24일 토스 신논현 오피스에서 열린 '광주·전남 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약식'에서 변미경 광주은행 디지털본부 부행장(왼쪽)과 최재호 토스플레이스 대표가 기념사진을 촬영하고 있다....",
+      "pubDate": "2026-06-25T00:36:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 소상공인 결제환경 개선 협력",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678102",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678102",
+      "description": "24일 토스 신논현 오피스에서 열린 '광주·전남 지역 소상공인 지원 및 지역경제 활성화를 위한 전략적 업무협약식'에서 변미경 광주은행 디지털본부 부행장과 최재호 토스플레이스 대표(왼쪽부터)가 기념사진을 촬영하고...",
+      "pubDate": "2026-06-25T00:06:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "지금 당장 확인하자…토스 행운퀴즈 '6월 25일' 정답 공개",
+      "link": "https://www.wikitree.co.kr/articles/1143143",
+      "originallink": "https://www.wikitree.co.kr/articles/1143143",
+      "description": "앱을 통해 신용카드 이용 혜택, 간편 결제 내역, 보험 서비스, 신용 점수 관리, 간편 송금, 신분증 발급 신청까지 가능하다. 특히 토스뱅크는 조건 없이 이자 지급이 가능한 통장을 제공하며, 자동화된 재정관리 기능도...",
+      "pubDate": "2026-06-24T23:52:00+00:00",
+      "category": "토스페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "카카오페이 '알리페이 개인정보 제공' 패소에 항소",
+      "link": "https://n.news.naver.com/mnews/article/421/0009022316?sid=101",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6207657",
+      "description": "카카오페이(377300)가 개인정보보호위원회의 59억 6800만 원 과징금이 정당하다는 법원 판단에 불복해 항소했다. 25일 법조계에 따르면 카카오페이는 지난 24일 서울행정법원 행정 12부(부장판사 강재원)에 항소장을...",
+      "pubDate": "2026-06-24T23:28:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "토스플레이스, 광주은행과 광주·전남 소상공인 지원 MOU 체결",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=528106",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=528106",
+      "description": "|중앙이코노미뉴스 김수현 기자|24일 변미경 광주은행 디지털본부 부행장(왼쪽)과 최재호 토스플레이스 대표가 업무협약식 이후 기념사진을 촬영하고 있다. [사진=토스플레이스]  토스플레이스(대표 최재호)는 광주은행...",
+      "pubDate": "2026-06-24T23:28:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "토스플레이스·광주은행, 지역 소상공인 디지털 결제 생태계 구축 위한...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80407",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=80407",
+      "description": "토스플레이스는 광주은행과 전략적 업무협약(MOU)을 체결하고 광주·전남 지역 소상공인의 매장 운영 환경을 혁신하기 위한 다각적인 지원을 시작한다고 25일 밝혔다. 지난 24일 서울 신논현 토스플레이스 오피스에서 진행된...",
+      "pubDate": "2026-06-24T23:16:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "카카오페이 패소, '알리페이 경유' 왜 문제가 됐나",
+      "link": "https://n.news.naver.com/mnews/article/119/0003104443?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1659507/?sc=Naver",
+      "description": "국내에서는 알리페이가 애플과 카카오페이 간 중간자 역할을 수행했다. 이용자는 애플 계정에 카카오페이를 결제수단으로 등록하는 과정에서 카카오페이를 통한 정보 제공과 국외 이전에는 동의했지만, 알리페이를...",
+      "pubDate": "2026-06-24T21:50:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
       "title": "금감원 네이버·카카오·토스 계열 전자금융업자 CIO 소집, \"전통금융 이...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=440766",
       "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=440766",
@@ -61,7 +529,7 @@
       "description": "배스킨라빈스 관계자는 \"간편결제 서비스를 이용하는 고객들에게 실질적인 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"여름철 고객들이 아이스크림을 보다...",
       "pubDate": "2026-06-24T04:36:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "카드업계, 공공지원·간편결제·생활혜택으로 고객 접점 넓혀",
@@ -4537,5 +5005,5 @@
       "source": "인사이트코리아"
     }
   ],
-  "lastFetch": "2026-06-24T10:37:30.295203+00:00"
+  "lastFetch": "2026-06-25T10:27:23.601579+00:00"
 }
