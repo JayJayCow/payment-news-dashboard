@@ -1,6 +1,87 @@
 {
   "articles": [
     {
+      "title": "토스 결제단말기, 점심시간 한때 '먹통'…\"매출 피해 전액 보상\"",
+      "link": "https://n.news.naver.com/mnews/article/448/0000622552?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/06/26/2026062690269.html",
+      "description": "26일 금융권에 따르면 토스가 운영하는 토스플레이스의 결제단말기는 이날 낮 11시 40분쯤부터 12시 10분쯤까지 약 30분 간 ‘네트워크 연결에 문제가 있다’는 안내 문구와 함께 작동이 되지 않았다. 이에 식당 업주 등...",
+      "pubDate": "2026-06-26T08:58:00+00:00",
+      "category": "토스페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "토스플레이스 포스 점심시간 30분 먹통…토스, '매출 100% 보상'",
+      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49293",
+      "originallink": "https://www.1conomynews.co.kr/news/articleView.html?idxno=49293",
+      "description": "토스플레이스 포스(POS)가 점심시간대 약 30분간 장애를 일으키면서 일부 가맹점의 결제 업무가 차질을 빚었다. 토스는 당시 영업 중이던 가맹점을 대상으로 같은 요일·시간대 기준 매출액을 전액 보상하기로 했다. 26일...",
+      "pubDate": "2026-06-26T08:22:00+00:00",
+      "category": "토스페이",
+      "source": "1코노미뉴스"
+    },
+    {
+      "title": "'30분 먹통'에 '매출 전액 보상' 카드... 토스플레이스, \"신속 대응으로...",
+      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519080",
+      "originallink": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519080",
+      "description": "토스플레이스가 약 30분간 발생한 결제 장애와 관련해 피해 가맹점의 해당 시간대 매출을 전액 보상하는 방안을 내놓았다. [사진 = 토스 사옥 전경. 제공 = 토스] 토스플레이스가 약 30분간 발생한 결제 장애와 관련해 피해...",
+      "pubDate": "2026-06-26T08:12:00+00:00",
+      "category": "토스페이",
+      "source": "일요서울i"
+    },
+    {
+      "title": "토스플레이스 \"토스 포스 접속 지연… 영향 가맹점 전액 보상\"",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092164685",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092164685",
+      "description": "토스플레이스가 매장용 결제 서비스 '토스포스'에서 발생한 접속 지연과 관련해 영향을 받은 가맹점에 해당 시간 매출을 전액 보상하겠다고 밝혔다. 26일 토스플레이스에 따르면 이날 오전 11시39분경부터 약 30분간...",
+      "pubDate": "2026-06-26T08:12:00+00:00",
+      "category": "토스페이",
+      "source": "IT조선"
+    },
+    {
+      "title": "토스, 스테이블코인 이어 AI 데이터 보상까지...디지털자산 판 넓힌다",
+      "link": "https://n.news.naver.com/mnews/article/293/0000086859?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=666671",
+      "description": "토스는 결제 단말기 보급을 확대하며 가맹점 접점을 키우고 있다. 카드, 간편결제, 안면인식 결제, 송금, 포인트, 향후 스테이블코인 결제까지 같은 단말기 안에 들어오면 사용자가 매번 결제수단을 고르는 과정은...",
+      "pubDate": "2026-06-26T07:33:00+00:00",
+      "category": "토스페이",
+      "source": "블로터"
+    },
+    {
+      "title": "[단독] 토스, ‘토스 포스’ 멈춘 동안 매출 100% 보상한다",
+      "link": "https://n.news.naver.com/mnews/article/005/0001857366?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0030025987&code=61141611&cp=nv",
+      "description": "‘토스 포스’ 운영사 토스플레이스가 26일 토스 포스 작동 오류 기간 매출을 전액 보상하기로 했다. 토스플레이스 관계자는 이날 국민일보에 “토스 포스에서 발생한 일시적인 접속 지연으로 불편을 겪은 전국 가맹점에...",
+      "pubDate": "2026-06-26T07:16:00+00:00",
+      "category": "토스페이",
+      "source": "Ϻ"
+    },
+    {
+      "title": "카카오 노조, 29일 하루 업무 중단…카카오·카카오페이 등 5개 법인",
+      "link": "https://n.news.naver.com/mnews/article/448/0000622512?sid=102",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/06/26/2026062690228.html",
+      "description": "카카오와 카카오페이 등 5개 법인 조합원들은 전일 연차나 오프를 사용해 하루 동안 업무를 중단할 예정이다. 로그아웃 데이 대상은 카카오, 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 등 5개...",
+      "pubDate": "2026-06-26T06:50:00+00:00",
+      "category": "카카오페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "[단독] 제일 바쁜 점심에 먹통 된 ‘토스 포스’… 전국 식당 전쟁통",
+      "link": "https://n.news.naver.com/mnews/article/005/0001857344?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0030025024&code=61141611&cp=nv",
+      "description": "토스 포스 운영사인 토스플레이스 내부 전산에 문제가 발생한 것으로 추정된다. 토스플레이스는 이날 오후 12시10분쯤 전국 단말기에 ‘긴급 장애 복구 안내’ 알림창을 띄웠다. 안내문에는 내부 사정으로 토스 포스와...",
+      "pubDate": "2026-06-26T03:39:00+00:00",
+      "category": "토스페이",
+      "source": "Ϻ"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스페이먼츠·토스플레...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199633",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199633",
+      "description": "토스플레이스는 광주은행과 업무협약을 체결해 광주·전남 지역 소상공인 결제 환경 혁신에 나선다. ◆ 토스뱅크, 제7회 디지털금융포럼 '디지털금융 대상' 수상 토스뱅크(대표 이은미)가 지난 25일 부산 해운대구 그랜드...",
+      "pubDate": "2026-06-26T01:44:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
       "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=659314",
       "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=659314",
@@ -5005,5 +5086,5 @@
       "source": "인사이트코리아"
     }
   ],
-  "lastFetch": "2026-06-25T10:27:23.601579+00:00"
+  "lastFetch": "2026-06-26T10:39:43.305826+00:00"
 }
