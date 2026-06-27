@@ -1,6 +1,177 @@
 {
   "articles": [
     {
+      "title": "토스 포스 또 먹통…점심 이어 저녁에도 장애, 자영업자 불편",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=585037",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=585037",
+      "description": "토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스(POS)'에서 점심시간에 이어 저녁에도 장애가 발생하면서 자영업자들이 영업에 차질을 빚었다. 업계에 따르면 26일 오후 5시45분께부터 토스...",
+      "pubDate": "2026-06-27T02:00:00+00:00",
+      "category": "토스페이",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "이름 바꾸고 토스와 맞손…이승윤의 스토리, 리브랜딩 효과 볼까[코인현...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009026640?sid=101",
+      "originallink": "https://www.news1.kr/finance/blockchain-fintech/6210025",
+      "description": "리브랜딩과 동시에 국내 대표 핀테크 기업인 '토스'도 잡았다. 스토리 재단이 인큐베이팅한 프로젝트... 세계 최대 규모 AI 학습 데이터 마켓플레이스인 '클레드(Kled)'와도 기술적으로 통합했다. 클레드 마켓플레이스 내...",
+      "pubDate": "2026-06-26T23:28:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "계열사 정리 끝낸 카카오페이…'AI 금융 플랫폼' 속도 낸다",
+      "link": "https://www.sentv.co.kr/article/view/sentv202606260110",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202606260110",
+      "description": "카카오페이가 카카오페이증권을 완전자회사로 편입하며 금융 계열사 지배구조 정비를 마무리했다. 계열사 간 의사결정과 사업 연계를 강화해 결제·투자·보험을 아우르는 통합 금융 플랫폼 구축에 속도를 내고, AI 기반...",
+      "pubDate": "2026-06-26T23:02:00+00:00",
+      "category": "카카오페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "광주은행-토스플레이스, 소상공인 지원 위한 전략적 업무협약 체결",
+      "link": "http://www.breaknews.com/1217302",
+      "originallink": "http://www.breaknews.com/1217302",
+      "description": "광주은행이 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 인프라 확대와 지역경제 활성화에 나선다. 광주은행(은행장 정일선)은 지난 24일 서울...",
+      "pubDate": "2026-06-26T22:50:00+00:00",
+      "category": "토스페이",
+      "source": "브레이크뉴스"
+    },
+    {
+      "title": "점심 장사 이어 저녁 장사까지…토스 포스 결제 장애",
+      "link": "https://n.news.naver.com/mnews/article/030/0003441811?sid=101",
+      "originallink": "https://www.etnews.com/20260626000372",
+      "description": "토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스'가 26일 점심에 이어 저녁 시간에도 오류가 생겼다. 시스템 장애로 결제가 되지 않는 것이다. 업계에 따르면 이날 오후 5시45분경부터 토스 포스가 제대로...",
+      "pubDate": "2026-06-26T14:11:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "토스 결제단말기 먹통에 자영업자·시민 '발 동동'…대전은 밤까지 오류...",
+      "link": "https://n.news.naver.com/mnews/article/002/0002446404?sid=102",
+      "originallink": "https://www.pressian.com/pages/articles/2026062622391247423?utm_source=naver&utm_medium=search",
+      "description": "토스플레이스 측은 이날 오전 11시40분부터 전국적인 결제 오류가 발생했으나 조치를 취해 약 30분 만인 낮 12시10분쯤 정상화되었다고 밝혔다. 점심시간 대목을 앞두고 터진 갑작스러운 먹통 사태에 전국 가맹점들이 일제히...",
+      "pubDate": "2026-06-26T13:43:00+00:00",
+      "category": "토스페이",
+      "source": "pressian"
+    },
+    {
+      "title": "토스 포스, 점심 이어 저녁 시간에도 결제 시스템 '먹통'",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=747977",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=747977",
+      "description": "토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스'에서 이날 점심에 이어 저녁 시간에도 오류가 발생해 자영업자들이 불편을 겪고 있다. 사진=토스 업계에 따르면 이날 오후 5시45분께부터 토스...",
+      "pubDate": "2026-06-26T13:22:00+00:00",
+      "category": "토스페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "토스 포스 또 먹통…결제 장애 소상공인들 '멘붕'",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2113806",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2113806",
+      "description": "포쓰저널 김지훈 기자 왼쪽부터 매장관리 소프트웨어 '토스 포스'와 결제 단말기 '토스 프론트' /사진=토스플레이스 토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스(POS)'에서 점심시간에 이어...",
+      "pubDate": "2026-06-26T12:32:00+00:00",
+      "category": "토스페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "'토스 포스' 먹통, 점심 이어 저녁까지",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=901661",
+      "originallink": "https://www.kgnews.co.kr/news/article.html?no=901661",
+      "description": "토스 자회사 토스플레이스 운영 포스 단말기 '먹통' 토스 자회사 토스플레이스가 운영하는 매장 결제 시스템 ‘토스 포스’가 26일 점심과 저녁 시간에 연이어 오류가 발생한 것으로 밝혀졌다. 26일 자영업자 온라인...",
+      "pubDate": "2026-06-26T12:22:00+00:00",
+      "category": "토스페이",
+      "source": "kgnews"
+    },
+    {
+      "title": "30만 가맹점 쓰는 토스 포스, 하루 두 차례 결제 먹통",
+      "link": "https://n.news.naver.com/mnews/article/656/0000180059?sid=101",
+      "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2284052",
+      "description": "토스플레이스의 매장 관리·결제 시스템 '토스 포스(POS)'가 점심시간에 이어 저녁 영업 시간대에도 일부 장애를 일으키면서 자영업자들이 불편을 겪고 있다. 26일 업계에 따르면 이날 오후 5시 45분쯤부터 토스 포스가...",
+      "pubDate": "2026-06-26T12:20:00+00:00",
+      "category": "토스페이",
+      "source": "대전일보"
+    },
+    {
+      "title": "불금에 결제 오류…토스 단말기, 저녁에도 일부 먹통",
+      "link": "https://n.news.naver.com/mnews/article/020/0003729781?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20260626/134191778/1",
+      "description": "토스의 자회사 토스플레이스가 운영하는 결제 단말기에서 점심에 이어 저녁 시간에도 먹통 사태가 또다시 발생했다. 손님들이 붐비는 식사 시간 때 카드 결제가 어려워지면서 식당 손님은 물론 요식업 자영업자 불편이...",
+      "pubDate": "2026-06-26T12:20:00+00:00",
+      "category": "토스페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "점심 이어 저녁 장사도 \"왜 결제 안되지?\"…'토스 포스 장애'에 사장님...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005782092?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026062621093578413",
+      "description": "토스 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스'에서 점심시간에 이어 저녁 시간에도 오류가 발생해 일부 자영업자들이 불편을 겪었다. 26일 업계에 따르면 이날 오후 5시45분께부터 토스 포스가...",
+      "pubDate": "2026-06-26T12:09:00+00:00",
+      "category": "토스페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "토스 포스, 점심시간 이어 저녁에도 결제 시스템 먹통",
+      "link": "https://n.news.naver.com/mnews/article/022/0004138508?sid=101",
+      "originallink": "https://www.segye.com/newsView/20260626514618?OutUrl=naver",
+      "description": "토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 토스 포스에서 이날 점심에 이어 저녁 시간에도 오류가 발생해자영업자들이 불편을 겪고 있다. 업계에 따르면 이날 오후 5시45분쯤부터 토스 포스가...",
+      "pubDate": "2026-06-26T11:56:00+00:00",
+      "category": "토스페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "토스 포스, 점심 이어 저녁에도 장애… 자영업자 “영업 차질”",
+      "link": "https://n.news.naver.com/mnews/article/366/0001174804?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/06/26/BYTC4JRWLRDEVA3DYT4Y7JPJ6A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "토스 자회사 토스플레이스가 제공하는 매장 관리·결제 시스템 ‘토스 포스’에서 26일 점심시간에 이어 저녁 영업시간대에도 접속·결제 오류가 발생해 일부 자영업자들이 불편을 겪었다. 업계에 따르면 이날 오후 5시...",
+      "pubDate": "2026-06-26T11:45:00+00:00",
+      "category": "토스페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "토스 포스, 점심 이어 저녁에도 결제 ‘먹통’",
+      "link": "https://n.news.naver.com/mnews/article/011/0004635456?sid=101",
+      "originallink": "https://www.sedaily.com/article/20060764?ref=naver",
+      "description": "토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 ‘토스 포스’에서 26일 점심시간 오류가 발생한 가운데 저녁 시간에도 오류가 발생해 자영업자들의 불편이 이어졌다. 업계에 따르면 이날 오후 5시...",
+      "pubDate": "2026-06-26T11:44:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "점심 이어 저녁에도 '먹통'...토스 포스 오류에 자영업자 불편",
+      "link": "https://n.news.naver.com/mnews/article/014/0005540274?sid=101",
+      "originallink": "http://www.fnnews.com/news/202606262016502108",
+      "description": "토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스' 오류가 발생해 자영업자들이 불편을 겪고 있다. 26일 금융권에 따르면 이날 오후 5시45분께부터 토스 포스가 작동하지 않아 자영업자들이...",
+      "pubDate": "2026-06-26T11:37:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "토스 포스, 점심 이어 저녁에도 결제 시스템 먹통",
+      "link": "https://n.news.naver.com/mnews/article/422/0000878919?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260626203226TTe",
+      "description": "토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스'가 점심에 이어 저녁 시간까지 오류가 나고 있는 것으로 알려졌습니다. 업계에 따르면 오늘(26일) 오후 5시45분쯤 토스 포스가 제대로 작동하지...",
+      "pubDate": "2026-06-26T11:33:00+00:00",
+      "category": "토스페이",
+      "source": "yonhapnewstv"
+    },
+    {
+      "title": "토스 결제기, 점심 이어 저녁에도 ‘먹통’…자영업자 불편",
+      "link": "https://n.news.naver.com/mnews/article/016/0002662245?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10789921?ref=naver",
+      "description": "토스 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 ‘토스 포스’에서 26일 점심시간에 이어 저녁 시간대에도 장애가 발생했다. 식당과 카페 등 자영업자들이 영업 피크 시간대에 결제 차질을 겪으면서 불편이...",
+      "pubDate": "2026-06-26T11:24:00+00:00",
+      "category": "토스페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "토스 포스, 점심시간 이어 저녁에도 결제 시스템 '먹통'",
+      "link": "https://n.news.naver.com/mnews/article/001/0016162172?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260626167600017?input=1195m",
+      "description": "일부 매장 장애 완전히 해소 안 돼…토스플레이스 \"원인 파악 중\" 토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스'에서 이날 점심에 이어 저녁 시간에도 오류가 발생해 자영업자들이 불편을...",
+      "pubDate": "2026-06-26T11:16:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
       "title": "토스 결제단말기, 점심시간 한때 '먹통'…\"매출 피해 전액 보상\"",
       "link": "https://n.news.naver.com/mnews/article/448/0000622552?sid=101",
       "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/06/26/2026062690269.html",
@@ -79,7 +250,7 @@
       "description": "토스플레이스는 광주은행과 업무협약을 체결해 광주·전남 지역 소상공인 결제 환경 혁신에 나선다. ◆ 토스뱅크, 제7회 디지털금융포럼 '디지털금융 대상' 수상 토스뱅크(대표 이은미)가 지난 25일 부산 해운대구 그랜드...",
       "pubDate": "2026-06-26T01:44:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
@@ -1168,7 +1339,7 @@
       "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게' 2026 신규 입점사 온라인 기획전을 개최했다. 또 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만 돌파했다. ◆ 카카오뱅크, 인터넷전문은행 최초로...",
       "pubDate": "2026-06-23T01:40:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "롯데百, 유니온페이 손잡고 9월 전점에 QR·NFC 간편결제 도입",
@@ -1708,7 +1879,7 @@
       "description": "카카오페이는 시니어 디지털 정보격차 해소 공로로 과기부 장관 표창을 수상했으며, 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방 영상 캠페인에도 나섰다. ◆ 카카오뱅크, '지구 온난화 멈추기...",
       "pubDate": "2026-06-19T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스인사이트·토스플레...",
@@ -1717,7 +1888,7 @@
       "description": "◆ 토스플레이스, SK브로드밴드와 소상공인 통신·결제 결합 상품 출시 토스플레이스(대표 최재호)가 SK브로드밴드(사장 김성수)와 함께 소상공인 고객을 위한 통신·결제 결합 상품을 출시한다. 권정훈(왼쪽) SK브로드밴드...",
       "pubDate": "2026-06-19T07:54:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "SK브로드밴드, 토스플레이스와 맞손… 소상공인 지원 생태계 확장",
@@ -2437,7 +2608,7 @@
       "description": "중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 협약식에는 이창호 중기중앙회 공제사업단장과...",
       "pubDate": "2026-06-18T08:04:00+00:00",
       "category": "간편결제",
-      "source": "신소재경제신문"
+      "source": "amenews"
     },
     {
       "title": "중기중앙회·간편결제진흥원 '노란우산 가입확산' 협력키로",
@@ -4003,7 +4174,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -5065,7 +5236,7 @@
       "description": "네이버페이가 포인트 적립형 캐릭터 서비스 ‘페이펫’의 꾸미기 기능과 게임 콘텐츠를 대폭 늘렸고, 토스페이먼츠는 국내 금융·IT 업계 최초로 양자내성암호를 전면 도입하며 차세대 결제 보안 체계 구축에 나섰다. NHN...",
       "pubDate": "2026-04-03T06:34:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "토스 호주 시장 공략 본격화…상장 앞두고 몸집 키운다",
@@ -5086,5 +5257,5 @@
       "source": "인사이트코리아"
     }
   ],
-  "lastFetch": "2026-06-26T10:39:43.305826+00:00"
+  "lastFetch": "2026-06-27T09:19:17.484205+00:00"
 }
