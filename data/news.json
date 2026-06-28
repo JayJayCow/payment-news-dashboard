@@ -1,6 +1,177 @@
 {
   "articles": [
     {
+      "title": "애플페이 독점 효과 통했다…현대카드, '해외 신판' 1위 질주",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=711289",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=711289",
+      "description": "컨슈머타임스=김하은 기자 | 현대카드가 애플페이 선점 효과를 바탕으로 해외 결제시장에서 존재감을 키우고 있는 모습이다. 해외 개인 신용카드 신용판매액과 점유율 모두 업계 1위를 유지한 가운데, 현대카드는...",
+      "pubDate": "2026-06-28T23:08:00+00:00",
+      "category": "애플페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "토스 결제 종일 먹통… 30만 자영업자 피해",
+      "link": "https://n.news.naver.com/mnews/article/023/0003984576?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/06/29/7IZIWHNY6BDDXCGQJRET5HB53A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "불안해서 앞으로 장사 어떻게 하나요.” 금융 서비스 회사 토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 ‘토스 포스’가 지난 26일 갑자기 먹통이 되자 한 자영업자가 온라인 커뮤니티에 올린...",
+      "pubDate": "2026-06-28T15:34:00+00:00",
+      "category": "토스페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "[단독] 점심 피크시간에 결제단말기 오류… 토스플레이스, 손실액 110% 보...",
+      "link": "https://n.news.naver.com/mnews/article/005/0001857619?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=1782627123&code=11151100&cp=nv",
+      "description": "지난 26일 토스 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 ‘토스 포스’에서 결제 장애가 발생했다. 점심 영업이 한창이던 시간대에 단말기 접속이 지연되면서 일부 가맹점주들이 큰 불편을 겪었다....",
+      "pubDate": "2026-06-28T15:27:00+00:00",
+      "category": "토스페이",
+      "source": "Ϻ"
+    },
+    {
+      "title": "카카오 노조 29일 로그아웃데이…카톡·카카오페이 영향은",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=383639",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=383639",
+      "description": "29일 로그아웃데이 대상은 카카오, 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 등 5개 법인이다. 지난 10일 1차 파업에는 카카오 본사 기준 약 1000명, 5개 법인 기준 약 1500명이 참여했다. 당시...",
+      "pubDate": "2026-06-28T13:26:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "토스플레이스, 포스 결제 장애… 가맹점주 매출손실 110% 보상",
+      "link": "https://n.news.naver.com/mnews/article/022/0004138850?sid=101",
+      "originallink": "https://www.segye.com/newsView/20260628508613?OutUrl=naver",
+      "description": "토스의 자회사 토스플레이스가 지난 26일 발생한 매장 관리·결제 시스템 ‘토스 포스’ 결제 장애에 대해 가맹점주에 매출 손실액 전액에 위로금 10%를 더해 현금 보상한다. 28일 업계에 따르면 토스플레이스는 공식...",
+      "pubDate": "2026-06-28T13:01:00+00:00",
+      "category": "토스페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "단말기 먹통에…토스플레이스 \"손실액의 110% 현금 보상\"",
+      "link": "https://n.news.naver.com/mnews/article/015/0005303658?sid=102",
+      "originallink": "https://www.hankyung.com/article/202606282237i",
+      "description": "토스 자회사 토스플레이스가 지난 26일 발생한 매장 키오스크·결제 시스템 ‘토스포스’ 결제 장애와 관련해 가맹점이 입은 추정 매출 손실액에 위로금 10%를 더한 110%를 현금 보상하기로 했다. 28일 토스플레이스에...",
+      "pubDate": "2026-06-28T09:59:00+00:00",
+      "category": "토스페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "[로터리] K핀테크 해외 진출, 정부 간 협력이 답",
+      "link": "https://n.news.naver.com/mnews/article/011/0004635771?sid=101",
+      "originallink": "https://www.sedaily.com/article/20061047?ref=naver",
+      "description": "우리 핀테크 산업은 간편결제와 송금을 넘어 마이데이터, 오픈뱅킹, API 기반 금융서비스 등 혁신을 이끌며 경쟁력을 키워왔다. 치열한 국내 시장에서 축적한 기술과 서비스는 이제 해외에서도 충분히 통할 수준이다. 해외...",
+      "pubDate": "2026-06-28T09:00:00+00:00",
+      "category": "간편결제",
+      "source": "서울경제"
+    },
+    {
+      "title": "토스플레이스, 손실액의 10% 추가보상…점주들은 \"신뢰 잃어\"",
+      "link": "https://www.ajunews.com/view/20260628112739285",
+      "originallink": "https://www.ajunews.com/view/20260628112739285",
+      "description": "서버 과부하로 '불금'에 세 차례나 포스기 결제·주문 장애 발생 29일부터 보상 접수…서버 의존도 축소 등 재발 방지에도 총력 아주경제=김지윤 기자 yoon0930@ajunews.com [사진=토스플레이스 홈페이지] 토스의 자회사...",
+      "pubDate": "2026-06-28T06:02:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "“오늘 장사 다 접었다”… 먹통된 ‘토스 결제’",
+      "link": "https://n.news.naver.com/mnews/article/023/0003984522?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/06/28/DGYZ53TK6ZCPHJLMCTHAAXYQJI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "이에 국내 핀테크 3사(토스·네이버페이·카카오페이) 역시 간편 결제 경쟁에 뛰어들며 오프라인 결제 시장에서 영향력을 키우고 있습니다. 하지만 기업이 시장 선점에만 매달린 채 안전망 구축을 소홀히 한다면, 이번...",
+      "pubDate": "2026-06-28T05:51:00+00:00",
+      "category": "토스페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "카카오 노조 파업 이유는? 29일 카톡·카카오페이 멈추나",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3619867",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3619867",
+      "description": "지난 1차 파업과 마찬가지로 카카오, 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 등 5개 법인이 참여할 것으로 보인다. 노조는 영업이익의 약 13~14% 수준인 1천만원 상당의 성과급을 요구하고 있으며...",
+      "pubDate": "2026-06-28T03:44:00+00:00",
+      "category": "카카오페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "토스플레이스, 포스 장애 매장에 추정 매출액 '110%' 현금 보상...10%는 위...",
+      "link": "https://www.livebiz.today/news/articleView.html?idxno=202920",
+      "originallink": "https://www.livebiz.today/news/articleView.html?idxno=202920",
+      "description": "토스플레이스가 지난 26일 발생한 매장 관리·결제 시스템 '토스 포스' 결제 장애와 관련해 추정 매출 손실액 전액을 보상한다. 또 사과의 의미로 위로금 10%를 더해 현금으로 지급키로 했다. 다만, 오전에는 시스템 접속...",
+      "pubDate": "2026-06-28T03:30:00+00:00",
+      "category": "토스페이",
+      "source": "생생비즈"
+    },
+    {
+      "title": "토스플레이스, 결제 장애 매출 손실 110% 보상",
+      "link": "https://n.news.naver.com/mnews/article/030/0003441928?sid=101",
+      "originallink": "https://www.etnews.com/20260628000066",
+      "description": "토스플레이스가 지난 26일 매장 관리·결제 시스템 '토스 포스' 결제 장애로 생긴 매출 손실액 전액에 위로급 10%를 더해 현금 지급으로 보상한다. 토스플레이스는 공식 홈페이지 공지를 대책을 발표했다. 앞서 토스 포스는...",
+      "pubDate": "2026-06-28T02:54:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "\"금요일 장사 망쳤다\"…토스포스 먹통에 사장님들 '脫토스' 움직임",
+      "link": "https://n.news.naver.com/mnews/article/018/0006316983?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=01531766645486312",
+      "description": "토스 계열사 토스플레이스의 매장 관리·결제 시스템인 ‘토스포스(Toss POS)’가 영업이 집중되는 시간대에 하루 세 차례 결제 장애를 일으키면서 자영업자들의 불만이 커지고 있다. 토스플레이스 서버 과부하에 따른...",
+      "pubDate": "2026-06-28T02:38:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "‘불금’에 먹통 된 토스 결제... “추정 매출액의 110% 보상”",
+      "link": "https://n.news.naver.com/mnews/article/023/0003984494?sid=101",
+      "originallink": "https://www.chosun.com/economy/economy_general/2026/06/28/44QJQFJXRFC4PMDFYJCJBFAROI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "토스 자회사 토스플레이스에서 운영하는 매장 관리·결제 시스템 ‘토스 포스’에서 결제 오류가 발생한 데 대해 매출 손실액에 위로금 10%를 지급하는 보상안이 나왔다. 28일 금융권에 따르면 지난 26일 토스 포스를...",
+      "pubDate": "2026-06-28T02:35:00+00:00",
+      "category": "토스페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "토스플레이스, 포스 장애 피해 매장에 추정 매출액 '110%' 보상",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=206211",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=206211",
+      "description": "26일 두 차례 장애 발생 따른 보상 취지 토스의 자회사 토스플레이스가 결제 장애와 관련해 매출 손실액 전액에 위로급 10%를 더한 현금 지급하는 보상 대책을 내놨다. 매장 관리·결제 시스템 '토스 포스'에서 지난 26일...",
+      "pubDate": "2026-06-28T02:08:00+00:00",
+      "category": "토스페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "'불금'에 결제 단말기 오류…토스플레이스, 추정 매출액 '110%' 보상",
+      "link": "https://n.news.naver.com/mnews/article/422/0000879212?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260628102830wAZ",
+      "description": "토스의 자회사 토스플레이스가 지난 26일 발생한 매장 관리·결제 시스템 '토스 포스' 결제 장애와 관련해, 매출 손실액 전액에 위로급 10%를 더해 현금 지급하는 보상 대책을 발표했습니다. 토스플레이스는 공식 홈페이지...",
+      "pubDate": "2026-06-28T01:29:00+00:00",
+      "category": "토스페이",
+      "source": "yonhapnewstv"
+    },
+    {
+      "title": "토스플레이스, 결제 장애 보상 확대…매출 손실 110% 현금 지급",
+      "link": "https://n.news.naver.com/mnews/article/016/0002662470?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10790408?ref=naver",
+      "description": "토스의 자회사 토스플레이스가 지난 26일 발생한 매장 관리·결제 시스템 ‘토스 포스’ 결제 장애와 관련해 매출 손실액 전액에 위로급 10%를 더해 현금 지급하는 보상 대책을 발표했다. 토스플레이스는 28일 공식...",
+      "pubDate": "2026-06-28T01:26:00+00:00",
+      "category": "토스페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "토스플레이스, 결제 장애 보상 확대…매출 손실 110% 현금 지급",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=528805",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=528805",
+      "description": "[사진=중앙이코노미뉴스]  토스플레이스가 결제 시스템 장애로 피해를 입은 가맹점을 대상으로 매출 손실액의 110%를 현금으로 보상하는 대책을 내놨다. 추정 손실액 전액에 위로금 10%를 추가 지급하는 방식으로 신규...",
+      "pubDate": "2026-06-28T01:16:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "토스플레이스, 포스 장애에 추정 매출액 '110%' 보상한다",
+      "link": "https://n.news.naver.com/mnews/article/001/0016163050?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20260628018800017?input=1195m",
+      "description": "26일 토스포스 결제 장애에 현금 보상 결정 토스의 자회사 토스플레이스가 지난 26일 발생한 매장 관리·결제 시스템 '토스 포스' 결제 장애와 관련해 매출 손실액 전액에 위로급 10%를 더해 현금 지급하는 보상 대책을...",
+      "pubDate": "2026-06-28T01:11:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
       "title": "토스 포스 또 먹통…점심 이어 저녁에도 장애, 자영업자 불편",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=585037",
       "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=585037",
@@ -5257,5 +5428,5 @@
       "source": "인사이트코리아"
     }
   ],
-  "lastFetch": "2026-06-28T00:13:08.328713+00:00"
+  "lastFetch": "2026-06-28T23:37:12.736649+00:00"
 }
