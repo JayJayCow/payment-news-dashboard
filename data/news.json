@@ -1,6 +1,447 @@
 {
   "articles": [
     {
+      "title": "신한카드, 토스와 '토스원 신한카드' 출시…페이스페이 최대 20% 혜택",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571186741417",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571186741417",
+      "description": "업종 구분 없이 혜택을 원하는 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR·바코드 결제와 온라인 토스페이 결제 시 업종 제한 없이 3% 할인 혜택을 제공한다. 페이스페이...",
+      "pubDate": "2026-07-02T00:14:00+00:00",
+      "category": "토스페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "신한카드, 토스와 업계최초 페이스페이 카드 선봬...최대 20% 할인",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=61104",
+      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=61104",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제시 업종 구분 없이 3%를 할인해준다. 페이스페이...",
+      "pubDate": "2026-07-02T00:06:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스로드"
+    },
+    {
+      "title": "신한카드, 업계 최초 '토스 페이스페이 PLCC' 선봬…오프라인 경험 확대",
+      "link": "https://www.ajunews.com/view/20260702090213893",
+      "originallink": "https://www.ajunews.com/view/20260702090213893",
+      "description": "이번 카드는 토스의 간편결제 인프라와 신한카드의 결제 상품 설계를 결합해, 오프라인 결제 경험 전반에서 혜택을 극대화한 것이 특징이다. 핵심은 결제 방식에 따라 차등 적용되는 할인 구조다. 일반 오프라인...",
+      "pubDate": "2026-07-02T00:06:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "신한카드 '토스원' 출시…간편결제·페이스페이 특화 혜택 탑재",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=206566",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=206566",
+      "description": "현대카드는 네이버페이와 손잡고 강력한 '상업자 표시 신용카드(PLCC)'인 '네이버현대카드'를 통해 핀테크 이용자층을 흡수하고 있으며, 삼성카드는 카카오뱅크와 협업한 전용 제휴 카드를 통해 모바일 금융 가머스를...",
+      "pubDate": "2026-07-02T00:02:00+00:00",
+      "category": "간편결제",
+      "source": "SR타임스"
+    },
+    {
+      "title": "페이스페이 혜택 담은 첫 신용카드 '토스 원 신한카드' 출시",
+      "link": "https://n.news.naver.com/mnews/article/018/0006320518?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02994646645510584",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제시 업종 구분 없이 3%를 할인해준다. 페이스페이...",
+      "pubDate": "2026-07-01T23:57:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "신한카드, 토스와 손잡고 페이스페이 전용 카드 출시",
+      "link": "https://news.dealsitetv.com/articles/172733",
+      "originallink": "https://news.dealsitetv.com/articles/172733",
+      "description": "토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면, 업종 제한 없이 할인 혜택을 제공한다. 오프라인에서 QR·바코드 결제, 온라인에서 토스페이 결제시 업종 구분 없이 3%를 할인한다. 단 온·오프라인 월...",
+      "pubDate": "2026-07-01T23:48:00+00:00",
+      "category": "토스페이",
+      "source": "dealsitetv"
+    },
+    {
+      "title": "신한카드, 생체인증 결제 공략..토스와 '페이스페이 카드' 출시",
+      "link": "https://kpenews.com/View.aspx?No=4133925",
+      "originallink": "https://kpenews.com/View.aspx?No=4133925",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR·바코드 결제와 온라인 토스페이 결제 시 업종 구분 없이 3% 할인 혜택을 제공한다. 페이스페이...",
+      "pubDate": "2026-07-01T23:28:00+00:00",
+      "category": "토스페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "[최애의 페이 上] 카드 결제 제쳤다...'모바일 간편결제' 시대 개막",
+      "link": "https://www.banronbodo.com/news/articleView.html?idxno=32561",
+      "originallink": "https://www.banronbodo.com/news/articleView.html?idxno=32561",
+      "description": "온라인 쇼핑은 간편결제 독주 온라인 쇼핑에서 주로 사용하는 결제 수단을 3순위까지 물은 결과 간편결제(네이버페이·카카오페이 등)가 74.4%로 가장 높았다. 일반 카드 결제는 42.0%, 삼성페이·애플페이는 28.3%에...",
+      "pubDate": "2026-07-01T23:00:00+00:00",
+      "category": "간편결제",
+      "source": "반론보도닷컴"
+    },
+    {
+      "title": "박상진 네이버페이 대표, 커넥트 보급 확대로 오프라인 결제망 선점…데...",
+      "link": "http://www.fntimes.com/html/view.php?ud=202607011532018619ed56b8e1f8_18",
+      "originallink": "http://www.fntimes.com/html/view.php?ud=202607011532018619ed56b8e1f8_18",
+      "description": "박상진 네이버페이 대표가 오프라인 결제 인프라 확대를 앞세워 간편결제 시장 주도권 경쟁에 본격적으로 나섰다. 온라인 중심 결제 서비스를 넘어 오프라인 가맹점과 단말기 보급을 확대하며 온·오프라인을 연결하는...",
+      "pubDate": "2026-07-01T22:36:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "[더벨][네이버파이낸셜 비욘드 Npay] 두나무 품고 '금융 슈퍼플랫폼' 꿈...",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606291447285120109462",
+      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606291447285120109462",
+      "description": "실제 네이버파이낸셜은 대표 서비스인 네이버페이(Npay)로 대중에게 익숙하지만 사업의 중심축은 이미 간편결제를 넘어 생활금융 전반으로 확장됐다. 증권, 부동산, 대출, 보험, 사업자금융 등 생활금융 전반으로...",
+      "pubDate": "2026-07-01T22:02:00+00:00",
+      "category": "네이버페이",
+      "source": "더벨"
+    },
+    {
+      "title": "카카오페이, '최성곤' 세계관 입혔다…굿딜 이색 캠페인 전개",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=97341",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=97341",
+      "description": "카카오페이는 영화 '와일드 씽'의 캐릭터 최성곤(오정세 분)과 협업한 '굿딜' 캠페인 영상을 공개했다. 사진=카카오페이  카카오페이가 영화 속 화제 캐릭터와 협업한 캠페인을 선보였다. 온라인 영상과 오프라인 이벤트를...",
+      "pubDate": "2026-07-01T10:54:00+00:00",
+      "category": "카카오페이",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "‘2030이 75%’ KT, 간편결제 7주년 맞아 이벤트 진행",
+      "link": "https://www.dizzotv.com/site/data/html_dir/2026/07/01/2026070180206.html",
+      "originallink": "https://www.dizzotv.com/site/data/html_dir/2026/07/01/2026070180206.html",
+      "description": "KT의 간편결제 통신요금 납부 서비스는 2019년 9월 카카오페이를 시작으로 네이버페이, 토스페이, 페이코까지 주요 간편결제 사업자와 연계해 서비스를 확대해 왔다. KT는 고객이 필요할 때 요금을 즉시 납부하는...",
+      "pubDate": "2026-07-01T08:28:00+00:00",
+      "category": "간편결제",
+      "source": "디지틀조선TV"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년 맞아 이벤트",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440517",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=440517",
+      "description": "이번 프로모션은 카카오페이, 네이버페이, 토스페이, 페이코를 통해 KT 통신요금을 1만원 이상 즉시 납부한 고객을 대상으로 진행된다. 대상 고객은 별도 신청 없이 자동 응모되며, 추첨을 통해 7,777명에게 결제에...",
+      "pubDate": "2026-07-01T08:14:00+00:00",
+      "category": "간편결제",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "[핀테크업계 소식] 카카오페이, 토스",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=264734",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=264734",
+      "description": "◆카카오페이, '굿딜' 협업 콘텐츠 공개 카카오페이는 지난달 30일 공식 유튜브 및 인스타그램 채널을 통해 영화 '와일드 씽'의 발라드 가수 캐릭터인 '최성곤'의 단독 라이브 공연을 선보였다고 1일 밝혔다. 이번 영상은...",
+      "pubDate": "2026-07-01T08:14:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "갤럭시아머니트리, AAIF·x402 재단 가입…AI 에이전트 결제 시장 공략",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=711871",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=711871",
+      "description": "x402 재단 참여 기업으로는 카카오페이에 이어 두 번째다. AAIF와 x402 재단은 모두 리눅스재단 산하에서 운영한다. AAIF는 인공지능(AI) 에이전트 간 상호운용성 표준을 논의하며 x402 재단은 AI 에이전트 결제 프로토콜...",
+      "pubDate": "2026-07-01T07:10:00+00:00",
+      "category": "간편결제",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "KT, 간편결제 서비스 7주년…삼성, 갤럭시 폴더블 8세대 공개 [IT오늘]",
+      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=202305",
+      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=202305",
+      "description": "카카오페이, 네이버페이, 토스페이, 페이코를 통해 1만 원 이상 즉시 납부한 고객은 별도 신청 없이 자동 응모되며, 추첨을 통해 7777명에게 7000포인트, 7명에게는 순금 1돈이 제공된다. 경품은 8월 말 지급될 예정이다....",
+      "pubDate": "2026-07-01T07:00:00+00:00",
+      "category": "간편결제",
+      "source": "시사오늘(시사ON)"
+    },
+    {
+      "title": "외국인 관광객 지갑 연다…유통가, 할부·간편결제 도입 속도",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1381683",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1381683",
+      "description": "라인페이 대만은 대만 전체 인구의 절반 이상이 사용하는 대표 간편결제 플랫폼으로 결제뿐 아니라 가맹점 정보와 쿠폰, 금융 콘텐츠 등도 제공한다. 롯데면세점은 대만 관광객 수요가 빠르게 커지고 있는 점에 주목하고...",
+      "pubDate": "2026-07-01T06:42:00+00:00",
+      "category": "간편결제",
+      "source": "데일리한국"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 카카오 소식...카카오뱅크·카카오페이",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199761",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199761",
+      "description": "카카오페이가 영화 '와일드 씽' 속 화제 캐릭터 최성곤과 상시 할인 서비스 '굿딜'의 컬래버레이션 콘텐츠를 자사 유튜브와 인스타를 통해 공개했다. ◆ 카카오뱅크, 주택담보대출 중도상환해약금 면제 6개월 연장...",
+      "pubDate": "2026-07-01T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "KT, 5G·LTE 경계 허문 통합요금제 출시…간편결제 이벤트까지",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81268",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=81268",
+      "description": "카카오페이, 네이버페이, 토스페이, 페이코 등 주요 4대 플랫폼을 통해 통신요금을 1만원 이상 즉시 납부하면 행사에 참여할 수 있다. 조건 조건을 충족한 고객 중 추첨을 통해 7777명에게는 해당 플랫폼의 포인트...",
+      "pubDate": "2026-07-01T06:40:00+00:00",
+      "category": "간편결제",
+      "source": "포인트경제"
+    },
+    {
+      "title": "통신요금도 '페이'로 낸다…KT 간편결제 누적 3조5000억원",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131281",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=131281",
+      "description": "통신요금처럼 매달 반복되는 고정지출 영역에서도 카카오페이와 네이버페이, 토스페이, 페이코 등 주요 간편결제 서비스 이용이 증가하면서 금융·통신·플랫폼 산업 간 연계도 강화되는 추세다. KT는 2019년 통신업계...",
+      "pubDate": "2026-07-01T06:16:00+00:00",
+      "category": "간편결제",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "KT, 간편결제 요금납부 7주년 맞아 ‘럭키7 이벤트’ 진행",
+      "link": "https://www.todayeconomic.com/news/article.html?no=31150",
+      "originallink": "https://www.todayeconomic.com/news/article.html?no=31150",
+      "description": "이번 이벤트는 카카오페이, 네이버페이, 토스페이, 페이코 등 간편결제를 통해 KT 통신요금을 1만원 이상 즉시 납부한 고객을 대상으로 진행된다. 대상 고객은 별도 신청 절차 없이 자동으로 이벤트에 응모된다. KT는...",
+      "pubDate": "2026-07-01T05:56:00+00:00",
+      "category": "간편결제",
+      "source": "todayeconomic"
+    },
+    {
+      "title": "\"자금정산업체 고객확인 미이행\"..네이버파이낸셜, 과태료 360만원",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2114049",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2114049",
+      "description": "/사진=네이버 네이버파이낸셜이 해외 결제서비스 제휴계약 과정에서 자금정산 업무 담당 업체에 대한 고객확인 의무를 이행하지 않은 사실이 적발돼 금융당국의 제재를 받았다. 1일 금융당국에 따르면 금융위원회...",
+      "pubDate": "2026-07-01T05:52:00+00:00",
+      "category": "네이버페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년 기념 ‘럭키7 이벤트’ 진행…순금·포인트 증...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065575110407237",
+      "originallink": "https://swtvnews.com/news/newsview.php?ncode=1065575110407237",
+      "description": "KT가 카카오페이·네이버페이 등 간편결제를 활용한 통신요금 납부 서비스 출시 7주년을 기념해 대규모 고객 감사 프로모션을 펼친다. KT는 이달 한 달간 ‘KT 간편결제 7주년 럭키7 이벤트’를 진행한다고 1일 밝혔다....",
+      "pubDate": "2026-07-01T05:48:00+00:00",
+      "category": "간편결제",
+      "source": "swtvnews"
+    },
+    {
+      "title": "[핀테크업계 소식] 네이버페이, 카카오페이",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=264595",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=264595",
+      "description": "◆카카오페이, ﻿2025 ESG 보고서 발간 카카오페이는 AX(AI 전환) 전환 성과를 담은 2025 ESG(환경·사회·지배구조) 보고서를 발간했다고 30일 밝혔다. 카카오페이는 기존 핵심 이슈인 ▲개인정보보호 ▲금융소비자보호...",
+      "pubDate": "2026-07-01T05:40:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "KT, 간편결제 7주년 이벤트 진행…1만원 이상 즉시 납부 시 자동 응모",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403768",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=403768",
+      "description": "카카오페이, 네이버페이, 토스페이, 페이코 등 간편결제를 통해 KT 통신요금을 1만원 이상 즉시 납부 시 추첨을 통해 경품을 제공받을 수 있다. 별도 신청없이 자동 응모되는 이벤트로, 추첨을 통해 7777명에게...",
+      "pubDate": "2026-07-01T05:12:00+00:00",
+      "category": "간편결제",
+      "source": "테크월드"
+    },
+    {
+      "title": "카카오페이, '최성곤x굿딜' 협업 영상 공개",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310310",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310310",
+      "description": "이미지=카카오페이  카카오페이가 밀레니엄 감성을 자극하는 대중문화 캐릭터와의 협업을 통해 자사 결제 혜택 서비스 알리기에 나선다. 카카오페이는 지난달 30일 공식 유튜브 및 인스타그램 채널을 통해 영화 '와일드...",
+      "pubDate": "2026-07-01T05:06:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "[단독] 네이버파이낸셜, 특금법 위반 과태료 360만원",
+      "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6226",
+      "originallink": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6226",
+      "description": "네이버파이낸셜이 해외결제 서비스 업무와 관련해 자금세탁 방지를 위한 고객확인을 제대로 하지 않았다는 이유로 금융당국으로부터 360만원의 과태료를 부과받았다. 금융위원회 금융정보분석원(FIU)은 1일...",
+      "pubDate": "2026-07-01T05:02:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리브리프"
+    },
+    {
+      "title": "굿딜과 '니가 좋아' 최성곤 조합···카카오페이 협업 콘텐츠 공개",
+      "link": "https://n.news.naver.com/mnews/article/018/0006319969?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04437846645510256",
+      "description": "카카오페이(377300)가 지난달 30일 공식 유튜브와 인스타그램 채널에서 영화 ‘와일드 씽’으로 주목받은 발라드 왕자 캐릭터 ‘최성곤(오정세 분)’의 라이브 무대를 공개했다. 극중 최성곤의 히트송인 ‘니가 좋아’를...",
+      "pubDate": "2026-07-01T04:50:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "KT, 5G·LTE 통합요금제 도입…간편결제 행사 마련",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=735620",
+      "originallink": "https://www.polinews.co.kr/news/articleView.html?idxno=735620",
+      "description": "간편결제 통신요금 납부 서비스 도입 7주년을 맞아 진행되는 이번 프로모션은 카카오페이, 네이버페이, 토스페이, 페이코를 통해 통신요금을 일정 금액 이상 즉시 납부한 고객을 대상으로 한다. 조건을 충족한 고객은...",
+      "pubDate": "2026-07-01T03:44:00+00:00",
+      "category": "간편결제",
+      "source": "폴리뉴스 Polinews"
+    },
+    {
+      "title": "토스vs카카오 광고노출 방해 소송전 '고소 취하'로 마무리[only이데일리...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006319825?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03922886645510256",
+      "description": "토스와 카카오는 인터넷은행, 간편결제, 증권, 보험, 인증, 마이데이터 등 주요 금융 서비스 전반에서 치열한 경쟁 구도를 형성하고 있다. 다만 최근에는 공개 API를 활용한 서비스 연동이 이뤄지면서 협력 가능한 영역도...",
+      "pubDate": "2026-07-01T02:54:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "KT, 간편결제 7주년 맞아 ‘럭키7 이벤트’ 진행…포인트부터 순금 당첨...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=88775",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=88775",
+      "description": "KT의 간편결제 통신요금 납부 서비스는 2019년 9월 카카오페이를 시작으로 네이버페이, 토스페이, 페이코까지 주요 간편결제 사업자와 연계해 서비스를 확대해 왔습니다. KT는 고객이 필요할 때 요금을 즉시 납부할...",
+      "pubDate": "2026-07-01T02:26:00+00:00",
+      "category": "간편결제",
+      "source": "inthenews"
+    },
+    {
+      "title": "KT, 간편결제 요금납부 7주년 맞아 '럭키7' 행사 진행",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=250883",
+      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=250883",
+      "description": "이번 프로모션은 카카오페이, 네이버페이, 토스페이, 페이코 등 간편결제로 KT 통신요금을 1만원 이상 즉시 납부한 고객을 대상으로 한다. 해당 고객은 별도 신청 없이 자동으로 응모되며, 추첨을 통해 7777명에게는...",
+      "pubDate": "2026-07-01T02:24:00+00:00",
+      "category": "간편결제",
+      "source": "넥스트데일리"
+    },
+    {
+      "title": "핀테크업계 서민금융 지원망 확충…토스, 취약계층 접근성 강화",
+      "link": "https://www.news2day.co.kr/article/20260701500119",
+      "originallink": "https://www.news2day.co.kr/article/20260701500119",
+      "description": "기자] 토스가 서민금융진흥원과 손잡고 한 달 새 두 건의 서민금융 지원 서비스를 잇달아 선보였다. 지난달... 네이버페이는 올해 4월과 5월 두 차례에 걸쳐 '고유가 피해지원금' 안내·신청 서비스를 열고, 네이버플레이스...",
+      "pubDate": "2026-07-01T02:12:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "KT, 간편 결제로 요금 납부하면 포인트 쏜다",
+      "link": "https://n.news.naver.com/mnews/article/092/0002428789?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260701105540",
+      "description": "카카오페이, 네이버페이, 토스페이, 페이코 등 간편 결제를 통해 KT 통신요금을 1만원 이상 즉시 납부한 가입자 대상으로 진행된다. KT가 카카오페이, 네이버페이 등 간편 결제를 이용해 통신요금을 결제한 가입자...",
+      "pubDate": "2026-07-01T02:10:00+00:00",
+      "category": "간편결제",
+      "source": "ZDNet"
+    },
+    {
+      "title": "다이소, 신한·페이코 결제 고객 대상 포인트 혜택 제공 내용은?",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=434053",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=434053",
+      "description": "신용·체크카드 결제에 한해 적용된다. 오프라인 매장에서는 7월 3일부터 8월 2일까지 페이코 포인트 결제... 유통업계는 소비 둔화와 경쟁 심화 속에서 간편결제 플랫폼과 연계한 포인트 적립 및 할인 행사를 확대하며...",
+      "pubDate": "2026-07-01T01:44:00+00:00",
+      "category": "페이코",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년···'럭키7 이벤트' 진행",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444129",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444129",
+      "description": "KT의 간편결제 통신요금 납부 서비스는 2019년 9월 카카오페이를 시작으로 네이버페이, 토스페이, 페이코까지 주요 간편결제 사업자와 연계해 서비스를 확대해 왔다. KT는 고객이 필요할 때 요금을 즉시 납부할 수 있는...",
+      "pubDate": "2026-07-01T01:35:00+00:00",
+      "category": "간편결제",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "KT, 간편결제 납부 7주년 '럭키7 이벤트' 진행",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=711799",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=711799",
+      "description": "이번 프로모션은 카카오페이, 네이버페이, 토스페이, 페이코 등 간편결제를 통해 KT 통신요금을 1만원 이상 즉시 납부한 고객을 대상으로 진행된다. 대상 고객은 별도 신청 없이 이벤트에 자동 응모된다. KT는 추첨을...",
+      "pubDate": "2026-07-01T01:24:00+00:00",
+      "category": "간편결제",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "KT 통신요금 간편결제 7년…누적 결제 3조5000억원 돌파",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=268861",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=268861",
+      "description": "카카오페이, 네이버페이, 토스페이, 페이코 등 간편결제 서비스로 KT 통신요금을 1만원 이상 즉시 납부한 고객이 대상이다. 이벤트 참여는 별도 신청 없이 자동 응모 방식으로 진행된다. KT는 추첨을 통해 7777명에게...",
+      "pubDate": "2026-07-01T01:16:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "아성다이소 \"올여름 알뜰쇼핑하고 '마이신한1000P·페이코1500P'도 챙기세...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=125607",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125607",
+      "description": "다이소 관계자는 \"다만 페이코앱 바코드결제나 페이코 실물 포인트카드 결제에만 혜택이 적용되며 다른 간편결제를 통한 결제는 대상에서 제외된다\"고 전했다. 아성다이소의 2023~2025 매출액, 영업이익, 당기순이익...",
+      "pubDate": "2026-07-01T01:12:00+00:00",
+      "category": "페이코",
+      "source": "CatchNews"
+    },
+    {
+      "title": "\"간편결제하고 순금 받자\"…KT, 럭키7 이벤트 진행",
+      "link": "https://n.news.naver.com/mnews/article/421/0009033736?sid=105",
+      "originallink": "https://www.news1.kr/it-science/cc-newmedia/6213904",
+      "description": "누적 결제액은 3조 5000억 원이다. 한편 통신업계는 카카오페이와 네이버페이, 토스페이 등 간편결제 서비스를 활용한 통신요금 납부를 지원하며 고객의 이용 편의성을 높이고 있다.",
+      "pubDate": "2026-07-01T01:11:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스1"
+    },
+    {
+      "title": "KT, 간편결제 요금납부 7주년 맞아 '럭키7 이벤트' 연다",
+      "link": "https://www.cnbizm.com/news/articleView.html?idxno=307209",
+      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=307209",
+      "description": "이번 프로모션은 카카오페이, 네이버페이, 토스페이, 페이코 등 간편결제를 통해 KT 통신요금을 1만원 이상 즉시 납부한 고객을 대상으로 한다. 대상 고객은 별도 신청 없이 자동 응모되며, 추첨을 통해 7777명에게 이용...",
+      "pubDate": "2026-07-01T01:00:00+00:00",
+      "category": "간편결제",
+      "source": "문화경제"
+    },
+    {
+      "title": "간편결제 도입 7주년 맞은 KT…\"럭키 7 이벤트 진행\"",
+      "link": "https://n.news.naver.com/mnews/article/138/0002232707?sid=105",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026070109482911983",
+      "description": "이후 네이버페이·토스페이·페이코까지 주요 간편결제사와 연계를 확대했으며, 누적 결제액은 3조5000억원을 돌파했다. 특히 KT의 전체 이용자 중 2030세대 비중이 75% 이상을 차지한다. 주요 4개 간편결제사의...",
+      "pubDate": "2026-07-01T00:53:00+00:00",
+      "category": "간편결제",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "KT, 간편결제 7주년 이벤트…순금 1돈·7000포인트 증정",
+      "link": "https://www.etoday.co.kr/news/view/2599050",
+      "originallink": "https://www.etoday.co.kr/news/view/2599050",
+      "description": "KT는 카카오페이를 시작으로 네이버페이, 토스페이, 페이코까지 주요 간편결제 사업자와 연계해 서비스를 확대했다. 고객이 필요할 때 요금을 납부하는 즉시납부와 등록된 계좌를 통한 자동납부 서비스를 제공하고...",
+      "pubDate": "2026-07-01T00:46:00+00:00",
+      "category": "간편결제",
+      "source": "이투데이"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년 이벤트…순금 1돈 추첨 증정",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680071",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680071",
+      "description": "[사진: KT] KT가 간편결제 통신요금 납부 서비스 도입 7주년을 맞아 7월 한 달간 'KT 간편결제 7주년 럭키7 이벤트'를 운영한다고 1일 밝혔다. 카카오페이와 네이버페이, 토스페이, 페이코를 통해 KT 통신요금을 1만원...",
+      "pubDate": "2026-07-01T00:38:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년 기념 '럭키7 이벤트' 진행",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=231978",
+      "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=231978",
+      "description": "앞서 KT는 2019년 9월 카카오페이를 시작으로 네이버페이, 토스페이, 페이코 등 주요 간편결제 사업자와 연계해 간편결제 서비스를 지속적으로 확대해 왔다. 고객이 필요할 때 요금을 바로 지불하는 즉시납부뿐만...",
+      "pubDate": "2026-07-01T00:36:00+00:00",
+      "category": "간편결제",
+      "source": "한국NGO신문"
+    },
+    {
+      "title": "다이소몰은 신한, 매장은 페이코…아성다이소, 여름 이벤트 진행",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464500",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464500",
+      "description": "다만 페이코 앱을 통한 바코드 결제나 페이코 실물 포인트 카드 결제 시에만 혜택이 적용된다. 타 간편결제를 이용할 경우에는 혜택이 제공되지 않는다. 아성다이소는 매장 구매 고객을 위한 리뷰 작성 및 포인트 적립...",
+      "pubDate": "2026-07-01T00:36:00+00:00",
+      "category": "페이코",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년 맞아 '럭키7 이벤트'",
+      "link": "https://n.news.naver.com/mnews/article/030/0003443097?sid=105",
+      "originallink": "https://www.etnews.com/20260701000104",
+      "description": "KT는 2019년 통신업계 최초로 간편결제 통신요금 납부 서비스를 도입했다. 서비스는 카카오페이를 시작으로 네이버페이, 토스페이, 페이코까지 확대됐다. 현재 누적 결제액은 3조5000억원을 넘어섰다. 박수홍 KT...",
+      "pubDate": "2026-07-01T00:34:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "[비즈+]KT 통신요금 간편결제 도입 7년…누적 결제액 3.5조 넘었다",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=113545",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=113545",
+      "description": "KT에 따르면 이번 'KT 간편결제 7주년 럭키7 이벤트'는 7월 한 달 동안 카카오페이, 네이버페이, 토스페이, 페이코 등 4대 간편결제 플랫폼을 이용해 통신요금을 1만원 이상 즉시 납부하는 가입자를 대상으로 실시된다....",
+      "pubDate": "2026-07-01T00:30:00+00:00",
+      "category": "간편결제",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년 기념 ‘럭키7’ 이벤트 진행",
+      "link": "https://www.viva100.com/article/20260701500274",
+      "originallink": "https://www.viva100.com/article/20260701500274",
+      "description": "KT의 간편결제 통신요금 납부 서비스는 2019년 9월 카카오페이를 시작으로 네이버페이, 토스페이, 페이코까지 주요 간편결제 사업자와 연계해 서비스를 확대해 왔다. KT는 고객이 필요할 때 요금을 즉시 납부하는...",
+      "pubDate": "2026-07-01T00:28:00+00:00",
+      "category": "간편결제",
+      "source": "브릿지경제"
+    },
+    {
       "title": "KT 간편결제 통신요금 납부 7주년…누적 결제액 3조5000억 돌파",
       "link": "https://www.econovill.com/news/articleView.html?idxno=743974",
       "originallink": "https://www.econovill.com/news/articleView.html?idxno=743974",
@@ -538,7 +979,7 @@
       "description": "이어 카카오페이증권(127.55%), 상상인증권(123.31%), 메리츠증권(110.46%), 다올투자증권(95.79%) 순으로 증가율이 높았다. 대형 증권사들도 두 자릿수 이상의 증가율을 기록했다. 메리츠증권을 비롯해 NH투자증권(70.37...",
       "pubDate": "2026-06-29T08:26:00+00:00",
       "category": "카카오페이",
-      "source": "ceoscoredaily"
+      "source": "CEOSCOREDAILY"
     },
     {
       "title": "싱가포르관광청, 네이버페이와 여름 휴가 프로모션 공동 진행",
@@ -1312,7 +1753,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -2959,7 +3400,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "datanews"
+      "source": "데이터뉴스"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -6184,5 +6625,5 @@
       "source": "SBS Biz"
     }
   ],
-  "lastFetch": "2026-07-01T00:20:14.660534+00:00"
+  "lastFetch": "2026-07-02T00:21:36.154069+00:00"
 }
