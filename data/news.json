@@ -1,6 +1,348 @@
 {
   "articles": [
     {
+      "title": "쉐이크쉑·던킨, 10주년 기념 메뉴 출시·네이버페이 프로모션 진행",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=314672",
+      "originallink": "http://www.wsobi.com/news/articleView.html?idxno=314672",
+      "description": "던킨은 네이버페이 프로모션을 통해 아메리카노(S)를 900원에 판매한다. 쉐이크쉑은 10주년 기념 한국 진출을 기념하기 위해 '헤리티지 컬랙션' 4종을 선보인다고 밝혔다. 쉐이크쉑 10주년 기념 협업 파트너는 미쉐린 스타...",
+      "pubDate": "2026-07-03T00:16:00+00:00",
+      "category": "네이버페이",
+      "source": "sobi"
+    },
+    {
+      "title": "던킨, 4일부터 나흘 간 네이버페이 결제 시 아메리카노 900원에 준다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009038645?sid=101",
+      "originallink": "https://www.news1.kr/industry/distribution/6216575",
+      "description": "던킨은 4일부터 7일까지 매장에서 아메리카노(S)를 네이버페이 QR로 전액 결제 시 정상가에 3000원을 할인해 900원에 제공한다고 3일 밝혔다. 행사는 네이버페이 QR 결제를 통해 고객 편의성을 높이고 실질적인 혜택을...",
+      "pubDate": "2026-07-02T23:46:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "토스 페이스페이 또래오래서도 쓴다, 결제 영토는 오프라인 프랜차이즈...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=744166",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=744166",
+      "description": "간편결제 업계의 경쟁 무대가 온라인 앱을 벗어나 일상 소비 공간으로 옮겨가고 있다. 얼굴 인식만으로... 비바리퍼블리카가 운영하는 토스가 농협목우촌 외식사업단과 손잡고 얼굴 결제 서비스 페이스페이를 오프라인...",
+      "pubDate": "2026-07-02T23:40:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "애플페이 확산 또 제동…신한·국민 연내 도입 ‘안갯속’",
+      "link": "https://n.news.naver.com/mnews/article/011/0004637705?sid=101",
+      "originallink": "https://www.sedaily.com/article/20063264?ref=naver",
+      "description": "오히려 모회사인 토스의 경우에는 최근 자체 간편결제 서비스인 페이스페이 확장에 힘을 쏟고 있다. 토스 관계자는 “애플페이 도입과 별개로 페이스페이는 다양한 결제 환경에서 이용 편의성을 높이기 위한 서비스”...",
+      "pubDate": "2026-07-02T21:15:00+00:00",
+      "category": "애플페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "우리은행, 간편결제 서비스 전략가맹점에 다이소·CU 추가",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3625046",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3625046",
+      "description": "우리은행 삼성월렛머니, 다이소·CU 품고 생활금융 플랫폼 도약  우리은행(은행장 정진완)이 2일 삼성전자와 공동으로 제공하는 선불 충전형 간편결제 서비스 '삼성월렛머니·포인트'의 전략가맹점으로 다이소와 CU가...",
+      "pubDate": "2026-07-02T14:12:00+00:00",
+      "category": "간편결제",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "[ICT 종합] 네이버페이, 중소상공인희망재단과 업무협약 체결 소식 외",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=59119",
+      "originallink": "https://www.gamevu.co.kr/news/articleView.html?idxno=59119",
+      "description": "■ ICT 및 신제품 출시 -네이버페이(Npay ,대표이사 박상진)가 중소상공인희망재단(이사장 류재원, 이하 '희망재단')과 '소상공인 디지털 전환 및 활용 촉진을 위한 업무협약'을 체결했다고 2일 밝혔다. 양사는...",
+      "pubDate": "2026-07-02T13:50:00+00:00",
+      "category": "네이버페이",
+      "source": "게임뷰"
+    },
+    {
+      "title": "[KT] 통합요금제 출시 / 간편결제 7주년 이벤트",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220820",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220820",
+      "description": "카카오페이, 네이버페이, 토스페이, 페이코로 통신요금을 1만원 이상 즉시 납부하면 자동 응모되며, 추첨을 통해 총 7,777명에게 포인트를, 7명에게는 순금 1돈을 증정한다. KT의 간편결제 통신요금 납부 서비스는...",
+      "pubDate": "2026-07-02T12:10:00+00:00",
+      "category": "간편결제",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "네이버페이·카카오페이, AI·디지털자산 정조준",
+      "link": "https://n.news.naver.com/mnews/article/014/0005543135?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607021822201518",
+      "description": "간편결제로 출발한 네이버페이와 카카오페이가 금융·플랫폼 사업을 앞세워 외형 성장을 이어가고 있다. 결제사업의 기반을 넓히는 데 그치지 않고 인공지능(AI)을 서비스 전반에 적용하고, 스테이블코인 등...",
+      "pubDate": "2026-07-02T09:23:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "KT, 간편결제 도입 7주년 맞아 '럭키7 이벤트' 진행",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=206583",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=206583",
+      "description": "이번 프로모션은 간편결제(카카오페이, 네이버페이, 토스페이, 페이코)를 통해 KT 통신요금을 1만원 이상 즉시 납부한 고객을 대상으로 진행되며, 별도 신청 없이 이벤트에 자동 응모된다. KT는 추첨을 통해 7,777명에게...",
+      "pubDate": "2026-07-02T09:02:00+00:00",
+      "category": "간편결제",
+      "source": "SR타임스"
+    },
+    {
+      "title": "카드업계, 애플페이 추가 도입 ‘물거품’",
+      "link": "https://n.news.naver.com/mnews/article/011/0004637618?sid=101",
+      "originallink": "https://www.sedaily.com/article/20063214?ref=naver",
+      "description": "모회사인 토스는 자체 간편결제 서비스인 페이스페이 확장에 집중하고 있다. 토스의 한 관계자는 “애플페이 도입과 별개로 페이스페이는 다양한 결제 환경에서 이용 편의성을 높이기 위한 서비스”라고 말했다. 추가...",
+      "pubDate": "2026-07-02T08:59:00+00:00",
+      "category": "애플페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "'Npay 커넥트' 소상공인 디지털 전환 지원…네이버페이, 재단과 업무협...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005784889?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026070217205566014",
+      "description": "네이버페이(Npay)가 오프라인 단말기 'Npay 커넥트'를 통해 소상공인의 디지털전환 촉진 속도를 높인다. 소상공인들이 빠르게 변화하는 소비·결제 환경에 보다 유연하게 대응하고 디지털 기반 매장 운영 역량을 강화할...",
+      "pubDate": "2026-07-02T08:20:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "네이버페이, 중소상공인희망재단과 MOU 체결…Npay 커넥트 지원",
+      "link": "https://news.mtn.co.kr/news-detail/2026070215372189841",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026070215372189841",
+      "description": "사진=네이버페이네이버페이가 중소상공인희망재단과 '소상공인 디지털 전환 및 활용 촉진을 위한 업무협약'을 체결했다고 2일 밝혔다.중소상공인희망재단은 네이버가 전액 출연해 설립된 민간 비영리 공익재단이다....",
+      "pubDate": "2026-07-02T08:10:00+00:00",
+      "category": "네이버페이",
+      "source": "mtn"
+    },
+    {
+      "title": "\"간편결제로 오프라인 영토 넓힌다\" 우리은행 '삼성월렛머니·포인트' 가...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=125705",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125705",
+      "description": "소비자들은 이제 결제의 간편함을 넘어, 생활 속 소비 거점에서 얼마나 빠르고 유연하게 서비스를 이용할 수 있는지를 재테크의 핵심 경쟁력으로 평가하고 있다. 우리은행이 선불 충전 서비로 소비 트렌드에 발맞춰...",
+      "pubDate": "2026-07-02T08:10:00+00:00",
+      "category": "간편결제",
+      "source": "CatchNews"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 인터넷은행 소식...카카오뱅크·토스",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199820",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199820",
+      "description": "직전 한 달 동안 카카오뱅크 통장에 50만 원 이상 입금한 고객 가운데 추첨을 통해 선정된 10명에게 200만 원을 지급하며, 이벤트 페이지에서 참여할 수 있다. 카카오뱅크 관계자는 “월급을 관리하고 저축하는 고객께...",
+      "pubDate": "2026-07-02T07:40:00+00:00",
+      "category": "토스페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "생성형 AI 시대…핀테크 ESG도 '기술 책임'으로 진화",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189332",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189332",
+      "description": "카카오페이와 토스, 네이버페이 등은 공통적으로 AI 거버넌스와 정보보호, 데이터 관리 체계 강화 등을 지속가능경영 과제로 제시했다. 카카오페이는 올해 ESG 보고서에서 'AI 기반 금융 혁신'을 신규 중대 이슈로...",
+      "pubDate": "2026-07-02T07:24:00+00:00",
+      "category": "간편결제",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "\"페이스페이 특화 혜택 담았다\"... 신한카드, 토스와 '토스원 신한카드...",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=202849",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=202849",
+      "description": "식당과 편의점, 커피전문점 등 생활 밀착 업종에서 결제 수단에 따라 할인 혜택을 제공하며, 토스페이를 통한 간편결제에도 업종 제한 없이 할인 서비스를 지원한다. 토스프라임 멤버십 이용 고객을 위한 할인 혜택도 함께...",
+      "pubDate": "2026-07-02T07:24:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "\"간편결제 경쟁 치열\"... 우리은행, 삼성월렛머니 결제처 확대",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=202894",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=202894",
+      "description": "사진=우리은행 간편결제 시장 경쟁이 치열해지면서 금융사와 플랫폼 기업들이 생활밀착형 가맹점 확보에 속도를 내고 있다. 결제 편의성과 사용처 확대가 서비스 경쟁력을 좌우하는 요소로 떠오르면서 오프라인 결제망...",
+      "pubDate": "2026-07-02T07:24:00+00:00",
+      "category": "간편결제",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "네이버페이, 희망재단과 협약…\"중소상공인 디지털전환 지원\"",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=130703",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=130703",
+      "description": "이향철 네이버페이 책임리더(사진 오른쪽)과 류재원 중소상공인희망재단 이사장이 지난 1일 서울 구로구에 위치한 중소상공인희망재단에서 진행된 '소상공인 디지털 전환 및 활용 촉진을 위한 업무협약식'에서 기념...",
+      "pubDate": "2026-07-02T07:16:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "신한카드, 토스와 '토스원 신한카드' 출시…페이스페이 최대 20% 혜택",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=361506",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=361506",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제시 업종 구분 없이 3%를 할인해준다. 페이스페이...",
+      "pubDate": "2026-07-02T06:36:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "네이버페이 'Npay 커넥트' 가맹점 10만 돌파…출시 7개월 만",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=300781",
+      "originallink": "https://www.ppss.kr/news/articleView.html?idxno=300781",
+      "description": "Npay 커넥트는 현금, 카드, QR, 간편결제, NFC, 페이스사인 등 다양한 결제수단을 하나의 단말기에서 지원하는 서비스다. 결제 기능에 더해 네이버 플레이스와 연동되는 리뷰, 주문, 쿠폰 등 가맹점 운영 지원 기능을...",
+      "pubDate": "2026-07-02T06:09:00+00:00",
+      "category": "네이버페이",
+      "source": "ㅍㅍㅅㅅ PPSS"
+    },
+    {
+      "title": "[카드 & Now]신한카드, 토스와 'Toss One 신한카드' 출시 등",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1714884",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1714884",
+      "description": "토스페이에 카드를 등록해 간편결제를 이용하면 업종 제한 없이 3% 할인도 받을 수 있다. 페이스페이 기본 적립까지 합치면 최대 20% 수준의 혜택이 가능하다. 또 전월 실적 조건을 충족한 고객에게는 토스프라임...",
+      "pubDate": "2026-07-02T05:54:00+00:00",
+      "category": "토스페이",
+      "source": "EBN"
+    },
+    {
+      "title": "[금융 브리핑] 토스·카카오뱅크·네이버페이",
+      "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90165",
+      "originallink": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90165",
+      "description": "페이스페이를 자연스럽게 경험할 수 있는 기회를 넓혀가겠다\"고 말했다. [사진 = 카카오뱅크 제공] ◇카카오뱅크, '월급 넣고 혜택 받기' 이벤트 진행 카카오뱅크는 월급을 입금하면 세이프박스 우대금리 쿠폰을 받을...",
+      "pubDate": "2026-07-02T05:46:00+00:00",
+      "category": "네이버페이",
+      "source": "나이스경제"
+    },
+    {
+      "title": "네이버페이, 중소상공인희망재단과 업무협약 체결",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=712021",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=712021",
+      "description": "'Npay 커넥트'는 현금·카드·QR·간편결제·NFC·안면인식 결제 '페이스사인(Facesign)'까지 다양한 결제수단 사용이 가능한 오프라인 통합 단말기다. 이향철 Npay 페이서비스 책임리더는 \"'Npay 커넥트'는 소상공인들이 최신...",
+      "pubDate": "2026-07-02T05:46:00+00:00",
+      "category": "네이버페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "결제 플랫폼 경쟁, 생활금융으로 확장…복지·AI보안·지역경제 품었다",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131366",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=131366",
+      "description": "◇ 우리은행, 삼성월렛머니 오프라인 결제 확대 우리은행은 삼성전자와 함께 운영하는 '삼성월렛머니... ◇ 네이버페이, 소상공인 디지털 결제 지원 네이버페이는 중소상공인희망재단과 업무협약을 맺고 오프라인 통합...",
+      "pubDate": "2026-07-02T05:28:00+00:00",
+      "category": "간편결제",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "신한카드, 토스와 페이스페이 전용 카드 출시",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310481",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310481",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이로 결제시 업종 구분 없이 일괄적으로 3%의 할인 혜택을...",
+      "pubDate": "2026-07-02T05:12:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "신한카드·토스, 'Toss One 신한카드' 출시",
+      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1137",
+      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=1137",
+      "description": "업종 제한 없이 혜택을 받고자 하는 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용할 수 있다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제 시 업종 구분 없이 3%가 할인된다. 페이스페이 결제...",
+      "pubDate": "2026-07-02T04:50:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스맵"
+    },
+    {
+      "title": "신한카드-토스, 페이스페이 '최대 20% 할인' 카드 출시",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=125451",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=125451",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제시 업종 구분 없이 3%를 할인받을 수 있다. 페이스페이...",
+      "pubDate": "2026-07-02T04:18:00+00:00",
+      "category": "토스페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "신한카드-토스, 페이스페이 혜택 담은 '토스 원 신한카드' 출시",
+      "link": "https://n.news.naver.com/mnews/article/030/0003443817?sid=101",
+      "originallink": "https://www.etnews.com/20260702000228",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제시 업종 구분 없이 3%를 할인해준다. 페이스페이...",
+      "pubDate": "2026-07-02T03:52:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[금융체크] iM금융·신협·카카오페이 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=139853",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=139853",
+      "description": "카카오페이가 영화 '와일드 씽'으로 화제인 캐릭터 '최성곤(배우 오정세)'의 라이브 무대를 공개했다. 사진=카카오페이 ◆ \"니가 좋아, 굿딜 좋아\"…카카오페이, '최성곤x굿딜' 협업 영상 공개 카카오페이(대표 신원근)...",
+      "pubDate": "2026-07-02T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "얼굴 결제하면 최대 17% 할인…신한카드-토스 페이스페이 맞손",
+      "link": "https://n.news.naver.com/mnews/article/421/0009036845?sid=101",
+      "originallink": "https://www.news1.kr/finance/insurance-card/6215555",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제시 업종 구분 없이 3%를 할인해 준다. 페이스페이...",
+      "pubDate": "2026-07-02T02:13:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "[핀테크업계 소식] 네이버페이, 토스",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=264808",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=264808",
+      "description": "Npay 커넥트는 현금, 카드, QR, 간편결제, NFC, 안면인식 결제 '페이스사인' 등을 지원하는 오프라인 통합 단말기다. 결제 직후 키워드 리뷰를 받을 수 있고, 단말기 화면을 미니 키오스크처럼 활용할 수 있다. ◆토스...",
+      "pubDate": "2026-07-02T02:02:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "신한카드, 토스 페이스페이 혜택 'Toss One 카드' 출시",
+      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=359650",
+      "originallink": "http://www.smedaily.co.kr/news/articleView.html?idxno=359650",
+      "description": "2일 신한카드에 따르면 토스원 신한카드는 카드업계 최초로 토스의 간편결제 서비스 '페이스페이' 전용 혜택을 담았다. 페이스페이는 토스가 자체 개발한 얼굴 인식 기술을 활용해서 단말기 카메라 1초 응시로...",
+      "pubDate": "2026-07-02T01:54:00+00:00",
+      "category": "토스페이",
+      "source": "중소기업신문"
+    },
+    {
+      "title": "오프라인서 단말기 가맹점 수로 격돌하는 토스vs네이버페이",
+      "link": "https://n.news.naver.com/mnews/article/092/0002428985?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260702084049",
+      "description": "토스플레이스의 단말기 토스 프론트2. 특히 실물카드를 제시하는 대면 결제하는 일평균 금액은 2024년에 비해 0.4% 가량 줄었지만 실물카드 없이 대면 결제하는 금액은 10.4% 증가했다. 비대면 결제 일평균 금액이 2024년...",
+      "pubDate": "2026-07-02T01:48:00+00:00",
+      "category": "네이버페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "얼굴결제도 일상으로…토스, 야구장서 '페이스페이' 체험 확대",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131324",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=131324",
+      "description": "결제 과정에서 별도의 기기를 꺼낼 필요가 없어 이동이 많은 경기장 환경에서도 빠르고 간편한 이용이 가능하다. 토스는 경기장 중앙홀에 체험 부스를 마련해 페이스페이 등록과 이용 방법을 소개하고, 현장에서 서비스를...",
+      "pubDate": "2026-07-02T01:46:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "신한카드, 토스 전용 '얼굴 인식' 카드 출시",
+      "link": "https://n.news.naver.com/mnews/article/215/0001257325?sid=101",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607020297&t=NN",
+      "description": "토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 업종 제한 없이 3%가 할인된다. 페이스페이 결제시 제공되는 기본 적립(3%)에 카드 할인(17%)까지 합치면 최대 20% 혜택이 적용되는 셈이다. 다만 할인...",
+      "pubDate": "2026-07-02T01:21:00+00:00",
+      "category": "토스페이",
+      "source": "owtv"
+    },
+    {
+      "title": "얼굴인식 결제 시대 열린다… 토스·신한카드, 최대 20% 할인",
+      "link": "https://n.news.naver.com/mnews/article/008/0005380464?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/07/02/2026070209214575625",
+      "description": "업종 제한 없이 혜택을 받고 싶은 고객은 토스원 신한카드를 토스페이에 등록해 간편결제를 이용하면 된다. 오프라인 QR, 바코드 결제 또는 온라인 토스페이 결제 시 업종 구분 없이 3%를 할인해준다. 페이스페이...",
+      "pubDate": "2026-07-02T00:45:00+00:00",
+      "category": "토스페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "[게시판] 신한카드, 토스와 'Toss one 신한카드' 출시",
+      "link": "https://n.news.naver.com/mnews/article/001/0016171905?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260702046900002?input=1195m",
+      "description": "업종 제한 없이 혜택을 받으려면 토스페이 간편 결제를 이용하면 된다. 1회 최대 5천원까지 할인되며, 온오프라인 통합 할인은 전월 실적에 따라 3만3천원까지 할인받을 수 있다. 토스프라임 멤버십 이용 고객에게는...",
+      "pubDate": "2026-07-02T00:42:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[테크스냅] 네이버페이, 중소상공인희망재단과 업무협약",
+      "link": "https://n.news.naver.com/mnews/article/001/0016171820?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260702038100017?input=1195m",
+      "description": "토스, 한화이글스와 브랜드데이 진행 노타 NVA, 네이버클라우드 마켓플레이스 등재 네이버페이가 중소상공인희망재단과 소상공인 디지털 전환과 활용 촉진을 위한 업무협약(MOU)을 체결했다고 2일 밝혔다. ▲ 양사는...",
+      "pubDate": "2026-07-02T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
       "title": "신한카드, 토스와 '토스원 신한카드' 출시…페이스페이 최대 20% 혜택",
       "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571186741417",
       "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571186741417",
@@ -1753,7 +2095,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -3400,7 +3742,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -6596,34 +6938,7 @@
       "pubDate": "2026-04-07T03:02:00+00:00",
       "category": "토스페이",
       "source": "FETV"
-    },
-    {
-      "title": "삼성페이 눈치 보는 카드업계...애플페이 2호는 토스뱅크?",
-      "link": "https://news.dealsitetv.com/articles/168052",
-      "originallink": "https://news.dealsitetv.com/articles/168052",
-      "description": "인터넷 전문은행인 토스뱅크는 삼성페이 수수료 문제에서 자유롭다. 토스뱅크는 국내 3대 결제대행업체(PG사) 토스페이먼츠, 결제단말기 계열사 토스플레이스 등과 연계해 시너지를 낼 수 있다. 이미 토스페이먼츠는 NHN...",
-      "pubDate": "2026-04-03T23:08:00+00:00",
-      "category": "삼성페이",
-      "source": "DealSite경제TV"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 핀테크 소식…네이버페이·토스페이먼츠·NHN KC...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=197884",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=197884",
-      "description": "네이버페이가 포인트 적립형 캐릭터 서비스 ‘페이펫’의 꾸미기 기능과 게임 콘텐츠를 대폭 늘렸고, 토스페이먼츠는 국내 금융·IT 업계 최초로 양자내성암호를 전면 도입하며 차세대 결제 보안 체계 구축에 나섰다. NHN...",
-      "pubDate": "2026-04-03T06:34:00+00:00",
-      "category": "네이버페이",
-      "source": "thevaluenews"
-    },
-    {
-      "title": "토스 호주 시장 공략 본격화…상장 앞두고 몸집 키운다",
-      "link": "https://n.news.naver.com/mnews/article/374/0000502142?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000301868?division=NAVER",
-      "description": "토스는 지난 1월 자회사 토스페이먼츠의 지분 추가 확보를 위해 1천 810억 원 규모를 유상증자하기도... 최근에는 토스플레이스 자회사를 통해 오프라인 단말기 대수를 공격적으로 늘리는 등 페이스페이 시장을 집중...",
-      "pubDate": "2026-04-03T02:45:00+00:00",
-      "category": "토스페이",
-      "source": "SBS Biz"
     }
   ],
-  "lastFetch": "2026-07-02T00:21:36.154069+00:00"
+  "lastFetch": "2026-07-03T00:20:24.872682+00:00"
 }
