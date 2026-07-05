@@ -1,6 +1,222 @@
 {
   "articles": [
     {
+      "title": "우리은행, 토스플레이스 단말기 구매 가맹점에 8만원 지원",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/109216",
+      "originallink": "https://www.smarttoday.co.kr/ko-kr/articles/109216",
+      "description": "|스마트투데이=김한솔 기자| 우리은행은 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담을 덜기 위한 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 7월6일부터 12월31일까지 실시한다고 5일 밝혔다....",
+      "pubDate": "2026-07-05T00:08:00+00:00",
+      "category": "토스페이",
+      "source": "스마트투데이"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 제휴…소상공인 단말기 구매 지원",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=361619",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=361619",
+      "description": "우리은행이 토스플레이스와 함께 소상공인 지원 이벤트를 실시한다. 토스플레이스 단말기를 신규 구매한 가맹점이 카드대금 입금계좌를 우리은행으로 변경하거나 신규 지정하면 8만원의 지원금을 제공한다. 우리은행은...",
+      "pubDate": "2026-07-05T00:08:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "우리은행-토스플레이스, 단말기 구매 소상공인에 8만원 지원",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202607041000065400de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202607041000065400de3f0aa1be_7",
+      "description": "우리은행이 토스플레이스와 함께 소상공인과 자영업자를 대상으로 결제 단말기 구매 지원 이벤트를 진행한다. 우리은행은 토스플레이스와 ‘가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트’를 오는 6일부터 12월...",
+      "pubDate": "2026-07-05T00:06:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 손잡고 소상공인 결제환경 지원",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6935892",
+      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6935892",
+      "description": "ⓒ우리은행  우리은행이 토스플레이스와 손잡고 소상공인과 자영업자의 결제 환경 개선에 나선다. 우리은행은 오는 6일부터 12월31일까지 토스플레이스와 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 실시한다고...",
+      "pubDate": "2026-07-05T00:06:00+00:00",
+      "category": "토스페이",
+      "source": "스포츠한국"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 소상공인 결제단말기 구매금 8억원 지원",
+      "link": "https://n.news.naver.com/mnews/article/030/0003444404?sid=101",
+      "originallink": "https://www.etnews.com/20260705000003",
+      "description": "우리은행이 토스플레이스와 손잡고 소상공인의 매장 운영 부담을 덜기 위한 상생금융 지원에 나선다. 토스플레이스 결제단말기를 구매하고 카드대금 입금계좌를 우리은행으로 지정하는 가맹점주에게 지원금 8만원을...",
+      "pubDate": "2026-07-05T00:04:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "토스 단말기 설치하면 지원금 준다…우리은행-토스플레이스, 이벤트 실...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006322928?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=01190646645511568",
+      "description": "5일 우리은행은 토스플레이스와 함께 가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트를 오는 6일부터 12월 31일까지 실시한다고 밝혔다. 이번 이벤트는 토스플레이스 단말기를 신규 구매한 가맹점주가 카드대금...",
+      "pubDate": "2026-07-05T00:01:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "우리은행 토스플레이스와 소상공인 결제 지원",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068458",
+      "originallink": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068458",
+      "description": "우리은행 제공 우리은행이 토스플레이스와 손잡고 소상공인의 매장 운영 지원에 나섭니다. 우리은행(은행장 정진완)은 오는 6일부터 12월 31일까지 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 실시한다고 5일...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스클레임"
+    },
+    {
+      "title": "[게시판] 우리은행, 토스플레이스 단말기 가맹점에 지원금 8만원 이벤트",
+      "link": "https://n.news.naver.com/mnews/article/001/0016176202?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260704031900002?input=1195m",
+      "description": "▲ 우리은행은 토스플레이스 단말기를 신규 구매한 가맹점주가 카드대금 입금 계좌를 우리은행으로 신규 지정하거나 변경하면 지원금 8만원을 제공하는 이벤트를 연말까지 진행한다고 5일 밝혔다. 신규 창업을 준비하는...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 맞손…소상공인 단말기 구매비 지원",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305793",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=305793",
+      "description": "우리은행은 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담을 줄이기 위한 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 오는 7월 6일부터 12월 31일까지 진행한다고 4일 밝혔다. 이번 이벤트는...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "FETV"
+    },
+    {
+      "title": "우리은행·토스플레이스 동맹…소상공인 매장 운영비 덜어준다",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=81260",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=81260",
+      "description": "우리은행은 토스플레이스와 손잡고 가맹점주의 결제 환경 개선과 금융 비용 절감을 지원하는 공동 마케팅에 나선다고 5일 밝혔다. 이번 이벤트는 소상공인의 단말기 구매 비용 부담을 낮추고 주거래 금융 혜택을...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "토스 단말기 쓰면 8만원…우리은행, 소상공인 결제비용 지원",
+      "link": "https://n.news.naver.com/mnews/article/029/0003035244?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12071087?ref=naver",
+      "description": "우리은행이 토스플레이스와 손잡고 소상공인, 자영업자의 결제단말기 구매 부담을 낮춘다. 토스플레이스 단말기를 새로 구매한 가맹점주가 카드대금 입금계좌를 우리은행으로 지정하면 8만원의 지원금을 제공하는...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 소상공인 단말기 구매 지원 이벤트",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=440675",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=440675",
+      "description": "우리은행은 토스플레이스와 함께 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 7월 6일부터 12월 31일까지 실시한다고 5일 밝혔다. 이번 이벤트는 토스플레이스 단말기를 신규 구매한 가맹점주가 카드대금...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "우리은행-토스플레이스, 소상공인 가맹점 단말기 구매 지원 이벤트 실시",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4093085",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4093085",
+      "description": "우리은행이 토스플레이스와 손잡고 소상공인과 자영업자의 매장 운영 부담을 덜어주기 위한 '가맹점 단말기 구매 지원과 결제계좌 변경 이벤트'를 진행한다고 오늘 밝혔습니다. 이번 이벤트는 내일부터 올해 말까지...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "[금융로드] 우리은행-토스플레이스, 단말기 사면 8만원…소상공인 결제...",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=61181",
+      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=61181",
+      "description": "우리은행이 토스플레이스와 손잡고 소상공인과 자영업자의 결제 인프라 구축 비용을 낮추기 위한 단말기 구매 지원 이벤트를 연말까지 진행한다. 결제 단말기 구매 시 우리은행을 카드대금 입금계좌로 지정하면 8만원을...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스로드"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 소상공인 결제환경 개선",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681265",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681265",
+      "description": "우리은행이 토스플레이스와 손잡고 소상공인과 자영업자의 결제환경 개선 지원에 나선다. 우리은행은 토스플레이스와 함께 6일부터 12월31일까지 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 실시한다고 5일...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "[경제소식] 우리은행, 토스플레이스와 소상공인 결제환경 개선 이벤트",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2114203",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2114203",
+      "description": "포쓰저널 허지원 기자 사진=우리은행 우리은행, 토스플레이스와 소상공인 결제환경 개선 이벤트 우리은행은 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담을 덜어주기 위한 가맹점 단말기 구매 지원 및...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 제휴… 소상공인 결제 환경 개선",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310677",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=310677",
+      "description": "우리은행이 오는 6일부터 12월 31일까지 토스플레이스와 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 실시한다. 사진=우리은행  우리은행은 오는 6일부터 12월 31일까지 토스플레이스와 '가맹점 단말기 구매 지원...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 제휴…소상공인 단말기 구매 지원",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=139069",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=139069",
+      "description": "우리은행이 토스플레이스와 손잡고 소상공인과 자영업자의 결제 환경 개선과 비용 부담 완화에 나선다. 토스플레이스 단말기를 구매한 가맹점주가 결제계좌를 우리은행으로 지정하거나 변경하면 8만원을 지원한다....",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "우리은행·토스플레이스, 단말기 구매 지원 이벤트…최대 8만원 혜택",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=269110",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=269110",
+      "description": "우리은행(은행장 정진완)이 토스플레이스와 협력해 소상공인과 자영업자를 대상으로 결제 환경 개선에 나선다. 양사는 7월 6일부터 12월 31일까지 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 진행한다. 이...",
+      "pubDate": "2026-07-05T00:00:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "\"지갑 대신 스마트폰\"…소비자 10명 중 6명 네이버페이 쓴다",
+      "link": "https://n.news.naver.com/mnews/article/001/0016176076?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260704037000017?input=1195m",
+      "description": "간편결제 일상화…오프라인서 실물카드와 이용률 비슷 송금은 카카오·토스 강세…페이스페이는 보안 숙제 국내 소비자들이 일상에서 가장 많이 사용하는 모바일 간편결제 서비스는 네이버페이인 것으로 나타났다....",
+      "pubDate": "2026-07-04T21:33:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "'법인시장'에 꽂힌 카드사…애플페이 추가 도입 더 신중해진다",
+      "link": "https://www.asiatime.co.kr/article/20260630500246",
+      "originallink": "https://www.asiatime.co.kr/article/20260630500246",
+      "description": "신한카드 상반기 애플페이 도입 불발 법인부문 성장세 개인신판 시장 상회 \"애플페이 도입 부담 요소가 더 많아\" [아시아타임즈=류홍민 기자] 연초 신한카드의 애플페이 도입설이 이어졌지만 결국 상반기가 마무리될...",
+      "pubDate": "2026-07-04T03:32:00+00:00",
+      "category": "애플페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "“토스 쓸까, 네이버페이 쓸까”...얼굴결제 경쟁 뜨거워졌다",
+      "link": "https://www.ekn.kr/web/view.php?key=20260704021539221",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260704021539221",
+      "description": "오프라인 단말기 시장에서 네이버페이(Npay)가 토스를 바짝 추격하고 있다. 네이버페이는 단말기 상용화에서는 후발주자지만 가맹점 수를 빠르게 늘리며 존재감을 키우고 있다. 단말기 가맹점 확대와 함께 얼굴인식...",
+      "pubDate": "2026-07-04T02:34:00+00:00",
+      "category": "네이버페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "QR 스캔 한 번에 찰칵… 네이버페이, '관리비 QR 즉시 납부' 오픈",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=310033",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=310033",
+      "description": "네이버페이(Npay)가 종이 고지서 내 QR 코드를 스캔해 Npay로 빠르고 간편하게 결제할 수 있는 '관리비 QR 즉시 납부' 서비스를 오픈했다. 아파트 생활 지원 플랫폼 '아파트아이'와 제휴해, 관리비 종이 고지서상 QR...",
+      "pubDate": "2026-07-04T01:02:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "리뷰 230% 늘었다... 자영업자 '네이버페이 단말기' 찾는 이유",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1166596",
+      "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1166596",
+      "description": "사진=네이버 페이 제공 네이버페이(Npay)의 오프라인 통합 단말기 'Npay 커넥트'가 출시 7개월 만에 전국 가맹점 10만개를 넘어섰다. 결제 기능에 네이버 플레이스 생태계를 연결한 전략이 자영업자들의 관심을 끌면서...",
+      "pubDate": "2026-07-04T00:46:00+00:00",
+      "category": "네이버페이",
+      "source": "금강일보"
+    },
+    {
       "title": "던킨 아메리카노 900원 할인…네이버페이 결제 조건은",
       "link": "https://www.vegannews.co.kr/news/article.html?no=383802",
       "originallink": "https://www.vegannews.co.kr/news/article.html?no=383802",
@@ -2293,7 +2509,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -7138,5 +7354,5 @@
       "source": "FETV"
     }
   ],
-  "lastFetch": "2026-07-04T00:17:18.481954+00:00"
+  "lastFetch": "2026-07-05T00:12:10.713457+00:00"
 }
