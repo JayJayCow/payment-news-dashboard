@@ -1,6 +1,231 @@
 {
   "articles": [
     {
+      "title": "크플, 네이버페이·KB알다에 대출 갈아타기 상품 입점",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681445",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681445",
+      "description": "온투금융플랫폼 '크플'의 개인신용대출 갈아타기 상품이 네이버페이와 KB알다 대출비교서비스에 입점했다. PFCT(피에프씨테크놀로지스)는 크플의 개인신용대출 갈아타기 상품이 카카오페이에 이어 네이버페이와...",
+      "pubDate": "2026-07-06T00:14:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "PFCT, 크플 개인신용대출 갈아타기 상품 네이버페이·KB알다 입점",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1382930",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1382930",
+      "description": "사진=PFCT 신용리스크 관리 기술을 보유한 온투금융사 PFCT는 자사가 운영하는 온투금융 플랫폼 '크플'의 개인신용대출 갈아타기 상품이 네이버페이와 KB알다 대출비교서비스에 입점했다고 6일 밝혔다. 이에 따라...",
+      "pubDate": "2026-07-05T23:56:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "가입자 600만명 폭풍 성장 '토스페이', 카드업계 1위 신한카드와 제휴",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=758721",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=758721",
+      "description": "토스 페이스페이가 무서운 속도로 확장하자 경쟁사인 네이버파이낸셜도 지난해 11월 오프라인 통합 단말기 'Npay 커넥트'를 출시하며 오프라인 가맹점 확대에 나서고 있다. Npay 커넥트는 출시 7개월 만에 전국 가맹점...",
+      "pubDate": "2026-07-05T21:10:00+00:00",
+      "category": "토스페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "카카오페이, AX 전환 담은 듀얼 리더블 ESG 보고서 공개",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101123",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101123",
+      "description": "카카오페이가 인공지능을 중심에 둔 일하는 방식과 비즈니스 전반의 대전환 성과를 담은 2025 ESG 보고서를 발간하고, AI 기반 금융 혁신과 지속가능경영 비전을 동시에 내놓았다. 이번 보고서는 카카오페이의 네 번째...",
+      "pubDate": "2026-07-05T12:12:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "[금융체크] KB금융·네이버페이·신복위 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=139991",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=139991",
+      "description": "네이버페이는 싱가포르관광청과 최대 13만원 상당의 혜택을 제공하는 프로모션을 한다. 사진=네이버페이 ◆ 네이버페이, 싱가포르 여행객 대상 최대 13만원 혜택 제공 네이버페이(Npay)는 싱가포르관광청과 함께 오는...",
+      "pubDate": "2026-07-05T10:28:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "“지갑 대신 스마트폰 시대”…네이버페이 1위, 카카오·토스는 송금 강...",
+      "link": "https://n.news.naver.com/mnews/article/468/0001251849?sid=105",
+      "originallink": "https://www.sportsseoul.com/news/read/1620657?ref=naver",
+      "description": "국내 소비자들이 가장 많이 사용하는 모바일 간편결제 서비스는 네이버페이인 것으로 나타났다. 리서치 테크 기업 오픈서베이가 지난달 말 발표한 ‘결제 서비스 트렌드 리포트 2026’에 따르면, 최근 1개월 내...",
+      "pubDate": "2026-07-05T08:28:00+00:00",
+      "category": "네이버페이",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "\"토스증권이랑 똑같네\"…카카오페이證 MTS 베끼기 논란",
+      "link": "https://n.news.naver.com/mnews/article/018/0006323194?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02069686645511568",
+      "description": "카카오페이증권 모바일트레이딩시스템(MTS)이 토스증권의 사용자환경(UI)과 경험(UX)을 상당 부분 닮아 유사성 논란이 커지고 있다. 홈 화면은 물론 투자 정보를 탐색하는 ‘발견’ 탭과 자산 화면, 하단 메뉴에 이어 신규...",
+      "pubDate": "2026-07-05T08:25:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 '맞손'…소상공인 결제환경 개선 지원",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204447",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=204447",
+      "description": "라이센스뉴스 = 김상미 기자 | 우리은행이 토스플레이스와 손잡고 소상공인과 자영업자의 결제 환경 개선에 나선다. 우리은행은 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담을 덜기 위한 '가맹점 단말기...",
+      "pubDate": "2026-07-05T07:06:00+00:00",
+      "category": "토스페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 소상공인 매장 운영비 덜어준다… 결제 계좌...",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=42187",
+      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=42187",
+      "description": "우리은행(은행장 정진완)은 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담을 덜어주기 위한 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 7월 6일부터 12월 31일까지 실시한다고 밝혔다. 이번...",
+      "pubDate": "2026-07-05T06:58:00+00:00",
+      "category": "토스페이",
+      "source": "S저널"
+    },
+    {
+      "title": "우리銀-토스플레이스 맞손...소상공인 결제환경 개선 나서",
+      "link": "https://n.news.naver.com/mnews/article/123/0002385951?sid=101",
+      "originallink": "http://www.joseilbo.com/news/news_read.php?uid=571308&class=51&grp=",
+      "description": "우리은행(은행장 정진완)은 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담을 덜어주기 위한 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 오는 6일부터 12월 31일까지 실시한다고 5일 밝혔다....",
+      "pubDate": "2026-07-05T06:31:00+00:00",
+      "category": "토스페이",
+      "source": "조세일보"
+    },
+    {
+      "title": "네이버페이, 모바일 간편 결제 이용률 1위",
+      "link": "https://n.news.naver.com/mnews/article/023/0003985783?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/07/05/4IZ3KGMN2NDTFGOMDYRZ2WN2XI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "2위는 카카오페이, 3위 토스페이 국내에서 가장 많이 사용하는 모바일 간편 결제 서비스는 네이버페이로 조사됐다. 리서치 테크 기업 오픈서베이가 지난달 말 발표한 ‘결제 서비스 트렌드 리포트 2026’에 따르면...",
+      "pubDate": "2026-07-05T05:10:00+00:00",
+      "category": "네이버페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "토스·초록우산, 자립준비청년 대상 7주간 커리어 멘토링 진행",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=206764",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=206764",
+      "description": "카카오페이는 금융 소외계층 청년들을 대상으로 맞춤형 금융 교육과 함께 자산 형성 프로세스를 지원하는 프로그램을 다년간 운영하며 경제적 자립 기반을 제공하고 있으며, 핀테크 스타트업 핀다는 자립준비청년들의...",
+      "pubDate": "2026-07-05T03:46:00+00:00",
+      "category": "토스페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 소상공인·자영업자 결제 환경 개선 '맞손'",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=265116",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=265116",
+      "description": "우리은행이 토스플레이스와 협력해 소상공인과 자영업자의 매장 운영 부담을 줄이기 위한 가맹점 단말기 구매 지원과 결제 계좌 변경 이벤트를 7월 6일부터 12월 31일까지 진행한다고 5일 밝혔다. 이번 행사는...",
+      "pubDate": "2026-07-05T03:28:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "[금융권 이모저모]우리은행, 토스플레이스와 소상공인 결제 환경 개선 ...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=113728",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=113728",
+      "description": "그래픽=우리은행 ◇우리은행, 토스플레이스와 소상공인 결제 환경 개선 우리은행은 토스플레이스와 소상공인·자영업자의 매장 운영 부담을 덜기 위한 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 오는...",
+      "pubDate": "2026-07-05T03:20:00+00:00",
+      "category": "토스페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "우리은행, 토스플레이스와 소상공인 비용 부담 낮춘다",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=314581",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=314581",
+      "description": "우리은행이 토스플레이스와 손잡고 소상공인과 자영업자를 위한 결제 지원에 나선다. 단말기를 새로 구입하고 카드대금 입금계좌를 우리은행으로 바꾸는 가맹점에는 8만원의 지원금을 제공한다. 이번 이벤트는 오는...",
+      "pubDate": "2026-07-05T02:04:00+00:00",
+      "category": "토스페이",
+      "source": "월요신문"
+    },
+    {
+      "title": "카드 안 꺼낸다…네이버페이 이용률 1위, 현금은 밀렸다",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=111363",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=111363",
+      "description": "국내 소비자들이 가장 많이 이용하는 모바일 간편결제 서비스는 네이버페이인 것으로 조사됐다. 반면 송금 서비스에서는 카카오페이와 토스페이가 강세를 보이며 분야별 경쟁 구도가 뚜렷해지는 모습이다. 5일...",
+      "pubDate": "2026-07-05T01:32:00+00:00",
+      "category": "네이버페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "우리은행·토스플레이스, 소상공인 결제환경 개선 이벤트 실시",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=530536",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=530536",
+      "description": "|중앙이코노미뉴스 김수현 기자|우리은행(은행장 정진완)은 토스플레이스와 함께 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 오는 6일부터 12월 31일까지 실시한다고 5일 밝혔다. [이미지=우리은행]  우리은행...",
+      "pubDate": "2026-07-05T01:22:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "우리은행 계좌 연결시 '토스 단말기 구매' 8만원 지원",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306313",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=306313",
+      "description": "소상공인 및 자영업 사장님들의 부담을 덜고 결제환경을 개선하기 위해 우리은행과 토스플레이스가 힘을 합쳤다. 신규 및 타행 이용 고객이 우리은행 계좌 이용시 토스 단말기 구매에 8만원을 보조해주는 것이 골자다....",
+      "pubDate": "2026-07-05T01:22:00+00:00",
+      "category": "토스페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "소비자 이용 1위 간편결제는 네이버페이…송금은 카카오·토스 분점",
+      "link": "https://www.sentv.co.kr/article/view/sentv202607050012",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202607050012",
+      "description": "국내 소비자들이 일상에서 가장 많이 사용하는 모바일 간편결제 서비스는 네이버페이인 것으로 조사됐다. 5일 오픈서베이가 발표한 결제 서비스 트렌드 리포트에 따르면, 최근 1개월 이내 모바일 결제 경험이 있는...",
+      "pubDate": "2026-07-05T01:14:00+00:00",
+      "category": "네이버페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "모바일 간편결제 서비스 1위는 네이버페이",
+      "link": "https://n.news.naver.com/mnews/article/079/0004164893?sid=105",
+      "originallink": "https://www.nocutnews.co.kr/news/6543134?utm_source=naver&utm_medium=article&utm_campaign=20260705100632",
+      "description": "국내 소비자들이 가장 많이 이용하는 모바일 간편결제 서비스는 네이버페이인 것으로 나타났다. 5일 오픈서베이가 발표한 결제 서비스 트렌드 리포트에 따르면 최근 1개월 이내 모바일 결제 경험이 있는 소비자...",
+      "pubDate": "2026-07-05T01:07:00+00:00",
+      "category": "네이버페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "네이버페이, 모바일 간편결제 시장 최강자 등극…카카오페이-토스페이...",
+      "link": "https://www.tokenpost.kr/news/economy/375104",
+      "originallink": "https://www.tokenpost.kr/news/economy/375104",
+      "description": "국내 모바일 간편결제 시장에서 네이버페이가 가장 널리 쓰이는 서비스로 자리 잡았고, 송금 시장은 카카오페이와 토스페이가 강세를 보이는 구도가 뚜렷해졌다. 5일 오픈서베이가 발표한 결제 서비스 트렌드...",
+      "pubDate": "2026-07-05T01:06:00+00:00",
+      "category": "네이버페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "우리은행, 토스 단말기 신규 가맹점주에 8만 원 지원",
+      "link": "https://n.news.naver.com/mnews/article/421/0009041031?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-finance/6217939",
+      "description": "우리은행은 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담을 덜어주기 위한 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 6일부터 12월 31일까지 실시한다고 밝혔다. 이번 이벤트는 토스플레이스...",
+      "pubDate": "2026-07-05T00:47:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "간편결제 1위 네이버페이···온오프라인 전반 '장악'",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=632686",
+      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=632686",
+      "description": "국내 모바일 간편결제 시장에서 네이버페이가 이용률 1위를 기록하며 온오프라인 전반에서 우위를 이어가고 있다. 5일 오픈서베이에 따르면 최근 1개월 내 모바일 결제 경험이 있는 소비자를 대상으로 조사한 결과...",
+      "pubDate": "2026-07-05T00:34:00+00:00",
+      "category": "네이버페이",
+      "source": "서울파이낸스"
+    },
+    {
+      "title": "우리은행, 토스플레이스 단말기 구매 가맹점에 8만원 지원",
+      "link": "https://n.news.naver.com/mnews/article/138/0002233158?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026070509280580838",
+      "description": "우리은행은 토스플레이스와 함께 소상공인과 자영업자의 결제 환경 개선 지원에 나선다. 우리은행은 이를 위한 ‘가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트’를 오는 6일부터 12월 31일까지 실시한다고 5일 밝혔다....",
+      "pubDate": "2026-07-05T00:29:00+00:00",
+      "category": "토스페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "우리은행, 토스플레이스 제휴 통해 자영업자 결제 환경 개선 나서",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=254281",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=254281",
+      "description": "우리은행이 토스플레이스와 협력해 소상공인과 자영업자의 매장 운영 비용 부담을 완화하기 위한 가맹점 결제 단말기 구매 지원 정책을 시행한다. 3일 금융권에 따르면 우리은행은 토스플레이스와 제휴를 맺고 '가맹점...",
+      "pubDate": "2026-07-05T00:16:00+00:00",
+      "category": "토스페이",
+      "source": "아시아A"
+    },
+    {
       "title": "우리은행, 토스플레이스 단말기 구매 가맹점에 8만원 지원",
       "link": "https://www.smarttoday.co.kr/ko-kr/articles/109216",
       "originallink": "https://www.smarttoday.co.kr/ko-kr/articles/109216",
@@ -2509,7 +2734,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -7354,5 +7579,5 @@
       "source": "FETV"
     }
   ],
-  "lastFetch": "2026-07-05T00:12:10.713457+00:00"
+  "lastFetch": "2026-07-06T00:16:50.703180+00:00"
 }
