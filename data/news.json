@@ -1,6 +1,789 @@
 {
   "articles": [
     {
+      "title": "[핀테크핫이슈] 금융권 '디지털 리스크' 부상...IT통제 시험대",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681673",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681673",
+      "description": "토스는 페이스페이에 특화한 '토스원 신한카드'를 출시했고, 네이버페이는 관리비 QR 즉시 납부 서비스를 선보였다. 뱅크샐러드는 정부 마이데이터 지원사업에 선정되며 데이터 기반 금융서비스 고도화에 나섰다....",
+      "pubDate": "2026-07-06T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "늦어지는 토스 상장...美 ADR 상장 보류 배경은",
+      "link": "https://n.news.naver.com/mnews/article/011/0004638796?sid=101",
+      "originallink": "https://www.sedaily.com/article/20064498?ref=naver",
+      "description": "올 3월 나스닥에서 거래를 시작한 일본 간편결제 서비스 페이페이도 첫 거래일 기준 시가총액이 약 121억 달러에 달했다. 토스 내부에서는 은행·증권·결제·데이터 사업을 하나의 플랫폼으로 묶은 ‘슈퍼앱’ 전략이...",
+      "pubDate": "2026-07-06T22:11:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 주식교환 또 미뤄졌다…연말로 '장기전' 돌입",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=61248",
+      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=61248",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 한 번 연기됐다. 공정거래위원회 심사와 금융당국 인허가 등 남은 절차를 감안해 거래 종결까지의 시간을 더 확보하겠다는 판단이다....",
+      "pubDate": "2026-07-06T21:50:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스로드"
+    },
+    {
+      "title": "제주 찾는 외국인, 내달까지 간편결제 쓰면 20% 할인",
+      "link": "https://n.news.naver.com/mnews/article/025/0003535774?sid=102",
+      "originallink": "https://www.joongang.co.kr/article/25442927",
+      "description": "해외 모바일 간편결제와 연계한 할인 행사를 제주 전역으로 확대해 관광객의 소비를 늘리고 지역 상권에도 활력을 불어넣겠다는 전략이다. 제주도와 제주관광공사는 “7~8월 두 달간 외국인 관광객을 대상으로...",
+      "pubDate": "2026-07-06T15:19:00+00:00",
+      "category": "간편결제",
+      "source": "중앙일보"
+    },
+    {
+      "title": "네이버파이낸셜, 두나무 완전 자회사 편입 위한 주식교환 지연…연말 마...",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/375422",
+      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/375422",
+      "description": "네이버파이낸셜이 두나무를 완전 자회사로 편입하기 위해 추진하는 포괄적 주식교환 일정이 다시 늦춰졌다. 규제 심사와 금융당국 신고 절차에 예상보다 시간이 더 필요해지면서, 거래 마무리 시점도 올해 말로 밀린...",
+      "pubDate": "2026-07-06T15:12:00+00:00",
+      "category": "네이버페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "[금융신상] 농협은행·삼성카드·네이버페이 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=140064",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=140064",
+      "description": "네이버페이가 '관리비 QR 즉시 납부' 서비스를 선보였다. 사진=네이버페이 ◆ 네이버페이, 관리비 QR 즉시 납부 서비스 오픈 네이버페이(Npay)가 종이 관리비 고지서의 QR코드를 스캔해 관리비를 바로 납부할 수 있는...",
+      "pubDate": "2026-07-06T13:08:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 합병 3개월 연기…12월말로 순연",
+      "link": "https://www.newspim.com/news/view/20260706001206",
+      "originallink": "https://www.newspim.com/news/view/20260706001206",
+      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 또다시 연기됐다. 공정거래위원회의 기업결합 심사가 장기화되고, 디지털자산기본법 제정 논의도 마무리되지 않으면서 양사는 거래 일정을 약 3개월 추가 연기했다....",
+      "pubDate": "2026-07-06T12:51:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기, 연말 완료 목표로 일정 조정",
+      "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=82811",
+      "originallink": "https://www.mediafine.co.kr/news/articleView.html?idxno=82811",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 한 번 조정됐다. 공정거래위원회 심사와 금융당국 신고 절차를 고려해 거래 마무리에 필요한 시간을 추가로 확보하기 위한 조치다....",
+      "pubDate": "2026-07-06T12:10:00+00:00",
+      "category": "네이버페이",
+      "source": "미디어파인"
+    },
+    {
+      "title": "두나무-네이버파이낸셜 주식교환 또 연기...12월 말 예정",
+      "link": "http://www.metroseoul.co.kr/article/20260706500534",
+      "originallink": "http://www.metroseoul.co.kr/article/20260706500534",
+      "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
+      "pubDate": "2026-07-06T11:30:00+00:00",
+      "category": "네이버페이",
+      "source": "메트로신문"
+    },
+    {
+      "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1529726",
+      "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1529726",
+      "description": "국내 소비자들이 가장 많이 사용하는 모바일 간편결제 서비스는 네이버페이인 것으로 나타났습니다. 오픈서베이의 결제 서비스 트렌드 리포트에 따르면 최근 한 달 네이버페이가 64.7%로 1위를 차지했습니다....",
+      "pubDate": "2026-07-06T11:08:00+00:00",
+      "category": "네이버페이",
+      "source": "OBS경인TV"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 주식교환 또 미뤄졌다…12월 말로 변경 공시",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=310298",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=310298",
+      "description": "네이버파이낸셜과 두나무 합병을 위한 포괄적 주식교환 일정이 또다시 연기됐다. 6일 금융감독원 전자공시시스템에 따르면, 네이버는 종속회사 네이버파이낸셜의 두나무 주식교환일이 기존 9월 30일에서 오는 12월 31일...",
+      "pubDate": "2026-07-06T10:36:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병 연기…공정위 “심층 검토 필요”(종합)",
+      "link": "https://n.news.naver.com/mnews/article/018/0006324128?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=05162726645511896",
+      "description": "네이버파이낸셜과 두나무 합병을 위한 포괄적 주식교환 절차가 또다시 3개월 미뤄졌다. 공정거래위원회의 기업결합 심사가 지연되는 데다 디지털자산기본법 논의가 마무리되지 않은 점 등이 변수로 작용한 것으로...",
+      "pubDate": "2026-07-06T10:22:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 다시 연기…12월 말 예정",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026070619194402196",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026070619194402196",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입이 규제 문턱 앞에서 또다시 지연됐다. 공정거래위원회 기업결합 심사와 금융당국 인허가 절차가 장기화되면서 양사 간 포괄적 주식교환 일정은 당초 계획보다 6개월 이상...",
+      "pubDate": "2026-07-06T10:20:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 결합 또 연기…주식교환 12월로",
+      "link": "https://n.news.naver.com/mnews/article/119/0003108516?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1663925/?sc=Naver",
+      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 약 3개월 연기됐다. 국내 대표 핀테크 플랫폼인 네이버파이낸셜과 국내 최대 가상자산 거래소 운영사인 두나무의 결합인 만큼 관계 당국의 심사가 예상보다...",
+      "pubDate": "2026-07-06T10:05:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 연말로 연기한다",
+      "link": "https://n.news.naver.com/mnews/article/030/0003444953?sid=101",
+      "originallink": "https://www.etnews.com/20260706000426",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 연말로 연기됐다. 네이버는 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는 12월 31일로 변경됐다고 6일 공시했다. 주주총회 예정일도...",
+      "pubDate": "2026-07-06T09:42:00+00:00",
+      "category": "네이버페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "네이버파이낸셜, 두나무 주식교환 12월 31일로 재차 연기",
+      "link": "https://n.news.naver.com/mnews/article/374/0000520247?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000320966?division=NAVER",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 미뤄졌습니다. 네이버는 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는 12월 31일로 변경됐다고 오늘(6일) 공시했습니다....",
+      "pubDate": "2026-07-06T09:31:00+00:00",
+      "category": "네이버페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 3개월 연기…12월31일 예정",
+      "link": "https://byline.network/?p=9004111222611013",
+      "originallink": "https://byline.network/?p=9004111222611013",
+      "description": "공정거래위원회 등 규제 당국의 기업결합 심사가 길어지면서, 네이버파이낸셜과 두나무 합병 일정이 연말로 미뤄졌다. 네이버파이낸셜과 두나무는 6일 각각 정정 공시를 내고 양사간 포괄적 주식교환 결의를 위한...",
+      "pubDate": "2026-07-06T09:22:00+00:00",
+      "category": "네이버페이",
+      "source": "byline"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기…연내 거래 종결 목표",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715288",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1715288",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐다. 공정거래위원회 기업결합 심사와 금융당국 인허가 절차가 예상보다 길어지면서 거래 종결 시점도 연말로 미뤄졌다. 네이버⁠는...",
+      "pubDate": "2026-07-06T09:22:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기…12월 31일 예정",
+      "link": "https://n.news.naver.com/mnews/article/079/0004165439?sid=101",
+      "originallink": "https://www.nocutnews.co.kr/news/6543911?utm_source=naver&utm_medium=article&utm_campaign=20260706061748",
+      "description": "네이버파이낸셜이 두나무를 100% 자회사로 편입하기 위해 추진 중인 주식교환 일정이 또 연기됐다. 금융감독원 전자공시시스템(DART)에 따르면 네이버파이낸셜은 6일 두나무 주식교환·이전 일자를 기존 9월 30일에서...",
+      "pubDate": "2026-07-06T09:18:00+00:00",
+      "category": "네이버페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "두나무-네이버파이낸셜 주식교환 두 번째 연기…일정 6개월 밀렸다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009043641?sid=101",
+      "originallink": "https://www.news1.kr/finance/blockchain-fintech/6219301",
+      "description": "특히 공정위는 네이버페이의 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산·비상장주식 거래 데이터가 결합할 경우 시장 경쟁에 미칠 영향, 다른 금융·투자 사업자와의 경쟁 구도 변화 등을 중점적으로...",
+      "pubDate": "2026-07-06T09:17:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기…12월31일 예정",
+      "link": "https://n.news.naver.com/mnews/article/055/0001370094?sid=101",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644039&plink=ORI&cooper=NAVER",
+      "description": "▲ 네이버-네이버파이낸셜-두나무 3사 공동 기자간담회 네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐습니다. 네이버는 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는...",
+      "pubDate": "2026-07-06T09:16:00+00:00",
+      "category": "네이버페이",
+      "source": "SBS"
+    },
+    {
+      "title": "[뱅크Shoot] KB·우리·농협·BNK부산·토스 '데이 이슈'",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=256901",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=256901",
+      "description": "신규 개통 고객에게는 네이버페이 3만원과 연간 최대 6만원 상당의 멤버십 쿠폰을 제공한다. 주요 요금제 가입 고객에게는 현금성 포인트인 꿀머니도 지급한다. 친구 추천 리워드는 추천 인원에 따라 1인당 최대...",
+      "pubDate": "2026-07-06T09:14:00+00:00",
+      "category": "토스페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 일정, 또 3개월 연기",
+      "link": "https://n.news.naver.com/mnews/article/092/0002429462?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260706180146",
+      "description": "네이버 자회사 네이버파이낸셜과 두나무가 진행하는 주식교환 일정이 9월에서 12월로 또 다시 미뤄졌다. 6일 금융감독원 전자공시시스템에 따르면, 네이버는 당초 9월 30일이던 네이버파이낸셜과 두나무 주식교환일을...",
+      "pubDate": "2026-07-06T09:13:00+00:00",
+      "category": "네이버페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기…오는 12월 31일 예정",
+      "link": "https://n.news.naver.com/mnews/article/422/0000882061?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260706180820R8N",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐습니다. 네이버는 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는 12월 31일로 변경됐다고 오늘(6일) 공시했습니다....",
+      "pubDate": "2026-07-06T09:09:00+00:00",
+      "category": "네이버페이",
+      "source": "yonhapnewstv"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병 또 연기",
+      "link": "https://n.news.naver.com/mnews/article/015/0005306821?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026070686961",
+      "description": "네이버파이낸셜과 두나무의 합병 절차가 또다시 3개월 뒤로 밀렸다. 공정거래위원회 기업결합 심사 등 정부 인허가 절차가 길어지면서다. 민간 기업 간 대형 인수합병(M&A)이 규제 당국의 판단과 심사 속도에 따라...",
+      "pubDate": "2026-07-06T09:05:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 일정 연기…주총 11월·거래종결 연말...",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260706010002174",
+      "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260706010002174",
+      "description": "3월 한차례 연기 이어 두 번째 네이버파이낸셜과 두나무의 주식교환 일정이 약 3개월가량 연기됐다. 올해 3월 한 차례 연기한 데 이은 두 번째 일정 연기다.6일 네이버는 종속회사인 네이버파이낸셜의 두나무 포괄적...",
+      "pubDate": "2026-07-06T09:04:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아투데이"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병, 연말로 재연기",
+      "link": "https://n.news.naver.com/mnews/article/629/0000513655?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2340297.htm",
+      "description": "다만, 네이버파이낸셜이 국내 최대 간편결제 플랫폼 'N페이'를 운영하고 있고, 두나무가 국내 최대 가상자산 거래 플랫폼으로 꼽히는 만큼, 양사의 기업 결합을 두고 정부의 인허가 심사가 길어지고 있다. 최종 거래가...",
+      "pubDate": "2026-07-06T09:00:00+00:00",
+      "category": "네이버페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "네이버파이낸셜·두나무, 주식교환 일정 연말로…3개월 연기",
+      "link": "https://n.news.naver.com/mnews/article/421/0009043614?sid=105",
+      "originallink": "https://www.news1.kr/it-science/general-it/6219233",
+      "description": "김정현 유수연 황지현 기자 = 네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 재차 3개월 연기됐다. 공정거래위원회(공정위) 승인 절차와 관련 법령 정비 상황을 고려해 일정을 조정했다는 설명이다. 네이버(035420)는...",
+      "pubDate": "2026-07-06T08:57:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "두나무·네이버파이낸셜 주식교환 2차연기…11월 임시주총",
+      "link": "https://n.news.naver.com/mnews/article/008/0005382149?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/07/06/2026070617401470689",
+      "description": "두나무와 네이버파이낸셜이 합병시점을 올 연말로 재차 연기했다. 공정거래위원회의 기업결합 심사 등 규제당국의 검토절차가 장기화한 여파다. 양사는 6일 각각 정정공시를 내고 양사간 포괄적 주식교환을...",
+      "pubDate": "2026-07-06T08:56:00+00:00",
+      "category": "네이버페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 3개월 연기…12월31일 예정",
+      "link": "https://n.news.naver.com/mnews/article/015/0005306794?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026070686627",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 또 연기됐다. 올해 6월에서 9월로 한 차례 미뤄졌던 주식교환일이 다시 연말로 변경된 것이다. 네이버는 종속회사인 네이버파이낸셜의 두나무...",
+      "pubDate": "2026-07-06T08:47:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 주식교환 12월로 연기",
+      "link": "http://www.iminju.net/news/articleView.html?idxno=166281",
+      "originallink": "http://www.iminju.net/news/articleView.html?idxno=166281",
+      "description": "민주신문=이한호 기자｜네이버파이낸셜의 두나무 편입 절차가 또다시 연기됐다. 공정거래위원회 기업결합 심사와 금융당국 인허가 절차가 예상보다 길어지면서 거래 종결 시점이 올해 말로 미뤄졌다. 두나무는 6일...",
+      "pubDate": "2026-07-06T08:46:00+00:00",
+      "category": "네이버페이",
+      "source": "민주신문"
+    },
+    {
+      "title": "배민 서버 오류 '취소 주문만 보상'…점주 \"토스와 비교되네\"",
+      "link": "https://www.consumuch.com/news/articleView.html?idxno=78475",
+      "originallink": "https://www.consumuch.com/news/articleView.html?idxno=78475",
+      "description": "특히 일부 점주들은 최근 토스플레이스의 보상 방식과 비교하며 배민 보상 대책이 미흡하다고 비판했다. 지난달 26일 발생한 토스포스 장애와 관련해 토스플레이스는 최근 3주간 동일 요일·시간대 평균 매출을 기준으로...",
+      "pubDate": "2026-07-06T08:40:00+00:00",
+      "category": "토스페이",
+      "source": "컨슈머치"
+    },
+    {
+      "title": "두나무, 네이버파이낸셜과 주식교환 올해 말로 연기",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305889",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=305889",
+      "description": "두나무가 네이버파이낸셜과의 포괄적 주식교환 일정을 올해 12월 31일로 연기했다. 6일 금융감독원 전자공시시스템에 따르면 두나무는 정정공시를 통해 주주총회 예정일을 11월19일로, 주식교환·이전일을 12월31일로...",
+      "pubDate": "2026-07-06T08:38:00+00:00",
+      "category": "네이버페이",
+      "source": "FETV"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 포괄적 주식교환 12월말로 다시 연기, 당초 계획...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441675",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=441675",
+      "description": "네이버파이낸셜과 가상자산 거래소 업비트 운영사인 두나무의 포괄적 주식교환을 통한 전략적 결합 일정이 다시 한번 뒤로 밀렸다. 네이버는 종속회사인 네이버파이낸셜과 두나무의 주식 교환일을 기존 9월30일에서...",
+      "pubDate": "2026-07-06T08:36:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "네이버, 네이버파이낸셜·두나무 주식교환 일정 3개월 연기",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165262",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092165262",
+      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 3개월쯤 연기됐다. 6일 금융감독원 전자공시시스템에 의하면 네이버는 종속회사 네이버파이낸셜과 두나무의 포괄적 주식교환을 위한 주주총회...",
+      "pubDate": "2026-07-06T08:32:00+00:00",
+      "category": "네이버페이",
+      "source": "IT조선"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기…12월 말 예정",
+      "link": "https://n.news.naver.com/mnews/article/117/0004081999?sid=103",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026070617280246498",
+      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 다시 한 번 연기됐다. 6일 금융감독원 전자공시시스템에 따르면 두나무는 네이버파이낸셜과의 포괄적 주식교환 일정을 변경한다고 공시했다. 이에 따라 임시...",
+      "pubDate": "2026-07-06T08:29:00+00:00",
+      "category": "네이버페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 3개월 순연⋯오는 12월 31일 예정",
+      "link": "https://n.news.naver.com/mnews/article/031/0001040146?sid=105",
+      "originallink": "http://www.inews24.com/view/1982893",
+      "description": "네이버는 금융 계열사 네이버파이낸셜과 가상자산 거래소 업비트 운영사 두나무의 포괄적 주식 교환 종결 일정을 3개월 후인 오는 12월 31일로 변경했다고 6일 공시했다. 이로써 포괄적 주식 교환 안건 의결을 위한 두...",
+      "pubDate": "2026-07-06T08:28:00+00:00",
+      "category": "네이버페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 연말로 재연기",
+      "link": "https://n.news.naver.com/mnews/article/015/0005306756?sid=101",
+      "originallink": "https://www.hankyung.com/article/202607068479r",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 연말로 연기됐다. 네이버는 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는 12월 31일로 변경됐다고 6일 공시했다. 주주총회 예정일도...",
+      "pubDate": "2026-07-06T08:26:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "네이버 \"네이버파이낸셜-두나무 결합 3개월 더 연기\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=59141",
+      "originallink": "https://www.thelec.kr/news/articleView.html?idxno=59141",
+      "description": "네이버파이낸셜과 두나무의 합병이 규제 당국의 심사 장기화로 3개월 더 연기됐다. 6일 네이버와 두나무는 각각 정정 공시를 통해 네이버파이낸셜과 두나무 사이의 양사간 포괄적 주식교환 결의를 위한 주주총회...",
+      "pubDate": "2026-07-06T08:24:00+00:00",
+      "category": "네이버페이",
+      "source": "디일렉(THE ELEC)"
+    },
+    {
+      "title": "네이버파이낸셜ㆍ두나무 주식교환 12월로 또 연기",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607061659336520147",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607061659336520147",
+      "description": "당국 인허가 절차 맞춰두 번째…거래 종결 반년 이상 늦어질 듯 네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 또다시 3개월 밀려 12월로 잡혔다. 관계당국의 인허가 심사절차에 맞춰 일정이조정된 것으로 거래...",
+      "pubDate": "2026-07-06T08:22:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "네이버파이낸셜-두나무, 주식교환 일정 또 연기…12월 31일로",
+      "link": "https://www.fntimes.com/html/view.php?ud=2026070616532689000f4390e77d_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=2026070616532689000f4390e77d_18",
+      "description": "네이버 종속회사인 네이버파이낸셜과 가상자산 거래소 두나무의 포괄적 주식교환 일정이 오는 12월 31일로 석 달 추가 연기됐다. 6일 금융감독원 전자공시시스템(DART)에 따르면, 네이버파이낸셜은 두나무와의 주식교환...",
+      "pubDate": "2026-07-06T08:20:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "두나무·네이버파이낸셜 주식교환 '12월 31일'로 또 연기 [크립토브리핑...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005544362?sid=105",
+      "originallink": "http://www.fnnews.com/news/202607061710320788",
+      "description": "두나무와 네이버파이낸셜의 포괄적 주식교환 일정이 연말로 재차 연기됐다. 6일 금융감독원 전자공시시스템(DART)에 따르면 두나무는 네이버파이낸셜과의 주식교환일을 오는 9월 30일에서 12월 31일로 변경했다고...",
+      "pubDate": "2026-07-06T08:15:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병 일정 또다시 연기…12월 31일 주식교환",
+      "link": "https://n.news.naver.com/mnews/article/016/0002666444?sid=105",
+      "originallink": "https://biz.heraldcorp.com/article/10799834?ref=naver",
+      "description": "네이버파이낸셜과 두나무의 합병 일정이 또 한 번 연기됐다. 네이버파이낸셜이 두나무를 완전 자회사로 편입하기 위한 포괄적 주식교환 일정이 연말로 밀리면서다. 6일 네이버는 종속회사인 네이버파이낸셜의 두나무...",
+      "pubDate": "2026-07-06T08:14:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 토스·토스뱅크 소식...자립준비청년 멘토링·체...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199885",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199885",
+      "description": "토스뱅크 체크카드가 보유 고객 1000만명을 돌파하며 전 세대 일상 결제 카드로 자리 잡았다. [이미지=토스뱅크] 토스뱅크 체크카드는 지난 2021년 10월 출범과 함께 선보인 이후 간편한 발급 절차와 고객이 일상에서...",
+      "pubDate": "2026-07-06T08:14:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병 또 연기…12월31일 주식교환 예정",
+      "link": "https://n.news.naver.com/mnews/article/366/0001177126?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/07/06/5I3LBG3TORDSRP6M24GH5MOF7Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐다. 네이버는 6일 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는 12월 31일로 변경됐다고 공시했다. 주주총회 예정일도...",
+      "pubDate": "2026-07-06T08:11:00+00:00",
+      "category": "네이버페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "네이버파이낸셜, 두나무 주식 교환 또 연기…“12월 31일로 조정”",
+      "link": "https://n.news.naver.com/mnews/article/138/0002233295?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026070616595324051",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입 절차가 다시 늦춰졌다. 네이버는 6일 자회사 네이버파이낸셜의 두나무 주식교환일이 올해 12월 31일로 연기됐다고 공시했다. 이에 따라 당초 예정됐던 주주총회 날짜도 11월...",
+      "pubDate": "2026-07-06T08:08:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환, 12월31일로 또 연기",
+      "link": "https://n.news.naver.com/mnews/article/374/0000520206?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000320919?division=NAVER",
+      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 미뤄졌습니다. 네이버는 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는 12월 31일로 변경됐다고 오늘(6일) 공시했습니다....",
+      "pubDate": "2026-07-06T08:04:00+00:00",
+      "category": "네이버페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 주식교환 3개월 연기…연내 마무리 '턱걸이'",
+      "link": "https://dealsite.co.kr/articles/164838",
+      "originallink": "https://dealsite.co.kr/articles/164838",
+      "description": "주총 11월 19일·교환일 12월 31일로 변경…\"글로벌 경쟁력 확보 취지 성실히 설명\" 네이버파이낸셜과 두나무 간 포괄적 주식교환 일정이 약 3개월 늦춰졌다. 관계 당국의 기업결합 심사 등 인허가 절차가 진행 중인 데...",
+      "pubDate": "2026-07-06T08:02:00+00:00",
+      "category": "네이버페이",
+      "source": "딜사이트"
+    },
+    {
+      "title": "네이버파이낸셜, 두나무와 주식교환 오는 12월31일로 연기",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=530807",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=530807",
+      "description": "|중앙이코노미뉴스 김수현 기자|지난난해 11월 박상진 Npay 대표(왼쪽부터), 최수연 네이버 대표이사, 이해진 네이버 이사회 의장, 송치형 두나무 회장, 오경석 두나무 대표이사 등이 네이버-네이버파이낸셜-두나무 3사...",
+      "pubDate": "2026-07-06T08:00:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기…12월 31일로 변경",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1388699",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1388699",
+      "description": "사진=연합뉴스 매일일보 = 권선형 기자  |  네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 한 번 늦춰졌다. 6일 금융감독원 전자공시시스템에 따르면 네이버는 종속회사인...",
+      "pubDate": "2026-07-06T07:56:00+00:00",
+      "category": "네이버페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병, 연말로 또 연기",
+      "link": "https://n.news.naver.com/mnews/article/018/0006324019?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04464086645511896",
+      "description": "네이버파이낸셜과 두나무 합병을 위한 포괄적 주식교환 절차가 또다시 3개월 미뤄졌다. 공정거래위원회의 기업결합 심사가 지연되는 데다 디지털자산기본법 논의가 마무리되지 않은 점도 변수로 작용한 것으로...",
+      "pubDate": "2026-07-06T07:51:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 주식교환 또 연기…거래 종결 연말로",
+      "link": "https://www.etoday.co.kr/news/view/2600754",
+      "originallink": "https://www.etoday.co.kr/news/view/2600754",
+      "description": "이투데이=박정호 기자 | 네이버파이낸셜과 가상자산 거래소 업비트 운영사 두나무의 포괄적 주식교환 일정이 또다시 뒤로 밀렸다. 애초 9월 말로 예정됐던 거래 종결 시점이 연말로 늦춰지면서 공정거래위원회...",
+      "pubDate": "2026-07-06T07:48:00+00:00",
+      "category": "네이버페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 12월로 연기…\"합리적 방향 마련에 최...",
+      "link": "https://www.ajunews.com/view/20260706164154198",
+      "originallink": "https://www.ajunews.com/view/20260706164154198",
+      "description": "주총 11월·교환일 12월로 3개월 순연 아주경제=권가림 기자 hidden@ajunews.com 지난해 11월 27일 열린 네이버-네이버파이낸셜-두나무 3사 공동 기자간담회에 참석한 박상진 Npay 대표, 최수연 네이버 대표이사, 이해진 네이버...",
+      "pubDate": "2026-07-06T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "두나무·네이버파이낸셜, 주식교환 또 연기",
+      "link": "https://n.news.naver.com/mnews/article/011/0004638616?sid=101",
+      "originallink": "https://www.sedaily.com/article/20064325?ref=naver",
+      "description": "두나무와 네이버파이낸셜의 포괄적 주식 교환 일정이 또다시 연기됐다. 올해 6월에서 9월로 한 차례 미뤄졌던 주식 교환일이 다시 연말로 변경된 것이다. 6일 금융계에 따르면 두나무는 이날 주식 교환 일정을...",
+      "pubDate": "2026-07-06T07:45:00+00:00",
+      "category": "네이버페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "카카오페이 주가, 7월 6일 39,700원 2.22% 하락 마감",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16125249",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16125249",
+      "description": "6일 KRX 마감 기준, 네이버페이 증권에 따르면 카카오페이는 코스피 시장에서 39,700원으로 거래를 마쳤다. 이는 지난 종가 40,600원 대비 900원 하락한 수치이다. 주가는 40,500원으로 시작하여 41,500원까지...",
+      "pubDate": "2026-07-06T07:40:00+00:00",
+      "category": "카카오페이",
+      "source": "톱스타뉴스"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 통합 또 미뤄졌다…업비트 침체 속 규제 리스크...",
+      "link": "http://coinreaders.com/246272",
+      "originallink": "http://coinreaders.com/246272",
+      "description": "국내 최대 암호화폐 거래소 업비트 운영사 두나무와 네이버파이낸셜의 통합 작업이 또다시 연기됐다. 업계에서는 단순한 일정 조정이라는 시각과 함께, 최근 거래량 감소로 위축된 국내 디지털자산 시장에서 규제...",
+      "pubDate": "2026-07-06T07:40:00+00:00",
+      "category": "네이버페이",
+      "source": "coinreaders"
+    },
+    {
+      "title": "두나무·네이버파이낸셜 주식교환 연말까지 연장",
+      "link": "https://n.news.naver.com/mnews/article/277/0005786150?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026070616352972945",
+      "description": "두나무와 네이버(NAVER)의 자회사 네이버파이낸셜의 포괄적 주식교환 일정이 연기됐다. 두나무는 주식교환 일정 변경에 따라 주주총회 예정일을 기존 8월18일에서 11월 19일로, 주식교환일은 9월30일에서 12월31일로...",
+      "pubDate": "2026-07-06T07:35:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "두나무-네이버파이낸셜 주식교환 12월 31일로 연기",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423574",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423574",
+      "description": "*사진* 두나무는 네이버파이낸셜과의 포괄적 주식교환 일자를 기존 9월 30일에서 12월 31일로 변경한다고 6일 공시했다. 네이버·두나무[출처: 연합뉴스 사진] 주식교환계약 승인을 위한 임시 주주총회는 8월 18일에서...",
+      "pubDate": "2026-07-06T07:32:00+00:00",
+      "category": "네이버페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 또 연기…12월31일 예정",
+      "link": "https://n.news.naver.com/mnews/article/001/0016178580?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20260706125800017?input=1195m",
+      "description": "공정위 심사·금융당국 신고 절차 고려…\"거래 종결 시간 확보\" 한상용 한지훈 기자 = 네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐다. 네이버는 종속회사인 네이버파이낸셜의...",
+      "pubDate": "2026-07-06T07:31:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병 재연기",
+      "link": "https://n.news.naver.com/mnews/article/009/0005703397?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12091378",
+      "description": "기업결합심사 장기화 영향 주식교환비율은 변함없어 네이버파이낸셜과 두나무의 합병 일정이 공정거래위원회 등 규제 당국의 기업결합 심사 일정 장기화에 또다시 3개월 밀렸다. 6일 네이버파이낸셜과 두나무는...",
+      "pubDate": "2026-07-06T07:31:00+00:00",
+      "category": "네이버페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "두나무, 네이버파이낸셜 주식 교환·이전 일정 3개월 늦어진다",
+      "link": "https://www.moneystorm.kr/news/articleView.html?idxno=4914",
+      "originallink": "https://www.moneystorm.kr/news/articleView.html?idxno=4914",
+      "description": "두나무의 네이버파이낸셜 100% 자회사 편입을 위한 주식 교환·이전 일정이 당초 계획보다 3개월 가량 늦어진다. 두나무는 6일 공시에서 당초 오는 22일이던 주주확정 기준일이 10월22일로 3개월 늦어진다고 밝혔다....",
+      "pubDate": "2026-07-06T07:28:00+00:00",
+      "category": "네이버페이",
+      "source": "머니스톰"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 주식교환 연말로 또 연기",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681671",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681671",
+      "description": "지난해 11월 27일 네이버·네이버파이낸셜·두나무 합동 간담회 [사진: 네이버] 네이버파이낸셜의 두나무 100% 자회사 편입 일정이 또 연기됐다. 주주총회와 주식교환일이 각각 3개월가량 뒤로 밀리면서 거래 완료 시점도...",
+      "pubDate": "2026-07-06T07:24:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "[체크!공시] 네이버파이낸셜, 두나무와 주식교환 9월30일→12월31일로 연...",
+      "link": "https://n.news.naver.com/mnews/article/417/0001150486?sid=101",
+      "originallink": "https://www.sidae.com/article/2026070616180257256",
+      "description": "네이버가 종속회사인 네이버파이낸셜과 두나무의 포괄적 주식교환 일정을 12월31일로 변경했다. 6일 금융감독원 전자공시시스템에 따르면 네이버파이낸셜의 주주총회 예정일은 기존 2026년 8월18일에서 2026년...",
+      "pubDate": "2026-07-06T07:23:00+00:00",
+      "category": "네이버페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "네이버파이낸셜·두나무, 주식교환 연말까지 연장… \"심사 절차 고려\"",
+      "link": "https://n.news.naver.com/mnews/article/029/0003035552?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12071396?ref=naver",
+      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 3개월 연장된다. 거래 규모가 크고 이례적인 성격을 가진 만큼 일정을 조정한 것으로 풀이된다. 네이버는 종속회사 네이버파이낸셜의 주식교환·이전 결정...",
+      "pubDate": "2026-07-06T07:19:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "[속보] 네이버파이낸셜-두나무 주식교환 12월 31일로 연기",
+      "link": "https://n.news.naver.com/mnews/article/018/0006323982?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04286966645511896",
+      "description": "네이버는 종속회사인 네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 12월 31일로 변경됐다고 정정 공시했다. 정정 사유는 주식교환 일정 변경이다. 6일 금융감독원 전자공시시스템(DART)에 따르면...",
+      "pubDate": "2026-07-06T07:11:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "[속보] 네이버파이낸셜-두나무 주식교환 또 연기…12월 31일로",
+      "link": "https://n.news.naver.com/mnews/article/421/0009043304?sid=101",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6219195",
+      "description": "",
+      "pubDate": "2026-07-06T07:08:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "[속보] 네이버, 네이버파이낸셜-두나무 주식교환 일정 연기…주총 11월...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=586871",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=586871",
+      "description": "네이버는 종속회사인 네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 변경됐다고 6일 정정 공시했다. 정정 사유는 주식교환 일정 변경이다. 변경된 일정에 따르면 네이버파이낸셜의 주주총회 예정일은 기존...",
+      "pubDate": "2026-07-06T07:06:00+00:00",
+      "category": "네이버페이",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "우리은행 \"토스플레이스 단말기 구매 시 8만원 지원\"",
+      "link": "https://www.cnbizm.com/news/articleView.html?idxno=307703",
+      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=307703",
+      "description": "우리은행이 토스플레이스와 협력해 소상공인과 자영업자의 결제 환경 개선과 비용 부담 완화를 위한 지원에 나선다. 디지털 결제 인프라와 금융서비스를 연계해 소상공인의 경영 효율성을 높이는 상생금융을 확대한다는...",
+      "pubDate": "2026-07-06T06:52:00+00:00",
+      "category": "토스페이",
+      "source": "문화경제"
+    },
+    {
+      "title": "간편결제 시장, 일상 결제는 네이버페이...송금은 카카오페이·토스페이...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=310238",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=310238",
+      "description": "송금 영역에서는 카카오페이와 토스페이가 강세를 보이며 결제 서비스 시장이 이용 목적별로 갈라지는 흐름이 뚜렷해지고 있다. 6일 업계 및 오픈서베이가 발표한 결제 서비스 트렌드 리포트에 따르면, 최근 1개월...",
+      "pubDate": "2026-07-06T06:34:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "컴투스홀딩스, '파우팝 매치' 카카오톡·카카오페이 선출시",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=712364",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=712364",
+      "description": "컨슈머타임스=김지훈 기자 | 컴투스홀딩스(대표 정철호)가 모바일 퍼즐 게임 '파우팝 매치(Pawpop Match)'를 '카카오톡'과 '카카오페이'를 통해 선공개 했다고 6일 밝혔다. 선공개는 올 하반기 예정된 글로벌 정식 출시에 앞서...",
+      "pubDate": "2026-07-06T06:26:00+00:00",
+      "category": "카카오페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 우리은행 소식...조직개편·토스플레이스 제휴...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199879",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199879",
+      "description": "또 토스플레이스와 함께 소상공인 결제환경 개선을 위한 이벤트를 진행하며, 우리WON모바일에서 7월 한 달간 통신비 부담을 낮추는 다양한 혜택을 제공한다. ◆ 우리은행, 데이터 기반 영업·내부통제 강화 조직개편 단행...",
+      "pubDate": "2026-07-06T06:00:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "\"할부도 QR 결제로\"···유통家, 외국인 결제 서비스 경쟁 '속도'",
+      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403392",
+      "originallink": "https://www.todaykorea.co.kr/news/articleView.html?idxno=403392",
+      "description": "롯데백화점은 지난달 말 중국 상하이에서 유니온페이와 함께 외국인 결제 편의 및 마케팅 확대를 위한 업무협약(MOU)를 체결하고, 오는 9월부터 전 점포에서 외국인 고객의 'QR결제'와 NFC 기반의 비접촉식 간편결제...",
+      "pubDate": "2026-07-06T05:58:00+00:00",
+      "category": "간편결제",
+      "source": "투데이코리아"
+    },
+    {
+      "title": "크플, 네이버페이·KB알다 입점…중저신용자 대환대출 접점 확대",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=305860",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=305860",
+      "description": "PFCT는 크플의 개인신용대출 갈아타기 상품이 카카오페이에 이어 네이버페이와 KB알다 대출비교서비스에 입점해 이번 주부터 서비스를 시작했다고 6일 밝혔다. 이번 입점으로 중저신용자는 일상적으로 이용하는 주요...",
+      "pubDate": "2026-07-06T05:54:00+00:00",
+      "category": "네이버페이",
+      "source": "FETV"
+    },
+    {
+      "title": "전주시 공공배달앱 ‘전주맛배달’, 디지털 온누리상품권 결제 서비스 ...",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202607061441081043dfcd109a8_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202607061441081043dfcd109a8_7",
+      "description": "또한 전주맛배달을 이용하는 시민들도 기존 신용카드와 간편결제 외에도 디지털 온누리상품권으로 배달·포장 서비스를 이용할 수 있어 결제 수단 선택의 폭이 넓어지고, 전주맛배달 이용 편의성도 한층 높아지게 됐다....",
+      "pubDate": "2026-07-06T05:44:00+00:00",
+      "category": "간편결제",
+      "source": "더파워"
+    },
+    {
+      "title": "지갑 대신 스마트폰 쓴다…네이버페이, 소비자 10명 중 6명 사용",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=902716",
+      "originallink": "https://www.kgnews.co.kr/news/article.html?no=902716",
+      "description": "카카오페이가 49.8%로 2위, 토스페이가 31.1%로 뒤를 이었다. 네이버페이는 대부분의 온오프라인 구매 상황에서 1위를 기록했다. 온라인 쇼핑에서는 63.7%로 카카오페이(19.4%), 토스페이(16.9%)와 큰 격차를 보였다. 이 밖에...",
+      "pubDate": "2026-07-06T05:04:00+00:00",
+      "category": "네이버페이",
+      "source": "kgnews"
+    },
+    {
+      "title": "컴투스홀딩스 모바일 퍼즐 게임 '파우팝 매치', 카카오톡과 카카오페이...",
+      "link": "https://www.thisisgame.com/articles/427504",
+      "originallink": "https://www.thisisgame.com/articles/427504",
+      "description": "다운로드 없이 즐길 수 있는 카카오톡·카카오페이 버전 출시 다양한 동물들의 이야기를 퍼즐 플레이에 유기적으로 연결 북미·동남아 소프트 론칭 통해 경쟁력 확인… 3분기 글로벌 출시 목표 컴투스홀딩스는 모바일 퍼즐...",
+      "pubDate": "2026-07-06T04:36:00+00:00",
+      "category": "카카오페이",
+      "source": "thisisgame"
+    },
+    {
+      "title": "토스-신한카드 ‘얼굴로 슬쩍’ 최대 20%까지 할인",
+      "link": "https://www.naeil.com/news/read/594294?ref=naver",
+      "originallink": "https://www.naeil.com/news/read/594294?ref=naver",
+      "description": "실물카드 없이 휴대폰으로 가능한 삼성페이나 애플페이보다도 편리하다. 전국에 설치된 토스 프론트 단말기 누적 가맹점 수는 올해 6월 기준 이미 37만곳을 돌파했다. 일반적인 오프라인 결제 시에는 기본 1% 할인이...",
+      "pubDate": "2026-07-06T04:06:00+00:00",
+      "category": "토스페이",
+      "source": "내일신문"
+    },
+    {
+      "title": "모바일 퍼즐 게임 '파우팝 매치', 카카오톡·카카오페이 버전 출시",
+      "link": "https://m.sports.naver.com/esports/article/236/0000255804",
+      "originallink": "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=154272",
+      "description": "컴투스홀딩스는 모바일 퍼즐 게임 '파우팝 매치'를 카카오톡과 카카오페이에서 선공개했다. 이번 선공개는 올 하반기 예정된 글로벌 정식 출시에 앞서 국내 유저들에게 게임을 먼저 선보이고, 대중적인 인지도를 확보하기...",
+      "pubDate": "2026-07-06T02:50:00+00:00",
+      "category": "카카오페이",
+      "source": "fomos"
+    },
+    {
+      "title": "컴투스홀딩스 '파우팝 매치', 카카오톡·카카오페이 버전 선공개",
+      "link": "https://m.sports.naver.com/esports/article/347/0000194407",
+      "originallink": "http://game.dailyesports.com/view.php?ud=20260706114109170821ad998911_26",
+      "description": "컴투스홀딩스(대표 정철호)는 모바일 퍼즐 게임 '파우팝 매치(Pawpop Match)'를 카카오톡과 카카오페이를 통해 선공개했다고 6일 밝혔다. 이번 선공개는 올해 하반기 글로벌 정식 출시에 앞서 국내 이용자들에게 게임을 먼저...",
+      "pubDate": "2026-07-06T02:43:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리게임"
+    },
+    {
+      "title": "컴투스홀딩스, '파우팝 매치' 카톡·카카오페이 선공개…글로벌 출시 시...",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=269152",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=269152",
+      "description": "컴투스홀딩스(대표 정철호)가 모바일 퍼즐 게임 '파우팝 매치(Pawpop Match)'를 카카오톡과 카카오페이에서 다운로드 없이 즐길 수 있는 버전으로 선공개했다. 회사 측은 이번 선공개가 글로벌 정식 출시에 앞서 국내...",
+      "pubDate": "2026-07-06T02:36:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "전주시 공공배달앱 '전주맛배달', 디지털 온누리상품권 결제 서비스 오...",
+      "link": "https://n.news.naver.com/mnews/article/030/0003444714?sid=102",
+      "originallink": "https://www.etnews.com/20260706000194",
+      "description": "전주맛배달을 이용하는 시민들도 기존 신용카드와 간편결제 외에도 디지털 온누리상품권으로 배달·포장 서비스를 이용할 수 있어 결제 수단 선택의 폭이 넓어지고, 전주맛배달 이용 편의성도 한층 높아지게 됐다. 시와...",
+      "pubDate": "2026-07-06T02:26:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "컴투스홀딩스 '파우팝 매치', 카카오톡·카카오페이 버전 출시",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6935944",
+      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6935944",
+      "description": "ⓒ컴투스홀딩스  컴투스홀딩스는 모바일 퍼즐 게임 '파우팝 매치'를 '카카오톡'과 '카카오페이'를 통해 선공개 했다고 6일 밝혔다. 이번 선공개는 올 하반기 예정된 글로벌 정식 출시에 앞서 국내 유저들에게 게임을 먼저...",
+      "pubDate": "2026-07-06T02:02:00+00:00",
+      "category": "카카오페이",
+      "source": "스포츠한국"
+    },
+    {
+      "title": "컴투스홀딩스 '파우팝 매치', 카카오톡·카카오페이 선공개…3분기 글로...",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=306078",
+      "originallink": "https://www.khgames.co.kr/news/articleView.html?idxno=306078",
+      "description": "컴투스홀딩스는 모바일 퍼즐 게임 '파우팝 매치(Pawpop Match)'를 카카오톡과 카카오페이를 통해 선공개했다고 6일 밝혔다. 이번 선공개는 올해 하반기 글로벌 정식 출시에 앞서 국내 이용자들에게 게임을 먼저 선보이고...",
+      "pubDate": "2026-07-06T01:52:00+00:00",
+      "category": "카카오페이",
+      "source": "경향게임스"
+    },
+    {
+      "title": "컴투스홀딩스 '파우팝 매치'…카카오톡·카카오페이 선공개",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000097418",
+      "originallink": "https://www.seoultimes.news/news/article.html?no=2000097418",
+      "description": "카카오톡과 카카오페이를 통해 선공개하며 국내 이용자 확보에 나섰다. 컴투스홀딩스는 '파우팝 매치'를 카카오톡의 '게임플레이'와 카카오페이 '미니게임' 서비스를 통해 출시했다고 6일 밝혔다. 이용자는 별도...",
+      "pubDate": "2026-07-06T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "seoultimes"
+    },
+    {
+      "title": "컴투스홀딩스 퍼즐 게임 '파우팝 매치', 카카오톡·카카오페이 선출시",
+      "link": "https://www.ajunews.com/view/20260706102845383",
+      "originallink": "https://www.ajunews.com/view/20260706102845383",
+      "description": "카카오톡·카카오페이 버전, 다운로드 없이 플레이 가능 북미·동남아 소프트 론칭… 3분기 글로벌 출시 목표 아주경제=안신혜 기자 doubletap@ajunews.com 카카오톡과 카카오페이에 선출시된 '파우팝 매치' [사진...",
+      "pubDate": "2026-07-06T01:40:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "우리은행·토스플레이스 손잡고 소상공인 결제 지원",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=697945",
+      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=697945",
+      "description": "우리은행이 토스플레이스와 손잡고 토스플레이스 결제 단말기를 새로 구매한 뒤 카드대금 입금계좌를 우리은행으로 지정·변경하는 가맹점주에게 8만원을 지원한다. 우리은행은 소상공인과 자영업자의 매장 운영 부담을...",
+      "pubDate": "2026-07-06T01:22:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스프리존"
+    },
+    {
+      "title": "우리은행-토스플레이스, 단말기 구매 지원으로 소상공인 돕는다",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=125661",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=125661",
+      "description": "우리은행이 토스플레이스와 함께 소상공인과 자영업자의 매장 운영 부담 완화에 나선다. 6일 우리은행에 따르면 은행은 토스플레이스와 함께 '가맹점 단말기 구매 지원 및 결제계좌 변경 이벤트'를 이날부터 오는...",
+      "pubDate": "2026-07-06T00:32:00+00:00",
+      "category": "토스페이",
+      "source": "팝콘뉴스"
+    },
+    {
       "title": "크플, 네이버페이·KB알다에 대출 갈아타기 상품 입점",
       "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681445",
       "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681445",
@@ -2392,7 +3175,7 @@
       "description": "광주은행이 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 인프라 확대와 지역경제 활성화에 나선다. 광주은행(은행장 정일선)은 지난 24일 서울...",
       "pubDate": "2026-06-26T22:50:00+00:00",
       "category": "토스페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "점심 장사 이어 저녁 장사까지…토스 포스 결제 장애",
@@ -2734,7 +3517,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -3139,7 +3922,7 @@
       "description": "배스킨라빈스 관계자는 \"간편결제 서비스를 이용하는 고객들에게 실질적인 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"여름철 고객들이 아이스크림을 보다...",
       "pubDate": "2026-06-24T04:36:00+00:00",
       "category": "네이버페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "카드업계, 공공지원·간편결제·생활혜택으로 고객 접점 넓혀",
@@ -7568,16 +8351,7 @@
       "pubDate": "2026-04-08T02:44:00+00:00",
       "category": "토스페이",
       "source": "플래텀"
-    },
-    {
-      "title": "[토스 IPO 준비] ①상장 시나리오, 미국 증시 진출 이후 국내까지 검토",
-      "link": "https://www.fetv.co.kr/news/article.html?no=216448",
-      "originallink": "https://www.fetv.co.kr/news/article.html?no=216448",
-      "description": "(보험), 토스페이먼츠(PG) 등을 아우르는 다각화된 포트폴리오를 구축했다는 점에서 차별화된다. 이들 서비스를 단일 플랫폼에서 제공하는 '슈퍼앱(Super app)' 전략을 펼치고 있다. 또한 카카오뱅크와 카카오페이의 주가가...",
-      "pubDate": "2026-04-07T03:02:00+00:00",
-      "category": "토스페이",
-      "source": "FETV"
     }
   ],
-  "lastFetch": "2026-07-06T00:16:50.703180+00:00"
+  "lastFetch": "2026-07-07T00:20:22.600795+00:00"
 }
