@@ -1,6 +1,627 @@
 {
   "articles": [
     {
+      "title": "토스, 원화 스테이블코인 인프라 검증 나선다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=744576",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=744576",
+      "description": "국내에서는 디지털자산기본법 등 스테이블코인 관련 제도 정비 논의가 이어지는 가운데 카카오페이와 네이버파이낸셜 등도 원화 스테이블코인 관련 행보를 저울질하고 있다. 3000만 가입자를 보유한 토스가 이더리움...",
+      "pubDate": "2026-07-07T23:50:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "금융감독원-네이버페이, 스타트업 투자 플랫폼 출범…정보 비대칭 해소...",
+      "link": "https://www.tokenpost.kr/news/economy/375705",
+      "originallink": "https://www.tokenpost.kr/news/economy/375705",
+      "description": "금융감독원과 네이버페이가 함께 준비해온 모험자본 투자 플랫폼이 7일 공식 서비스를 시작하면서, 스타트업과 투자자를 연결하는 비대면 투자 인프라가 본격 가동됐다. 이번 플랫폼은 모험자본 시장의 고질적인 문제로...",
+      "pubDate": "2026-07-07T15:04:00+00:00",
+      "category": "네이버페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "[금융 HOT 뉴스] 네이버페이, 모험자본 투자 플랫폼으로 생산적 금융 지...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=140190",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=140190",
+      "description": "사진=네이버페이  네이버페이(Npay)가 스타트업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'을 선보였다. Npay 스타트업혁신 기술과 성장 가능성을 가진 스타트업에 투자금이 원활하게 공급될 수 있도록...",
+      "pubDate": "2026-07-07T14:12:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "“투자 정보는 한곳에서”…네이버페이, 스타트업 투자 플랫폼 ‘Npay 스...",
+      "link": "https://www.venturesquare.net/1096699/",
+      "originallink": "https://www.venturesquare.net/1096699/",
+      "description": "네이버페이(Npay)는 7일 경기도 성남시 네이버 1784에서 금융감독원과 금융·벤처업계 주요 기관이 참석한 가운데 ‘모험자본 투자 플랫폼’ 출범식을 개최하고, 플랫폼 서비스인 ‘Npay 스타트업’의 시범 운영을...",
+      "pubDate": "2026-07-07T13:55:00+00:00",
+      "category": "네이버페이",
+      "source": "벤처스퀘어"
+    },
+    {
+      "title": "네이버페이, 모험자본 투자 플랫폼 'Npay 스타트업' 출범",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2225273",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2225273",
+      "description": "네이버페이는 7일 경기 성남시 네이버 1784에서 금융감독원과 금융·벤처업계 관계자들이 참석한 가운데 '모험자본 투자 플랫폼' 출범식을 열고 'Npay 스타트업' 시범 운영을 시작했다고 밝혔다. 출범식에는 이찬진...",
+      "pubDate": "2026-07-07T13:02:00+00:00",
+      "category": "네이버페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "유망 스타트업 투자 중개…네이버페이 모험자본 투자 플랫폼 출범 [금융...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202607071926146688a55064dd1_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202607071926146688a55064dd1_18",
+      "description": "\"Npay 스타트업 플랫폼을 통해 투자자와 기업을 쉽게 만나고 아까 보신 바와 같이 효율적으로 연결해나가면서 투자 계획을 높여가는 기반이 된다고 생각하고 있습니다.\" 박상진 네이버페이 대표는 7일 네이버 신사옥...",
+      "pubDate": "2026-07-07T12:24:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "네이버페이·금감원, 혁신기업 발굴부터 자금 공급까지…모험자본 플랫...",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=276601",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=276601",
+      "description": "[사진=이재인 기자] 네이버페이가 금융감독원과 손잡고 스타트업과 투자자를 연결하는 모험자본 투자 플랫폼을 출범했다. 금융투자업계는 플랫폼을 활용해 유망기업 발굴과 모험자본 공급 확대에 나설 계획이다....",
+      "pubDate": "2026-07-07T11:24:00+00:00",
+      "category": "네이버페이",
+      "source": "팍스경제TV"
+    },
+    {
+      "title": "'네이버페이 스타트업' 출범…생산적 금융에 기여",
+      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=51314",
+      "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=51314",
+      "description": "네이버페이(대표 박상진)가 이런 갈증을 풀기 위한 모험자본 투자 플랫폼 '네이버페이 스타트업'을 7일 발족했다. 모험자본 투자 플랫폼은 금융감독원과 중소벤처기업부, Npay가 함께 추진한 프로젝트로 출자사(증권사 등)...",
+      "pubDate": "2026-07-07T10:46:00+00:00",
+      "category": "네이버페이",
+      "source": "코리아리포트"
+    },
+    {
+      "title": "네이버페이, 모험자본 투자 플랫폼 'Npay 스타트업' 출범",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264321",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264321",
+      "description": "(사진=네이버페이)  네이버페이(Npay)가 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'을 출범시켰다. 약 3개월간 시범운영을 거치며 고도화한 뒤 참여 기관을 확대할 계획이다. 7일...",
+      "pubDate": "2026-07-07T09:28:00+00:00",
+      "category": "네이버페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년 위한 포용금융 교육 협력 확대",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=97559",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=97559",
+      "description": "카카오페이 이윤근 ESG협의체장(가운데)이 아이들과미래재단 김효승 상임이사(왼쪽), 서울시가족센터 홍우정 센터장(오른쪽)과 기념촬영을 진행하고 있다. 사진=카카오페이  디지털 금융이 일상 전반으로 확산되면서 금융...",
+      "pubDate": "2026-07-07T09:26:00+00:00",
+      "category": "카카오페이",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "금감원·네이버페이 ‘모험자본 투자 플랫폼’ 출범…이찬진 “모험자...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005704191?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12092724",
+      "description": "7일 출범식 3개월 시범운영 거쳐 시장 안착 추진 금융감독원과 네이버페이가 증권사·벤처캐피털(VC)·신기술사업금융회사·중소벤처기업을 연결하는 ‘Npay 모험자본 투자 플랫폼’을 7일 출범시켰다. 투자 대상 기업...",
+      "pubDate": "2026-07-07T09:13:00+00:00",
+      "category": "네이버페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "'네이버페이 스타트업' 출범… 혁신기업·모험자본 잇는다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005544965?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607071807226622",
+      "description": "스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 '네이버페이(Npay) 스타트업'이 출범했다. Npay는 7일 경기 성남 네이버 1784에서 이찬진 금융감독원장과 박상진 네이버페이 대표 등이 참석한 가운데...",
+      "pubDate": "2026-07-07T09:09:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "네이버페이, 'Npay 스타트업' 출범… 스타트업 투자 생태계 조성",
+      "link": "https://www.asiatime.co.kr/article/20260707500410",
+      "originallink": "https://www.asiatime.co.kr/article/20260707500410",
+      "description": "박상진 대표 \"성공사례 나오도록 적극 지원할 것\" 네이버페이(Npay)가 'Npay 스타트업'을 출범하고 투자 정보에 대한 접근성을 높여 스타트업·벤처기업에 모험자본이 공급되는 환경을 조성한다. 이찬진 금융감독원장이...",
+      "pubDate": "2026-07-07T09:08:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "금감원·네이버페이, \"모험자본 비대칭 해소\"",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848804",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=848804",
+      "description": "/사진=최천욱 기자 | 서울=한스경제 김유진 기자 | 금융감독원과 네이버페이가 모험자본 시장의 정보 비대칭을 해소하기 위한 '모험자본 투자 플랫폼'을 공식 출범시켰다. 증권사와 벤처캐피털(VC), 중소·벤처기업 간 정보...",
+      "pubDate": "2026-07-07T09:08:00+00:00",
+      "category": "네이버페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "네이버페이, 모험자본 플랫폼 출범..\"벤처-투자자 연결\"",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2114389",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2114389",
+      "description": "/네이버페이 네이버페이의 모험자본 투자 플랫폼 '엔페이(Npay) 스타트업'이 시범 운영에 들어갔다. 벤처투자와 펀드 결성이 늘어나는 가운데 출자사와 운용사, 스타트업·벤처기업을 한곳에 모아 투자 정보 비대칭과...",
+      "pubDate": "2026-07-07T09:06:00+00:00",
+      "category": "네이버페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "혁신기업·투자자 잇는 '네이버페이 스타트업' 출범…생산적 금융 확대",
+      "link": "https://www.it-b.co.kr/news/articleView.html?idxno=88996",
+      "originallink": "https://www.it-b.co.kr/news/articleView.html?idxno=88996",
+      "description": "모험자본 투자 플랫폼 '네이버페이(Npay) 스타트업'이 출범했다. 네이버페이는 7일 경기도 성남시 네이버 1784에서 출범식을 개최하고, 플랫폼 서비스인 '네이버페이 스타트업'의 시범 운영을 시작한다고 밝혔다. 혁신 기술과...",
+      "pubDate": "2026-07-07T09:06:00+00:00",
+      "category": "네이버페이",
+      "source": "아이티비즈"
+    },
+    {
+      "title": "네이버페이, 모험자본 플랫폼 출범...스타트업 투자 문 넓힌다",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682033",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682033",
+      "description": "네이버페이는 7일 경기도 성남시 네이버 1784에서 금융감독원, 금융·벤처업계 관계자들과 함께 모험자본 투자 플랫폼 출범식을 열었다 [사진: 오상엽 기자] 네이버페이(Npay)가 금융감독원과 손잡고 스타트업·벤처기업과...",
+      "pubDate": "2026-07-07T09:04:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "'모험자본 투자 플랫폼 출범', 박상진 네이버페이 대표이사",
+      "link": "https://www.newspim.com/news/view/20260707001206",
+      "originallink": "https://www.newspim.com/news/view/20260707001206",
+      "description": "박상진 네이버페이 대표이사가 7일 오후 경기 성남시 분당구 네이버1784에서 열린 '모험자본 투자 플랫폼 출범식'에 참석해 발언하고 있다. 2026.07.07 kunjoo@newspim.com",
+      "pubDate": "2026-07-07T09:01:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "발언 나선 박상진 네이버페이 대표이사",
+      "link": "https://www.newspim.com/news/view/20260707001205",
+      "originallink": "https://www.newspim.com/news/view/20260707001205",
+      "description": "박상진 네이버페이 대표이사가 7일 오후 경기 성남시 분당구 네이버1784에서 열린 '모험자본 투자 플랫폼 출범식'에 참석해 발언하고 있다. 2026.07.07 kunjoo@newspim.com",
+      "pubDate": "2026-07-07T09:01:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "[현장] 네이버페이 모험자본 투자 플랫폼 출범, 박상진 \"네이버의 '연결...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=441791",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=441791",
+      "description": "박상진 네이버페이 대표이사가 7일 경기 성남 네이버1784 신사옥에서 열린 모험자본 투자 플랫폼 'Npay 스타트업' 출범식에서 인사말을 하고 있다. <비즈니스포스트> \"네이버도 1999년 스타트업으로 시작했다.\" 박상진...",
+      "pubDate": "2026-07-07T09:00:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "'네이버페이, 모험자본 투자 플랫폼'",
+      "link": "https://www.newspim.com/news/view/20260707001193",
+      "originallink": "https://www.newspim.com/news/view/20260707001193",
+      "description": "7일 경기 성남시 네이버1784에서 모험자본 투자 플랫폼 출범식이 열리고 있다. 2026.07.07 kunjoo@newspim.com",
+      "pubDate": "2026-07-07T08:59:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "모험자본 투자 문턱 낮춘다…‘Npay 스타트업’ 출범",
+      "link": "https://www.ekn.kr/web/view.php?key=20260707024580186",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260707024580186",
+      "description": "모험자본 투자 플랫폼 '네이버페이(Npay) 스타트업'이 공식 출범했다. 혁신 기술과 성장 가능성을 갖춘 스타트업·벤처기업과 투자자를 연결해 모험자본 공급을 활성화하고 생산적 금융을 확대하는 것이 목표다....",
+      "pubDate": "2026-07-07T08:50:00+00:00",
+      "category": "네이버페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 핀테크 소식...카카오페이·네이버페이",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199930",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199930",
+      "description": "네이버페이(Npay)는 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'의 시범 운영을 시작했다. ◆ 카카오페이, 다문화 청소년 디지털 금융교육 업무협약 체결 카카오페이가...",
+      "pubDate": "2026-07-07T08:50:00+00:00",
+      "category": "네이버페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "모험자본 투자 플랫폼 'Npay 스타트업' 출범…민관 협업",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=739472",
+      "originallink": "http://www.newsprime.co.kr/news/article.html?no=739472",
+      "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
+      "pubDate": "2026-07-07T08:48:00+00:00",
+      "category": "네이버페이",
+      "source": "프라임경제"
+    },
+    {
+      "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
+      "link": "https://sateconomy.co.kr/news/view/1065602065491377",
+      "originallink": "https://sateconomy.co.kr/news/view/1065602065491377",
+      "description": "투자자·운용사·벤처기업 한곳서 연결…3개월간 시범 운영 ▲이찬진 금융감독원장이 7일 경기도 성남시 네이버 1784에서 열린 '모험자본 투자 플랫폼 출범식'에서 축사하고 있다[연합뉴스] 네이버페이가 투자자와...",
+      "pubDate": "2026-07-07T08:40:00+00:00",
+      "category": "네이버페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "모험자본 투자 플랫폼 '네이버페이 스타트업' 출범",
+      "link": "https://n.news.naver.com/mnews/article/243/0000100130?sid=101",
+      "originallink": "https://economist.co.kr/article/view/ecn202607070056",
+      "description": "네이버페이(Npay)는 7일 경기 성남시 네이버 1784에서 금융감독원과 금융·벤처업계 관계자들이 참석한 가운데 '모험자본 투자 플랫폼' 출범식을 열고 'Npay 스타트업'의 시범 운영을 시작했다고 밝혔다. 행사에는 이찬진...",
+      "pubDate": "2026-07-07T08:36:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미스트"
+    },
+    {
+      "title": "네이버페이·금감원, 스타트업 플랫폼 구축",
+      "link": "https://n.news.naver.com/mnews/article/015/0005307269?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026070709531",
+      "description": "네이버페이가 금융감독원과 손잡고 스타트업 정보를 제공하는 ‘네이버페이 스타트업’ 플랫폼을 7일 출범했다. 유망 기업의 정보를 손쉽게 열람하고 실제 투자까지 이어지도록 지원하는 온라인 투자 플랫폼이다....",
+      "pubDate": "2026-07-07T08:35:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "네이버페이, 모험자본 투자 플랫폼 'Npay 스타트업' 출범…생산적 금융...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003108936?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1664438/?sc=Naver",
+      "description": "네이버페이가 금융감독원, 중소벤처기업부와 함께 스타트업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'을 출범시키며 생산적 금융 활성화에 나섰다. 네이버페이는 7일 경기도 성남시 네이버 1784에서...",
+      "pubDate": "2026-07-07T08:35:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "카카오증권, 카카오페이 완전자회사로 편입…‘IB 영역’ 수익다각화 착...",
+      "link": "https://www.ceoscoredaily.com/page/view/2026070715454240066",
+      "originallink": "https://www.ceoscoredaily.com/page/view/2026070715454240066",
+      "description": "실제로 신호철 카카오페이증권 대표는 증권업계에서는 드문 ‘엔지니어’ 출신이다. 서울대 전기공학부와 미국 스탠퍼드대 전기공학 박사를 졸업 후 네이버, 삼성전자 등 테크 기업에서 주로 경력을 쌓아 왔다. 이러한...",
+      "pubDate": "2026-07-07T08:34:00+00:00",
+      "category": "카카오페이",
+      "source": "CEOSCOREDAILY"
+    },
+    {
+      "title": "벤처기업·투자사 연결하는 '네이버페이 스타트업' 출범…3개월 시범 운...",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=403988",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=403988",
+      "description": "네이버페이(Npay)가 '모험자본 투자 플랫폼'을 출범했다. 우선 3개월간 시범운영하고 유관기관과 협력해 정보 신뢰성을 높이기 위한 정합성 검증 체계도 마련한다는 계획이다. 네이버페이는 7일 경기도 성남시 네이버...",
+      "pubDate": "2026-07-07T08:34:00+00:00",
+      "category": "네이버페이",
+      "source": "테크월드"
+    },
+    {
+      "title": "\"결제 넘어 투자 인프라로\"…네이버페이 'Npay 스타트업' 첫선",
+      "link": "https://n.news.naver.com/mnews/article/417/0001150685?sid=101",
+      "originallink": "https://www.sidae.com/article/2026070715572821176",
+      "description": "네이버페이가 스타트업과 투자자를 잇는 모험자본 투자 플랫폼을 선보이며 생산적 금융 인프라 구축에 나섰다. 결제·금융 서비스에서 쌓은 플랫폼 운영 역량을 벤처투자 시장으로 확장해 모험자본 공급의 비효율을...",
+      "pubDate": "2026-07-07T08:33:00+00:00",
+      "category": "네이버페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "스타트업과 투자자 연결 ‘Npay 스타트업’ 플랫폼 출범",
+      "link": "https://n.news.naver.com/mnews/article/016/0002667048?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10801270?ref=naver",
+      "description": "이날 경기도 성남시 네이버 1784 본사에서 열린 ‘모험자본 투자 플랫폼’ 출범식에는 금융감독원을 비롯해 네이버페이, 금융·벤처업계 주요 관계자들과 참석했다.이번 출범식을 기점으로 플랫폼 서비스인 ‘Npay...",
+      "pubDate": "2026-07-07T08:27:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "올라핀테크 중기중앙회와 노란우산 업무협약",
+      "link": "https://www.hellot.net/news/article.html?no=113653",
+      "originallink": "https://www.hellot.net/news/article.html?no=113653",
+      "description": "7월 1일부터 30일까지 온라인으로 신규 가입하는 대상자에게 네이버페이 또는 카카오페이 5만 원권 중 1종을 지급한다. 올라핀테크 김상수 대표는 \"이제 사업 운영에 필요한 자금은 물론이고 사업자의 사회안전망까지...",
+      "pubDate": "2026-07-07T08:22:00+00:00",
+      "category": "간편결제",
+      "source": "hellot"
+    },
+    {
+      "title": "네이버페이, 모험자본 투자 플랫폼 출범⋯스타트업 투자 생태계 연결고...",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=256969",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=256969",
+      "description": "현대경제신문 최예헌 기자 | 네이버페이(Npay)가 모험자본 투자 플랫폼을 출범시키며 스타트업 투자 생태계와의 연결고리를 강화한다. 네이버페이는 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay...",
+      "pubDate": "2026-07-07T08:20:00+00:00",
+      "category": "네이버페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "모험자본 투자 플랫폼 'Npay 스타트업' 출범…생산적 금융 확대",
+      "link": "https://n.news.naver.com/mnews/article/003/0014051924?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260707_0003699586",
+      "description": "네이버페이가 스타트업·벤처기업과 투자자를 연결하는 'Npay 스타트업'을 출범하고, 투자 정보에 대한 접근성을 높여 스타트업·벤처기업에 모험자본이 원활하게 공급되는 환경 조성에 나선다. 자본시장을 통한 '생산적...",
+      "pubDate": "2026-07-07T08:19:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "네이버페이, 모험자본 투자 플랫폼 '네이버페이 스타트업' 출범",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=265481",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=265481",
+      "description": "네이버페이가 스타트업과 투자자를 연결하는 모험자본 투자 플랫폼을 선보였다. 투자 정보를 한곳에 모으고 투자 검토 절차를 표준화해, 벤처기업에 자금이 원활하게 공급되는 생산적 금융 기반을 넓히겠다는 취지다....",
+      "pubDate": "2026-07-07T08:18:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "'모험자본 투자 플랫폼 출범' 개회사 밝히는 박상진 네이버페이 대표[한...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026070717154311212",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026070717154311212",
+      "description": "박상진 네이버페이 대표이사가 7일 오후 경기 성남시 네이버1784에서 열린 모험자본 투자 플랫폼 출범식에서 개회사를 하고 있다.",
+      "pubDate": "2026-07-07T08:18:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "현대카드, 브랜드평판 1위 독주…'애플페이·알파벳카드·호실적' 앞세워...",
+      "link": "http://www.lkp.news/news/articleView.html?idxno=81635",
+      "originallink": "http://www.lkp.news/news/articleView.html?idxno=81635",
+      "description": "현대카드는 시장 선두 자리에 안주하지 않고, 하반기에도 '애플페이'의 지속적인 선점 효과와 새로 선보인 '알파벳카드', 그리고 견고한 '호실적'을 바탕으로 하반기 신용카드 시장의 주도권을 장악해 나갈 전망이다....",
+      "pubDate": "2026-07-07T08:04:00+00:00",
+      "category": "애플페이",
+      "source": "리버티코리아포스트"
+    },
+    {
+      "title": "“모험자본 활성화는 선택 아닌 필수”…네이버페이, 모험자본 투자 플...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071444079000268",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607071444079000268",
+      "description": "모험자본 투자플랫폼이 금융산업과 실물경제의 동반 성장으로 이어지는 모범사례가 되길 바랍니다” 7일 서울 네이버1784(신사옥)에서 열린 네이버파이낸셜(네이버페이) ‘모험자본 투자 플랫폼’ 출범식에서 이찬진...",
+      "pubDate": "2026-07-07T08:02:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "[핀테크 NOW] 네이버페이·카카오페이·토스",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189482",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189482",
+      "description": "■ 카카오페이, 다문화 청소년 디지털 금융교육 시동 카카오페이가 다문화 및 이주배경 청소년의 디지털 금융 이해력을 높이고 금융 사각지대를 해소하기 위해 전문 기관들과 손을 잡았다. 카카오페이는 지난 6일 서울시...",
+      "pubDate": "2026-07-07T08:00:00+00:00",
+      "category": "네이버페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "네이버페이 \"스타트업과 투자자 잇는 개방적 플랫폼으로\"",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=306536",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=306536",
+      "description": "[사진=조성진 기자] 박상진 네이버파이낸셜 대표가 민관 협력 투자 플랫폼 출범을 계기로 벤처투자 생태계 활성화에 힘을 보태겠다는 뜻을 밝혔다. 네이버가 초기 투자 유치를 통해 성장한 경험을 바탕으로, 스타트업과...",
+      "pubDate": "2026-07-07T07:56:00+00:00",
+      "category": "네이버페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "[뉴스워커_카카오페이] 다문화 청소년 디지털 금융교육 나선다",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=435104",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=435104",
+      "description": "카카오페이가 다문화·이주배경 청소년의 디지털 금융 이해도를 높이기 위해 맞춤형 금융교육을 확대한다. 카카오페이는 아이들과미래재단, 서울시가족센터와 '다문화 청소년 디지털 금융교육' 운영을 위한 업무협약을...",
+      "pubDate": "2026-07-07T07:52:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "[재계는 지금] 네이버페이, ‘네이버페이 스타트업’ 출범 外",
+      "link": "https://dealsite.co.kr/articles/164895",
+      "originallink": "https://dealsite.co.kr/articles/164895",
+      "description": "◆카카오엔터, ‘도굴왕: 엔드라인’ 웹툰·웹소설 공개 카카오엔터테인먼트가 ‘도굴왕’ 후속 시리즈 ‘도굴왕: 엔드라인’ 웹툰을 5일, 웹소설을 6일 카카오페이지에 순차적으로 공개한다. 애니메이션...",
+      "pubDate": "2026-07-07T07:32:00+00:00",
+      "category": "네이버페이",
+      "source": "딜사이트"
+    },
+    {
+      "title": "네이버페이, 투자사-스타트업·벤처 잇는 '생산적 금융' 나선다",
+      "link": "https://n.news.naver.com/mnews/article/092/0002429595?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260707135536",
+      "description": "네이버페이(네이버파이낸셜)가 스타트업 투자 활성화를 위한 플랫폼을 내놨다. 스타트업·벤처기업과 투자자를 연결하는 것이 골자로, 현 정부에서 강조하는 ‘생산적 금융’ 기조에 따른 것이다. 네이버페이는 7일...",
+      "pubDate": "2026-07-07T07:31:00+00:00",
+      "category": "네이버페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "AI로 투자기업 찾는다…금감원·네이버페이 '모험자본 투자 플랫폼' 출...",
+      "link": "https://n.news.naver.com/mnews/article/374/0000520435?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000321051?division=NAVER",
+      "description": "오늘(7일) 이찬진 금감원장은 네이버파이낸셜이 개최한 '모험자본 투자 플랫폼' 출범식에 참석했습니다. 이번 출범식은 금감원-네이버페이가 공동 추진해온 '모험자본 투자 플랫폼' 공개와 서비스 개시를 위해 마련된...",
+      "pubDate": "2026-07-07T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "\"투자자와 스타트업 잇는 관문 열렸다\" 네이버페이 모험자본 플랫폼 승...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=744465",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=744465",
+      "description": "공급 계획을 내놓은 가운데 그 돈이 흘러갈 물길을 누가 설계하느냐의 경쟁이 시작됐기 때문이다. 네이버페이가 간편결제 사업자를 넘어 자본시장 인프라 사업자로 보폭을 넓히는 첫걸음이라는 평가가 나오는 이유다.",
+      "pubDate": "2026-07-07T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년 디지털 금융교육…대학생 100명 강사 참여",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466218",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466218",
+      "description": "지난 6일 아이들과미래재단 오피스에서 진행한 '사각사각 서포터즈 2026 다문화 청소년 디지털 금융교육 업무 협약식'에서 카카오페이 이윤근 ESG협의체장(가운데)이 아이들과미래재단 김효승 상임이사(왼쪽)...",
+      "pubDate": "2026-07-07T06:18:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년 디지털 금융교육 지원",
+      "link": "https://n.news.naver.com/mnews/article/030/0003445332?sid=101",
+      "originallink": "https://www.etnews.com/20260707000347",
+      "description": "카카오페이가 아이들과미래재단, 서울시가족센터와 손잡고 다문화·이주배경 청소년의 디지털 금융 이해력을 높이고, 안전한 금융생활 습관 형성을 지원한다. 카카오페이는 지난 6일 서울시 동작구에 위치한...",
+      "pubDate": "2026-07-07T06:06:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[금융단신] 카카오페이·토스",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1383615",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1383615",
+      "description": "지난 6일 아이들과미래재단 오피스에서 진행한 '사각사각 서포터즈 2026 다문화 청소년 디지털 금융교육 업무 협약식'에서 이윤근 카카오페이 ESG협의체장(가운데)이 김효승 아이들과미래재단 상임이사(왼쪽), 홍우정...",
+      "pubDate": "2026-07-07T05:42:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 '빅딜' 연말로 연기…공정위 심사 장기화",
+      "link": "https://n.news.naver.com/mnews/article/030/0003445286?sid=101",
+      "originallink": "https://www.etnews.com/20260707000294",
+      "description": "가상자산 거래소 업비트를 운영하는 두나무와 네이버파이낸셜 간 '빅딜' 일정이 연말까지 미뤄졌다. 공정거래위원회의 기업결합 심사가 장기화하면서 거래 종결 시점도 늦어지는 양상이다. 7일 금융감독원...",
+      "pubDate": "2026-07-07T05:09:00+00:00",
+      "category": "네이버페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[단독]외국인 관광객, 중국서 애플페이 쓴다…中 결제망 연동",
+      "link": "https://n.news.naver.com/mnews/article/030/0003445275?sid=101",
+      "originallink": "https://www.etnews.com/20260707000287",
+      "description": "외국인 관광객이 중국에서 애플페이로 결제하는 시대가 열렸다. 텐센트가 위챗페이 QR결제망에 애플페이를 연동한 해외 관광객 전용 서비스를 선보이면서다. 중국 QR결제망과 애플 결제 생태계가 우회적으로 연결된...",
+      "pubDate": "2026-07-07T05:00:00+00:00",
+      "category": "애플페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년 디지털 금융교육",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=89385",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=89385",
+      "description": "카카오페이는 아이들과미래재단, 서울시가족센터와 '다문화 청소년 디지털 금융교육' 운영을 위한 업무협약을 했다고 7일 밝혔다. 이번 협약은 다문화·이주배경 청소년의 디지털 금융 이해도를 높이고 안전한...",
+      "pubDate": "2026-07-07T04:12:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년 금융사각지대 해소 나서",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264308",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264308",
+      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이)  카카오페이가 언어적 장벽과 문화적 차이로 인해 디지털 금융의 흐름에서 소외되는 다문화 와 이주배경 청소년 가정을 위한 금융사각지대 해소에 나선다. 카카오페이는...",
+      "pubDate": "2026-07-07T03:50:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "[금융] 카카오페이 청소년 교육 / 미래에셋운용 반도체ETF 수익률 / KB국...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2224149",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2224149",
+      "description": "◼︎ 카카오페이, 다문화 청소년 디지털 금융교육 확대 카카오페이는 아이들과미래재단, 서울시가족센터와 함께 다문화·이주배경 청소년을 위한 디지털 금융교육 사업을 추진한다고 7일 밝혔다. 서울·경기 지역 20개...",
+      "pubDate": "2026-07-07T02:54:00+00:00",
+      "category": "카카오페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "카카오페이·에브리타임·리멤버, 청년 맞춤형 금융·취업 정보 협력 강...",
+      "link": "https://www.tokenpost.kr/news/insights/375533",
+      "originallink": "https://www.tokenpost.kr/news/insights/375533",
+      "description": "카카오페이와 에브리타임 운영사 비누랩스, 리멤버앤컴퍼니가 각각 금융교육과 취업 정보, 채용 데이터 분야에서 협력 체계를 넓히면서 청소년과 대학생, 구직자를 겨냥한 생활밀착형 서비스 강화에 나섰다. 카카오페이는...",
+      "pubDate": "2026-07-07T02:42:00+00:00",
+      "category": "카카오페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "컴투스홀딩스 모바일 퍼즐 게임 '파우팝 매치', 카카오톡과 카카오페이...",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1007132",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1007132",
+      "description": "컴투스홀딩스는 모바일 퍼즐 게임 '파우팝 매치'를 '카카오톡'과 '카카오페이'를 통해 선공개 했다고 6일 밝혔다. 이번 선공개는 올 하반기 예정된 글로벌 정식 출시에 앞서 국내 유저들에게 게임을 먼저 선보이고...",
+      "pubDate": "2026-07-07T02:32:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "\"다문화청소년 '디지털금융 사각지대' 해소\" 카카오페이 '사각사각 서포...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=125850",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=125850",
+      "description": "이윤근 카카오페이 ESG협의체장(가운데)이 지난 6일 서울시 동작구 아이들과미래재단 오피스에서 김효승 아이들과미래재단 상임이사(왼쪽)와 홍우정 서울시가족센터장과 '사각사각 서포터즈 2026 다문화 청소년 디지털...",
+      "pubDate": "2026-07-07T02:11:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년 금융교육 업무협약",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1007164",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1007164",
+      "description": "카카오페이가 다문화·이주배경 청소년을 대상으로 금융교육을 실시한다. 카카오페이는 아이들과미래재단, 서울시가족센터와 '다문화 청소년 디지털 금융교육' 운영을 위한 업무협약을 체결했다고 7일 밝혔다. 이번...",
+      "pubDate": "2026-07-07T01:56:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병 '제동'…공정위 심사에 연말로",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=603881",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=603881",
+      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환을 통한 합병 절차가 또다시 연기됐다. 공정거래위원회의 기업결합 심사가 예상보다 길어지고, 디지털자산 관련 입법 논의가 마무리되지 않은 점이 복합적으로 작용한...",
+      "pubDate": "2026-07-07T01:44:00+00:00",
+      "category": "네이버페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "간편결제 시대의 또 다른 금융격차…카카오페이, 다문화 청소년 교육 나...",
+      "link": "https://sateconomy.co.kr/news/view/1065573299680936",
+      "originallink": "https://sateconomy.co.kr/news/view/1065573299680936",
+      "description": "대학생 100명 금융교육 강사로 양성…서울·경기 20개 기관 방문 언어·문화 장벽 넘어 보이스피싱·과소비 예방까지…가족 대상 금융 가이드도 배포 ▲카카오페이 이윤근 ESG협의체장(가운데)이 아이들과미래재단 김효승...",
+      "pubDate": "2026-07-07T01:30:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "카카오페이, 다문화청소년 디지털 금융교육 나선다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009044464?sid=105",
+      "originallink": "https://www.news1.kr/it-science/general-it/6219945",
+      "description": "카카오페이(377300)가 아이들과미래재단, 서울시가족센터와 손잡고 다문화·이주배경 청소년의 디지털 금융 이해력 향상과 안전한 금융생활 습관 형성에 나선다. 카카오페이는 지난 6일 서울 동작구 아이들과미래재단...",
+      "pubDate": "2026-07-07T01:27:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년에 포용적 금융가치 전파..‘디지털 금융교육...",
+      "link": "https://kpenews.com/View.aspx?No=4139444",
+      "originallink": "https://kpenews.com/View.aspx?No=4139444",
+      "description": "한국정경신문 이하정 기­자 sae256@hanmail.net [한국정경신문=이하정 기자] 카카오페이(대표 신원근)가 다문화 청소년에 포용적 금융의 가치를 전파한다. 카카오페이는 아이들과미래재단, 서울시가족센터와 손잡고 다문화...",
+      "pubDate": "2026-07-07T01:08:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년 디지털 금융교육 나선다…서울시가족센터·...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204539",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=204539",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이가 다문화·이주배경 청소년의 디지털 금융 이해도를 높이고 금융 소외를 해소하기 위해 전문기관과 협력에 나섰다. 카카오페이는 아이들과미래재단, 서울시가족센터와 '다문화...",
+      "pubDate": "2026-07-07T00:54:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "[핀테크업계 소식] 카카오페이, 토스",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=265362",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=265362",
+      "description": "◆카카오페이, 다문화 청소년 디지털 금융교육 지원 카카오페이는 지난 6일 서울 동작구 아이들과미래재단 오피스에서 아이들과미래재단, 서울시가족센터와 '다문화 청소년 디지털 금융교육' 운영을 위한 업무협약을...",
+      "pubDate": "2026-07-07T00:50:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "[테크스냅] 카카오페이, 아이들미래재단과 청소년 금융교육 협약",
+      "link": "https://n.news.naver.com/mnews/article/001/0016179376?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260707051600017?input=1195m",
+      "description": "비누랩스, 사람인과 협업…대학생 커리어 탐색 기능 강화 리멤버, 혁신의 숲과 MOU…채용 프로세스 최적화 카카오페이는 지난 6일 서울시 동작구 아이들과미래재단 오피스에서 아이들과미래재단, 서울시가족센터와 '다문화...",
+      "pubDate": "2026-07-07T00:46:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "토스뱅크 모임통장, 간편결제 등록 불가…“소비자 고지 필요”",
+      "link": "https://n.news.naver.com/mnews/article/030/0003445104?sid=101",
+      "originallink": "https://www.etnews.com/20260707000095",
+      "description": "토스뱅크가 내놓은 모임통장이 간편결제 서비스에 연동이 불가능해 일부 결제 편의성이 떨어진다는 지적이다. 토스뱅크는 지난 2023년 업계 최초로 카드 발급, 결제, 출금을 통장 개설자와 동일하게 진행할 수 있는...",
+      "pubDate": "2026-07-07T00:43:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, 다문화 청소년에 또래 강사 세운다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=744466",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=744466",
+      "description": "카카오페이가 아이들과미래재단, 서울시가족센터와 함께 다문화·이주배경 청소년의 디지털 금융교육 지원에 나선다고 6일 밝혔다. 세 기관은 이날 서울 동작구 아이들과미래재단 오피스에서 업무협약을 체결했으며...",
+      "pubDate": "2026-07-07T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 다문화·이주배경 청소년 금융교육 나서",
+      "link": "https://n.news.naver.com/mnews/article/018/0006324370?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03142246645512224",
+      "description": "카카오페이가 아이들과미래재단, 서울시가족센터와 다문화·이주배경 청소년의 디지털 금융 이해력 향상을 돕는다. 카카오페이는 지난 6일 서울시 동작구에 위치한 아이들과미래재단 오피스에서 아이들과미래재단...",
+      "pubDate": "2026-07-07T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 합병 또 연기…미래에셋·코빗은? [크립토 360]",
+      "link": "https://n.news.naver.com/mnews/article/016/0002666636?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10800258?ref=naver",
+      "description": "코인거래소 결합심사 줄줄이 지연되나 공정위, 미래에셋·코빗 인수도 의견청취 “상대적으로 간단한 심사 건 먼저 진행” [헤럴드경제=유혜림·경예은 기자] 네이버파이낸셜과 두나무 간 합병 일정이 공정거래위원회 등...",
+      "pubDate": "2026-07-07T00:20:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
       "title": "[핀테크핫이슈] 금융권 '디지털 리스크' 부상...IT통제 시험대",
       "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681673",
       "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681673",
@@ -214,7 +835,7 @@
       "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐습니다. 네이버는 종속회사인 네이버파이낸셜의 두나무 주식교환일이 오는 12월 31일로 변경됐다고 오늘(6일) 공시했습니다....",
       "pubDate": "2026-07-06T09:09:00+00:00",
       "category": "네이버페이",
-      "source": "yonhapnewstv"
+      "source": "연합뉴스TV"
     },
     {
       "title": "네이버파이낸셜·두나무 합병 또 연기",
@@ -502,7 +1123,7 @@
       "description": "국내 최대 암호화폐 거래소 업비트 운영사 두나무와 네이버파이낸셜의 통합 작업이 또다시 연기됐다. 업계에서는 단순한 일정 조정이라는 시각과 함께, 최근 거래량 감소로 위축된 국내 디지털자산 시장에서 규제...",
       "pubDate": "2026-07-06T07:40:00+00:00",
       "category": "네이버페이",
-      "source": "coinreaders"
+      "source": "코인리더스"
     },
     {
       "title": "두나무·네이버파이낸셜 주식교환 연말까지 연장",
@@ -3112,7 +3733,7 @@
       "description": "토스의 자회사 토스플레이스가 지난 26일 발생한 매장 관리·결제 시스템 '토스 포스' 결제 장애와 관련해, 매출 손실액 전액에 위로급 10%를 더해 현금 지급하는 보상 대책을 발표했습니다. 토스플레이스는 공식 홈페이지...",
       "pubDate": "2026-06-28T01:29:00+00:00",
       "category": "토스페이",
-      "source": "yonhapnewstv"
+      "source": "연합뉴스TV"
     },
     {
       "title": "토스플레이스, 결제 장애 보상 확대…매출 손실 110% 현금 지급",
@@ -3175,7 +3796,7 @@
       "description": "광주은행이 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 인프라 확대와 지역경제 활성화에 나선다. 광주은행(은행장 정일선)은 지난 24일 서울...",
       "pubDate": "2026-06-26T22:50:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "점심 장사 이어 저녁 장사까지…토스 포스 결제 장애",
@@ -3292,7 +3913,7 @@
       "description": "토스의 자회사 토스플레이스가 운영하는 매장 관리·결제 시스템 '토스 포스'가 점심에 이어 저녁 시간까지 오류가 나고 있는 것으로 알려졌습니다. 업계에 따르면 오늘(26일) 오후 5시45분쯤 토스 포스가 제대로 작동하지...",
       "pubDate": "2026-06-26T11:33:00+00:00",
       "category": "토스페이",
-      "source": "yonhapnewstv"
+      "source": "연합뉴스TV"
     },
     {
       "title": "토스 결제기, 점심 이어 저녁에도 ‘먹통’…자영업자 불편",
@@ -3517,7 +4138,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -3922,7 +4543,7 @@
       "description": "배스킨라빈스 관계자는 \"간편결제 서비스를 이용하는 고객들에게 실질적인 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"여름철 고객들이 아이스크림을 보다...",
       "pubDate": "2026-06-24T04:36:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "카드업계, 공공지원·간편결제·생활혜택으로 고객 접점 넓혀",
@@ -8324,34 +8945,7 @@
       "pubDate": "2026-04-12T09:18:00+00:00",
       "category": "네이버페이",
       "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "토스, 카카오·삼성페이 중심 결제 경쟁 심화",
-      "link": "https://www.junggi.co.kr/news/articleView.html?idxno=36072",
-      "originallink": "https://www.junggi.co.kr/news/articleView.html?idxno=36072",
-      "description": "최근 6개월 한국인이 가장 많이 사용한 주요 금융 결제앱은 토스(2254만명), 삼성월렛(1911만명), 카카오뱅크(1824만명), KB스타뱅킹(1287만명), 카카오페이(1016만명) 순이다. 주요 금융 결제앱의 최근 6개월 총 실행횟수...",
-      "pubDate": "2026-04-08T10:04:00+00:00",
-      "category": "토스페이",
-      "source": "중기이코노미"
-    },
-    {
-      "title": "[단독] 삼성페이에 우리은행 등록하면…갤26 할인·다이소 포인트까지",
-      "link": "https://n.news.naver.com/mnews/article/009/0005663082?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12011660",
-      "description": "삼성전자의 휴대폰인 ‘갤럭시’에 탑재된 삼성월렛에 우리은행 계좌 등록을 결합해 충전, 출금, 결제... 올 1월에는 GS리테일과 제휴를 맺고 계좌 간편결제 실적에 따라 혜택을 주는 ‘GS페이통장’을 내놓기도 했다....",
-      "pubDate": "2026-04-08T08:39:00+00:00",
-      "category": "삼성페이",
-      "source": "매일경제"
-    },
-    {
-      "title": "한국인이 가장 오래 쓰는 금융 결제 앱은 토스…1인당 월평균 사용시간...",
-      "link": "https://platum.kr/archives/284986",
-      "originallink": "https://platum.kr/archives/284986",
-      "description": "3위부터는 네이버페이(25분 18초), 카카오뱅크(23분 36초), NH콕뱅크(22분 48초), iM뱅크(20분 24초), 케이뱅크(18분 54초), KB스타뱅킹(18분), BNK부산은행(17분 54초), 페이북/ISP(17분 48초), 삼성 월렛(17분 40초)...",
-      "pubDate": "2026-04-08T02:44:00+00:00",
-      "category": "토스페이",
-      "source": "플래텀"
     }
   ],
-  "lastFetch": "2026-07-07T00:20:22.600795+00:00"
+  "lastFetch": "2026-07-08T00:10:12.415095+00:00"
 }
