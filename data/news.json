@@ -1,6 +1,1140 @@
 {
   "articles": [
     {
+      "title": "공차코리아, 복날 맞이 네이버페이 ‘N 포인트 적립’ 프로모션 진행",
+      "link": "https://n.news.naver.com/mnews/article/018/0006326846?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02883126645513208",
+      "description": "공차코리아는 복날 시즌을 맞아 SKT, 네이버페이, 요기요 등과 손잡고 달콤한 제휴 프로모션을 전개한다고 10일 밝혔다. 이번 프로모션은 본격적인 여름 무더위가 이어지는 초복과 중복 기간 더위에 지친 고객들에게...",
+      "pubDate": "2026-07-09T23:36:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "네이버페이, 주민등록증 진위 확인 서비스 도입…금융사기 막는다",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=111476",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=111476",
+      "description": "네이버페이(Npay)가 행정안전부, 금융감독원, 금융결제원과 손잡고 주민등록증 진위 확인 서비스 도입에 나선다. 네이버페이는 9일 행정안전부, 금융감독원, 금융결제원과 주민등록증 진위 확인 서비스 확대를 위한...",
+      "pubDate": "2026-07-09T23:29:00+00:00",
+      "category": "네이버페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "카카오페이, '카톡 송금·선물하기' 신용 평가에 활용",
+      "link": "https://n.news.naver.com/mnews/article/055/0001371327?sid=101",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008650721&plink=ORI&cooper=NAVER",
+      "description": "카카오페이가 카카오톡 송금과 선물하기 같은 금융 활동 정보를 신용 평가에 활용하는 곳을 올해 20곳 이상으로 확대합니다. 기존에는 금융 거래 이력이 중심이었다면 앞으로는 카카오페이 결제와 송금, 선물하기 이용...",
+      "pubDate": "2026-07-09T22:54:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS"
+    },
+    {
+      "title": "금융·정보보호당국에 경찰까지…카카오페이 '삼중 제재' 가능성에 영업...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005788073?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026070917002117616",
+      "description": "금융당국과 정보보호당국에 이어 경찰까지 카카오페이 고객정보 국외 유출 의혹과 관련해 강제수사에 나서면서 핀테크 업계 전반의 영업 활동과 신사업 추진이 위축될 수 있다는 우려가 커지고 있다. 업무위탁 목적으로...",
+      "pubDate": "2026-07-09T22:26:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "가짜 신분증 차단...네이버페이, 주민등록증 진위 확인 서비스 도입",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=314860",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=314860",
+      "description": "네이버페이(Npay)가 고객확인절차(KYC) 고도화를 통해 디지털 금융 서비스의 안전성 강화에 나선다. 간편결제와 송금, 금융상품 비교 등 생활 금융 서비스 이용이 확대되는 가운데, 본인확인 체계를 한층 정교화해...",
+      "pubDate": "2026-07-09T20:00:00+00:00",
+      "category": "네이버페이",
+      "source": "월요신문"
+    },
+    {
+      "title": "‘中에 고객정보 542억건 유출혐의’ 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/020/0003732918?sid=102",
+      "originallink": "https://www.donga.com/news/Society/article/all/20260710/134271216/2",
+      "description": "4000만여 명의 개인정보 542억 건을 고객 동의 없이 중국 간편결제 서비스 알리페이에 제공한 의혹을 받는 카카오페이에 대해 경찰이 강제수사에 착수했다. 금융당국의 수사 의뢰 이후 약 4개월 만이다. 9일...",
+      "pubDate": "2026-07-09T19:33:00+00:00",
+      "category": "카카오페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "[네이버] 네이버페이 신분증 진위확인 협약 / 네이버D2SF 23세기아이들 ...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2228245",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2228245",
+      "description": "◼︎ 네이버페이, 행안부·금감원·금결원과 신분증 진위확인 협약 네이버페이(Npay, 대표이사 박상진)가 행정안전부, 금융감독원, 금융결제원과 함께 주민등록증 진위 확인 서비스 확대를 위한 업무협약(MOU)을...",
+      "pubDate": "2026-07-09T13:20:00+00:00",
+      "category": "네이버페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "\"얼굴 하나로 결제 끝\"…토스 vs 네이버페이 승자는",
+      "link": "https://n.news.naver.com/mnews/article/215/0001258221?sid=101",
+      "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090380&t=NNv",
+      "description": "후발주자인 네이버페이도 신규 이용자 확보에 속도가 붙었습니다. 회동 직후 네이버페이 '페이스사인'의 신규 얼굴 등록자는 직전 주 대비 193% 급증했습니다. 실제 얼굴결제를 포함해 실물카드를 사용하지 않는 결제는...",
+      "pubDate": "2026-07-09T11:35:00+00:00",
+      "category": "네이버페이",
+      "source": "owtv"
+    },
+    {
+      "title": "경찰, '고객정보 유출 혐의' 카카오페이 강제수사 전환",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1530190",
+      "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1530190",
+      "description": "고객 동의 없이 약 4천만명의 개인정보를 중국 간편결제 서비스인 알리페이에 제공한 혐의로 경찰이 카카오페이에 대해 강제수사에 나섰습니다. 경기남부경찰청 반부패·경제범죄수사대는 신용정보법과 전자금융거래법...",
+      "pubDate": "2026-07-09T11:12:00+00:00",
+      "category": "카카오페이",
+      "source": "OBS경인TV"
+    },
+    {
+      "title": "카카오페이, 행안부 주민등록증 진위확인망 연내 도입…핀테크 보안 수...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204732",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=204732",
+      "description": "카카오페이는 네이버페이, 토스와 함께 연내 서비스를 이용하는 첫 대상 기관에 포함됐다. 주민등록증 진위확인망은 이용자가 제출한 주민등록증 정보를 행정안전부가 보유한 주민등록 정보와 실시간으로 대조해 신분증의...",
+      "pubDate": "2026-07-09T10:34:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "카카오페이, 정부 신원검증 인프라 확보…보안 경쟁력 높인다",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=97658",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=97658",
+      "description": "사진은 왼쪽부터 이찬진 금융감독원장, 박상진 네이버페이 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표, 채병득 금융결제원장. 사진=카카오페이  비대면 금융거래가 일상화되면서 명의도용과...",
+      "pubDate": "2026-07-09T10:06:00+00:00",
+      "category": "카카오페이",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "[금융체크] JB금융·토스·카카오페이 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=140344",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=140344",
+      "description": "이윤근 카카오페이 ESG협의체장(가운데)이 김효승 아이들과미래재단 상임이사(왼쪽), 홍우정 서울시가족센터장과 기념 촬영을 진행하고 있다. 사진=카카오페이 ◆ 카카오페이, 다문화 청소년 디지털 금융교육 지원...",
+      "pubDate": "2026-07-09T09:58:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "카카오페이와 정부, 주민등록증 진위확인 공동망 연다",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101139",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101139",
+      "description": "이번 협약은 그동안 금융회사와 통신사에만 허용되던 행정안전부 주민등록증 진위확인망을 전자금융업자에게도 개방하기 위한 것으로, 카카오페이는 네이버페이, 토스와 함께 연내 서비스 이용이 가능한 대상 기관에...",
+      "pubDate": "2026-07-09T09:50:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "4000만 명 정보 중국 유출 혐의… 경찰, 카카오페이 본사 압수수색",
+      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028557",
+      "originallink": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028557",
+      "description": "기호일보, KIHOILBO 경기남부경찰청 전경.<기호일보 DB> 경찰이 고객 약 4천만 명 개인정보를 알리페이(중국 간편결제 서비스)에 제공한 혐의를 받는 카카오페이를 상대로 강제 수사에 나섰다. 9일 경기남부경찰청...",
+      "pubDate": "2026-07-09T09:50:00+00:00",
+      "category": "카카오페이",
+      "source": "기호일보"
+    },
+    {
+      "title": "“IPO 미루고 합병 늦추고”…토스·네이버 잇단 일정 연기의 속사정",
+      "link": "https://www.ekn.kr/web/view.php?key=20260709024561021",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260709024561021",
+      "description": "네이버파이낸셜과 두나무도 최근 9월 30일로 예정된 포괄적 주식교환 일정을 12월 31일로 변경했다. 일정이 연기된 건 이번이 두 번째로 당초 두 회사는 지난달 30일 주식교환을 완료할 계획이었다. 이번 일정 연기는...",
+      "pubDate": "2026-07-09T09:42:00+00:00",
+      "category": "토스페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "토스, 행안부와 '주민등록증 진위 확인 확대' MOU 체결…네·카·토 시범...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=759081",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=759081",
+      "description": "비바리퍼블리카(이하 토스, 대표 이승건)는 9일 서울 강남구 토스 신논현 오피스에서 행정안전부·금융감독원·금융결제원·네이버페이·카카오페이와 '전자금융업자 주민등록증 진위 확인 확대'를 위한 업무협약을 맺었다....",
+      "pubDate": "2026-07-09T09:04:00+00:00",
+      "category": "토스페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "'4000만명 정보 유출'...경찰, 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/050/0000108361?sid=101",
+      "originallink": "https://magazine.hankyung.com/business/article/202607096147b",
+      "description": "휴대전화 번호와 충전 잔액 등 약 4000만 명의 개인정보를 알리페이에 제공한 의혹을 받는 카카오페이에 대해 경찰이 강제수사에 나섰다. 금융감독원의 수사 의뢰를 받은 지 약 4개월 만이다. 9일 수사당국에 따르면...",
+      "pubDate": "2026-07-09T08:55:00+00:00",
+      "category": "카카오페이",
+      "source": "hankyung"
+    },
+    {
+      "title": "‘삼소회동’ 한 달…토스 얼굴 결제액 14%↑",
+      "link": "https://n.news.naver.com/mnews/article/215/0001258206?sid=101",
+      "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090316&t=NNv",
+      "description": "후발주자인 네이버페이도 신규 이용자 확보에 속도가 붙었습니다. 회동 직후 네이버페이 '페이스사인'의 신규 얼굴 등록자는 직전 주 대비 193% 늘었습니다. 실제 얼굴 결제를 포함해 실물카드를 사용하지 않는 결제는...",
+      "pubDate": "2026-07-09T08:52:00+00:00",
+      "category": "토스페이",
+      "source": "owtv"
+    },
+    {
+      "title": "금감원·네이버페이, '모험자본 플랫폼' 출범…벤처 투자 물꼬 튼다",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=551340",
+      "originallink": "https://www.ngetnews.com/news/articleView.html?idxno=551340",
+      "description": "뉴스저널리즘 정세은 기자 = 금융감독원과 네이버페이가 종합금융투자사업자와 중소·벤처기업을 연결하는 '모험자본 투자 플랫폼'을 선보였다. 종투사의 모험자본 공급 의무와 벤처기업의 자금조달 수요를 한곳에서...",
+      "pubDate": "2026-07-09T08:52:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스저널리즘"
+    },
+    {
+      "title": "토스·네이버페이·카카오페이도 주민등록증 진위확인 가능",
+      "link": "https://news.mtn.co.kr/news-detail/2026070917464663876",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026070917464663876",
+      "description": "행정안전부와 금융감독원은 서울 신논현 토스 사옥에서 토스 운영사인 비바리퍼블리카와 네이버페이, 카카오페이 등과 함께 주민등록증 진위 확인 확대를 위한 업무협약을 체결했습니다.그동안 이들 전자금융업자는 고객...",
+      "pubDate": "2026-07-09T08:48:00+00:00",
+      "category": "네이버페이",
+      "source": "mtn"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스, 주민증 진위 확인 가능",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311395",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=311395",
+      "description": "이미지=Gemini 생성  정부가 네이버페이, 카카오페이, 토스 등 국내 대표 간편 결제·송금 플랫폼의 신원 확인 체계를 대폭 강화한다. 비대면 금융 거래가 급증하면서 가짜 신분증을 활용한 보이스피싱 등 대포통장 범죄가...",
+      "pubDate": "2026-07-09T08:48:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "경찰 '개인정보 유출' 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/015/0005308288?sid=102",
+      "originallink": "https://www.hankyung.com/article/2026070963181",
+      "description": "경찰이 고객 동의 없이 약 4000만 명의 개인정보를 중국 간편 결제 서비스인 알리페이에 넘긴 카카오페이를 대상으로 대대적인 강제 수사에 나섰다. 9일 수사당국에 따르면 경기남부경찰청 반부패·경제범죄수사대는...",
+      "pubDate": "2026-07-09T08:46:00+00:00",
+      "category": "카카오페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "경찰, '中 알리페이에 4000만 고객정보 제공' 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/586/0000133432?sid=102",
+      "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=379359",
+      "description": "알리페이 정보 제공 관련 의사결정 자료 등 확보 개인정보보호위·금감원, 189억4400만원 과징금 부과 경찰이 중국 간편결제 서비스 알리페이에 약 4000만 명의 고객 정보를 제공한 의혹을 받는 카카오페이를...",
+      "pubDate": "2026-07-09T08:43:00+00:00",
+      "category": "카카오페이",
+      "source": "시사저널"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 주민등록증 진위 확인",
+      "link": "https://n.news.naver.com/mnews/article/629/0000514835?sid=102",
+      "originallink": "https://news.tf.co.kr/read/life/2341767.htm",
+      "description": "위·변조 신분증 이용한 보이스피싱·자금세탁 등 금융범죄 차단 앞으로 네이버페이와 카카오페이, 토스에서도 정부의 주민등록증 진위 확인 서비스를 활용할 수 있게 된다. 위·변조 신분증을 이용한 보이스피싱과...",
+      "pubDate": "2026-07-09T08:38:00+00:00",
+      "category": "네이버페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "경찰, '4천만 고객 개인정보 유출 혐의' 카카오페이 상대 강제수사",
+      "link": "https://n.news.naver.com/mnews/article/666/0000114628?sid=102",
+      "originallink": "https://www.kyeonggi.com/article/20260709580483",
+      "description": "4천만여명의 이용자 개인정보를 중국 알리페이에 넘긴 혐의를 받는 카카오페이에 대해 경찰이 강제수사에 돌입했다. 경기남부경찰청 반부패·경제범죄수사대는 6~7일 신용정보법 위반 등 혐의로 성남시 분당구...",
+      "pubDate": "2026-07-09T08:36:00+00:00",
+      "category": "카카오페이",
+      "source": "경기일보"
+    },
+    {
+      "title": "'주민등록증 진위 확인 확대' 업무협약식 배석한 신원근 카카오페이 대...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026070917284052894",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026070917284052894",
+      "description": "신원근 카카오페이 대표가 9일 오후 서울 강남구 토스 신논현 사옥에서 열린 주민등록증 진위 확인 확대를 위한 업무협약식에서 발언하고 있다.",
+      "pubDate": "2026-07-09T08:36:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "발언하는 박상진 네이버페이 대표[한 컷]",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026070917263606717",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026070917263606717",
+      "description": "박상진 네이버페이 대표가 9일 오후 서울 강남구 토스 신논현 사옥에서 열린 주민등록증 진위 확인 확대를 위한 업무협약식에 참석해 발언하고 있다.",
+      "pubDate": "2026-07-09T08:34:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "\"폰도 두고 오세요\"…토스·네이버, 승자는",
+      "link": "https://n.news.naver.com/mnews/article/215/0001258202?sid=101",
+      "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090304&t=NNv",
+      "description": "현재 얼굴 결제 시장, 토스와 네이버페이가 선점 경쟁을 벌이고 있는데 어디가 좀 더 앞서나가고 있습니까? <기자> 현재로선 토스가 조금 더 우세하다는 평가가 나옵니다. 얼굴 결제가 활성화되기 위해서는 크게 두 가지...",
+      "pubDate": "2026-07-09T08:31:00+00:00",
+      "category": "토스페이",
+      "source": "owtv"
+    },
+    {
+      "title": "토스, 행안부·금감원·금결원과 '주민등록증 진위 확인 확대' 협약 체결",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447354",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447354",
+      "description": "토스가 행정안전부, 금융감독원, 금융결제원, 네이버페이, 카카오페이와 함께 '주민등록증 진위 확인 확대를 위한 업무협약(MOU)'을 체결했다고 9일 밝혔다. 9일 오후 1시 토스 신논현 오피스에서 열린 협약식에는 이승건...",
+      "pubDate": "2026-07-09T08:23:00+00:00",
+      "category": "토스페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "토스, 정부 주민등록증 원본 확인 연동…비대면 금융 보안 강화",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131725",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=131725",
+      "description": "토스는 행정안전부와 금융감독원, 금융결제원, 네이버페이, 카카오페이와 함께 '주민등록증 진위 확인 확대를 위한 업무협약'을 체결했다고 9일 밝혔다. 이번 협약으로 주요 전자금융업자는 강화된 고객확인 절차에서...",
+      "pubDate": "2026-07-09T08:22:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "4000만명 고객정보 中으로?…경찰, 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/117/0004083295?sid=103",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026070917125806141",
+      "description": "경찰이 고객 개인정보를 중국 알리페이에 무단 제공한 의혹을 받는 카카오페이에 대해 강제수사에 착수했다. 9일 수사당국에 따르면 경기남부경찰청 반부패·경제범죄수사대는 지난 6~7일 경기 성남시 분당구...",
+      "pubDate": "2026-07-09T08:15:00+00:00",
+      "category": "카카오페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "[뉴스워커_카카오페이] 주민등록증 진위확인 서비스 도입…금융사기 차...",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=435632",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=435632",
+      "description": "이번 협약은 전자금융업자의 주민등록증 진위확인망 이용을 단계적으로 허용하기 위한 것으로, 카카오페이는 네이버페이와 토스와 함께 연내 서비스 도입 대상 기관에 포함됐다. 주민등록증 진위확인망은 이용자가 제출한...",
+      "pubDate": "2026-07-09T08:14:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 주민등록증 진위 확인 서비스 개시",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148967864&call_from=naver_news",
+      "originallink": "https://www.korea.kr/news/policyNewsView.do?newsId=148967864&call_from=naver_news",
+      "description": "앞으로 네이버페이·카카오페이·토스 등 전자금융업자도 정부의 주민등록증 진위 확인 서비스를 이용할 수 있게 된다. 행정안전부는 전자금융업자의 신원확인 체계를 강화해 위·변조 신분증을 이용한 금융범죄를...",
+      "pubDate": "2026-07-09T08:12:00+00:00",
+      "category": "네이버페이",
+      "source": "korea"
+    },
+    {
+      "title": "'주민증 변조 여부' 카카오페이·네이버페이·토스서 확인…금융사고 예...",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264419",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=264419",
+      "description": "화이트페이퍼, WHITEPAPER사진 왼쪽부터 이찬진 금융감독원장, 박상진 네이버페이 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표, 채병득 금융결제원장. (사진=카카오페이)  휴대전화에서 간편...",
+      "pubDate": "2026-07-09T08:04:00+00:00",
+      "category": "네이버페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "경찰, 카카오페이 압수수색…고객정보 알리페이 제공 혐의",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=265837",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=265837",
+      "description": "경찰이 고객 4000만여명의 개인정보를 중국 간편결제 서비스 알리페이에 넘긴 혐의를 받는 카카오페이에 대해 강제수사에 착수했다. 9일 경찰에 따르면 경기남부경찰청 반부패·경제범죄수사대는 지난 6~7일 경기 성남시...",
+      "pubDate": "2026-07-09T08:04:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "[포토] 업무협약식 참석한 박상진 네이버 페이 대표",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900285.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900285.html",
+      "description": "뉴데일리 서성진 기자 = 박상진 네이버 페이 대표가 9일 오후 서울 강남구 토스 신논현 오피스에서 열린 보이스 피싱 등 금융사고 예방을 위한 주민등록증 진위확인 확대 업무협약식에서 인사말을 하고 있다. 뉴데일리 서성진",
+      "pubDate": "2026-07-09T08:02:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "[포토] 발언하는 신원근 카카오페이 대표",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900286.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900286.html",
+      "description": "뉴데일리 서성진 기자 = 신원근 카카오페이 대표가 9일 오후 서울 강남구 토스 신논현 오피스에서 열린 보이스 피싱 등 금융사고 예방을 위한 주민등록증 진위확인 확대 업무협약식에서 인사말을 하고 있다. 뉴데일리 서성진",
+      "pubDate": "2026-07-09T08:02:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "토스, 정부와 ‘주민등록증 진위 확인 시스템’ 도입 맞손…연내 적용",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202607091657088720be44c0aacd_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202607091657088720be44c0aacd_30",
+      "description": "9일 토스는 행정안전부, 금융감독원, 금융결제원, 네이버페이, 카카오페이와 함께 ‘주민등록증 진위 확인 확대를 위한 업무협약(MOU)’을 체결했다고 밝혔다. 토스 신논현 오피스에서 열린 협약식에는 토스 이승건 대표와...",
+      "pubDate": "2026-07-09T08:00:00+00:00",
+      "category": "토스페이",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "네이버페이, '주민등록증 진위 확인 서비스' 도입…본인확인 체계 강화",
+      "link": "https://www.it-b.co.kr/news/articleView.html?idxno=89041",
+      "originallink": "https://www.it-b.co.kr/news/articleView.html?idxno=89041",
+      "description": "네이버페이(Npay)가 '주민등록증 진위 확인 서비스' 도입을 추진한다. 네이버페이는 행정안전부, 금융감독원, 금융결제원과 함께 주민등록증 진위 확인 서비스 확대를 위한 업무협약(MOU)을 체결했다고 9일 밝혔다. 이번...",
+      "pubDate": "2026-07-09T07:58:00+00:00",
+      "category": "네이버페이",
+      "source": "아이티비즈"
+    },
+    {
+      "title": "[금융권 이모저모]토스, 주민등록증 진위 확인 확대 MOU 체결 外",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=113955",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=113955",
+      "description": "이찬진 금융감독원장, 박상진 네이버페이 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표, 채병득 금융결제원장이 9일 오후 1시 토스 신논현 오피스에서 열린 '주민등록증 진위 확인...",
+      "pubDate": "2026-07-09T07:54:00+00:00",
+      "category": "토스페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "비대면 거래 시 가짜 신분증 차단… 네이버·카카오페이·토스도 '주민등...",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=91768",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=91768",
+      "description": "행정안전부(이하 행안부)는 9일 토스 신논현 사옥에서 네이버페이·카카오페이·비바리퍼블리카(토스)를 비롯해 금융감독원, 금융결제원과 함께 '전자금융업자의 주민등록증 진위 확인 확대를 위한 업무협약'을 체결했다고...",
+      "pubDate": "2026-07-09T07:52:00+00:00",
+      "category": "카카오페이",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "법원 판단도 끝나지 않았는데…카카오페이 ‘3중 제재’에 핀테크 업계...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006326275?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04877366645512880",
+      "description": "카카오페이(377300)의 중국 알리페이 정보 이전을 둘러싼 법적 공방이 개인정보보호위원회와 금융당국 제재를 넘어 경찰 수사로까지 확대되면서 핀테크 업계의 우려가 커지고 있다. 정보 제공 방식이 적법했는지는 법원의...",
+      "pubDate": "2026-07-09T07:51:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "[현장] 정부 신원검증망 핀테크 개방…주민등록증 사진 대조로 금융사기...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=361896",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=361896",
+      "description": "정부 신원검증 인프라가 토스와 네이버페이, 카카오페이 등 전자금융업자까지 개방되면서 금융권의 고객확인(KYC) 체계 적용 범위도 넓어진다. 성명과 주민등록번호에 의존하던 확인 방식은 주민등록증 사진 정보까지...",
+      "pubDate": "2026-07-09T07:46:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "경찰, ‘고객 4000만명 정보 中 유출’ 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/366/0001178082?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/07/09/RGKHTKCAVVGX7ESTOY2EW2LCB4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "4000만명에 달하는 고객의 개인정보를 중국 간편결제 서비스인 알리페이에 동의 없이 제공한 카카오페이를 두고 경찰이 본사 압수수색에 나섰다. 9일 경찰 등에 따르면 경기남부경찰청 반부패·경제범죄수사대는...",
+      "pubDate": "2026-07-09T07:45:00+00:00",
+      "category": "카카오페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "'네·카·토' 핀테크 3사, 정부와 '주민등록증 진위확인' 범위 확대",
+      "link": "https://www.news2day.co.kr/article/20260709500220",
+      "originallink": "https://www.news2day.co.kr/article/20260709500220",
+      "description": "행안부·금감원과 MOU 위변조 식별 정확도↑ 보이스피싱 차단 기대 (왼쪽부터)이찬진 금융감독원장, 박상진 네이버페이 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표, 채병득 금융결제원장이...",
+      "pubDate": "2026-07-09T07:42:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "4000만명 정보 中에 넘긴 혐의… 경찰, 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/022/0004141838?sid=102",
+      "originallink": "https://www.segye.com/newsView/20260709520344?OutUrl=naver",
+      "description": "경기남부청, 성남 분당 사옥 강제수사…3월 금감원 수사의뢰 후 첫 행보 7년간 암호화된 전번·이메일 등 542억 건 유출…임직원·법인 무더기 입건 행정처분 과징금 189억 달해…카카오페이 “적법 위수탁” 소송 1심...",
+      "pubDate": "2026-07-09T07:41:00+00:00",
+      "category": "카카오페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "토스·카카오페이·네이버페이, 주민등록증 진위확인망 이용 확대",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682874",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682874",
+      "description": "이찬진 금융감독원장, 박상진 네이버페이 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표, 채병득 금융결제원장(왼쪽부터)이 9일 오후 1시 토스 신논현 오피스에서 열린 '주민등록증 진위 확인...",
+      "pubDate": "2026-07-09T07:40:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "\"위조 신분증 막는다\"…네이버페이·카카오페이·토스, 정부 손잡고 본...",
+      "link": "https://n.news.naver.com/mnews/article/092/0002429954?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260709163742",
+      "description": "앞으로 네이버페이·카카오페이·토스 등 주요 전자금융업자도 행정안전부의 주민등록증 진위 확인 서비스를 이용할 수 있게 된다. 간편결제·송금 서비스 가입과 본인확인 과정에서 위·변조 신분증을 걸러낼 수 있는...",
+      "pubDate": "2026-07-09T07:40:00+00:00",
+      "category": "네이버페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "행안부 \"네이버페이·카카오페이·토스에서 신분증 진위확인 가능\"",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=59333",
+      "originallink": "https://www.thelec.kr/news/articleView.html?idxno=59333",
+      "description": "이를 위해 행안부는 이날 네이버페이, 카카오페이, 비바리퍼블리카(토스) 등 전자금융 사업자, 금융감독원, 금융결제원과 함께 '전자금융업자의 주민등록증 진위 확인 확대를 위한 업무협약'을 체결했다. 지금까지 전자금융...",
+      "pubDate": "2026-07-09T07:40:00+00:00",
+      "category": "네이버페이",
+      "source": "디일렉(THE ELEC)"
+    },
+    {
+      "title": "카카오페이 '4천만명 정보' 결국 압수수색…알리페이 제공 누가 승인했...",
+      "link": "https://www.sjsori.com/news/articleView.html?idxno=87502",
+      "originallink": "https://www.sjsori.com/news/articleView.html?idxno=87502",
+      "description": "카카오페이의 고객정보 알리페이 제공 의혹이 형사수사 국면으로 넘어갔다. 고객 약 4천만명의 개인정보 542억건이 중국 간편결제 서비스 알리페이에 제공된 것으로 드러난 가운데, 경찰은 단순 정보 제공 여부를 넘어...",
+      "pubDate": "2026-07-09T07:40:00+00:00",
+      "category": "카카오페이",
+      "source": "세종의소리"
+    },
+    {
+      "title": "\"주민등록증 진위확인, 네이버페이·카카오페이·토스서도 가능\"",
+      "link": "https://www.mediapen.com/news/view/1109256",
+      "originallink": "https://www.mediapen.com/news/view/1109256",
+      "description": "박상진 네이버파이낸설 대표, 이승건 비바리퍼블리카(토스) 대표, 이찬진 금융감독원장, 윤호중 행정안전부 장관, 채병득 금융결제원장, 신원근 카카오페이 대표./사진=금융감독원 제공 행안부는 9일 토스 신논현 사옥에서...",
+      "pubDate": "2026-07-09T07:38:00+00:00",
+      "category": "네이버페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "[1분영상] \"가짜 신분증 안 통한다\"…네이버페이·카카오페이·토스, 진...",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=276792",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=276792",
+      "description": "정부가 은행과 증권사 등 일부 금융회사에만 허용했던 주민등록증 진위확인 서비스를 네이버페이와 카카오페이, 토스 등 주요 전자금융업자로 확대합니다. 비대면 금융 이용이 늘면서 명의도용과 보이스피싱 등 신분증 위...",
+      "pubDate": "2026-07-09T07:38:00+00:00",
+      "category": "네이버페이",
+      "source": "팍스경제TV"
+    },
+    {
+      "title": "카카오페이, 中알리에 4000만명 고객정보 넘긴 의혹…경찰 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/020/0003732765?sid=102",
+      "originallink": "https://www.donga.com/news/Society/article/all/20260709/134267725/1",
+      "description": "4000만여 명의 개인정보 542억 건을 고객 동의 없이 중국 간편결제 서비스 알리페이에 제공한 의혹을 받는 카카오페이에 대해 경찰이 강제수사에 착수했다. 금융당국의 수사 의뢰 이후 약 4개월 만이다. 9일...",
+      "pubDate": "2026-07-09T07:35:00+00:00",
+      "category": "카카오페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "토스·네이버페이·카카오페이, 주민등록증 진위확인망 이용 확대...비대...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=199991",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=199991",
+      "description": "토스와 네이버페이, 카카오페이가 정부의 주민등록증 진위확인망을 활용해 비대면 금융거래 본인확인 체계 강화에 나선다. 왼쪽부터 이찬진 금융감독원장, 박상진 Npay 대표, 윤호중 행정안전부 장관, 이승건 토스 대표...",
+      "pubDate": "2026-07-09T07:34:00+00:00",
+      "category": "네이버페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "토스, 정부 주민등록증 진위확인 도입…비대면 금융보안 강화",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=132830",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=132830",
+      "description": "토스는 행정안전부와 금융감독원, 금융결제원, 네이버페이, 카카오페이와 '주민등록증 진위 확인 확대를 위한 업무협약(MOU)'을 체결했다고 9일 밝혔다. 이날 서울 강남구 토스 신논현 오피스에서 열린 협약식에는 이승건...",
+      "pubDate": "2026-07-09T07:32:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "경찰, ‘개인정보 유출 혐의’ 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/029/0003036259?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12072108?ref=naver",
+      "description": "경찰이 고객 동의 없이 약 4000만명의 개인정보를 중국 간편결제 서비스인 알리페이에 제공한 카카오페이에 대해 압수수색에 나섰다. 9일 수사당국에 따르면 경기남부경찰청 반부패·경제범죄수사대는 신용정보법 및...",
+      "pubDate": "2026-07-09T07:29:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "간편결제도 주민증 진위 확인… 위조 신분증 악용 막는다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005546136?sid=102",
+      "originallink": "http://www.fnnews.com/news/202607091627059807",
+      "description": "앞으로 네이버페이·카카오페이·토스 등 민간 간편결제·송금 서비스에서도 정부 시스템을 통해 주민등록증 사진정보를 포함한 진위 확인이 가능해진다. 기존에는 성명과 주민등록번호, 발급일자 등만 확인할 수 있었지만...",
+      "pubDate": "2026-07-09T07:29:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "토스, 주민등록증 진위 확인 시스템 연내 적용한다",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202607091627084583de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202607091627084583de3f0aa1be_7",
+      "description": "토스는 9일 행정안전부, 금융감독원, 금융결제원, 네이버페이, 카카오페이와 ‘주민등록증 진위 확인 확대를 위한 업무협약’을 체결했다고 밝혔다. 협약식은 이날 오후 토스 신논현 오피스에서 열렸다. 현장에는 이승건...",
+      "pubDate": "2026-07-09T07:28:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "행안부-핀테크 3사, 신분증 진위 확인 서비스 MOU",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849403",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849403",
+      "description": "신원근 카카오페이 대표, 채병득 금융결제원장과 기념촬영을 하고 있다./ 이호형 기자 leemario@sporbiz.co.kr 2026.07.09 | 서울=한스경제 이호형 기자 |  행정안전부와 금융감독원, 금융결제원, 핀테크 3사(네이버페이...",
+      "pubDate": "2026-07-09T07:26:00+00:00",
+      "category": "간편결제",
+      "source": "한스경제"
+    },
+    {
+      "title": "[금융레이더]NH농협생명/DB생명/카카오페이/저축은행중앙회",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091612470300617",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607091612470300617",
+      "description": "◆카카오페이, 행안부와 주민등록증 진위확인망 개방 MOU 카카오페이가 행정안전부와 전자금융업자의 주민등록증 진위확인 서비스 확대를 위한 업무협약을 체결했다고 9일 밝혔다. 이번 협약은 전자금융업자가...",
+      "pubDate": "2026-07-09T07:22:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "네이버·카카오페이·토스, 행안부 주민등록증 진위 확인 서비스 도입",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=254808",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=254808",
+      "description": "9일 행정안전부에 따르면 정부는 토스 신논현 사옥에서 네이버페이, 카카오페이, 비바리퍼블리카(토스), 금융감독원, 금융결제원과 함께 '전자금융업자의 주민등록증 진위 확인 확대를 위한 업무협약'을 체결했다. 이번...",
+      "pubDate": "2026-07-09T07:20:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스에서 주민등록 실시간 확인해 보이스피싱...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002668232?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10804010?ref=naver",
+      "description": "이제 ‘네카토(네이버페이·카카오페이·토스)’에서도 주민등록증의 진위 여부를 실시간으로 확인할 수 있게 된다. 위·변조 신분증을 악용한 보이스피싱 등 금융 범죄가 크게 줄어들 것으로 기대된다. 행정안전부는...",
+      "pubDate": "2026-07-09T07:20:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "경찰, '고객정보 유출 혐의' 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/030/0003446325?sid=101",
+      "originallink": "https://www.etnews.com/20260709000382",
+      "description": "경찰이 카카오페이 강제수사로 전환했다. 카카오페이는 고객 동의 없이 약 4000만명의 개인정보를 중국 간편결제 서비스인 알리페이에 제공한 혐의를 받고 있다. 9일 수사당국에 따르면 경기남부경찰청 반부패...",
+      "pubDate": "2026-07-09T07:20:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, 주민등록증 진위확인망 연내 이용…명의도용 차단 강화",
+      "link": "https://sateconomy.co.kr/news/view/1065597211433237",
+      "originallink": "https://sateconomy.co.kr/news/view/1065597211433237",
+      "description": "신원근 카카오페이 대표, 채병득 금융결제원장[카카오페이] 카카오페이가 연내 행정안전부의 주민등록증 진위확인망을 이용할 수 있게 된다. 위조·도용 신분증을 활용한 계정 개설과 간편송금 악용 등 비대면 금융범죄...",
+      "pubDate": "2026-07-09T07:20:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "토스, 정부와 손잡고 주민등록증 진위 확인 서비스 연내 도입",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6936200",
+      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6936200",
+      "description": "이찬진 금융감독원장, 박상진 네이버페이 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표, 채병득 금융결제원장이 9일 오후 1시 토스 신논현 오피스에서 열린 '주민등록증 진위 확인 확대를 위한...",
+      "pubDate": "2026-07-09T07:18:00+00:00",
+      "category": "토스페이",
+      "source": "스포츠한국"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 행안부 주민등록증 진위 확인 서비스 ...",
+      "link": "http://www.intn.co.kr/news/articleView.html?idxno=2051830",
+      "originallink": "http://www.intn.co.kr/news/articleView.html?idxno=2051830",
+      "description": "행정안전부(장관 윤호중)는 간편 결제·송금 등 전자금융 서비스의 안전성과 신뢰성을 높이기 위해 전자금융업계와 손을 맞잡는다. 네이버·카카오페이·토스 등 전자적 장치를 통해 금융상품 및 서비스를 제공하는...",
+      "pubDate": "2026-07-09T07:18:00+00:00",
+      "category": "네이버페이",
+      "source": "日刊 NTN(일간NTN)"
+    },
+    {
+      "title": "토스·카카오페이·네이버페이도 주민등록증 진위 확인 가능",
+      "link": "https://news.dealsitetv.com/articles/173089",
+      "originallink": "https://news.dealsitetv.com/articles/173089",
+      "description": "보이스피싱·명의도용 대응 강화…EDD 고객 대상 적용 토스·카카오페이·네이버페이가 은행·증권사 등 일부... 윤호중 행안부 장관은 간편결제·간편송금 등 비대면 금융서비스가 일상화된 반면 보이스피싱·명의도용 등...",
+      "pubDate": "2026-07-09T07:18:00+00:00",
+      "category": "네이버페이",
+      "source": "dealsitetv"
+    },
+    {
+      "title": "카카오페이, 행안부 주민등록증 진위확인망 연계…명의도용 차단 강화",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=126156",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=126156",
+      "description": "금융결제원장, 신원근 카카오페이 대표, 박상진 네이버페이 대표, 이승건 토스 대표 등이 참석했다.... 특히 간편송금과 선불전자지급수단 등 전자금융서비스가 보편화되면서 위조·도용 신분증을 악용한 금융범죄 차단...",
+      "pubDate": "2026-07-09T07:14:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "카카오페이, 주민등록증 진위확인망 연다…핀테크 신원검증 정부망 첫 ...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=744762",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=744762",
+      "description": "금융결제원장을 비롯해 신원근 카카오페이 대표, 박상진 네이버페이 대표, 이승건 토스 대표 등이 참석했다.... 이용한 간편송금 악용 범죄 등 각종 금융사기 예방 효과가 커질 것으로 보인다. 카카오페이는 이번 협약을...",
+      "pubDate": "2026-07-09T07:10:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "토스, 행안부 주민증 진위확인 시스템 쓴다...금감원·금결원도 참여",
+      "link": "https://www.insight.co.kr/news/562302",
+      "originallink": "https://www.insight.co.kr/news/562302",
+      "description": "되면서 간편금융 플랫폼의 비대면 신원확인 절차도 같은 기준으로 맞춰질 여지가 생겼다.토스는 이번 시스템을 보이스피싱과 명의도용 예방 절차에 활용할 계획이다. 계좌 개설, 송금, 결제, 금융상품 연계 등 비대면 금융...",
+      "pubDate": "2026-07-09T07:08:00+00:00",
+      "category": "토스페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 주민증 진위 확인 … 금융사기 막는다",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900088.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900088.html",
+      "description": "뉴데일리 전성무 기자 = 정부가 네이버페이, 카카오페이, 토스 등 주요 전자금융업자와 손잡고 간편결제·송금 서비스에서도 주민등록증 진위 확인 서비스를 도입한다. 위·변조 신분증을 이용한 보이스피싱과 자금세탁 등...",
+      "pubDate": "2026-07-09T07:02:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 주민등록증 진위 확인한다",
+      "link": "https://www.kukinews.com/article/view/kuk202607090095",
+      "originallink": "https://www.kukinews.com/article/view/kuk202607090095",
+      "description": "앞으로 네이버페이와 카카오페이, 토스에서도 주민등록증이 위조·변조됐는지 정부 시스템으로 확인할 수 있게 된다. 간편결제와 송금 서비스 이용이 급증하는 만큼, 전자금융업자도 금융회사 수준의 본인확인 체계를...",
+      "pubDate": "2026-07-09T07:02:00+00:00",
+      "category": "네이버페이",
+      "source": "kukinews"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스, 주민등록증 진위 확인한다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006326235?sid=100",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04683846645512880",
+      "description": "비바리퍼블리카(토스)를 비롯해 금융감독원, 금융결제원과 함께 ‘전자금융업자의 주민등록증 진위 확인 확대를 위한 업무협약’을 체결했다고 9일 밝혔다. 이번 협약은 국민이 일상적으로 빈번하게 이용하는 간편 결제...",
+      "pubDate": "2026-07-09T07:02:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스, 신분증 위조 차단망 합류",
+      "link": "https://n.news.naver.com/mnews/article/123/0002386248?sid=101",
+      "originallink": "http://www.joseilbo.com/news/news_read.php?uid=571612&class=18&grp=",
+      "description": "네이버페이와 카카오페이, 토스 등 주요 간편결제·송금 사업자도 앞으로 정부의 주민등록증 진위 확인 서비스를 이용할 수 있게 된다. 은행권 중심으로 작동하던 신분증 검증 체계가 민간 전자금융업계로 확대되면서 위조...",
+      "pubDate": "2026-07-09T07:01:00+00:00",
+      "category": "네이버페이",
+      "source": "조세일보"
+    },
+    {
+      "title": "네이버·카카오페이·토스에서 주민증 위·변조 바로 확인한다",
+      "link": "https://n.news.naver.com/mnews/article/079/0004166802?sid=103",
+      "originallink": "https://www.nocutnews.co.kr/news/6545741?utm_source=naver&utm_medium=article&utm_campaign=20260709040023",
+      "description": "앞으로 간편 결제·송금 등을 할 때 네이버페이·카카오페이·토스 등 민간 전자금융업자를 통해서도 주민등록증 진위 여부를 확인받을 수 있게 된다. 행정안전부는 9일 서울 강남구 토스 신논현 사옥에서 네이버페이...",
+      "pubDate": "2026-07-09T07:01:00+00:00",
+      "category": "카카오페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "네이버페이, 행정안전부·금융감독원·금융결제원과 주민등록증 진위확...",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=86589",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=86589",
+      "description": "이찬진 금융감독원장, 박상진 Npay 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표... 특히 간편결제·핀테크 서비스 이용이 확대되는 가운데, 인증·보안 경쟁이 한층 강화될 전망이다. 박상진...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 주민등록증 진위 확인한다",
+      "link": "https://n.news.naver.com/mnews/article/008/0005383894?sid=102",
+      "originallink": "https://www.mt.co.kr/policy/2026/07/09/2026070908494535300",
+      "description": "행안부는 이날 서울 강남구 토스 신논현 사옥에서 네이버페이, 카카오페이, 비바리퍼블리카(토스), 금융감독원, 금융결제원과 '전자금융업자의 주민등록증 진위 확인 확대를 위한 업무협약'을 체결했다. 이번 협약은 간편결...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 주민등록증 사진으로 진위 확인",
+      "link": "https://n.news.naver.com/mnews/article/648/0000048773?sid=101",
+      "originallink": "https://news.bizwatch.co.kr/article/finance/2026/07/09/0008",
+      "description": "오는 11월부터 네이버페이·카카오페이·토스도 주민등록증 사진으로 진위 여부를 확인한다. 이에 따라 간편결제·송금에서 발생하는 신분 위조 등 범죄 예방이 한층 강화될 전망이다. 9일 금융감독원은 행정안전부...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈니스워치"
+    },
+    {
+      "title": "행안부, 네이버페이·카카오페이·토스와 맞손…주민등록증 진위확인 서...",
+      "link": "https://www.newspim.com/news/view/20260709000526",
+      "originallink": "https://www.newspim.com/news/view/20260709000526",
+      "description": "비바리퍼블리카(토스), 금융감독원, 금융결제원과 '전자금융업자의 주민등록증 진위확인 확대를 위한 업무협약'을 체결했다고 밝혔다. 이번 협약은 간편결제와 간편송금 등 전자금융서비스 이용이 늘어나는 상황에서...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 주민증 진위 확인 서비스",
+      "link": "https://www.public25.com/news/articleView.html?idxno=50297",
+      "originallink": "https://www.public25.com/news/articleView.html?idxno=50297",
+      "description": "이에 따라 행정안전부는 간편 결제·송금 등 전자금융 서비스의 안전성과 신뢰성을 높이기 위해 9일 서울 강남구 토스 신논현 사옥에서 네이버페이, 카카오페이, 비바리퍼블리카(토스)를 비롯해 금융감독원, 금융결제원과...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "퍼블릭타임스"
+    },
+    {
+      "title": "간편결제도 신분증 검증 강화… 네이버·카카오·토스 달라진다",
+      "link": "https://m.skyedaily.com/news_view.html?ID=307541",
+      "originallink": "https://m.skyedaily.com/news_view.html?ID=307541",
+      "description": "위조 신분증 악용 금융범죄 차단 이세희기자(saylee@skyedaily.com) 기사입력 2026-07-09 16:00:00 ▲ 행정안전부가 네이버페이·카카오페이·토스 등 주요 간편결제 플랫폼에도 주민등록증 진위 확인 서비스를 확대한다. 행정안전부...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "토스페이",
+      "source": "skyedaily"
+    },
+    {
+      "title": "\"네이버페이·카카오페이·토스로 주민등록증 진위확인\"…행안부, 업무...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009050830?sid=102",
+      "originallink": "https://www.news1.kr/local/moi/6222425",
+      "description": "앞으로 네이버페이와 카카오페이, 토스에서도 행정안전부의 주민등록증 진위 확인 서비스를 이용할 수 있게... 최근 간편결제와 간편송금 이용이 늘면서 위·변조 주민등록증을 이용한 금융범죄도 고도화되고 있다....",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "보이스피싱 신분증 위조 막는다⋯네이버페이·카카오페이·토스, 행안부...",
+      "link": "https://www.etoday.co.kr/news/view/2601897",
+      "originallink": "https://www.etoday.co.kr/news/view/2601897",
+      "description": "이투데이=연희진 기자 | 네이버페이·카카오페이·토스 등 국내 대표 핀테크 업체들이 간편결제와 송금 서비스를 이용하는 소비자를 노린 금융 범죄를 막기 위해 신원확인 체계를 대폭 강화한다. 위·변조된 신분증을 악용한...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스, '위조 신분증' 걸러낸다",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715762",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1715762",
+      "description": "행정안전부는 9일 토스 신논현 사옥에서 네이버페이, 카카오페이, 비바리퍼블리카, 금융감독원, 금융결제원과 '전자금융업자의 주민등록증 진위 확인 확대를 위한 업무협약'을 체결했다. 이번 협약은 간편 결제와 간편 송금...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "네·카·토 간편결제 고객 주민등록증 사진 진위확인 가능해진다",
+      "link": "https://n.news.naver.com/mnews/article/277/0005787951?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026070911285758985",
+      "description": "앞으로 네이버·카카오·토스 등 전자금융업자들은 간편결제 이용 고객을 확인하는 과정에서 주민등록증 사진 정보를 활용할 수 있게 된다. 이에 따라 위·변조 신분증을 악용한 금융 범죄가 줄어들 것으로 전망된다....",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "간편결제",
+      "source": "아시아경제"
+    },
+    {
+      "title": "네이버·카카오·토스 행안부와 맞손…주민등록증 사진 대조한다",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039109",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039109",
+      "description": "정부가 네이버페이와 카카오페이, 토스 등 주요 간편결제 플랫폼과 손잡고 주민등록증 진위 확인 체계를 강화한다. 위·변조 신분증을 이용한 보이스피싱과 자금세탁 등 전자금융 범죄를 차단하기 위해 민간 간편결제...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "토스페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스서도 '주민등록증 진위 확인' 가능",
+      "link": "https://n.news.naver.com/mnews/article/003/0014057203?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260709_0003702763",
+      "description": "비바리퍼블리카(토스)와 함께 '전자금융업자의 주민등록증 진위 확인 확대를 위한 업무협약'을 체결했다고 밝혔다. 이번 협약은 국민이 일상적으로 이용하는 간편결제·송금 서비스의 신원 확인 수준을 높이고, 디지털 금융...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스도 정부 시스템으로 ‘주민등록증 진위 확...",
+      "link": "https://n.news.naver.com/mnews/article/032/0003457142?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202607091600001",
+      "description": "앞으로 네이버페이와 카카오페이, 토스 등 전자금융업자들도 정부의 ‘주민등록증 진위 확인 서비스’를... 최근 기존 금융회사보다 전자금융업자가 제공하는 간편결제와 간편송금을 통한 금융서비스 이용이 늘어나면서...",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "주민등록증 진위 확인 확대 협약식 자리한 간편결제사 대표들",
+      "link": "https://n.news.naver.com/mnews/article/421/0009050856?sid=101",
+      "originallink": "https://www.news1.kr/photos/8000907",
+      "description": "박상진 네이버페이 대표(왼쪽부터), 이승건 토스 대표, 신원근 카카오페이 대표가 9일 오후 서울 서초구 토스 신논현 사무실에서 열린 주민등록증 진위 확인 확대 업무협약식에 자리해 있다. 2026.7.9/뉴스1",
+      "pubDate": "2026-07-09T07:00:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스1"
+    },
+    {
+      "title": "간편결제 경쟁, 이제는 '포인트 생태계'로…네이버페이 확장 속도",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189555",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189555",
+      "description": "다른 간편결제 업체들도 포인트 활용 범위를 넓히는 데 집중하고 있다. 카카오페이는 멤버십과 제휴 서비스를 확대하고, 토스는 금융서비스와 연계한 리워드를 강화하는 등 이용자 접점을 넓히는 모습이다. 포인트와...",
+      "pubDate": "2026-07-09T06:58:00+00:00",
+      "category": "네이버페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "경찰, '고객정보 유출 혐의' 카카오페이 본사 압수수색",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7173601",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7173601",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공했다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 고객별 점수를 뜻한다. 이번...",
+      "pubDate": "2026-07-09T06:54:00+00:00",
+      "category": "카카오페이",
+      "source": "주간한국"
+    },
+    {
+      "title": "'고객 4천만명분 개인정보 알리에 유출' 혐의…경찰, 카카오페이 본사 ...",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363731022",
+      "originallink": "https://www.joongboo.com/news/articleView.html?idxno=363731022",
+      "description": "NSF 스코어 산출은 애플이 알리페이에 위탁한 사업인 것으로 나타났다. 카카오페이가 고객의 동의 절차 없이 유출한 주요 개인정보는 ▶고객식별정보(카카오계정 ID, 핸드폰번호, 이메일) ▶가입고객정보(카카오페이...",
+      "pubDate": "2026-07-09T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "중부일보 - 경기·인천의 든든한 친구"
+    },
+    {
+      "title": "경찰, 카카오페이 본사 압수수색… 中에 '개인정보 유출'",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092165497",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092165497",
+      "description": "이에 대해 카카오페이는 애플 서비스 제공을 위한 적법한 업무 위탁 과정이었다고 주장하며 개인정보보호위원회의 처분에 불복해 행정소송을 제기했지만 1심에서 패소했다. 현재 항소심이 진행 중이다. 전대현 기자...",
+      "pubDate": "2026-07-09T06:30:00+00:00",
+      "category": "카카오페이",
+      "source": "IT조선"
+    },
+    {
+      "title": "카카오페이 개인정보 中 제공 의혹 ‘압수수색’…“4000만명 정보 알리...",
+      "link": "https://www.ceoscoredaily.com/page/view/2026070914361513817",
+      "originallink": "https://www.ceoscoredaily.com/page/view/2026070914361513817",
+      "description": "카카오페이는 알리페이 중계를 통해 애플에 고객 결제 정보를 전송했는데, 이 과정에서 암호화된 휴대전화 번호와 이메일 주소, 충전 금액 등 이용자 정보가 알리페이에 넘어간 것으로 파악됐다. 알리페이는 해당...",
+      "pubDate": "2026-07-09T06:20:00+00:00",
+      "category": "카카오페이",
+      "source": "CEOSCOREDAILY"
+    },
+    {
+      "title": "금융당국, 카카오페이 2차 개선안 점검…사법 리스크도 확대",
+      "link": "https://www.ajunews.com/view/20260709145844002",
+      "originallink": "https://www.ajunews.com/view/20260709145844002",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 '신용점수(NSF)' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났다. 금융당국은 제3자에게 개인신용정보를 제공하는 경우 정보 제공 때마다 정보 주체의 개별...",
+      "pubDate": "2026-07-09T06:08:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "‘中에 4000만명 정보 넘긴 의혹’ 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/020/0003732727?sid=102",
+      "originallink": "https://www.donga.com/news/Society/article/all/20260709/134267190/1",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 ‘NSF 점수’ 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 일종의...",
+      "pubDate": "2026-07-09T06:07:00+00:00",
+      "category": "카카오페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "경찰, 카카오페이 압수수색…'4000만명 정보 中 유출' 의혹 정조준",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1715753",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1715753",
+      "description": "문제가 된 정보는 애플이 알리페이에 위탁한 'NSF(Non-Sufficient Funds)' 점수 산출 과정에 활용된 것으로 조사됐다. NSF는 금융거래 과정에서 결제 실패 가능성을 예측하는 위험관리 지표로 알려져 있다. 수사당국은 해당...",
+      "pubDate": "2026-07-09T06:04:00+00:00",
+      "category": "카카오페이",
+      "source": "EBN"
+    },
+    {
+      "title": "경찰, 카카오페이 압수수색…'개인정보 무단 유출' 수사 본격화",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=604296",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=604296",
+      "description": "해당 정보는 애플 앱스토어 결제 수단 등록 과정에서 알리페이 중계를 거쳐 전달됐으며, 여기에는 암호화된 휴대전화 번호와 이메일 주소, 충전 잔고 등이 포함됐다. 조사 결과, 알리페이는 이 정보를 자금 부족...",
+      "pubDate": "2026-07-09T05:52:00+00:00",
+      "category": "카카오페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "[삐딱경제] 4000만 고객정보 中 넘긴 카카오페이 강제수사 본격화",
+      "link": "http://www.nongaek.com/news/articleView.html?idxno=96050",
+      "originallink": "http://www.nongaek.com/news/articleView.html?idxno=96050",
+      "description": "알리페이는 해당 정보를 활용해 NSF점수 산출 모델을 구축하는데 사용했다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 고객별로 점수를 책정하는 것을 말한다. 이에 개인정보보호위원회는...",
+      "pubDate": "2026-07-09T05:38:00+00:00",
+      "category": "카카오페이",
+      "source": "논객닷컴"
+    },
+    {
+      "title": "카카오페이, '4000만명 개인정보 중국행' 의혹... 결국 압수수색",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=203467",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=203467",
+      "description": "금융당국은 카카오페이가 애플 결제 과정에서 결제 가능성을 판단하는 'NSF(Non-Sufficient Funds) 점수' 산출 모델을 개발하는 과정에서 이용자 동의 없이 고객 개인정보를 알리페이에 제공한 것으로 보고 있다. 앞서...",
+      "pubDate": "2026-07-09T05:34:00+00:00",
+      "category": "카카오페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "'542억건 개인정보' 넘겼나…경찰, 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/015/0005308139?sid=102",
+      "originallink": "https://www.hankyung.com/article/202607095514h",
+      "description": "금융당국 조사 결과 카카오페이는 애플이 알리페이에 위탁한 'NSF(Non-Sufficient Funds) 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 파악됐다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을...",
+      "pubDate": "2026-07-09T05:22:00+00:00",
+      "category": "카카오페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "中에 4000만 명 정보 넘긴 카카오페이… 경찰, 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/656/0000181116?sid=102",
+      "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2286919",
+      "description": "해당 정보는 애플이 알리페이에 위탁한 NSF 점수 산출에 활용된 것으로 조사됐다. NSF 점수는 결제 대금 부족 가능성을 평가하기 위해 매기는 일종의 고객별 점수다. 앞서 개인정보보호위원회는 지난해 1월...",
+      "pubDate": "2026-07-09T05:20:00+00:00",
+      "category": "카카오페이",
+      "source": "대전일보"
+    },
+    {
+      "title": "경찰, '알리페이 정보 유출' 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/079/0004166689?sid=102",
+      "originallink": "https://www.nocutnews.co.kr/news/6545693?utm_source=naver&utm_medium=article&utm_campaign=20260709015522",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 이용자 정보를 제공한 것으로 드러났다. NSF 점수는 애플 서비스 이용 고객의 결제 능력을 평가하고자 산출하는 점수를 말한다. 이와 관련해...",
+      "pubDate": "2026-07-09T04:56:00+00:00",
+      "category": "카카오페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "경찰, '고객 4000만명 개인정보 유출 혐의' 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/119/0003109749?sid=102",
+      "originallink": "https://www.dailian.co.kr/news/view/1665308/?sc=Naver",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 일종의...",
+      "pubDate": "2026-07-09T04:42:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "경찰, ‘고객정보 유출 혐의’ 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/011/0004639871?sid=102",
+      "originallink": "https://www.sedaily.com/article/20065741?ref=naver",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 ‘NSF 점수’ 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 일종의...",
+      "pubDate": "2026-07-09T04:36:00+00:00",
+      "category": "카카오페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "4천만명 고객 정보 中넘긴 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/655/0000031850?sid=102",
+      "originallink": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260709511&PRO_CODE=99",
+      "description": "해당 문제는 아이폰 사용자가 카카오페이를 결제 수단으로 등록할 때 카카오페이가 알리페이 중계를 통해 애플에 고객 결제 정보를 전송하면서 발생했습니다. 정보 전송 과정에서 암호화된 휴대전화 번호와 이메일...",
+      "pubDate": "2026-07-09T04:34:00+00:00",
+      "category": "카카오페이",
+      "source": "cjb"
+    },
+    {
+      "title": "내 개인정보도 중국에?‥4천만 명 정보 유출 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/214/0001510605?sid=102",
+      "originallink": "https://imnews.imbc.com/news/2026/society/article/6836199_36918.html",
+      "description": "당시 개인정보위 조사 결과 카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델을 구축하기 위해 전체 이용자 정보를 넘긴 것으로 드러났습니다. 'NSF 점수'는 애플 서비스 이용자의 결제 대금 부족 가능성을...",
+      "pubDate": "2026-07-09T04:32:00+00:00",
+      "category": "카카오페이",
+      "source": "MBC 뉴스"
+    },
+    {
+      "title": "경찰, 카카오페이 본사 압수수색…4000만명 개인정보 중국에 넘긴 혐의",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=232542",
+      "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=232542",
+      "description": "해당 정보는 애플이 알리페이에 위탁한 NSF 점수 산출에 활용된 것으로 조사됐다. 앞서 개인정보보호위원회는 과징금 59억6800만원을, 금융감독원은 기관경고와 과징금 129억7600만원을 부과했다. 카카오페이는...",
+      "pubDate": "2026-07-09T04:24:00+00:00",
+      "category": "카카오페이",
+      "source": "한국NGO신문"
+    },
+    {
+      "title": "'고객 4000만명 정보 유출' 카카오페이 본사 압수수색…542억건 중국으로...",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=81593",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=81593",
+      "description": "해당 문제는 아이폰 사용자가 카카오페이를 결제 수단으로 등록할 때 카카오페이가 알리페이 중계를 통해 애플에 고객 결제 정보를 전송하는 과정에서 발생했다. 이 과정에서 암호화된 휴대전화 번호와 이메일 주소...",
+      "pubDate": "2026-07-09T04:14:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "경찰, 카카오페이 압수수색... 中에 4000만명 정보 넘겼나",
+      "link": "https://n.news.naver.com/mnews/article/023/0003986672?sid=102",
+      "originallink": "https://www.chosun.com/national/incident/2026/07/09/VYP7O3JPKZG4TMOZSP5AF4O2BU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "해당 정보는 애플이 알리페이에 위탁한 NSF 점수 산출에 활용된 것으로 조사됐다. 앞서 개인정보보호위원회는 과징금 59억6800만원을, 금융감독원은 기관경고와 과징금 129억7600만원을 부과했다. 카카오페이는...",
+      "pubDate": "2026-07-09T03:12:00+00:00",
+      "category": "카카오페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "경찰, '고객정보 무단 제공 혐의' 카카오페이 본사 압수수색",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=118817",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=118817",
+      "description": "조사 결과 카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 파악됐다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하는 지표다. 앞서...",
+      "pubDate": "2026-07-09T02:50:00+00:00",
+      "category": "카카오페이",
+      "source": "딜라이트닷넷"
+    },
+    {
+      "title": "'고객정보 542억건' 알리페이 유출…경찰, 카카오페이 본사 압수수색",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=301626",
+      "originallink": "https://www.ppss.kr/news/articleView.html?idxno=301626",
+      "description": "카카오페이가 제공한 정보는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축에 활용된 것으로 조사됐다. NSF 점수는 애플 서비스 이용자의 결제대금 부족 가능성을 평가하기 위해 산출하는 일종의 고객별 점수다....",
+      "pubDate": "2026-07-09T02:39:00+00:00",
+      "category": "카카오페이",
+      "source": "ㅍㅍㅅㅅ PPSS"
+    },
+    {
+      "title": "경찰, '개인정보 유출' 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/052/0002376971?sid=102",
+      "originallink": "https://www.ytn.co.kr/_ln/0103_202607091138546844",
+      "description": "아이폰 이용자가 결제 수단으로 카카오페이를 등록하면 휴대전화 번호와 이메일 주소 등이 애플에 전송되는데, 금감원은 애플이 알리페이를 거쳐 정보를 받는 방식을 사용하면서 개인정보가 빠져나간 것으로 보고...",
+      "pubDate": "2026-07-09T02:38:00+00:00",
+      "category": "카카오페이",
+      "source": "YTN"
+    },
+    {
+      "title": "경찰, 4천만명 고객 정보 中넘긴 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/003/0014056218?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20260709_0003702466",
+      "description": "해당 문제는 아이폰 사용자가 카카오페이를 결제 수단으로 등록할 때 카카오페이가 알리페이 중계를 통해 애플에 고객 결제 정보를 전송하면서 발생했다. 정보 전송 과정에서 암호화된 휴대전화 번호와 이메일 주소...",
+      "pubDate": "2026-07-09T02:36:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "경찰, 고객정보 유출한 카카오페이 본사 압수수색",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=474706",
+      "originallink": "https://news.ifm.kr/news/articleView.html?idxno=474706",
+      "description": "고객 약 4천만명의 개인정보 542억건을 알리페이에 넘긴 혐의를 받고 있다. 카카오페이는 애플이 알리페이에 위탁한 고객별 점수 방식인 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 알려졌다.",
+      "pubDate": "2026-07-09T02:34:00+00:00",
+      "category": "카카오페이",
+      "source": "경인방송"
+    },
+    {
+      "title": "고객정보 542억건 유출한 카카오페이…경찰, 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/009/0005705030?sid=102",
+      "originallink": "https://www.mk.co.kr/article/12094258",
+      "description": "조사 결과 카카오페이는 애플이 알리페이에 위탁한 ‘NSF 점수’ 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났다. NSF 점수란 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해...",
+      "pubDate": "2026-07-09T02:33:00+00:00",
+      "category": "카카오페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "경찰, '4000만명 개인정보 유출' 혐의 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/654/0000189693?sid=102",
+      "originallink": "https://www.kado.net/news/articleView.html?idxno=2060366",
+      "description": "조사 결과 카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자의 정보를 제공한 것으로 파악됐다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하는 고객별 점수다....",
+      "pubDate": "2026-07-09T02:27:00+00:00",
+      "category": "카카오페이",
+      "source": "강원도민일보"
+    },
+    {
+      "title": "카카오페이 '알리페이 정보 이전' 의혹, 경찰 강제수사",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2114485",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2114485",
+      "description": "카카오페이는 알리페이 중계를 거쳐 애플에 결제 정보를 전달하는 구조였다고 설명해왔다. 그러나 금융당국은 알리페이가 해당 정보를 단순 결제 중계에만 사용한 것이 아니라, 애플 서비스 이용자의 결제 대금 부족...",
+      "pubDate": "2026-07-09T02:26:00+00:00",
+      "category": "카카오페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "37만 가맹점 확보한 토스 … 페이스페이 키울수록 커지는 안정성 시험대",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900118.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/09/2026070900118.html",
+      "description": "금융감독원은 사고 발생 이틀 전인 지난 24일 토스를 비롯한 카카오, 네이버파이낸셜 등 빅테크 계열 전자금융업자 최고정보책임자(CIO)들을 소집해 전산사고 예방 방안을 논의했다. 금감원은 IT 안정성과 내부통제 체계를...",
+      "pubDate": "2026-07-09T02:22:00+00:00",
+      "category": "토스페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "경찰, '4000만 명 정보 무단 제공' 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/469/0000941276?sid=102",
+      "originallink": "https://www.hankookilbo.com/news/article/A2026070910560005748?did=NA",
+      "description": "카카오페이는 애플이 알리페이에 맡긴 'NSF(결제 대금 부족 가능성) 점수' 산출 모델을 구축하기 위해 전체 이용자 정보를 제공한 것으로 파악됐다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하는...",
+      "pubDate": "2026-07-09T02:17:00+00:00",
+      "category": "카카오페이",
+      "source": "hankookilbo"
+    },
+    {
+      "title": "경찰 '알리페이에 고객정보 542억건 유출' 카카오페이 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/421/0009049725?sid=102",
+      "originallink": "https://www.news1.kr/local/gyeonggi/6222768",
+      "description": "알리페이는 해당 정보를 활용해 NSF점수 산출 모델을 구축하는데 사용한 것으로 알려졌다. NSF점수는 애플 서비스를 이용하는 고객의 결제대금 부족 가능성을 판단해 고객별로 점수를 책정하는 기능을 뜻한다....",
+      "pubDate": "2026-07-09T02:09:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "경찰, '4000만 명 고객정보 유출 혐의' 카카오페이 압수수색",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/07/09/2026070900115.html",
+      "originallink": "https://www.newdaily.co.kr/site/data/html/2026/07/09/2026070900115.html",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 파악됐다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 고객별...",
+      "pubDate": "2026-07-09T02:02:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴데일리"
+    },
+    {
+      "title": "경찰, 카카오페이 압수수색…'고객정보 알리페이 제공' 강제수사 본격화",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=237304",
+      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=237304",
+      "description": "카카오페이는 2018년부터 지난해 5월까지 고객 약 4000만명의 개인정보 542억건을 알리페이에 제공한 혐의를 받고 있다. 해당 정보는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하는 NSF 점수 산출 모델 구축...",
+      "pubDate": "2026-07-09T02:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이지경제"
+    },
+    {
+      "title": "경찰, '고객정보 유출 혐의' 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/055/0001371056?sid=102",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008649340&plink=ORI&cooper=NAVER",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났습니다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 일종의...",
+      "pubDate": "2026-07-09T01:53:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS"
+    },
+    {
+      "title": "경찰, '고객정보 무단 제공 혐의' 카카오페이 성남 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/448/0000625462?sid=102",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990135.html",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 일종의...",
+      "pubDate": "2026-07-09T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "경찰, '고객정보 유출 혐의' 카카오페이 본사 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/001/0016184530?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260709076500061?input=1195m",
+      "description": "카카오페이는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축을 위해 전체 이용자 정보를 제공한 것으로 드러났다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위해 산출하는 일종의 고객별...",
+      "pubDate": "2026-07-09T01:32:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
       "title": "[단독]경찰, '개인정보 유출' 카카오페이 연이틀 압수수색",
       "link": "https://n.news.naver.com/mnews/article/277/0005787527?sid=102",
       "originallink": "https://view.asiae.co.kr/article/2026070908242439379",
@@ -9055,5 +10189,5 @@
       "source": "파이낸셜뉴스"
     }
   ],
-  "lastFetch": "2026-07-09T00:23:00.664072+00:00"
+  "lastFetch": "2026-07-10T00:20:21.303421+00:00"
 }
