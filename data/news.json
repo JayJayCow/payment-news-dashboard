@@ -1,6 +1,321 @@
 {
   "articles": [
     {
+      "title": "[굿모닝금융] KB금융·신한금융·토스 등",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=140457",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=140457",
+      "description": "(왼쪽부터)이찬진 금융감독원장, 박상진 네이버페이 대표, 윤호중 행정안전부 장관, 이승건 토스 대표, 신원근 카카오페이 대표, 채병득 금융결제원장이 기념 사진을 찍고 있다. 사진=토스 ◆ 토스, 주민등록증 진위 확인...",
+      "pubDate": "2026-07-10T19:24:00+00:00",
+      "category": "토스페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "쿠팡, 로켓페이로 간편결제 시장 '빅3' 도전장 던지다",
+      "link": "https://www.tokenpost.kr/news/economy/376670",
+      "originallink": "https://www.tokenpost.kr/news/economy/376670",
+      "description": "현재 시장은 네이버페이, 카카오페이, 토스페이 등이 폭넓은 이용처와 플랫폼 기반을 앞세워 경쟁하고 있는데, 쿠팡까지 참전하면 이용자 확보와 가맹점 확장 경쟁이 더욱 뜨거워질 가능성이 크다. 로켓페이의 사용처는...",
+      "pubDate": "2026-07-10T17:54:00+00:00",
+      "category": "간편결제",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "쿠팡, ‘로켓페이’로 간편결제 참전…네이버·카카오에 도전장",
+      "link": "https://n.news.naver.com/mnews/article/117/0004083739?sid=103",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026071021055228670",
+      "description": "쿠팡 결제를 네이버페이나 카카오페이처럼 다른 쇼핑몰과 오프라인 매장에서도 사용할 수 있게 된다. 이용자는 은행 계좌와 신용·체크카드, 충전금 등을 연동해 사용할 수 있다. 쿠팡 안에서만 사용할 수 있던 결제...",
+      "pubDate": "2026-07-10T12:06:00+00:00",
+      "category": "간편결제",
+      "source": "마이데일리"
+    },
+    {
+      "title": "쿠팡, 간편 결제 시장 출사표…‘로켓페이’ 하반기 출시",
+      "link": "https://n.news.naver.com/mnews/article/366/0001178401?sid=101",
+      "originallink": "https://biz.chosun.com/distribution/channel/2026/07/10/L5OHBVVPRZE3LE24ISOVY3S5VQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "수천만 명의 가입자를 보유한 쿠팡이 로켓페이를 통해 간편 결제 시장에 뛰어들면 기존 간편 결제 사업자인 네이버페이·카카오페이·토스페이 등과 치열한 각축전을 벌일 것으로 보인다.",
+      "pubDate": "2026-07-10T11:55:00+00:00",
+      "category": "간편결제",
+      "source": "조선비즈"
+    },
+    {
+      "title": "쿠팡, 간편결제 시장 본격 진출…'로켓페이' 하반기 출시",
+      "link": "https://n.news.naver.com/mnews/article/656/0000181237?sid=101",
+      "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2287221",
+      "description": "기존 쿠팡 서비스 내에서만 가능했던 결제를 전국 온·오프라인 가맹점으로 확대하며 네이버페이, 카카오페이, 토스페이와 경쟁에 뛰어든다. 쿠팡은 10일 기존 쿠팡페이의 사용처를 쿠팡, 쿠팡플레이, 쿠팡이츠를 넘어...",
+      "pubDate": "2026-07-10T11:36:00+00:00",
+      "category": "간편결제",
+      "source": "대전일보"
+    },
+    {
+      "title": "쿠팡, 간편결제 시장 출사표… ‘로켓페이’ 하반기 출시",
+      "link": "https://www.kbmaeil.com/article/20260710500210",
+      "originallink": "https://www.kbmaeil.com/article/20260710500210",
+      "description": "이에 따라 국내 간편결제 시장에서는 네이버페이, 카카오페이, 토스페이에 이어 쿠팡까지 가세하면서 경쟁이 한층 치열해질 전망이다. 특히 쿠팡이 전자상거래, 배달, 콘텐츠 서비스와 결제를 연계한 자체 생태계 강화에...",
+      "pubDate": "2026-07-10T10:56:00+00:00",
+      "category": "간편결제",
+      "source": "경북매일"
+    },
+    {
+      "title": "쿠팡, 간편결제 판 흔들까…‘로켓페이’ 하반기 출격",
+      "link": "https://n.news.naver.com/mnews/article/016/0002668792?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10805369?ref=naver",
+      "description": "기존 쿠팡과 쿠팡플레이, 쿠팡이츠 등에서 제공하던 쿠팡페이 결제 서비스를 오프라인과 쿠팡 외 가맹점으로 확대하는 것이다. 로켓페이는 은행 계좌와 신용·체크카드, 충전금 등 다양한 결제 수단 연동을 지원할...",
+      "pubDate": "2026-07-10T10:40:00+00:00",
+      "category": "간편결제",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "쿠팡, 간편결제 시장 참전…하반기 '로켓페이' 출시",
+      "link": "https://www.newspim.com/news/view/20260710001465",
+      "originallink": "https://www.newspim.com/news/view/20260710001465",
+      "description": "쿠팡 로켓페이 로고 [자료=쿠팡] 10일 쿠팡은 올해 하반기 온·오프라인 결제 서비스 '로켓페이'를 출시한다고 밝혔다. 로켓페이는 쿠팡과 쿠팡플레이, 쿠팡이츠 등에서 사용해온 쿠팡페이를 개편한 서비스다. 기존 쿠팡...",
+      "pubDate": "2026-07-10T10:36:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "쿠팡, 간편결제 시장 진출…‘로켓페이’ 선보인다",
+      "link": "https://www.g-enews.com/view.php?ud=202607101920048054a96f092d0c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202607101920048054a96f092d0c_1",
+      "description": "수천만 명의 가입자를 보유한 쿠팡이 로켓페이로 간편결제 시장에 본격적으로 뛰어들 경우 네이버페이, 카카오페이, 토스 등 기존 업체들과의 경쟁이 한층 치열해질 것으로 전망된다. 조용철 글로벌이코노믹 기자",
+      "pubDate": "2026-07-10T10:22:00+00:00",
+      "category": "간편결제",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "쿠팡도 간편결제 참전…'로켓페이' 하반기 출시",
+      "link": "https://n.news.naver.com/mnews/article/001/0016188299?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260710160500030?input=1195m",
+      "description": "수천만 명의 가입자를 보유한 쿠팡이 로켓페이를 통해 간편결제 시장에 본격 진출할 경우 네이버페이·카카오페이·토스페이 등과 치열한 경쟁을 벌일 것으로 예상된다.",
+      "pubDate": "2026-07-10T10:15:00+00:00",
+      "category": "간편결제",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "농협목우촌, 토스와 손잡고 외식 매장에 '페이스페이' 도입",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=269559",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=269559",
+      "description": "농협목우촌이 토스와 손잡고 외식 브랜드 매장에 안면 인식 결제 서비스를 도입한다. 결제 수단 다양화와 간편결제 수요 확대에 맞춰 매장 운영 효율과 고객 편의성을 높이겠다는 취지다. 농협목우촌은 10일 토스 운영사...",
+      "pubDate": "2026-07-10T10:00:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "온라인 넘어 오프라인 매장까지 … 쿠팡, 로켓페이로 간편 결제 출사표",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000246.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000246.html",
+      "description": "네이버페이와 카카오페이 등이 경쟁해온 간편결제 시장에 쿠팡까지 본격 가세하면서 업계 경쟁도 한층 치열해질 전망이다. 10일 쿠팡에 따르면 올해 하반기 온·오프라인 결제 서비스 로켓페이를 선보인다. 로켓페이는...",
+      "pubDate": "2026-07-10T09:42:00+00:00",
+      "category": "간편결제",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "쿠팡, 하반기 로켓페이 출시…간편결제 시장 공략",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424454",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424454",
+      "description": "이에 따라 기존 쿠팡, 쿠팡플레이, 쿠팡이츠 등에서 쓰던 쿠팡페이의 결제서비스를 오프라인과 쿠팡 외 가맹점에서도 사용할 수 있게 된다. 쿠팡은 은행계좌와 신용·체크카드, 충전금 등 고객이 선호하는 결제수단과...",
+      "pubDate": "2026-07-10T09:18:00+00:00",
+      "category": "간편결제",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "북미 직판 결제 전략, 애플페이와 페이팔의 역할은 어떻게 다른가",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039265",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039265",
+      "description": "◆ 애플페이 VS 페이팔 북미 시장에서 대표적인 디지털 월렛은 애플페이(Apple Pay)와 페이팔(PayPal)이다. 두 서비스 모두 카드 기반 결제를 지원하지만 소비자가 선택하는 이유는 다르다. 애플페이는 아이폰과 맥, 사파리 등...",
+      "pubDate": "2026-07-10T09:10:00+00:00",
+      "category": "애플페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "간편결제 참전한 쿠팡…'네이버식 금융' 확장",
+      "link": "https://n.news.naver.com/mnews/article/015/0005308713?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026071085721",
+      "description": "간편결제 서비스인 네이버페이는 외부 쇼핑몰에서도 사용할 수 있지만 쿠팡페이는 쿠팡 서비스에서만 이용 가능하다. 금융계열사인 쿠팡파이낸셜의 대출 사업도 쿠팡 입점 판매자를 대상으로 했다. e커머스 시장에서도...",
+      "pubDate": "2026-07-10T09:00:00+00:00",
+      "category": "간편결제",
+      "source": "한국경제"
+    },
+    {
+      "title": "쿠팡, 간편결제 참전…로켓페이 나온다",
+      "link": "https://n.news.naver.com/mnews/article/015/0005308695?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026071086211",
+      "description": "네이버페이는 네이버쇼핑뿐 아니라 외부 쇼핑몰에서도 사용할 수 있지만 쿠팡페이는 쿠팡 서비스에서만 이용 가능하다. 어디서나 다 되는 간편결제로 점유율을 높이고 있는 네이버페이를 잡으려면 변화가 필요했다....",
+      "pubDate": "2026-07-10T08:46:00+00:00",
+      "category": "간편결제",
+      "source": "한국경제"
+    },
+    {
+      "title": "네이버·카카오페이·토스서 주민증 진위 확인 가능해진다",
+      "link": "https://n.news.naver.com/mnews/article/057/0001957950?sid=101",
+      "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5205162",
+      "description": "앞으로 네이버페이와 카카오페이, 토스 등 민간 전자금융업자를 통해서도 주민등록증 진위 여부를 확인할 수 있게 됩니다. 행정안전부는 어제(9일) 서울 강남구 토스 신논현 사옥에서 금융감독원과 금융결제원, 이들 관련...",
+      "pubDate": "2026-07-10T08:20:00+00:00",
+      "category": "카카오페이",
+      "source": "MBN"
+    },
+    {
+      "title": "농협목우촌 토스 업무협약 체결 외식 매장 안면 인식 결제 인프라 확충",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=203592",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=203592",
+      "description": "위한 토스 프론트 단말기를 매장 내에 순차적으로 배치하기로 10일 합의했다. 이번 협약은 결제 수단 다변화와 무선 간편결제 수요가 확대되는 국내 외식 산업 환경 변화에 맞춰 매장 운영 인프라를 개선하기 위해...",
+      "pubDate": "2026-07-10T08:16:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "토스·카카오도 주민증 '진짜' 확인…간편송금 보안 한층 강화",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=128130",
+      "originallink": "https://www.ntoday.co.kr/news/articleView.html?idxno=128130",
+      "description": "앞으로 토스와 네이버페이, 카카오페이에서도 정부의 주민등록증 진위확인 서비스를 활용할 수 있게 된다. 단순히 이름과 주민등록번호를 대조하는 수준을 넘어 주민등록증 사진정보까지 확인할 수 있게 되면서 위조...",
+      "pubDate": "2026-07-10T07:50:00+00:00",
+      "category": "토스페이",
+      "source": "투데이신문"
+    },
+    {
+      "title": "농협목우촌, 토스 '페이스페이' 도입...\"외식 프랜차이즈 결제 편의성 강...",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=242278",
+      "originallink": "http://www.sisunnews.co.kr/news/articleView.html?idxno=242278",
+      "description": "토스(운영사 비바리퍼블리카, 대표 이승건)와 전략적 업무협약(MOU)을 체결하고, '페이스페이' 이용을 위한 토스 프론트를 매장에 순차 설치한다고 10일 밝혔다. 회사 측에 따르면, 이번 협약은 결제 방식이 다양화되고 간편...",
+      "pubDate": "2026-07-10T07:38:00+00:00",
+      "category": "토스페이",
+      "source": "시선뉴스"
+    },
+    {
+      "title": "농협목우촌, 토스와 MOU 체결…외식 매장에 '페이스페이' 순차 도입",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=753070",
+      "originallink": "https://www.mhns.co.kr/news/articleView.html?idxno=753070",
+      "description": "농협목우촌(대표이사 박철진)은 토스 운영사 비바리퍼블리카(대표 이승건)와 전략적 업무협약(MOU)을... 간편결제는 단순히 결제 수단을 추가하는 데 그치지 않고, 매장 운영 동선과 고객 응대 방식에도 변화를 줄 수 있다....",
+      "pubDate": "2026-07-10T07:20:00+00:00",
+      "category": "토스페이",
+      "source": "더쎈뉴스(The CEN News)"
+    },
+    {
+      "title": "쿠팡, 올 하반기 '로켓페이' 출시... 네이버페이·카카오페이와 정면승...",
+      "link": "https://www.insight.co.kr/news/562485",
+      "originallink": "https://www.insight.co.kr/news/562485",
+      "description": "자체 결제 시스템을 외부 가맹점과 오프라인 영역으로 대폭 확장하며 네이버페이와 카카오페이가 양분하던 시장 판도에 변화를 예고한다. 쿠팡은 10일 올 하반기 온·오프라인 통합 결제 서비스 '로켓페이'를 새롭게...",
+      "pubDate": "2026-07-10T05:40:00+00:00",
+      "category": "네이버페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "바로 풀 수 있다…토스 행운퀴즈 7월 10일 문제와 정답 바로 확인",
+      "link": "https://www.wikitree.co.kr/articles/1145800",
+      "originallink": "https://www.wikitree.co.kr/articles/1145800",
+      "description": "토스는 비바리퍼블리카가 운영하는 모바일 금융 플랫폼이다. 2015년 쉽고 빠르게 송금할 수 있는 간편 송금... 현재 하나의 앱 안에서 송금, 결제, 투자 등 다양한 금융 서비스를 통합해 제공하고 있어 사용자는 여러 활동을...",
+      "pubDate": "2026-07-10T04:42:00+00:00",
+      "category": "토스페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "\"중국에 4천만명 개인정보 제공\" 카카오페이 압수수색",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=244108",
+      "originallink": "https://www.safetimes.co.kr/news/articleView.html?idxno=244108",
+      "description": "경찰이 고객 동의 없이 4000만명의 개인정보를 중국 간편결제 서비스 알리페이에 제공한 의혹을 받는 카카오페이에 대 강제수사에 착수했다. 10일 경찰에 따르면 경기남부경찰청 반부패·경제범죄수사대는 지난 6~7일...",
+      "pubDate": "2026-07-10T04:06:00+00:00",
+      "category": "카카오페이",
+      "source": "세이프타임즈"
+    },
+    {
+      "title": "쿠팡, 온·오프라인 통합 결제 서비스 ‘로켓페이’ 도입",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202607101232188970204ead0791_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=202607101232188970204ead0791_12",
+      "description": "쿠팡이 결제 서비스 확대 계획을 10일 밝혔다. ‘로켓페이’는 기존 플랫폼 내에서 사용되던 결제 기능을 외부 가맹점까지 확장한 형태로, 온라인과 오프라인 모두에서 사용할 수 있도록 설계됐다. 초기에는 온라인...",
+      "pubDate": "2026-07-10T03:34:00+00:00",
+      "category": "간편결제",
+      "source": "로이슈"
+    },
+    {
+      "title": "쿠팡, 간편결제 '로켓페이' 출격 … 온·오프라인 결제 시장 확대",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=86622",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=86622",
+      "description": "서비스를 시작으로, 향후 오프라인 결제까지 단계적으로 확대할 계획이다. 업계에서는 쿠팡이 네이버페이, 카카오페이 등 기존 간편결제 사업자와의 경쟁 구도를 본격화하며 결제 시장 영향력을 확대할지 주목하고 있다.",
+      "pubDate": "2026-07-10T03:06:00+00:00",
+      "category": "간편결제",
+      "source": "워크투데이"
+    },
+    {
+      "title": "애플페이 다음은 스테이블코인…정태영 '혁신 DNA' 시험대",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026071011461548967",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026071011461548967",
+      "description": "정 부회장은 2015년 국내 최초 PLCC 상품인 '이마트 e카드'를 선보인 이후 대한항공, 코스트코, 네이버 등과의 협업을 확대하며 사실상 PLCC 시장을 개척했다. 이어 2023년에는 애플페이를 국내 카드사 가운데 처음 도입해...",
+      "pubDate": "2026-07-10T03:00:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "삼성월렛 1900만명 돌파…한국인 페이앱 1위 [데이터로 본 세상]",
+      "link": "https://n.news.naver.com/mnews/article/016/0002668603?sid=104",
+      "originallink": "https://biz.heraldcorp.com/article/10804849?ref=naver",
+      "description": "이어 카카오페이 1187만명, KB페이 1037만명, 신한 SOL페이 819만명, 페이북·ISP 656만명, 네이버페이 653만명, NH페이 501만명, 하나페이 473만명, 페이코 255만명 순으로 나타났다. 이 중 카카오페이, KB 페이...",
+      "pubDate": "2026-07-10T02:30:00+00:00",
+      "category": "삼성페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "쿠팡, 간편결제 시장 참전…온·오프라인 결제 ‘로켓페이’ 출시",
+      "link": "https://www.sentv.co.kr/article/view/sentv202607100039",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202607100039",
+      "description": "쿠팡이 자체 결제 서비스를 오프라인 영역과 외부 가맹점까지 전격 확대하며 네이버페이·카카오페이 등이 주도하는 간편결제 시장에 정면 승부를 건다. 10일 쿠팡은 올 하반기 온·오프라인을 모두 아우르는 통합 결제...",
+      "pubDate": "2026-07-10T01:30:00+00:00",
+      "category": "간편결제",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "쿠팡, 온·오프라인 결제 '로켓페이' 하반기 출시…간편결제 시장 본격...",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=874706",
+      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=874706",
+      "description": "기존 쿠팡 내에서만 사용할 수 있던 쿠팡페이의 결제 서비스를 전국 온·오프라인 가맹점 대상으로 대폭 확대해 생활 결제 수단을 진화한다는 포부다. 쿠팡은 올 하반기 온·오프라인을 망라하는 결제 서비스 '로켓페이'를...",
+      "pubDate": "2026-07-10T01:16:00+00:00",
+      "category": "간편결제",
+      "source": "글로벌경제신문"
+    },
+    {
+      "title": "행안부, 민간 간편결제까지 주민등록증 진위 확인 서비스 확대",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=218789",
+      "originallink": "https://www.itbiznews.com/news/articleView.html?idxno=218789",
+      "description": "행정안전부는 금융감독원과 금융결제원, 네이버페이, 카카오페이, 비바리퍼블리카(토스)와 전자금융업자의 주민등록증 진위 확인 확대를 위한 상호 협력을 골자로 하는 업무협약을 체결했다. 9일 토스 신논현 사옥에서...",
+      "pubDate": "2026-07-10T01:00:00+00:00",
+      "category": "간편결제",
+      "source": "IT비즈뉴스"
+    },
+    {
+      "title": "쿠팡, '로켓페이' 출시…온·오프라인 결제 시장 진출",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=139656",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=139656",
+      "description": "'로켓페이'는 기존 쿠팡, 쿠팡플레이, 쿠팡이츠 등에서 제공하던 쿠팡페이 결제 서비스를 외부 온라인 가맹점과 오프라인 매장까지 확대했다. 은행 계좌와 신용·체크카드, 충전금 등 다양한 결제 수단을 연동할 수 있으며...",
+      "pubDate": "2026-07-10T00:52:00+00:00",
+      "category": "간편결제",
+      "source": "직썰"
+    },
+    {
+      "title": "쿠팡, 간편결제 시장 본격 참전…'로켓페이'로 온·오프라인 결제 나선...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005788168?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026071009273661800",
+      "description": "기존 쿠팡 생태계 안에서만 제공하던 결제 서비스를 외부 가맹점으로 확대하면서 네이버페이와 카카오페이 등 간편결제업체 간 경쟁도 한층 치열해질 전망이다. 쿠팡은 10일 연내 로켓페이를 선보인다고 밝혔다....",
+      "pubDate": "2026-07-10T00:34:00+00:00",
+      "category": "간편결제",
+      "source": "아시아경제"
+    },
+    {
+      "title": "커진 간편결제 시장…플랫폼 경쟁 본격화",
+      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=77789",
+      "originallink": "http://www.issuenbiz.com/news/articleView.html?idxno=77789",
+      "description": "전자금융업계 자료와 각사 실적 등을 종합하면 지난해 네이버페이·토스·카카오페이의 간편결제 거래액은 총 106조3000억원으로 처음 100조원을 넘어섰다. 이 가운데 네이버페이가 약 56조5000억원으로 가장 큰 비중을...",
+      "pubDate": "2026-07-10T00:24:00+00:00",
+      "category": "간편결제",
+      "source": "이슈앤비즈"
+    },
+    {
+      "title": "해운조합, 여객선 예매 AI 챗봇·간편결제 도입",
+      "link": "https://n.news.naver.com/mnews/article/119/0003110000?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1665594/?sc=Naver",
+      "description": "기존 시스템에 카카오페이 간편결제 기능을 새로 도입해 이용자의 선택 폭을 넓혔다. 컴퓨터로 예매할 때는 화면에 뜨는 QR코드를 스마트폰으로 인식시켜 본인 인증을 할 수 있다. 모바일 기기를 쓸 때는 기기 종류에 따라...",
+      "pubDate": "2026-07-10T00:19:00+00:00",
+      "category": "간편결제",
+      "source": "데일리안"
+    },
+    {
       "title": "공차코리아, 복날 맞이 네이버페이 ‘N 포인트 적립’ 프로모션 진행",
       "link": "https://n.news.naver.com/mnews/article/018/0006326846?sid=101",
       "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02883126645513208",
@@ -121,7 +436,7 @@
       "title": "4000만 명 정보 중국 유출 혐의… 경찰, 카카오페이 본사 압수수색",
       "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028557",
       "originallink": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028557",
-      "description": "기호일보, KIHOILBO 경기남부경찰청 전경.<기호일보 DB> 경찰이 고객 약 4천만 명 개인정보를 알리페이(중국 간편결제 서비스)에 제공한 혐의를 받는 카카오페이를 상대로 강제 수사에 나섰다. 9일 경기남부경찰청...",
+      "description": "기호일보, KIHOILBO 경기남부경찰청 전경. 경찰이 고객 약 4천만 명 개인정보를 알리페이(중국 간편결제 서비스)에 제공한 혐의를 받는 카카오페이를 상대로 강제 수사에 나섰다. 9일 경기남부경찰청...",
       "pubDate": "2026-07-09T09:50:00+00:00",
       "category": "카카오페이",
       "source": "기호일보"
@@ -247,7 +562,7 @@
       "title": "\"폰도 두고 오세요\"…토스·네이버, 승자는",
       "link": "https://n.news.naver.com/mnews/article/215/0001258202?sid=101",
       "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090304&t=NNv",
-      "description": "현재 얼굴 결제 시장, 토스와 네이버페이가 선점 경쟁을 벌이고 있는데 어디가 좀 더 앞서나가고 있습니까? <기자> 현재로선 토스가 조금 더 우세하다는 평가가 나옵니다. 얼굴 결제가 활성화되기 위해서는 크게 두 가지...",
+      "description": "현재 얼굴 결제 시장, 토스와 네이버페이가 선점 경쟁을 벌이고 있는데 어디가 좀 더 앞서나가고 있습니까?  현재로선 토스가 조금 더 우세하다는 평가가 나옵니다. 얼굴 결제가 활성화되기 위해서는 크게 두 가지...",
       "pubDate": "2026-07-09T08:31:00+00:00",
       "category": "토스페이",
       "source": "owtv"
@@ -10189,5 +10504,5 @@
       "source": "파이낸셜뉴스"
     }
   ],
-  "lastFetch": "2026-07-10T00:20:21.303421+00:00"
+  "lastFetch": "2026-07-11T00:11:56.100129+00:00"
 }
