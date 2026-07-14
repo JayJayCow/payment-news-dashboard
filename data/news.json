@@ -1,6 +1,213 @@
 {
   "articles": [
     {
+      "title": "[핀테크핫이슈] 결제 넘어 금융 인프라로…빅테크 영토 전방위 확장",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683726",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683726",
+      "description": "토스·카카오페이·네이버페이는 정부의 주민등록증 진위확인망을 이용할 수 있게 되면서 비대면 금융거래 과정의 신원확인과 금융사기 예방 역량을 강화하게 됐다. 전자금융업자도 주민등록증 사진과 발급정보를...",
+      "pubDate": "2026-07-13T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "KB국민은행, 개인형IRP 가입 이벤트…최대 2만원 네이버페이 쿠폰 증정",
+      "link": "https://www.public25.com/news/articleView.html?idxno=50609",
+      "originallink": "https://www.public25.com/news/articleView.html?idxno=50609",
+      "description": "퍼블릭타임스=KB국민은행이 개인형IRP(개인형 퇴직연금) 신규 고객을 대상으로 최대 2만원 상당의 네이버페이 포인트를 제공하는 이벤트를 마련했다. 절세 혜택과 노후자산 관리를 동시에 준비할 수 있도록...",
+      "pubDate": "2026-07-13T22:22:00+00:00",
+      "category": "네이버페이",
+      "source": "퍼블릭타임스"
+    },
+    {
+      "title": "KB, 개인형IRP 신규 가입 이벤트…네이버페이 포인트 지급",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3634892",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3634892",
+      "description": "이벤트 기간 동안 개인형IRP에 입금한 금액에 따라 네이버페이 포인트가 지급된다. 50만원 이상 100만원 미만은 5000원권, 100만 원 이상 1000만원 미만은 1만 원권, 1000만 원 이상은 2만 원권이 각각 1매씩 제공된다....",
+      "pubDate": "2026-07-13T14:22:00+00:00",
+      "category": "네이버페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "[금융] KB국민카드 터치결제 / 카카오페이 일본여행 할인 / 신한장학재단...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231606",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2231606",
+      "description": "◼︎ 카카오페이, 대한항공·에어비앤비 일본여행 할인 카카오페이가 대한항공, 에어비앤비와 함께 일본 항공권과 숙박비를 할인하는 '해외여행 올-패스: 일본편'을 진행한다고 13일 밝혔다. 대한항공 일본 노선...",
+      "pubDate": "2026-07-13T13:48:00+00:00",
+      "category": "카카오페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "항공권부터 숙소까지 한 번에…에어비앤비·대한항공·카카오페이, 일본...",
+      "link": "https://www.venturesquare.net/1098296/",
+      "originallink": "https://www.venturesquare.net/1098296/",
+      "description": "에어비앤비는 카카오페이, 대한항공과 함께 첫 공동 프로모션을 선보이며 여행객들의 예약 편의와 비용 부담을 동시에 낮춘다는 전략이다. 에어비앤비는 브랜드 캠페인...",
+      "pubDate": "2026-07-13T12:56:00+00:00",
+      "category": "카카오페이",
+      "source": "벤처스퀘어"
+    },
+    {
+      "title": "에어비앤비, 카카오페이·대한항공과 첫 할인...일본 숙소 최대 12%↓",
+      "link": "https://n.news.naver.com/mnews/article/092/0002430368?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260713192550",
+      "description": "에어비앤비가 카카오페이, 대한항공과 손잡고 항공권과 숙소 예약을 연계한 첫 공동 프로모션을 진행한다. 에어비앤비는 브랜드 캠페인 '완벽하지 않아 완벽한 여행'의 일환으로 카카오페이, 대한항공과 함께 '해외여행...",
+      "pubDate": "2026-07-13T10:31:00+00:00",
+      "category": "카카오페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "네이버페이, '연금 관리 서비스' 출시 예정…연금 자산 한눈에",
+      "link": "https://n.news.naver.com/mnews/article/421/0009057045?sid=101",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6226836",
+      "description": "네이버페이가 연금 자산을 한눈에 볼 수 있는 연금 관리 서비스 출시를 준비하고 있다. 13일 정보기술(IT) 업계에 따르면 네이버페이는 다음 달 연금 조회 및 관리 서비스를 출시할 예정이다. 이용자는 해당 서비스를 통해...",
+      "pubDate": "2026-07-13T10:19:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "KB국민카드, 앱 실행 없는 초간편 결제 ‘KB Pay 탭앤페이’ 공개",
+      "link": "https://www.livesnews.com/news/article.html?no=62551",
+      "originallink": "https://www.livesnews.com/news/article.html?no=62551",
+      "description": "최근 핀테크 업계가 스마트폰 화면을 켜지 않거나 터치 횟수를 최소화하는 간편결제 생태계 확장에 사활을 걸고 있는 만큼, KB국민카드의 이번 행보 역시 디지털 금융 시장에서의 플랫폼 지배력을 한층 더 공고히 하기...",
+      "pubDate": "2026-07-13T09:32:00+00:00",
+      "category": "간편결제",
+      "source": "livesnews"
+    },
+    {
+      "title": "카카오페이證에 투자매매 허용... IPO 주관·IB로 사업영역 확대",
+      "link": "https://n.news.naver.com/mnews/article/014/0005547540?sid=102",
+      "originallink": "http://www.fnnews.com/news/202607131804236974",
+      "description": "카카오페이증권이 투자매매업(증권) 인가를 획득하며 사업 영역 확대에 나선다. 유가증권을 직접 인수·매매·판매할 수 있게 되면서 기업공개(IPO) 주관과 공모주 청약, 채권 운용 등 투자금융(IB) 사업으로 외연을 넓힐 수...",
+      "pubDate": "2026-07-13T09:06:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "[뉴스워커_KB국민은행] 개인형 IRP 가입 이벤트…최대 네이버페이 2만원",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=436167",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=436167",
+      "description": "KB국민은행이 개인형 IRP 신규 가입 고객을 대상으로 네이버페이 포인트를 제공하는 이벤트를 실시한다. KB국민은행은 고객의 절세와 노후자산 관리를 지원하기 위해 '찬란한 내일로 가는 개인형IRP 탑승권 발권 중...",
+      "pubDate": "2026-07-13T08:22:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "공모주 청약 품을 채비···카카오페이證, 인수업 문턱 넘었다",
+      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256099",
+      "originallink": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256099",
+      "description": "카카오페이증권이 기업공개(IPO) 주관과 공모주 청약 사업에 진출할 법적 기반을 마련했다. 다른 회사가 발행한 증권을 자기자본으로 인수한 뒤 고객에게 공급할 수 있게 되면서 리테일과 투자금융(IB)을 연결할 수 있는...",
+      "pubDate": "2026-07-13T07:58:00+00:00",
+      "category": "카카오페이",
+      "source": "여성경제신문"
+    },
+    {
+      "title": "간편결제 경쟁, 이제는 '생활밀착'…카카오페이, 지역·교통 결제 확대",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189706",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=189706",
+      "description": "카카오페이는 결제와 금융·멤버십 서비스를 연계하고 있으며, 네이버페이는 포인트를 기반으로 쇼핑·금융·오프라인 결제 영역을 연결하고 있다. 토스 역시 송금 서비스에서 출발해 증권·보험 등 금융 서비스를 한 앱...",
+      "pubDate": "2026-07-13T07:48:00+00:00",
+      "category": "카카오페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 카카오 소식...카카오뱅크·카카오페이",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200055",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200055",
+      "description": "카카오페이는 대한항공, 에어비앤비와 함께 일본 여행 특화 혜택을 담은 '해외여행 올-패스: 일본편'을 선보였다. ◆ 카카오뱅크, 개인사업자 부동산담보대출 '계산기' 출시 이벤트 카카오뱅크(대표 윤호영)가 개인사업자...",
+      "pubDate": "2026-07-13T07:20:00+00:00",
+      "category": "카카오페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "[단독] '토스플레이스 vs KICC' 특허戰 2라운드…특허법원 간다",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=80401",
+      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=80401",
+      "description": "사진=토스플레이스 | 뉴스워치= 박수진 기자 | 토스플레이스와 한국정보통신주식회사(KICC)의 '오프라인 결제단말기 특허 무효' 소송전이 재점화될 전망이다. 앞서 진행된 특허 분쟁에서 특허심판원이 토스플레이스의...",
+      "pubDate": "2026-07-13T06:32:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스워치"
+    },
+    {
+      "title": "쿠팡도 뛰어든 100조 간편결제 시장 … 네이버페이 '결제 1위' 수성전",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300229.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300229.html",
+      "description": "유동수 더불어민주당 의원실이 금융감독원에서 제출받은 자료에 따르면, 지난해 네이버페이·카카오페이·토스의 연간 간편결제 거래액은 106조3000억원으로 집계됐다. 2021년 50조6000억원에서 4년 만에 두 배 이상 성장한...",
+      "pubDate": "2026-07-13T06:26:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "카카오페이, 대한항공·에어비앤비와 일본여행 공동 프로모션 진행",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=266288",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=266288",
+      "description": "카카오페이가 대한항공, 에어비앤비와 손잡고 일본 여행객을 대상으로 항공권과 숙박 할인 혜택을 제공한다. 카카오페이는 항공·숙박·결제 혜택을 결합한 '해외여행 올-패스: 일본편'을 선보인다고 13일 밝혔다. 먼저...",
+      "pubDate": "2026-07-13T06:14:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "[카드 PICK] 카드사, 일상 속 디지털 혁신… 간편결제·AI로 고객 접점 ...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=204864",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=204864",
+      "description": "라이센스뉴스 = 이소라 기자 | 카드사들이 간편결제와 생성형 인공지능(AI)을 중심으로 디지털 서비스 경쟁을 이어가고 있다. 결제 편의성을 높이는 동시에 AI를 활용한 신규 서비스를 선보이며 고객 접점 확대에 나서는...",
+      "pubDate": "2026-07-13T05:58:00+00:00",
+      "category": "간편결제",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "[혼삶지수] '많이 쓰는 페이' vs '좋아하는 페이'…간편결제 순위, 언급...",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=100389",
+      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=100389",
+      "description": "간편결제 혼삶지수 종합 순위 - 토스 1위 (데일리팝 혼삶지수) 간편결제 시장에서 '많이 쓰이는 것'과 '좋아하는 것'은 다르다. 최근 3개월(2026년 4월 9일~7월 9일) 간편결제 브랜드 8개를 분석한 결과, 언급량 규모에선...",
+      "pubDate": "2026-07-13T05:50:00+00:00",
+      "category": "간편결제",
+      "source": "데일리팝"
+    },
+    {
+      "title": "카드·간편결제, AI부터 해외여행까지…생활밀착 서비스 경쟁 확대",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=131861",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=131861",
+      "description": "| 이코노미사이언스 박성현 기자 | 카드사와 간편결제업계가 인공지능(AI) 서비스와 결제 편의성을 강화하는 한편, 여름 휴가철을 겨냥한 여행 혜택을 확대하며 생활밀착형 서비스 경쟁에 나서고 있다. 금융서비스를...",
+      "pubDate": "2026-07-13T05:18:00+00:00",
+      "category": "간편결제",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "KB국민카드, 'KB Pay 탭앤페이' 출시…앱 실행 없이 간편결제",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000097699",
+      "originallink": "https://www.seoultimes.news/news/article.html?no=2000097699",
+      "description": "지난달부터 건강보험과 국민연금, 고용보험, 산재보험 등 4대 사회보험료 간편결제를 지원해 현재 모바일지로와 인터넷지로, 건강보험25시에서 카드번호 입력 없이 보험료를 납부할 수 있도록 했다. KB국민카드...",
+      "pubDate": "2026-07-13T05:11:00+00:00",
+      "category": "간편결제",
+      "source": "seoultimes"
+    },
+    {
+      "title": "연내 로켓페이 출시⋯간편결제 4파전 열린다",
+      "link": "https://n.news.naver.com/mnews/article/031/0001041682?sid=101",
+      "originallink": "http://www.inews24.com/view/1984911",
+      "description": "현재 간편결제 시장은 네이버페이·카카오페이·토스페이 3사가 주도하고 있다. 3사의 지난해 온오프라인 연간 간편결제 금액은 약 106조 3000억원이다. 업계는 수년 전부터 쿠팡의 간편결제가 거론된 만큼 예견된...",
+      "pubDate": "2026-07-13T04:51:00+00:00",
+      "category": "간편결제",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "카카오페이, 대한항공·에어비앤비와 손잡고 일본 여행 올-패스 출시",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=744999",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=744999",
+      "description": "여름 성수기를 앞두고 간편결제 업계가 여행 수요 잡기에 나섰다. 토스가 항공권 예약 서비스를 확대하고 네이버페이가 여행 특가 페이지를 운영하는 것과 비교하면, 카카오페이는 항공과 숙소, 결제를 하나의 패키지로...",
+      "pubDate": "2026-07-13T00:56:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "바로 정답 알아보자…토스 행운퀴즈 '7월 13일' 정답 공개",
+      "link": "https://www.wikitree.co.kr/articles/1146077",
+      "originallink": "https://www.wikitree.co.kr/articles/1146077",
+      "description": "앱을 통해 신용카드 이용 혜택, 간편 결제 내역, 보험 서비스, 신용 점수 관리, 간편 송금, 신분증 발급 신청까지 가능하다. 특히 토스뱅크는 조건 없이 이자 지급이 가능한 통장을 제공하며, 자동화된 재정관리 기능도...",
+      "pubDate": "2026-07-13T00:12:00+00:00",
+      "category": "토스페이",
+      "source": "위키트리"
+    },
+    {
       "title": "에어비앤비, 카카오페이·대한항공과 손잡고 \"항공권부터 숙소까지 한번...",
       "link": "https://www.econovill.com/news/articleView.html?idxno=744989",
       "originallink": "https://www.econovill.com/news/articleView.html?idxno=744989",
@@ -1843,7 +2050,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -2320,7 +2527,7 @@
       "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 한 번 조정됐다. 공정거래위원회 심사와 금융당국 신고 절차를 고려해 거래 마무리에 필요한 시간을 추가로 확보하기 위한 조치다....",
       "pubDate": "2026-07-06T12:10:00+00:00",
       "category": "네이버페이",
-      "source": "미디어파인"
+      "source": "mediafine"
     },
     {
       "title": "두나무-네이버파이낸셜 주식교환 또 연기...12월 말 예정",
@@ -2329,7 +2536,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -6325,7 +6532,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -7414,7 +7621,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "datanews"
+      "source": "데이터뉴스"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -7468,7 +7675,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -10558,5 +10765,5 @@
       "source": "게임뷰"
     }
   ],
-  "lastFetch": "2026-07-13T00:07:41.355701+00:00"
+  "lastFetch": "2026-07-14T00:05:17.993403+00:00"
 }
