@@ -1,6 +1,195 @@
 {
   "articles": [
     {
+      "title": "토스, 첫 '금융복합기업집단' 지정…빅테크도 '그룹 감독' 시대",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=745368",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=745368",
+      "description": "출범 초기 간편송금 서비스로 시작했던 토스는 토스뱅크와 토스증권, 전자결제, 대출중개 등으로 사업을 확대하며 은행과 증권, 핀테크를 아우르는 종합 금융플랫폼으로 성장했다. 이번 지정은 금융당국이 토스를 개별...",
+      "pubDate": "2026-07-15T23:54:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "쿠콘, 토스 단말기에 글로벌 페이 서비스 연동...국민연금공단 공공신탁...",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=315315",
+      "originallink": "http://www.wsobi.com/news/articleView.html?idxno=315315",
+      "description": "쿠콘은 토스플레이스 단말기에 글로벌 페이 서비스를 연동했으며 국민연금공단의 공공신탁 사업에 금융 인프라를 공급하며 사회적 가치와 디지털 혁신을 동시에 강화했다. 쿠콘이 토스플레이스 결제 단말기에 50여 개의...",
+      "pubDate": "2026-07-15T23:20:00+00:00",
+      "category": "토스페이",
+      "source": "sobi"
+    },
+    {
+      "title": "쿠콘, 토스플레이스 단말기에 50여 글로벌 페이 연동…외국인 결제 편의...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3637074",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3637074",
+      "description": "쿠콘이 토스플레이스 단말기에 글로벌 페이 서비스를 연동해 외국인 관광객 결제 접점을 확대했다.(출처=쿠콘) 쿠콘은 15일 토스플레이스 결제 단말기에 50여 개 글로벌 페이 서비스를 연동해 서울을 찾는 외국인 관광객의...",
+      "pubDate": "2026-07-15T08:48:00+00:00",
+      "category": "토스페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "토스, 첫 금융복합기업집단 지정…빅테크 첫 감독 대상",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425203",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425203",
+      "description": "토스가 빅테크 금융그룹 가운데 처음으로 금융복합기업집단에 지정됐다. 간편결제 플랫폼을 넘어 은행과 증권을 아우르는 종합금융그룹으로 성장하면서 금융당국의 그룹 단위 감독 체계에 편입된 것이다. 금융위원회는...",
+      "pubDate": "2026-07-15T08:26:00+00:00",
+      "category": "토스페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "베트남 NCB, 외국인 관광객용 간편 국제 QR 결제 서비스 '비엣QR 글로벌...",
+      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1096217",
+      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1096217",
+      "description": "지원 국가파트너십 금융사 및 모바일 간편결제 브랜드 대한민국 (South Korea)네이버페이(Naver Pay), GLN(하나금융그룹 및 하나은행 계열) 중국 (China)알리페이(Alipay), 유니온페이(UnionPay) 동남아 주요국태국, 라오스...",
+      "pubDate": "2026-07-15T07:50:00+00:00",
+      "category": "간편결제",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)"
+    },
+    {
+      "title": "명륜진사갈비, 카카오페이 큐알오더 도입…오천원 즉시할인",
+      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260715001605164",
+      "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260715001605164",
+      "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 비대면 주문 서비스를 도입하고 할인 프로모션을 진행한다.㈜명륜당은 명륜진사갈비 매장에 '카카오페이 QR오더' 서비스를 도입했다고 15일 밝혔다.카카오페이 QR오더는...",
+      "pubDate": "2026-07-15T07:12:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아투데이"
+    },
+    {
+      "title": "네이버도 뛰어든 스테이블코인 결제…핀테크 ‘차세대 결제망’ 경쟁 본...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006330934?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04713366645514848",
+      "description": "네이버파이낸셜이 향후 레인의 기술을 활용하면 비자(Visa) 결제망을 기반으로 스테이블코인 결제 서비스를 제공할 수 있는 기반을 마련하게 된다. 업계에서는 네이버파이낸셜이 두나무와의 합병에 성공할 경우...",
+      "pubDate": "2026-07-15T06:58:00+00:00",
+      "category": "간편결제",
+      "source": "이데일리"
+    },
+    {
+      "title": "\"카카오페이 QR오더로 간편하게\" 명륜진사갈비, 5천원 즉시 할인 프로모...",
+      "link": "http://www.hortitimes.com/news/articleView.html?idxno=34274",
+      "originallink": "http://www.hortitimes.com/news/articleView.html?idxno=34274",
+      "description": "사진=명륜진사갈비 제공 최근 업계에서 비대면 주문 서비스가 빠르게 확산되는 가운데 ㈜명륜당이 운영하는 숯불돼지갈비 전문 브랜드 명륜진사갈비도 고객의 주문 편의성을 높이기 위해 '카카오페이 QR오더' 서비스를...",
+      "pubDate": "2026-07-15T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "월간원예"
+    },
+    {
+      "title": "간편결제 커질수록 부정결제 고도화…금감원 \"소비자 보호 중요\"",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307084",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=307084",
+      "description": "이어 쿠팡페이 7건, 3008만원, 비즈플레이 6건, 1987만원, 롯데멤버스 3건, 328만원, 비바리퍼블리카 3건, 221만원... 금융보안원은 지난달 카카오뱅크·토스뱅크·케이뱅크 등 인터넷은행 3사와 보이스피싱 탐지 AI...",
+      "pubDate": "2026-07-15T06:36:00+00:00",
+      "category": "간편결제",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "[현장] \"규제는 업계가 자초한다\"…금감원, 간편결제 '최후경고'",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716500",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1716500",
+      "description": "회의장에는 네이버파이낸셜과 카카오페이, 비바리퍼블리카(토스) 등 주요 결제사업자 관계자들이 참석했다. 참석자들은 부정결제 대응을 개별 기업 차원의 문제가 아닌 업권 전체의 생존과 신뢰가 걸린 공동 과제로...",
+      "pubDate": "2026-07-15T06:14:00+00:00",
+      "category": "간편결제",
+      "source": "EBN"
+    },
+    {
+      "title": "[현장] \"간편결제 신뢰 지키자\"…PG업계, 부정결제 공동 대응 첫발",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=266669",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=266669",
+      "description": "협의체에는 네이버파이낸셜과 카카오페이, 비바리퍼블리카(토스), 당근페이, 헥토파이낸셜, 쿠콘 등 주요 PG사가 참여했다. 금융보안원과 FDS·AML 분야 실무·학계 전문가들도 자문위원으로 합류했다. 이종오 금감원...",
+      "pubDate": "2026-07-15T06:06:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "간편결제 노린 '온라인 부정결제' 막는다…금감원, PG사 공동 대응",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=79934",
+      "originallink": "http://www.newsfc.co.kr/news/articleView.html?idxno=79934",
+      "description": "출범식에는 금감원과 핀산협을 비롯해 네이버파이낸셜, 카카오페이, 비바리퍼블리카, 당근페이, 헥토파이낸셜, 쿠콘 등 주요 PG사가 참석했다. 이 부원장보는 \"부정결제로 인한 소비자 피해가 반복되고 있다\"며 \"PG사 등이...",
+      "pubDate": "2026-07-15T06:00:00+00:00",
+      "category": "간편결제",
+      "source": "금융소비자뉴스"
+    },
+    {
+      "title": "쿠콘, 토스플레이스에 글로벌 페이 연동…외국인 결제시장 공략",
+      "link": "https://n.news.naver.com/mnews/article/092/0002430641?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260715145414",
+      "description": "쿠콘은 토스플레이스 결제 단말기에 글로벌 페이 서비스를 연동했다고 15일 밝혔다. 이를 통해 서울 소재 토스플레이스 단말기 이용 매장에선 유니온페이와 위챗페이, 인도네시아 통합 QR 결제 시스템(QRIS) 등 50여 개 해외...",
+      "pubDate": "2026-07-15T05:55:00+00:00",
+      "category": "토스페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "온라인 부정결제 막는다…금감원·핀테크업계 '대응 협의체' 출범",
+      "link": "https://n.news.naver.com/mnews/article/138/0002234284?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026071514483075646",
+      "description": "간편결제 확산과 함께 온라인 부정결제 범죄가 지능화·다양화되자 금융감독원과 핀테크 업계가 공동 대응에 나섰다. 업계는 협의체를 출범해 부정결제 예방·대응 체계를 구축하고, 하반기 중 표준 실무지침을 마련할...",
+      "pubDate": "2026-07-15T05:53:00+00:00",
+      "category": "간편결제",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "간편결제 노린 부정결제 막는다…금감원, PG사 공동 대응체계 구축",
+      "link": "https://n.news.naver.com/mnews/article/018/0006330802?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=04178726645514848",
+      "description": "이날 출범식에는 금감원과 핀산협을 비롯해 네이버파이낸셜, 카카오페이, 비바리퍼블리카, 당근페이, 헥토파이낸셜, 쿠콘 등 주요 PG사가 참석했다. 이종오 금감원 디지털·IT 부원장보는 “온라인 결제가 일상화된...",
+      "pubDate": "2026-07-15T05:02:00+00:00",
+      "category": "간편결제",
+      "source": "이데일리"
+    },
+    {
+      "title": "간편결제 이용자 보호…'온라인 부정결제 대응협의체' 출범",
+      "link": "https://n.news.naver.com/mnews/article/003/0014068562?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260715_0003710239",
+      "description": "최근 인증절차 간소화 등으로 간편결제의 편의성은 높아졌으나, 개인정보 탈취 등에 의한 부정결제도 점차 증가함에 따라 결제 안정성을 높이고 부정결제로부터 이용자를 보호하고자 개선방안을 모색하기로 했다....",
+      "pubDate": "2026-07-15T05:00:00+00:00",
+      "category": "간편결제",
+      "source": "뉴시스"
+    },
+    {
+      "title": "쿠콘, 토스플레이스에 글로벌 페이 연동…외국인 결제 편의 확대",
+      "link": "https://n.news.naver.com/mnews/article/021/0002804925?sid=101",
+      "originallink": "https://www.munhwa.com/article/11602894?ref=naver",
+      "description": "유니온페이·위챗페이 등 50여 개 간편결제 서울 가맹점서 이용 가능 추가 단말기 없이 도입…소상공인 매출 확대 기대 쿠콘 제공 비즈니스 데이터 플랫폼 기업 ‘쿠콘‘이 토스플레이스 단말기를 사용하는 서울 지역...",
+      "pubDate": "2026-07-15T04:45:00+00:00",
+      "category": "토스페이",
+      "source": "문화일보"
+    },
+    {
+      "title": "\"외국인 결제 원단말 해결\"…쿠콘, 토스플레이스에 글로벌페이 연동",
+      "link": "https://n.news.naver.com/mnews/article/421/0009060528?sid=101",
+      "originallink": "https://www.news1.kr/industry/sb-founded/6228778",
+      "description": "웹케시(053580)의 비즈니스 데이터 플랫폼 기업 쿠콘(294570)이 토스의 오프라인 결제 플랫폼 '토스플레이스'에 글로벌 페이 서비스를 얹어 한국을 찾은 외국인 관광객들의 QR 결제 편의를 높이고 있다. 15일 업계에 따르면...",
+      "pubDate": "2026-07-15T01:46:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "쿠콘, 토스플레이스 단말기에 글로벌 결제 연동",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684208",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684208",
+      "description": "쿠콘이 토스플레이스 결제 단말기에 50여개 글로벌 간편결제 서비스를 연동한다. 기존 단말기만으로 방한 외국인의 모바일 결제를 받을 수 있도록 해 소상공인의 해외 고객 유치와 결제 편의성을 높인다는 계획이다....",
+      "pubDate": "2026-07-15T01:36:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "쿠콘, 토스플레이스 단말기에 50여개 글로벌 페이 서비스 연동",
+      "link": "https://n.news.naver.com/mnews/article/018/0006330526?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03138966645514848",
+      "description": "비즈니스 데이터 플랫폼 기업 쿠콘(294570)이 토스플레이스 결제 단말기에 50여개의 글로벌 페이 서비스를 연동해 방한 외국인 관광객의 국내 결제 편의성을 한층 높였다. 이번 연동으로 서울 소재 토스플레이스 단말기...",
+      "pubDate": "2026-07-15T00:25:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "쿠콘, 토스플레이스에 글로벌 페이 50종 연동",
+      "link": "https://n.news.naver.com/mnews/article/030/0003447872?sid=101",
+      "originallink": "https://www.etnews.com/20260715000059",
+      "description": "쿠콘이 토스플레이스 결제 단말기에 50여개 글로벌 페이 서비스를 연동했다. 이번 연동으로 서울 소재 토스플레이스 단말기 이용 매장에서는 △유니온페이 △위챗페이 △인도네시아 통합 QR 결제 시스템(QRIS)를 비롯한...",
+      "pubDate": "2026-07-15T00:19:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
       "title": "쿠콘, 토스플레이스에 글로벌 간편결제 연동…\"소상공인 매출 확대\"",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1391605",
       "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1391605",
@@ -1229,6 +1418,15 @@
       "link": "https://www.sjsori.com/news/articleView.html?idxno=87502",
       "originallink": "https://www.sjsori.com/news/articleView.html?idxno=87502",
       "description": "카카오페이의 고객정보 알리페이 제공 의혹이 형사수사 국면으로 넘어갔다. 고객 약 4천만명의 개인정보 542억건이 중국 간편결제 서비스 알리페이에 제공된 것으로 드러난 가운데, 경찰은 단순 정보 제공 여부를 넘어...",
+      "pubDate": "2026-07-09T07:40:00+00:00",
+      "category": "카카오페이",
+      "source": "더 투데이"
+    },
+    {
+      "title": "[이슈]카카오페이 '4천만명 정보' 결국 압수수색…알리페이 제공 누가 ...",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=87502",
+      "originallink": "https://www.the-today.com/news/articleView.html?idxno=87502",
+      "description": "해당 정보는 애플이 알리페이에 위탁한 'NSF 점수' 산출 모델 구축에 활용된 것으로 조사됐다. NSF 점수는 애플 서비스 이용자의 결제 대금 부족 가능성을 평가하기 위한 일종의 고객별 위험평가 지표다. 쟁점은 '업무위탁...",
       "pubDate": "2026-07-09T07:40:00+00:00",
       "category": "카카오페이",
       "source": "더 투데이"
@@ -2725,7 +2923,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -6721,7 +6919,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -7864,7 +8062,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -10954,5 +11152,5 @@
       "source": "게임뷰"
     }
   ],
-  "lastFetch": "2026-07-15T00:02:48.641939+00:00"
+  "lastFetch": "2026-07-16T00:08:07.794832+00:00"
 }
