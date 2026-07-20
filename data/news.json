@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "title": "BC카드, 금융결제원과 '맞손'… 국가간 QR결제 서비스 확대",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205149",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=205149",
+      "description": "BC카드는 지난해 대만 국가 표준 QR결제(TWQR)를 국내에 도입한 데 이어 올해 일본 간편결제 서비스 'au PAY'와 연동을 완료하는 등 국가 간 QR결제 사업을 추진해 왔다.",
+      "pubDate": "2026-07-20T02:04:00+00:00",
+      "category": "간편결제",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "핀테크주 차익실현 뚜렷... 전문가 \"실적기업 선별 투자해야\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469530",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469530",
+      "description": "네이버 증권. 핀테크 테마가 20일 약세를 나타내고 있다. 디지털 금융과 간편결제 시장의 성장 기대는... KG이니시스는 국내 전자결제 시장의 안정적인 사업 기반을 유지하고 있으며, 카카오는 카카오페이와 플랫폼...",
+      "pubDate": "2026-07-20T01:48:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "애플페이 추가 사업자 연내 난망…국내 결제망 확장 '제동'",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1716926",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1716926",
+      "description": "애플페이 추가 사업자가 올해 안에 나오기는 어려울 전망이다. 신한카드와 KB국민카드가 서비스 도입을 준비하고도 출시 시점을 정하지 못하고 있다. 현대카드만으로는 애플페이 결제망을 넓히는 데 한계가 있다는...",
+      "pubDate": "2026-07-20T01:48:00+00:00",
+      "category": "애플페이",
+      "source": "EBN"
+    },
+    {
+      "title": "결제·금융·플랫폼 다 좋지만 … 카카오페이, 찐 기대는 '스테이블코인...",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60064",
+      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60064",
+      "description": "스테이블코인 제도화 성큼 카카오-카카오뱅크-카카오페이, 그룹 시너지 기대 사진=카카오페이 [디지털포스트(PC사랑)=김호정 기자 ] 카카오페이가 결제·금융 사업부문이 동반 성장하며 2분기에도 실적 상승세를...",
+      "pubDate": "2026-07-20T01:28:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털포스트(PC사랑)"
+    },
+    {
+      "title": "토스, SBI저축은행과 포용금융 협약...핀테크 대안신용평가 확산",
+      "link": "https://www.news2day.co.kr/article/20260720500043",
+      "originallink": "https://www.news2day.co.kr/article/20260720500043",
+      "description": "'토스스코어' 활용 중금리대출 카카오뱅크·카카오페이도 속도 당국 압박 속 업권 전반 확산 위 이미지는 기사 이해를 돕기 위해 AI(인공지능)를 활용해 제작했습니다. [그림=Gemini] [뉴스투데이=김태규 기자] 핀테크...",
+      "pubDate": "2026-07-20T00:50:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "토스플레이스, 서울사랑상품권 결제 지원",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=851052",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=851052",
+      "description": "토스플레이스 | 서울=한스경제 김종효 기자 | 토스플레이스가 서울사랑상품권 결제 지원 서비스를 시작했다. 토스플레이스는 서울시와 협력해 토스 프론트 단말기에서 서울페이 QR을 바로 띄우는 기능을 도입했다고 20일...",
+      "pubDate": "2026-07-20T00:40:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "BC카드, 금융결제원과 글로벌 QR망 연계…방한 외국인 간편결제 기반 확...",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000097880",
+      "originallink": "https://www.seoultimes.news/news/article.html?no=2000097880",
+      "description": "한국을 찾는 외국인이 자국에서 사용하던 간편결제 앱을 별도 가입이나 설치 없이 국내에서도 이용할 수 있도록 기반을 마련해 관광객 편의와 가맹점의 해외 고객 유치 효과를 동시에 높이겠다는 전략이다. BC카드는...",
+      "pubDate": "2026-07-20T00:38:00+00:00",
+      "category": "간편결제",
+      "source": "seoultimes"
+    },
+    {
+      "title": "\"외국인 관광객, 국내서도 QR로 간편 결제\"⋯금융결제원, 비씨카드와 맞...",
+      "link": "https://www.etoday.co.kr/news/view/2605032",
+      "originallink": "https://www.etoday.co.kr/news/view/2605032",
+      "description": "이투데이=배근미 기자 | 비씨카드 30만 가맹점서 국가간 QR결제 서비스 이용 가능 금융결제원이 추진 중인 '국가간 QR결제 서비스'에 비씨카드가 전격 합류한다. 금융결제원과 비씨카드는 최근 외국 관광객의...",
+      "pubDate": "2026-07-20T00:14:00+00:00",
+      "category": "간편결제",
+      "source": "이투데이"
+    },
+    {
+      "title": "카카오페이, 실적 고성장 속 스테이블코인 제도화 기대감 '주목'…\"관심...",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=740696",
+      "originallink": "http://www.newsprime.co.kr/news/article.html?no=740696",
+      "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
+      "pubDate": "2026-07-19T22:52:00+00:00",
+      "category": "카카오페이",
+      "source": "프라임경제"
+    },
+    {
+      "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
+      "link": "https://n.news.naver.com/mnews/article/018/0006332774?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=01243126645516488",
+      "description": "한국투자증권은 카카오페이(377300)에 대해 2분기 실적이 시장 기대치를 웃도는 가운데 하반기에는 스테이블코인 제도화 기대감도 반영될 것으로 전망했다. 다만 높은 밸류에이션 부담을 감안해 투자의견은 ‘중립’을...",
+      "pubDate": "2026-07-19T22:43:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이와 NH농협은행, 데이터 동맹 맺고 대안신용평가 시장 키운다",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101162",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101162",
+      "description": "카카오페이가 NH농협은행과 손잡고 데이터와 인공지능을 활용한 대안신용평가 활성화에 나선다. 전통적인 신용정보에 의존하던 평가 방식을 넘어, 생활 금융 데이터와 비정형 정보를 결합한 새로운 신용평가 체계를...",
+      "pubDate": "2026-07-19T15:24:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "정진완號 우리은행, AI 전세진단·외국인 결제…핀테크 협업 강화",
+      "link": "https://www.fntimes.com/html/view.php?ud=202607162237295486dd55077bc2_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202607162237295486dd55077bc2_18",
+      "description": "여권 정보와 결제수단을 한 차례 등록하면 이동·배달·쇼핑 등 국내 주요 생활 플랫폼에서 별도 추가 인증 없이 간편결제를 이용할 수 있도록 설계한다. 외국인이 자국 화폐로 충전해 국내에서 사용할 수 있는 전용...",
+      "pubDate": "2026-07-19T15:02:00+00:00",
+      "category": "간편결제",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "토스 단말기에 스캔만 하면…앱 안열고도 서울페이 결제",
+      "link": "https://n.news.naver.com/mnews/article/009/0005709192?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12101795",
+      "description": "비바리퍼블리카(토스)의 결제 단말기·포스 솔루션 공급 자회사 토스플레이스가 서울사랑상품권 결제를 보다 편리하게 이용할 수 있는 서비스를 선보였다고 19일 밝혔다. 앞으로 서울 지역 토스 프론트 단말기를...",
+      "pubDate": "2026-07-19T08:19:00+00:00",
+      "category": "토스페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "\"단말기서 바로 QR\"…토스플레이스, 서울사랑상품권 지원",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=533689",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=533689",
+      "description": "|중앙이코노미뉴스 정재혁 기자|비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스는 서울사랑상품권 결제를 한층 편리하게 이용할 수 있는 새 서비스를 내놨다고 17일 밝혔다. [사진...",
+      "pubDate": "2026-07-19T05:16:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "토스플레이스, 단말기 화면으로 '서울사랑상품권' 바로 결제 서비스",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042040",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042040",
+      "description": "토스플레이스는 서울시와 손잡고 서울사랑상품권 결제를 보다 편리하게 이용할 수 있는 서비스를 출시했다고 19일 밝혔다. 이번 서비스 도입에 따라 서울 소재 토스 프론트 단말기 이용 매장에서는 결제 단계 시 단말기...",
+      "pubDate": "2026-07-19T03:38:00+00:00",
+      "category": "토스페이",
+      "source": "신아일보"
+    },
+    {
       "title": "토스플레이스, 서울페이 QR 단말기에서 바로 띄운다…서울사랑상품권 결...",
       "link": "https://www.newspim.com/news/view/20260719000002",
       "originallink": "https://www.newspim.com/news/view/20260719000002",
@@ -2896,7 +3031,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -3382,7 +3517,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -3805,7 +3940,7 @@
       "description": "국내 최대 암호화폐 거래소 업비트 운영사 두나무와 네이버파이낸셜의 통합 작업이 또다시 연기됐다. 업계에서는 단순한 일정 조정이라는 시각과 함께, 최근 거래량 감소로 위축된 국내 디지털자산 시장에서 규제...",
       "pubDate": "2026-07-06T07:40:00+00:00",
       "category": "네이버페이",
-      "source": "coinreaders"
+      "source": "코인리더스"
     },
     {
       "title": "두나무·네이버파이낸셜 주식교환 연말까지 연장",
@@ -6478,7 +6613,7 @@
       "description": "광주은행이 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 인프라 확대와 지역경제 활성화에 나선다. 광주은행(은행장 정일선)은 지난 24일 서울...",
       "pubDate": "2026-06-26T22:50:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "점심 장사 이어 저녁 장사까지…토스 포스 결제 장애",
@@ -6820,7 +6955,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -7225,7 +7360,7 @@
       "description": "배스킨라빈스 관계자는 \"간편결제 서비스를 이용하는 고객들에게 실질적인 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"여름철 고객들이 아이스크림을 보다...",
       "pubDate": "2026-06-24T04:36:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "카드업계, 공공지원·간편결제·생활혜택으로 고객 접점 넓혀",
@@ -7378,7 +7513,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -8521,7 +8656,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -11611,5 +11746,5 @@
       "source": "게임뷰"
     }
   ],
-  "lastFetch": "2026-07-19T00:04:49.377399+00:00"
+  "lastFetch": "2026-07-20T02:19:31.737851+00:00"
 }
