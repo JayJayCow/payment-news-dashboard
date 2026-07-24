@@ -1,6 +1,501 @@
 {
   "articles": [
     {
+      "title": "네이버페이, 'Npay 연금' 서비스 오픈…\"연금 자산 모아 AI 솔루션 제공...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=312460",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=312460",
+      "description": "일찍부터 노후를 준비하는 스마트 자산관리 수요가 확산되는 가운데, 네이버페이가 마이데이터와 AI 기술을 접목한 특화 서비스를 전격 출시했다. 네이버페이가 흩어져 있는 연금 자산을 한 곳에서 조회하고, AI 기반의...",
+      "pubDate": "2026-07-23T21:44:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "네이버페이, 'Npay 연금' 오픈…흩어진 연금 한 곳에서 확인",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=141391",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=141391",
+      "description": "네이버페이가 'Npay 연금' 서비스를 오픈했다. 사진=네이버페이  네이버페이(Npay, 대표 박상진)가 지난 23일 연금 자산을 한 곳에서 조회하고 AI(인공지능) 기반의 맞춤형 연금 관리 솔루션으로 노후 준비를 돕는 'Npay 연금...",
+      "pubDate": "2026-07-23T15:38:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "[금융] 우리은행 네이버페이 연금상담 / ABL생명 취약계층 삼계탕 나눔",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243768",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243768",
+      "description": "◼︎ 우리은행, 네이버페이서 개인형 퇴직연금 상담 우리은행은 23일 네이버페이와 제휴해 개인형 퇴직연금 상담 서비스를 선보였다고 밝혔다. 시중은행 가운데 네이버페이와 개인형 퇴직연금 상담 분야에서 협력한...",
+      "pubDate": "2026-07-23T13:40:00+00:00",
+      "category": "네이버페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "[기획] 애플페이 시대에도 삼성카드가 '삼성월렛'을 붙잡는 이유",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807568",
+      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=807568",
+      "description": "애플페이와 네이버페이, 카카오페이 등 간편결제가 빠르게 자리 잡으면서 카드사의 경쟁 방식도 달라지고 있다. 실물카드 발급보다 스마트폰 안에서 얼만큼 자주 쓰이느냐가 더 중요해졌다. 삼성카드도 삼성월렛을...",
+      "pubDate": "2026-07-23T13:10:00+00:00",
+      "category": "삼성페이",
+      "source": "오늘경제"
+    },
+    {
+      "title": "우리은행, 네이버페이에 퇴직연금 상담창구 열었다",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=277763",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=277763",
+      "description": "우리은행은 네이버페이와 제휴해 개인형IRP 상담 서비스를 선보였다고 23일 밝혔습니다. 이번 제휴로 우리은행은 개인형IRP 상담 서비스 분야에서 시중은행 중 유일하게 네이버페이와 협력하게 됐습니다. 이용자는...",
+      "pubDate": "2026-07-23T11:56:00+00:00",
+      "category": "네이버페이",
+      "source": "팍스경제TV"
+    },
+    {
+      "title": "우리은행, 네이버페이와 퇴직연금 상담서비스 협력",
+      "link": "https://n.news.naver.com/mnews/article/032/0003460037?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202607232033035",
+      "description": "우리은행은 네이버페이와 제휴해 개인형IRP(퇴직연금) 상담서비스를 시작했다고 23일 밝혔다. 네이버페이에 신설된 ‘연금홈’에 접속해 우리은행 연금 상담을 선택하면 전문 상담사와 비대면으로 개인형IRP 상품 운용...",
+      "pubDate": "2026-07-23T11:33:00+00:00",
+      "category": "네이버페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "네이버페이 연금 서비스 개시… 우리銀과 제휴 전문가 상담도",
+      "link": "https://n.news.naver.com/mnews/article/022/0004145427?sid=101",
+      "originallink": "https://www.segye.com/newsView/20260723519894?OutUrl=naver",
+      "description": "네이버페이가 여러 곳에 흩어진 개인연금, 퇴직연금(IRP·DC), 국민연금을 한곳에서 조회하고 인공지능(AI) 기반 맞춤형 조언을 받을 수 있는 ‘Npay(엔페이) 연금’ 서비스를 시작했다고 23일 밝혔다. 이 서비스를...",
+      "pubDate": "2026-07-23T11:28:00+00:00",
+      "category": "네이버페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "[금융] 네이버페이 연금관리 / 우리자산신탁 분당 재건축 / KB국민카드 ...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243511",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2243511",
+      "description": "◼︎ 네이버페이, 인공지능 기반 통합 연금관리 서비스 출시 네이버페이는 23일 개인·퇴직·공적연금 등 여러 기관에 흩어진 연금 자산을 한곳에서 관리할 수 있는 '네이버페이 연금' 서비스를 출시했다고 밝혔다....",
+      "pubDate": "2026-07-23T11:20:00+00:00",
+      "category": "네이버페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "한국투자증권, 네이버페이와 1:1 연금 상담 서비스 선봬",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=98101",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=98101",
+      "description": "한국투자증권은 네이버페이(Npay)와 제휴를 맺고 플랫폼 내에서 연금 상담을 신청할 수 있는 서비스를 출시했다. 사진=한국투자증권  연금 자산관리 서비스를 비대면으로 이용하려는 수요가 늘면서 금융사들이 플랫폼을...",
+      "pubDate": "2026-07-23T10:02:00+00:00",
+      "category": "네이버페이",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "우리銀, 네이버페이에 퇴직연금 상담 창구 마련",
+      "link": "https://n.news.naver.com/mnews/article/014/0005552179?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607231819071552",
+      "description": "우리은행이 네이버페이에 퇴직연금 상담창구를 마련해 고객 접근성을 한층 끌어올렸다. 우리은행은 네이버페이와 제휴해 개인형IRP 상담 서비스를 선보인다고 23일 밝혔다. 시중은행 중 처음으로 개인형 퇴직연금(IRP)...",
+      "pubDate": "2026-07-23T09:21:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오·토스 글로벌 핀테크기업 서클과 업무협약, 원화 스테이블코인 ...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443018",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443018",
+      "description": "프레빈 필레이 서클 금융파트너십 시니어디렉터와 류태욱 카카오 부사장, 신원근 카카오페이 대표, 단테 디스파르테 서클 최고전략책임자 겸 글로벌 정책 총괄, 송호근 카카오뱅크 부행장, 얌키 찬 서클 APAC 총괄, 손경희...",
+      "pubDate": "2026-07-23T09:18:00+00:00",
+      "category": "토스페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "상반기 영업이익 16% 뛴 현대카드…애플페이 타고 해외 결제 '1위'",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83628",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=83628",
+      "description": "인더스트리뉴스 김은경 기자  현대카드가 영업이익 증가와 애플페이 결제 확대에 힘입어 올해 상반기 두 자릿수 당기순이익 증가율을 기록했다. 현대카드는 23일 경영실적 발표를 통해 올해 상반기...",
+      "pubDate": "2026-07-23T09:14:00+00:00",
+      "category": "애플페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "카카오페이證 \"K주식 세계화…1인 1투자 에이전트 제공\"",
+      "link": "https://n.news.naver.com/mnews/article/009/0005711485?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12105760",
+      "description": "신호철 대표 기자간담회 카카오페이증권이 올 하반기부터 인공지능(AI) 투자 에이전트와 해외 투자자 대상 국내 주식 서비스를 핵심 경영 목표로 삼고 본격적인 사업 확장에 나선다. 신호철 카카오페이증권 대표는 23일...",
+      "pubDate": "2026-07-23T08:51:00+00:00",
+      "category": "카카오페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "현대카드, 상반기 순익 1852억 전년比 15.7%↑ '애플페이 효과'",
+      "link": "https://www.g-enews.com/view.php?ud=202607231715194308a6e8311f64_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202607231715194308a6e8311f64_1",
+      "description": "애플페이 등 결제 편의성 덕도 봤다. 상반기 해외 이용금액은 2조128억원으로 나타났다. 2분기 순이익은 전년 동기(1041억원) 대비 15.7% 증가한 1205억원을 기록했다. 개인과 법인의 신용판매가 이 기간 4.6...",
+      "pubDate": "2026-07-23T08:44:00+00:00",
+      "category": "애플페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "\"K주식 24시간 거래\"…카카오페이證, 토큰화 승부수",
+      "link": "https://n.news.naver.com/mnews/article/215/0001259774?sid=101",
+      "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230385&t=NNv",
+      "description": "＜앵커＞ 카카오페이증권이 미국 금융사와 손잡고 한국 주식 토큰화를 추진합니다. 미국 투자자가 토큰화된 한국 주식을 24시간 거래할 수 있게 되는 겁니다. 여기에 AI 기반 맞춤형 투자 서비스까지 더해 종합...",
+      "pubDate": "2026-07-23T08:31:00+00:00",
+      "category": "카카오페이",
+      "source": "owtv"
+    },
+    {
+      "title": "우리은행, 네이버페이와 손잡고 개인형IRP 비대면 상담 서비스 출시",
+      "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=6606",
+      "originallink": "https://www.newscammp.co.kr/news/articleView.html?idxno=6606",
+      "description": "우리은행(은행장 정진완)은 네이버페이와 제휴해 개인형IRP(개인형 퇴직연금) 상담 서비스를 지난 22일 출시했다고 밝혔다. 이번 제휴를 통해 우리은행은 개인형IRP 상담 서비스 분야에서 시중은행 중 유일하게...",
+      "pubDate": "2026-07-23T08:22:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스캠프"
+    },
+    {
+      "title": "[현장] 카카오페이證, 투자자 2000만 시대 도전…\"AI로 투자 문턱 없앨 ...",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=114962",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=114962",
+      "description": "신호철 카카오페이증권 대표가 23일 여의도 콘래드 호텔에서 '2026 카카오페이증권 기자간담회'를 열고 3년 안에 이용자 2000만명 이상이 투자하는 '국민 투자 시대'를 열겠다고 포부를 밝혔다. 단순 계좌 확대를 넘어 설명...",
+      "pubDate": "2026-07-23T08:12:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "카카오페이·카카오뱅크까지 참여…카카오그룹, 스테이블코인 인프라 선...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=127466",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=127466",
+      "description": "카카오톡 플랫폼과 카카오페이·카카오뱅크의 금융 서비스 역량에 서클의 블록체인 결제 인프라를 결합해 차세대 디지털 금융 환경 변화에 대응한다는 계획이다. 카카오·카카오페이·카카오뱅크 등 카카오그룹은...",
+      "pubDate": "2026-07-23T08:10:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "써클과 손잡은 카카오·토스… 디지털 자산 주도권 ‘경쟁’",
+      "link": "https://n.news.naver.com/mnews/article/029/0003038598?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12074444?ref=naver",
+      "description": "카카오, 카카오페이, 카카오뱅크 등 카카오그룹은 23일 써클과 전략적 업무협약(MOU)을 맺고 원화 스테이블코인 등 블록체인 기반 결제 인프라와 디지털 자산 기술 분야의 협력에 나선다고 밝혔다. 같은 날 토스·토스뱅크...",
+      "pubDate": "2026-07-23T08:02:00+00:00",
+      "category": "토스페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "우리銀, 네이버페이 퇴직연금 상담창구 개설",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599605505124",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599605505124",
+      "description": "우리은행이 네이버페이와 손잡고 생활 플랫폼에서 퇴직연금 상담 서비스를 제공한다. 개인형 퇴직연금(IRP) 상담 분야에서 시중은행 가운데 처음으로 네이버페이와 협업에 나서며 디지털 연금 고객 접점 확대에...",
+      "pubDate": "2026-07-23T07:56:00+00:00",
+      "category": "네이버페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "한국투자증권, 네이버페이 연계 '연금 상담 서비스' 시작",
+      "link": "https://n.news.naver.com/mnews/article/008/0005390107?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/07/23/2026072316413114241",
+      "description": "한국투자증권은 네이버페이(Npay)와 제휴를 맺고 플랫폼 내에서 편리하게 1대1 맞춤형 연금 컨설팅을 받을 수 있는 '연금 상담 서비스'를 시작했다고 23일 밝혔다. 고객이 Npay 연금 메뉴 '연금 모르겠다면', '전문가...",
+      "pubDate": "2026-07-23T07:50:00+00:00",
+      "category": "네이버페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "우리은행, 네이버페이에 퇴직연금 상담창구 개설",
+      "link": "https://www.todayeconomic.com/news/article.html?no=31428",
+      "originallink": "https://www.todayeconomic.com/news/article.html?no=31428",
+      "description": "연금홈서 개인형 퇴직연금 비대면 상담…우리WON뱅킹 연계해 가입 지원 투데이e코노믹 = 우혜정 기자 | 우리은행이 네이버페이 이용자를 대상으로 개인형 퇴직연금 상담 서비스를 제공하며 비대면 연금시장 공략을...",
+      "pubDate": "2026-07-23T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "todayeconomic"
+    },
+    {
+      "title": "카카오페이證 \"K주식 토큰화\"…美 개미 국장 투자 물꼬 튼다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006335677?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=05208646645517472",
+      "description": "카카오페이증권이 미국 개인 투자자의 한국 주식 투자 접근성을 높이기 위해 주식 토큰화를 통한 투자 방안 마련을 추진한다. 미국 금융사 ‘시버트 파이낸셜’(Siebert Financial·이하 시버트)과 협력해 한국 주식을...",
+      "pubDate": "2026-07-23T07:43:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "한국투자증권, 네이버페이 '연금 상담 서비스' 오픈",
+      "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120011",
+      "originallink": "http://www.koreastocknews.com/news/articleView.html?idxno=120011",
+      "description": "한국투자증권(대표 김성환)은 네이버페이와 '연금 상담 서비스'를 오픈했다고 23일 밝혔다. 네이버페이 연금 메뉴에서 원하는 날짜와 시간대를 지정해 상담을 신청하면, 한국투자증권 상담원이 연락해 맞춤형 솔루션을...",
+      "pubDate": "2026-07-23T07:36:00+00:00",
+      "category": "네이버페이",
+      "source": "증권경제신문"
+    },
+    {
+      "title": "카카오·토스, 美 서클과 원화 스테이블코인 협력",
+      "link": "https://n.news.naver.com/mnews/article/422/0000888146?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260723163346I7y",
+      "description": "카카오와 카카오페이, 카카오뱅크 등 카카오그룹은 최근 서클과 블록체인 기반 결제 인프라와 디지털 자산 기술 분야의 협력을 위한 전략적 업무협약(MOU)을 체결했다고 오늘(23일) 밝혔습니다. 양측은 카카오그룹의 디지털...",
+      "pubDate": "2026-07-23T07:34:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "네이버페이에서 IRP 상담받고 가입까지…우리은행 서비스 선봬",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=312420",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=312420",
+      "description": "우리은행은 네이버페이와 제휴해 개인형IRP 상담 서비스를 선보인다고 23일 밝혔다. 이번 서비스는 네이버페이 내 새롭게 신설된 '연금홈'을 통해 이용할 수 있다. 이용자가 '연금홈'에서 우리은행 연금 상담을...",
+      "pubDate": "2026-07-23T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "플랫폼 울타리 넘나드는 네이버페이… '포인트 락인'으로 영토 확장",
+      "link": "https://www.asiatime.co.kr/article/20260723500363",
+      "originallink": "https://www.asiatime.co.kr/article/20260723500363",
+      "description": "네이버페이, 결제액 3년간 2배 가까이 상승 삼성페이·해외 결제·금융 서비스로 영역 확장 외부 결제로 쌓인 포인트로 '락인 효과' 톡톡 [아시아타임즈=김민솔 기자] 네이버페이가 '네이버 플랫폼'의 울타리를 넘어 온...",
+      "pubDate": "2026-07-23T07:24:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "우리은행, 네이버페이와 퇴직연금 상담 서비스 협력",
+      "link": "https://n.news.naver.com/mnews/article/032/0003459960?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202607231622001",
+      "description": "우리은행은 네이버페이와 제휴해 개인형IRP(퇴직연금) 상담서비스를 시작했다고 23일 밝혔다. 네이버페이에 신설된 ‘연금홈’에 접속해 우리은행 연금 상담을 선택하면 전문 상담사와 비대면으로 개인형IRP 상품 운용...",
+      "pubDate": "2026-07-23T07:22:00+00:00",
+      "category": "네이버페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "카카오페이 주가, 7월 23일 43,350원 5.22% 상승 마감",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16143972",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16143972",
+      "description": "23일 KRX 마감 기준, 네이버페이 증권에 따르면 카카오페이는 43,350원에 장을 마감하며 지난 종가 41,200원 대비 2,150원 상승(+5.22%)을 기록했다. 코스피 시장에서 카카오페이의 주가는 시가 40,950원으로...",
+      "pubDate": "2026-07-23T07:18:00+00:00",
+      "category": "카카오페이",
+      "source": "톱스타뉴스"
+    },
+    {
+      "title": "네이버페이, AI로 국민·퇴직·개인연금 한눈에…'Npay 연금' 출시",
+      "link": "https://n.news.naver.com/mnews/article/119/0003114268?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1670205/?sc=Naver",
+      "description": "네이버페이가 국민연금과 퇴직연금, 개인연금을 한 번에 조회하고 인공지능(AI) 기반으로 노후 준비 수준을 진단하는 통합 연금관리 서비스를 선보였다. 네이버페이는 연금 자산을 통합 조회하고 AI 기반 맞춤형 관리...",
+      "pubDate": "2026-07-23T07:10:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "네이버페이 ‘연금 서비스’ 오픈… 흩어진 연금, 한번에 확인해 AI 진단",
+      "link": "https://n.news.naver.com/mnews/article/366/0001181353?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/07/23/CXEEC67AUJHMDKIEQQDBAXTCOY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "네이버페이가 인공지능(AI) 기반 맞춤형 연금 관리 솔루션 ‘Npay 연금 서비스’를 23일 공개했다 Npay 연금 서비스를 이용하면 개인연금, 퇴직연금(IRP·DC)과 국민연금 등 공적연금을 모아 볼 수 있다. DB형 퇴직연금은...",
+      "pubDate": "2026-07-23T07:04:00+00:00",
+      "category": "네이버페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "한국투자증권, 네이버페이와 연금 상담 서비스 출시",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=257882",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=257882",
+      "description": "현대경제신문 최현서 기자 | 한국투자증권이 네이버페이와 손잡고 플랫폼에서 예약형 연금 상담 서비스를 선보인다. 디지털 플랫폼을 통해 연금 자산관리 접근성을 높이고 맞춤형 컨설팅을 확대하기 위한 취지다....",
+      "pubDate": "2026-07-23T07:02:00+00:00",
+      "category": "네이버페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털 금융 소식...카카오페이·토스·토스뱅크",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200262",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200262",
+      "description": "카카오페이가 글로벌 스테이블코인 기업 서클(Circle)과 차세대 디지털 자산 인프라 협력에 나선다. 토스와 토스뱅크는 서클과 스테이블코인 기반 결제 인프라 구축을 위한 전략적 업무협약을 체결했다. 토스뱅크는...",
+      "pubDate": "2026-07-23T07:00:00+00:00",
+      "category": "카카오페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "은행 앱 밖으로 나온 퇴직연금…우리은행, 네이버페이에 상담창구",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202607231555563776de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202607231555563776de3f0aa1be_7",
+      "description": "우리은행이 네이버페이에 퇴직연금 상담창구를 마련했다. 우리은행은 네이버페이와 제휴해 개인형IRP 상담 서비스를 선보였다고 23일 밝혔다. 이번 제휴는 개인형IRP 상담 서비스 분야에서 시중은행 중 우리은행이...",
+      "pubDate": "2026-07-23T06:58:00+00:00",
+      "category": "네이버페이",
+      "source": "더파워"
+    },
+    {
+      "title": "한국투자증권, 네이버페이 연금 상담 서비스…맞춤형 컨설팅 제공",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=79939",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=79939",
+      "description": "한국투자증권이 네이버페이와 손잡고 플랫폼에서 예약형 연금 상담 서비스를 선보인다. 고객이 원하는 시간에 전문 상담을 받을 수 있도록 해 연금 자산관리 접근성을 높인다는 계획이다. 한국투자증권은 네이버페이...",
+      "pubDate": "2026-07-23T06:58:00+00:00",
+      "category": "네이버페이",
+      "source": "PRESS9"
+    },
+    {
+      "title": "네이버페이, 국민·퇴직·개인연금 한눈에…AI 맞춤 진단 제공",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=267648",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=267648",
+      "description": "네이버페이가 국민연금과 퇴직연금, 개인연금 등 여러 기관에 흩어진 연금 자산을 한 번에 확인하고 인공지능(AI)을 통해 노후 준비 수준을 진단할 수 있는 서비스를 내놨다. 네이버페이는 AI 기반 연금 관리 서비스인...",
+      "pubDate": "2026-07-23T06:56:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "\"언제든지 1대1 맞춤형 상담\" 한투증권, 네이버페이 연계 '연금 상담 서...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=126487",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=126487",
+      "description": "한투증권이 네이버페이와 플랫폼 내에서 편리하게 1대 1 맞춤형 연금 컨설팅을 받을 수 있는 '연금 상담 서비스'를 출시했다.  [이미지 한투증권] 네이버페이에서 상담 시간을 정하면 한국투자증권의 연금 전문 상담원이...",
+      "pubDate": "2026-07-23T06:55:00+00:00",
+      "category": "네이버페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오·토스, 서클과 잇단 협력…스테이블코인 결제시장 주도권 경쟁 ...",
+      "link": "https://www.goodkyung.com/news/articleView.html?idxno=289487",
+      "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=289487",
+      "description": "23일 카카오와 카카오페이, 카카오뱅크는 서클과 전략적 업무협약(MOU)을 체결하고 블록체인 기반 결제 인프라와 디지털 자산 기술 분야에서 협력하기로 했다. 이에 앞서 22일 비바리퍼블리카(토스)와 토스뱅크도 서클과...",
+      "pubDate": "2026-07-23T06:40:00+00:00",
+      "category": "토스페이",
+      "source": "굿모닝경제"
+    },
+    {
+      "title": "\"주식으로 축하하는 2000만 투자 시대\"…카카오페이證, AI로 문턱 낮춘다",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3049951",
+      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3049951",
+      "description": "©AP신문(AP뉴스)/이미지 = 조수빈 기자 ▲신호철 카카오페이증권 대표이사가 23일 서울 영등포구 콘래드 서울에서 열린 '대한민국을 바꾸는 카카오페이증권의 세 가지 약속' 기자간담회에서 국내 투자 인구 현황을...",
+      "pubDate": "2026-07-23T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "AP신문 |  온라인뉴스미디어  에이피신문"
+    },
+    {
+      "title": "카카오·토스, 美 서클과 원화 스테이블코인 본격 협력(종합)",
+      "link": "https://n.news.naver.com/mnews/article/277/0005793818?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026072315364728829",
+      "description": "카카오와 카카오페이, 카카오뱅크 등 카카오그룹은 최근 서클과 블록체인 기반 결제 인프라와 디지털 자산 기술 분야의 협력을 위한 전략적 업무협약(MOU)을 체결했다고 23일 밝혔다. 협약에 따라 양사는 카카오그룹의...",
+      "pubDate": "2026-07-23T06:36:00+00:00",
+      "category": "토스페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "'서클'과 손잡은 카카오·토스… 스테이블코인 결제 경쟁 본격화",
+      "link": "https://n.news.naver.com/mnews/article/008/0005390021?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/07/24/2026072315213769250",
+      "description": "카카오그룹은 카카오톡 플랫폼에 카카오페이와 카카오뱅크 금융 역량을 결합해 원화 기반 디지털 자산 및 토큰화 금융 서비스 사업 기회를 찾는다. 서클의 인프라를 활용한 글로벌 결제, 해외 송금, 가맹점 정산과...",
+      "pubDate": "2026-07-23T06:31:00+00:00",
+      "category": "토스페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이, 결제 넘어 금융사 도약…'스테이블코인' 얹어 판 키운다",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026072314270945913",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026072314270945913",
+      "description": "카카오페이가 증권 자회사 호조에 힘입어 금융서비스 성장을 이어가는 가운데, 결제 부문까지 동반 성장하며 올해 상반기 호실적을 예고하고 있다. 여기에 더해 원화 스테이블코인 법제화 움직임이 맞물려 그룹 내...",
+      "pubDate": "2026-07-23T06:14:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "토스·토스뱅크, 美 써클과 손잡았다···'원화 스테이블코인' 경쟁 본...",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=149240",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=149240",
+      "description": "| 스마트비즈 = 최형호 기자 | 토스와 토스뱅크가 세계 최대 스테이블코인 발행사 중 하나인 미국 써클(Circle)... 업계에서는 이번 협력이 국내 금융권의 디지털 결제 경쟁이 '간편결제'에서 '블록체인 기반 금융 인프라...",
+      "pubDate": "2026-07-23T06:14:00+00:00",
+      "category": "토스페이",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "카카오페이證 \"내년 신생아 10만원 주식 지원…2000만 국민 투자시대 열...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=848102",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=848102",
+      "description": "카카오페이증권이 3년 내 투자 인구를 2000만명으로 확대하겠다는 목표를 제시했다. 이를 위해 신혼부부와 신생아에게 10만원 상당의 주식을 선물하고, 투자자 1인당 1개씩 'AI(인공지능) 에이전트'를 보급한다. 23일 신호철...",
+      "pubDate": "2026-07-23T06:04:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "카카오·토스, 서클과 원화코인 협력",
+      "link": "https://n.news.naver.com/mnews/article/011/0004644426?sid=101",
+      "originallink": "https://www.sedaily.com/article/20071017?ref=naver",
+      "description": "카카오·카카오페이·카카오뱅크와 토스·토스뱅크는 각각 서클과 블록체인 기반 결제 인프라 및 디지털 자산 기술 분야 협력을 위한 전략적 업무협약(MOU)을 체결했다고 23일 밝혔다. 이번 MOU를 통해 양측은 서클의 글로벌...",
+      "pubDate": "2026-07-23T05:41:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "[현장] 카카오페이 증권, '쉬운 투자' 앞세운 3대 전략 발표",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=283561",
+      "originallink": "https://www.onews.tv/news/articleView.html?idxno=283561",
+      "description": "카카오페이증권이 23일 서울 여의도에서 기자간담회를 열고 자본시장 참여 확대와 AI 투자 에이전트 구상을 소개했다.(사진=열린뉴스통신 최선혜 기자)  카카오페이증권이 AI 투자 에이전트 도입, 해외 개인투자자의 한국...",
+      "pubDate": "2026-07-23T05:36:00+00:00",
+      "category": "카카오페이",
+      "source": "열린뉴스통신"
+    },
+    {
+      "title": "카카오·토스, 美 서클과 협력…원화 스테이블코인 인프라 구축 추진",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7175589",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7175589",
+      "description": "지난 4월 경기도 판교 카카오페이 오피스를 방문한 제레미 알레어 서클 CEO(가운데)와 윤호영 카카오뱅크 대표(왼쪽), 신원근 카카오페이 대표. 사진=카카오 / 김규하 토스 최고사업책임자(왼쪽부터)와 단테 디스파르테...",
+      "pubDate": "2026-07-23T05:24:00+00:00",
+      "category": "토스페이",
+      "source": "주간한국"
+    },
+    {
+      "title": "카카오·토스, 서클과 맞손…원화 스테이블코인 인프라 구축 본격화",
+      "link": "https://n.news.naver.com/mnews/article/009/0005711235?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12105387",
+      "description": "카카오·카카오페이·카카오뱅크 등 카카오그룹은 서클과 전략적 업무협약(MOU)을 맺고 블록체인 기반 결제 인프라와 디지털 자산 기술 분야에서 협력하기로 했다고 23일 밝혔다. 같은 날 토스를 운영하는 비바리퍼블리카와...",
+      "pubDate": "2026-07-23T05:24:00+00:00",
+      "category": "토스페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "단순 PG사 탈피 다날, 통합 핀테크 플랫폼으로 체질 개선",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470874",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470874",
+      "description": "네이버 증권. 전자결제(전자화폐) 테마가 23일 시장을 크게 웃도는 흐름을 보이고 있다. 온라인 소비 확대와... 헥토파이낸셜 역시 기업 간 지급결제 서비스 성장 가능성이 부각되며 투자심리가 개선되는 모습이다. 핀테크...",
+      "pubDate": "2026-07-23T04:54:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "제주 공영관광지 도입 '제로페이' 간편결제 건수 대폭 증가",
+      "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320814",
+      "originallink": "https://www.jejudomin.co.kr/news/articleView.html?idxno=320814",
+      "description": "제주도는 도내 주요 공영관광지에 도입한 '제로페이' 간편결제가 2025년 4월 운영을 시작한 지 1년여 만에 결제 건수 2만 건, 결제 금액 1억원을 넘어섰다고 밝혔다. 특히 크루즈 관광객이 주로 찾는 주상절리대, 정방폭포...",
+      "pubDate": "2026-07-23T04:16:00+00:00",
+      "category": "간편결제",
+      "source": "제주도민일보"
+    },
+    {
+      "title": "우리은행, 네이버페이와 개인형IRP 상담 서비스 제휴",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131156",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=131156",
+      "description": "우리은행이 네이버페이와 서비스 제휴를 맺고 퇴직연금 상담을 비대면으로도 지원한다. 우리은행은 지난... 누구나 편리하게 이용할 수 있는 디지털 연금 서비스를 지속적으로 선보이겠다\"고 말했다. [파이낸셜신문=]",
+      "pubDate": "2026-07-23T03:36:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "카카오·토스, 나란히 서클과 손잡았다…스테이블코인 결제 선점 경쟁",
+      "link": "https://n.news.naver.com/mnews/article/417/0001152686?sid=101",
+      "originallink": "https://www.sidae.com/article/2026072310360037711",
+      "description": "카카오와 토스 모두 간편결제 플랫폼과 인터넷전문은행을 보유하고 있어 향후 제도가 마련되면 스테이블코인의 발행부터 유통, 결제, 정산까지 아우르는 생태계를 구축할 수 있다는 평가가 나온다. 다만 실제...",
+      "pubDate": "2026-07-23T01:55:00+00:00",
+      "category": "토스페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "한국투자증권, 네이버페이 연계 '연금 상담 서비스' 오픈",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1008909",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1008909",
+      "description": "네이버페이는 네이버가 제공하는 간편결제 금융 플랫폼이다. 온라인과 오프라인에서 결제할 수 있고 송금, 자산관리, 보험, 대출 비교, 증권 투자 등 다양한 금융 서비스를 하나의 앱에서 이용할 수 있다. 이번 서비스는...",
+      "pubDate": "2026-07-23T01:28:00+00:00",
+      "category": "네이버페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "[금융레이더]NH농협손해보험/신한카드/현대카드/KB국민카드/카카오페이",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231000124290201",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607231000124290201",
+      "description": "이 카드는 G마켓 결제 시 7% 스마일캐시를 적립해주며, G마켓 ‘꼭 멤버십’ 혜택을 더하면 최대 12%까지... 전달 물품은 삼계탕, 미역국 등 간편 보양식과 쌀, 반찬류 등 13종으로 구성됐다. 취약노인 마음잇기는 선정된...",
+      "pubDate": "2026-07-23T01:22:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "흑자 안착한 토스…'원앱'에 쇼핑·세무까지 담는다",
+      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=78078",
+      "originallink": "http://www.issuenbiz.com/news/articleView.html?idxno=78078",
+      "description": "최근에는 오프라인 가맹점 결제 솔루션 '토스플레이스'를 필두로 자영업자 대상 B2B 사업도 늘리고 있다. 토스는 확보한 이용자 수를 바탕으로 앱 체류 시간을 늘려 비이자 수익을 확대하는 전략을 쓰고 있다. 체류...",
+      "pubDate": "2026-07-23T00:18:00+00:00",
+      "category": "토스페이",
+      "source": "이슈앤비즈"
+    },
+    {
       "title": "우리은행, 네이버페이와 IRP 비대면 상담 서비스…연금 가입 편의성↑",
       "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123484",
       "originallink": "http://www.newscape.co.kr/news/articleView.html?idxno=123484",
@@ -529,7 +1024,7 @@
       "description": "토스뱅크는 실무형 사이버 보안 인재 양성을 위한 부트캠프 2기 모집에 나섰으며, 토스플레이스는 서울시와 협력해 서울사랑상품권 QR 결제를 지원한다. ◆ 토스, SBI저축은행과 포용금융 협약...중저신용자 대상...",
       "pubDate": "2026-07-20T07:54:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "배스킨라빈스, 네이버페이와 7월 '슈퍼 배라위크' 진행",
@@ -646,7 +1141,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -1654,7 +2149,7 @@
       "description": "카카오페이는 대한항공, 에어비앤비와 함께 일본 여행 특화 혜택을 담은 '해외여행 올-패스: 일본편'을 선보였다. ◆ 카카오뱅크, 개인사업자 부동산담보대출 '계산기' 출시 이벤트 카카오뱅크(대표 윤호영)가 개인사업자...",
       "pubDate": "2026-07-13T07:20:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[단독] '토스플레이스 vs KICC' 특허戰 2라운드…특허법원 간다",
@@ -2599,7 +3094,7 @@
       "description": "박상진 네이버파이낸설 대표, 이승건 비바리퍼블리카(토스) 대표, 이찬진 금융감독원장, 윤호중 행정안전부 장관, 채병득 금융결제원장, 신원근 카카오페이 대표./사진=금융감독원 제공 행안부는 9일 토스 신논현 사옥에서...",
       "pubDate": "2026-07-09T07:38:00+00:00",
       "category": "네이버페이",
-      "source": "mediapen"
+      "source": "미디어펜"
     },
     {
       "title": "[1분영상] \"가짜 신분증 안 통한다\"…네이버페이·카카오페이·토스, 진...",
@@ -2626,7 +3121,7 @@
       "description": "토스와 네이버페이, 카카오페이가 정부의 주민등록증 진위확인망을 활용해 비대면 금융거래 본인확인 체계 강화에 나선다. 왼쪽부터 이찬진 금융감독원장, 박상진 Npay 대표, 윤호중 행정안전부 장관, 이승건 토스 대표...",
       "pubDate": "2026-07-09T07:34:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "토스, 정부 주민등록증 진위확인 도입…비대면 금융보안 강화",
@@ -3589,7 +4084,7 @@
       "description": "네이버페이(Npay)는 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'의 시범 운영을 시작했다. ◆ 카카오페이, 다문화 청소년 디지털 금융교육 업무협약 체결 카카오페이가...",
       "pubDate": "2026-07-07T08:50:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "모험자본 투자 플랫폼 'Npay 스타트업' 출범…민관 협업",
@@ -3598,7 +4093,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -4399,7 +4894,7 @@
       "description": "토스뱅크 체크카드가 보유 고객 1000만명을 돌파하며 전 세대 일상 결제 카드로 자리 잡았다. [이미지=토스뱅크] 토스뱅크 체크카드는 지난 2021년 10월 출범과 함께 선보인 이후 간편한 발급 절차와 고객이 일상에서...",
       "pubDate": "2026-07-06T08:14:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "네이버파이낸셜·두나무 합병 또 연기…12월31일 주식교환 예정",
@@ -4642,7 +5137,7 @@
       "description": "또 토스플레이스와 함께 소상공인 결제환경 개선을 위한 이벤트를 진행하며, 우리WON모바일에서 7월 한 달간 통신비 부담을 낮추는 다양한 혜택을 제공한다. ◆ 우리은행, 데이터 기반 영업·내부통제 강화 조직개편 단행...",
       "pubDate": "2026-07-06T06:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "\"할부도 QR 결제로\"···유통家, 외국인 결제 서비스 경쟁 '속도'",
@@ -5326,7 +5821,7 @@
       "description": "네이버페이가 중소상공인희망재단과 손잡고 '앤페이(Npay) 커넥트'를 활용한 소상공인 디지털 전환 지원에 나선다. 토스는 농협목우촌 외식사업단과 협력해 페이스페이 사용처를 확대하고, 빗썸은 버그바운티 포상금을...",
       "pubDate": "2026-07-03T07:50:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "네이버페이, 종이고지서 QR로 관리비 즉시 납부 서비스 출시",
@@ -5551,7 +6046,7 @@
       "description": "직전 한 달 동안 카카오뱅크 통장에 50만 원 이상 입금한 고객 가운데 추첨을 통해 선정된 10명에게 200만 원을 지급하며, 이벤트 페이지에서 참여할 수 있다. 카카오뱅크 관계자는 “월급을 관리하고 저축하는 고객께...",
       "pubDate": "2026-07-02T07:40:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "생성형 AI 시대…핀테크 ESG도 '기술 책임'으로 진화",
@@ -5929,7 +6424,7 @@
       "description": "카카오페이가 영화 '와일드 씽' 속 화제 캐릭터 최성곤과 상시 할인 서비스 '굿딜'의 컬래버레이션 콘텐츠를 자사 유튜브와 인스타를 통해 공개했다. ◆ 카카오뱅크, 주택담보대출 중도상환해약금 면제 6개월 연장...",
       "pubDate": "2026-07-01T06:40:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "KT, 5G·LTE 경계 허문 통합요금제 출시…간편결제 이벤트까지",
@@ -6379,7 +6874,7 @@
       "description": "삼성카드는 포르쉐코리아와 제휴하여 다양한 공동 사업을 추진하며 카카오페이는 AI 중심 지속가능경영 전략과 성과를 담은 '2025 ESG 보고서'를 발간했다. ◆ 삼성카드, 포르쉐코리아와 전략적 제휴…프리미엄...",
       "pubDate": "2026-06-30T07:04:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "카카오페이, AI 전환과 지속가능경영 성과를 담은 ESG 보고서 발간 내용...",
@@ -7396,7 +7891,7 @@
       "description": "토스플레이스는 광주은행과 업무협약을 체결해 광주·전남 지역 소상공인 결제 환경 혁신에 나선다. ◆ 토스뱅크, 제7회 디지털금융포럼 '디지털금융 대상' 수상 토스뱅크(대표 이은미)가 지난 25일 부산 해운대구 그랜드...",
       "pubDate": "2026-06-26T01:44:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
@@ -8485,7 +8980,7 @@
       "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게' 2026 신규 입점사 온라인 기획전을 개최했다. 또 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만 돌파했다. ◆ 카카오뱅크, 인터넷전문은행 최초로...",
       "pubDate": "2026-06-23T01:40:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "롯데百, 유니온페이 손잡고 9월 전점에 QR·NFC 간편결제 도입",
@@ -9025,7 +9520,7 @@
       "description": "카카오페이는 시니어 디지털 정보격차 해소 공로로 과기부 장관 표창을 수상했으며, 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방 영상 캠페인에도 나섰다. ◆ 카카오뱅크, '지구 온난화 멈추기...",
       "pubDate": "2026-06-19T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스인사이트·토스플레...",
@@ -9034,7 +9529,7 @@
       "description": "◆ 토스플레이스, SK브로드밴드와 소상공인 통신·결제 결합 상품 출시 토스플레이스(대표 최재호)가 SK브로드밴드(사장 김성수)와 함께 소상공인 고객을 위한 통신·결제 결합 상품을 출시한다. 권정훈(왼쪽) SK브로드밴드...",
       "pubDate": "2026-06-19T07:54:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "SK브로드밴드, 토스플레이스와 맞손… 소상공인 지원 생태계 확장",
@@ -9169,7 +9664,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -9754,7 +10249,7 @@
       "description": "중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 협약식에는 이창호 중기중앙회 공제사업단장과...",
       "pubDate": "2026-06-18T08:04:00+00:00",
       "category": "간편결제",
-      "source": "신소재경제신문"
+      "source": "amenews"
     },
     {
       "title": "중기중앙회·간편결제진흥원 '노란우산 가입확산' 협력키로",
@@ -11320,7 +11815,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -12304,5 +12799,5 @@
       "source": "뉴시스"
     }
   ],
-  "lastFetch": "2026-07-23T00:14:56.602260+00:00"
+  "lastFetch": "2026-07-24T00:12:56.010089+00:00"
 }
