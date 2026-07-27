@@ -1,6 +1,105 @@
 {
   "articles": [
     {
+      "title": "LS證 \"카카오페이, 카카오 가상자산 허브 될 것…목표가 6만1000원\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0014089268?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260727_0003724051",
+      "description": "LS증권은 카카오페이를 카카오 생태계 확장의 핵심 축으로 꼽으며 투자의견 '매수'와 목표주가 6만1000원을 제시했다. 선유진 LS증권 연구원은 27일 리포트를 통해 \"카카오 생태계를 통한 이용자 기반 잠재력과, 지난해...",
+      "pubDate": "2026-07-26T23:58:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스 페이스페이, 동네마트 5000곳에 깔린다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=746223",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=746223",
+      "description": "카카오페이와 네이버페이가 온라인과 프랜차이즈 중심으로 결제 접점을 넓혀온 사이 토스는 얼굴 인증이라는 무기를 들고 동네 마트의 계산대를 노렸다. 지갑 없는 결제를 표방해온 페이스페이가 실제로 자리 잡을 수...",
+      "pubDate": "2026-07-26T23:38:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "토스, 전국 5000개 마트에 '페이스페이' 도입",
+      "link": "https://www.ajunews.com/view/20260727082926483",
+      "originallink": "https://www.ajunews.com/view/20260727082926483",
+      "description": "유통 포스 솔루션 기업 투게더스와 맞손 아주경제=권가림 기자 hidden@ajunews.com 지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장(왼쪽)과 서형석 투게더스 대표이사가 업무협약 기념 사진을 촬영하고...",
+      "pubDate": "2026-07-26T23:32:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "금융업계, 블록체인 기반 수출입 기업결제 서비스 출시...포용금융 특별...",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=315764",
+      "originallink": "http://www.wsobi.com/news/articleView.html?idxno=315764",
+      "description": "또한 우리은행은 네이버페이와 제휴해 개인형IRP 상담 서비스를 선보였다. KB국민은행은 JP모간 키넥시스(Kinexys by J.P. Morgan)의 블록체인 기반 결제 네트워크를 활용한 수출입 기업결제 서비스를 내달 중 출시한다고...",
+      "pubDate": "2026-07-26T23:28:00+00:00",
+      "category": "간편결제",
+      "source": "sobi"
+    },
+    {
+      "title": "\"장바구니 든 채 얼굴로 결제\"…토스, 전국 5000개 마트에 페이스페이 이...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83219",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83219",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 개최된 협약식에는 오규인 토스 부사장과 진필규 결제부문장, 서형석 투게더스 대표이사, 이경수 본부장 등 양사 핵심 관계자들이 참석해 상호 협력 체계를 다졌다....",
+      "pubDate": "2026-07-26T23:18:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "토스, 유통 POS사 투게더스와 MOU",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=714670",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=714670",
+      "description": "현금·카드·간편결제·NFC 등 여러 결제 수단을 통합 운영할 수 있어 운영 부담을 덜 수 있다. 양사는 페이스페이 도입을 시작으로 공동 프로모션과 마케팅 활동도 함께 검토해 나간다. 토스 생태계를 활용한 광고·마케팅...",
+      "pubDate": "2026-07-26T23:10:00+00:00",
+      "category": "토스페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "LS증권 “반도체 다음은 결제 플랫폼…정책·밸류·성장 삼박자”",
+      "link": "https://www.etoday.co.kr/news/view/2607568",
+      "originallink": "https://www.etoday.co.kr/news/view/2607568",
+      "description": "네이버는 네이버파이낸셜과 두나무의 결합을 추진하고 있으며 카카오도 카카오페이의 결제 인프라와 카카오뱅크의 금융 인허가 역량을 활용해 스테이블코인 생태계 확장을 준비하고 있다. LS증권은 인터넷...",
+      "pubDate": "2026-07-26T23:06:00+00:00",
+      "category": "간편결제",
+      "source": "이투데이"
+    },
+    {
+      "title": "토스 '해외주식 선도' 카카오페이 '맞춤형 자산관리'…테크핀 증권사 '...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202607242200061083dd55077bc2_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202607242200061083dd55077bc2_18",
+      "description": "토스증권과 카카오페이증권 등 테크핀(IT+금융) 증권사가 시장 내 ‘메기’ 역할을 넘어 종합증권사로의 도약을 준비하고 있다. 리테일 기반 고객 저변을 바탕으로 새로운 수익원을 발굴하며 사업 영역을 넓히는...",
+      "pubDate": "2026-07-26T15:02:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "웨이브릿지, 세계 핀테크 500선…韓 디지털자산 유일",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852482",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852482",
+      "description": "전체 선정 기업도 네이버, 카카오뱅크, 비바리퍼블리카(토스), 헥토파이낸셜, 웨이브릿지 등 5개사에 그쳤다. 웨이브릿지는 금융정보분석원(KoFIU)에 신고 수리를 받은 가상자산사업자(VASP)로, 기관 대상 디지털자산...",
+      "pubDate": "2026-07-26T07:20:00+00:00",
+      "category": "간편결제",
+      "source": "한스경제"
+    },
+    {
+      "title": "[정유신의 핀테크스토리]AI가 지갑을 여는 시대, 에이전틱 커머스의 개...",
+      "link": "https://n.news.naver.com/mnews/article/030/0003451004?sid=110",
+      "originallink": "https://www.etnews.com/20260726000097",
+      "description": "우선 빅테크 쪽에선 구글이 2025년 9월 페이팔, 아메리칸익스프레스 등과 함께 에이전트 결제 프로토콜(AP2)을... 4월엔 다날이 글로벌 협의체 에이전틱 AI 재단(AAIF)에 국내 기업 최초로 합류했고, 네이버도 네이버플러스...",
+      "pubDate": "2026-07-26T07:01:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "'간편 주식 거래' 핀테크 증권사…종합금융 향해 사업 확대",
+      "link": "https://n.news.naver.com/mnews/article/422/0000888965?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20260726102845dU7",
+      "description": "카카오페이증권이 투자 경험이 없는 사람들까지 자본시장으로 끌어들이기 위해 내놓은 서비스입니다. 기존 증권사 고객을 확보하는 데는 한계가 있는 만큼, 신규 투자자를 늘리는 데 공을 들이는 모습입니다. <신호철...",
+      "pubDate": "2026-07-26T01:29:00+00:00",
+      "category": "간편결제",
+      "source": "연합뉴스TV"
+    },
+    {
       "title": "이용 금액 최대 13% 적립… 9개월만에 250만명 모은 ‘삼성월렛’",
       "link": "https://n.news.naver.com/mnews/article/366/0001181903?sid=101",
       "originallink": "https://biz.chosun.com/about-investing/2026/07/26/RJFMUOD35FC3VCA5SCJ6ZFVBWI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -1294,7 +1393,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -4246,7 +4345,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -8170,7 +8269,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -12896,52 +12995,7 @@
       "pubDate": "2026-04-28T03:00:00+00:00",
       "category": "간편결제",
       "source": "이비엔(EBN)뉴스센터"
-    },
-    {
-      "title": "[경제 단신] 탑승권 등 관리 ‘삼성 월렛 여행’ 출시 외",
-      "link": "https://n.news.naver.com/mnews/article/022/0004124177?sid=101",
-      "originallink": "https://www.segye.com/newsView/20260427514809?OutUrl=naver",
-      "description": "탑승권 등 관리 ‘삼성 월렛 여행’ 출시 삼성전자의 간편 결제 서비스 ‘삼성 월렛’(옛 삼성 페이)에서 비행기 탑승권이나 관광지 입장 티켓 등까지 한번에 관리할 수 있게 됐다. 삼성전자는 갤럭시 사용자의 여행...",
-      "pubDate": "2026-04-27T20:02:00+00:00",
-      "category": "삼성페이",
-      "source": "세계일보"
-    },
-    {
-      "title": "\"갤럭시폰 하나로 여행도 편하게\"…삼성, '삼성 월렛 여행' 선봬",
-      "link": "https://www.widedaily.com/news/articleView.html?idxno=293011",
-      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=293011",
-      "description": "이제 삼성전자의 간편 결제 서비스 '삼성 월렛(구 삼성 페이)'에서 비행기 탑승권이나 관광지 입장 티켓 등까지 한번에 관리할 수 있게 됐다. 국내외 여행 시 삼성 월렛이 지원되는 갤럭시 폰 하나로 결제부터 교통편 이용...",
-      "pubDate": "2026-04-27T01:36:00+00:00",
-      "category": "삼성페이",
-      "source": "와이드경제"
-    },
-    {
-      "title": "항공권·호텔 예약정보도 갤럭시에 쏙…삼성월렛 여행 출시",
-      "link": "https://n.news.naver.com/mnews/article/374/0000506790?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000306810?division=NAVER",
-      "description": "삼성전자는 오늘(27일) '삼성월렛 여행' 서비스를 출시한다고 밝혔습니다. 이 서비스는 비행기 탑승권과 호텔... 서비스 삼성페이를 출시한 뒤 서비스 영역을 넓히고 있습니다. 이번 여행에 이어 곧 '명함' 서비스도 오픈할...",
-      "pubDate": "2026-04-27T01:25:00+00:00",
-      "category": "삼성페이",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "'삼성 월렛', 여행까지 품었다…항공권·호텔·티켓 한 번에 관리",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015225",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015225",
-      "description": "결제 서비스로 시작한 '삼성 월렛(구 삼성페이)'이 여행까지 품으며 디지털 라이프 플랫폼 확장에 나섰다. 여러 앱에 흩어진 여행 데이터를 통합하고 일정 관리 기능까지 더해 사용자 편의성과 보안을 동시에 강화했다....",
-      "pubDate": "2026-04-27T01:18:00+00:00",
-      "category": "삼성페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "탑승권도 입장권도 갤럭시폰에 '쏙'…'삼성월렛 여행' 출시",
-      "link": "https://n.news.naver.com/mnews/article/421/0008912922?sid=105",
-      "originallink": "https://www.news1.kr/it-science/mobile/6149642",
-      "description": "삼성월렛은 삼성전자의 모바일 결제 서비스 '삼성페이'를 실물 지갑 대체 서비스로 확장한 서비스다. 단순 결제 기능뿐만 아니라 신분증, 여행 관련 정보를 통합 관리할 수 있도록 서비스를 확장해 왔다. 삼성전자는 지난...",
-      "pubDate": "2026-04-27T00:59:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스1"
     }
   ],
-  "lastFetch": "2026-07-26T00:09:58.098433+00:00"
+  "lastFetch": "2026-07-27T00:11:00.927732+00:00"
 }
