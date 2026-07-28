@@ -1,6 +1,681 @@
 {
   "articles": [
     {
+      "title": "삼성전자, 삼성 월렛 하나 트래블로그 체크카드 추가...\"해외 결제 시 1...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=256588",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=256588",
+      "description": "삼성월렛 포인트는 최근 가입자 250만명을 돌파한 선불형 간편 결제 서비스로, 적립된 포인트는 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 현금처럼 사용할 수 있다. 별도 연회비는 없으며, 삼성 월렛 앱 내에서...",
+      "pubDate": "2026-07-28T00:10:00+00:00",
+      "category": "삼성페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "삼성전자, '삼성 월렛 하나 트래블로그 체크카드' 출시…해외 결제 10% ...",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=307803",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=307803",
+      "description": "삼성월렛 포인트는 최근 가입자 250만명을 돌파한 선불형 간편결제 서비스다. 삼성 월렛 앱을 통해 적립되며 국내 온·오프라인 가맹점에서 사용할 수 있다. 연회비는 없으며 삼성 월렛 앱에서 카드 발급을 신청할 수...",
+      "pubDate": "2026-07-28T00:10:00+00:00",
+      "category": "삼성페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 '하나 트래블로그 체크카드' 추가…해외 결제 혜...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=51565",
+      "originallink": "https://www.public25.com/news/articleView.html?idxno=51565",
+      "description": "이번 카드는 삼성 월렛의 간편결제 편의성과 하나카드의 트래블로그 체크카드가 제공하는 해외 이용 혜택을 결합한 것이 특징이다. 갤럭시 스마트폰 사용자들은 삼성 월렛을 통해 보다 간편하고 안전하게 해외에서 결제...",
+      "pubDate": "2026-07-28T00:10:00+00:00",
+      "category": "삼성페이",
+      "source": "퍼블릭타임스"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 ‘삼성 월렛 하나 트래블로그 체크카드’ 추가",
+      "link": "https://www.viva100.com/article/20260728500110",
+      "originallink": "https://www.viva100.com/article/20260728500110",
+      "description": "최근 250만명의 가입자를 확보한 ‘삼성월렛 포인트’는 결제할 때마다 적립되는 포인트로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 연회비가 없는 이번 카드는...",
+      "pubDate": "2026-07-28T00:08:00+00:00",
+      "category": "삼성페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "삼성전자·하나카드, '삼성 월렛 트래블로그 카드' 출시",
+      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=417652",
+      "originallink": "https://www.bizwork.co.kr/news/articleView.html?idxno=417652",
+      "description": "이 카드는 삼성 월렛의 모바일 결제 기능과 하나카드 트래블로그의 해외여행 혜택을 결합한 상품이다.... 삼성 월렛 앱에서 발급을 신청할 수 있으며, 발급이 완료되면 간편 등록 알림을 통해 삼성 월렛에 바로 등록할 수...",
+      "pubDate": "2026-07-28T00:06:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈워크"
+    },
+    {
+      "title": "하나카드, '삼성월렛 하나 트래블로그 체크카드' 출시… 해외 결제 시 1...",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=115177",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=115177",
+      "description": "하나카드(대표이사 성영수)는 해외여행 특화 서비스인 '트래블로그'에 삼성전자의 모바일 간편결제 서비스 삼성월렛을 결합한 '삼성 월렛 하나 트래블로그 체크카드'를 출시한다고 28일 밝혔다. 트래블로그는 24시간...",
+      "pubDate": "2026-07-28T00:04:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "삼성전자, 하나카드 손잡고 ‘삼성 월렛 트래블로그 카드’ 선봬",
+      "link": "https://n.news.naver.com/mnews/article/016/0002675954?sid=105",
+      "originallink": "https://biz.heraldcorp.com/article/10822318?ref=naver",
+      "description": "삼성 월렛 포인트는 결제할 때마다 적립되는 포인트로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 최근 250만명의 가입자를 확보했다. 삼성 월렛 트래블로그 카드는...",
+      "pubDate": "2026-07-28T00:03:00+00:00",
+      "category": "삼성페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "삼성월렛에 '하나 트래블로그 체크카드' 추가",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1390017",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1390017",
+      "description": "최근 250만명의 가입자를 확보한 '삼성월렛 포인트'는 결제할 때마다 적립되는 포인트로 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 연회비가 없는 이번 카드는 삼성...",
+      "pubDate": "2026-07-28T00:02:00+00:00",
+      "category": "삼성페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 트래블로그 카드 추가…해외 결제 10% 포인트 적...",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265024",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265024",
+      "description": "최근 가입자 250만명을 확보했으며 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스로 운영되고 있다. 카드는 연회비 없이 이용할 수 있다. 발급 신청은 삼성 월렛 앱에서...",
+      "pubDate": "2026-07-28T00:00:00+00:00",
+      "category": "삼성페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 하나 트래블로그 체크카드 추가…해외 결제 10% ...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=114684",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=114684",
+      "description": "삼성월렛 포인트는 현재 가입자 250만명을 확보한 서비스로, 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 연회비 없이 삼성 월렛 앱에서 발급 신청할 수 있으며, 발급 후 자동으로 카드...",
+      "pubDate": "2026-07-28T00:00:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "알바천국, 수능 D-100 맞아 고3 응원 이벤트…1250명에 네이버페이 1만원",
+      "link": "https://www.gosiweek.com/article/1065570937003142",
+      "originallink": "https://www.gosiweek.com/article/1065570937003142",
+      "description": "총 1,250명에게 네이버페이 포인트 1만원을 제공하는 행사로, 지난해보다 지원 대상을 확대했다. 알바천국은 고3 응원 프로모션 '천국이 드립니다'를 오는 8월 5일까지 진행한다고 밝혔다. 이벤트는 매일 오후 6시부터...",
+      "pubDate": "2026-07-27T23:58:00+00:00",
+      "category": "네이버페이",
+      "source": "gosiweek"
+    },
+    {
+      "title": "삼성전자, 해외서 '삼성 월렛 트래블로그' 쓰면 10% 적립",
+      "link": "https://n.news.naver.com/mnews/article/018/0006337962?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02925766645519112",
+      "description": "적립된 포인트는 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 선불형 간편 결제 수단으로 사용할 수 있다. 연회비는 없으며, 삼성 월렛 앱에서 바로 발급 신청을 진행한 뒤 즉시 등록해 사용할 수 있다....",
+      "pubDate": "2026-07-27T23:55:00+00:00",
+      "category": "삼성페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "삼성 월렛에 '하나 트래블로그 체크카드' 추가…해외 결제 시 10% 포인트...",
+      "link": "https://www.etoday.co.kr/news/view/2608084",
+      "originallink": "https://www.etoday.co.kr/news/view/2608084",
+      "description": "최근 가입자 250만 명을 확보한 '삼성월렛 포인트'는 결제할 때마다 적립되는 포인트로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편결제 서비스다. 연회비가 없는 이번 카드는 삼성...",
+      "pubDate": "2026-07-27T23:48:00+00:00",
+      "category": "삼성페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "환전 공짜에 10% 적립까지…삼성월렛 여행카드 나왔다",
+      "link": "https://www.ekn.kr/web/view.php?key=20260728027146719",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260728027146719",
+      "description": "'삼성월렛 포인트'는 결제할 때마다 적립되는 선불형 간편 결제 서비스로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있다. 최근 가입자 250만 명을 확보했다. 연회비는 없다. 삼성 월렛 앱에서...",
+      "pubDate": "2026-07-27T23:46:00+00:00",
+      "category": "삼성페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 트래블로그 카드 추가",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=127838",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=127838",
+      "description": "삼성월렛 포인트는 결제할 때마다 적립되는 포인트로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 최근 가입자는 250만 명을 넘어섰다. 삼성전자는 카드 출시를 기념해...",
+      "pubDate": "2026-07-27T23:42:00+00:00",
+      "category": "삼성페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "하나카드, 삼성월렛 해외결제 10% 적립 트래블로그 출시",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=80134",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=80134",
+      "description": "해외여행 카드 경쟁이 환전·수수료 혜택을 넘어 스마트폰 간편결제와 포인트 적립을 결합하는 방향으로 확대되고 있다. 하나금융그룹의 해외여행 서비스 트래블로그는 가입자 1100만명과 누적 환전액 7조원을...",
+      "pubDate": "2026-07-27T23:40:00+00:00",
+      "category": "삼성페이",
+      "source": "PRESS9"
+    },
+    {
+      "title": "\"해외에서도 삼성페이\"...삼성전자, 월렛에 '하나 트래블로그 체크카드...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472052",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472052",
+      "description": "사진=삼성전자 삼성전자는 해외여행 특화 카드인 '삼성 월렛 하나 트래블로그 체크카드'를 지난 27일 삼성월렛에 추가했다고 밝혔다. 이 카드는 삼성월렛의 모바일 결제 기능에 하나카드 트래블로그의 해외여행...",
+      "pubDate": "2026-07-27T23:34:00+00:00",
+      "category": "삼성페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "\"해외 결제하면 포인트 10% 적립\"…삼성월렛, 하나 트래블로그 체크카드...",
+      "link": "https://www.ajunews.com/view/20260728082429339",
+      "originallink": "https://www.ajunews.com/view/20260728082429339",
+      "description": "삼성월렛의 간편결제 경험과 하나카드의 해외 특화 서비스를 결합한 것이 특징이다. 이 카드는 기존 트래블로그 체크카드의 핵심 혜택인 △100% 환율 우대 무료 환전 △해외 가맹점 이용 수수료 면제 △해외...",
+      "pubDate": "2026-07-27T23:32:00+00:00",
+      "category": "삼성페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "삼성월렛에 ‘하나 트래블로그’ 탑재…해외 결제 10% 포인트 적립",
+      "link": "https://n.news.naver.com/mnews/article/119/0003115505?sid=105",
+      "originallink": "https://www.dailian.co.kr/news/view/1671536/?sc=Naver",
+      "description": "최근 250만명의 가입자를 확보한 '삼성월렛 포인트'는 결제할 때마다 적립되는 포인트로 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 연회비가 없는 이번 카드는 삼성...",
+      "pubDate": "2026-07-27T23:31:00+00:00",
+      "category": "삼성페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 '하나 트래블로그 체크카드' 탑재",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=441908",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=441908",
+      "description": "해외여행 수요 회복과 모바일 간편결제 시장 확대가 맞물리는 가운데 삼성전자는 금융사와의 협업을 통해 삼성 월렛 생태계를 강화하고 있다. 이번 협업은 단순히 새로운 카드 상품을 출시하는 데 그치지 않고 삼성...",
+      "pubDate": "2026-07-27T23:30:00+00:00",
+      "category": "삼성페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 '하나 트래블로그 체크카드' 추가",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=754651",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=754651",
+      "description": "삼성월렛 포인트는 가입자 250만명을 확보한 선불형 간편결제 서비스다. 결제할 때마다 포인트가 적립되며 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있다. 카드는 삼성 월렛 앱에서 발급을 신청할 수...",
+      "pubDate": "2026-07-27T23:28:00+00:00",
+      "category": "삼성페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "삼성월렛, 하나 트래블로그 카드 추가…해외 결제액 10% 적립",
+      "link": "https://n.news.naver.com/mnews/article/003/0014091840?sid=105",
+      "originallink": "https://www.newsis.com/view/NISX20260728_0003725641",
+      "description": "삼성월렛 포인트는 결제할 때마다 적립되는 포인트로, 삼성월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편결제 서비스다. 최근 가입자 수는 250만명을 넘어섰다. 연회비는 없다. 삼성월렛...",
+      "pubDate": "2026-07-27T23:26:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 '하나 트래블로그 체크카드' 추가…해외 결제 혜...",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=233931",
+      "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=233931",
+      "description": "삼성월렛 포인트는 삼성 월렛 앱을 통해 적립·사용할 수 있는 선불형 간편결제 서비스로, 국내 온·오프라인 가맹점에서 사용할 수 있다. 연회비는 없으며, 삼성 월렛 앱에서 카드 발급을 신청하면 발급과 동시에 삼성...",
+      "pubDate": "2026-07-27T23:24:00+00:00",
+      "category": "삼성페이",
+      "source": "한국NGO신문"
+    },
+    {
+      "title": "'삼성월렛 하나 트래블로그 체크카드' 출시…해외 결제 10% 적립",
+      "link": "https://n.news.naver.com/mnews/article/008/0005391805?sid=105",
+      "originallink": "https://www.mt.co.kr/tech/2026/07/28/2026072808120582901",
+      "description": "삼성월렛 포인트는 현재 약 250만명의 가입자를 확보한 선불형 간편결제 서비스다. 삼성월렛 앱을 통해 적립된 포인트를 국내 온·오프라인 가맹점에서 현금처럼 사용할 수 있다. 이번 카드는 연회비 없이 이용할 수...",
+      "pubDate": "2026-07-27T23:21:00+00:00",
+      "category": "삼성페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "[Tech & Now] 삼성전자, '삼성 월렛 하나 트래블로그 체크카드' 추가",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1718009",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1718009",
+      "description": "삼성월렛 포인트는 삼성 월렛을 통해 결제할 때 적립되는 선불형 간편결제 서비스다. 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있으며 최근 가입자 수가 250만명을 넘어섰다. 카드는 연회비 없이...",
+      "pubDate": "2026-07-27T23:18:00+00:00",
+      "category": "삼성페이",
+      "source": "EBN"
+    },
+    {
+      "title": "삼성 월렛 트래블로그 체크카드 출시…해외 결제 10% 포인트 적립",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=111767",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=111767",
+      "description": "삼성월렛 포인트는 최근 가입자 250만 명을 돌파한 선불형 간편결제 서비스로, 결제 시 적립된 포인트를 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 현금처럼 사용할 수 있다. 카드는 연회비 없이 이용할 수...",
+      "pubDate": "2026-07-27T23:12:00+00:00",
+      "category": "삼성페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "[핀테크핫이슈] 디지털자산 '합종연횡' 확산...4대 금융 순익 11조 시대",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687329",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687329",
+      "description": "⦁신호철 카카오페이증권 대표 \"3년 내 투자자 2000만명 시대 열 것\" ⦁한국평가정보, 신한은행에 소상공인 매출·매입 데이터 공급 ⦁에잇퍼센트, 에이판다파트너스 인수…대체투자 플랫폼 확장",
+      "pubDate": "2026-07-27T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오페이 사태 후폭풍…금감원, 대형 전자금융업자 개인정보 점검 확...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=346062",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=346062",
+      "description": "카카오페이·네이버파이낸셜·비바리퍼블리카 등 빅테크 3사에 대해서는 금감원이 순차적으로 정기검사를 실시하고 있다. 올해는 카카오페이에 대한 정기검사가 진행 중이며, 네이버파이낸셜은 지난해 검사를 받았다....",
+      "pubDate": "2026-07-27T11:48:00+00:00",
+      "category": "카카오페이",
+      "source": "녹색경제신문"
+    },
+    {
+      "title": "지갑 없이 얼굴로 계산한다…토스, 중소마트 5000곳에 페이스페이 도입",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202607271514521571de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202607271514521571de3f0aa1be_7",
+      "description": "협약식은 지난 24일 서울 강남구 역삼동 아크플레이스에서 열렸다. 오규인 토스 부사장과 진필규 결제부문장, 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. 투게더스는 국내 유통 포스...",
+      "pubDate": "2026-07-27T08:22:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "토스, 전국 5000여개 마트에 얼굴결제 ‘페이스페이’ 도입",
+      "link": "https://n.news.naver.com/mnews/article/138/0002235610?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026072709323298258",
+      "description": "토스는 지난 24일 서울 강남구 역삼동 아크플레이스에서 투게더스와 업무협약(MOU)을 체결했다고 27일 밝혔다. 협약식에는 오규인 토스 부사장과 진필규 결제부문장, 서형석 투게더스 대표, 이경수 본부장 등이 참석했다....",
+      "pubDate": "2026-07-27T08:10:00+00:00",
+      "category": "토스페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "토스, 5000개 마트에 '페이스페이' 도입…투게더스와 MOU",
+      "link": "https://n.news.naver.com/mnews/article/003/0014091030?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260727_0003725071",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. 투게더스는 국내 유통...",
+      "pubDate": "2026-07-27T07:36:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이 주가, 7월 27일 44,750원 6.80% 상승 마감",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16146936",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16146936",
+      "description": "27일 KRX 마감 기준, 네이버페이 증권에 따르면 카카오페이 주가가 지난 종가 41,900원 대비 2,850원(6.80%) 상승한 44,750원으로 거래를 마쳤다. 코스피 시장에서 카카오페이는 시가총액 6조 533억 원을...",
+      "pubDate": "2026-07-27T07:28:00+00:00",
+      "category": "카카오페이",
+      "source": "톱스타뉴스"
+    },
+    {
+      "title": "로지텍, 토스에 화상회의 기반 스마트 워크플레이스 구축",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=60102",
+      "originallink": "https://www.thelec.kr/news/articleView.html?idxno=60102",
+      "description": "개인용 주변기기와 화상회의 솔루션 기업 로지텍코리아가 핀테크 기업 토스(운영사 비바 리퍼블리카)의 신사옥 스마트 워크플레이스 구축 프로젝트를 성공적으로 완료했다고 밝혔다. 토스는 토스뱅크, 토스증권...",
+      "pubDate": "2026-07-27T07:24:00+00:00",
+      "category": "토스페이",
+      "source": "디일렉(THE ELEC)"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털 금융계 소식...토스·케이뱅크·NHN KCP",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200338",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200338",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장(왼쪽)과 서형석 투게더스 대표이사가 업무협약 체결 후 기념 촬영을 하고 있다. [사진=토스] 토스는 유통 포스 솔루션 기업 투게더스와 협력해 전국...",
+      "pubDate": "2026-07-27T07:14:00+00:00",
+      "category": "토스페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "마이크로닉스, 'ASTRO II PT' 3종 구매 시 네이버페이 페이백 진행",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60131",
+      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60131",
+      "description": "3만원 페이백과 별도로 메가커피 모바일 쿠폰과 네이버페이 포인트 등 추가 혜택을 받을 수 있다. 이벤트에 대한 자세한 내용은 마이크로닉스 공식 홈페이지와 카카오톡 공식 채널에서 확인할 수 있다.",
+      "pubDate": "2026-07-27T06:56:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털포스트(PC사랑)"
+    },
+    {
+      "title": "토스, 전국 5천개 마트 뚫었다···'얼굴 결제' 일상 속으로",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=149525",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=149525",
+      "description": "| 스마트비즈 = 최형호 기자 | 토스가 전국 중소형 마트를 기반으로 오프라인 결제 시장 확대에 속도를 낸다. 온라인 중심으로 성장했던 간편결제 서비스가 이제는 일상 소비가 가장 빈번하게 이뤄지는 생활밀착형 유통...",
+      "pubDate": "2026-07-27T06:48:00+00:00",
+      "category": "토스페이",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "토스, 페이스페이 '100만 매장' 로드맵에 마트 추가",
+      "link": "https://www.news2day.co.kr/article/20260727500157",
+      "originallink": "https://www.news2day.co.kr/article/20260727500157",
+      "description": "토스와 카카오페이 등 빅테크의 오프라인 POS 시장 진출은 온라인 간편결제를 넘어 오프라인 결제 인프라를 선점하려는 전략으로 해석돼 왔다. 토스는 결제 단말기·POS 솔루션 자회사 토스플레이스를 통해 하드웨어...",
+      "pubDate": "2026-07-27T06:42:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "토스, 전국 5천여개 중소마트에 '페이스페이' 확대…투게더스와 맞손",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131242",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=131242",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 (왼쪽부터)오규인 토스 부사장과 서형석 투게더스 대표이사가 업무협약 기념 사진을 촬영하고 있다. (사진=토스) 토스가 국내 중소마트 전문 POS(판매시점정보관리) 솔루션...",
+      "pubDate": "2026-07-27T06:36:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "토스, 유통 POS 기업 투게더스와 제휴… 전국 마트 5천여 곳에 '페이스페...",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=139478",
+      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=139478",
+      "description": "양사는 지난 24일 서울 강남구 역삼동 아크플레이스에서 업무협약(MOU) 체결식을 열었다. 이 자리에는 오규인 토스 부사장과 진필규 토스 결제부문장, 서형석 투게더스 대표이사와 이경수 투게더스 본부장 등 양사 주요...",
+      "pubDate": "2026-07-27T06:30:00+00:00",
+      "category": "토스페이",
+      "source": "투어코리아"
+    },
+    {
+      "title": "토스, 중소마트 5000곳에 페이스페이 도입... \"오프라인 결제 확대\"",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=204702",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=204702",
+      "description": "이번 협력을 통해 토스는 중소마트에 토스페이 결제와 페이스페이 이용 환경을 구축한다. 고객은 얼굴 인증만으로 결제할 수 있고, 가맹점은 현금과 카드, 간편결제, 근거리무선통신(NFC) 등 다양한 결제 수단을 하나의...",
+      "pubDate": "2026-07-27T06:22:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "로지텍 코리아, 토스 신사옥 AI 화상회의실 구축…'원스톱 협업 인프라...",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=92808",
+      "originallink": "http://www.newsian.co.kr/news/articleView.html?idxno=92808",
+      "description": "로지텍코리아는 토스의 신사옥 스마트 워크플레이스 구축 프로젝트에 참여해 분산된 업무 공간을 하나의 협업 환경으로 연결하는 인프라를 구현했다고 27일 밝혔다. [사진=로지텍코리아] ［뉴시안= 조현선 기자］로지텍...",
+      "pubDate": "2026-07-27T06:16:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시안"
+    },
+    {
+      "title": "간편결제·디지털 금융 기대…핀테크주 뭉칫돈 유입 '눈에 띄네'",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471860",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471860",
+      "description": "카카오페이도 6.56% 상승한 4만 4650원에 거래되고 있다. 간편결제와 금융서비스 확대 기대가 매수세를 자극한다. 다날은 5.85% 상승한 4615원에 거래되고 있다. 전자결제와 디지털 자산 사업 기대가 반영되며 강세를...",
+      "pubDate": "2026-07-27T06:04:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "카페인중독, 카카오페이 '굿딜' 입점...\"조건 없는 상시 할인 제공\"",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243167",
+      "originallink": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243167",
+      "description": "카페인중독은 27일 오픈하는 카카오페이 '굿딜' 서비스에 상시 입점하며 오프라인 결제 채널 확대에 나선다고 밝혔다. 업체 측에 따르면, 카카오페이 굿딜은 바코드 결제 방식을 통해 매장에서 즉시 사용할 수 있는 할인...",
+      "pubDate": "2026-07-27T05:58:00+00:00",
+      "category": "카카오페이",
+      "source": "시선뉴스"
+    },
+    {
+      "title": "토스, 유통 포스사 투게더스와 협약 체결",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452805",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2452805",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. 투게더스는 국내 유통 POS...",
+      "pubDate": "2026-07-27T05:57:00+00:00",
+      "category": "토스페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "토스, 전국 중소형 마트에 '페이스페이' 공급",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307204",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=307204",
+      "description": "가맹점은 토스 프론트를 통해 현금과 카드, 간편결제, NFC 등 여러 결제 수단을 통합 운영할 수 있다. 양사는 페이스페이 도입을 시작으로 공동 프로모션과 마케팅 활동도 검토한다. 토스의 광고·마케팅 서비스를 활용해...",
+      "pubDate": "2026-07-27T04:54:00+00:00",
+      "category": "토스페이",
+      "source": "FETV"
+    },
+    {
+      "title": "[금융계 동향] 한국투자증권·NH농협은행·토스",
+      "link": "http://www.iminju.net/news/articleView.html?idxno=167156",
+      "originallink": "http://www.iminju.net/news/articleView.html?idxno=167156",
+      "description": "코인원 앱에서 실시간 인기 종목을 확인한 뒤 간편 인증을 거쳐 한국투자증권 WTS에서 별도 MTS 설치 없이... 유통 POS 기업과의 첫 협업으로 토스페이 결제 환경도 함께 확대한다. 양사는 투게더포스를 이용하는 전국...",
+      "pubDate": "2026-07-27T04:38:00+00:00",
+      "category": "토스페이",
+      "source": "민주신문"
+    },
+    {
+      "title": "온라인 셀러 대유입 선풍… 카페24, 전자상거래·간편결제 모멘텀 주목",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471817",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471817",
+      "description": "네이버 증권. 전자결제(전자화폐) 테마가 27일 강세를 이어가고 있다. 생성형 AI 서비스 확대와 온라인 소비... 헥토파이낸셜 역시 기업 간 결제와 금융 플랫폼 사업 확대 전망이 부각되며 강세 흐름을 이어간다. 중소형...",
+      "pubDate": "2026-07-27T04:32:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "토스, 투게더스와 손잡고 전국 5000개 마트에 '페이스페이' 도입",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=141565",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=141565",
+      "description": "사진=토스  토스(대표 이승건)가 지난 24일 서울 강남구 역삼동 아크플레이스에서 중소마트 전문 유통 포스(POS) 솔루션 기업 투게더스와 업무협약(MOU)을 체결했다고 밝혔다. 27일 토스에 따르면 이번 협약으로 토스는 전국...",
+      "pubDate": "2026-07-27T04:28:00+00:00",
+      "category": "토스페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "로지텍, 토스(Toss) 신사옥 화상회의 솔루션 구축",
+      "link": "https://m.sports.naver.com/esports/article/442/0000194801",
+      "originallink": "https://www.inven.co.kr/webzine/news/?news=318885",
+      "description": "로지텍이 핀테크 기업 토스(Toss, 운영사 비바리퍼블리카)의 신사옥 스마트 워크플레이스 구축 프로젝트에 핵심 파트너로 참여해 업무 인프라 조성을 완료했다고 밝혔다. 이번 프로젝트는 올해 1월부터 3월까지...",
+      "pubDate": "2026-07-27T03:14:00+00:00",
+      "category": "토스페이",
+      "source": "인벤"
+    },
+    {
+      "title": "토스, 전국 중소마트 5000곳에 페이스페이 확대",
+      "link": "https://n.news.naver.com/mnews/article/030/0003451256?sid=101",
+      "originallink": "https://www.etnews.com/20260727000231",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. 투게더스는 국내 유통 POS...",
+      "pubDate": "2026-07-27T02:43:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "\"가상자산 정책 모멘텀 수혜 기대\" 카카오페이 주가 상승",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3647025",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3647025",
+      "description": "카카오페이 로고 카카오페이 주가가 강세를 보이고 있다. 27일 오전 11시 25분 기준 카카오페이는 7.16% 상승한 4만 4900원에 거래 중이다. 이날 LS증권은 카카오페이에 대해  투자의견 '매수'와 목표주가 6만1000원을...",
+      "pubDate": "2026-07-27T02:38:00+00:00",
+      "category": "카카오페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "로지텍, 토스 신사옥 회의 공간 100여곳 협업 시스템 구축",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202607271131194898204ead0791_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=202607271131194898204ead0791_12",
+      "description": "로지텍 코리아는 토스 운영사 비바리퍼블리카의 스마트 워크플레이스 구축 프로젝트를 지원했다고 27일 밝혔다. 이번 프로젝트는 토스 신사옥 내 100개 이상 회의실에 화상회의와 통합 관리 환경을...",
+      "pubDate": "2026-07-27T02:32:00+00:00",
+      "category": "토스페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "[기업家] 네이버 ⑫ㅣ AI·핀테크·로봇까지…전방위 사업 확장 가속",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=592079",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=592079",
+      "description": "이번 심사 기준 개선 논의는 네이버파이낸셜과 두나무의 합병 건과 직결된다. 네이버는 자회사 네이버파이낸셜을 통해 두나무를 완전 자회사로 편입하는 작업을 추진 중이다. 하지만 네이버가 지난해 9월 공정거래법...",
+      "pubDate": "2026-07-27T02:30:00+00:00",
+      "category": "간편결제",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "토스, 페이스페이 가맹점 전국 5000개 중소마트로 확대",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=127713",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=127713",
+      "description": "27일 토스에 따르면 회사는 지난 24일 서울 강남구 아크플레이스에서 유통 판매시점정보관리시스템(POS) 기업 투게더스와 업무협약을 체결했다. 이번 협약은 토스가 유통 POS 기업과 맺은 첫 업무협약이다. 양사는...",
+      "pubDate": "2026-07-27T02:02:00+00:00",
+      "category": "토스페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "토스, 전국 5000개 마트에 ‘페이스페이’ 도입... POS사 투게더스와 MO...",
+      "link": "http://www.boannews.com/media/view.asp?idx=144855&kind=3",
+      "originallink": "http://www.boannews.com/media/view.asp?idx=144855&kind=3",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다.투게더스는 국내 유통 POS...",
+      "pubDate": "2026-07-27T01:56:00+00:00",
+      "category": "토스페이",
+      "source": "ȴ"
+    },
+    {
+      "title": "토스, 투게더스와 손잡고 페이스페이 확대…전국 5000여곳 순차 도입",
+      "link": "https://www.viva100.com/article/20260727500602",
+      "originallink": "https://www.viva100.com/article/20260727500602",
+      "description": "양사는 지난 24일 서울 강남구 아크플레이스에서 협약식을 열고 토스페이 기반 오프라인 결제 서비스를 확대하기로 했다. 이번 협력은 토스가 유통 POS 분야 기업과 추진하는 첫 협업으로, 오프라인 생활밀착형 결제...",
+      "pubDate": "2026-07-27T01:56:00+00:00",
+      "category": "토스페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "로지텍, 토스 스마트 워크플레이스 구축…“일관된 협업 경험 제공”",
+      "link": "https://www.viva100.com/article/20260727500585",
+      "originallink": "https://www.viva100.com/article/20260727500585",
+      "description": "로지텍 코리아는 핀테크 기업 토스의 신사옥 스마트 워크플레이스 구축 프로젝트를 지원하며 분산된 업무 공간을 하나의 협업 환경으로 연결하는 업무 인프라를 구현했다고 27일 밝혔다. 토스는 토스뱅크...",
+      "pubDate": "2026-07-27T01:52:00+00:00",
+      "category": "토스페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "[금융레이더]iM금융그룹/라이나생명/삼성화재/한화손해보험/카카오페이...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607270851291710570",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607270851291710570",
+      "description": "◆카카오페이손보, 갤럭시 파손 보장 5년 확대 카카오페이손해보험이 휴대폰보험의 갤럭시 휴대폰 파손 보장 기간을 기존 3년에서 최대 5년으로 확대했다고 27일 밝혔다. 이 상품은 사용자가 수리 횟수 2~5회와...",
+      "pubDate": "2026-07-27T01:42:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "토스 결제단말 40만곳...네이버 10만곳, 자체 포스 유무 갈렸다",
+      "link": "https://www.insight.co.kr/news/564796",
+      "originallink": "https://www.insight.co.kr/news/564796",
+      "description": "토스플레이스의 결제 단말기 '토스 프론트' 가맹점이 약 40만곳으로 늘었다. 지난해 11월 서비스를 시작한 네이버페이 'N페이 커넥트'의 약 10만곳보다 4배 많다.27일 관련 업계에 따르면 토스는 2023년 3월 토스 프론트를...",
+      "pubDate": "2026-07-27T01:36:00+00:00",
+      "category": "토스페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "토스, 투게더스와 중소마트 페이스페이 결제 협약",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852595",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=852595",
+      "description": "협약식은 지난 24일 서울 강남구 역삼동 아크플레이스에서 열렸다. 오규인 토스 부사장, 진필규 결제부문장, 서형석 투게더스 대표이사, 이경수 본부장 등 양사 경영진이 참석했다. 투게더스는 국내 유통 POS 시장에서...",
+      "pubDate": "2026-07-27T01:28:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "로지텍 코리아-토스, 신사옥 스마트 워크플레이스 구축",
+      "link": "https://gamefocus.co.kr/detail.php?number=177742",
+      "originallink": "https://gamefocus.co.kr/detail.php?number=177742",
+      "description": "로지텍 코리아(지사장 조정훈)가 핀테크 기업 토스(운영사 비바리퍼블리카)의 신사옥 스마트 워크플레이스 구축 프로젝트를 성공적으로 지원하며, 분산된 업무 공간을 하나의 협업 환경으로 연결하는 업무...",
+      "pubDate": "2026-07-27T01:20:00+00:00",
+      "category": "토스페이",
+      "source": "gamefocus"
+    },
+    {
+      "title": "LS證 \"카카오페이, 카카오 가상자산 허브 될 것…목표가 6만1000원\"",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=298227",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=298227",
+      "description": "LS증권은 카카오페이를 카카오 생태계 확장의 핵심 축으로 꼽으며 투자의견 '매수'와 목표주가 6만1000원을 제시했다. 선유진 LS증권 연구원은 27일 리포트를 통해 \"카카오 생태계를 통한 이용자 기반 잠재력과, 지난해...",
+      "pubDate": "2026-07-27T01:06:00+00:00",
+      "category": "카카오페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "토스, 페이스페이 전국 5000개 마트로 확대…투게더스와 맞손",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202607270958035310be44c0aacd_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202607270958035310be44c0aacd_30",
+      "description": "위한 토스 프론트를 순차 설치할 예정이다. 이번 협력으로 마트를 찾은 고객은 지갑이나 휴대폰을 꺼낼 필요 없이 얼굴 인증만으로 간편하게 결제할 수 있게 된다. 가맹점도 하나의 단말기에서 현금·카드·간편결제·NFC...",
+      "pubDate": "2026-07-27T01:02:00+00:00",
+      "category": "토스페이",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "토스, 전국 5000개 중소마트에 '페이스페이' 확대…투게더스와 맞손",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83680",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=83680",
+      "description": "지난 24일 서울 강남구 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. 투게더스는 국내 유통 POS...",
+      "pubDate": "2026-07-27T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "로지텍 코리아, 토스 신사옥에 100여 개 회의실 규모 ‘스마트 워크플레...",
+      "link": "https://n.news.naver.com/mnews/article/144/0001128310?sid=105",
+      "originallink": "https://sports.khan.co.kr/article/202607270955003?pt=nv",
+      "description": "100개 이상의 회의실을 하나의 일관된 협업 환경으로 연결했다”며 “사용자 편의성과 관리 효율성을 모두 잡은 스마트 워크플레이스를 통해 토스의 비즈니스 혁신을 지속해서 뒷받침해 나갈 것”이라고 전했다.",
+      "pubDate": "2026-07-27T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "khan"
+    },
+    {
+      "title": "토스, 전국 5000개 마트에 '페이스페이' 도입...\"장바구니 들고 결제\"",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313225",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313225",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인(왼쪽부터) 토스 부사장과 서형석 투게더스 대표가 업무협약 기념 사진을 촬영하고 있다.  토스가 유통 포스(POS) 솔루션 기업 투게더스와 업무협약을 맺고 전국...",
+      "pubDate": "2026-07-27T00:52:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스, 유통 포스 기업 '투게더스'와 맞손…중소마트 결제 편의 높인다",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6936988",
+      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6936988",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. ⓒ토스 토스가 유통 포스...",
+      "pubDate": "2026-07-27T00:48:00+00:00",
+      "category": "토스페이",
+      "source": "스포츠한국"
+    },
+    {
+      "title": "로지텍, 토스 스마트 워크플레이스 구축…100개 이상 회의실 하나의 협...",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=404749",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=404749",
+      "description": "로지텍코리아가 토스(운영사 비바리퍼블리카)의 신사옥 스마트 워크플레이스 구축 프로젝트를 성공적으로 지원하며 분산된 업무 공간을 하나의 협업 환경으로 연결하는 업무 인프라를 구현했다고 27일 밝혔다....",
+      "pubDate": "2026-07-27T00:46:00+00:00",
+      "category": "토스페이",
+      "source": "테크월드"
+    },
+    {
+      "title": "토스, 투게더스와 MOU…\"전국 5000개 마트에 페이스페이 도입\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=535507",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=535507",
+      "description": "|중앙이코노미뉴스 정재혁 기자|지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장(왼쪽)과 서형석 투게더스 대표이사가 업무협약 기념 사진을 촬영하고 있다. [사진=토스]  토스는 대한민국 중소마트...",
+      "pubDate": "2026-07-27T00:42:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "토스 '얼굴결제' 전국 중소형 마트 5000곳으로 확대",
+      "link": "https://n.news.naver.com/mnews/article/014/0005553164?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607270906432544",
+      "description": "현금·카드·간편결제·NFC 등 여러 결제 수단을 통합 운영할 수 있어 운영 부담을 덜 수 있다. 양사는 페이스페이 도입을 시작으로 공동 프로모션과 마케팅 활동도 함께 검토한다. 토스 생태계를 활용한 광고·마케팅 등...",
+      "pubDate": "2026-07-27T00:31:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 2분기 '깜짝 실적' 전망에도 연간 실적은 '글쎄'",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606214",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=606214",
+      "description": "카카오페이가 증시 변동성 확대에 따른 해외 주식 거래 수수료 급증과 보험 신규 상품 판매 호조에 힘입어 2분기 시장 기대치를 크게 상회하는 실적을 거둘 것으로 전망된다. 하지만 2분기를 정점으로 실적이 둔화될...",
+      "pubDate": "2026-07-27T00:28:00+00:00",
+      "category": "카카오페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "토스 페이스페이, 마트 5000곳에서…포스 기업과 제휴",
+      "link": "https://n.news.naver.com/mnews/article/092/0002431949?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260727091823",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. (사진=토스) 토스와...",
+      "pubDate": "2026-07-27T00:28:00+00:00",
+      "category": "토스페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "토스, 투게더스와 페이스 페이 결제 확대 나서",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=141193",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=141193",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장(왼쪽)과 서형석 투게더스 대표이사가 업무협약 기념 사진을 촬영하고 있다. [토스]  토스가 대한민국 중소마트 전문 유통 포스(POS) 솔루션 기업...",
+      "pubDate": "2026-07-27T00:22:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "토스, 투게더스와 맞손…전국 마트 5000곳 '페이스페이' 도입",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687095",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687095",
+      "description": "24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장과 서형석 투게더스 대표이사(왼쪽부터)가 업무협약 기념 사진을 촬영하고 있다. [사진: 토스] 토스 운영사 비바리퍼블리카가 유통 포스(POS) 솔루션 기업...",
+      "pubDate": "2026-07-27T00:14:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "토스, 전국 5000개 마트에 페이스페이 도입",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=277890",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=277890",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 (왼쪽부터)오규인 토스 부사장과 서형석 투게더스 대표이사가 업무협약 기념 사진을 촬영하고 있다. [사진=토스] 토스가 중소마트 전문 유통 POS 솔루션 기업 투게더스와...",
+      "pubDate": "2026-07-27T00:10:00+00:00",
+      "category": "토스페이",
+      "source": "팍스경제TV"
+    },
+    {
       "title": "LS證 \"카카오페이, 카카오 가상자산 허브 될 것…목표가 6만1000원\"",
       "link": "https://n.news.naver.com/mnews/article/003/0014089268?sid=101",
       "originallink": "https://www.newsis.com/view/NISX20260727_0003724051",
@@ -547,7 +1222,7 @@
       "description": "카카오페이가 글로벌 스테이블코인 기업 서클(Circle)과 차세대 디지털 자산 인프라 협력에 나선다. 토스와 토스뱅크는 서클과 스테이블코인 기반 결제 인프라 구축을 위한 전략적 업무협약을 체결했다. 토스뱅크는...",
       "pubDate": "2026-07-23T07:00:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "은행 앱 밖으로 나온 퇴직연금…우리은행, 네이버페이에 상담창구",
@@ -1276,7 +1951,7 @@
       "description": "토스뱅크는 실무형 사이버 보안 인재 양성을 위한 부트캠프 2기 모집에 나섰으며, 토스플레이스는 서울시와 협력해 서울사랑상품권 QR 결제를 지원한다. ◆ 토스, SBI저축은행과 포용금융 협약...중저신용자 대상...",
       "pubDate": "2026-07-20T07:54:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "배스킨라빈스, 네이버페이와 7월 '슈퍼 배라위크' 진행",
@@ -1393,7 +2068,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -2401,7 +3076,7 @@
       "description": "카카오페이는 대한항공, 에어비앤비와 함께 일본 여행 특화 혜택을 담은 '해외여행 올-패스: 일본편'을 선보였다. ◆ 카카오뱅크, 개인사업자 부동산담보대출 '계산기' 출시 이벤트 카카오뱅크(대표 윤호영)가 개인사업자...",
       "pubDate": "2026-07-13T07:20:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[단독] '토스플레이스 vs KICC' 특허戰 2라운드…특허법원 간다",
@@ -3373,7 +4048,7 @@
       "description": "토스와 네이버페이, 카카오페이가 정부의 주민등록증 진위확인망을 활용해 비대면 금융거래 본인확인 체계 강화에 나선다. 왼쪽부터 이찬진 금융감독원장, 박상진 Npay 대표, 윤호중 행정안전부 장관, 이승건 토스 대표...",
       "pubDate": "2026-07-09T07:34:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "토스, 정부 주민등록증 진위확인 도입…비대면 금융보안 강화",
@@ -4336,7 +5011,7 @@
       "description": "네이버페이(Npay)는 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'의 시범 운영을 시작했다. ◆ 카카오페이, 다문화 청소년 디지털 금융교육 업무협약 체결 카카오페이가...",
       "pubDate": "2026-07-07T08:50:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "모험자본 투자 플랫폼 'Npay 스타트업' 출범…민관 협업",
@@ -4345,7 +5020,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -5146,7 +5821,7 @@
       "description": "토스뱅크 체크카드가 보유 고객 1000만명을 돌파하며 전 세대 일상 결제 카드로 자리 잡았다. [이미지=토스뱅크] 토스뱅크 체크카드는 지난 2021년 10월 출범과 함께 선보인 이후 간편한 발급 절차와 고객이 일상에서...",
       "pubDate": "2026-07-06T08:14:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "네이버파이낸셜·두나무 합병 또 연기…12월31일 주식교환 예정",
@@ -5389,7 +6064,7 @@
       "description": "또 토스플레이스와 함께 소상공인 결제환경 개선을 위한 이벤트를 진행하며, 우리WON모바일에서 7월 한 달간 통신비 부담을 낮추는 다양한 혜택을 제공한다. ◆ 우리은행, 데이터 기반 영업·내부통제 강화 조직개편 단행...",
       "pubDate": "2026-07-06T06:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "\"할부도 QR 결제로\"···유통家, 외국인 결제 서비스 경쟁 '속도'",
@@ -6073,7 +6748,7 @@
       "description": "네이버페이가 중소상공인희망재단과 손잡고 '앤페이(Npay) 커넥트'를 활용한 소상공인 디지털 전환 지원에 나선다. 토스는 농협목우촌 외식사업단과 협력해 페이스페이 사용처를 확대하고, 빗썸은 버그바운티 포상금을...",
       "pubDate": "2026-07-03T07:50:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "네이버페이, 종이고지서 QR로 관리비 즉시 납부 서비스 출시",
@@ -6298,7 +6973,7 @@
       "description": "직전 한 달 동안 카카오뱅크 통장에 50만 원 이상 입금한 고객 가운데 추첨을 통해 선정된 10명에게 200만 원을 지급하며, 이벤트 페이지에서 참여할 수 있다. 카카오뱅크 관계자는 “월급을 관리하고 저축하는 고객께...",
       "pubDate": "2026-07-02T07:40:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "생성형 AI 시대…핀테크 ESG도 '기술 책임'으로 진화",
@@ -6676,7 +7351,7 @@
       "description": "카카오페이가 영화 '와일드 씽' 속 화제 캐릭터 최성곤과 상시 할인 서비스 '굿딜'의 컬래버레이션 콘텐츠를 자사 유튜브와 인스타를 통해 공개했다. ◆ 카카오뱅크, 주택담보대출 중도상환해약금 면제 6개월 연장...",
       "pubDate": "2026-07-01T06:40:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "KT, 5G·LTE 경계 허문 통합요금제 출시…간편결제 이벤트까지",
@@ -7126,7 +7801,7 @@
       "description": "삼성카드는 포르쉐코리아와 제휴하여 다양한 공동 사업을 추진하며 카카오페이는 AI 중심 지속가능경영 전략과 성과를 담은 '2025 ESG 보고서'를 발간했다. ◆ 삼성카드, 포르쉐코리아와 전략적 제휴…프리미엄...",
       "pubDate": "2026-06-30T07:04:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "카카오페이, AI 전환과 지속가능경영 성과를 담은 ESG 보고서 발간 내용...",
@@ -8143,7 +8818,7 @@
       "description": "토스플레이스는 광주은행과 업무협약을 체결해 광주·전남 지역 소상공인 결제 환경 혁신에 나선다. ◆ 토스뱅크, 제7회 디지털금융포럼 '디지털금융 대상' 수상 토스뱅크(대표 이은미)가 지난 25일 부산 해운대구 그랜드...",
       "pubDate": "2026-06-26T01:44:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
@@ -8269,7 +8944,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -9232,7 +9907,7 @@
       "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게' 2026 신규 입점사 온라인 기획전을 개최했다. 또 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만 돌파했다. ◆ 카카오뱅크, 인터넷전문은행 최초로...",
       "pubDate": "2026-06-23T01:40:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "롯데百, 유니온페이 손잡고 9월 전점에 QR·NFC 간편결제 도입",
@@ -9772,7 +10447,7 @@
       "description": "카카오페이는 시니어 디지털 정보격차 해소 공로로 과기부 장관 표창을 수상했으며, 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방 영상 캠페인에도 나섰다. ◆ 카카오뱅크, '지구 온난화 멈추기...",
       "pubDate": "2026-06-19T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스인사이트·토스플레...",
@@ -9781,7 +10456,7 @@
       "description": "◆ 토스플레이스, SK브로드밴드와 소상공인 통신·결제 결합 상품 출시 토스플레이스(대표 최재호)가 SK브로드밴드(사장 김성수)와 함께 소상공인 고객을 위한 통신·결제 결합 상품을 출시한다. 권정훈(왼쪽) SK브로드밴드...",
       "pubDate": "2026-06-19T07:54:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "SK브로드밴드, 토스플레이스와 맞손… 소상공인 지원 생태계 확장",
@@ -9916,7 +10591,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -10501,7 +11176,7 @@
       "description": "중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 협약식에는 이창호 중기중앙회 공제사업단장과...",
       "pubDate": "2026-06-18T08:04:00+00:00",
       "category": "간편결제",
-      "source": "신소재경제신문"
+      "source": "amenews"
     },
     {
       "title": "중기중앙회·간편결제진흥원 '노란우산 가입확산' 협력키로",
@@ -12067,7 +12742,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -12950,52 +13625,7 @@
       "pubDate": "2026-05-01T01:36:00+00:00",
       "category": "간편결제",
       "source": "워크투데이"
-    },
-    {
-      "title": "결제 중심 간편결제 교통까지 스며든다",
-      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3062156",
-      "originallink": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3062156",
-      "description": "이번 기능 추가로 삼성월렛머니의 활용 범위는 결제 중심에서 교통 영역까지 넓어졌다. 신한은행(은행장 정상혁)은 신한 쏠뱅크 앱에 '신한 쏠페이' 간편결제 기능을 넣어 온·오프라인에서 카드 결제를 할 수 있도록 했다....",
-      "pubDate": "2026-04-28T15:00:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스클레임"
-    },
-    {
-      "title": "[핀테크업계 소식] 네이버페이, 토스페이먼츠",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=257188",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=257188",
-      "description": "온라인 및 예약·주문 가맹점의 경우 모든 결제 수단을, 현장결제의 경우 네이버페이머니·포인트 결제 건에 대해 지원 기간 동안 발생한 네이버페이 수수료 합산금액을 6월 중 전액 일시 지급한다. ◆토스페이먼츠...",
-      "pubDate": "2026-04-28T08:08:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "공시대 오른 간편결제…카드·선불 수수료 모두 내렸다",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126811",
-      "originallink": "https://www.ntoday.co.kr/news/articleView.html?idxno=126811",
-      "description": "유형별로는 전업 PG형에 토스페이먼츠, KG이니시스, NHN KCP, 나이스정보통신, 한국정보통신, KSNET 등 6개사가 포함됐다. PG·선불 겸업형은 네이버파이낸셜, 카카오페이, 비바리퍼블리카, NHN페이코, 티머니...",
-      "pubDate": "2026-04-28T07:26:00+00:00",
-      "category": "간편결제",
-      "source": "투데이신문"
-    },
-    {
-      "title": "간편결제 수수료 소폭 인하…공시 확대 효과 가시화",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015931",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015931",
-      "description": "전업 PG형에는 토스페이먼츠와 KG이니시스, NHN KCP 등이 포함됐고 겸업형에는 네이버파이낸셜과 카카오페이, 비바리퍼블리카 등이 이름을 올렸다. 금감원은 결제수수료 공시 확대와 PG업 규율 강화 방안에 따라...",
-      "pubDate": "2026-04-28T05:16:00+00:00",
-      "category": "간편결제",
-      "source": "신아일보"
-    },
-    {
-      "title": "PG·간편결제 수수료 공시 확대…플랫폼 격차 여전",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706857",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1706857",
-      "description": "유형별로는 △토스페이먼츠 △KG이니시스 △NHN KCP △나이스정보통신 △한국정보통신 △KSNET 등 전업 PG형 6개사, △네이버파이낸셜 △카카오페이 △비바리퍼블리카 △NHN페이코 △티머니 △티머니모빌리티...",
-      "pubDate": "2026-04-28T03:00:00+00:00",
-      "category": "간편결제",
-      "source": "이비엔(EBN)뉴스센터"
     }
   ],
-  "lastFetch": "2026-07-27T00:11:00.927732+00:00"
+  "lastFetch": "2026-07-28T00:13:38.938840+00:00"
 }
