@@ -1,6 +1,564 @@
 {
   "articles": [
     {
+      "title": "네이버페이, 소상공인 결제 수수료 5개월간 돌려준다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=746506",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=746506",
+      "description": "네이버페이가 이 부담을 다시 한번 덜어주기로 했다. 네이버페이(Npay, 대표이사 박상진)는 오프라인 통합 단말기 'Npay 커넥트'를 쓰는 소상공인을 대상으로 결제 수수료를 지원한다고 29일 밝혔다. 8월 3일부터 12월...",
+      "pubDate": "2026-07-29T00:06:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "멕시카나치킨, 토스와 손잡고 얼굴 인식 결제 확대… 전국 가맹점 순차...",
+      "link": "https://n.news.naver.com/mnews/article/144/0001128712?sid=101",
+      "originallink": "https://sports.khan.co.kr/article/202607290741003?pt=nv",
+      "description": "양념치킨 브랜드 ㈜멕시카나가 모바일 금융 플랫폼 토스와 협력해 얼굴 인식 기반 결제 서비스 도입에... 하나의 단말기로 페이스페이를 비롯한 여러 간편결제 수단을 통합 관리할 수 있어 주문이 집중되는 시간대에도 보다...",
+      "pubDate": "2026-07-28T22:42:00+00:00",
+      "category": "토스페이",
+      "source": "khan"
+    },
+    {
+      "title": "[이코노 브리핑] 하나카드 ‘삼성월렛 트래블로그’ 출시 외",
+      "link": "https://n.news.naver.com/mnews/article/022/0004146677?sid=101",
+      "originallink": "https://www.segye.com/newsView/20260728514593?OutUrl=naver",
+      "description": "삼성월렛은 삼성 갤럭시 스마트폰에서만 작동하는 간편결제 기능이다. 신한금융 ‘커리어넥스트’ 교육생 모집 신한금융그룹은 8월4일까지 ‘신한 커리어넥스트’ 교육생을 모집한다고 28일 밝혔다. 신한...",
+      "pubDate": "2026-07-28T20:02:00+00:00",
+      "category": "삼성페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "하나카드, 해외여행 특화 '삼성 월렛 하나 트래블로그 체크카드' 출시",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=141770",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=141770",
+      "description": "트래블로그에 국내 간편결제 서비스인 삼성월렛의 기능을 더한 상품이다. 29일 하나카드에 따르면 트래블로그는 24시간 365일 모바일 환전으로 현금 없는 여행을 선도하는 하나금융그룹의 대표 해외여행 서비스다. 현재...",
+      "pubDate": "2026-07-28T18:24:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "비바리퍼블리카, 토스페이먼츠 흡수합병… 효율성과 경쟁력 강화를 노리...",
+      "link": "https://www.tokenpost.kr/news/economy/382380",
+      "originallink": "https://www.tokenpost.kr/news/economy/382380",
+      "description": "토스는 송금과 금융 플랫폼을 중심으로 성장해 왔지만, 간편결제와 전자지급 분야에서도 계열사 간 연계가 중요한 구조를 갖고 있다. 이런 상황에서 결제 자회사를 모회사에 통합하면 조직 운영과 서비스 연동, 비용 관리...",
+      "pubDate": "2026-07-28T17:38:00+00:00",
+      "category": "토스페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "삼성전자, 삼성월렛에 하나 트래블로그 체크카드 추가…해외 결제 혜택...",
+      "link": "https://n.news.naver.com/mnews/article/076/0004430235?sid=101",
+      "originallink": "https://www.sportschosun.com/life/2026-07-28/202607280100178830011524",
+      "description": "삼성월렛 포인트는 삼성월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편결제 서비스다. 삼성전자와 하나칻드는 카드 출시를 기념해 프로모션을 진행한다. 8월 1일부터 12월 31일까지 삼성월렛...",
+      "pubDate": "2026-07-28T12:30:00+00:00",
+      "category": "삼성페이",
+      "source": "스포츠조선"
+    },
+    {
+      "title": "네이버파이낸셜, 두나무 결합 속도 내나…대주주 적격성 예외 반영 가닥...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202607281531492065ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202607281531492065ed56b8e1f8_18",
+      "description": "이번 시행령으로 네이버파이낸셜의 두나무 완전자회사 편입을 둘러싼 대주주 적격성 부담이 낮아질 전망이다. 28일 금융당국에 따르면, 규제합리화위원회는 지난 24일 제8회 성장분과위원회를 열고 금융위가 마련한...",
+      "pubDate": "2026-07-28T11:56:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "해외여행+월렛 포인트 추가...하나카드, 삼성 월렛 하나 트래블로그 체...",
+      "link": "https://www.datasom.co.kr/news/articleView.html?idxno=209308",
+      "originallink": "https://www.datasom.co.kr/news/articleView.html?idxno=209308",
+      "description": "하나카드(대표이사 성영수)는 해외여행 1등 서비스 트래블로그에 국내 대표 간편결제 서비스인 삼성월렛의 기능을 더한 '삼성 월렛 하나 트래블로그 체크카드(이하, 삼성 월렛 트래블로그카드)'를 출시한다고 28일...",
+      "pubDate": "2026-07-28T09:10:00+00:00",
+      "category": "삼성페이",
+      "source": "데이터솜"
+    },
+    {
+      "title": "[카드 뉴스브리핑] 하나카드 삼성 월렛 트래블로그 체크카드 출시",
+      "link": "https://www.asiatime.co.kr/article/20260728500389",
+      "originallink": "https://www.asiatime.co.kr/article/20260728500389",
+      "description": "□ 카카오페이 청년 디지털 금융 서포터즈 출범 카카오페이는 28일 아이들과미래재단과 청년 디지털 금융 리더 양성 사업인 '사각사각 서포터즈' 1기 발대식을 개최했다고 밝혔다. 대학생 100명을 선발해 내년 1월까지...",
+      "pubDate": "2026-07-28T09:08:00+00:00",
+      "category": "삼성페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "이디야커피, 배민 픽업·네이버페이 할인…모바일 주문 고객 잡는다",
+      "link": "https://www.news2day.co.kr/article/20260728500253",
+      "originallink": "https://www.news2day.co.kr/article/20260728500253",
+      "description": "8월 2일까지 배민 픽업 할인·네이버페이 적립 행사 모바일 주문·간편결제 이용 증가 맞춰 고객 혜택 강화 배달의민족·네이버페이 여름맞이 프로모션 [사진=이디야커피] [뉴스투데이=황도은 기자] 이디야커피가...",
+      "pubDate": "2026-07-28T08:28:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "카카오페이, '사각사각 서포터즈' 1기 발대식",
+      "link": "http://www.koreastocknews.com/news/articleView.html?idxno=120144",
+      "originallink": "http://www.koreastocknews.com/news/articleView.html?idxno=120144",
+      "description": "카카오페이(377300, 대표 신원근)는 '사각사각 서포터즈' 1기 발대식을 진행했다고 28일 밝혔다. 1기 서포터즈 100명은 약 7개월간 △다문화·이주배경 청소년 대상 디지털 금융교육 △다문화 밀집 상권 소상공인 대상...",
+      "pubDate": "2026-07-28T08:04:00+00:00",
+      "category": "카카오페이",
+      "source": "증권경제신문"
+    },
+    {
+      "title": "삼성전자·하나카드, '삼성 월렛 트래블로그 체크카드' 출시",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313485",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=313485",
+      "description": "삼성월렛 포인트는 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편결제 서비스로, 최근 가입자 250만 명을 확보했다. 카드 연회비는 없으며 삼성 월렛 앱에서 발급을 신청할 수 있다....",
+      "pubDate": "2026-07-28T08:02:00+00:00",
+      "category": "삼성페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털 금융 소식...카카오뱅크·카카오페이·토...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200376",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200376",
+      "description": "카카오페이는 대학생 100명과 함께 디지털 금융 사각지대 해소에 나서는 ‘사각사각 서포터즈’ 1기를 출범했다. 토스는 장애와 재해 상황에서도 핵심 서비스를 유지하고 복구할 수 있는 업무 연속성 관리체계의...",
+      "pubDate": "2026-07-28T07:50:00+00:00",
+      "category": "카카오페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "이디야커피, 배민 픽업·네이버페이 할인·적립 프로모션 진행",
+      "link": "https://www.hg-times.com/news/articleView.html?idxno=303959",
+      "originallink": "https://www.hg-times.com/news/articleView.html?idxno=303959",
+      "description": "한강타임즈 김광호 기자 = 이디야커피는 배달의민족 픽업 주문과 네이버페이 현장결제 고객을 대상으로 할인·적립 프로모션을 진행한다고 28일 밝혔다. 픽업 서비스를 선호하는 고객과의 접점을 넓히고 매장 이용...",
+      "pubDate": "2026-07-28T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "한강타임즈"
+    },
+    {
+      "title": "하나카드 '삼성월렛 하나 트래블로그' 체크카드 출시",
+      "link": "https://hbnpress.com/news/view/1065598434196611",
+      "originallink": "https://hbnpress.com/news/view/1065598434196611",
+      "description": "사진=하나카드 하나카드에 따르면 이번 상품은 트래블로그의 환전·결제 혜택에 삼성월렛 간편결제를 결합했다. 환율 우대 100%를 서비스를 이용할 수 있고 해외 가맹점 결제 수수료와 해외 자동현금인출기(ATM) 출금...",
+      "pubDate": "2026-07-28T07:36:00+00:00",
+      "category": "삼성페이",
+      "source": "hbnpress"
+    },
+    {
+      "title": "이디야커피, 배민·네이버페이 손잡았다…아메리카노 1000원·최대 1만원...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=535932",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=535932",
+      "description": "|중앙이코노미뉴스 윤남웅 기자|배달의민족·네이버페이 여름맞이 프로모션. [사진=이디야커피]  이디야커피가 여름 휴가철을 맞아 배달의민족과 네이버페이 이용 고객을 위한 할인·적립 프로모션을 진행한다. 픽업...",
+      "pubDate": "2026-07-28T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이, 청년 100인과 '디지털 금융 격차' 해소 나선다",
+      "link": "https://n.news.naver.com/mnews/article/003/0014093688?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260728_0003726819",
+      "description": "카카오페이가 급격한 디지털 금융 전환 과정 가운데, 대학생들이 포용적 금융 문화를 이끄는 리더로 성장할 수 있도록 지원에 나선다. 카카오페이는 아이들과미래재단과 함께 '사각사각 서포터즈' 1기 대학생 100명을...",
+      "pubDate": "2026-07-28T07:29:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "\"모바일 주문 확대\"... 이디야커피, 배민·네이버페이 프로모션 전개",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=204832",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=204832",
+      "description": "이디야커피는 여름 시즌을 맞아 배달의민족 픽업 주문과 네이버페이 현장결제 고객을 대상으로 할인 및 적립 프로모션을 진행한다고 28일 밝혔다. 이번 행사는 모바일 플랫폼을 통한 주문과 간편결제 이용 증가에 맞춰...",
+      "pubDate": "2026-07-28T07:22:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "장애·재난에도 서비스 유지···토스, 금융권 위기 대응력 강화 나서",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=149666",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=149666",
+      "description": "특히 간편결제, 송금, 금융관리 등 일상과 밀접한 서비스를 제공하는 플랫폼 기업에게 장애 대응 능력은 이용자 신뢰와 직결되는 핵심 요소다. 토스 역시 금융 서비스를 포함해 다양한 생활 밀착형 서비스를 운영하고 있는...",
+      "pubDate": "2026-07-28T07:08:00+00:00",
+      "category": "토스페이",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "하나카드, 트래블로그·삼성월렛 결합 체크카드 출시...10% 적립 혜택까...",
+      "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=318146",
+      "originallink": "http://www.updownnews.co.kr/news/articleView.html?idxno=318146",
+      "description": "하나카드는 해외여행 서비스 트래블로그에 국내 대표 간편결제 서비스인 삼성 월렛 기능을 더한 '삼성 월렛 하나 트래블로그 체크카드'를 출시한다고 28일 밝혔다. 이번 상품은 트래블로그의 강력한 해외 여행 특화...",
+      "pubDate": "2026-07-28T07:04:00+00:00",
+      "category": "삼성페이",
+      "source": "업다운뉴스"
+    },
+    {
+      "title": "삼성전자, 하나카드와 '삼성 월렛 트래블로그 카드' 출시…해외 결제 1...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=535829",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=535829",
+      "description": "이번 카드는 삼성 월렛의 간편결제 기능과 하나카드 트래블로그 체크카드의 해외 여행 특화 혜택을 결합한 것이 특징이다. 삼성 월렛 트래블로그 카드는 무료 환전(환율 우대 100%)과 해외 가맹점 이용 수수료 면제, 해외...",
+      "pubDate": "2026-07-28T06:46:00+00:00",
+      "category": "삼성페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 '하나 트래블로그 카드' 추가",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=208516",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=208516",
+      "description": "최근 250만명의 가입자를 확보한 '삼성월렛 포인트'는 결제할 때마다 적립되는 포인트로 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 연회비가 없는 이번 카드는 삼성...",
+      "pubDate": "2026-07-28T06:36:00+00:00",
+      "category": "삼성페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "[산업 뉴스브리핑] 삼성월렛, '하나 트래블로그 체크카드' 담다",
+      "link": "https://www.asiatime.co.kr/article/20260728500323",
+      "originallink": "https://www.asiatime.co.kr/article/20260728500323",
+      "description": "가입자 250만 명을 확보한 '삼성월렛 포인트'는 결제할 때마다 쌓이는 포인트로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 쓸 수 있는 선불형 간편 결제 서비스다. 연회비는 없다. 삼성 월렛 앱에서 발급 신청할...",
+      "pubDate": "2026-07-28T06:24:00+00:00",
+      "category": "삼성페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "삼성 월렛 해외 결제하면 10% 적립…하나 트래블로그 카드 출시",
+      "link": "https://www.cnet.co.kr/view/?no=20260728151142",
+      "originallink": "https://www.cnet.co.kr/view/?no=20260728151142",
+      "description": "삼성월렛 포인트는 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편결제 서비스다. 가입자는 최근 250만 명을 넘어섰다. 카드 연회비는 없으며 삼성 월렛 앱에서 발급을 신청할 수 있다....",
+      "pubDate": "2026-07-28T06:20:00+00:00",
+      "category": "삼성페이",
+      "source": "cnet"
+    },
+    {
+      "title": "이디야커피, 여름 맞아 배민 픽업·네이버페이 프로모션",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=258150",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=258150",
+      "description": "한편 이번 프로모션은 모바일 플랫폼을 통한 주문과 간편결제 서비스 이용이 늘어나는 흐름에 맞춰 기획됐다. 이디야커피는 픽업 서비스를 선호하는 고객과의 접점을 넓히고 매장 이용 편의성과 결제 혜택을 강화할...",
+      "pubDate": "2026-07-28T06:18:00+00:00",
+      "category": "네이버페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "이디야커피, 여름 맞이 할인 혜택 확대…배민 픽업·네이버페이 프로모...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132565",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132565",
+      "description": "모바일 주문과 간편결제 이용이 일상화되면서 편리한 주문 방식과 실속 있는 혜택을 동시에 제공하는 프로모션도 확대되는 추세다. 이디야커피는 여름 시즌을 맞아 배달의민족 픽업 서비스와 네이버페이 현장결제 이용...",
+      "pubDate": "2026-07-28T06:06:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "토스도 거른 '국내 소수점'…카카오페이증권이 꺼낸 속사정",
+      "link": "https://n.news.naver.com/mnews/article/629/0000519671?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2347847.htm",
+      "description": "토스 발뺀 시장…카카오, 2000만 뱅크 유저 업고 정면 돌파 마케팅·인프라 고정비 투입, 흑자기조 안착에 부담 우려도 카카오페이증권이 금융당국으로부터 투자매매업 본인가를 취득하자마자 국내 주식 소수점 거래에...",
+      "pubDate": "2026-07-28T06:00:00+00:00",
+      "category": "토스페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "하나카드, 삼성 월렛 하나 트래블로그 체크카드 출시",
+      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=360969",
+      "originallink": "http://www.smedaily.co.kr/news/articleView.html?idxno=360969",
+      "description": "사진/하나카드 하나카드가 트래블로그에 간편결제 서비스인 삼성월렛의 기능을 더한 '삼성 월렛 하나 트래블로그 체크카드(이하 삼성 월렛 트래블로그카드)'를 출시했다. 28일 하나카드에 따르면 삼성 월렛 트래블로그...",
+      "pubDate": "2026-07-28T05:56:00+00:00",
+      "category": "삼성페이",
+      "source": "중소기업신문"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 '하나 트래블로그 체크카드' 추가",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno=240641",
+      "originallink": "https://www.itdaily.kr/news/articleView.html?idxno=240641",
+      "description": "삼성월렛 포인트는 삼성 월렛 앱에서 적립·사용할 수 있는 선불형 간편결제 서비스다. 삼성전자에 따르면 현재 가입자는 250만 명이다. 연회비는 없으며 삼성 월렛 앱에서 카드 발급을 신청하면 자동으로 간편 등록...",
+      "pubDate": "2026-07-28T05:54:00+00:00",
+      "category": "삼성페이",
+      "source": "아이티데일리"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 '하나 트래블로그 체크카드' 추가",
+      "link": "https://www.kpinews.kr/newsView/1065578549524578",
+      "originallink": "https://www.kpinews.kr/newsView/1065578549524578",
+      "description": "'삼성 월렛 포인트'는 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 연회비가 없어 삼성 월렛 앱에서 바로 발급 신청할 수 있다. 발급되면 자동으로 카드 간편 등록 알림을 받아 삼성 월렛에...",
+      "pubDate": "2026-07-28T05:54:00+00:00",
+      "category": "삼성페이",
+      "source": "kpinews"
+    },
+    {
+      "title": "하나카드, 삼성전자 손잡고 '삼성 월렛 트래블로그카드' 선보여",
+      "link": "https://www.kpinews.kr/newsView/1065577695588477",
+      "originallink": "https://www.kpinews.kr/newsView/1065577695588477",
+      "description": "[하나카드 제공] 하나카드는 해외여행 1등 서비스 트래블로그에 국내 대표 간편결제 서비스인 삼성월렛의 기능을 더한 '삼성 월렛 하나 트래블로그 체크카드(삼성 월렛 트래블로그카드)'를 출시한다고 28일 밝혔다....",
+      "pubDate": "2026-07-28T05:53:00+00:00",
+      "category": "삼성페이",
+      "source": "kpinews"
+    },
+    {
+      "title": "하나카드, 삼성월렛 입은 트래블로그 출시…갤럭시 이용자 잡는다",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83758",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=83758",
+      "description": "하나카드는 이번 신상품을 통해 트래블로그의 해외여행 특화 혜택과 삼성월렛의 간편결제 서비스를 결합해 갤럭시 이용자들에게 차별화된 해외 결제 경험을 제공할 계획이라고 28일 밝혔다. 트래블로그는...",
+      "pubDate": "2026-07-28T05:50:00+00:00",
+      "category": "삼성페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "카카오페이, 청년 100명 뽑아 다문화 금융격차 해소 나선 이유",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=746422",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=746422",
+      "description": "카카오페이가 이번에 청년 100명을 현장으로 내보낸 배경에는 기술 보급만으로는 메워지지 않는 격차를 사람이 직접 채우겠다는 판단이 깔려 있다. 카카오페이는 아이들과미래재단과 함께하는 청년 디지털 금융 리더...",
+      "pubDate": "2026-07-28T05:22:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "\"50% 할인이라더니 최대 1000원 깎아줘\"...카카오페이 굿딜, 소비자 기만...",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=438625",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=438625",
+      "description": "고물가 시대에 한 푼이라도 아끼려 할인 혜택을 찾는 소비자가 느는 가운데, 카카오페이 할인 서비스 굿딜이 소비자 기만 논란을 자초했다. 최근 카카오페이 굿딜은 '롯데리아 20대 위클리 50% 할인 쿠폰'을 선착순...",
+      "pubDate": "2026-07-28T05:22:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "카카오페이, 청년 디지털 금융 리더 100명 키운다…'사각사각 서포터즈...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=83754",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=83754",
+      "description": "인더스트리뉴스 김은경 기자  카카오페이가 청년들과 함께 다문화 가정과 지역 상권의 디지털 금융 사각지대 해소에 나선다. 카카오페이(대표 신원근)는 28일 아이들과미래재단과 함께 청년 디지털 금융 리더 양성...",
+      "pubDate": "2026-07-28T05:18:00+00:00",
+      "category": "카카오페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "하나카드, '트래블로그' 간편결제 허브로…갤럭시 이용자 정조준",
+      "link": "https://www.news2day.co.kr/article/20260728500139",
+      "originallink": "https://www.news2day.co.kr/article/20260728500139",
+      "description": "카카오페이 이어 삼성월렛 플랫폼에 트래블로그 심어 해외결제 적립률 10% 혜택 [사진=연합뉴스] [뉴스투데이=김태규 기자] 하나카드가 삼성 갤럭시 스마트폰 이용자를 겨냥한 해외여행 특화 신용·체크카드를 내놨다....",
+      "pubDate": "2026-07-28T05:14:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "하나카드, 삼성월렛 입은 트래블로그 체크카드 공개",
+      "link": "https://n.news.naver.com/mnews/article/629/0000519645?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2347834.htm",
+      "description": "해외 결제 혜택과 간편결제 기능을 결합해 갤럭시 이용자의 여행 결제 경험을 강화하겠다는 전략이다. 하나카드는 '삼성 월렛 하나 트래블로그 체크카드'를 출시했다고 28일 밝혔다. 이번 상품은 트래블로그의 환전...",
+      "pubDate": "2026-07-28T05:12:00+00:00",
+      "category": "삼성페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "카페인중독, 카카오페이 '굿딜' 상시 제휴… 프로모션 없이 5% 할인 제공",
+      "link": "https://www.livesnews.com/news/article.html?no=63000",
+      "originallink": "https://www.livesnews.com/news/article.html?no=63000",
+      "description": "디저트 카페 프랜차이즈 카페인중독이 카카오페이의 신규 할인 서비스 '굿딜'에 상시 입점하며 오프라인 결제 혜택을 확대한다. 오는 27일부터 이용 가능한 이번 서비스는 별도의 이벤트 기간 없이 상시 할인 혜택을...",
+      "pubDate": "2026-07-28T05:10:00+00:00",
+      "category": "카카오페이",
+      "source": "livesnews"
+    },
+    {
+      "title": "하나카드, 해외 결제 10% 적립 ‘삼성월렛 하나 트래블로그’ 출시",
+      "link": "https://sateconomy.co.kr/news/view/1065588039134604",
+      "originallink": "https://sateconomy.co.kr/news/view/1065588039134604",
+      "description": "하나카드는 출시를 기념해 다음 달 1일부터 포인트 추가 적립과 경품 추첨 이벤트를 진행할 예정이다. 삼성월렛은 삼성 갤럭시 스마트폰에서 이용할 수 있는 간편결제 서비스다. 토요경제",
+      "pubDate": "2026-07-28T05:00:00+00:00",
+      "category": "삼성페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "[카드톡톡] AI 오픈소스부터 삼성월렛 결합·즉시할인까지…카드업계, ...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1396017",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1396017",
+      "description": "사진=연합뉴스 매일일보 = 기영미 기자  |  카드업계가 인공지능(AI)과 간편결제를 앞세운 디지털 혁신 경쟁에 속도를 내고 있다. BC카드는 금융권 최초로 자체 AI 플랫폼을 오픈소스로 공개했고 하나카드는 해외여행...",
+      "pubDate": "2026-07-28T04:46:00+00:00",
+      "category": "삼성페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "삼성전자, ‘삼성 월렛 하나 트래블로그 체크카드’ 삼성월렛에 추가",
+      "link": "http://www.breaknews.com/1224937",
+      "originallink": "http://www.breaknews.com/1224937",
+      "description": "삼성월렛 포인트는 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 또한, 무료 환전(환율우대 100%), 해외 가맹점...",
+      "pubDate": "2026-07-28T04:38:00+00:00",
+      "category": "삼성페이",
+      "source": "브레이크뉴스"
+    },
+    {
+      "title": "삼성전자, 삼성 월렛에 하나 트래블로그 체크카드 추가…해외 결제시 1...",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202607281329217884be44c0aacd_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202607281329217884be44c0aacd_30",
+      "description": "최근 250만명의 가입자를 확보한 삼성월렛 포인트는 결제할 때마다 적립되는 포인트로 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 이번 카드는 삼성 월렛 앱에서 발급...",
+      "pubDate": "2026-07-28T04:32:00+00:00",
+      "category": "삼성페이",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "[산업소식] 삼성 월렛 '삼성 월렛 트래블로그 카드' 추가",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2115374",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2115374",
+      "description": "캠페인을 마련했다\"며 \"제주항공이 준비한 다양한 혜택과 함께 여름 성수기 여행을 더욱 즐겁게 즐기길 바란다\"고 말했다. 2026.7.28./사진=삼성전자 삼성 월렛에 '삼성 월렛 트래블로그 카드' 추가 삼성전자는...",
+      "pubDate": "2026-07-28T03:04:00+00:00",
+      "category": "삼성페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "카카오페이 사각사각 서포터즈 출범",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101192",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101192",
+      "description": "카카오페이가 청년 디지털 금융 리더 양성에 나서며 다문화 가정과 지역 상권의 금융 격차 해소에 나선다. 카카오페이는 아이들과미래재단과 함께 추진하는 청년 디지털 금융 리더 양성 사업 사각사각 서포터즈 1기...",
+      "pubDate": "2026-07-28T02:58:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "카카오페이, '사각사각 서포터즈' 1기 100명 선발",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=89972",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=89972",
+      "description": "카카오페이는 아이들과미래재단과 함께 청년 디지털 금융 리더 양성 프로그램인 '사각사각 서포터즈' 1기 발대식을 열고 본격적인 활동을 시작했다고 28일 밝혔다. 카카오페이는 지난 25일 경기 성남시 카카오 AI...",
+      "pubDate": "2026-07-28T02:44:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "삼성전자, 하나카드와 '삼성 월렛 하나 트래블로그 체크카드' 출시 … 해...",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=87233",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=87233",
+      "description": "페이 등과의 간편결제 경쟁에서 영향력을 확대하려는 전략으로 보고 있다. 특히 해외 결제와 리워드 혜택을 결합한 구조는 사용자 락인(lock-in) 효과를 강화하는 요소로 평가된다. 채원철 삼성전자 MX사업부 디지털월렛팀...",
+      "pubDate": "2026-07-28T02:38:00+00:00",
+      "category": "삼성페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "청년이 금융 사각지대를 메운다…카카오페이, '디지털 금융 리더' 키운...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=205610",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=205610",
+      "description": "카카오페이(대표 신원근)는 이러한 변화에 맞춰 대학생들이 다문화가정과 지역 소상공인의 디지털 금융 격차를 줄이는 활동에 직접 참여하는 '사각사각 서포터즈'​를 출범시키며 청년 중심의 포용금융 생태계 구축에...",
+      "pubDate": "2026-07-28T02:30:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "[포토뉴스] 카카오페이, '사각사각 서포터즈' 1기 발대식 개최",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1009446",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1009446",
+      "description": "카카오페이가 지난 25일 경기도 성남시 카카오 AI 캠퍼스에서 아이들과미래재단과 함께 청년 디지털 금융 리더 양성 사업 '사각사각 서포터즈' 1기 대학생 100명을 선발하고 발대식을 가졌다고 28일 밝혔다.",
+      "pubDate": "2026-07-28T02:30:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "[테크스냅] 카카오페이 '사각사각 서포터즈' 1기 발대식",
+      "link": "https://n.news.naver.com/mnews/article/001/0016218792?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260728076000017?input=1195m",
+      "description": "중고나라, 앱 전면 개편…개인화 추천·안심거래 강화 카카오페이는 청년 디지털 금융 리더 양성 프로그램인 '사각사각 서포터즈' 1기 활동을 시작했다. 중고 거래 플랫폼 중고나라는 상품 탐색과 거래 신뢰, 판매 편의...",
+      "pubDate": "2026-07-28T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[금융] 미래에셋 반도체 ETF 6조원 / 카카오페이 청년 서포터즈 / KB손보...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2247531",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2247531",
+      "description": "◼︎ 카카오페이 청년 디지털 금융 리더 100명 선발 카카오페이는 아이들과미래재단과 함께 운영하는 '사각사각 서포터즈' 1기 대학생 100명을 선발하고 활동을 시작했다고 28일 밝혔다. 선발된 대학생들은 5명씩 20개...",
+      "pubDate": "2026-07-28T02:22:00+00:00",
+      "category": "카카오페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "알바천국, 수능 D-100 맞아 고3 응원 이벤트…1,250명에 네이버페이 포인...",
+      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=222353",
+      "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=222353",
+      "description": "매일 오후 6시부터 알바천국 모바일 애플리케이션 이벤트 페이지에서 '선물받기' 버튼을 누르면 선착순으로 하루 125명이 당첨된다. 이벤트에 선정된 총 1,250명의 수험생에게는 수능 D-100인 8월 11일 네이버페이 포인트...",
+      "pubDate": "2026-07-28T02:10:00+00:00",
+      "category": "네이버페이",
+      "source": "잡포스트(JOBPOST)"
+    },
+    {
+      "title": "카카오페이, 대학생 100명과 디지털 금융 사각지대 해소 나선다",
+      "link": "https://n.news.naver.com/mnews/article/138/0002235701?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026072810493506048",
+      "description": "카카오페이가 대학생 100명과 함께 다문화 가정과 지역 상권의 디지털 금융 격차 해소에 나선다. 카카오페이는 아이들과미래재단과 함께 청년 디지털 금융 리더 양성 사업인 ‘사각사각 서포터즈’ 1기 발대식을 열고...",
+      "pubDate": "2026-07-28T01:50:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오페이, '사각사각 서포터즈' 출범…청년 금융 리더 육성",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=127877",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=127877",
+      "description": "카카오페이가 대학생 100명과 함께 디지털 금융 접근성이 낮은 계층을 지원하는 활동에 나선다. 다문화 청소년 금융교육과 지역 소상공인의 디지털 전환 지원을 통해 금융 격차 해소에 힘을 보탠다는 계획이다....",
+      "pubDate": "2026-07-28T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "카카오페이, '사각사각 서포터즈' 출범...청년 100명과 금융 사각지대 해...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005553840?sid=101",
+      "originallink": "http://www.fnnews.com/news/202607280931174237",
+      "description": "카카오페이가 대학생 100명과 함께 다문화 가정과 지역 상권의 디지털 금융 격차 해소에 나선다. 청년들을 포용금융 리더로 육성하는 동시에 디지털 금융에서 소외된 이웃을 찾아 지원한다는 구상이다. 28일 카카오페이는...",
+      "pubDate": "2026-07-28T01:39:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "SKT, 갤럭시 Z 폴드8 시리즈 사전예약 실시…넷플릭스·네이버페이 혜택...",
+      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1757",
+      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=1757",
+      "description": "네이버페이 포인트를 지급한다. 사전예약 고객은 T멤버십 '클럽 갤럭시 폴더블8' 프로그램을 통해... 아웃백 할인, 배달의민족 할인, 롯데시네마 영화 관람권 2매, 매머드 익스프레스 아메리카노 2잔, 카카오...",
+      "pubDate": "2026-07-28T01:36:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스맵"
+    },
+    {
+      "title": "카카오페이, 청년 금융 리더 ‘사각사각 서포터즈’ 1기 발대식...소비자...",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202607281017276705df3c2a17b7_23",
+      "originallink": "http://www.thebigdata.co.kr/view.php?ud=202607281017276705df3c2a17b7_23",
+      "description": "카카오페이(대표 신원근)가 아이들과미래재단(이사장 이훈규)과 함께 청년 디지털 금융 리더 양성 사업인 ‘사각사각 서포터즈’ 1기 대학생 100명을 선발하고 본격적인 활동을 시작한다. 선발된 청년들은 다문화 가정...",
+      "pubDate": "2026-07-28T01:28:00+00:00",
+      "category": "카카오페이",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "\"청년100인 디지털금융 사각지대 해소나선다\" 카카오페이 '사각사각 서...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=126648",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=126648",
+      "description": "카카오페이가 지난 27일 경기도 성남시 카카오 AI 캠퍼스에서 '사각사각 서포터즈' 1기 발대식을 진행했다. [사진 카카오페이] 카카오페이가 아이들과미래재단과 함께 '사각사각 서포터즈' 1기 대학생 100명을 선발하고...",
+      "pubDate": "2026-07-28T01:04:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오페이, 청년 100인과 포용금융 리더 육성 나선다",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265037",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265037",
+      "description": "사진=카카오페이)  카카오페이가 청년 100인을 대상으로 내년 1월까지 7개월간 포용적 디지털 금융 활동을 전개해 사각지대를 해소하고 포용적 금융 문화를 이끄는 리더로 성장할 수 있도록 지원할 계획이다....",
+      "pubDate": "2026-07-28T01:02:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "카카오페이, '사각사각 서포터즈 1기' 발대식 진행",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268071",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=268071",
+      "description": "카카오페이는 지난 25일 아이들과미래재단과 함께 청년 디지털 금융 리더 양성 사업인 '사각사각 서포터즈' 1기 발대식을 열었다고 28일 밝혔다. 경기 성남시 카카오 AI 캠퍼스에서 열린 발대식에는 서포터즈로 선발된...",
+      "pubDate": "2026-07-28T00:50:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "토스·투게더스, 전국 5천여개 마트에 '페이스페이' 도입 협력",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=220234",
+      "originallink": "https://www.itbiznews.com/news/articleView.html?idxno=220234",
+      "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다. 투게더스는 국내 유통 POS...",
+      "pubDate": "2026-07-28T00:50:00+00:00",
+      "category": "토스페이",
+      "source": "IT비즈뉴스"
+    },
+    {
+      "title": "카카오페이, 대학생 100명과 포용금융 확산 나선다",
+      "link": "https://n.news.naver.com/mnews/article/030/0003451607?sid=101",
+      "originallink": "https://www.etnews.com/20260728000068",
+      "description": "카카오페이가 아이들과미래재단과 함께 청년 디지털 금융 리더 양성 사업인 '사각사각 서포터즈' 1기 대학생 100명을 선발하고 본격적인 활동을 시작한다. 선발된 청년들은 다문화 가정, 지역 상권의 디지털 금융 격차...",
+      "pubDate": "2026-07-28T00:47:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "삼성전자, 하나카드와 맞손…‘삼성 월렛 트래블로그 카드’ 출시",
+      "link": "https://www.sentv.co.kr/article/view/sentv202607280029",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202607280029",
+      "description": "기존 '삼성페이'의 오프라인 마그네틱보안전송(MST) 및 NFC 결제 편의성에 탑승권, 티켓, 디지털 키 등 라이프스타일 편의 기능을 대폭 확장하며 글로벌 디지털 월렛 생태계를 빠르게 확대해 나가고 있다.",
+      "pubDate": "2026-07-28T00:36:00+00:00",
+      "category": "삼성페이",
+      "source": "서울경제TV"
+    },
+    {
       "title": "삼성전자, 삼성 월렛 하나 트래블로그 체크카드 추가...\"해외 결제 시 1...",
       "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=256588",
       "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=256588",
@@ -493,7 +1051,7 @@
       "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다.투게더스는 국내 유통 POS...",
       "pubDate": "2026-07-27T01:56:00+00:00",
       "category": "토스페이",
-      "source": "ȴ"
+      "source": "boannews"
     },
     {
       "title": "토스, 투게더스와 손잡고 페이스페이 확대…전국 5000여곳 순차 도입",
@@ -2068,7 +2626,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -5020,7 +5578,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -5191,7 +5749,7 @@
       "description": "◆카카오엔터, ‘도굴왕: 엔드라인’ 웹툰·웹소설 공개 카카오엔터테인먼트가 ‘도굴왕’ 후속 시리즈 ‘도굴왕: 엔드라인’ 웹툰을 5일, 웹소설을 6일 카카오페이지에 순차적으로 공개한다. 애니메이션...",
       "pubDate": "2026-07-07T07:32:00+00:00",
       "category": "네이버페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "네이버페이, 투자사-스타트업·벤처 잇는 '생산적 금융' 나선다",
@@ -5506,7 +6064,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -5857,7 +6415,7 @@
       "description": "주총 11월 19일·교환일 12월 31일로 변경…\"글로벌 경쟁력 확보 취지 성실히 설명\" 네이버파이낸셜과 두나무 간 포괄적 주식교환 일정이 약 3개월 늦춰졌다. 관계 당국의 기업결합 심사 등 인허가 절차가 진행 중인 데...",
       "pubDate": "2026-07-06T08:02:00+00:00",
       "category": "네이버페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "네이버파이낸셜, 두나무와 주식교환 오는 12월31일로 연기",
@@ -8944,7 +9502,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -9502,7 +10060,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -10591,7 +11149,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "datanews"
+      "source": "데이터뉴스"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -10645,7 +11203,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -10780,7 +11338,7 @@
       "description": "글로벌 스포츠·엔터테인먼트 블록체인 기업 칠리즈(CHILIZ)가 네이버페이 월렛과의 협업을 통해 네이버페이 월렛의 가입자 및 홀더 수가 100만 명을 돌파했다고 19일 밝혔다.칠리즈 체인은 네이버페이 월렛의...",
       "pubDate": "2026-06-19T01:46:00+00:00",
       "category": "네이버페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "\"소상공인 통신비 낮추고 결제관리까지\"…SK브로드밴드·토스플레이스 ...",
@@ -13627,5 +14185,5 @@
       "source": "워크투데이"
     }
   ],
-  "lastFetch": "2026-07-28T00:13:38.938840+00:00"
+  "lastFetch": "2026-07-29T00:10:30.041460+00:00"
 }
