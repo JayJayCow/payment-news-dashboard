@@ -1,6 +1,564 @@
 {
   "articles": [
     {
+      "title": "토스플레이스·비즈플레이, 지역사랑상품권 결제 확대 협력",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689560",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689560",
+      "description": "서울 강남구 역삼동 토스 본사에서 열린 협약식에서 김정열 토스플레이스 부대표(우)와 정광련 비즈플레이 부사장(우)이 기념 사진을 촬영하고 있다. [사진: 토스] 토스의 결제 단말기·판매시점정보관리시스템(POS) 자회사...",
+      "pubDate": "2026-08-04T00:14:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "\"묻기 전에 먼저 제안한다\"…카카오페이, AI코치 베타 출시",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=537474",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=537474",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 마이데이터를 기반으로 사용자의 소비 내역을 분석하고 건강한 금융 습관 형성과 자산 목표 달성을 돕는 맞춤형 AI 금융 에이전트 'AI코치' 베타 버전을 출시했다고 4일...",
+      "pubDate": "2026-08-04T00:12:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "토스플레이스, 지역화폐 결제 확대…\"지역경제 활성화 기여\"",
+      "link": "https://www.ajunews.com/view/20260804090825550",
+      "originallink": "https://www.ajunews.com/view/20260804090825550",
+      "description": "지역화폐 운영사 비즈플레이와 MOU 아주경제=이성진 기자 leesj@ajunews.com 정광련 비즈플레이 부사장, 김정열 토스플레이스 부대표 [사진=토스] 비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스가...",
+      "pubDate": "2026-08-04T00:12:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "삼성카드, '모니모페이카드' 출시…간편결제 최대 15% 할인",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307767",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=307767",
+      "description": "삼성카드가 모니모페이 이용 고객을 겨냥해 간편결제 시 최대 15% 할인 혜택을 제공하는 특화 카드를 선보였다. 모니모페이는 모니모앱에서 제공하는 간편결제 서비스다. 최근 MST(마그네틱 보안 전송) 기능을 도입하면서...",
+      "pubDate": "2026-08-04T00:10:00+00:00",
+      "category": "간편결제",
+      "source": "FETV"
+    },
+    {
+      "title": "카카오페이, 마이데이터 분석 AI 금융 코칭 서비스 공개",
+      "link": "http://www.lawissue.co.kr/view.php?ud=2026080409055657569817d053b9_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026080409055657569817d053b9_12",
+      "description": "카카오페이가 마이데이터를 기반으로 소비 내역을 분석하고 금융 습관 형성을 돕는 AI 금융 에이전트 'AI코치'를 공개했다고 4일 밝혔다. 카카오페이에 따르면 AI코치는 예산 기반 지출 관리와 절약 챌린지, 거래 내역 분석...",
+      "pubDate": "2026-08-04T00:08:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "비즈플레이-토스플레이스 맞손…서울페이 QR결제·기업 비용관리 연계",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1398483",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1398483",
+      "description": "지난 29일 서울 서초구 토스플레이스 본사에서 열린 업무협약(MOU) 체결식에서 정광련 비즈플레이 부사장(왼쪽)과 김정열 토스플레이스 부대표가 기념 촬영을 하고 있다. 사진=비즈플레이 제공 매일일보 = 오시내 기자...",
+      "pubDate": "2026-08-04T00:06:00+00:00",
+      "category": "토스페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "삼성카드, 모니모페이 간편결제 특화카드 선보여",
+      "link": "http://www.lawissue.co.kr/view.php?ud=2026080409044077869817d053b9_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026080409044077869817d053b9_12",
+      "description": "삼성카드가 모니모페이 간편결제에 특화된 모니모페이카드를 출시했다고 4일 밝혔다. 삼성카드에 따르면 모니모페이는 모니모앱의 간편결제 서비스로, MST 기능 도입으로 온·오프라인 가맹점 모두에서 실물 카드 없이...",
+      "pubDate": "2026-08-04T00:06:00+00:00",
+      "category": "간편결제",
+      "source": "로이슈"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 맞손…지역화폐 결제 서비스 확대",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=315978",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=315978",
+      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 지역사랑상품권 운영사 비즈플레이와 손잡고 지역화폐 결제 서비스 확대와 기업 비용관리 시장 공략에 나선다. 토스플레이스는...",
+      "pubDate": "2026-08-04T00:02:00+00:00",
+      "category": "토스페이",
+      "source": "월요신문"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 맞손···소상공인 결제 혁신 나서",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=142056",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=142056",
+      "description": "서울 강남구 역삼동 토스 본사에서 열린 협약식에서 김정열 토스플레이스 부대표(오른쪽)와 정광련 비즈플레이 부사장이 기념 사진을 촬영하고 있다. [토스플레이스]  토스플레이스가 지역화폐 운영사 비즈플레이와...",
+      "pubDate": "2026-08-04T00:02:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "토스플레이스, 지역화폐 운영사 비즈플레이와 맞손",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=715620",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=715620",
+      "description": "컨슈머타임스=김지훈 기자 | 비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스(대표 최재호)가 비즈플레이(대표 석창규)와 지역사랑상품권 결제 활성화와 기업 비용관리 협력을 위한...",
+      "pubDate": "2026-08-03T23:52:00+00:00",
+      "category": "토스페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "\"매장에서 쉽게 쓴다\"…토스플레이스, 비즈플레이와 지역화폐 MOU",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=537459",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=537459",
+      "description": "|중앙이코노미뉴스 정재혁 기자|서울 강남구 역삼동 토스 본사에서 열린 협약식에서 김정열 토스플레이스 부대표(오른쪽)와 정광련 비즈플레이 부사장이 기념 사진을 촬영하고 있다. [사진=토스플레이스]  비바리퍼블리카...",
+      "pubDate": "2026-08-03T23:48:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 협약…소상공인 지역화폐 결제지원",
+      "link": "https://n.news.naver.com/mnews/article/277/0005798389?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026080408393380074",
+      "description": "토스플레이스는 비즈플레이와 지역사랑상품권 결제 활성화와 기업 비용관리 협력을 위한 전략적 업무협약(MOU)을 체결했다고 4일 밝혔다. 지난달 29일 서울 강남구 역삼동 아크플레이스에서 열린 협약식은 김정열...",
+      "pubDate": "2026-08-03T23:39:00+00:00",
+      "category": "토스페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "토스플레이스·비즈플레이 '맞손'···소상공인 결제 혁신 협력",
+      "link": "https://n.news.naver.com/mnews/article/018/0006343780?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02860166645544040",
+      "description": "토스의 결제 단말기·포스(POS) 설루션 공급 자회사 토스플레이스가 비즈플레이와 지역사랑상품권 결제 활성화와 기업 비용관리를 위해 힘을 모은다. 양사는 지난 달 29일 토스플레이스 신논현 오피스에서 전략적 업무협약...",
+      "pubDate": "2026-08-03T23:27:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "토스플레이스, 지역화폐 판 넓히는 이유는?",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=747023",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=747023",
+      "description": "토스플레이스가 지역사랑상품권 운영 전문 기업과 손잡은 배경에도 이런 계산이 깔려 있다는 분석이다. 비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 공급 자회사 토스플레이스(대표 최재호)는 비즈플레이(대표...",
+      "pubDate": "2026-08-03T23:20:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "\"지역화폐·기업 정산을 한번에\"…토스플레이스, 비즈플레이와 결제 인...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84036",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84036",
+      "description": "토스의 결제 단말기 및 포스 솔루션 자회사 토스플레이스가 지역화폐 운영사 비즈플레이와 지역사랑상품권 활성화 및 기업 비용관리 협력을 위한 전략적 업무협약을 맺었다고 4일 밝혔다. 양사는 비즈플레이의 공공...",
+      "pubDate": "2026-08-03T23:18:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "[오늘의 증시일정] 에코프로·카카오페이·대우건설 등",
+      "link": "https://www.etoday.co.kr/news/view/2610612",
+      "originallink": "https://www.etoday.co.kr/news/view/2610612",
+      "description": "이투데이=김범근 기자 | 대동기어 손오공 [결산실적공시] 대우건설, 에코프로머티, 지누스, 현대리바트, HDC, 제주항공, GS피앤엘, 에코프로, 현대이지웰, 현대그린푸드, 카카오페이, 강원랜드, 에코프로에이치엔, 넥써쓰...",
+      "pubDate": "2026-08-03T23:02:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "[핀테크핫이슈] 결제망 파고드는 예금토큰...자본시장 재편도 가속",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689355",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689355",
+      "description": "네이버페이의 결제 수수료 지원까지 더해지면서 포용금융 경쟁은 대출 공급뿐 아니라 신용평가 개선과 금융비용 절감까지 아우르는 방향으로 확장되고 있다. ⦁하나은행, 외국인 근로자 고용 농어업인 우대통장 출시...",
+      "pubDate": "2026-08-03T21:24:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "다이소, 카카오페이 온오프라인 통합 이벤트 31일까지 진행한다",
+      "link": "http://www.newsbrite.net/news/articleView.html?idxno=199583",
+      "originallink": "http://www.newsbrite.net/news/articleView.html?idxno=199583",
+      "description": "다이소가 카카오페이로 결제하면 알찬 혜택을 제공하는 '카카오페이 온오프라인 통합' 이벤트를 31일까지 진행한다. 이벤트는 다이소몰과 매장에서 1회씩 참여할 수 있다. 다이소몰에서 카카오페이머니로 3만원 이상...",
+      "pubDate": "2026-08-03T13:16:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스브라이트"
+    },
+    {
+      "title": "토스플레이스, 'Toss for Better Place' 첫 행사…성수동 골목 청소",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=142236",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=142236",
+      "description": "토스플레이스가 성수동 일대에서 가맹점 사장님, 손님과 함께 골목 상권 환경을 정화하는 'Toss for Better Place' 행사를 진행했다. 사진=토스플레이스  토스의 결제 단말기·포스(POS) 솔루션 공급 자회사 토스플레이스...",
+      "pubDate": "2026-08-03T12:18:00+00:00",
+      "category": "토스페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "중기중앙회, '노란우산 온라인 가입 프로모션' 진행...네이버페이 또는...",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442276",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=442276",
+      "description": "가입자는 네이버페이 또는 카카오페이 모바일 쿠폰 가운데 하나를 선택해 받을 수 있다. 이번 행사는 온라인 가입 활성화를 위해 마련됐다. 노란우산은 중소기업협동조합법에 근거해 중소기업중앙회가 2007년부터...",
+      "pubDate": "2026-08-03T11:46:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "[금융] 우리은행 삼성월렛 요금제 / iM뱅크 비상금 쿠폰 / 롯데손보 만성...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2254769",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2254769",
+      "description": "월평균 잔액을 500만원 유지하면 1만원, 1000만원 유지하면 2만원 상당의 무신사·편의점·배달앱·간편결제 쿠폰을 받을 수 있다. 계좌에는 최대 1000만원까지 연 1%의 기본금리가 적용되며, 행사는 5000계좌 한정으로...",
+      "pubDate": "2026-08-03T11:30:00+00:00",
+      "category": "삼성페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "토스 페이스페이 가입 더 편해진다…보안은?",
+      "link": "https://n.news.naver.com/mnews/article/374/0000525351?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000326261?division=NAVER",
+      "description": "토스는 자회사 토스플레이스를 통해 자체 결제 단말기인 '토스 프론트'를 가맹점에 보급하고 있습니다. 얼굴만으로 결제할 수 있는 페이스페이는 다른 결제 단말기와 차별화할 수 있는 핵심 기능으로 활용되고 있습니다....",
+      "pubDate": "2026-08-03T09:27:00+00:00",
+      "category": "토스페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "자담치킨, 카카오페이 '굿딜' 서비스 시작···홀·포장 주문 고객 할인...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53055",
+      "originallink": "https://www.enetnews.co.kr/news/articleView.html?idxno=53055",
+      "description": "자담치킨(회장 나명석)이 카카오페이와 손잡고 매장 방문 고객을 위한 새로운 결제 서비스를 선보인다. 8월 3일부터 전국 매장에서 '카카오페이 굿딜' 서비스를 운영한다고 밝혔다. 카카오페이 굿딜은 고객이 카카오페이 앱...",
+      "pubDate": "2026-08-03T09:20:00+00:00",
+      "category": "카카오페이",
+      "source": "이넷뉴스"
+    },
+    {
+      "title": "아성다이소 \"카카오페이로 결제하고 할인·적랍 혜택 받으세요\"",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=234461",
+      "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=234461",
+      "description": "균일가 생활용품점 ㈜아성다이소가 '8월카카오페이 온오프라인 통합 이벤트'를 진행한다. 이에 카카오페이로 결제 시 할인 또는 적립 혜택을 받을 수 있다. 이번 이벤트는 3일부터 오는 31일까지 진행된다. 다이소몰과...",
+      "pubDate": "2026-08-03T09:00:00+00:00",
+      "category": "카카오페이",
+      "source": "한국NGO신문"
+    },
+    {
+      "title": "아성다이소, 카카오페이 손잡고 8월 결제 프로모션…온·오프라인 혜택...",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000098436",
+      "originallink": "https://www.seoultimes.news/news/article.html?no=2000098436",
+      "description": "다이소몰 3만원 이상 결제 시 1000원 즉시 할인 매장 첫 카카오페이머니 결제 고객에 최대 1000포인트 적립 31일까지 진행…온라인 배송 서비스도 함께 이용 가능 [서울타임즈뉴스 = 서연옥 기자] ㈜아성다이소는 8월 한...",
+      "pubDate": "2026-08-03T08:38:00+00:00",
+      "category": "카카오페이",
+      "source": "seoultimes"
+    },
+    {
+      "title": "[단독] 토스, 호주 이어 브라질 간다…현지 결제망 활용 송금 검토",
+      "link": "https://news.mtn.co.kr/news-detail/2026080317193990326",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026080317193990326",
+      "description": "간편송금을 합친 것과 비슷한 공공 송금망으로 휴대전화 번호나 이메일 주소, QR코드만 있으면 서로 다른 금융회사 계좌 사이에서도 돈을 수초 안에 보낼 수 있다. 현지 결제회사의 픽스 접속망을 이용하면 토스가 별도...",
+      "pubDate": "2026-08-03T08:34:00+00:00",
+      "category": "토스페이",
+      "source": "MTN NEWS"
+    },
+    {
+      "title": "자담치킨, 카카오페이 '굿딜' 서비스 도입...매장 결제 시 할인 제공",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243584",
+      "originallink": "http://www.sisunnews.co.kr/news/articleView.html?idxno=243584",
+      "description": "치킨 프랜차이즈 자담치킨(회장 나명석)은 8월 3일부터 카카오페이와 제휴하여 매장 방문 고객을 대상으로 '카카오페이 굿딜' 서비스를 시행한다고 밝혔다. 브랜드 측에 따르면, 카카오페이 굿딜은 고객이 카카오페이...",
+      "pubDate": "2026-08-03T08:18:00+00:00",
+      "category": "카카오페이",
+      "source": "시선뉴스"
+    },
+    {
+      "title": "[뉴스워커_다이소] 카카오페이 결제 할인·적립 이벤트 진행",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=439555",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=439555",
+      "description": "아성다이소는 8월 한 달간 카카오페이 결제 고객을 대상으로 할인과 포인트 적립 혜택을 제공하는 온·오프라인 통합 이벤트를 진행한다고 3일 밝혔다. 행사는 오는 31일까지 다이소몰과 전국 다이소 매장에서 각각 한...",
+      "pubDate": "2026-08-03T08:18:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "아성다이소, '8월 카카오페이 이벤트' 실시",
+      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=104941",
+      "originallink": "https://www.womentimes.co.kr/news/articleView.html?idxno=104941",
+      "description": "우먼타임스 = 최인영 기자 아성다이소가 오는 31일까지 '8월 카카오페이 온오프라인 통합 이벤트'를 진행한다고 3일 밝혔다. 고객은 다이소몰과 다이소 매장에서 기간 내 각각 1회씩 참여할 수 있다. 먼저 다이소몰에서...",
+      "pubDate": "2026-08-03T08:08:00+00:00",
+      "category": "카카오페이",
+      "source": "우먼타임스"
+    },
+    {
+      "title": "아성다이소, 카카오페이 결제 혜택…온라인 할인·오프라인 적립",
+      "link": "http://www.segyebiz.com/newsView/20260803517777?OutUrl=naver",
+      "originallink": "http://www.segyebiz.com/newsView/20260803517777?OutUrl=naver",
+      "description": "아성다이소가 오는 31일까지 카카오페이 온∙오프라인 통합 이벤트를 진행한다고 3일 밝혔다. 이번 이벤트는 다이소몰과 다이소 매장에서 기간 내 각각 1회씩 참여할 수 있다. 다이소몰에서는 카카오페이머니로 3만원...",
+      "pubDate": "2026-08-03T07:48:00+00:00",
+      "category": "카카오페이",
+      "source": "아성다이소, 카카오페이 결제 혜택…온라인 할인·오프라인 적립"
+    },
+    {
+      "title": "자담치킨, 카카오페이 '굿딜' 도입…매장 결제 고객 3% 즉시 할인 제공",
+      "link": "http://www.ikoreanspirit.com/news/articleView.html?idxno=86613",
+      "originallink": "http://www.ikoreanspirit.com/news/articleView.html?idxno=86613",
+      "description": "자담치킨(회장 나명석)이 8월 3일부터 카카오페이와 협력해 오프라인 매장 고객을 위한 '카카오페이 굿딜' 서비스를 도입한다고 밝혔다. 카카오페이 굿딜은 카카오페이 앱에서 브랜드와 결제 금액을 선택하면 일회용...",
+      "pubDate": "2026-08-03T07:42:00+00:00",
+      "category": "카카오페이",
+      "source": "K스피릿"
+    },
+    {
+      "title": "아성다이소, 8월 카카오페이 온·오프라인 통합 이벤트 진행",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6937427",
+      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6937427",
+      "description": "ⓒ아성다이소 아성다이소는 카카오페이로 결제하는 고객을 대상으로 '8월 카카오페이 온·오프라인 통합 이벤트'를 진행한다고 3일 밝혔다. 이벤트는 금일부터 오는 31일까지 진행되며, 다이소몰과 오프라인 매장에서...",
+      "pubDate": "2026-08-03T07:34:00+00:00",
+      "category": "카카오페이",
+      "source": "스포츠한국"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스플레이스·토스모바...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200495",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200495",
+      "description": "토스플레이스가 가맹점주와 고객이 함께 골목상권을 청소하는 상생 프로그램을 시작했다. 토스모바일이 통신요금 할인과 얼굴인식 결제 쿠폰을 결합한 알뜰폰 요금제를 선보였다. ◆ 토스뱅크, 오픈이노베이션 협업...",
+      "pubDate": "2026-08-03T07:34:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "노란우산, 신규 온라인 가입 프로모션…네이버페이 쿠폰준다",
+      "link": "https://n.news.naver.com/mnews/article/030/0003453759?sid=101",
+      "originallink": "https://www.etnews.com/20260803000259",
+      "description": "소기업·소상공인 대표가 8월 31일까지 노란우산 홈페이지나 모바일로 신규 가입하면 네이버페이 또는 카카오페이 5만원 쿠폰을 받을 수 있다. 2026년 상반기 노란우산 신규 가입자는 15만307명으로 전년 같은 기간...",
+      "pubDate": "2026-08-03T06:57:00+00:00",
+      "category": "네이버페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "'IT 탈 쓴 금융' 꼼수 막혔다…토스·현대 '원앱·페이' 전략 수정 불가...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1309038&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1309038&inflow=N",
+      "description": "앞서 금융감독원은 지난 6월24일 네이버파이낸셜, 카카오, 카카오페이, 카카오모빌리티, 비바리퍼블리카, 토스페이먼츠 등 빅테크 계열 전자금융업자의 최고정보책임자(CIO)와 간담회를 갖고 IT 안정성 강화를...",
+      "pubDate": "2026-08-03T06:52:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스토마토"
+    },
+    {
+      "title": "\"온라인은 할인, 매장은 적립\"…다이소, 카카오페이 고객 잡는다",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473939",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473939",
+      "description": "아성다이소가 카카오페이와 함께 온·오프라인 결제 고객을 대상으로 할인 및 적립 혜택을 제공한다. 아성다이소는 오는 31일까지 '8월 카카오페이 온오프라인 통합 이벤트'를 진행한다고 3일 밝혔다. 이번 이벤트는...",
+      "pubDate": "2026-08-03T06:52:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "통신비와 결제, 토스가 하나로 묶었다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=746951",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=746951",
+      "description": "카카오모빌리티나 네이버페이 등 플랫폼 기업들도 자사 생태계 안에서 통신, 결제, 멤버십을 엮어 고객을 붙잡아두는 전략을 확대하는 추세다. 토스 역시 페이스페이 이용자 기반을 통신 가입자로 확장하는 동시에...",
+      "pubDate": "2026-08-03T06:26:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "아성다이소, 카카오페이 결제 이벤트... 온·오프라인 혜택 확대",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205181",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=205181",
+      "description": "사진=아성다이소 유통업계가 간편결제 플랫폼과의 협업을 확대하며 고객 유입과 구매 편의성 강화에 나서는 가운데 아성다이소가 카카오페이와 손잡고 온·오프라인 결제 혜택을 제공하는 프로모션을 진행한다....",
+      "pubDate": "2026-08-03T06:14:00+00:00",
+      "category": "카카오페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "다이소, 8월 카카오페이 결제 이벤트 진행…온라인·오프라인 쇼핑 혜택...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132854",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132854",
+      "description": "| 이코노미사이언스 김연옥 기자 | 생활용품 전문점 아성다이소가 8월 한 달간 카카오페이와 함께 온·오프라인 통합 결제 프로모션을 진행하며 고객들의 합리적인 소비를 지원한다. 아성다이소는 오는 31일까지 '8월...",
+      "pubDate": "2026-08-03T06:10:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "'쇼핑 혜택' 키우는 다이소···카카오페이 결제하면 '즉시 할인'",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455208",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455208",
+      "description": "아성다이소가 '8월 카카오페이 통합 이벤트'를 진행한다. 아성다이소는 오는 31일까지 다이소몰과 오프라인 매장에서 카카오페이머니 결제 고객을 대상으로 할인과 포인트 적립 혜택을 제공한다고 밝혔다....",
+      "pubDate": "2026-08-03T06:09:00+00:00",
+      "category": "카카오페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "트래블로그에 삼성 월렛 올렸다…하나카드, 여름 해외여행 시장 공략",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=346656",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=346656",
+      "description": "기존 트래블로그 카드의 해외여행 특화 혜택에 삼성 월렛의 간편결제 기능을 더한 상품이다. 카드 신청은 삼성 월렛 앱 내에서 가능하다. 이 카드의 핵심 혜택은 두 가지 축으로 구성된다. 첫 번째는 트래블로그의 기존...",
+      "pubDate": "2026-08-03T05:50:00+00:00",
+      "category": "삼성페이",
+      "source": "녹색경제신문"
+    },
+    {
+      "title": "다이소, 카카오페이 결제하면 최대 50% 적립…온·오프라인 통합 혜택",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=537195",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=537195",
+      "description": "|중앙이코노미뉴스 윤남웅 기자|㈜아성다이소 '카카오페이 이벤트' [사진=아성다이소]  아성다이소가 카카오페이와 손잡고 온·오프라인 결제 혜택을 강화한다. 다이소몰 즉시 할인과 오프라인 매장 최대 50% 포인트 적립...",
+      "pubDate": "2026-08-03T05:30:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "\"카카오페이로 결제하세요\" 다이소, 8월 한 달 할인·적립 혜택 제공",
+      "link": "https://www.insight.co.kr/news/566118",
+      "originallink": "https://www.insight.co.kr/news/566118",
+      "description": "아성다이소가 8월 한 달간 카카오페이와 손잡고 온·오프라인을 아우르는 대규모 고객 감사 할인 프로모션을 펼친다.3일 균일가 생활용품 전문 유통기업 아성다이소는 카카오페이 결제 고객을 대상으로 대규모 온...",
+      "pubDate": "2026-08-03T05:06:00+00:00",
+      "category": "카카오페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "간편결제도 양극화?…2분기 페이코·쿠팡페이 '주춤'",
+      "link": "https://n.news.naver.com/mnews/article/374/0000525248?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000326200?division=NAVER",
+      "description": "카카오페이는 2분기 선불충전금 5천941억원으로 전년 동기 대비 0.5% 증가했습니다. 토스는 3사 중 증가율이 가장 커, 2천79억원으로 54.7% 불어났습니다. 네이버페이도 1천809억원으로 11.8% 증가했습니다. 간편결제는...",
+      "pubDate": "2026-08-03T05:05:00+00:00",
+      "category": "페이코",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "\"다이소몰 할인에 매장 적립까지\"…아성다이소, 8월 카카오페이 통합 이...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83985",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=83985",
+      "description": "생활용품점 아성다이소가 카카오페이 결제 고객을 대상으로 온·오프라인을 아우르는 대규모 혜택 이벤트를 펼친다. ㈜아성다이소가 오는 31일까지 '8월 카카오페이 온오프라인 통합 이벤트'를 진행한다고 3일 밝혔다....",
+      "pubDate": "2026-08-03T04:38:00+00:00",
+      "category": "카카오페이",
+      "source": "더페어"
+    },
+    {
+      "title": "아성다이소, 카카오페이 온오프라인 통합 이벤트 진행",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307716",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=307716",
+      "description": "아성다이소가 3일부터 31일까지 다이소몰과 매장에서 카카오페이 결제 혜택을 제공하는 통합 이벤트를 진행한다고 밝혔다. 아성다이소에 따르면 이번 행사는 온오프라인에서 각각 1회씩 참여할 수 있다. 아성다이소는...",
+      "pubDate": "2026-08-03T04:08:00+00:00",
+      "category": "카카오페이",
+      "source": "FETV"
+    },
+    {
+      "title": "아성다이소 \"8월 카카오페이 '몰 1천원할인·매장 1천P적립' 쏜다\"",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=126876",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=126876",
+      "description": "아성다이소가 카카오페이로 결제 시 혜택을 제공하는 '8월 카카오페이 온·오프라인 통합이벤트'를 오는 31일까지 진행한다. 다이소몰과 다이소 매장에서 각각 1회씩 참여할 수 있다. [사진 아성다이소] 아성다이소가...",
+      "pubDate": "2026-08-03T03:07:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "아성다이소, 카카오페이 결제 연계 혜택 행사 진행",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202608031201141498204ead0791_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=202608031201141498204ead0791_12",
+      "description": "아성다이소가 8월 한 달간 카카오페이 결제와 연계한 온·오프라인 혜택 행사를 진행한다. 이번 행사는 다이소몰과 오프라인 매장에서 각각 진행되며, 결제 방식에 따라 할인 및 포인트 적립 혜택을 제공하는 방식으로...",
+      "pubDate": "2026-08-03T03:02:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "[유통브리핑] 다이소, '8월 카카오페이 온오프라인 통합 이벤트' 진행 외",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=634748",
+      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=634748",
+      "description": "다이소는 오는 31일까지 카카오페이 결제 고객을 대상으로 '8월 카카오페이 온·오프라인 통합 이벤트'를 진행한다고 3일 밝혔다. 다이소몰에서는 카카오페이머니로 3만원 이상 결제 시 1000원 즉시 할인 혜택을...",
+      "pubDate": "2026-08-03T03:00:00+00:00",
+      "category": "카카오페이",
+      "source": "서울파이낸스"
+    },
+    {
+      "title": "다이소, 카카오페이 결제 고객 대상 ‘할인·적립’ 혜택",
+      "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065579754019435",
+      "originallink": "https://www.swtvnews.com/news/newsview.php?ncode=1065579754019435",
+      "description": "아성다이소는 오는 31일까지 카카오페이 결제 고객을 대상으로 ‘8월 카카오페이 온·오프라인 통합 이벤트’를 진행한다고 3일 밝혔다. 온라인 매장인 다이소몰에서는 카카오페이머니로 3만원 이상 결제하면 1000원을...",
+      "pubDate": "2026-08-03T02:56:00+00:00",
+      "category": "카카오페이",
+      "source": "swtvnews"
+    },
+    {
+      "title": "노란우산, 8월 온라인 가입 프로모션 신규가입 시 네이버페이 or 카카오...",
+      "link": "https://n.news.naver.com/mnews/article/021/0002808737?sid=101",
+      "originallink": "https://www.munhwa.com/article/11606804?ref=naver",
+      "description": "중기중앙회에 따르면 이번 프로모션을 통해 소기업·소상공인 대표가 오는 31일까지 노란우산 홈페이지나 모바일을 통해 신규가입을 하면 네이버페이 또는 카카오페이 모바일 5만원 쿠폰 중 하나를 받을 수 있다....",
+      "pubDate": "2026-08-03T02:46:00+00:00",
+      "category": "네이버페이",
+      "source": "문화일보"
+    },
+    {
+      "title": "아성다이소, 카카오페이 온오프라인 통합 이벤트 진행...소비자 관심도...",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=20260803111403527df3c2a17b7_23",
+      "originallink": "http://www.thebigdata.co.kr/view.php?ud=20260803111403527df3c2a17b7_23",
+      "description": "균일가 생활용품점 ㈜아성다이소가 카카오페이로 결제 시 혜택을 제공하는 ‘8월카카오페이 온오프라인 통합 이벤트’를 진행한다고 3일 밝혔다. 8월 3일부터 31일까지 진행되는 이번 이벤트는 다이소몰과 다이소...",
+      "pubDate": "2026-08-03T02:44:00+00:00",
+      "category": "카카오페이",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "다이소, 카카오페이 온·오프라인 통합 이벤트",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=442237",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=442237",
+      "description": "아성다이소는 오는 31일까지 '8월 카카오페이 온오프라인 통합 이벤트'를 진행한다고 3일 밝혔다. 다이소몰과 전국 다이소 매장에서 각각 1회씩 참여할 수 있다. 다이소몰에서는 카카오페이머니로 3만원 이상 결제하면...",
+      "pubDate": "2026-08-03T02:28:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "다이소, 8월 카카오페이 결제 이벤트…다이소몰 3만원↑ 1000원 할인·매...",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=270933",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=270933",
+      "description": "아성다이소가 8월 한 달 동안 카카오페이 결제 고객을 대상으로 온오프라인 통합 이벤트를 실시한다. 이번 행사는 8월 3일부터 31일까지 다이소몰과 다이소 매장에서 각각 1회씩 참여할 수 있다. 다이소몰에서는...",
+      "pubDate": "2026-08-03T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "다이소, '카카오페이 온오프 통합 이벤트' 실시",
+      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=1932",
+      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=1932",
+      "description": "아성다이소가 카카오페이 결제 고객을 대상으로 온·오프라인 통합 혜택을 제공하는 '8월 카카오페이 온오프라인 통합 이벤트'를 선보인다. 아성다이소는 이번 행사가 이번달 31일까지 다이소몰과 다이소 매장에서 각각...",
+      "pubDate": "2026-08-03T02:18:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스맵"
+    },
+    {
+      "title": "다이소, 카카오페이 결제 이벤트…“최대 50% 적립”",
+      "link": "https://n.news.naver.com/mnews/article/016/0002678684?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10828948?ref=naver",
+      "description": "균일가 생활용품점 ㈜아성다이소가 카카오페이로 결제 시 혜택을 제공하는 ‘8월 카카오페이 온·오프라인 통합 이벤트’를 진행한다고 3일 밝혔다. 이달 31일까지 진행되는 이번 이벤트는 다이소몰과 다이소...",
+      "pubDate": "2026-08-03T02:14:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "삼성페이에서 '티머니 K-패스' 쓴다",
+      "link": "https://n.news.naver.com/mnews/article/030/0003453597?sid=101",
+      "originallink": "https://www.etnews.com/20260803000183",
+      "description": "티머니가 삼성전자와 협업해 삼성 월렛에 '티머니 K-패스' 서비스를 출시한다. 삼성페이 이용자는 갤럭시 스마트폰에서 티머니 K-패스(모두의카드)를 발급받아 대중교통을 이용할 수 있다. 삼성페이 이용자는 별도 K-패스...",
+      "pubDate": "2026-08-03T02:11:00+00:00",
+      "category": "삼성페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "아성다이소 '카카오페이 이벤트'→한샘 '8월 쌤위크' 최대 50%",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=756145",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=756145",
+      "description": "아성다이소는 8월 3일부터 31일까지 다이소몰과 다이소 매장에서 '8월 카카오페이 온오프라인 통합 이벤트'를 진행한다. 사진=아성다이소 행사 기간 온라인과 오프라인에서 각각 1회씩 참여할 수 있다. 다이소몰에서...",
+      "pubDate": "2026-08-03T02:06:00+00:00",
+      "category": "카카오페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "다이소, 카카오페이와 온오프라인 통합 이벤트",
+      "link": "https://hbnpress.com/news/view/1065578457179374",
+      "originallink": "https://hbnpress.com/news/view/1065578457179374",
+      "description": "아성다이소(다이소)는 카카오페이로 결제 시 혜택을 제공하는 ‘8월카카오페이 온오프라인 통합 이벤트’를 진행한다고 3일 밝혔다. 이미지=아성다이소 다이소에 따르면 이날부터 31일까지 진행되는 이번 이벤트는...",
+      "pubDate": "2026-08-03T02:04:00+00:00",
+      "category": "카카오페이",
+      "source": "hbnpress"
+    },
+    {
+      "title": "아성다이소, '카카오페이 통합 이벤트' 진행…바디프랜드, AI헬스케어로...",
+      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=203195",
+      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=203195",
+      "description": "아성다이소, '카카오페이 통합 이벤트' 진행 아성다이소는 오는 31일까지 카카오페이로 결제 시 혜택을 제공하는 '카카오페이 온오프라인 통합 이벤트'를 진행한다고 3일 밝혔다. 이번 이벤트는 다이소몰과 다이소...",
+      "pubDate": "2026-08-03T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "시사오늘(시사ON)"
+    },
+    {
+      "title": "아성다이소, 8월 카카오페이 온·오프라인 할인 혜택",
+      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1097652",
+      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1097652",
+      "description": "8월 카카오페이 온오프라인 통합 이벤트[이미지=아성다이소] 아성다이소가 8월 한 달간 카카오페이 이용 고객을 대상으로 온·오프라인 결제 혜택을 제공하는 프로모션을 마련했다. 이번 '8월 카카오페이 온·오프라인...",
+      "pubDate": "2026-08-03T01:36:00+00:00",
+      "category": "카카오페이",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)"
+    },
+    {
+      "title": "다이소 '8월 카카오페이 온오프라인 통합 이벤트' 진행",
+      "link": "https://n.news.naver.com/mnews/article/421/0009093319?sid=101",
+      "originallink": "https://www.news1.kr/industry/distribution/6246983",
+      "description": "통해 상품을 구매할 수 있으며, 고객 편의를 고려해 앞으로도 결제 플랫폼과 협업을 확대할 계획이다. 유통업계는 최근 간편결제 플랫폼과의 제휴를 확대하며 할인 혜택을 앞세워 고객 유입과 충성도 강화에 나서고 있다.",
+      "pubDate": "2026-08-03T00:42:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
       "title": "[기업들] 핀테크·AI·인재육성·글로벌 CSR...미래 가치 투자·사회적 책...",
       "link": "http://www.dailypop.kr/news/articleView.html?idxno=101150",
       "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=101150",
@@ -187,7 +745,7 @@
       "description": "토스페이먼츠가 정부가 추진하는 예금토큰 기반 결제 인프라 확대 사업에 참여해 민간 결제망 구축에 나선다. ◆ 토스, 멕시카나 전국 매장에 ‘페이스페이’ 도입 토스(운영사 비바리퍼블리카, 대표 이승건)가...",
       "pubDate": "2026-07-31T08:04:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 보험tk 소식...삼성생명·한화생명·카카오페이...",
@@ -196,7 +754,7 @@
       "description": "카카오페이손해보험은 펫보험 출시 4개월 만에 누적 계약 1만건을 넘어섰다. ◆ 삼성생명, 모든 IRP 가입자 수수료 무료 삼성생명(사장 홍원학)이 다음달 1일부터 가입 시점과 채널, 적립금 규모와 관계없이 모든 IRP...",
       "pubDate": "2026-07-31T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스 결제·송금업체도 위험관리…금융복합그룹 규제 사각지대 해소",
@@ -718,7 +1276,7 @@
       "description": "네이버페이가 소상공인의 디지털 결제 환경 구축을 지원하기 위해 'Npay 커넥트' 가맹점 대상 결제 수수료 지원에 나선다.네이버페이는 29일 'Npay 커넥트'를 이용하는 소상공인을 대상으로 결제 수수료 지원 프로그램을...",
       "pubDate": "2026-07-29T08:14:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "네이버페이, 소상공인과 상생 강화 … 'Npay 커넥트' 가맹점 결제 수수료...",
@@ -745,7 +1303,7 @@
       "description": "네이버페이가 오프라인 통합 단말기 ‘N페이 커넥트’를 이용하는 소상공인에게 현장결제 수수료를 지원한다. ◆ NH농협은행, 인터넷뱅킹 ‘전자점자 서비스’ 도입 NH농협은행(은행장 강태영)이 개인인터넷뱅킹 주요...",
       "pubDate": "2026-07-29T07:30:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스페이먼츠, 6년 만에 역사 속으로… 토스 구조 개편 확대될까",
@@ -979,7 +1537,7 @@
       "description": "카카오페이는 대학생 100명과 함께 디지털 금융 사각지대 해소에 나서는 ‘사각사각 서포터즈’ 1기를 출범했다. 토스는 장애와 재해 상황에서도 핵심 서비스를 유지하고 복구할 수 있는 업무 연속성 관리체계의...",
       "pubDate": "2026-07-28T07:50:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "이디야커피, 배민 픽업·네이버페이 할인·적립 프로모션 진행",
@@ -1726,7 +2284,7 @@
       "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장(왼쪽)과 서형석 투게더스 대표이사가 업무협약 체결 후 기념 촬영을 하고 있다. [사진=토스] 토스는 유통 포스 솔루션 기업 투게더스와 협력해 전국...",
       "pubDate": "2026-07-27T07:14:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "마이크로닉스, 'ASTRO II PT' 3종 구매 시 네이버페이 페이백 진행",
@@ -2644,7 +3202,7 @@
       "description": "카카오페이가 글로벌 스테이블코인 기업 서클(Circle)과 차세대 디지털 자산 인프라 협력에 나선다. 토스와 토스뱅크는 서클과 스테이블코인 기반 결제 인프라 구축을 위한 전략적 업무협약을 체결했다. 토스뱅크는...",
       "pubDate": "2026-07-23T07:00:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "은행 앱 밖으로 나온 퇴직연금…우리은행, 네이버페이에 상담창구",
@@ -3373,7 +3931,7 @@
       "description": "토스뱅크는 실무형 사이버 보안 인재 양성을 위한 부트캠프 2기 모집에 나섰으며, 토스플레이스는 서울시와 협력해 서울사랑상품권 QR 결제를 지원한다. ◆ 토스, SBI저축은행과 포용금융 협약...중저신용자 대상...",
       "pubDate": "2026-07-20T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "배스킨라빈스, 네이버페이와 7월 '슈퍼 배라위크' 진행",
@@ -3490,7 +4048,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -4057,7 +4615,7 @@
       "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 비대면 주문 서비스를 도입하고 할인 프로모션을 진행한다.㈜명륜당은 명륜진사갈비 매장에 '카카오페이 QR오더' 서비스를 도입했다고 15일 밝혔다.카카오페이 QR오더는...",
       "pubDate": "2026-07-15T07:12:00+00:00",
       "category": "카카오페이",
-      "source": "아시아투데이"
+      "source": "asiatoday"
     },
     {
       "title": "네이버도 뛰어든 스테이블코인 결제…핀테크 ‘차세대 결제망’ 경쟁 본...",
@@ -4498,7 +5056,7 @@
       "description": "카카오페이는 대한항공, 에어비앤비와 함께 일본 여행 특화 혜택을 담은 '해외여행 올-패스: 일본편'을 선보였다. ◆ 카카오뱅크, 개인사업자 부동산담보대출 '계산기' 출시 이벤트 카카오뱅크(대표 윤호영)가 개인사업자...",
       "pubDate": "2026-07-13T07:20:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[단독] '토스플레이스 vs KICC' 특허戰 2라운드…특허법원 간다",
@@ -5155,7 +5713,7 @@
       "description": "행정안전부와 금융감독원은 서울 신논현 토스 사옥에서 토스 운영사인 비바리퍼블리카와 네이버페이, 카카오페이 등과 함께 주민등록증 진위 확인 확대를 위한 업무협약을 체결했습니다.그동안 이들 전자금융업자는 고객...",
       "pubDate": "2026-07-09T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "네이버페이·카카오페이·토스, 주민증 진위 확인 가능",
@@ -5470,7 +6028,7 @@
       "description": "토스와 네이버페이, 카카오페이가 정부의 주민등록증 진위확인망을 활용해 비대면 금융거래 본인확인 체계 강화에 나선다. 왼쪽부터 이찬진 금융감독원장, 박상진 Npay 대표, 윤호중 행정안전부 장관, 이승건 토스 대표...",
       "pubDate": "2026-07-09T07:34:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스, 정부 주민등록증 진위확인 도입…비대면 금융보안 강화",
@@ -6433,7 +6991,7 @@
       "description": "네이버페이(Npay)는 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'의 시범 운영을 시작했다. ◆ 카카오페이, 다문화 청소년 디지털 금융교육 업무협약 체결 카카오페이가...",
       "pubDate": "2026-07-07T08:50:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "모험자본 투자 플랫폼 'Npay 스타트업' 출범…민관 협업",
@@ -6442,7 +7000,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -6613,7 +7171,7 @@
       "description": "◆카카오엔터, ‘도굴왕: 엔드라인’ 웹툰·웹소설 공개 카카오엔터테인먼트가 ‘도굴왕’ 후속 시리즈 ‘도굴왕: 엔드라인’ 웹툰을 5일, 웹소설을 6일 카카오페이지에 순차적으로 공개한다. 애니메이션...",
       "pubDate": "2026-07-07T07:32:00+00:00",
       "category": "네이버페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "네이버페이, 투자사-스타트업·벤처 잇는 '생산적 금융' 나선다",
@@ -7243,7 +7801,7 @@
       "description": "토스뱅크 체크카드가 보유 고객 1000만명을 돌파하며 전 세대 일상 결제 카드로 자리 잡았다. [이미지=토스뱅크] 토스뱅크 체크카드는 지난 2021년 10월 출범과 함께 선보인 이후 간편한 발급 절차와 고객이 일상에서...",
       "pubDate": "2026-07-06T08:14:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "네이버파이낸셜·두나무 합병 또 연기…12월31일 주식교환 예정",
@@ -7279,7 +7837,7 @@
       "description": "주총 11월 19일·교환일 12월 31일로 변경…\"글로벌 경쟁력 확보 취지 성실히 설명\" 네이버파이낸셜과 두나무 간 포괄적 주식교환 일정이 약 3개월 늦춰졌다. 관계 당국의 기업결합 심사 등 인허가 절차가 진행 중인 데...",
       "pubDate": "2026-07-06T08:02:00+00:00",
       "category": "네이버페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "네이버파이낸셜, 두나무와 주식교환 오는 12월31일로 연기",
@@ -7486,7 +8044,7 @@
       "description": "또 토스플레이스와 함께 소상공인 결제환경 개선을 위한 이벤트를 진행하며, 우리WON모바일에서 7월 한 달간 통신비 부담을 낮추는 다양한 혜택을 제공한다. ◆ 우리은행, 데이터 기반 영업·내부통제 강화 조직개편 단행...",
       "pubDate": "2026-07-06T06:00:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "\"할부도 QR 결제로\"···유통家, 외국인 결제 서비스 경쟁 '속도'",
@@ -8170,7 +8728,7 @@
       "description": "네이버페이가 중소상공인희망재단과 손잡고 '앤페이(Npay) 커넥트'를 활용한 소상공인 디지털 전환 지원에 나선다. 토스는 농협목우촌 외식사업단과 협력해 페이스페이 사용처를 확대하고, 빗썸은 버그바운티 포상금을...",
       "pubDate": "2026-07-03T07:50:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "네이버페이, 종이고지서 QR로 관리비 즉시 납부 서비스 출시",
@@ -8377,7 +8935,7 @@
       "description": "사진=네이버페이네이버페이가 중소상공인희망재단과 '소상공인 디지털 전환 및 활용 촉진을 위한 업무협약'을 체결했다고 2일 밝혔다.중소상공인희망재단은 네이버가 전액 출연해 설립된 민간 비영리 공익재단이다....",
       "pubDate": "2026-07-02T08:10:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "\"간편결제로 오프라인 영토 넓힌다\" 우리은행 '삼성월렛머니·포인트' 가...",
@@ -8395,7 +8953,7 @@
       "description": "직전 한 달 동안 카카오뱅크 통장에 50만 원 이상 입금한 고객 가운데 추첨을 통해 선정된 10명에게 200만 원을 지급하며, 이벤트 페이지에서 참여할 수 있다. 카카오뱅크 관계자는 “월급을 관리하고 저축하는 고객께...",
       "pubDate": "2026-07-02T07:40:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "생성형 AI 시대…핀테크 ESG도 '기술 책임'으로 진화",
@@ -8773,7 +9331,7 @@
       "description": "카카오페이가 영화 '와일드 씽' 속 화제 캐릭터 최성곤과 상시 할인 서비스 '굿딜'의 컬래버레이션 콘텐츠를 자사 유튜브와 인스타를 통해 공개했다. ◆ 카카오뱅크, 주택담보대출 중도상환해약금 면제 6개월 연장...",
       "pubDate": "2026-07-01T06:40:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "KT, 5G·LTE 경계 허문 통합요금제 출시…간편결제 이벤트까지",
@@ -9097,7 +9655,7 @@
       "description": "네이버페이가 오는 8월부터 신규 가입자를 대상으로 추가 아이디 생성을 제한한다. 1일 정보통신업계에 따르면, 네이버페이는 오는 8월 1일부터 '1인 1개 아이디'로 네이버페이 가입 아이디 수를 제한할 방침이다. 이미...",
       "pubDate": "2026-06-30T21:06:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "\"AI가 ESG도 바꿨다\"··· 카카오페이, 'AI 중심' 지속가능경영 청사진...",
@@ -9223,7 +9781,7 @@
       "description": "삼성카드는 포르쉐코리아와 제휴하여 다양한 공동 사업을 추진하며 카카오페이는 AI 중심 지속가능경영 전략과 성과를 담은 '2025 ESG 보고서'를 발간했다. ◆ 삼성카드, 포르쉐코리아와 전략적 제휴…프리미엄...",
       "pubDate": "2026-06-30T07:04:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "카카오페이, AI 전환과 지속가능경영 성과를 담은 ESG 보고서 발간 내용...",
@@ -9709,7 +10267,7 @@
       "description": "사진=네이버네이버페이가 간편결제 도구에서 여권과 탑승권을 대신하는 개인 인증 도구로 서비스 외연을 확대한다. 네이버페이(Npay)는 인천국제공항의 안면인식 출국 서비스인 '스마트패스'를 선보인다고 29일...",
       "pubDate": "2026-06-29T05:08:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "토스 자동이체 이어 결제 장애…금감원 칼 빼나",
@@ -10240,7 +10798,7 @@
       "description": "토스플레이스는 광주은행과 업무협약을 체결해 광주·전남 지역 소상공인 결제 환경 혁신에 나선다. ◆ 토스뱅크, 제7회 디지털금융포럼 '디지털금융 대상' 수상 토스뱅크(대표 이은미)가 지난 25일 부산 해운대구 그랜드...",
       "pubDate": "2026-06-26T01:44:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
@@ -10501,7 +11059,7 @@
       "description": "변미경 광주은행 디지털본부 부행장(왼쪽)과 최재호 토스플레이스 대표가 지난 24일 업무협약식 이후 기념사진을 촬영하고 있다. (제공=광주은행) 광주은행이 토스플레이스와 손잡고 광주·전남 지역 소상공인의 디지털...",
       "pubDate": "2026-06-25T02:18:00+00:00",
       "category": "토스페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "남원시, 상하수도요금 간편결제…온라인 납부 서비스 운영",
@@ -10897,7 +11455,7 @@
       "description": "기존 카드사와 PG사가 결제 인프라를 장악하고 있는 데다 카카오페이, 토스, NHN 페이코 등 경쟁 사업자들이 일찍부터 오프라인 간편결제 시장을 공략해 왔기 때문이다. 업계 관계자는 \"네이버가 온라인 쇼핑과 검색, 예약...",
       "pubDate": "2026-06-23T21:06:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "카카오페이, 금융계열사 재편 가속… 이제는 수익성 시험대",
@@ -11329,7 +11887,7 @@
       "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게' 2026 신규 입점사 온라인 기획전을 개최했다. 또 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만 돌파했다. ◆ 카카오뱅크, 인터넷전문은행 최초로...",
       "pubDate": "2026-06-23T01:40:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "롯데百, 유니온페이 손잡고 9월 전점에 QR·NFC 간편결제 도입",
@@ -11869,7 +12427,7 @@
       "description": "카카오페이는 시니어 디지털 정보격차 해소 공로로 과기부 장관 표창을 수상했으며, 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방 영상 캠페인에도 나섰다. ◆ 카카오뱅크, '지구 온난화 멈추기...",
       "pubDate": "2026-06-19T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스인사이트·토스플레...",
@@ -11878,7 +12436,7 @@
       "description": "◆ 토스플레이스, SK브로드밴드와 소상공인 통신·결제 결합 상품 출시 토스플레이스(대표 최재호)가 SK브로드밴드(사장 김성수)와 함께 소상공인 고객을 위한 통신·결제 결합 상품을 출시한다. 권정훈(왼쪽) SK브로드밴드...",
       "pubDate": "2026-06-19T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "SK브로드밴드, 토스플레이스와 맞손… 소상공인 지원 생태계 확장",
@@ -12202,7 +12760,7 @@
       "description": "글로벌 스포츠·엔터테인먼트 블록체인 기업 칠리즈(CHILIZ)가 네이버페이 월렛과의 협업을 통해 네이버페이 월렛의 가입자 및 홀더 수가 100만 명을 돌파했다고 19일 밝혔다.칠리즈 체인은 네이버페이 월렛의...",
       "pubDate": "2026-06-19T01:46:00+00:00",
       "category": "네이버페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "\"소상공인 통신비 낮추고 결제관리까지\"…SK브로드밴드·토스플레이스 ...",
@@ -12598,7 +13156,7 @@
       "description": "중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 협약식에는 이창호 중기중앙회 공제사업단장과...",
       "pubDate": "2026-06-18T08:04:00+00:00",
       "category": "간편결제",
-      "source": "amenews"
+      "source": "신소재경제신문"
     },
     {
       "title": "중기중앙회·간편결제진흥원 '노란우산 가입확산' 협력키로",
@@ -14164,7 +14722,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -14893,7 +15451,7 @@
       "description": "비바리퍼블리카는 토스 앱을 운영하며 토스증권·토스페이먼츠 등 22곳의 계열사를 거느린 회사다.... 토스페이 리더 오규인은 1992년생으로 만 33세, 토스커머스 리더 박웅도는 1990년생으로 만 35세다.곳간을 지키는...",
       "pubDate": "2026-05-14T21:10:00+00:00",
       "category": "토스페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "와그, 삼성 월렛 연동… 예약·티켓·일정 관리까지 ‘원스톱 여행 경험...",
@@ -15022,5 +15580,5 @@
       "source": "SR타임스"
     }
   ],
-  "lastFetch": "2026-08-03T00:12:04.683359+00:00"
+  "lastFetch": "2026-08-04T00:17:22.485179+00:00"
 }
