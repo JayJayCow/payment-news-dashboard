@@ -1,6 +1,825 @@
 {
   "articles": [
     {
+      "title": "카카오페이 2분기 역대급 실적에 증권가 “체질 개선 기대”",
+      "link": "https://n.news.naver.com/mnews/article/009/0005716751?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12117322",
+      "description": "매출 3351억 분기 사상 최대 영업이익률 17.5%로 껑충 AI 코치·스테이블코인 기대감 카카오페이가 결제와 증권, 보험 등 전 사업 부문에서 고르게 성장하며 2분기 사상 최대 실적을 달성하자 증권가에서는 카카오페이가...",
+      "pubDate": "2026-08-05T00:11:00+00:00",
+      "category": "카카오페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "다이소, 카카오페이 결제 고객 대상 할인·포인트 이벤트 진행",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047947",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047947",
+      "description": "아성다이소가 카카오페이와 연계한 온·오프라인 결제 이벤트를 오는 31일까지 진행한다. 다이소몰에서는 카카오페이머니로 3만원 이상 결제 시 1000원 즉시 할인 혜택을 제공하며, 매장에서는 카카오페이머니 첫 결제...",
+      "pubDate": "2026-08-05T00:10:00+00:00",
+      "category": "카카오페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "카카오페이, 2분기 컨센서스 상회…중장기 성장성 가속화-LS證",
+      "link": "https://n.news.naver.com/mnews/article/014/0005557356?sid=101",
+      "originallink": "http://www.fnnews.com/news/202608050902076623",
+      "description": "LS증권은 5일 카카오페이가 2·4분기 시장 전망치(컨센서스)를 웃도는 실적을 내놓았다며, 중장기적으로도 호실적 기조가 이어질 수 있다고 봤다. 이에 투자의견 '매수'와 목표주가 6만1000원을 유지했다. 선유진 LS증권...",
+      "pubDate": "2026-08-05T00:08:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "[모닝 리포트] \"카카오페이 금융 플랫폼 경쟁력 입증\"",
+      "link": "https://www.newspim.com/news/view/20260805000148",
+      "originallink": "https://www.newspim.com/news/view/20260805000148",
+      "description": "카카오페이가 금융 플랫폼 사업자로서의 경쟁력을 입증했다는 분석이 나왔다. 하반기 증권 부문의 실적 변동성은 확대될 수 있지만 보험과 대출중개 등 금융서비스 성장세가 이어지면서 중장기 성장 기반은 강화될...",
+      "pubDate": "2026-08-04T23:51:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "[오늘의 브랜드] 삼성전자, 삼성 월렛에 '삼성 월렛 하나 트래블로그 체...",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=153479",
+      "originallink": "https://www.ibabynews.com/news/articleView.html?idxno=153479",
+      "description": "삼성월렛 포인트는 현재 가입자 250만 명을 확보한 선불형 간편결제 서비스로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있다. 연회비는 없으며 삼성 월렛 앱에서 카드 발급을 신청할 수 있다....",
+      "pubDate": "2026-08-04T23:50:00+00:00",
+      "category": "삼성페이",
+      "source": "베이비뉴스"
+    },
+    {
+      "title": "'최대 실적' 카카오페이의 자신감 \"손보 자회사 손익분기점 조기 달성\"",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026080417404578947",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026080417404578947",
+      "description": "올해 2분기 역대 최대 매출과 영업이익을 기록한 카카오페이가 자회사 카카오페이손해보험의 외형 성장과 손해율 개선을 바탕으로 손익분기점 달성 시점을 앞당기겠다는 자신감을 내비쳤다. 카카오페이손해보험의...",
+      "pubDate": "2026-08-04T23:46:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "\"카카오페이, 플랫폼 중장기 성장성 가속화…목표가 6.1만원\"-LS",
+      "link": "https://n.news.naver.com/mnews/article/008/0005395765?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/08/05/2026080508265093433",
+      "description": "LS증권이 카카오페이의 플랫폼 성장성이 가속화하고 있다고 보고 목표주가를 6만1000원으로 유지했다. 선유진 LS증권 연구원은 5일 리포트에서 \"카카오페이는 2분기 586억원의 영업이익을 내며 시장 전망치를 큰 폭으로...",
+      "pubDate": "2026-08-04T23:45:00+00:00",
+      "category": "카카오페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이, 금융 플랫폼 경쟁력 입증…결제·금융서비스 동반 성장",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=742712",
+      "originallink": "http://www.newsprime.co.kr/news/article.html?no=742712",
+      "description": "교보증권은 5일 카카오페이(377300)에 대해 결제와 금융서비스의 고른 성장으로 플랫폼 경쟁력을 입증했다며 투자의견 '매수(Buy)'를 유지했다. 다만 목표주가는 실적 추정치와 밸류에이션 조정을 반영해 기존...",
+      "pubDate": "2026-08-04T23:44:00+00:00",
+      "category": "카카오페이",
+      "source": "프라임경제"
+    },
+    {
+      "title": "카카오페이, 증권·보험 호조 속 금융 플랫폼 역량 부각",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=607378",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=607378",
+      "description": "카카오페이가 국내 증시 호황에 힘입어 금융서비스 매출이 급증하면서 컨센서스를 큰 폭으로 상회하는 호실적을 달성했다. 소비 회복 속 차별화된 결제 부문 개선에 더해 금융 부문의 레벨 업이 확인된 실적이었다....",
+      "pubDate": "2026-08-04T23:44:00+00:00",
+      "category": "카카오페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "[이슈체크] 빅테크 첫 금융복합기업집단 된 토스…각종 운영논란 속 그...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=313405",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=313405",
+      "description": "앞서 금융당국은 지난 6월에도 네이버파이낸셜과 카카오, 카카오모빌리티, 카카오페이, 토스, 토스페이먼츠의 최고정보책임자를 소집해 플랫폼 전산장애 사고와 관련한 정보기술 내부통제 강화를 주문한 바 있다....",
+      "pubDate": "2026-08-04T23:36:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "LS증권 \"카카오페이, 성장하는 핀테크 플랫폼…중장기 성장성 주목\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016234075?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260805022600008?input=1195m",
+      "description": "카카오페이가 시장 기대치를 크게 웃도는 2분기 실적을 내놓은 가운데, 단순한 외형 성장을 넘어 플랫폼 생태계가 더 견고해지고 이용자 활동성 지표가 빠르게 개선되고 있다는 평가가 나왔다. 5일 선유진 LS증권...",
+      "pubDate": "2026-08-04T23:32:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "LS증권 \"카카오페이, 견고한 생태계 확장 기대감\"",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269164",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=269164",
+      "description": "LS증권은 5일 카카오페이에 대한 종목 보고서를 내고 \"방대한 이용자 기반과 마이데이터 사업 역량 등이 맞물리면서 중장기 성장성이 가속화되고 있다\"고 짚었다. 이에 따라 카카오페이의 목표주가는 6만1000원...",
+      "pubDate": "2026-08-04T23:22:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "카카오페이, 금융 플랫폼 진화…AI 서비스도 '시동'-LS",
+      "link": "https://n.news.naver.com/mnews/article/018/0006344774?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02896246645544368",
+      "description": "LS증권은 카카오페이(377300)에 대해 금융서비스를 중심으로 플랫폼 생태계가 빠르게 확장되고 있다며 인공지능(AI) 서비스와 가상자산 제도화가 중장기 성장동력이 될 것으로 전망했다. 투자의견 ‘매수(Buy)’와...",
+      "pubDate": "2026-08-04T23:20:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이 2Q 영업익 586억 '역대 최대'···주식 거래가 만든 흑자",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702477",
+      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702477",
+      "description": "카카오페이가 올해 2분기 역대 최대 매출과 영업이익을 기록했지만 수익성 개선의 중심축이 본업인 결제보다 카카오페이증권을 포함한 금융서비스로 빠르게 이동하면서 증시 거래대금과...",
+      "pubDate": "2026-08-04T23:14:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스프리존"
+    },
+    {
+      "title": "LS證 \"카카오페이, 견고한 생태계 확장…목표가 6만1000원 유지\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0014108739?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260805_0003736646",
+      "description": "LS증권은 5일 카카오페이에 대해 방대한 이용자 기반과 마이데이터 사업 역량 등이 맞물리면서 중장기 성장성이 가속화되고 있다는 분석을 내놨다. 목표주가는 6만1000원을, 투자의견은 '매수'를 유지했다. 선유진 LS증권...",
+      "pubDate": "2026-08-04T23:10:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "LS증권 “카카오페이, 2분기 영업익 528%↑⋯‘증권’ 성장 효과”",
+      "link": "https://www.etoday.co.kr/news/view/2611062",
+      "originallink": "https://www.etoday.co.kr/news/view/2611062",
+      "description": "이투데이=임하은 기자 | LS증권은 카카오페이에 대해 투자의견 '매수'와 목표주가 6만1000원을 유지했다. 5일 선유진 LS증권 연구원은 카카오페이가 2분기 시장 전망치(컨센서스)를 크게 웃도는 실적을 기록한 가운데...",
+      "pubDate": "2026-08-04T23:02:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "카카오페이, 상반기 순익 843억…스테이블코인 발행·유통 투트랙 시동",
+      "link": "https://byline.network/?p=9004111222614213",
+      "originallink": "https://byline.network/?p=9004111222614213",
+      "description": "카카오페이가 상반기 당기순이익 843억원을 기록하며 실적 성장세를 이어갔다. 회사는 원화스테이블코인 사업을 새로운 성장동력으로 삼고 발행 인프라 구축과 유통 사업을 본격 준비하겠다는 청사진도 제시했다....",
+      "pubDate": "2026-08-04T22:42:00+00:00",
+      "category": "카카오페이",
+      "source": "byline"
+    },
+    {
+      "title": "카카오페이, 상반기 영업익 908억…금융 매출 첫 절반 돌파",
+      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=51928",
+      "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=51928",
+      "description": "카카오페이가 결제와 금융서비스의 고른 성장에 힘입어 올해 상반기 영업이익과 당기순이익이 큰 폭으로 늘며 실적 개선세를 이어갔다. 금융서비스 매출 비중이 처음으로 절반을 넘어서며 수익구조 다변화도...",
+      "pubDate": "2026-08-04T22:28:00+00:00",
+      "category": "카카오페이",
+      "source": "코리아리포트"
+    },
+    {
+      "title": "삼성카드, '모니모페이카드' 출시…간편결제 최대 15% 할인",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=142380",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=142380",
+      "description": "4일 삼성카드에 따르면 모니모페이는 모니모앱에서 제공되는 간편결제 서비스이다. 최근 MST(마그네틱 보안 전송) 기능을 도입해 온라인 가맹점뿐만 아니라 오프라인 가맹점에서도 실물 카드 없이 간편하게 결제할 수...",
+      "pubDate": "2026-08-04T13:50:00+00:00",
+      "category": "간편결제",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "춘천시, 고향기부제 행사…네이버페이 포인트 지급",
+      "link": "https://n.news.naver.com/mnews/article/056/0012231456?sid=101",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628605&ref=A",
+      "description": "이날까지 춘천에 10만 원 이상 기부한 사람 가운데 선착순 100명에게 네이버페이 15,000포인트를 지급합니다. 이에 따라, 이 기간 고향기부제 참여자는 세액공제와 답례품, 행사 경품까지 최대 14만 5,000원어치의...",
+      "pubDate": "2026-08-04T13:12:00+00:00",
+      "category": "네이버페이",
+      "source": "KBS 뉴스"
+    },
+    {
+      "title": "[금융실적] 카카오페이, 2분기 영업익 586억…전년比 6.3배 '퀀텀점프'",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=142375",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=142375",
+      "description": "카카오페이는 2026년 2분기 연결 기준 매출 3351억 원, 영업이익 586억원, 당기순이익 496억원을 기록했다. 사진=카카오페이  카카오페이가 올해 2분기 매출과 영업이익, 당기순이익 모두 분기 기준 역대 최대치를...",
+      "pubDate": "2026-08-04T12:58:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "카카오페이 “손해보험 손익분기점 앞당길 것…증권은 IB 단계적 확장”",
+      "link": "https://www.ekn.kr/web/view.php?key=20260804020439519",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20260804020439519",
+      "description": "카카오페이가 온·오프라인 결제사업 성장과 자회사의 가파른 성장을 2분기 주요 성과로 꼽은 가운데 현재와 같은 흐름이 이어진다면 카카오페이손해보험의 손익분기점(BEP) 도달 시점을 점진적으로 앞당길 수 있다며...",
+      "pubDate": "2026-08-04T11:52:00+00:00",
+      "category": "카카오페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "카카오페이, 2Q 순익 '분기 최대' 496억원 시현",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661895",
+      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=661895",
+      "description": "한국금융경제신문=김선재 기자 | 카카오페이가 올해 2분기 분기 최대인 496억원의 순익을 시현했다. 이는 전년 동기 대비 251.3% 증가한 것으로, 전 사업 부문이 고르게 성장한 가운데, 온·오프라인 결제 사업 성장과...",
+      "pubDate": "2026-08-04T11:24:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융경제신문"
+    },
+    {
+      "title": "토스, 토스페이먼츠 흡수해 페이·PG 일원화…결제사업 속도 [토스 결제...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202608031542278829ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202608031542278829ed56b8e1f8_18",
+      "description": "비바리퍼블리카는 토스 앱을 기반으로 간편결제 서비스인 토스페이를 운영하고 있다. 토스페이먼츠는 온라인 쇼핑몰 등 가맹점에 결제창과 정산 서비스를 제공하는 PG 사업을 맡아왔다. 양사는 같은 토스 계열사지만...",
+      "pubDate": "2026-08-04T10:14:00+00:00",
+      "category": "토스페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "카카오페이, 금융 서비스 성장 힘입어 분기 최대 실적…영업익 6배 급증",
+      "link": "https://www.goodkyung.com/news/articleView.html?idxno=289923",
+      "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=289923",
+      "description": "카카오페이가 금융 서비스와 자회사 성장에 힘입어 올해 2분기 역대 최대 실적을 다시 썼다. 결제 중심이던 수익 구조에서 금융 서비스 비중이 절반을 넘어서며 사업 포트폴리오 다변화도 본격화했다. 카카오페이는...",
+      "pubDate": "2026-08-04T10:10:00+00:00",
+      "category": "카카오페이",
+      "source": "굿모닝경제"
+    },
+    {
+      "title": "카카오페이, 2분기 매출영·업익 분기 최대 실적 달성",
+      "link": "https://www.livebiz.today/news/articleView.html?idxno=203846",
+      "originallink": "https://www.livebiz.today/news/articleView.html?idxno=203846",
+      "description": "카카오페이가 2분기에 창사 이후 분기 최대 실적을 달성했다. 매출은 40%, 영업이익은 무려 530% 증가했다. 4일 카카오페이는 연결 기준 올해 2분기 영업이익이 586억원으로 지난해 동기보다 528.2% 증가한 것으로 잠정...",
+      "pubDate": "2026-08-04T10:04:00+00:00",
+      "category": "카카오페이",
+      "source": "생생비즈"
+    },
+    {
+      "title": "신원근 카카오페이 대표, 증권 성장에 금융서비스 결제 매출 추월…수익...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202608041735463904ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202608041735463904ed56b8e1f8_18",
+      "description": "신원근 카카오페이 대표가 카카오페이증권을 중심으로 금융사업을 확대하며 결제 중심이던 카카오페이의 수익구조를 다변화했다. 4일 카카오페이에 따르면, 올해 상반기 금융서비스 매출은 3211억원으로 전년...",
+      "pubDate": "2026-08-04T10:02:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "[실적] 카카오페이, 2Q 영업익 586억 ‘역대 최대’…금융 매출 비중 50%...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200546",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200546",
+      "description": "카카오페이(대표 신원근)가 올해 2분기 연결 기준 매출액 3351억원과 영업이익 586억원을 기록하며 분기 최대 실적을 다시 경신했다. 금융 서비스 매출이 처음으로 전체 매출의 절반을 넘어선 가운데 결제와 플랫폼...",
+      "pubDate": "2026-08-04T10:00:00+00:00",
+      "category": "카카오페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "카카오페이, 2분기 역대 최대 실적…금융 매출 첫 50% 돌파",
+      "link": "http://www.sisacast.kr/news/articleView.html?idxno=98485",
+      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=98485",
+      "description": "카카오페이는 올해 2분기 연결 기준 매출 3351억원, 영업이익 586억원, 당기순이익 496억원을 기록하며 분기 기준 역대 최대 실적을 달성했다. 카카오페이 CI  데이터 기반 금융 서비스와 자회사 성장세를 앞세운 핀테크...",
+      "pubDate": "2026-08-04T09:44:00+00:00",
+      "category": "카카오페이",
+      "source": "시사캐스트"
+    },
+    {
+      "title": "카카오페이, 금융 매출이 절반 넘었다…2분기 영업익 528%↑",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84054",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=84054",
+      "description": "인더스트리뉴스 김은경 기자  카카오페이가 올해 2분기 역대 최대 실적을 기록했다. 카카오페이증권과 카카오페이손해보험 등 금융 계열사의 성장에 힘입어 금융 서비스 매출이 크게 늘면서 전체 매출에서...",
+      "pubDate": "2026-08-04T09:40:00+00:00",
+      "category": "카카오페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "[금융] 부산은행 지역예술 전시 / 카카오페이 AI 소비코칭 / 우리은행 A...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2256155",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2256155",
+      "description": "◼︎ 카카오페이, 소비 관리 돕는 'AI코치' 출시 카카오페이는 4일 마이데이터를 기반으로 이용자의 소비 내역을 분석하고 금융 습관 형성과 자산 목표 달성을 돕는 맞춤형 인공지능 금융 에이전트 'AI코치' 시험판을...",
+      "pubDate": "2026-08-04T09:40:00+00:00",
+      "category": "카카오페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "카카오페이 “쿠팡 결제 진출은 위협보다 기회” [컨콜]",
+      "link": "https://www.kukinews.com/article/view/kuk202608040183",
+      "originallink": "https://www.kukinews.com/article/view/kuk202608040183",
+      "description": "카카오페이가 쿠팡의 간편결제 시장 진출에 대해 직접적인 위협보다는 시장 확대의 계기가 될 것으로 평가했다. 또 카카오페이손해보험은 매출 성장과 손해율 개선 흐름이 이어질 경우 손익분기점(BEP) 도달 시점을...",
+      "pubDate": "2026-08-04T09:38:00+00:00",
+      "category": "카카오페이",
+      "source": "kukinews"
+    },
+    {
+      "title": "토스 \"지역화폐 결제 활성화\" 비즈플레이와 전략적 업무협약",
+      "link": "https://n.news.naver.com/mnews/article/014/0005557198?sid=101",
+      "originallink": "http://www.fnnews.com/news/202608041824362859",
+      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 지역화폐 활성화에 나선다. 토스플레이스는 서울·익산·제주 등의 지역사랑상품권을 운영하는 솔루션 전문 기업 비즈플레이와...",
+      "pubDate": "2026-08-04T09:26:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "결제보다 금융 커졌다…카카오페이, 2분기 영업익 586억 ‘분기 최대‘",
+      "link": "https://n.news.naver.com/mnews/article/215/0001261146?sid=101",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608040675&t=NN",
+      "description": "카카오페이가 올해 2분기 전 사업부문의 고른 성장에 힘입어 역대급 실적을 경신했다. 카카오페이는 2분기 연결 영업이익이 전년 동기 대비 528.2% 증가한 586억 원을 달성했다고 4일 공시했다. 같은 기간...",
+      "pubDate": "2026-08-04T09:22:00+00:00",
+      "category": "카카오페이",
+      "source": "owtv"
+    },
+    {
+      "title": "카카오페이, 2분기 영업익 전년비 6.3배↑…\"전 사업 고른 성장\"(종합)",
+      "link": "https://n.news.naver.com/mnews/article/003/0014108336?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260804_0003736403",
+      "description": "카카오페이의 2분기 영업이익이 전년비 6배 넘게 증가했다. 온·오프라인 결제사업 성장과 대안신용평가 '카카오페이 스코어' 확대, 자회사의 가파른 성장 등이 주효했다. 카카오페이는 2분기 연결 영업이익이 전년...",
+      "pubDate": "2026-08-04T09:21:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이 2분기 영업이익 586억 528% 증가, 금융서비스 성장해 역대 최...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443948",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443948",
+      "description": "카카오페이가 2분기 역대 최대 분기 실적을 새로 썼다. 카카오페이는 2026년 2분기 연결기준으로 매출 3351억 원, 영업이익 586억 원, 순이익 495억 원을 거뒀다고 4일 밝혔다. 1년 전 같은 기간보다 매출은 40.6...",
+      "pubDate": "2026-08-04T09:20:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "카카오페이 \"원화 스테이블코인 발행·유통 기술검증 단계\"",
+      "link": "https://n.news.naver.com/mnews/article/031/0001047236?sid=101",
+      "originallink": "http://www.inews24.com/view/1991885",
+      "description": "카카오페이가 카카오 관계사와 스테이블코인 발행·유통 단계에서 기술검증을 진행 중이라고 밝혔다. 카카오그룹 차원의 원화 스테이블코인 생태계 구축이 빨라질지 주목된다. 신원근 카카오페이 대표이사는 4일 열린...",
+      "pubDate": "2026-08-04T09:15:00+00:00",
+      "category": "카카오페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "카카오페이 개인 맞춤형 자산관리 서비스 'AI코치' 내놔, 마이데이터 활...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443946",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443946",
+      "description": "카카오페이가 자산관리에 도움을 주는 인공지능(AI) 에이전트 서비스를 내놨다. 카카오페이는 마이데이터를 바탕으로 사용자의 소비내역을 분석하는 맞춤형 AI금융 에이전트 'AI코치' 시범 서비스를 출시했다고 4일...",
+      "pubDate": "2026-08-04T09:14:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "카카오페이, 2분기 영업이익 전년比 528%↑… 증권 자회사 수익성 주도",
+      "link": "https://n.news.naver.com/mnews/article/020/0003738664?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20260804/134420670/1",
+      "description": "카카오페이는 올해 2분기 매출 3351억 원, 영업이익 586억 원의 경영 실적을 기록했다고 4일 공시를 통해 밝혔다. 지난해 같은 기간보다 매출은 40.6%, 영업이익은 528.2% 늘어난 수치로 분기 기준 최대 실적을 거뒀다. 특히...",
+      "pubDate": "2026-08-04T09:13:00+00:00",
+      "category": "카카오페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "역대 최대 실적, 카카오페이...결제·AI·스테이블코인으로 성장세 이어...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=153989",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=153989",
+      "description": "사진=카카오페이 카카오페이가 전 사업 영역의 안정적인 성장세를 바탕으로 2분기 역대 최대 실적을 거뒀다. 이를 기반으로 차별화된 결제 서비스와 증권·보험 등 그룹사와의 시너지, 스테이블코인과 같은 신사업을...",
+      "pubDate": "2026-08-04T09:12:00+00:00",
+      "category": "카카오페이",
+      "source": "테크M"
+    },
+    {
+      "title": "카카오페이, 스테이블코인 '발행·유통' 인프라 구축 드라이브",
+      "link": "https://n.news.naver.com/mnews/article/018/0006344427?sid=101",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=06238566645544040",
+      "description": "카카오페이가 원화 스테이블코인 발행과 유통을 위한 인프라 구축에 본격 착수했다. 카카오그룹 및 주요 협력사와 함께 발행 기술을 검증하는 한편 4000만 이용자 기반의 결제·송금 서비스를 넘어 기업 간(B2B) 정산...",
+      "pubDate": "2026-08-04T09:08:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, 2분기 매출 3351억, 영업익 586억…\"분기 최대 실적\"",
+      "link": "https://n.news.naver.com/mnews/article/008/0005395624?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/08/04/2026080417572722445",
+      "description": "카카오페이가 올해 2분기 실적발표를 통해 매출 3351억원, 영업이익 586억원, 당기순이익 496억원으로 분기 최대 실적을 기록했다고 4일 밝혔다. 2분기 연결 기준 거래액(TPV)은 전년 동기 대비 20% 증가한 54조2000억원을...",
+      "pubDate": "2026-08-04T09:07:00+00:00",
+      "category": "카카오페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이, 2분기 영업익 586억원…전년 대비 6배 이상 증가",
+      "link": "http://sateconomy.co.kr/news/view/1065601740567147",
+      "originallink": "http://sateconomy.co.kr/news/view/1065601740567147",
+      "description": "매출 3351억원으로 40.6% 성장 순이익도 251.2% 늘어난 496억원 ▲카카오페이, '오래오래 함께가게' 2차 팝업스토어 오픈 [연합뉴스] 카카오페이가 올해 2분기 매출 성장과 수익성 개선에 힘입어 영업이익이 지난해...",
+      "pubDate": "2026-08-04T09:04:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "[컨콜-카카오페이] 백승준 사업총괄 \"쿠팡 로켓 페이, 위기가 아니라 기...",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=307828",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=307828",
+      "description": "카카오페이가 올해 2분기 연결기준 당기순이익 496억원을 기록했다고 4일 밝혔다. 같은 기준 매출 3351억원, 영업이익 586억원으로 집계됐다. 카카오페이는 분기 매출 기준으로 역대 최대라고 전했다. 특히 2분기...",
+      "pubDate": "2026-08-04T09:02:00+00:00",
+      "category": "카카오페이",
+      "source": "FETV"
+    },
+    {
+      "title": "카카오페이, 2분기 영업이익 586억원…전년동기 6배 증가 '역대 최대 실...",
+      "link": "http://www.lawissue.co.kr/view.php?ud=2026080417552722769817d053b9_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026080417552722769817d053b9_12",
+      "description": "카카오페이가 2분기 영업이익 586억원을 기록하며 전년동기 대비 528% 증가한 역대 최대 분기 실적을 경신했다고 4일 밝혔다. 카카오페이에 따르면 연결 매출은 3,351억원으로 전년동기 대비 40.6% 증가했으며...",
+      "pubDate": "2026-08-04T08:58:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "카카오페이證, 상반기 영업이익 631억… 지난해 연간 실적 상회",
+      "link": "https://n.news.naver.com/mnews/article/008/0005395613?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/08/04/2026080417000513397",
+      "description": "카카오페이증권이 상반기 누적 영업이익 631억원을 기록하며 반기 만에 지난해 연간 영업이익인 427억원을 크게 웃돌았다고 4일 밝혔다. 이날 카카오페이는 카카오페이증권의 2분기 영업이익이 전년 동기 대비 655...",
+      "pubDate": "2026-08-04T08:54:00+00:00",
+      "category": "카카오페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이, 2026년 최대 실적 기록…금융 플랫폼 진화의 신호탄",
+      "link": "https://www.tokenpost.kr/news/economy/384951",
+      "originallink": "https://www.tokenpost.kr/news/economy/384951",
+      "description": "카카오페이가 2026년 2분기 역대 최대 실적을 내면서 결제 중심 기업에서 금융 전반으로 수익 기반을 넓히는 흐름이 뚜렷해졌다. 연결 기준 영업이익은 586억원으로 지난해 같은 기간보다 528.2% 늘었고, 매출은...",
+      "pubDate": "2026-08-04T08:54:00+00:00",
+      "category": "카카오페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "명륜진사갈비, 여름 성수기 앞두고 '카카오페이 QR오더 프로모션' 8월 9...",
+      "link": "http://www.hortitimes.com/news/articleView.html?idxno=34312",
+      "originallink": "http://www.hortitimes.com/news/articleView.html?idxno=34312",
+      "description": "사진제공=명륜진사갈비 숯불돼지갈비 전문 프랜차이즈 명륜진사갈비가 여름 휴가 성수기를 맞아 카카오와 손잡고 진행 중인 '카카오페이 QR오더 프로모션'을 8월 9일까지 연장한다고 밝혔다. 본래 7월 31일 종료...",
+      "pubDate": "2026-08-04T08:54:00+00:00",
+      "category": "카카오페이",
+      "source": "월간원예"
+    },
+    {
+      "title": "카카오페이 \"결제업은 자금력만으로 안 돼\"...쿠팡 진출에 자신감[컨콜...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005557144?sid=101",
+      "originallink": "http://www.fnnews.com/news/202608041728011357",
+      "description": "카카오페이가 쿠팡의 간편결제 시장 진출에 자신감을 드러냈다. 백승준 카카오페이 사업 총괄리더는 4일 2·4분기 실적발표 컨퍼런스콜에서 \"결제사업은 트래픽 규모나 자금력으로 승부를 보는 게 아니다. 정산 인프라와...",
+      "pubDate": "2026-08-04T08:52:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 금융 플랫폼 전환 본격화…금융 매출 비중 첫 절반 넘어",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132941",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132941",
+      "description": "| 이코노미사이언스 박성현 기자 | 결제 서비스로 성장한 카카오페이가 금융 플랫폼 기업으로의 전환 속도를 높이고 있다. 투자와 보험 등 금융서비스 매출이 처음으로 전체 매출의 절반을 넘어서며 수익구조 변화가...",
+      "pubDate": "2026-08-04T08:50:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "카카오페이, 2분기 매출 3351억원…분기 최대",
+      "link": "https://m.skyedaily.com/news_view.html?ID=309179",
+      "originallink": "https://m.skyedaily.com/news_view.html?ID=309179",
+      "description": "스카이데일리 이선주기자 = ▲ 카카오페이가 증권 사업 성장에 힘입어 분기 기준 최대 매출을 기록했다. 서울 시내의 한 매장 사진=연합뉴스 카카오페이는 올해 2분기 연결 매출이 3351억원으로 전년 동기보다 40.6...",
+      "pubDate": "2026-08-04T08:48:00+00:00",
+      "category": "카카오페이",
+      "source": "skyedaily"
+    },
+    {
+      "title": "금융 매출 절반 넘긴 카카오페이…돈 버는 구조 달라졌다",
+      "link": "https://n.news.naver.com/mnews/article/648/0000049525?sid=101",
+      "originallink": "https://news.bizwatch.co.kr/article/finance/2026/08/04/0044",
+      "description": "쿠팡은 그동안 자사 앱 안에서만 제공했던 '쿠팡페이'를 외부 가맹점에서도 사용할 수 있는 '로켓페이'로 확대한다는 계획을 밝혔다. 카카오페이는 새로운 사업자의 진입이 간편결제 시장 전체 파이를 키우는 계기가...",
+      "pubDate": "2026-08-04T08:44:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스워치"
+    },
+    {
+      "title": "삼성카드 '모니모페이 카드' 앱 간편결제 최대 15% 할인",
+      "link": "https://n.news.naver.com/mnews/article/082/0001392585?sid=101",
+      "originallink": "https://www.busan.com/view/busan/view.php?code=2026080417372336394",
+      "description": "‘모니모페이’는 모니모앱에서 제공되는 간편결제 서비스다. 최근 MST(마그네틱 보안 전송) 기능을 도입해 온라인 가맹점뿐만 아니라 오프라인 가맹점에서도 실물 카드 없이 간편하게 결제할 수 있는 것이 특징이다....",
+      "pubDate": "2026-08-04T08:40:00+00:00",
+      "category": "간편결제",
+      "source": "부산일보"
+    },
+    {
+      "title": "카카오페이, 2분기 순익 496억원·전년比 251%↑…매출도 '최대'(종합)",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428585",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428585",
+      "description": "쿠팡페이의 로켓페이 출시가 카카오페이와 간편결제 시장에 미칠 영향과 대응책을 묻는 질문에는 \"쿠팡의 간편결제 외부 진출 소식은 예의주시하고 있으나 위협이라기보다 간편결제 시장 전체의 파이를 키울 기회로...",
+      "pubDate": "2026-08-04T08:36:00+00:00",
+      "category": "카카오페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "토스플레이스, 지역화폐 결제망 넓힌다···'POS 장악' 넘어 기업 비용...",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=150350",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=150350",
+      "description": "| 스마트비즈 = 최형호 기자 | 비바리퍼블리카(토스)의 오프라인 결제 자회사 토스플레이스가 지역사랑상품권과 기업 비용관리 시장을 동시에 겨냥하며 사업 영역 확대에 나섰다. 단순 결제 단말기 공급을 넘어 공공...",
+      "pubDate": "2026-08-04T08:22:00+00:00",
+      "category": "토스페이",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "카카오페이 금융서비스 폭풍성장에 영업이익 날았다, 신원근 수익 다각...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=443932",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=443932",
+      "description": "간편결제를 중심으로 한 결제서비스 의존도가 컸다. 하지만 신 대표가 카드 추천 서비스를 비롯해 대출, 보험, 투자서비스 공격적 확장으로 매출구조 다변화에 힘을 실으면서 카카오페이 금융서비스 매출 비중은...",
+      "pubDate": "2026-08-04T08:22:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "토스플레이스, 지역화폐 운영사 비즈플레이와 맞손… 소상공인 결제 편...",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=140162",
+      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=140162",
+      "description": "비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스와 지역화폐 운영 전문기업 비즈플레이가 손을 잡았다. 두 회사는 지역사랑상품권 결제 확대와 기업 비용관리 분야 협력을 골자로 하는 업무협약...",
+      "pubDate": "2026-08-04T08:18:00+00:00",
+      "category": "토스페이",
+      "source": "투어코리아"
+    },
+    {
+      "title": "카카오페이, \"로켓페이 위협 아닌 기회\"...간편결제 노하우로 성장세 이...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=153985",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=153985",
+      "description": "연내 온오프라인을 아우르는 결제 서비스 '로켓페이'를 선보인다고 밝힌 바 있다. 쿠팡과 쿠팡이츠, 쿠팡플레이 등에서 사용하고 있는 쿠팡페이 서비스를 오프라인 및 쿠팡 외 가맹점에서도 사용할 수 있도록 한다는 것이다.",
+      "pubDate": "2026-08-04T08:16:00+00:00",
+      "category": "카카오페이",
+      "source": "테크M"
+    },
+    {
+      "title": "명륜진사갈비, 카카오페이 QR오더 프로모션 9일까지 연장",
+      "link": "https://theviewers.co.kr/View.aspx?No=4173976",
+      "originallink": "https://theviewers.co.kr/View.aspx?No=4173976",
+      "description": "뷰어스 백진엽 기­자 jinebito@theviewers.co.kr 최근 외식업계에서는 여름 휴가철과 방학 시즌을 맞아 모바일 주문·간편결제와 연계한 프로모션 경쟁이 활발해지고 있다. 가족 단위 외식과 여행객 수요가 늘어나는 시기에...",
+      "pubDate": "2026-08-04T08:02:00+00:00",
+      "category": "카카오페이",
+      "source": "뷰어스"
+    },
+    {
+      "title": "카카오페이, 2분기 실적 최대…매출 3351억원·영업이익 586억원",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=206028",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=206028",
+      "description": "이번 실적은 카카오페이가 간편결제 기업에서 종합 금융 플랫폼으로 성공적으로 전환하고 있음을 보여주는 분기점이라는 평가를 받는다. 과거 카카오페이의 실적은 결제 거래 증가 여부에 크게 좌우됐지만...",
+      "pubDate": "2026-08-04T07:52:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "[오늘의 주요공시] 삼성증권·카카오페이·대우건설 등",
+      "link": "https://www.etoday.co.kr/news/view/2610951",
+      "originallink": "https://www.etoday.co.kr/news/view/2610951",
+      "description": "실적 △ 네이버, 크림 유상증자에 참여해 1300억원 출자 △ 롯데하이마트, 2분기 매출 5911억원... 4% 증가 △ 카카오페이, 2분기 영업이익 586억원 △ 에코프로머티, 2분기 영업손실 106억원…적자 축소...",
+      "pubDate": "2026-08-04T07:50:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "[컨콜] 카카오페이 \"개방형 인프라로 지속적 영역 확장 중\"",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257589",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=257589",
+      "description": "이어 카카오페이 관계자는 \"고객 데이터 기반으로 고객과 가맹점을 이어주는 선순환에 집중하고 있다\"고 설명했다. 그러면서 \"쿠팡 로켓페이와는 본질적으로 다른 경쟁력 갖고 있다\"고 강조했다.",
+      "pubDate": "2026-08-04T07:36:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "[컨콜] 카카오페이 \"쿠팡 로켓페이, 간편결제 시장 볼륨 키울 것\"",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=257584",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=257584",
+      "description": "카카오페이는 4일 진행된 올해 2분기 실적발표 컨퍼런스 콜에서 최근 쿠팡의 로켓페이 도입에 대해 \"시장 볼륨을 키울 것\"이라고 밝혔다. 회사 측은 \"로켓페이를 위협 관점이 아니라 기회의 관점에서 보고 있다\"고 말했다....",
+      "pubDate": "2026-08-04T07:34:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "금융 전반 체질 개선…카카오페이, 2분기 순익 586억원 기록",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=209096",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=209096",
+      "description": "네이버페이는 NPay 단말기 보급 및 마이데이터 기반의 대출·보험 비교 서비스를 확장하며 금융 플랫폼으로의 전환을 서두르고 있으며, 토스(비바리퍼블리카) 역시 토스증권의 해외주식 중개 수수료 수익 확대와...",
+      "pubDate": "2026-08-04T07:24:00+00:00",
+      "category": "카카오페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "토스플레이스·비즈플레이, 지역화폐 결제·기업 비용관리 협력",
+      "link": "https://hbnpress.com/news/view/1065596568878978",
+      "originallink": "https://hbnpress.com/news/view/1065596568878978",
+      "description": "토스플레이스는 비즈플레이와 지역사랑상품권 결제 활성화 및 기업 비용관리 협력을 위한 전략적 업무협약을 체결했다고 4일 밝혔다. 토스플레이스와 비즈플레이는 지역사랑상품권 결제 활성화와 기업 비용관리 협력을...",
+      "pubDate": "2026-08-04T07:06:00+00:00",
+      "category": "토스페이",
+      "source": "hbnpress"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털 금융계 소식...카카오페이·토스뱅크·토...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200539",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200539",
+      "description": "토스플레이스가 비즈플레이와 지역사랑상품권 결제와 기업 비용관리를 연계한 통합 서비스 개발에 나선다. ◆ 카카오페이, 마이데이터 기반 AI 금융 에이전트 ‘AI코치’ 베타 서비스 출시 카카오페이(대표 신원근)가...",
+      "pubDate": "2026-08-04T06:54:00+00:00",
+      "category": "카카오페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 맞손... 지역화폐 결제·기업 비용관리 협...",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=205280",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=205280",
+      "description": "사진=토스플레이스 간편결제 기업들이 공공 결제 인프라와 기업용(B2B) 서비스를 결합하며 사업 영역을 넓히고 있다. 지역사랑상품권 사용처를 확대하는 동시에 기업 비용관리까지 아우르는 플랫폼 경쟁도 본격화하는...",
+      "pubDate": "2026-08-04T06:40:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "토스프론트에서 지역화폐 결제…토스플레이스·비즈플레이 MOU",
+      "link": "https://n.news.naver.com/mnews/article/003/0014107865?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260804_0003735928",
+      "description": "토스 결제 단말기 자회사 토스플레이스가 지역화폐를 통한 결제 편의성 개선에 나선다. 토스플레이스는 비즈플레이와 지역사랑상품권 결제 활성화와 기업 비용관리 협력을 위한 전략적 업무협약(MOU)을 체결했다고 4일...",
+      "pubDate": "2026-08-04T06:31:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스 단말기서 서울사랑상품권 QR 결제…비즈플레이-토스 맞손",
+      "link": "https://n.news.naver.com/mnews/article/003/0014107853?sid=105",
+      "originallink": "https://www.newsis.com/view/NISX20260804_0003736064",
+      "description": "비즈플레이가 토스플레이스와 지역사랑상품권 결제 서비스 활성화 및 기업 비용관리 사업 협력을 위한 전략적 업무협약(MOU)을 체결했다고 4일 밝혔다. 토스플레이스는 비바리퍼블리카(토스)의 결제단말기 및 포스(POS)...",
+      "pubDate": "2026-08-04T06:28:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스 프론트로 지역화폐 결제...\"소상공인 결제 혁신\"",
+      "link": "https://n.news.naver.com/mnews/article/014/0005557041?sid=101",
+      "originallink": "http://www.fnnews.com/news/202608041402323857",
+      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 지역화폐 활성화에 나선다. 4일 토스플레이스는 서울·익산·제주 등의 지역사랑상품권을 운영하는 솔루션 전문 기업 비즈플레이와...",
+      "pubDate": "2026-08-04T06:06:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 2분기 영업이익 586억원 역대 최대",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1010296",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1010296",
+      "description": "최근 핀테크 플랫폼 업계의 수익화 전략은 단순 간편결제 수수료 중심의 매출 구조에서 벗어나, 데이터 기반의 맞춤형 금융 상품 중개와 자회사 시너지를 결합하는 고수익성 금융 플랫폼으로의 체질 전환이 이뤄지고...",
+      "pubDate": "2026-08-04T05:52:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "[Fintech & Now]카카오페이, 마이데이터 기반 'AI코치' 출시 등",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719059",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1719059",
+      "description": "◆토스플레이스, 비즈플레이와 지역화폐·기업결제 협력 토스플레이스는 지역사랑상품권 운영사 비즈플레이와 지역화폐 결제 활성화와 기업 비용관리 서비스 개발을 위한 전략적 업무협약을 체결했다. 비즈플레이는...",
+      "pubDate": "2026-08-04T05:32:00+00:00",
+      "category": "카카오페이",
+      "source": "EBN"
+    },
+    {
+      "title": "토스플레이스, 지역화폐 결제망 확대…비즈플레이와 B2B 협력 강화",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=132929",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=132929",
+      "description": "| 이코노미사이언스 박성현 기자 | 토스플레이스가 지역사랑상품권 운영사 비즈플레이와 손잡고 지역화폐 결제 인프라 확대에 나선다. 토스플레이스의 오프라인 결제 단말기를 통해 지역사랑상품권 결제를 지원하는 한편...",
+      "pubDate": "2026-08-04T05:28:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "삼성카드, 모니모페이 전용카드 출시…간편결제 시 10% 할인",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=316008",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=316008",
+      "description": "삼성카드가 삼성금융 통합 플랫폼 모니모의 간편결제 서비스와 연계해 다양한 할인 혜택을 제공하는 '모니모페이카드'를 출시했다고 4일 밝혔다. 모니모페이는 모니모 애플리케이션(앱)에서 제공하는 간편결제...",
+      "pubDate": "2026-08-04T05:22:00+00:00",
+      "category": "간편결제",
+      "source": "월요신문"
+    },
+    {
+      "title": "삼성카드, 모니모페이 간편결제 특화카드… 다양한 할인",
+      "link": "https://www.g-enews.com/view.php?ud=202608041105101631a6e8311f64_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202608041105101631a6e8311f64_1",
+      "description": "모니모페이는 모니모앱에서 제공하는 간편결제 서비스다. 모니모페이카드 고객은 모니모페이에 카드 등록 후 간편결제 이용 시 10% 할인을 기본으로 제공한다. 전월 기준 1일에서 말일까지 매일 모니모앱에 로그인하면...",
+      "pubDate": "2026-08-04T04:30:00+00:00",
+      "category": "간편결제",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "삼성카드, 간편결제 최대 15% 할인 '모니모페이카드' 출시",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=128606",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=128606",
+      "description": "삼성카드가 모니모페이 이용 고객에게 간편결제 할인과 구독·온라인 쇼핑 혜택을 제공하는 전용 카드를 선보였다. 모니모앱에 매일 접속하면 결제 할인율이 최대 15%로 높아지며, 디지털 콘텐츠·멤버십 할인과 온라인...",
+      "pubDate": "2026-08-04T04:28:00+00:00",
+      "category": "간편결제",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "삼성카드, 모니모페이 특화 카드 선봬…간편결제 최대 15% 할인",
+      "link": "http://www.newscape.co.kr/news/articleView.html?idxno=123733",
+      "originallink": "http://www.newscape.co.kr/news/articleView.html?idxno=123733",
+      "description": "삼성카드는 간편결제 시 최대 15% 할인을 제공하는 '모니모페이카드'를 선보였다고 4일 밝혔다. 모니모페이는 최근 MST 기능을 도입해 온·오프라인 전 가맹점에서 실물 카드 없이 결제할 수 있도록 이용 범위를 넓혔다....",
+      "pubDate": "2026-08-04T04:26:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스케이프"
+    },
+    {
+      "title": "비즈플레이·토스플레이스, B2B 비용관리 사업 맞손",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=213534",
+      "originallink": "https://www.datanet.co.kr/news/articleView.html?idxno=213534",
+      "description": "정광련 비즈플레이 부사장(좌)과 김정열 토스플레이스 부대표(우)  비즈플레이(대표 석창규)는 비바리퍼블리카의 결제단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스(대표 최재호)와 함께 지역사랑상품권 결제...",
+      "pubDate": "2026-08-04T03:46:00+00:00",
+      "category": "토스페이",
+      "source": "데이터넷"
+    },
+    {
+      "title": "토스플레이스, 서울페이 이어 익산·제주 지역화폐 결제 확대",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202608040943331740de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202608040943331740de3f0aa1be_7",
+      "description": "토스플레이스가 서울페이에 적용한 지역사랑상품권 결제 모델을 익산과 제주 등 다른 지역으로 확대한다. 기업 고객을 대상으로는 오프라인 결제부터 비용 증빙과 정산까지 연결하는 통합 서비스 개발에도 나선다....",
+      "pubDate": "2026-08-04T03:30:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 지역화폐 협약",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854316",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=854316",
+      "description": "토스플레이스 | 서울=한스경제 김종효 기자 | 토스플레이스는 비즈플레이와 전략적 업무협약을 맺고 지역사랑상품권 결제 활성화에 나선다고 4일 밝혔다. 양사는 지난 7월 29일 서울 강남구 역삼동 아크플레이스에서...",
+      "pubDate": "2026-08-04T02:06:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "토스플레이스·비즈플레이 맞손…지역화폐 결제·기업 비용관리 협력",
+      "link": "https://n.news.naver.com/mnews/article/138/0002236497?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026080408434777091",
+      "description": "토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스가 비즈플레이와 손잡고 지역사랑상품권 결제 확대와 기업 비용관리 서비스 고도화에 나선다. 토스플레이스는 비즈플레이와 지역사랑상품권 결제 활성화 및 기업...",
+      "pubDate": "2026-08-04T01:52:00+00:00",
+      "category": "토스페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "토스 단말기, 서울 넘어 익산·제주 지역화폐 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/030/0003453973?sid=101",
+      "originallink": "https://www.etnews.com/20260804000121",
+      "description": "토스플레이스가 비즈플레이와 지역사랑상품권 결제 활성화와 기업 비용관리 협력을 위한 전략적 업무협약을 체결했다. 비즈플레이는 서울·익산·제주 등의 지역사랑상품권을 운영한다. 이번 협약은 비즈플레이가...",
+      "pubDate": "2026-08-04T01:35:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 ﻿소상공인 결제 혁신 위해 맞손",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=269003",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=269003",
+      "description": "토스플레이스는 지난달 29일 비즈플레이와 '지역사랑상품권 결제 활성화 및 기업 비용관리 협력을 위한 전략적 업무협약'을 맺었다고 4일 밝혔다. 이번 협약은 비즈플레이가 지역사랑상품권 사업에서 쌓은 운영 경험과...",
+      "pubDate": "2026-08-04T01:32:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "이롬넷, 일본 PSP 라이선스 취득...현지 결제 서비스 기반 마련",
+      "link": "https://magazine.hankyung.com/money/article/202608043533c",
+      "originallink": "https://magazine.hankyung.com/money/article/202608043533c",
+      "description": "이롬넷은 이를 통해 일본 현지 기업 및 가맹점과 직접 계약을 체결할 수 있는 체계를 마련했으며, 글로벌 신용카드와 간편결제, 국가별 로컬 결제수단 등을 제공할 수 있게 됐다고 설명했다. 최근 이커머스와 해외 결제가...",
+      "pubDate": "2026-08-04T01:24:00+00:00",
+      "category": "간편결제",
+      "source": "hankyung"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 맞손…지역화폐 활성화·기업 비용관리 협...",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202608041002369070be44c0aacd_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202608041002369070be44c0aacd_30",
+      "description": "토스의 결제 단말기·포스(POS) 솔루션 공급 자회사 토스플레이스가 비즈플레이 손잡고 지역사랑상품권 결제 활성화와 기업 비용관리 협력에 나선다. 4일 토스플레이스는 지난달 29일 서울 강남구 역삼동 아크플레이스에서...",
+      "pubDate": "2026-08-04T01:08:00+00:00",
+      "category": "토스페이",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "\"서울페이 QR로 지역상품권 확산\"…비즈플레이·토스플레이스 맞손",
+      "link": "https://n.news.naver.com/mnews/article/421/0009095491?sid=101",
+      "originallink": "https://www.news1.kr/industry/sb-founded/6248258",
+      "description": "웹케시(053580)의 비즈플레이와 토스플레이스가 손잡고 지역사랑상품권 결제 활성화와 기업 비용관리 사업 협력에 나선다. 양사는 서울페이 QR 결제를 토스플레이스 단말기에 적용하며 공공 결제 접점을 넓히고, 이를...",
+      "pubDate": "2026-08-04T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "벤큐, 8월 모니터·마우스 구매 후 '포토후기'로 네이버페이 증정",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60208",
+      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60208",
+      "description": "네이버페이 포인트 1만원을 증정한다. 또한 우수 후기자 1명을 선정해 애플 무선 이어폰 '에어팟 프로(AirPods Pro) 3'를 경품으로 제공한다. 벤큐는 사용자의 다양한 라이프스타일과 사용 환경에 맞춘 폭넓은 디스플레이...",
+      "pubDate": "2026-08-04T00:48:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털포스트(PC사랑)"
+    },
+    {
+      "title": "비즈플레이, 토스플레이스와 서울페이 QR 결제 활성화 협력 확대",
+      "link": "https://n.news.naver.com/mnews/article/030/0003453929?sid=105",
+      "originallink": "https://www.etnews.com/20260804000069",
+      "description": "비즈플레이는 비바리퍼블리카(토스)의 결제단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스와 지역사랑상품권 결제 서비스 활성화 및 기업 비용관리 사업 협력을 위한 전략적 업무협약(MOU)을 체결했다고 4일 밝혔다....",
+      "pubDate": "2026-08-04T00:45:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "토스플레이스, 비즈플레이와 맞손…지역화폐 결제·기업 비용관리 협력...",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=186059",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=186059",
+      "description": "서울 강남구 역삼동 토스 본사에서 열린 협약식에서 김정열 토스플레이스 부대표(오른쪽)와 정광련 비즈플레이 부사장(왼쪽)이 기념 사진을 촬영하고 있다. 사진=토스 제공 토스의 결제 단말기 및 포스(POS) 솔루션 자회사...",
+      "pubDate": "2026-08-04T00:44:00+00:00",
+      "category": "토스페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "﻿비즈플레이, 토스플레이스와 서울페이 QR 결제 활성화",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702277",
+      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702277",
+      "description": "비즈플레이는 비바리퍼블리카의 결제단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스와 함께 지역사랑상품권 결제 서비스 활성화 및 기업 비용관리 사업 협력을 위한 전략적 업무협약을 체결했다. 양사는 지난달 29일...",
+      "pubDate": "2026-08-04T00:30:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스프리존"
+    },
+    {
+      "title": "비즈플레이, 토스플레이스와 서울페이 QR 결제 활성화…B2B 비용관리 협...",
+      "link": "http://www.intn.co.kr/news/articleView.html?idxno=2052321",
+      "originallink": "http://www.intn.co.kr/news/articleView.html?idxno=2052321",
+      "description": "비즈플레이 제공 Expense 비용관리 Total 솔루션 기업 비즈플레이(대표 석창규)는 비바리퍼블리카(토스)의 결제단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스(대표 최재호)와 함께 지역사랑상품권 결제 서비스 활성화...",
+      "pubDate": "2026-08-04T00:18:00+00:00",
+      "category": "토스페이",
+      "source": "日刊 NTN(일간NTN)"
+    },
+    {
       "title": "토스플레이스·비즈플레이, 지역사랑상품권 결제 확대 협력",
       "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689560",
       "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689560",
@@ -295,7 +1114,7 @@
       "description": "토스플레이스가 가맹점주와 고객이 함께 골목상권을 청소하는 상생 프로그램을 시작했다. 토스모바일이 통신요금 할인과 얼굴인식 결제 쿠폰을 결합한 알뜰폰 요금제를 선보였다. ◆ 토스뱅크, 오픈이노베이션 협업...",
       "pubDate": "2026-08-03T07:34:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "노란우산, 신규 온라인 가입 프로모션…네이버페이 쿠폰준다",
@@ -745,7 +1564,7 @@
       "description": "토스페이먼츠가 정부가 추진하는 예금토큰 기반 결제 인프라 확대 사업에 참여해 민간 결제망 구축에 나선다. ◆ 토스, 멕시카나 전국 매장에 ‘페이스페이’ 도입 토스(운영사 비바리퍼블리카, 대표 이승건)가...",
       "pubDate": "2026-07-31T08:04:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 보험tk 소식...삼성생명·한화생명·카카오페이...",
@@ -754,7 +1573,7 @@
       "description": "카카오페이손해보험은 펫보험 출시 4개월 만에 누적 계약 1만건을 넘어섰다. ◆ 삼성생명, 모든 IRP 가입자 수수료 무료 삼성생명(사장 홍원학)이 다음달 1일부터 가입 시점과 채널, 적립금 규모와 관계없이 모든 IRP...",
       "pubDate": "2026-07-31T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "토스 결제·송금업체도 위험관리…금융복합그룹 규제 사각지대 해소",
@@ -1303,7 +2122,7 @@
       "description": "네이버페이가 오프라인 통합 단말기 ‘N페이 커넥트’를 이용하는 소상공인에게 현장결제 수수료를 지원한다. ◆ NH농협은행, 인터넷뱅킹 ‘전자점자 서비스’ 도입 NH농협은행(은행장 강태영)이 개인인터넷뱅킹 주요...",
       "pubDate": "2026-07-29T07:30:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "토스페이먼츠, 6년 만에 역사 속으로… 토스 구조 개편 확대될까",
@@ -1537,7 +2356,7 @@
       "description": "카카오페이는 대학생 100명과 함께 디지털 금융 사각지대 해소에 나서는 ‘사각사각 서포터즈’ 1기를 출범했다. 토스는 장애와 재해 상황에서도 핵심 서비스를 유지하고 복구할 수 있는 업무 연속성 관리체계의...",
       "pubDate": "2026-07-28T07:50:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "이디야커피, 배민 픽업·네이버페이 할인·적립 프로모션 진행",
@@ -2284,7 +3103,7 @@
       "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장(왼쪽)과 서형석 투게더스 대표이사가 업무협약 체결 후 기념 촬영을 하고 있다. [사진=토스] 토스는 유통 포스 솔루션 기업 투게더스와 협력해 전국...",
       "pubDate": "2026-07-27T07:14:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "마이크로닉스, 'ASTRO II PT' 3종 구매 시 네이버페이 페이백 진행",
@@ -3202,7 +4021,7 @@
       "description": "카카오페이가 글로벌 스테이블코인 기업 서클(Circle)과 차세대 디지털 자산 인프라 협력에 나선다. 토스와 토스뱅크는 서클과 스테이블코인 기반 결제 인프라 구축을 위한 전략적 업무협약을 체결했다. 토스뱅크는...",
       "pubDate": "2026-07-23T07:00:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "은행 앱 밖으로 나온 퇴직연금…우리은행, 네이버페이에 상담창구",
@@ -3931,7 +4750,7 @@
       "description": "토스뱅크는 실무형 사이버 보안 인재 양성을 위한 부트캠프 2기 모집에 나섰으며, 토스플레이스는 서울시와 협력해 서울사랑상품권 QR 결제를 지원한다. ◆ 토스, SBI저축은행과 포용금융 협약...중저신용자 대상...",
       "pubDate": "2026-07-20T07:54:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "배스킨라빈스, 네이버페이와 7월 '슈퍼 배라위크' 진행",
@@ -4615,7 +5434,7 @@
       "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 비대면 주문 서비스를 도입하고 할인 프로모션을 진행한다.㈜명륜당은 명륜진사갈비 매장에 '카카오페이 QR오더' 서비스를 도입했다고 15일 밝혔다.카카오페이 QR오더는...",
       "pubDate": "2026-07-15T07:12:00+00:00",
       "category": "카카오페이",
-      "source": "asiatoday"
+      "source": "아시아투데이"
     },
     {
       "title": "네이버도 뛰어든 스테이블코인 결제…핀테크 ‘차세대 결제망’ 경쟁 본...",
@@ -5056,7 +5875,7 @@
       "description": "카카오페이는 대한항공, 에어비앤비와 함께 일본 여행 특화 혜택을 담은 '해외여행 올-패스: 일본편'을 선보였다. ◆ 카카오뱅크, 개인사업자 부동산담보대출 '계산기' 출시 이벤트 카카오뱅크(대표 윤호영)가 개인사업자...",
       "pubDate": "2026-07-13T07:20:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[단독] '토스플레이스 vs KICC' 특허戰 2라운드…특허법원 간다",
@@ -6028,7 +6847,7 @@
       "description": "토스와 네이버페이, 카카오페이가 정부의 주민등록증 진위확인망을 활용해 비대면 금융거래 본인확인 체계 강화에 나선다. 왼쪽부터 이찬진 금융감독원장, 박상진 Npay 대표, 윤호중 행정안전부 장관, 이승건 토스 대표...",
       "pubDate": "2026-07-09T07:34:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "토스, 정부 주민등록증 진위확인 도입…비대면 금융보안 강화",
@@ -6991,7 +7810,7 @@
       "description": "네이버페이(Npay)는 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'의 시범 운영을 시작했다. ◆ 카카오페이, 다문화 청소년 디지털 금융교육 업무협약 체결 카카오페이가...",
       "pubDate": "2026-07-07T08:50:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "모험자본 투자 플랫폼 'Npay 스타트업' 출범…민관 협업",
@@ -7171,7 +7990,7 @@
       "description": "◆카카오엔터, ‘도굴왕: 엔드라인’ 웹툰·웹소설 공개 카카오엔터테인먼트가 ‘도굴왕’ 후속 시리즈 ‘도굴왕: 엔드라인’ 웹툰을 5일, 웹소설을 6일 카카오페이지에 순차적으로 공개한다. 애니메이션...",
       "pubDate": "2026-07-07T07:32:00+00:00",
       "category": "네이버페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "네이버페이, 투자사-스타트업·벤처 잇는 '생산적 금융' 나선다",
@@ -7486,7 +8305,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -7801,7 +8620,7 @@
       "description": "토스뱅크 체크카드가 보유 고객 1000만명을 돌파하며 전 세대 일상 결제 카드로 자리 잡았다. [이미지=토스뱅크] 토스뱅크 체크카드는 지난 2021년 10월 출범과 함께 선보인 이후 간편한 발급 절차와 고객이 일상에서...",
       "pubDate": "2026-07-06T08:14:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "네이버파이낸셜·두나무 합병 또 연기…12월31일 주식교환 예정",
@@ -7837,7 +8656,7 @@
       "description": "주총 11월 19일·교환일 12월 31일로 변경…\"글로벌 경쟁력 확보 취지 성실히 설명\" 네이버파이낸셜과 두나무 간 포괄적 주식교환 일정이 약 3개월 늦춰졌다. 관계 당국의 기업결합 심사 등 인허가 절차가 진행 중인 데...",
       "pubDate": "2026-07-06T08:02:00+00:00",
       "category": "네이버페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "네이버파이낸셜, 두나무와 주식교환 오는 12월31일로 연기",
@@ -8044,7 +8863,7 @@
       "description": "또 토스플레이스와 함께 소상공인 결제환경 개선을 위한 이벤트를 진행하며, 우리WON모바일에서 7월 한 달간 통신비 부담을 낮추는 다양한 혜택을 제공한다. ◆ 우리은행, 데이터 기반 영업·내부통제 강화 조직개편 단행...",
       "pubDate": "2026-07-06T06:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "\"할부도 QR 결제로\"···유통家, 외국인 결제 서비스 경쟁 '속도'",
@@ -8728,7 +9547,7 @@
       "description": "네이버페이가 중소상공인희망재단과 손잡고 '앤페이(Npay) 커넥트'를 활용한 소상공인 디지털 전환 지원에 나선다. 토스는 농협목우촌 외식사업단과 협력해 페이스페이 사용처를 확대하고, 빗썸은 버그바운티 포상금을...",
       "pubDate": "2026-07-03T07:50:00+00:00",
       "category": "네이버페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "네이버페이, 종이고지서 QR로 관리비 즉시 납부 서비스 출시",
@@ -8953,7 +9772,7 @@
       "description": "직전 한 달 동안 카카오뱅크 통장에 50만 원 이상 입금한 고객 가운데 추첨을 통해 선정된 10명에게 200만 원을 지급하며, 이벤트 페이지에서 참여할 수 있다. 카카오뱅크 관계자는 “월급을 관리하고 저축하는 고객께...",
       "pubDate": "2026-07-02T07:40:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "생성형 AI 시대…핀테크 ESG도 '기술 책임'으로 진화",
@@ -9331,7 +10150,7 @@
       "description": "카카오페이가 영화 '와일드 씽' 속 화제 캐릭터 최성곤과 상시 할인 서비스 '굿딜'의 컬래버레이션 콘텐츠를 자사 유튜브와 인스타를 통해 공개했다. ◆ 카카오뱅크, 주택담보대출 중도상환해약금 면제 6개월 연장...",
       "pubDate": "2026-07-01T06:40:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "KT, 5G·LTE 경계 허문 통합요금제 출시…간편결제 이벤트까지",
@@ -9781,7 +10600,7 @@
       "description": "삼성카드는 포르쉐코리아와 제휴하여 다양한 공동 사업을 추진하며 카카오페이는 AI 중심 지속가능경영 전략과 성과를 담은 '2025 ESG 보고서'를 발간했다. ◆ 삼성카드, 포르쉐코리아와 전략적 제휴…프리미엄...",
       "pubDate": "2026-06-30T07:04:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "카카오페이, AI 전환과 지속가능경영 성과를 담은 ESG 보고서 발간 내용...",
@@ -10798,7 +11617,7 @@
       "description": "토스플레이스는 광주은행과 업무협약을 체결해 광주·전남 지역 소상공인 결제 환경 혁신에 나선다. ◆ 토스뱅크, 제7회 디지털금융포럼 '디지털금융 대상' 수상 토스뱅크(대표 이은미)가 지난 25일 부산 해운대구 그랜드...",
       "pubDate": "2026-06-26T01:44:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
@@ -11482,7 +12301,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -11887,7 +12706,7 @@
       "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게' 2026 신규 입점사 온라인 기획전을 개최했다. 또 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만 돌파했다. ◆ 카카오뱅크, 인터넷전문은행 최초로...",
       "pubDate": "2026-06-23T01:40:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "롯데百, 유니온페이 손잡고 9월 전점에 QR·NFC 간편결제 도입",
@@ -12427,7 +13246,7 @@
       "description": "카카오페이는 시니어 디지털 정보격차 해소 공로로 과기부 장관 표창을 수상했으며, 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방 영상 캠페인에도 나섰다. ◆ 카카오뱅크, '지구 온난화 멈추기...",
       "pubDate": "2026-06-19T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스인사이트·토스플레...",
@@ -12436,7 +13255,7 @@
       "description": "◆ 토스플레이스, SK브로드밴드와 소상공인 통신·결제 결합 상품 출시 토스플레이스(대표 최재호)가 SK브로드밴드(사장 김성수)와 함께 소상공인 고객을 위한 통신·결제 결합 상품을 출시한다. 권정훈(왼쪽) SK브로드밴드...",
       "pubDate": "2026-06-19T07:54:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "SK브로드밴드, 토스플레이스와 맞손… 소상공인 지원 생태계 확장",
@@ -12625,7 +13444,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -12760,7 +13579,7 @@
       "description": "글로벌 스포츠·엔터테인먼트 블록체인 기업 칠리즈(CHILIZ)가 네이버페이 월렛과의 협업을 통해 네이버페이 월렛의 가입자 및 홀더 수가 100만 명을 돌파했다고 19일 밝혔다.칠리즈 체인은 네이버페이 월렛의...",
       "pubDate": "2026-06-19T01:46:00+00:00",
       "category": "네이버페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "\"소상공인 통신비 낮추고 결제관리까지\"…SK브로드밴드·토스플레이스 ...",
@@ -13156,7 +13975,7 @@
       "description": "중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 협약식에는 이창호 중기중앙회 공제사업단장과...",
       "pubDate": "2026-06-18T08:04:00+00:00",
       "category": "간편결제",
-      "source": "신소재경제신문"
+      "source": "amenews"
     },
     {
       "title": "중기중앙회·간편결제진흥원 '노란우산 가입확산' 협력키로",
@@ -14722,7 +15541,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "더밸류뉴스"
+      "source": "thevaluenews"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -15542,43 +16361,7 @@
       "pubDate": "2026-05-07T22:02:00+00:00",
       "category": "간편결제",
       "source": "investchosun"
-    },
-    {
-      "title": "최대 실적 달성 카카오페이, AI·스테이블코인 본격 '판 키운다'(종합)",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=151606",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=151606",
-      "description": "사진=카카오페이 결제와 금융, 플랫폼 등 전 영역의 성장과 보험·증권 등의 외형 확대로 카카오페이가 분기... 제공과 삼성 월렛 통합 결제 등을 통한 커버리지 확장에 따라 전년 대비 50% 증가했다\"고 밝혔다. 금융...",
-      "pubDate": "2026-05-06T09:10:00+00:00",
-      "category": "카카오페이",
-      "source": "테크M"
-    },
-    {
-      "title": "[이슈] 카카오페이, 역대 최대 실적…금융·결제·플랫폼 '고른 성장'",
-      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=800073",
-      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=800073",
-      "description": "카카오페이는 데이터 기반 가맹점 연계 마케팅과 시즌 프로모션 강화로 외부 가맹점 거래액이 확대됐다고 설명했다. 오프라인 결제는 '삼성월렛' 통합 결제 확대와 공격적인 혜택 제공 전략이 침투율 상승으로...",
-      "pubDate": "2026-05-06T07:12:00+00:00",
-      "category": "카카오페이",
-      "source": "오늘경제"
-    },
-    {
-      "title": "카카오페이, 1분기 영업이익 322억원…분기 최대 실적 경신",
-      "link": "https://www.news2day.co.kr/article/20260506500193",
-      "originallink": "https://www.news2day.co.kr/article/20260506500193",
-      "description": "온라인 결제는 13% 성장하면서 족립적 거래(Non-Captive) 영역이 24% 고성장을 기록했고, 오프라인 결제는 삼성월렛 연동 등 커버리지 확대에 힘입어 50% 급증했다. 해외 결제도 20% 늘었다. 카카오페이증권의 주식...",
-      "pubDate": "2026-05-06T06:24:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스투데이"
-    },
-    {
-      "title": "간편결제 경쟁 격화…KB국민카드, 'NEED Pay'로 혜택 강화",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=202653",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=202653",
-      "description": "예를 들어 토스페이먼츠 기준으로 토스페이, 네이버페이, 카카오페이, 페이코는 카드와 머니·포인트를 함께 사용하는 복합결제를 지원한다. 반면 SSG페이, 삼성페이, 엘페이, 애플페이 등은 카드 중심 결제 방식을...",
-      "pubDate": "2026-05-06T01:34:00+00:00",
-      "category": "간편결제",
-      "source": "SR타임스"
     }
   ],
-  "lastFetch": "2026-08-04T00:17:22.485179+00:00"
+  "lastFetch": "2026-08-05T00:18:52.689175+00:00"
 }
