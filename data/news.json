@@ -1,6 +1,141 @@
 {
   "articles": [
     {
+      "title": "명륜진사갈비, 카카오페이 QR오더 프로모션 연장 운영",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047946",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047946",
+      "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 카카오와 진행 중인 '카카오페이 QR오더 프로모션'을 오는 8월 9일까지 연장 운영한다. 이번 행사는 당초 7월 31일까지 진행될 예정이었으나 여름 휴가와 방학 시즌 외식 수요...",
+      "pubDate": "2026-08-06T00:10:00+00:00",
+      "category": "카카오페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "\"은행엔 0.1%, 저축은행엔 1.3%\"…당국 아무리 애써도 카카오페이·토스...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=760791",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=760791",
+      "description": "6일 한국핀테크산업협회에 따르면 개인신용대출 기준 카카오페이와 토스, 네이버파이낸셜의 상반기 저축은행 대환대출 중개수수료율은 평균 1.17%를 기록했다. 카카오페이와 토스가 1.3%로 높고 네이버파이낸셜이 0.91...",
+      "pubDate": "2026-08-05T21:10:00+00:00",
+      "category": "카카오페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "EVSIS 충전, 삼성 월렛 터치 한 번으로",
+      "link": "https://www.electimes.com/news/articleView.html?idxno=371034",
+      "originallink": "https://www.electimes.com/news/articleView.html?idxno=371034",
+      "description": "롯데이노베이트의 전기차 충전 전문 자회사 이브이시스(EVSIS)가 국내 간편결제 시장에서 가장 많이 쓰이는 모바일 간편결제 서비스인 '삼성 월렛'과 손을 잡고 고객 충전 편의성을 극대화한다. 이 서비스는 8월 5일 오전...",
+      "pubDate": "2026-08-05T15:52:00+00:00",
+      "category": "삼성페이",
+      "source": "전기신문"
+    },
+    {
+      "title": "카카오페이, 금융 에이전트 'AI코치' 베타 서비스 출시",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=142510",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=142510",
+      "description": "카카오페이가 AI(인공지능) 금융 에이전트 'AI코치' 베타 버전을 출시했다. 사진=카카오페이  카카오페이(대표 신원근)가 AI(인공지능) 금융 에이전트 'AI코치' 베타 버전을 출시했다고 밝혔다. 5일 카카오페이에 따르면 이...",
+      "pubDate": "2026-08-05T13:04:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "아성다이소-카카오페이, 간편결제 제휴",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=661933",
+      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=661933",
+      "description": "한국금융경제신문=조희경 기자 | 아성다이소가 간편결제 플랫폼 카카오페이와 손잡고 통합 결제 이벤트를 진행한다. 결제수단 제한, 적립 한도 등 조건을 따져봐야 한다. 아성다이소는 오는 31일까지 '8월 카카오페이...",
+      "pubDate": "2026-08-05T09:42:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융경제신문"
+    },
+    {
+      "title": "이브이시스, 전기차 충전 인증 수단에 '삼성 월렛' 추가",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7177673",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7177673",
+      "description": "롯데이노베이트의 전기차 충전 자회사 이브이시스는 모바일 간편결제 서비스인 '삼성 월렛'과 연동한 회원 인증 서비스를 시작한다고 5일 밝혔다. 한 고객이 삼성 월렛을 통해 이브이시스 전기차 충전 서비스를 이용하고...",
+      "pubDate": "2026-08-05T08:54:00+00:00",
+      "category": "삼성페이",
+      "source": "주간한국"
+    },
+    {
+      "title": "증권이 끌어올린 최대 실적…카카오페이, 미래 성장 시험대",
+      "link": "https://n.news.naver.com/mnews/article/119/0003118591?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1674831/?sc=Naver",
+      "description": "카카오페이가 증시 호황에 힘입어 시장 기대치를 웃도는 역대 최대 분기 실적을 기록했다. 다만 하반기 들어 국내 증시 거래대금이 둔화 조짐을 보이는 만큼 이번 호실적이 플랫폼 체질 개선으로 이어질 수 있을지...",
+      "pubDate": "2026-08-05T08:16:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "롯데이노베이트 이브이시스, 삼성 월렛과 연동…인증 편의성 강화",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=363131",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=363131",
+      "description": "롯데이노베이트의 전기차 충전 전문 자회사 이브이시스(EVSIS)가 모바일 간편결제 서비스인 삼성 월렛과 함께 고객 충전 편의성을 극대화한다. 롯데이노베이트는 해당 서비스를 5일 오전 10시부터 정식 오픈했다고 밝혔다....",
+      "pubDate": "2026-08-05T08:02:00+00:00",
+      "category": "삼성페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "롯데 EVSIS, 삼성월렛과 손잡고 충전 서비스 강화에 힘쓴다",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=906515",
+      "originallink": "https://www.kgnews.co.kr/news/article.html?no=906515",
+      "description": "모바일 간편결제 서비스인 ‘삼성 월렛’과 고객 충전 편의성을 높히고자 마련한 협업 서비스를 오픈한다고 5일 밝혔다. EVSIS는 그간 환경부 공공 급속충전기 구축 사업 수주와 업계 최초 지능정보 제품 인증 취득...",
+      "pubDate": "2026-08-05T07:42:00+00:00",
+      "category": "삼성페이",
+      "source": "kgnews"
+    },
+    {
+      "title": "롯데이노베이트 “EVSIS, 삼성 월렛 연동…회원 인증 간편화”",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608050143",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202608050143",
+      "description": "삼성 월렛은 국내 모바일 간편결제와 디지털 지갑 시장에서 높은 이용률을 기록하고 있으며, 갤럭시 스마트폰 사용자층이 두터운 점을 고려해 협업을 추진했다. EVSIS는 이용자의 사용 환경에 맞춰 두 가지 방식의...",
+      "pubDate": "2026-08-05T06:12:00+00:00",
+      "category": "삼성페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "토스 이어 카카오도 핀테크 '금융복합기업집단' 문턱 넘을까",
+      "link": "https://n.news.naver.com/mnews/article/003/0014110176?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260805_0003737525",
+      "description": "네이버는 은행·보험·금융투자업 등 금융복합기업집단 지정 요건이 되는 인허가 금융업이 없어 현재 제도상 대상이 아니기 때문이다. 카카오는 카카오뱅크를 통해 은행업을 하고 있지만 카카오페이증권(2조3442억원)과...",
+      "pubDate": "2026-08-05T06:10:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "700만명 선택한 토스 '페이스페이'…생체정보 보안도 고도화",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1392993",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1392993",
+      "description": "토스 페이스페이는 얼굴 인증만으로 결제가 가능한 간편결제 서비스다. 카드나 스마트폰 없이 결제할 수 있으며, 매장 직원의 POS 조작 등 반복 업무를 줄여 고객 대기시간 단축과 매장 운영 효율을 높일 수 있는 것이...",
+      "pubDate": "2026-08-05T05:50:00+00:00",
+      "category": "토스페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "EVSIS \"삼성 월렛 연동으로 회원 인증 편의성 강화\"",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405199",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=405199",
+      "description": "EVSIS는 이번 협력을 진행하기로 한 배경에 대해 삼성 월렛이 국내 모바일 간편결제 시장의 월간활성사용자수(MAU)가 가장 많은 것은 물론 국내 디지털 지갑 시장에서도 가장 높은 점유율을 차지하고 있어 활용성이...",
+      "pubDate": "2026-08-05T04:20:00+00:00",
+      "category": "삼성페이",
+      "source": "테크월드"
+    },
+    {
+      "title": "당장 정답 알아보자…토스 행운퀴즈 '8월 5일' 정답 공개",
+      "link": "https://www.wikitree.co.kr/articles/1150490",
+      "originallink": "https://www.wikitree.co.kr/articles/1150490",
+      "description": "앱을 통해 신용카드 이용 혜택, 간편 결제 내역, 보험 서비스, 신용 점수 관리, 간편 송금, 신분증 발급 신청까지 가능하다. 특히 토스뱅크는 조건 없이 이자 지급이 가능한 통장을 제공하며, 자동화된 재정관리 기능도...",
+      "pubDate": "2026-08-05T01:14:00+00:00",
+      "category": "토스페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "8억대는 갤럭시 AI 목표, 삼성월렛 스테이블코인 구상",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/385404",
+      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/385404",
+      "description": "삼성페이로 코인베이스 애플리케이션에서 가상자산을 구매할 수 있도록 했다. 코인베이스는 당시 미국 내 갤럭시 이용자 7500만명 이상을 서비스 확대의 출발점으로 제시했다. 삼성월렛이 자체적으로 디지털자산을...",
+      "pubDate": "2026-08-05T00:42:00+00:00",
+      "category": "삼성페이",
+      "source": "토큰포스트"
+    },
+    {
       "title": "카카오페이 2분기 역대급 실적에 증권가 “체질 개선 기대”",
       "link": "https://n.news.naver.com/mnews/article/009/0005716751?sid=101",
       "originallink": "https://www.mk.co.kr/article/12117322",
@@ -70,7 +205,7 @@
       "description": "교보증권은 5일 카카오페이(377300)에 대해 결제와 금융서비스의 고른 성장으로 플랫폼 경쟁력을 입증했다며 투자의견 '매수(Buy)'를 유지했다. 다만 목표주가는 실적 추정치와 밸류에이션 조정을 반영해 기존...",
       "pubDate": "2026-08-04T23:44:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 증권·보험 호조 속 금융 플랫폼 역량 부각",
@@ -2608,7 +2743,7 @@
       "description": "삼성월렛 포인트는 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있는 선불형 간편 결제 서비스다. 또한, 무료 환전(환율우대 100%), 해외 가맹점...",
       "pubDate": "2026-07-28T04:38:00+00:00",
       "category": "삼성페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "삼성전자, 삼성 월렛에 하나 트래블로그 체크카드 추가…해외 결제시 1...",
@@ -4525,7 +4660,7 @@
       "description": "홈페이지 내 상담 메뉴를 통해 전화 또는 카카오톡 상담 서비스도 이용할 수 있다. 삼성생명 관계자는 \"다이렉트 채널은 고객이 필요한 보장을 직접 선택하고...",
       "pubDate": "2026-07-22T05:18:00+00:00",
       "category": "네이버페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "삼성생명, 다이렉트 보험 가입하면 혜택…네이버페이·모니머니 증정",
@@ -4678,7 +4813,7 @@
       "description": "배스킨라빈스, 네이버페이와 '슈퍼 배라워크' 진행…레디팩 2+2 제공 배스킨라빈스가 네이버페이와 협업해 여름철 고객을 위한 할인 프로모션 '슈퍼(Super) 배라워크'를...",
       "pubDate": "2026-07-21T03:30:00+00:00",
       "category": "네이버페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "“애플페이 게 섰거라”...삼성전자, 美서 ‘파격 혜택’ 신용카드 내놨...",
@@ -4867,7 +5002,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -7819,7 +7954,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -8305,7 +8440,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -8728,7 +8863,7 @@
       "description": "국내 최대 암호화폐 거래소 업비트 운영사 두나무와 네이버파이낸셜의 통합 작업이 또다시 연기됐다. 업계에서는 단순한 일정 조정이라는 시각과 함께, 최근 거래량 감소로 위축된 국내 디지털자산 시장에서 규제...",
       "pubDate": "2026-07-06T07:40:00+00:00",
       "category": "네이버페이",
-      "source": "코인리더스"
+      "source": "coinreaders"
     },
     {
       "title": "두나무·네이버파이낸셜 주식교환 연말까지 연장",
@@ -11401,7 +11536,7 @@
       "description": "광주은행이 토스플레이스와 손잡고 지역 소상공인을 위한 금융·결제 인프라 확대와 지역경제 활성화에 나선다. 광주은행(은행장 정일선)은 지난 24일 서울...",
       "pubDate": "2026-06-26T22:50:00+00:00",
       "category": "토스페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "점심 장사 이어 저녁 장사까지…토스 포스 결제 장애",
@@ -12148,7 +12283,7 @@
       "description": "배스킨라빈스 관계자는 \"간편결제 서비스를 이용하는 고객들에게 실질적인 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"여름철 고객들이 아이스크림을 보다...",
       "pubDate": "2026-06-24T04:36:00+00:00",
       "category": "네이버페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "카드업계, 공공지원·간편결제·생활혜택으로 고객 접점 넓혀",
@@ -12301,7 +12436,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -13444,7 +13579,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -16352,16 +16487,7 @@
       "pubDate": "2026-05-08T04:32:00+00:00",
       "category": "카카오페이",
       "source": "디지털데일리"
-    },
-    {
-      "title": "[Invest]핀테크 스타트업 올해 상장 '러시'...미완성 실적에 밸류 시험대",
-      "link": "https://www.investchosun.com/site/data/html_dir/2026/05/07/2026050780168.html",
-      "originallink": "https://www.investchosun.com/site/data/html_dir/2026/05/07/2026050780168.html",
-      "description": "3일 금융투자업계에 따르면 외환·결제 핀테크 기업 트래블월렛은 최근 주요 증권사를 대상으로 주관사... 미국에서 주택담보대출 전문은행을 운영하는 해빗팩토리 역시 삼성증권·KB증권을 공동 주관사로 선정해 상장...",
-      "pubDate": "2026-05-07T22:02:00+00:00",
-      "category": "간편결제",
-      "source": "investchosun"
     }
   ],
-  "lastFetch": "2026-08-05T00:18:52.689175+00:00"
+  "lastFetch": "2026-08-06T00:13:10.170789+00:00"
 }
