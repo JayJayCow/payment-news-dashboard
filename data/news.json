@@ -1,6 +1,456 @@
 {
   "articles": [
     {
+      "title": "애플페이 이끈 제니퍼 베일리, 25년 만에 회사 떠난다",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692223",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692223",
+      "description": "애플페이 [사진: 애플 홈페이지 캡처] 애플의 애플페이와 월렛 사업을 이끌어온 제니퍼 베일리(Jennifer Bailey) 부사장이 오는 10월 은퇴한다. 11일(이하 현지시간) 블룸버그에 따르면 베일리 부사장은 2000년대 초 애플에...",
+      "pubDate": "2026-08-11T23:26:00+00:00",
+      "category": "애플페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "네이버페이, 전기요금 납부 서비스 연말 추진…한국전력공사와 MOU 체결",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=405440",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=405440",
+      "description": "올해 연말부터 네이버페이(Npay)를 통해 전기요금을 납부하는 서비스가 가능해질 것으로 보인다. 네이버페이는 11일 한국전력공사(한국전력)와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을 체결했다고 밝혔다....",
+      "pubDate": "2026-08-11T23:00:00+00:00",
+      "category": "네이버페이",
+      "source": "테크월드"
+    },
+    {
+      "title": "연말부터 네이버페이로 전기요금 납부 가능",
+      "link": "https://kjmbc.co.kr/NewsArticle/1531811",
+      "originallink": "https://kjmbc.co.kr/NewsArticle/1531811",
+      "description": "앞으로 전기요금을 네이버페이로 낼 수 있게 됩니다. 한전은 올해 연말부터 네이버 앱 푸시 알림을 통해 전기요금 청구 내역을 조회할 수 있고 네이버 페이로 즉시 납부할 수 있다고 밝혔습니다. 한전은 전체 고객의...",
+      "pubDate": "2026-08-11T22:45:00+00:00",
+      "category": "네이버페이",
+      "source": "광주MBC"
+    },
+    {
+      "title": "페이코 앱에 종이 복권 등록하면 자동수령 가능",
+      "link": "https://n.news.naver.com/mnews/article/422/0000894821?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH202608120541038sm",
+      "description": "앞으로는 간편결제 앱 '페이코'에 구매한 종이 로또복권을 등록하면 당첨 시 자동으로 수령할 수 있습니다. 기획예산처 복권위원회는 어제(11일) 이러한 내용의 '복권의 발행·관리 및 판매에 관한 지침 개정안' 등을...",
+      "pubDate": "2026-08-11T20:41:00+00:00",
+      "category": "페이코",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "[단독] 네이버페이 ‘리베이트’ 논란",
+      "link": "https://n.news.naver.com/mnews/article/023/0003992525?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/08/12/M2DVZPWLZFC6REGPPSB62HNN3A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "“결제 물량 재배분 과정에서 자사 단말기 보급 실적 고려” 네이버페이(네이버파이낸셜)가 이 회사의 전자지급결제대행(PG) 물량을 부가통신사업자(VAN사)에 배분하면서 그 대가로 자사 오프라인 결제 단말기...",
+      "pubDate": "2026-08-11T20:01:00+00:00",
+      "category": "네이버페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "애플, 경영진 세대교체 가속도…애플페이 수장도 퇴진",
+      "link": "https://n.news.naver.com/mnews/article/277/0005801784?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026081204343092350",
+      "description": "애플의 결제 서비스 애플페이와 월렛을 이끌어온 제니퍼 베일리 부사장이 오는 10월 퇴임한다. 팀 쿡 최고경영자(CEO)가 다음 달 물러나는 가운데 장기근속 고위 임원들의 퇴진이 이어지면서 애플이 본격적인 세대교체...",
+      "pubDate": "2026-08-11T19:34:00+00:00",
+      "category": "애플페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "[단독] “스마트패스만 쓰려는데 생체정보 서비스까지?”…네이버페이...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006349840?sid=105",
+      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=01239846645546664",
+      "description": "인천국제공항의 얼굴인식 출국 서비스인 ‘스마트패스’를 네이버페이 앱에서 등록할 경우 네이버페이의 생체정보 서비스 이용약관에 필수로 동의해야 하는 것으로 확인됐다. 네이버페이는 스마트패스 등록만으로 결제...",
+      "pubDate": "2026-08-11T16:02:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "로또 미수령 당첨금 자동지급…18일부터 페이코 등록 서비스",
+      "link": "https://n.news.naver.com/mnews/article/123/0002388224?sid=102",
+      "originallink": "http://www.joseilbo.com/news/news_read.php?uid=573651&class=33&grp=",
+      "description": "복권위는 오는 18일부터 판매점에서 구입한 종이 로또복권을 간편결제 앱 페이코에 등록하면 당첨 여부를 정기적으로 알려주는 서비스를 운영한다. 등록 이후에도 찾아가지 않은 당첨금은 지급 기한 당일 자동으로...",
+      "pubDate": "2026-08-11T11:48:00+00:00",
+      "category": "페이코",
+      "source": "조세일보"
+    },
+    {
+      "title": "\"전기요금도 네이버페이로 낸다\"…한전, 청구·수납 디지털화",
+      "link": "https://www.thebk.co.kr/news/articleView.html?idxno=311047",
+      "originallink": "https://www.thebk.co.kr/news/articleView.html?idxno=311047",
+      "description": "한국전력공사(한전)가 네이버페이(Npay)와 손잡고 모바일 기반의 전기요금 청구·수납 서비스 디지털 전환에 나선다. 한전이 11일 경기도 성남시 네이버 1784에서 Npay와 '전기요금 청구·수납 디지털화를 위한 업무협약...",
+      "pubDate": "2026-08-11T11:18:00+00:00",
+      "category": "네이버페이",
+      "source": "뷰티경제"
+    },
+    {
+      "title": "네이버페이, 한국전력과 전기요금 청구·수납 디지털화 협약 체결",
+      "link": "https://n.news.naver.com/mnews/article/079/0004177754?sid=105",
+      "originallink": "https://www.nocutnews.co.kr/news/6561534?utm_source=naver&utm_medium=article&utm_campaign=20260811081156",
+      "description": "네이버페이(Npay)가 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을 체결했다고 11일 밝혔다. 양사는 이번 협약을 통해 전기요금 납부 서비스를 모바일 기반으로 고도화하기 위해 상호 협력한다....",
+      "pubDate": "2026-08-11T11:12:00+00:00",
+      "category": "네이버페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "네이버페이, 한국전력공사와 전기요금 청구·수납 디지털화로 사용자 편...",
+      "link": "https://www.aitimes.kr/news/articleView.html?idxno=41399",
+      "originallink": "https://www.aitimes.kr/news/articleView.html?idxno=41399",
+      "description": "이정호 한국전력 영업본부장(좌)과 이향철 Npay 페이서비스 책임리더(우)가 업무협약을 맺은 후 기념 사진 촬영을 하고 있다.(사진:네이버페이) 네이버페이(Npay, 대표이사 박상진)가 한국전력공사(이하 한국전력)와...",
+      "pubDate": "2026-08-11T10:12:00+00:00",
+      "category": "네이버페이",
+      "source": "인공지능신문"
+    },
+    {
+      "title": "\"전기요금도 네이버페이로 낸다\"…네이버페이·한전, 디지털 납부 맞손",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=314613",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=314613",
+      "description": "네이버페이가 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을 체결했다고 11일 밝혔다. 양사는 이번 협약을 통해 전기요금 납부 서비스를 모바일 기반으로 고도화하기 위해 상호 협력키로 했으며...",
+      "pubDate": "2026-08-11T10:04:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "전기요금도 네이버페이로...청구·수납 '모바일 시대' 열린다",
+      "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=227372",
+      "originallink": "https://www.energy-news.co.kr/news/articleView.html?idxno=227372",
+      "description": "연말부터 네이버 앱에서 전기요금 청구서를 확인하고 네이버페이(Npay)로 즉시 납부할 수 있게 된다. 한전은 11일 네이버 1784에서 네이버페이와 '전기요금 청구·수납 디지털화를 위한 업무협약'을 체결했다고 밝혔다. 이번...",
+      "pubDate": "2026-08-11T09:12:00+00:00",
+      "category": "네이버페이",
+      "source": "에너지신문"
+    },
+    {
+      "title": "네이버 앱으로 전기요금 청구서 받고 Npay로 낸다…Npay·한전 맞손",
+      "link": "https://n.news.naver.com/mnews/article/468/0001259189?sid=101",
+      "originallink": "https://www.sportsseoul.com/news/read/1628004?ref=naver",
+      "description": "올해 연말부터 네이버 앱에서 전기요금 청구서를 확인하고 네이버페이(Npay)로 바로 납부할 수 있게 된다. 네이버페이는 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을 체결했다고 11일 밝혔다....",
+      "pubDate": "2026-08-11T09:02:00+00:00",
+      "category": "네이버페이",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "전기요금도 네이버페이로 낸다…연말부터 서비스",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1401248",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1401248",
+      "description": "이정호 한국전력 영업본부장(왼쪽)과 이향철 네이버페이 책임리더가 업무협약 체결 후 기념 사진을 촬영하고 있다. 사진=한국전력 제공 매일일보 = 김현우 기자  |  올해 말부터 네이버 앱에서 전기요금 청구서를 받고...",
+      "pubDate": "2026-08-11T08:52:00+00:00",
+      "category": "네이버페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "'전기요금, 네이버페이로 낸다'…한전·네이버 협력 착수",
+      "link": "http://www.e-platform.net/news/articleView.html?idxno=104496",
+      "originallink": "http://www.e-platform.net/news/articleView.html?idxno=104496",
+      "description": "한국전력 이정호 영업본부장(사진 왼쪽), 네이버페이 이향철 책임리더가 기념촬영을 하고 있다. 한전과 네이버가 협업해 전기요금을 네이버페이로 청구, 수납이 가능한 시스템을 구축한다. 한국전력(사장 김동철)이...",
+      "pubDate": "2026-08-11T08:52:00+00:00",
+      "category": "네이버페이",
+      "source": "에너지플랫폼뉴스"
+    },
+    {
+      "title": "한전 전기요금, 연말부터 네이버페이로 납부",
+      "link": "http://www.ikld.kr/news/articleView.html?idxno=338826",
+      "originallink": "http://www.ikld.kr/news/articleView.html?idxno=338826",
+      "description": "올해 연말부터 네이버 앱에서 전기요금 청구서를 확인하고 네이버페이(Npay)로 바로 납부할 수 있게 된다. 한국전력(사장 김동철)은 모바일 청구와 간편결제를 연계하고 향후 온·오프라인으로 결제 채널을 확대한다....",
+      "pubDate": "2026-08-11T08:32:00+00:00",
+      "category": "네이버페이",
+      "source": "국토일보"
+    },
+    {
+      "title": "네이버페이, 한국전력과 전기요금 청구·수납 디지털화 맞손",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270038",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=270038",
+      "description": "네이버페이는 한국전력공사와 '전기요금 청구·수납 디지털화를 위한 업무협약'을 맺었다고 11일 밝혔다. 양사는 협약을 통해 전기요금 납부 서비스를 모바일 기반으로 고도화하고, 이용자가 다양한 디지털 채널에서...",
+      "pubDate": "2026-08-11T08:14:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "연말부터 네이버페이로 전기요금 납부 가능",
+      "link": "https://kjmbc.co.kr/NewsArticle/1531684",
+      "originallink": "https://kjmbc.co.kr/NewsArticle/1531684",
+      "description": "앞으로 전기요금을 네이버페이로 낼 수 있게 됩니다. 한전은 올해 연말부터 네이버 앱 푸시 알림을 통해 전기요금 청구 내역을 조회할 수 있고 네이버 페이로 즉시 납부할 수 있다고 밝혔습니다. 한전은 전체 고객의...",
+      "pubDate": "2026-08-11T08:05:00+00:00",
+      "category": "네이버페이",
+      "source": "광주MBC"
+    },
+    {
+      "title": "‘전기요금, 네이버페이로도 납부’…한전·네이버 업무협약",
+      "link": "https://n.news.naver.com/mnews/article/081/0003669479?sid=101",
+      "originallink": "https://www.seoul.co.kr/news/economy/2026/08/11/20260811500250?wlog_tag3=naver",
+      "description": "올해 연말부터 전기요금을 네이버페이를 통해 납부할 수 있게 된다. 한국전력공사와 네이버페이(Npay)는 11일 경기 성남 네이버 1784에서 ‘전기요금 청구·수납 디지털화를 위한 업무협약’을 체결했다고 밝혔다....",
+      "pubDate": "2026-08-11T08:04:00+00:00",
+      "category": "네이버페이",
+      "source": "서울신문"
+    },
+    {
+      "title": "한전, 전기요금 청구수납 디지털전환 박차··· Npay로도 전기요금 납부",
+      "link": "http://www.epj.co.kr/news/articleView.html?idxno=39153",
+      "originallink": "http://www.epj.co.kr/news/articleView.html?idxno=39153",
+      "description": "이정호 한전 영업본부장(왼쪽)과 이향철 네이버페이 책임리더(오른쪽)가 8월 11일 '전기요금 청구·수납 디지털화를 위한 업무협약'을 체결하며 기념촬영을 하고 있다.  한국전력(사장 김동철)이 네이버페이(Npay)와...",
+      "pubDate": "2026-08-11T08:04:00+00:00",
+      "category": "네이버페이",
+      "source": "일렉트릭파워"
+    },
+    {
+      "title": "네이버페이, 단말기·PG 연계 의혹…회사측 \"사실무근\"",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719986",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1719986",
+      "description": "네이버페이의 오프라인 결제 단말기 'Npay 커넥트' 보급과 전자지급결제대행(PG) 물량 배분을 둘러싼 논란이 불거졌다. 단말기 보급에 적극적인 부가통신사업자(VAN사)에 PG 물량을 더 배정했다는 의혹이 제기되면서...",
+      "pubDate": "2026-08-11T07:56:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "한전, '네이버페이 전기요금 결제'... 연말부터 모바일 청구·납부",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440683",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=440683",
+      "description": "한국전력(사장 김동철, 이하 한전)은 11일 경기도 성남시 네이버 1784에서 네이버페이(이하 Npay)와 '전기요금 청구·수납 디지털화를 위한 업무협약'을 체결하고, 올해 연말부터 네이버 모바일 플랫폼을 활용한 전기요금...",
+      "pubDate": "2026-08-11T07:52:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "'전기요금도 간편하게'...네이버페이·한전, 모바일 청구서 서비스 도입...",
+      "link": "https://www.cwn.kr/news/articleView.html?idxno=52890",
+      "originallink": "https://www.cwn.kr/news/articleView.html?idxno=52890",
+      "description": "네이버페이와 한국전력공사가 전기요금 청구와 수납 절차의 디지털 전환을 위해 손을 잡았다. 11일 네이버페이는 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약을 체결했다고 밝혔다. 이번 협약에 따라...",
+      "pubDate": "2026-08-11T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "CWN뉴스"
+    },
+    {
+      "title": "대웅제약·한전 '임팩타임 A+ 30포' 한정판 출시·네이버페이와 전기요...",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=316327",
+      "originallink": "http://www.wsobi.com/news/articleView.html?idxno=316327",
+      "description": "한국전력(한전)은 네이버페이(Npay)와 모바일 기반의 전기요금 청구ㆍ수납 서비스 디지털화를 추진한다. 11일 대웅제약에 따르면 수험생의 학습과 활력 관리를 돕기 위해 스타강사 이지영과 스틱젤리 제품 '임팩타임 A...",
+      "pubDate": "2026-08-11T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "sobi"
+    },
+    {
+      "title": "전기요금도 '네이버페이'로…한전, 청구·수납 디지털 전환 속도",
+      "link": "https://n.news.naver.com/mnews/article/002/0002451766?sid=102",
+      "originallink": "https://www.pressian.com/pages/articles/2026081115160537986?utm_source=naver&utm_medium=search",
+      "description": "연말부터 네이버 앱으로 청구서 확인·결제 한국전력이 네이버페이(Npay)와 손잡고 전기요금 청구부터 납부까지 모바일에서 한 번에 처리할 수 있는 디지털 서비스를 구축한다. 한전(사장 김동철)은 11일 경기도 성남시...",
+      "pubDate": "2026-08-11T07:44:00+00:00",
+      "category": "네이버페이",
+      "source": "pressian"
+    },
+    {
+      "title": "네이버페이로 전기요금 낸다…한전과 모바일 청구·수납 협력",
+      "link": "https://n.news.naver.com/mnews/article/138/0002237442?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026081116230264717",
+      "description": "네이버페이가 한국전력공사와 손잡고 전기요금 청구부터 납부까지 모바일로 처리할 수 있는 서비스를 확대한다. 네이버페이는 11일 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을 체결했다고...",
+      "pubDate": "2026-08-11T07:37:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "\"전기요금, 네이버페이로 간편하게\"···한전, 디지털 수납 도입",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=258938",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=258938",
+      "description": "현대경제신문 박희민 기자 | 한국전력은 경기 성남시 네이버 1784에서 네이버페이(이하 Npay)와 '전기요금 청구·수납 디지털화를 위한 업무협약'을 맺었다고 11일 밝혔다. 양사가 협력하는 분야는 △네이버 모바일...",
+      "pubDate": "2026-08-11T07:34:00+00:00",
+      "category": "네이버페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "네이버페이, 한전과 전기요금 수납 디지털화 MOU...생활 결제 영토 확장",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258450",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=258450",
+      "description": "네이버페이가 한국전력공사와 업무협약을 맺고 국민 생활과 밀접한 전기요금 납부 서비스의 디지털 전환에 나선다. 네이버페이는 한국전력과 전기요금 청구 및 수납 디지털화를 위한 업무협약(MOU)을 체결했다고 11일...",
+      "pubDate": "2026-08-11T07:32:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "네이버페이, 한국전력공사와 맞손...전기요금 청구·수납 디지털화",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=716438",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=716438",
+      "description": "컨슈머타임스=김지훈 기자 | 네이버페이(Npay, 대표이사 박상진)가 한국전력공사(이하 한국전력)와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을 체결했다고 11일 밝혔다. 양사는 협약을 통해 전기요금 납부...",
+      "pubDate": "2026-08-11T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "“이제 네이버페이(Npay)로 전기요금 낸다” 한전, 전기요금 청구·수납...",
+      "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290660442276",
+      "originallink": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290660442276",
+      "description": "▲ 왼쪽 이정호 한전 영업본부장, 오른쪽 이향철 네이버페이 책임리더. (사진=한국전력 제공)  한국전력(이하 한전) 11일 경기도 성남시 네이버 1784에서 네이버페이와(이하 Npay)와 ‘전기요금 청구·수납 디지털화를...",
+      "pubDate": "2026-08-11T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "siminilbo"
+    },
+    {
+      "title": "한전, 네이버페이와 전기요금 디지털 청구·납부 추진…연말 서비스 시...",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131518",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=131518",
+      "description": "(사진=한전, 네이버페이) 한국전력이 네이버페이(Npay)와 손잡고 전기요금 청구와 수납 과정의 디지털 전환에 나선다. 연말부터 네이버 앱에서 전기요금 청구서를 확인하고 간편결제로 바로 납부할 수 있는 서비스가...",
+      "pubDate": "2026-08-11T07:28:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "전기요금도 네이버페이로…한전과 납부 서비스 맞손",
+      "link": "https://www.ajunews.com/view/20260811151431879",
+      "originallink": "https://www.ajunews.com/view/20260811151431879",
+      "description": "연말부터 시행…'한전ON'서도 이용 가능 아주경제=김지윤 기자 yoon0930@ajunews.com 이정호 한국전력 영업본부장(좌)과 이향철 네이버페이 페이서비스 책임리더(우)가 11일 경기도 성남시 네이버 1784에서 업무협약을...",
+      "pubDate": "2026-08-11T07:20:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "\"전기요금도 네이버페이로 내세요\"",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=635416",
+      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=635416",
+      "description": "한국전력이 네이버페이와 손잡고 모바일 기반의 전기요금 청구·수납 서비스 디지털화를 추진한다. 한전은 11일 경기도 성남시 네이버 1784에서 네이버페이와 '전기요금 청구·수납 디지털화를 위한 업무협약'을 체결했다....",
+      "pubDate": "2026-08-11T07:16:00+00:00",
+      "category": "네이버페이",
+      "source": "서울파이낸스"
+    },
+    {
+      "title": "\"네이버페이로 전기요금 납부\"...한국전력공사와 결제 편의성 높인다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005560090?sid=101",
+      "originallink": "http://www.fnnews.com/news/202608111433568087",
+      "description": "올해 연말부터 네이버페이 앱을 통해 전기요금 납부가 가능해진다. 11일 네이버페이는 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약을 체결했다고 밝혔다. 양사는 전기요금 납부 서비스를 모바일...",
+      "pubDate": "2026-08-11T07:13:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "네이버 앱으로 전기요금 낸다… 한전, 간편결제 전면 도입",
+      "link": "https://theopiniontimes.news/%eb%84%a4%ec%9d%b4%eb%b2%84-%ec%95%b1%ec%9c%bc%eb%a1%9c-%ec%a0%84%ea%b8%b0%ec%9a%94%ea%b8%88-%eb%82%b8%eb%8b%a4-%ed%95%9c%ec%a0%84-%ea%b0%84%ed%8e%b8%ea%b2%b0%ec%a0%9c-%ec%a0%84%eb%a9%b4/",
+      "originallink": "https://theopiniontimes.news/%eb%84%a4%ec%9d%b4%eb%b2%84-%ec%95%b1%ec%9c%bc%eb%a1%9c-%ec%a0%84%ea%b8%b0%ec%9a%94%ea%b8%88-%eb%82%b8%eb%8b%a4-%ed%95%9c%ec%a0%84-%ea%b0%84%ed%8e%b8%ea%b2%b0%ec%a0%9c-%ec%a0%84%eb%a9%b4/",
+      "description": "종이 청구서 대신 모바일 푸시 알림 확인 네이버페이·포인트·신용카드 즉시 납부 지원 이정호 한국전력 영업본부장(좌)과 이향철 Npay 페이서비스 책임리더(우)가 업무협약을 맺은 후 기념 사진 촬영을 하고 있다. (사진...",
+      "pubDate": "2026-08-11T07:10:00+00:00",
+      "category": "간편결제",
+      "source": "더오피니언타임즈"
+    },
+    {
+      "title": "한전, 전기요금 '종이서 모바일로'… 네이버페이 맞손 쥐고 디지털 수납...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=347391",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=347391",
+      "description": "한국전력은 11일 네이버페이와 '전기요금 청구·수납 디지털화를 위한 업무협약'을 체결했다. [제공... 각 가구의 전력 사용량이 주택용 누진 3단계 진입 기준의 80%에 도달하면 '한전ON' 앱이나 카카오톡으로 즉시 알림을...",
+      "pubDate": "2026-08-11T06:41:00+00:00",
+      "category": "네이버페이",
+      "source": "녹색경제신문"
+    },
+    {
+      "title": "전기요금도 네이버페이로 낸다···한전, 공공요금 '플랫폼 결제' 본격...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=53317",
+      "originallink": "https://www.enetnews.co.kr/news/articleView.html?idxno=53317",
+      "description": "카카오페이와 토스 등 다른 간편결제·금융 플랫폼도 공과금 조회와 납부 서비스를 확대하고 있어 공공요금 수납 시장을 둘러싼 플랫폼 경쟁도 이어질 전망이다. 전기요금처럼 정기적으로 발생하는 필수 지출을 플랫폼...",
+      "pubDate": "2026-08-11T06:30:00+00:00",
+      "category": "네이버페이",
+      "source": "이넷뉴스"
+    },
+    {
+      "title": "네이버페이, 외부 결제 중심 영토 확장...향후 관건은 '수익 전환'",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190829",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=190829",
+      "description": "네이버의 2분기 파이낸셜 플랫폼 매출은 4707억원으로 전년 동기 대비 16% 증가했다. 결제액과 집계 범위가 달라 직접 비교할 수는 없지만, 거래액 증가가 매출·이익 증가로 그대로 연결되는 구조는 아니다. 외부 가맹점...",
+      "pubDate": "2026-08-11T06:20:00+00:00",
+      "category": "네이버페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "5060 잡아라…핀테크 업계도 '시니어 시장 정조준'",
+      "link": "https://n.news.naver.com/mnews/article/030/0003456345?sid=101",
+      "originallink": "https://www.etnews.com/20260811000186",
+      "description": "카카오페이는 2023년부터 고령층을 대상으로 디지털 금융 앱 활용과 신용관리, 금융사기 예방 등을 교육하는 시니어클래스를 운영하고 있다. 전국 노인복지관과 중장년 일자리센터 등 시니어 이용이 많은 기관을...",
+      "pubDate": "2026-08-11T06:01:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "종이 로또도 페이코에 등록, 미수령 당첨금 지급기한에 자동 입금",
+      "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=86341",
+      "originallink": "https://www.mediafine.co.kr/news/articleView.html?idxno=86341",
+      "description": "판매점에서 구입한 종이 로또복권을 간편결제 앱 페이코에 등록하면 당첨 여부를 안내받고, 찾아가지 않은 당첨금도 지급 기한에 자동으로 받을 수 있게 된다. 전국 로또 판매점의 실시간 영업 정보 제공과 기업 경품용...",
+      "pubDate": "2026-08-11T04:36:00+00:00",
+      "category": "페이코",
+      "source": "미디어파인"
+    },
+    {
+      "title": "블록체인 결제 시장 진출…뱅크웨어글로벌, 스테이블코인 시스템 모멘텀...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476274",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476274",
+      "description": "네이버 증권. 스테이블코인 테마가 11일 강세를 보이고 있다. 글로벌 금융시장에서 스테이블코인 제도화... 라온시큐어, 헥토이노베이션, KG파이낸셜이 하락 흐름을 나타내고 있다. 더즌, 드림시큐리티, 쿠콘도 하락세를...",
+      "pubDate": "2026-08-11T04:18:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "쿠팡페이, 약관 개정···상품권 환급 비율 상향 및 만료 알림 강화",
+      "link": "https://www.globale.co.kr/news/articleView.html?idxno=39810",
+      "originallink": "https://www.globale.co.kr/news/articleView.html?idxno=39810",
+      "description": "쿠팡페이가 전자금융거래이용약관 및 상품권이용약관을 개정하고 이용자 권익 보호 강화에 나선다. 9월 20일부터 시행되는 이번 개정안은 약관에 따라 선불전자지급수단 유효기간 만료 사전 알림이 강화된다. 기존...",
+      "pubDate": "2026-08-11T02:28:00+00:00",
+      "category": "쿠팡페이",
+      "source": "글로벌E"
+    },
+    {
+      "title": "종이 로또 페이코에 등록하면 미수령 당첨금 자동지급…18일부터",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429541",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429541",
+      "description": "복권위는 판매점에서 구매한 종이 로또복권을 간편결제 앱인 페이코에 등록하면 당첨 여부를 정기적으로 알려주고, 등록 이후 찾아가지 않은 당첨금은 지급 기한 당일 자동으로 입금하는 시스템을 오는 18일부터...",
+      "pubDate": "2026-08-11T02:02:00+00:00",
+      "category": "페이코",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "[더벨][쿠팡페이는 지금] 촘촘한 '내부통제·금융소비자' 규제 접점 넓어...",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071035596640106654",
+      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071035596640106654",
+      "description": "쿠팡페이가 오프라인 전자결제 서비스 '로켓페이' 출시를 준비하면서 내부통제 및 금융소비자 보호 등 촘촘한 규제 영역과도 접점이 넓어지고 있다. 금융당국이 최근 핀테크나 빅테크 등 전자금융업자에 대한 관리감독...",
+      "pubDate": "2026-08-11T02:02:00+00:00",
+      "category": "쿠팡페이",
+      "source": "더벨"
+    },
+    {
+      "title": "로또, 간편결제 앱 등록하면 당첨금 자동 입금",
+      "link": "https://n.news.naver.com/mnews/article/366/0001185493?sid=101",
+      "originallink": "https://biz.chosun.com/policy/policy_sub/2026/08/11/SI3V2QMMUJE3BP2KLHGOIKXMLE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "18일부터 종이 로또복권을 간편결제 앱(페이코)에 등록하면 앱에서 당첨 여부를 알 수 있고 당첨금도 자동 입금된다. 기획예산처 복권위원회는 미수령 당첨금 자동 지급을 도입하는 등 제도를 개선한다고 11일 밝혔다....",
+      "pubDate": "2026-08-11T02:01:00+00:00",
+      "category": "간편결제",
+      "source": "조선비즈"
+    },
+    {
+      "title": "로또, 페이코 등록하면 미수령 당첨금 자동지급…18일부터 시행",
+      "link": "https://n.news.naver.com/mnews/article/030/0003456214?sid=100",
+      "originallink": "https://www.etnews.com/20260811000126",
+      "description": "판매점에서 구매한 종이 로또복권을 간편결제 애플리케이션(앱)에 등록하면 찾아가지 않은 당첨금을... 복권위는 오는 18일부터 판매점에서 산 종이 로또복권을 페이코 앱에 등록하면 당첨 여부를 정기적으로 알려주고...",
+      "pubDate": "2026-08-11T02:01:00+00:00",
+      "category": "페이코",
+      "source": "전자신문"
+    },
+    {
+      "title": "종이로또 미수령 당첨금 자동입금…18일부터 페이코 등록",
+      "link": "https://n.news.naver.com/mnews/article/003/0014119745?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260811_0003744015",
+      "description": "복권위는 오는 18일부터 판매점에서 구매한 종이 로또복권을 간편결제 앱인 페이코에 등록하면 당첨 여부를 정기적으로 안내하고, 등록 후에도 찾아가지 않은 당첨금은 지급기한 당일 자동으로 입금하는 시스템을...",
+      "pubDate": "2026-08-11T02:00:00+00:00",
+      "category": "페이코",
+      "source": "뉴시스"
+    },
+    {
+      "title": "[단독] 네이버페이, 결제 단말기 ‘리베이트’ 제공 논란...금융당국 관...",
+      "link": "https://n.news.naver.com/mnews/article/023/0003992357?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/08/11/JIRBOJCC7VBLHCSWTD5F732Y6Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "단말기 보급 실적 기준 PG 물량 배분 의혹 네이버페이, 금감원에 관련 자료 제출 네이버페이 “일반적인 자료 요청” 네이버페이(네이버파이낸셜)가 이 회사의 전자지급결제대행(PG) 물량을 부가통신사업자(VAN사)에...",
+      "pubDate": "2026-08-11T01:50:00+00:00",
+      "category": "네이버페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "아성다이소·쿠팡 '8월 카카오페이 온오프라인 통합 이벤트'·'이사&신학...",
+      "link": "http://www.wsobi.com/news/articleView.html?idxno=316293",
+      "originallink": "http://www.wsobi.com/news/articleView.html?idxno=316293",
+      "description": "아성다이소가 '8월 카카오페이 온오프라인 통합 이벤트'를 진행하며 쿠팡은 '이사&신학기 리빙페어'를 진행한다. 균일가 생활용품점 ㈜아성다이소가 '8월 카카오페이 온오프라인 통합 이벤트'를 진행한다고 지난 3일...",
+      "pubDate": "2026-08-11T01:42:00+00:00",
+      "category": "카카오페이",
+      "source": "sobi"
+    },
+    {
       "title": "고성군, 고향사랑기부제 여름 이벤트…답례품 증량·네이버페이 지급",
       "link": "https://www.kukinews.com/article/view/kuk202608110012",
       "originallink": "https://www.kukinews.com/article/view/kuk202608110012",
@@ -988,7 +1438,7 @@
       "description": "카카오페이(대표 신원근)가 올해 2분기 연결 기준 매출액 3351억원과 영업이익 586억원을 기록하며 분기 최대 실적을 다시 경신했다. 금융 서비스 매출이 처음으로 전체 매출의 절반을 넘어선 가운데 결제와 플랫폼...",
       "pubDate": "2026-08-04T10:00:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "카카오페이, 2분기 역대 최대 실적…금융 매출 첫 50% 돌파",
@@ -1330,7 +1780,7 @@
       "description": "토스플레이스가 비즈플레이와 지역사랑상품권 결제와 기업 비용관리를 연계한 통합 서비스 개발에 나선다. ◆ 카카오페이, 마이데이터 기반 AI 금융 에이전트 ‘AI코치’ 베타 서비스 출시 카카오페이(대표 신원근)가...",
       "pubDate": "2026-08-04T06:54:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스플레이스, 비즈플레이와 맞손... 지역화폐 결제·기업 비용관리 협...",
@@ -1852,7 +2302,7 @@
       "description": "토스플레이스가 가맹점주와 고객이 함께 골목상권을 청소하는 상생 프로그램을 시작했다. 토스모바일이 통신요금 할인과 얼굴인식 결제 쿠폰을 결합한 알뜰폰 요금제를 선보였다. ◆ 토스뱅크, 오픈이노베이션 협업...",
       "pubDate": "2026-08-03T07:34:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "노란우산, 신규 온라인 가입 프로모션…네이버페이 쿠폰준다",
@@ -2302,7 +2752,7 @@
       "description": "토스페이먼츠가 정부가 추진하는 예금토큰 기반 결제 인프라 확대 사업에 참여해 민간 결제망 구축에 나선다. ◆ 토스, 멕시카나 전국 매장에 ‘페이스페이’ 도입 토스(운영사 비바리퍼블리카, 대표 이승건)가...",
       "pubDate": "2026-07-31T08:04:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 보험tk 소식...삼성생명·한화생명·카카오페이...",
@@ -2311,7 +2761,7 @@
       "description": "카카오페이손해보험은 펫보험 출시 4개월 만에 누적 계약 1만건을 넘어섰다. ◆ 삼성생명, 모든 IRP 가입자 수수료 무료 삼성생명(사장 홍원학)이 다음달 1일부터 가입 시점과 채널, 적립금 규모와 관계없이 모든 IRP...",
       "pubDate": "2026-07-31T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스 결제·송금업체도 위험관리…금융복합그룹 규제 사각지대 해소",
@@ -2860,7 +3310,7 @@
       "description": "네이버페이가 오프라인 통합 단말기 ‘N페이 커넥트’를 이용하는 소상공인에게 현장결제 수수료를 지원한다. ◆ NH농협은행, 인터넷뱅킹 ‘전자점자 서비스’ 도입 NH농협은행(은행장 강태영)이 개인인터넷뱅킹 주요...",
       "pubDate": "2026-07-29T07:30:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스페이먼츠, 6년 만에 역사 속으로… 토스 구조 개편 확대될까",
@@ -3094,7 +3544,7 @@
       "description": "카카오페이는 대학생 100명과 함께 디지털 금융 사각지대 해소에 나서는 ‘사각사각 서포터즈’ 1기를 출범했다. 토스는 장애와 재해 상황에서도 핵심 서비스를 유지하고 복구할 수 있는 업무 연속성 관리체계의...",
       "pubDate": "2026-07-28T07:50:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "이디야커피, 배민 픽업·네이버페이 할인·적립 프로모션 진행",
@@ -3841,7 +4291,7 @@
       "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 오규인 토스 부사장(왼쪽)과 서형석 투게더스 대표이사가 업무협약 체결 후 기념 촬영을 하고 있다. [사진=토스] 토스는 유통 포스 솔루션 기업 투게더스와 협력해 전국...",
       "pubDate": "2026-07-27T07:14:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "마이크로닉스, 'ASTRO II PT' 3종 구매 시 네이버페이 페이백 진행",
@@ -3976,7 +4426,7 @@
       "description": "로지텍이 핀테크 기업 토스(Toss, 운영사 비바리퍼블리카)의 신사옥 스마트 워크플레이스 구축 프로젝트에 핵심 파트너로 참여해 업무 인프라 조성을 완료했다고 밝혔다. 이번 프로젝트는 올해 1월부터 3월까지...",
       "pubDate": "2026-07-27T03:14:00+00:00",
       "category": "토스페이",
-      "source": "inven"
+      "source": "인벤"
     },
     {
       "title": "토스, 전국 중소마트 5000곳에 페이스페이 확대",
@@ -4759,7 +5209,7 @@
       "description": "카카오페이가 글로벌 스테이블코인 기업 서클(Circle)과 차세대 디지털 자산 인프라 협력에 나선다. 토스와 토스뱅크는 서클과 스테이블코인 기반 결제 인프라 구축을 위한 전략적 업무협약을 체결했다. 토스뱅크는...",
       "pubDate": "2026-07-23T07:00:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "은행 앱 밖으로 나온 퇴직연금…우리은행, 네이버페이에 상담창구",
@@ -5488,7 +5938,7 @@
       "description": "토스뱅크는 실무형 사이버 보안 인재 양성을 위한 부트캠프 2기 모집에 나섰으며, 토스플레이스는 서울시와 협력해 서울사랑상품권 QR 결제를 지원한다. ◆ 토스, SBI저축은행과 포용금융 협약...중저신용자 대상...",
       "pubDate": "2026-07-20T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "배스킨라빈스, 네이버페이와 7월 '슈퍼 배라위크' 진행",
@@ -6613,7 +7063,7 @@
       "description": "카카오페이는 대한항공, 에어비앤비와 함께 일본 여행 특화 혜택을 담은 '해외여행 올-패스: 일본편'을 선보였다. ◆ 카카오뱅크, 개인사업자 부동산담보대출 '계산기' 출시 이벤트 카카오뱅크(대표 윤호영)가 개인사업자...",
       "pubDate": "2026-07-13T07:20:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[단독] '토스플레이스 vs KICC' 특허戰 2라운드…특허법원 간다",
@@ -7585,7 +8035,7 @@
       "description": "토스와 네이버페이, 카카오페이가 정부의 주민등록증 진위확인망을 활용해 비대면 금융거래 본인확인 체계 강화에 나선다. 왼쪽부터 이찬진 금융감독원장, 박상진 Npay 대표, 윤호중 행정안전부 장관, 이승건 토스 대표...",
       "pubDate": "2026-07-09T07:34:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스, 정부 주민등록증 진위확인 도입…비대면 금융보안 강화",
@@ -8548,7 +8998,7 @@
       "description": "네이버페이(Npay)는 스타트업·벤처기업과 투자자를 연결하는 모험자본 투자 플랫폼 'Npay 스타트업'의 시범 운영을 시작했다. ◆ 카카오페이, 다문화 청소년 디지털 금융교육 업무협약 체결 카카오페이가...",
       "pubDate": "2026-07-07T08:50:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "모험자본 투자 플랫폼 'Npay 스타트업' 출범…민관 협업",
@@ -9043,7 +9493,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -9358,7 +9808,7 @@
       "description": "토스뱅크 체크카드가 보유 고객 1000만명을 돌파하며 전 세대 일상 결제 카드로 자리 잡았다. [이미지=토스뱅크] 토스뱅크 체크카드는 지난 2021년 10월 출범과 함께 선보인 이후 간편한 발급 절차와 고객이 일상에서...",
       "pubDate": "2026-07-06T08:14:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "네이버파이낸셜·두나무 합병 또 연기…12월31일 주식교환 예정",
@@ -9601,7 +10051,7 @@
       "description": "또 토스플레이스와 함께 소상공인 결제환경 개선을 위한 이벤트를 진행하며, 우리WON모바일에서 7월 한 달간 통신비 부담을 낮추는 다양한 혜택을 제공한다. ◆ 우리은행, 데이터 기반 영업·내부통제 강화 조직개편 단행...",
       "pubDate": "2026-07-06T06:00:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "\"할부도 QR 결제로\"···유통家, 외국인 결제 서비스 경쟁 '속도'",
@@ -10285,7 +10735,7 @@
       "description": "네이버페이가 중소상공인희망재단과 손잡고 '앤페이(Npay) 커넥트'를 활용한 소상공인 디지털 전환 지원에 나선다. 토스는 농협목우촌 외식사업단과 협력해 페이스페이 사용처를 확대하고, 빗썸은 버그바운티 포상금을...",
       "pubDate": "2026-07-03T07:50:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "네이버페이, 종이고지서 QR로 관리비 즉시 납부 서비스 출시",
@@ -10510,7 +10960,7 @@
       "description": "직전 한 달 동안 카카오뱅크 통장에 50만 원 이상 입금한 고객 가운데 추첨을 통해 선정된 10명에게 200만 원을 지급하며, 이벤트 페이지에서 참여할 수 있다. 카카오뱅크 관계자는 “월급을 관리하고 저축하는 고객께...",
       "pubDate": "2026-07-02T07:40:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "생성형 AI 시대…핀테크 ESG도 '기술 책임'으로 진화",
@@ -10888,7 +11338,7 @@
       "description": "카카오페이가 영화 '와일드 씽' 속 화제 캐릭터 최성곤과 상시 할인 서비스 '굿딜'의 컬래버레이션 콘텐츠를 자사 유튜브와 인스타를 통해 공개했다. ◆ 카카오뱅크, 주택담보대출 중도상환해약금 면제 6개월 연장...",
       "pubDate": "2026-07-01T06:40:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "KT, 5G·LTE 경계 허문 통합요금제 출시…간편결제 이벤트까지",
@@ -11338,7 +11788,7 @@
       "description": "삼성카드는 포르쉐코리아와 제휴하여 다양한 공동 사업을 추진하며 카카오페이는 AI 중심 지속가능경영 전략과 성과를 담은 '2025 ESG 보고서'를 발간했다. ◆ 삼성카드, 포르쉐코리아와 전략적 제휴…프리미엄...",
       "pubDate": "2026-06-30T07:04:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "카카오페이, AI 전환과 지속가능경영 성과를 담은 ESG 보고서 발간 내용...",
@@ -12355,7 +12805,7 @@
       "description": "토스플레이스는 광주은행과 업무협약을 체결해 광주·전남 지역 소상공인 결제 환경 혁신에 나선다. ◆ 토스뱅크, 제7회 디지털금융포럼 '디지털금융 대상' 수상 토스뱅크(대표 이은미)가 지난 25일 부산 해운대구 그랜드...",
       "pubDate": "2026-06-26T01:44:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "광주은행, 토스플레이스와 소상공인·지역경제 활성화 협력",
@@ -13039,7 +13489,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -13444,7 +13894,7 @@
       "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게' 2026 신규 입점사 온라인 기획전을 개최했다. 또 '카카오페이 트래블로그 체크카드' 누적 발급 수가 50만 돌파했다. ◆ 카카오뱅크, 인터넷전문은행 최초로...",
       "pubDate": "2026-06-23T01:40:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "롯데百, 유니온페이 손잡고 9월 전점에 QR·NFC 간편결제 도입",
@@ -13984,7 +14434,7 @@
       "description": "카카오페이는 시니어 디지털 정보격차 해소 공로로 과기부 장관 표창을 수상했으며, 금융감독원·청소년금융교육협의회와 함께 청소년 불법도박 예방 영상 캠페인에도 나섰다. ◆ 카카오뱅크, '지구 온난화 멈추기...",
       "pubDate": "2026-06-19T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 토스 소식...토스뱅크·토스인사이트·토스플레...",
@@ -13993,7 +14443,7 @@
       "description": "◆ 토스플레이스, SK브로드밴드와 소상공인 통신·결제 결합 상품 출시 토스플레이스(대표 최재호)가 SK브로드밴드(사장 김성수)와 함께 소상공인 고객을 위한 통신·결제 결합 상품을 출시한다. 권정훈(왼쪽) SK브로드밴드...",
       "pubDate": "2026-06-19T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "SK브로드밴드, 토스플레이스와 맞손… 소상공인 지원 생태계 확장",
@@ -14182,7 +14632,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -14713,7 +15163,7 @@
       "description": "중소기업중앙회는 18일 서울 여의도 중기중앙회에서 한국간편결제진흥원과 '소기업·소상공인 사회안전망 구축을 위한 노란우산공제사업 업무협약'을 체결했다고 밝혔다. 협약식에는 이창호 중기중앙회 공제사업단장과...",
       "pubDate": "2026-06-18T08:04:00+00:00",
       "category": "간편결제",
-      "source": "amenews"
+      "source": "신소재경제신문"
     },
     {
       "title": "중기중앙회·간편결제진흥원 '노란우산 가입확산' 협력키로",
@@ -16279,7 +16729,7 @@
       "description": "3개월 만에 2배 성장 토스(대표 이승건)가 얼굴 인식 기반 결제 서비스 ‘페이스페이’ 가입자 600만 명을 확보해 오프라인 간편결제 시장에서 생체인식 결제 확산에 속도를 내고 있다. 토스 얼굴 인식 기반 결제 서비스...",
       "pubDate": "2026-06-11T05:00:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "젠슨 황 놀라게 한 '얼굴 결제'…네이버·토스, 오프라인 결제 경쟁",
@@ -17009,52 +17459,7 @@
       "pubDate": "2026-05-14T21:10:00+00:00",
       "category": "토스페이",
       "source": "MTN NEWS"
-    },
-    {
-      "title": "와그, 삼성 월렛 연동… 예약·티켓·일정 관리까지 ‘원스톱 여행 경험...",
-      "link": "https://www.venturesquare.net/1082074/",
-      "originallink": "https://www.venturesquare.net/1082074/",
-      "description": "삼성 월렛에 바로 저장된다. 여행자는 별도 앱을 실행하거나 이메일을 찾지 않아도 모바일 티켓 형태로 현장에서 즉시 사용할 수 있다. 삼성페이 기반 결제 환경도...",
-      "pubDate": "2026-05-13T23:00:00+00:00",
-      "category": "삼성페이",
-      "source": "벤처스퀘어"
-    },
-    {
-      "title": "와그, 삼성 월렛과 연동…예약부터 티켓 관리까지 통합 여행 서비스",
-      "link": "https://platum.kr/archives/286751",
-      "originallink": "https://platum.kr/archives/286751",
-      "description": "삼성페이 기반의 간편 결제도 지원된다. 와그에서 예약한 투어 및 입장권은 '애드 투 월렛(Add to Wallet)' 기능을 통해 삼성 월렛에 모바일 티켓 형태로 등록된다. 별도 앱 실행이나 이메일 확인 없이 현장에서 바로...",
-      "pubDate": "2026-05-13T22:06:00+00:00",
-      "category": "삼성페이",
-      "source": "플래텀"
-    },
-    {
-      "title": "토스 '페이스페이' 가입자 483만명 돌파…오프라인 결제 확산",
-      "link": "https://www.ajunews.com/view/20260512091726084",
-      "originallink": "https://www.ajunews.com/view/20260512091726084",
-      "description": "토스는 페이스페이 가입자 수가 지난달 말 기준 483만명을 기록했다고 13일 밝혔다. 페이스페이 사용이... 특히 자회사 토스플레이스 단말기와 토스페이먼츠 PG를 연계해 결제 인프라를 직접 구축하는 전략을 펴고 있다....",
-      "pubDate": "2026-05-13T08:02:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "[허물어지는 결제 경계] 손안으로 들어온 금융…간편결제 시대 본격화",
-      "link": "https://www.ajunews.com/view/20260512145148404",
-      "originallink": "https://www.ajunews.com/view/20260512145148404",
-      "description": "카드사들은 자체 앱 기반 간편결제 기능을 강화하는 동시에 애플페이·삼성월렛 등 외부 플랫폼과의 연동 확대에도 나서고 있다. 신한카드와 KB국민카드 등 주요 카드사들은 앱 고도화와 함께 자산관리·대출·멤버십...",
-      "pubDate": "2026-05-13T08:02:00+00:00",
-      "category": "간편결제",
-      "source": "아주경제"
-    },
-    {
-      "title": "2026 재계 지도⑥ 토스, 간편송금으로 시작해 11년 만에 '재계 입성'…'...",
-      "link": "http://www.dailypop.kr/news/articleView.html?idxno=98776",
-      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=98776",
-      "description": "여기에는 토스뱅크·토스증권·토스페이먼츠 등 금융 계열사 자산이 대부분을 차지한다. 공정자산총액... 사업과 토스페이 사용 확대까지 연결하는 구조를 구축했다. 다음 목표는 상장…몸값 20조원 거론 토스의...",
-      "pubDate": "2026-05-13T02:40:00+00:00",
-      "category": "토스페이",
-      "source": "데일리팝"
     }
   ],
-  "lastFetch": "2026-08-10T23:50:27.928802+00:00"
+  "lastFetch": "2026-08-11T23:57:08.936847+00:00"
 }
