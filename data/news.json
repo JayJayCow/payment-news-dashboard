@@ -1,6 +1,150 @@
 {
   "articles": [
     {
+      "title": "서울사랑상품권 결제수단 확대…해외·민간 간편결제 참여 대비 약관 개...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009111338?sid=102",
+      "originallink": "https://www.news1.kr/local/moi/6257533",
+      "description": "서울시가 해외결제사와 민간 간편결제사 등 서울사랑상품권 서비스 참여기관 확대에 맞춰 가맹점 약관을 개정한다. QR코드를 중심으로 짜인 기존 결제 규정을 다양한 결제수단을 포괄하도록 바꾸고, 서비스 운영 과정에서...",
+      "pubDate": "2026-08-12T23:42:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스1"
+    },
+    {
+      "title": "토스플레이스, 당근과 소상공인 매출 확대 '맞손'",
+      "link": "https://www.ajunews.com/view/20260813083424233",
+      "originallink": "https://www.ajunews.com/view/20260813083424233",
+      "description": "온·오프라인 채널 연결 MOU 당근 예약·주문 토스 포스서 처리 아주경제=이성진 기자 leesj@ajunews.com (왼쪽부터) 박정빈 당근 로컬비즈니스 사업개발 리드, 진필규 토스플레이스 사업부문장 [사진=토스] 비바리퍼블리카...",
+      "pubDate": "2026-08-12T23:38:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "결제 인프라 잡은 토스플레이스 당근과 손 잡고 동네 상권 공략 나선다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=747855",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=747855",
+      "description": "비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스는 지역생활 커뮤니티 당근과 온·오프라인 채널을 연결하는 사업 협약을 맺었다고 13일 밝혔다. 약 2천만 명이 쓰는 당근의 온라인 고객 접점과...",
+      "pubDate": "2026-08-12T23:26:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "\"2000만 당근 고객 모신다\"…토스플레이스·당근, 온·오프라인 매장 연...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84907",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84907",
+      "description": "비바리퍼블리카의 결제 단말기 및 포스 솔루션 자회사 토스플레이스는 지역생활 커뮤니티 당근과 온·오프라인 채널을 연결하는 전략적 사업 제휴 협약(MOU)을 체결했다고 13일 밝혔다. 지난 12일 서울 서초동 토스 신논현...",
+      "pubDate": "2026-08-12T23:14:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "인천시교육청, 방과후학교 간편결제 현장 활용도 높인다... 담당자 100여...",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202608121149132692d94aa4ada6_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=202608121149132692d94aa4ada6_12",
+      "description": "인천광역시교육청이 방과후학교 수강료 납부 편의와 학교 행정 효율을 높이기 위해 간편결제 시스템의 현장 활용 기반을 강화하고 있다. 인천시교육청은 시스템 고도화에 맞춰 학교 담당자들이 개선된 기능을 실제 업무에...",
+      "pubDate": "2026-08-12T10:42:00+00:00",
+      "category": "간편결제",
+      "source": "로이슈"
+    },
+    {
+      "title": "카카오페이, 원화 스테이블코인 전담 인력 채용",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/389182",
+      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/389182",
+      "description": "이번 채용은 네이버와 카카오의 원화 스테이블코인 사업 경쟁이 인력과 기술 인프라 확보 단계로 이어지는 흐름과 맞닿아 있다. 다만 채용 공고는 카카오페이가 실제 발행을 결정했거나 구체적인 출시 일정을 확정했다는...",
+      "pubDate": "2026-08-12T09:06:00+00:00",
+      "category": "카카오페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "삼성월렛 스테이블코인으로 보폭 확대, 우리은행장 정진완 '삼성월렛 동...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444596",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=444596",
+      "description": "주요 페이 앱 가운데 가장 많았다. 삼성월렛에 스테이블코인 기능이 도입되면 이들 이용자가 별도의... 우리은행은 지난달 쿠팡과 원화 스테이블코인 기반의 실시간 정산 기술 개념검증(PoC)을 완료했다. 우리은행은 이...",
+      "pubDate": "2026-08-12T08:02:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "[금융 브리핑] 카카오뱅크·케이뱅크·네이버페이",
+      "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90495",
+      "originallink": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90495",
+      "description": "[사진 = 네이버페이 제공] ◇네이버페이, 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약 체결 네이버페이가 한국전력공사(이하 한국전력)와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을...",
+      "pubDate": "2026-08-12T07:00:00+00:00",
+      "category": "네이버페이",
+      "source": "나이스경제"
+    },
+    {
+      "title": "박상진 네이버페이 대표, 상반기 결제액 50조 육박…‘커넥트’로 오프...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202608121012066290ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202608121012066290ed56b8e1f8_18",
+      "description": "박상진 네이버페이 대표가 올해 상반기 결제액 49조4000억원을 기록했다. 외부 결제액이 30% 가까이 늘어나며 전체 결제 성장을 이끌었다. 12일 네이버 IR 자료에 따르면, 올해 상반기 네이버페이 결제액은...",
+      "pubDate": "2026-08-12T06:44:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "[A 금융체크] 금융 슈퍼앱 삼국지...토스 '일상'·모니모 '금융'·KB '생활...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258583",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=258583",
+      "description": "△'금융 슈퍼앱' 시대 연 토스...간편송금에서 일상으로=토스 앱은 송금, 계좌 조회, 증권, 대출, 결제 등 모든 금융 서비스를 하나의 앱에서 제공하는 대표적인 금융 슈퍼앱이다. 복잡한 인증 절차 없는 간편 송금, 전...",
+      "pubDate": "2026-08-12T06:06:00+00:00",
+      "category": "토스페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "인앱 결제·B2C 넘어 B2B로… 네카오 핀테크 '고성장'",
+      "link": "https://www.asiatime.co.kr/article/20260812500320",
+      "originallink": "https://www.asiatime.co.kr/article/20260812500320",
+      "description": "네이버, 2Q 파이낸셜 플랫폼 매출 16% 성장 카카오페이 2Q 매출 40.6% 올라 '역대 최고' 글로벌 시장과 함께 성장하는 네카오 핀테크 [아시아타임즈=김민솔 기자] 금융과 정보통신(IT) 기술이 융합한 핀테크 사업이...",
+      "pubDate": "2026-08-12T06:04:00+00:00",
+      "category": "간편결제",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "카카오페이 퀴즈타임 8월 12일 정답 공개",
+      "link": "https://www.wikitree.co.kr/articles/1152001",
+      "originallink": "https://www.wikitree.co.kr/articles/1152001",
+      "description": "12일 카카오페이 퀴즈타임에 ‘카카오뱅크 AI 이모지 퀴즈’ 관련 문제가 출제됐다.  오전 8시 정답은 [ 버스노선 ]이다. 오후 12시 정답은 [ 가속 ]이다. 카카오페이 퀴즈타임, 참여 방법은? 카카오페이 퀴즈타임은 매일 특정...",
+      "pubDate": "2026-08-12T04:54:00+00:00",
+      "category": "카카오페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "[더벨][쿠팡페이는 지금] 정찬묵 대표 연임, 페이팔 출신과 각자 경영 이...",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071549292040105368",
+      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071549292040105368",
+      "description": "길 디렉터는 카카오와 카카오뱅크 등을 거쳐 쿠팡페이로 자리를 옮겨 간편결제 사용자 UX 강화에 전념하고 있다. 쿠팡페이는 편리하고 안전하게 이용할 수 있는 핀테크 서비스 제공도 중요한 목표로 삼고 있다. UX...",
+      "pubDate": "2026-08-12T02:02:00+00:00",
+      "category": "쿠팡페이",
+      "source": "더벨"
+    },
+    {
+      "title": "누적 회원 600만 돌파 '롯데잇츠', 간편결제 확대하고 D2C 생태계 구축",
+      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3133561",
+      "originallink": "http://www.ttlnews.com/news/articleView.html?idxno=3133561",
+      "description": "기존 결제 방식에 더해 네이버페이, 토스페이 등 주요 간편결제 서비스를 새롭게 탑재해 결제 과정에서 발생하는 사용자 이탈을 방지하고자 했다. 지난 2020년 처음 선보인 롯데잇츠는 롯데리아, 엔제리너스...",
+      "pubDate": "2026-08-12T02:00:00+00:00",
+      "category": "간편결제",
+      "source": "퍼블릭뉴스통신(Public news-network for TTL)"
+    },
+    {
+      "title": "페이코 수익성 잡은 NHN, 글로벌 게임·웹툰 신작으로 날개",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476598",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476598",
+      "description": "네이버 증권. 글로벌 이커머스 시장의 성장률 둔화 우려와 결제 수수료율 인하 압박, 핀테크 시장 내 경쟁... KG이니시스, 다날, 카카오페이, 갤럭시아머니트리, KG파이낸셜, 한국정보통신, 헥토파이낸셜, 인포뱅크...",
+      "pubDate": "2026-08-12T01:34:00+00:00",
+      "category": "페이코",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "애플페이 이끈 제니퍼 베일리 은퇴…애플 경영진 세대교체 속도",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092167933",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092167933",
+      "description": "애플에서 20년 넘게 애플페이·월렛 서비스를 이끌어온 제니퍼 베일리 부사장이 은퇴한다. 팀 쿡 최고경영자(CEO)가 물러나면서 애플 임원진의 대규모 세대교체가 이어지는 모습이다. 12일 블룸버그통신에 따르면 2014년...",
+      "pubDate": "2026-08-12T00:26:00+00:00",
+      "category": "애플페이",
+      "source": "IT조선"
+    },
+    {
       "title": "애플페이 이끈 제니퍼 베일리, 25년 만에 회사 떠난다",
       "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692223",
       "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692223",
@@ -1240,7 +1384,7 @@
       "description": "올해 2분기 역대 최대 매출과 영업이익을 기록한 카카오페이가 자회사 카카오페이손해보험의 외형 성장과 손해율 개선을 바탕으로 손익분기점 달성 시점을 앞당기겠다는 자신감을 내비쳤다. 카카오페이손해보험의...",
       "pubDate": "2026-08-04T23:46:00+00:00",
       "category": "카카오페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "\"카카오페이, 플랫폼 중장기 성장성 가속화…목표가 6.1만원\"-LS",
@@ -5290,7 +5434,7 @@
       "description": "카카오페이가 증권 자회사 호조에 힘입어 금융서비스 성장을 이어가는 가운데, 결제 부문까지 동반 성장하며 올해 상반기 호실적을 예고하고 있다. 여기에 더해 원화 스테이블코인 법제화 움직임이 맞물려 그룹 내...",
       "pubDate": "2026-07-23T06:14:00+00:00",
       "category": "카카오페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "토스·토스뱅크, 美 써클과 손잡았다···'원화 스테이블코인' 경쟁 본...",
@@ -7468,7 +7612,7 @@
       "description": "정 부회장은 2015년 국내 최초 PLCC 상품인 '이마트 e카드'를 선보인 이후 대한항공, 코스트코, 네이버 등과의 협업을 확대하며 사실상 PLCC 시장을 개척했다. 이어 2023년에는 애플페이를 국내 카드사 가운데 처음 도입해...",
       "pubDate": "2026-07-10T03:00:00+00:00",
       "category": "애플페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "삼성월렛 1900만명 돌파…한국인 페이앱 1위 [데이터로 본 세상]",
@@ -7774,7 +7918,7 @@
       "description": "신원근 카카오페이 대표가 9일 오후 서울 강남구 토스 신논현 사옥에서 열린 주민등록증 진위 확인 확대를 위한 업무협약식에서 발언하고 있다.",
       "pubDate": "2026-07-09T08:36:00+00:00",
       "category": "카카오페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "발언하는 박상진 네이버페이 대표[한 컷]",
@@ -7783,7 +7927,7 @@
       "description": "박상진 네이버페이 대표가 9일 오후 서울 강남구 토스 신논현 사옥에서 열린 주민등록증 진위 확인 확대를 위한 업무협약식에 참석해 발언하고 있다.",
       "pubDate": "2026-07-09T08:34:00+00:00",
       "category": "네이버페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "\"폰도 두고 오세요\"…토스·네이버, 승자는",
@@ -8755,7 +8899,7 @@
       "description": "카카오페이증권이 카카오페이의 완전자회사 전환을 앞두고 증권 사업 기반을 다시 다지고 있다. 지분 구조 정리와 투자매매업 인가 확보가 맞물리면서 토스증권과 벌어진 영업이익 격차를 좁힐 수 있을지 주목된다....",
       "pubDate": "2026-07-08T06:52:00+00:00",
       "category": "카카오페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "카카오페이證, AI 어닝콜 서비스 출시…실시간 번역·요약에 매매 연동",
@@ -9124,7 +9268,7 @@
       "description": "박상진 네이버페이 대표이사가 7일 오후 경기 성남시 네이버1784에서 열린 모험자본 투자 플랫폼 출범식에서 개회사를 하고 있다.",
       "pubDate": "2026-07-07T08:18:00+00:00",
       "category": "네이버페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "현대카드, 브랜드평판 1위 독주…'애플페이·알파벳카드·호실적' 앞세워...",
@@ -9529,7 +9673,7 @@
       "description": "네이버파이낸셜의 두나무 완전자회사 편입이 규제 문턱 앞에서 또다시 지연됐다. 공정거래위원회 기업결합 심사와 금융당국 인허가 절차가 장기화되면서 양사 간 포괄적 주식교환 일정은 당초 계획보다 6개월 이상...",
       "pubDate": "2026-07-06T10:20:00+00:00",
       "category": "네이버페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "네이버파이낸셜-두나무 결합 또 연기…주식교환 12월로",
@@ -13669,7 +13813,7 @@
       "description": "카카오페이가 카카오페이증권의 잔여 지분을 추가 취득해 완전자회사 체제를 구축한다. 그룹 내 지배구조를 단순화하고 경영 효율성을 높이기 위한 조치다. 23일 금융감독원 전자공시시스템에 따르면...",
       "pubDate": "2026-06-23T08:00:00+00:00",
       "category": "카카오페이",
-      "source": "뉴스웨이"
+      "source": "newsway"
     },
     {
       "title": "카카오페이 \"카카오페이증권 주식 1천730억원에 추가취득\"",
@@ -17450,16 +17594,7 @@
       "pubDate": "2026-05-15T22:02:00+00:00",
       "category": "삼성페이",
       "source": "theguru"
-    },
-    {
-      "title": "'3040·쿠팡 출신' 주축…토스 임원 이모저모",
-      "link": "https://news.mtn.co.kr/news-detail/2026051416304462878",
-      "originallink": "https://news.mtn.co.kr/news-detail/2026051416304462878",
-      "description": "비바리퍼블리카는 토스 앱을 운영하며 토스증권·토스페이먼츠 등 22곳의 계열사를 거느린 회사다.... 토스페이 리더 오규인은 1992년생으로 만 33세, 토스커머스 리더 박웅도는 1990년생으로 만 35세다.곳간을 지키는...",
-      "pubDate": "2026-05-14T21:10:00+00:00",
-      "category": "토스페이",
-      "source": "MTN NEWS"
     }
   ],
-  "lastFetch": "2026-08-11T23:57:08.936847+00:00"
+  "lastFetch": "2026-08-12T23:56:10.682838+00:00"
 }
