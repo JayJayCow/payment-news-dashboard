@@ -1,6 +1,132 @@
 {
   "articles": [
     {
+      "title": "[단독]네이버파이낸셜, 일본법인 설립...첫 해외 확장",
+      "link": "https://news.mtn.co.kr/news-detail/2026081417550141081",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026081417550141081",
+      "description": "사용처를 점차 확대해 대표적인 국내 간편 결제 서비스로 자리잡았다.라인페이 가맹점에서 네이버페이를 사용할 수 있었으나 2023년 8월부터 라인페이와의 연동을 중단하고, 유니온페이·알리페이와 연동을...",
+      "pubDate": "2026-08-14T09:30:00+00:00",
+      "category": "네이버페이",
+      "source": "mtn"
+    },
+    {
+      "title": "토스, 상반기 영업이익 2461억 원…작년 동기 대비 59.2%↑",
+      "link": "https://n.news.naver.com/mnews/article/020/0003740987?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20260814/134481157/1",
+      "description": "토스의 서비스는 크게 ‘수퍼앱 서비스’와 토스페이 간편결제 사업으로 대표되는 ‘페이먼츠 네트워크 서비스’ 두 가지로 구분된다. 올 상반기 매출 비중은 슈퍼앱 서비스 70.3%(매출 1조3315억 원), 페이먼츠 네트워크...",
+      "pubDate": "2026-08-14T09:21:00+00:00",
+      "category": "토스페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "토스, 상반기 순이익 2328억원, 전년比 120% 급증 … 슈퍼앱·결제사업 ...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400260.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/08/14/2026081400260.html",
+      "description": "페이먼츠 네트워크 서비스 매출은 5613억원으로 전체 영업수익의 29.7%를 차지했다. 토스는 3000만명의 고객 기반을 바탕으로 슈퍼앱 내 서비스 접점을 지속해서 확대하고 있다. 얼굴 인식 기반 결제 서비스인 '페이스페...",
+      "pubDate": "2026-08-14T08:20:00+00:00",
+      "category": "토스페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "티웨이항공, 카카오·토스페이 결제 시 최대 3만원 할인",
+      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=105312",
+      "originallink": "https://www.womentimes.co.kr/news/articleView.html?idxno=105312",
+      "description": "우먼타임스 = 심은혜 기자 티웨이항공이 카카오페이와 토스페이 등 결제 수단별 할인 혜택을 제공하는 프로모션을 진행한다. 티웨이항공은 오는 31일까지 홈페이지와 모바일 채널에서 '이달의 결제 할인 프로모션...",
+      "pubDate": "2026-08-14T07:56:00+00:00",
+      "category": "토스페이",
+      "source": "우먼타임스"
+    },
+    {
+      "title": "[네이버·쿠팡 락인전쟁 ㊦] 김범석 쿠팡 의장, '핀테크' 전쟁 불 지핀다",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252473",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=252473",
+      "description": "네이버 간편결제 서비스인 네이버페이의 연간 간편결제 거래액은 지난 2025년 기준 약 56조5000억원이다. 간편결제 3사(네이버·카카오·토스) 중 가장 높다. 네이버페이 아성 도전하는 로켓페이 이처럼 이미 네이버가 장악한...",
+      "pubDate": "2026-08-14T07:36:00+00:00",
+      "category": "간편결제",
+      "source": "인사이트코리아"
+    },
+    {
+      "title": "페이코 등록하면 종이로또 미수령 당첨금 자동입금된다",
+      "link": "https://www.todayeconomic.com/news/article.html?no=31719",
+      "originallink": "https://www.todayeconomic.com/news/article.html?no=31719",
+      "description": "앞으로 간편결제 앱 페이코에 구매한 종이 로또복권을 등록하면 당첨 시 자동으로 수령할 수 있다. 다만 전자 등록한 경우에도 실물 복권을 통한 지급 처리가 우선되므로 당첨금 지급 기한 전일까지는 실물 복권을 분실...",
+      "pubDate": "2026-08-14T07:26:00+00:00",
+      "category": "페이코",
+      "source": "todayeconomic"
+    },
+    {
+      "title": "티웨이항공, 카카오페이·토스페이 제휴할인 이벤트",
+      "link": "http://www.lawissue.co.kr/view.php?ud=20260814145942274567191f6c6e_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=20260814145942274567191f6c6e_12",
+      "description": "티웨이항공에 따르면 카카오페이로 15만원 이상 결제 시 최대 3만원 즉시 할인되며, BC카드로 40만원 이상 결제 시 7만원 할인이 적용된다. 전 노선 항공권 40만원 이상 결제 시 사용 가능한 1만5천원 추가 할인쿠폰도...",
+      "pubDate": "2026-08-14T06:02:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "토스플레이스, 당근마켓과 협약…토스 포스 매장 2000만 당근 고객 만난...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=143356",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=143356",
+      "description": "진필규 토스플레이스 사업부문장(오른쪽)과 박정빈 로컬비즈니스 사업개발 리드가 기념 사진을 찍고 있다. 사진=토스플레이스  토스플레이스(대표 최재호)가 지역생활 커뮤니티 당근과 온오프라인 채널을 잇는 전략적...",
+      "pubDate": "2026-08-14T05:22:00+00:00",
+      "category": "토스페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "온라인 결제시장 커지자 웃었다…NHN KCP·카카오페이 등 기세등등",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477468",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477468",
+      "description": "네이버 증권. 전자결제(전자화폐) 테마가  14일 온라인 거래 증가와 간편결제 시장 확대 기대감에 상승세를... 페이코를 비롯한 결제 사업 부문의 효율화와 연결 실적 개선 기대감이 주가에 반영되는 모습이다. NHN KCP도 3.85...",
+      "pubDate": "2026-08-14T05:02:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "티웨이항공, 이달까지 카카오·토스페이 결제땐 최대 7만원 할인",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=127343",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=127343",
+      "description": "[자료 티웨이항공] 티웨이항공이 이달 말까지 카카오페이 및 토스페이 이용 고객을 대상으로 대규모 항공권 할인 프로모션을 진행한다고 14일 밝혔다. 탑승 가능 기간은 내년 3월 27일까지로 연말연시 및 내년 봄...",
+      "pubDate": "2026-08-14T01:34:00+00:00",
+      "category": "토스페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "로켓페이까지 참전…간편결제사, 오프라인 결제 '올인'",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720405",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1720405",
+      "description": "네이버페이와 카카오페이, 토스가 결제 단말기와 QR, 얼굴인증 등을 앞세워 생활 결제 접점을 늘리는 가운데 쿠팡도 '로켓페이'를 출격시킨다. 온라인 플랫폼 중심이던 간편결제 경쟁의 무게중심이 오프라인으로...",
+      "pubDate": "2026-08-14T01:26:00+00:00",
+      "category": "간편결제",
+      "source": "EBN"
+    },
+    {
+      "title": "티웨이항공, 간편결제 및 카드사 제휴 프로모션 진행",
+      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1098611",
+      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1098611",
+      "description": "제휴 결제 수단: 카카오페이, 토스페이, BC카드 등 주요 결제 수단이 적용된다. 혜택 구성: 결제 수단에 따라 항공권 구매 시 즉시 할인 혜택 및 중복 사용이 가능한 노선별 할인 쿠폰이 지원된다. 적용 대상: 이번...",
+      "pubDate": "2026-08-14T01:12:00+00:00",
+      "category": "간편결제",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)"
+    },
+    {
+      "title": "NHN페이코, 바나프레소에서 '페이코 결제' 혜택 선보인다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=748004",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=748004",
+      "description": "이번 제휴를 통해 양사는 바나프레소 고객에게 간편한 결제 환경과 함께 페이코만의 결제 혜택을 제공한다. 바나프레소 매장(일부 매장 제외)에서는 페이코 앱에 등록된 카드를 비롯해 페이코 포인트와 실물카드인...",
+      "pubDate": "2026-08-14T00:44:00+00:00",
+      "category": "페이코",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "티웨이항공, 31일까지 카카오·토스페이 결제 최대 7만원 할인",
+      "link": "https://www.newspim.com/news/view/20260814000253",
+      "originallink": "https://www.newspim.com/news/view/20260814000253",
+      "description": "이번 프로모션은 카카오페이·토스페이 즉시 할인과 쿠폰 등 다양한 혜택으로 구성되며, 탑승 기간은 내년 3월 27일까지다. 카카오페이에서 BC카드로 40만 원 이상 결제하면 1만원에서 최대 7만원까지 할인받을 수...",
+      "pubDate": "2026-08-14T00:24:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스핌"
+    },
+    {
       "title": "\"가성비 항공권 잡자\"…티웨이항공, 간편결제 손잡고 최대 7만원 할인",
       "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85040",
       "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85040",
@@ -88,7 +214,7 @@
       "description": "진필규 토스플레이스 사업부문장(오른쪽)과 박정빈 당근 로컬비즈니스 사업개발 리드가 12일 서울 서초구 토스 신논현 오피스에서 '전략적 업무 제휴 협약 체결식'을 열고 기념 사진을 찍고 있다./토스 토스플레이스는...",
       "pubDate": "2026-08-13T07:16:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 디지털 금융 소식...토스플레이스·빗썸",
@@ -1249,7 +1375,7 @@
       "description": "대부분의 지역에서 삼성 페이가 삼성 월렛으로 통합된 만큼, 스테이블코인 잔액 역시 일반 체크카드와 동일한 가맹점 인프라에서 결제 처리가 가능해질 것으로 보인다. 샌드마크 측은 \"경쟁사인 애플과 글로벌 3위...",
       "pubDate": "2026-08-10T02:08:00+00:00",
       "category": "삼성페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "[더벨][쿠팡페이는 지금] 오프라인 공략 '로켓페이', 원화 스테이블 코...",
@@ -1888,7 +2014,7 @@
       "description": "교보증권은 5일 카카오페이(377300)에 대해 결제와 금융서비스의 고른 성장으로 플랫폼 경쟁력을 입증했다며 투자의견 '매수(Buy)'를 유지했다. 다만 목표주가는 실적 추정치와 밸류에이션 조정을 반영해 기존...",
       "pubDate": "2026-08-04T23:44:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 증권·보험 호조 속 금융 플랫폼 역량 부각",
@@ -3589,7 +3715,7 @@
       "description": "젠슨 황 엔비디아 최고경영자(CEO) 등과의 만찬 자리에서 이해진 네이버 이사회 의장이 ‘페이스사인(Face Sign)’ 단말기를 응시했다. 1초 만에 “결제 완료” 알림이 울렸다. 황 CEO는 “오”하고 짧은 탄성을 내뱉었다....",
       "pubDate": "2026-07-30T23:22:00+00:00",
       "category": "토스페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "[위기의 중소형사] [카카오페이증권] 토스에게 빼앗긴 골든타임, 엇갈린...",
@@ -3787,7 +3913,7 @@
       "description": "국내에서도 카카오뱅크와 케이뱅크, 토스뱅크는 물론 네이버페이와 카카오페이 등 빅테크가 결제 기반을 넘어 대출과 자산관리 사업을 확대하고 있다. 그러나 이들 역시, 디지털 플랫폼만으로는 지속 가능한 경쟁우위를...",
       "pubDate": "2026-07-29T23:58:00+00:00",
       "category": "간편결제",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "헥토파이낸셜, 삼성 월렛 '인기카드찾기' 고도화",
@@ -5110,7 +5236,7 @@
       "description": "지난 24일 서울 강남구 역삼동 아크플레이스에서 열린 협약식에는 오규인 토스 부사장과 진필규 결제부문장을 비롯해 서형석 투게더스 대표이사, 이경수 본부장 등 양사 주요 경영진이 참석했다.투게더스는 국내 유통 POS...",
       "pubDate": "2026-07-27T01:56:00+00:00",
       "category": "토스페이",
-      "source": "boannews"
+      "source": "ȴ"
     },
     {
       "title": "토스, 투게더스와 손잡고 페이스페이 확대…전국 5000여곳 순차 도입",
@@ -6685,7 +6811,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -9637,7 +9763,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -10123,7 +10249,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -13561,7 +13687,7 @@
       "description": "광주은행이 토스플레이스와 협력을 통해 지역 소상공인들에게 더욱 편리한 금융 및 결제 서비스를 제공한다. 광주은행은 지난 24일 토스플레이스 신논현 오피스에서 토스플레이스(대표 최재호)와 전략적 업무 제휴 협약을...",
       "pubDate": "2026-06-25T05:56:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "광주은행-토스플레이스 맞손… 지역 소상공인 금융·결제 서비스 강화",
@@ -14119,7 +14245,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -15208,7 +15334,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -15262,7 +15388,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -18073,5 +18199,5 @@
       "source": "서울경제"
     }
   ],
-  "lastFetch": "2026-08-13T23:56:23.409914+00:00"
+  "lastFetch": "2026-08-14T23:33:56.942051+00:00"
 }
