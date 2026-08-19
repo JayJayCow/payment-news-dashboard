@@ -1,6 +1,420 @@
 {
   "articles": [
     {
+      "title": "파리바게뜨, 21일 단 하루 ‘네이버페이 50% 할인’ 프로모션",
+      "link": "https://n.news.naver.com/mnews/article/382/0001289059?sid=101",
+      "originallink": "https://sports.donga.com/economy/article/all/20260820/134509096/1",
+      "description": "파리바게뜨가 21일 단 하루 동안 매장을 방문하는 고객을 대상으로 네이버페이(Npay) 결제 시 50% 할인 혜택을 제공하는 특별 프로모션을실시한다. 행사 당일 파리바게뜨 매장에서 네이버페이 머나, 포인트, 카드 등의...",
+      "pubDate": "2026-08-19T23:27:00+00:00",
+      "category": "네이버페이",
+      "source": "스포츠동아"
+    },
+    {
+      "title": "파리바게뜨, 21일 Npay 50% 혜택→웅진식품, '더빅토리아 탐구생활' 행사",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=759932",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=759932",
+      "description": "파리바게뜨가 오는 21일 매장에서 네이버페이(Npay) 결제 시 50% 할인 혜택을 제공하는 프로모션을 진행한다. 사진=파리바게뜨 행사 당일 파리바게뜨 매장에서 Npay(머니·포인트·카드) QR결제로 단독 결제하면 구매 금액...",
+      "pubDate": "2026-08-19T23:08:00+00:00",
+      "category": "네이버페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "애플페이 약발 줄고, PLCC 경쟁 격화에도…현대카드, 독자 브랜드로 성...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=225306",
+      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=225306",
+      "description": "애플페이의 신규 회원 유입 효과 둔화에도 올해 상반기 실적 개선을 이어갔다. 신규 회원 증가세는 크지... 다만 올해 계약 만료가 예정된 네이버·대한항공과의 계약 연장 여부에 대해서는 확인하기 어렵다고 밝혔다....",
+      "pubDate": "2026-08-19T23:02:00+00:00",
+      "category": "애플페이",
+      "source": "청년일보"
+    },
+    {
+      "title": "간편결제 '쑥쑥'…헥토파이낸셜 수익성 '껑충'",
+      "link": "https://n.news.naver.com/mnews/article/648/0000049982?sid=105",
+      "originallink": "https://news.bizwatch.co.kr/article/mobile/2026/08/19/0032",
+      "description": "20일 핀테크업계에 따르면 올해 상반기 헥토파이낸셜의 간편결제 부문 매출은 297억원으로 전체 매출 1076억원 중 27.6%를 차지했다. 2024년 20%에서 지난해 22.1%로 증가했고 올해는 30%에 육박할 정도로 성장했다. 사업...",
+      "pubDate": "2026-08-19T22:40:00+00:00",
+      "category": "간편결제",
+      "source": "비즈니스워치"
+    },
+    {
+      "title": "제주 사장님 “육지 손님 몇명 왔어?”…네이버페이는 다 안다 [팩플]",
+      "link": "https://n.news.naver.com/mnews/article/025/0003545519?sid=105",
+      "originallink": "https://www.joongang.co.kr/article/25454660",
+      "description": "저마다 활로를 찾는 가운데 네이버페이(법인명 네이버파이낸셜)가 꺼내 든 카드는 데이터다. 간편결제를 넘어 자산 활동 전반을 관리하는 플랫폼이 되겠다는 구상이다. 지난달 10일 경기 성남시 네이버 1784 사옥에서...",
+      "pubDate": "2026-08-19T20:00:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙일보"
+    },
+    {
+      "title": "던킨, 네이버페이와 손잡고 나흘간 전 품목 50% 혜택",
+      "link": "https://n.news.naver.com/mnews/article/144/0001132760?sid=103",
+      "originallink": "https://sports.khan.co.kr/article/202608200028003?pt=nv",
+      "description": "“반값으로 시원하게 즐기세요!” 던킨이 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다. 프로모션은 빠르고 간편한 모바일 결제를 선호하는 소비자들의 이용 편의성을 높이고...",
+      "pubDate": "2026-08-19T15:29:00+00:00",
+      "category": "네이버페이",
+      "source": "khan"
+    },
+    {
+      "title": "던킨, 네이버페이 결제 시 전 메뉴 반값 할인 이벤트 실시",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88167",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=88167",
+      "description": "던킨이 네이버페이 이용 고객을 대상으로 전 상품 50% 할인 행사를 연다. 행사는 19일부터 22일까지 나흘간 진행된다. 이번 이벤트는 모바일 간편결제를 즐겨 쓰는 고객층의 접근성을 넓히는 한편, 다양한 던킨 메뉴를...",
+      "pubDate": "2026-08-19T13:34:00+00:00",
+      "category": "네이버페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "[증권 데일리] NH투자·한투證 ‘상품’…삼성·카카오페이·키움 ‘고객...",
+      "link": "https://www.news2day.co.kr/article/20260819500331",
+      "originallink": "https://www.news2day.co.kr/article/20260819500331",
+      "description": "NH투자 IMA 조기 완판·한투 ELW 271종목 상장 삼성·카카오페이·키움, 혜택·MTS 앞세워 고객접점↑ 교보證, 한부모가정 제습제 제작…친환경나눔 실천 위 이미지는 기사 이해를 돕기 위해 AI(인공지능)를 활용해...",
+      "pubDate": "2026-08-19T09:12:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "던킨, 네이버페이 손잡고 전 품목 50% 혜택 프로모션 진행",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6938198",
+      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6938198",
+      "description": "ⓒ던킨 던킨이 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다고 19일 밝혔다. 이번 프로모션은 빠르고 간편한 모바일 결제를 선호하는 소비자들의 이용 편의성을 높이고, 던킨의...",
+      "pubDate": "2026-08-19T08:50:00+00:00",
+      "category": "네이버페이",
+      "source": "스포츠한국"
+    },
+    {
+      "title": "오프라인 결제 '톱4' 노리는 카카오페이 '굿딜'로 성장 엔진 달군다",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=127485",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=127485",
+      "description": "카카오페이의 정률 할인 서비스 '굿딜'에 편의점 세븐일레븐이 입점해 국내 대표 편의점 4사를 모두 이용할 수 있게 됐다. [이미지 카카오페이] 카카오페이가 오프라인 결제 이용자 1000만명을 확보해 카드사를 포함한...",
+      "pubDate": "2026-08-19T08:50:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오페이 굿딜, 세븐일레븐까지 확대… 편의점 4사 할인 제공",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92373",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=92373",
+      "description": "카카오페이가 할인 결제 서비스 '굿딜' 제휴처를 세븐일레븐까지 확대하며 국내 주요 편의점 4사에서 할인 혜택을 제공한다. 카카오페이는 이달부터 굿딜에 세븐일레븐이 새롭게 합류했다고 19일 밝혔다. 이에 따라...",
+      "pubDate": "2026-08-19T08:46:00+00:00",
+      "category": "카카오페이",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "카카오페이 '굿딜', 세븐일레븐 입점… 4대 편의점 무제한 할인 망 완성",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357621",
+      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=357621",
+      "description": "ㅣ카카오페이 카카오페이 상시 할인 결제 서비스 '굿딜'에 편의점 세븐일레븐이 이달 공식 입점하면서 국내 대표 4대 편의점 전반을 아우르는 오프라인 할인 결제 망이 완성됐다. 이로써 사용자들은 이마트24, CU, GS25에...",
+      "pubDate": "2026-08-19T08:36:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈트리뷴"
+    },
+    {
+      "title": "갤럭시아머니트리, 머니트리카드 ‘모니모페이’ 간편결제 오픈",
+      "link": "https://n.news.naver.com/mnews/article/366/0001187166?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/08/19/2CG3ACPZL5BSBE5JKD3KS7KIOM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "디지털 금융 기업 갤럭시아머니트리는 삼성카드가 운영 중인 모바일 간편결제 서비스 ‘모니모페이(monimo Pay)’에 ‘머니트리카드 베이직(basic)’을 등록해 결제할 수 있는 서비스를 오픈한다고 19일 밝혔다. 회사는...",
+      "pubDate": "2026-08-19T08:22:00+00:00",
+      "category": "간편결제",
+      "source": "조선비즈"
+    },
+    {
+      "title": "던킨, 네이버페이와 손잡고 50% 할인",
+      "link": "http://www.bokuennews.com/news/article.html?no=282766",
+      "originallink": "http://www.bokuennews.com/news/article.html?no=282766",
+      "description": "던킨이 네이버페이와 함께 인기 도넛과 음료를 반값에 즐길 수 있는 특별한 혜택을 마련했다. 던킨은 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다. 행사 기간에는 신제품 '말랑...",
+      "pubDate": "2026-08-19T08:14:00+00:00",
+      "category": "네이버페이",
+      "source": "bokuennews"
+    },
+    {
+      "title": "카카오페이, 'IB 선수' 급속 충원에도 인건비 낮춘 요인은?",
+      "link": "https://www.topdaily.kr/articles/111523",
+      "originallink": "https://www.topdaily.kr/articles/111523",
+      "description": "최성민·김경숙·김수진 본부장, 비등기임원 선임…반기마다 현직 IB 전문가 영입 스톡옵션 행사 따른 부담금 재정산 통해 주식보상비용 -3억원으로 낮춰...인건비 증가율 완화 효과 카카오페이가 자회사인...",
+      "pubDate": "2026-08-19T07:35:00+00:00",
+      "category": "카카오페이",
+      "source": "톱데일리"
+    },
+    {
+      "title": "“결혼하면 주식 드려요”…카카오페이證 캠페인에 신혼부부 3만명 참여",
+      "link": "https://n.news.naver.com/mnews/article/366/0001187143?sid=101",
+      "originallink": "https://biz.chosun.com/stock/stock_general/2026/08/19/PBA5CTOIMFGERNIPVEDKE6OJ7Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "카카오페이증권이 혼인신고를 한 부부에게 주식을 지급하는 캠페인을 시작한 지 약 2주 만에 참여자가 3만명을 넘어섰다. 참여자의 대부분은 20·30대였고 기존 카카오페이증권 계좌가 없던 신청자도 30%를 웃돌았다....",
+      "pubDate": "2026-08-19T07:07:00+00:00",
+      "category": "카카오페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "갤럭시아머니트리, 머니트리카드 '모니모페이' 간편결제 오픈…온라인...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478719",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478719",
+      "description": "갤럭시아머니트리가 머니트리카드의 결제 접점을 모바일 간편결제로 넓힌다. 카드 정보를 반복해서 입력해야 했던 온라인 결제 절차를 간소화하면서 이용자 확대뿐 아니라 실제 결제 빈도를 높일 수 있을지가...",
+      "pubDate": "2026-08-19T06:58:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털 금융권 소식...카카오뱅크·카카오페이...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200891",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200891",
+      "description": "카카오페이가 ‘굿딜’에 세븐일레븐을 추가해 국내 대표 편의점 4사에서 조건 없는 할인 혜택을 제공한다. 토스가 서민금융 공급 확대를 위해 대출비교 서비스에 입점한 저축은행의 ‘햇살론 특례’ 중개 수수료를...",
+      "pubDate": "2026-08-19T06:44:00+00:00",
+      "category": "카카오페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "고흥에 10만원 기부하면 답례품에 네이버페이 1만원권까지? '더블이벤트...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740647",
+      "originallink": "https://www.polinews.co.kr/news/articleView.html?idxno=740647",
+      "description": "고향사랑e음을 통해 고흥군에 10만원 이상을 기부하고 문자 수신에 동의한 기부자는 별도의 추첨 없이 네이버페이 1만원을 받을 수 있다. 군은 세액공제와 답례품, 이벤트 등 기부자가 체감할 수 있는 혜택을 적극적으로...",
+      "pubDate": "2026-08-19T06:36:00+00:00",
+      "category": "네이버페이",
+      "source": "폴리뉴스 Polinews"
+    },
+    {
+      "title": "갤럭시아머니트리, '모니모페이'에 머니트리카드 간편결제 서비스 오픈",
+      "link": "https://n.news.naver.com/mnews/article/003/0014135697?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260819_0003754477",
+      "description": "디지털금융기업 갤럭시아머니트리는 삼성카드가 운영하는 모바일 간편결제 서비스 '모니모페이(monimo Pay)'에 '머니트리카드basic'을 등록해 결제할 수 있는 서비스를 오픈한다고 19일 밝혔다. 회사 측에 따르면 이번...",
+      "pubDate": "2026-08-19T06:12:00+00:00",
+      "category": "간편결제",
+      "source": "뉴시스"
+    },
+    {
+      "title": "이현진 네이버페이 CISO “양자내성암호, 연내 네이버 전사 서비스에 적...",
+      "link": "https://n.news.naver.com/mnews/article/015/0005322395?sid=101",
+      "originallink": "https://www.hankyung.com/article/202608199216i",
+      "description": "\"네이버 서비스의 80%가 양자내성암호(PQC)를 적용했습니다.\" 이현진 네이버페이 최고보안책임자(CISO)는 한국경제신문과의 인터뷰에서 이같이 말했다. 이 CISO는 \"네이버페이에 선제적으로 도입한 PQC를 네이버 메일...",
+      "pubDate": "2026-08-19T05:59:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "던킨, 네이버페이 결제하면 전 품목 '반값'…22일까지",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443031",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=443031",
+      "description": "던킨은 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다. (사진=던킨) 던킨은 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다고 19일 밝혔다. 도넛은...",
+      "pubDate": "2026-08-19T05:46:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "상반기 국내주식 수탁수수료 1위 KB증권…해외는 토스 선두",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026081911143873567",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026081911143873567",
+      "description": "카카오페이증권의 상반기 국내주식 수탁수수료는 234억원이었다. 1분기 85억원에서 2분기 149억원으로 늘었다. 반면 토스증권의 국내주식 수탁수수료는 상반기 누적 약 8000만원에 그쳤다. 토스증권은 지난해 12월부터...",
+      "pubDate": "2026-08-19T05:46:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "카카오페이 '굿딜', 세븐일레븐 합류…편의점 4곳서 할인",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84660",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=84660",
+      "description": "인더스트리뉴스 김은경 기자  카카오페이(대표 신원근)의 무조건 할인 결제 서비스 '굿딜'에 세븐일레븐이 합류했다. 이로써 이마트24·CU·GS25·세븐일레븐 등 국내 주요 편의점 4곳에서 모두 굿딜 할인 혜택을 받을 수...",
+      "pubDate": "2026-08-19T05:46:00+00:00",
+      "category": "카카오페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "카카오페이 '굿딜', 세븐일레븐 입점 기념 프로모션",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315953",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315953",
+      "description": "이미지=카카오페이 카카오페이는 '굿딜'에 편의점 세븐일레븐이 입점한 것을 기념해 프로모션을 진행한다고 19일 밝혔다. 기존에는 이마트24·CU·GS25 세 편의점만 입점했었는데 세븐일레븐이 추가된 것이다. '굿딜'은...",
+      "pubDate": "2026-08-19T05:06:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "\"결혼하면 주식 드려요\"…카카오페이證 '주식 축의금'에 3만명 몰렸다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005563457?sid=101",
+      "originallink": "http://www.fnnews.com/news/202608191334327870",
+      "description": "카카오페이증권의 '주식 축의금' 캠페인에 약 2주 만에 신혼부부 3만명이 몰렸다. 결혼을 계기로 투자를 시작하려는 20·30대 신혼부부를 중심으로 호응이 이어지면서 기존 고객 밖으로도 참여층이 확산하고 있다. 19일...",
+      "pubDate": "2026-08-19T04:57:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이 ‘페이-득’ 결제 전환율 16.7%…마케팅 효율 높였다",
+      "link": "https://n.news.naver.com/mnews/article/029/0003043063?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12078904?ref=naver",
+      "description": "카카오페이는 카카오페이만의 독특한 온라인 제휴 마케팅 프로그램 ‘페이-득’의 성과 지표를 공개했다. 참여 제휴사들과의 독보적인 네트워크와 플랫폼을 활용한 맞춤형 접근으로 4회차만에 폭발적인 마케팅 성과를...",
+      "pubDate": "2026-08-19T03:40:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "편의점 4곳 다 된다···카카오페이 굿딜 '무제한 할인'",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90564",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=90564",
+      "description": "카카오페이는 할인 결제 서비스 '굿딜'에 세븐일레븐이 합류해 국내 대표 편의점 4곳에서 할인 혜택을 이용할 수 있게 됐다고 19일 밝혔다. 이에 따라 이마트24·CU·GS25·세븐일레븐을 모두 굿딜에서 만나볼 수...",
+      "pubDate": "2026-08-19T03:24:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "\"결혼하면 주식준다\" 카카오페이證, 2주 만에 신혼부부 3만명 몰려",
+      "link": "https://n.news.naver.com/mnews/article/421/0009120818?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-stock/6262990",
+      "description": "카카오페이증권은 '2026년 대한민국은 결혼하면 주식을 받는 나라' 캠페인의 혼인 인증 참여자가 8월 첫 주 3만 명을 돌파했다고 19일 밝혔다. 지난달 22일 캠페인을 시작한 지 약 2주 만이다. 올 한 해 혼인신고를 하고...",
+      "pubDate": "2026-08-19T02:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "[뉴스워커_카카오페이] '굿딜' 제휴처 98곳으로…세븐일레븐 최대 10% 할...",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=441714",
+      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=441714",
+      "description": "카카오페이가 할인 결제 서비스 '굿딜'에 세븐일레븐을 추가하며 국내 주요 편의점 4사로 제휴 범위를 확대했다고 밝혔다. 이에 따라 이마트24·CU·GS25에 이어 세븐일레븐에서도 굿딜을 이용할 수 있다. 세븐일레븐...",
+      "pubDate": "2026-08-19T02:14:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "카카오페이證, '주식 축의금' 캠페인 시작 2주 만에 신혼부부 3만명↑",
+      "link": "https://n.news.naver.com/mnews/article/008/0005401776?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/08/19/2026081910022473703",
+      "description": "카카오페이증권이 '2026년 대한민국은 결혼하면 주식을 받는 나라' 캠페인의 혼인 인증 참여자가 3만명을 돌파했다고 19일 밝혔다. 지난달 22일 캠페인을 시작한 지 약 2주 만이다. 이번 캠페인은 올 한 해 혼인신고를...",
+      "pubDate": "2026-08-19T01:58:00+00:00",
+      "category": "카카오페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이證 “‘주식 축의금’ 2주 만에 3만 명 참여”",
+      "link": "https://n.news.naver.com/mnews/article/011/0004652974?sid=101",
+      "originallink": "https://www.sedaily.com/article/20080766?ref=naver",
+      "description": "카카오페이증권이 ‘주식 축의금’ 캠페인을 시작한 지 약 2주 만에 3만 명이 참여한 것으로 나타났다. 신청자의 37%는 기존 카카오페이증권 계좌를 보유하지 않았다. 카카오페이증권은 ‘2026년 대한민국은 결혼하면...",
+      "pubDate": "2026-08-19T01:51:00+00:00",
+      "category": "카카오페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "카카오페이 굿딜, 세븐일레븐 입점",
+      "link": "http://www.lawissue.co.kr/view.php?ud=2026081910400798669817d053b9_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026081910400798669817d053b9_12",
+      "description": "카카오페이가 결제 할인 서비스 '굿딜'에 세븐일레븐을 입점시켜 국내 대표 편의점 4사를 모두 확보했다고 19일 밝혔다. 카카오페이에 따르면 이제 이마트24, CU, GS25와 함께 세븐일레븐에서도 굿딜로 결제할 수 있다....",
+      "pubDate": "2026-08-19T01:42:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "던킨·네이버페이 손잡았다…나흘간 전 품목 '반값' 혜택",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128407",
+      "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128407",
+      "description": "간편결제 이용이 일상화된 가운데 네이버페이 QR 결제와 가격 할인 혜택을 연계해 모바일 결제 고객의 이용 편의성과 제품 구매 기회를 함께 넓히는 방식이다. 던킨은 오는 22일까지 네이버페이 QR 결제 고객을 대상으로...",
+      "pubDate": "2026-08-19T01:40:00+00:00",
+      "category": "네이버페이",
+      "source": "스마트경제"
+    },
+    {
+      "title": "던킨, 네이버페이 제휴 '전 품목 50% 할인' 프로모션…22일까지 진행",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=116496",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=116496",
+      "description": "SPC 비알코리아가 운영하는 던킨은 간편결제 서비스 네이버페이와 제휴를 맺고 오는 22일까지 전 품목 50% 할인 프로모션을 진행한다고 19일 밝혔다. 이번 행사는 모바일 간편결제 이용 고객의 쇼핑 편의를 높이고 소비자...",
+      "pubDate": "2026-08-19T01:40:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "카카오페이 '굿딜'에 세븐일레븐 입점…편의점 4사 모두 품었다",
+      "link": "https://n.news.naver.com/mnews/article/030/0003458503?sid=101",
+      "originallink": "https://www.etnews.com/20260819000127",
+      "description": "카카오페이 '굿딜'에 편의점 세븐일레븐이 입점한다. 국내 대표 편의점 4사를 모두 굿딜에서 이용할 수 있다. '굿딜'은 아무런 조건 없이 상시 할인을 제공한다. 카카오페이 결제 탭에서 하단 결제수단 중 '굿딜'을 선택해...",
+      "pubDate": "2026-08-19T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이 굿딜, 4대 편의점서 ‘조건 없는 무제한 할인’ 완비",
+      "link": "https://n.news.naver.com/mnews/article/009/0005722715?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12130882",
+      "description": "세븐일레븐 입점 기념 10% 할인 제휴 브랜드 100개 돌파 눈앞 카카오페이의 상시 할인 결제 서비스 ‘굿딜’이 세븐일레븐 입점을 완료하며 국내 대표 편의점 4사에서 모두 이용 가능해졌다. 세븐일레븐 입점 기념으로...",
+      "pubDate": "2026-08-19T01:26:00+00:00",
+      "category": "카카오페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "도넛·커피도 QR 결제로 반값…던킨, 네이버페이 50% 할인",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=133740",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=133740",
+      "description": "| 이코노미사이언스 유나경 기자 | 모바일 간편결제가 일상적인 결제수단으로 자리 잡으면서 식음료업계의 할인 방식도 QR결제와 직접 연결되고 있다. 던킨이 네이버페이와 손잡고 도넛과 커피 등 전 품목을 대상으로 50...",
+      "pubDate": "2026-08-19T01:24:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "던킨, 22일까지 네이버페이 이용 시 50% 할인",
+      "link": "https://n.news.naver.com/mnews/article/031/0001050670?sid=101",
+      "originallink": "http://www.inews24.com/view/1996108",
+      "description": "던킨은 최근 간편결제 서비스와 연계한 할인 프로모션을 적극 확대하고 있다. 지난달에는 당근페이와 손잡고 1만2000원 이상 결제 시 50% 할인 혜택을 제공한 바 있다. 던킨 관계자는 \"네이버페이와 함께 던킨의 인기...",
+      "pubDate": "2026-08-19T01:21:00+00:00",
+      "category": "네이버페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "\"이번 주만 반값\"…던킨, 네이버페이로 전 품목 50% 할인",
+      "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62315",
+      "originallink": "https://www.the-pr.co.kr/news/articleView.html?idxno=62315",
+      "description": "모바일 간편결제를 선호하는 소비자의 이용 편의성을 높이고 다양한 제품을 경험할 기회를 제공하기 위해 이번 행사를 마련했다는 설명이다. 행사 기간에는 신제품 '말랑 바나나'와 '페이머스 글레이즈드', '먼치킨' 등...",
+      "pubDate": "2026-08-19T01:18:00+00:00",
+      "category": "네이버페이",
+      "source": "The PR 더피알"
+    },
+    {
+      "title": "던킨, 네이버페이 결제 시 전 품목 50% 할인 프로모션 진행",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101461",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4101461",
+      "description": "이번 행사는 소비자의 간편결제 편의성을 높이고 다양한 던킨 제품을 합리적인 가격에 제공하기 위해 마련됐습니다. 행사 기간 신제품 '말랑 바나나'와 대표 도넛인 '페이머스 글레이즈드', '먼치킨'을 비롯해 '아이스...",
+      "pubDate": "2026-08-19T01:14:00+00:00",
+      "category": "네이버페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "'간편결제·가상자산 결합 분석' 한양대 법전원, 모의 공정위 경연대회...",
+      "link": "https://www.ajunews.com/view/20260819090415701",
+      "originallink": "https://www.ajunews.com/view/20260819090415701",
+      "description": "[사진=공정거래위원회] 한양대학교 법학전문대학원팀이 간편결제 사업자와 가상자산 거래소 간 기업결합의 경쟁제한 가능성을 분석해 대학생·대학원생 모의 공정거래위원회 경연대회에서 대상을 받았다....",
+      "pubDate": "2026-08-19T01:02:00+00:00",
+      "category": "간편결제",
+      "source": "아주경제"
+    },
+    {
+      "title": "카카오페이 '굿딜'에 세븐일레븐 입점…편의점 4사 할인 제공",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270927",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=270927",
+      "description": "카카오페이는 할인 결제 서비스 '굿딜'에 세븐일레븐이 입점했다고 19일 밝혔다. 이에 따라 세븐일레븐과 이마트24, CU, GS25 등 국내 주요 편의점 4사에서 굿딜을 이용할 수 있게 됐다. 카카오페이는 세븐일레븐 입점을...",
+      "pubDate": "2026-08-19T00:54:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "\"결혼하면 주식드려요\"…카카오페이證 캠페인에 신혼부부 3만명 몰려",
+      "link": "https://n.news.naver.com/mnews/article/003/0014134363?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260819_0003753797",
+      "description": "카카오페이증권은 자사 ‘2026년 대한민국은 결혼하면 주식을 받는 나라’ 캠페인의 혼인 인증 참여자가 8월 첫 주 3만 명을 돌파했다고 19일 밝혔다. 지난달 22일 캠페인을 시작한 지 약 2주 만이다. 앞서...",
+      "pubDate": "2026-08-19T00:51:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이 '굿딜', 세븐일레븐 입점…편의점 4곳서 결제 가능",
+      "link": "https://n.news.naver.com/mnews/article/374/0000528121?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000329398?division=NAVER",
+      "description": "조건 없는 무제한 할인을 내세운 카카오페이의 ‘굿딜’에 편의점 세븐일레븐이 이달 입점했습니다. 이제 이마트24·CU·GS25와 함께 국내 대표 편의점 4사를 모두 굿딜에서 만나볼 수 있습니다. 오늘(19일) 카카오페이에...",
+      "pubDate": "2026-08-19T00:46:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "[초점] \"슈퍼앱의 힘\"…토스, 역대 최대 실적 갈아치웠다",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=80784",
+      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=80784",
+      "description": "슈퍼앱 서비스는 송금, 중개, 광고, 커머스, 투자, 세무, 인증 등을, 페이먼츠 네트워크 서비스는 간편결제(토스페이), 전자지급결제대행(PG), 결제 단말기 제작 및 판매 사업을 말한다. 토스에 따르면 상반기 슈퍼앱...",
+      "pubDate": "2026-08-18T23:46:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스워치"
+    },
+    {
       "title": "토스증권·카카오페이증권, 역대급 실적…핀테크 증권 ‘수익모델’ 갈...",
       "link": "https://www.ceoscoredaily.com/page/view/2026081816091001353",
       "originallink": "https://www.ceoscoredaily.com/page/view/2026081816091001353",
@@ -358,7 +772,7 @@
       "description": "진필규 토스플레이스 사업부문장(오른쪽)과 박정빈 당근 로컬비즈니스 사업개발 리드가 12일 서울 서초구 토스 신논현 오피스에서 '전략적 업무 제휴 협약 체결식'을 열고 기념 사진을 찍고 있다./토스 토스플레이스는...",
       "pubDate": "2026-08-13T07:16:00+00:00",
       "category": "토스페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 디지털 금융 소식...토스플레이스·빗썸",
@@ -1519,7 +1933,7 @@
       "description": "대부분의 지역에서 삼성 페이가 삼성 월렛으로 통합된 만큼, 스테이블코인 잔액 역시 일반 체크카드와 동일한 가맹점 인프라에서 결제 처리가 가능해질 것으로 보인다. 샌드마크 측은 \"경쟁사인 애플과 글로벌 3위...",
       "pubDate": "2026-08-10T02:08:00+00:00",
       "category": "삼성페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "[더벨][쿠팡페이는 지금] 오프라인 공략 '로켓페이', 원화 스테이블 코...",
@@ -2158,7 +2572,7 @@
       "description": "교보증권은 5일 카카오페이(377300)에 대해 결제와 금융서비스의 고른 성장으로 플랫폼 경쟁력을 입증했다며 투자의견 '매수(Buy)'를 유지했다. 다만 목표주가는 실적 추정치와 밸류에이션 조정을 반영해 기존...",
       "pubDate": "2026-08-04T23:44:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 증권·보험 호조 속 금융 플랫폼 역량 부각",
@@ -3859,7 +4273,7 @@
       "description": "젠슨 황 엔비디아 최고경영자(CEO) 등과의 만찬 자리에서 이해진 네이버 이사회 의장이 ‘페이스사인(Face Sign)’ 단말기를 응시했다. 1초 만에 “결제 완료” 알림이 울렸다. 황 CEO는 “오”하고 짧은 탄성을 내뱉었다....",
       "pubDate": "2026-07-30T23:22:00+00:00",
       "category": "토스페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "[위기의 중소형사] [카카오페이증권] 토스에게 빼앗긴 골든타임, 엇갈린...",
@@ -4057,7 +4471,7 @@
       "description": "국내에서도 카카오뱅크와 케이뱅크, 토스뱅크는 물론 네이버페이와 카카오페이 등 빅테크가 결제 기반을 넘어 대출과 자산관리 사업을 확대하고 있다. 그러나 이들 역시, 디지털 플랫폼만으로는 지속 가능한 경쟁우위를...",
       "pubDate": "2026-07-29T23:58:00+00:00",
       "category": "간편결제",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "헥토파이낸셜, 삼성 월렛 '인기카드찾기' 고도화",
@@ -6955,7 +7369,7 @@
       "description": "\"온·오프라인 양쪽서 두 자릿수 성장…국내 주식 시장의 거래액 증가 수혜까지\" 한국투자증권은 20일 카카오페이(377300)에 대해 실적 고성장이 2분기에도 지속되고 있는 가운데, 올해 하반기에는 스테이블코인 제도화...",
       "pubDate": "2026-07-19T22:52:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "카카오페이, 2분기 실적 '깜짝' 전망…하반기 스테이블코인 기대-한투",
@@ -9907,7 +10321,7 @@
       "description": "빅테크 기업인 네이버페이가 플랫폼 구축과 운영을 맡았다. 금융감독원과 중소벤처기업부 등은 증권사와 벤처기업, 유관기관 간 연계 등을 지원한다. 이찬진 금감원장은 이번 플랫폼에 대해 \"신규 인프라가 민간의...",
       "pubDate": "2026-07-07T08:48:00+00:00",
       "category": "네이버페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "네이버페이, 모험자본 플랫폼 ‘Npay 스타트업’ 출범",
@@ -10393,7 +10807,7 @@
       "description": "특히 네이버페이가 보유한 플랫폼·결제 데이터와 업비트를 운영하는 두나무의 가상자산 및 비상장주식 거래 데이터가 결합할 경우 시장 경쟁 환경에 어떤 변화가 나타날지, 다른 금융·투자 플랫폼과의 경쟁 구도에...",
       "pubDate": "2026-07-06T11:30:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "[비즈투데이] 소비자 10명 중 6명 '네이버페이' 사용",
@@ -14389,7 +14803,7 @@
       "description": "카카오페이 로고./카카오페이 카카오페이가 자회사인 카카오페이증권의 2대 주주 보유 지분을 전량 인수해 완전자회사로 편입한다. 23일 카카오페이는 카카오페이증권의 2대 주주가 보유한 주식 291만4652주를 약 1730원에...",
       "pubDate": "2026-06-23T09:40:00+00:00",
       "category": "카카오페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "배스킨라빈스, 네이버페이 결제 연계 할인 행사 진행",
@@ -15478,7 +15892,7 @@
       "description": "이어 카카오페이 1187만 명, KB페이 1037만 명, 신한 SOL페이 819만 명, 페이북·ISP 656만 명, 네이버페이 653만 명, NH페이 501만 명, 하나페이 473만 명, 페이코 255만 명 순이었다. 성장률로 보면 NH페이가 가장...",
       "pubDate": "2026-06-19T04:44:00+00:00",
       "category": "페이코",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "카카오페이, 청소년 불법도박 예방 캠페인 나선다",
@@ -15532,7 +15946,7 @@
       "description": "초고속 인터넷·매장 운영 솔루션 결합…25일 출시 가입하면 인터넷 요금 할인 혜택…경품 이벤트도 권정훈 SK브로드밴드 SOHO&Value 담당(왼쪽)과 김정열 토스플레이스 부대표가 소상공인 상생을 위한 파트너십을 체결한...",
       "pubDate": "2026-06-19T02:52:00+00:00",
       "category": "토스페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "SKB·토스, 매장 운영비 절감 ‘통신·결제 결합상품’",
@@ -18206,115 +18620,7 @@
       "pubDate": "2026-05-22T01:44:00+00:00",
       "category": "토스페이",
       "source": "데일리브리프"
-    },
-    {
-      "title": "토스플레이스, 결제단말기 특허 무효심판 승소…표준적 보안기술로 판단",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=521110",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=521110",
-      "description": "|중앙이코노미뉴스 김수현 기자|토스플레이스가 부가통신사업자(VAN)인 한국정보통신(KICC)을 상대로 제기한 특허 무효심판에서 승소했다. [토스플레이스 ci]  토스플레이스가 부가통신사업자(VAN)인 한국정보통신(KICC)을...",
-      "pubDate": "2026-05-21T22:52:00+00:00",
-      "category": "토스페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "“토스 앱-단말기 일체화…스테이블코인 통해 편리한 금융경험 제공\"[일...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006287561?sid=101",
-      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02292726645451544",
-      "description": "△기본적으로 토스는 금융 마켓플레이스라고 생각한다. 현재도 여러 금융사의 대출·카드·보험 상품을 판매하고 있다. STO·RWA 역시 결국 핵심은 자산 소싱이라고 생각한다. 부동산, 음원 IP(지식재산권), 웹툰·웹소설 등...",
-      "pubDate": "2026-05-21T21:30:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "토스 “스테이블코인 핵심은 유통, 누구든 함께 한다…자체 월렛도 준비...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006287559?sid=105",
-      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=02269766645451544",
-      "description": "서 상무는 ”월렛 개발뿐 아니라 필요하면 메인넷까지 구축할 수 있는 수준의 기술 역량을 확보하는... 단말기로는 삼성페이, 신용카드, 체크카드, 안면인식 결제, 송금 등이 모두 가능한데, 여기에 토스포인트와...",
-      "pubDate": "2026-05-21T21:26:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "토스플레이스, 오프라인 결제단말기 특허 무효심판 승소",
-      "link": "https://n.news.naver.com/mnews/article/374/0000511721?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000312018?division=NAVER",
-      "description": "토스의 결제 단말기 자회사 토스플레이스가 한국정보통신(KICC)을 상대로 제기한 특허 무효심판에서 승소했습니다. 오늘(22일) 정보통신기술(ICT) 업계에 따르면 특허심판원은 토스플레이스가 제기한 특허 무효확인...",
-      "pubDate": "2026-05-21T19:13:00+00:00",
-      "category": "토스페이",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "토스플레이스, 특허 분쟁에서 승소… 결제 단말기 시장 지형 변화 예고",
-      "link": "https://www.tokenpost.kr/news/tech/362262",
-      "originallink": "https://www.tokenpost.kr/news/tech/362262",
-      "description": "토스의 결제 단말기 자회사 토스플레이스가 한국정보통신이 보유했다고 주장한 핵심 기술의 특허 효력을 다투는 심판에서 이기면서, 결제 단말기 시장의 기술 독점 논란이 한층 약해지게 됐다. 21일 정보통신기술 업계에...",
-      "pubDate": "2026-05-21T18:50:00+00:00",
-      "category": "토스페이",
-      "source": "토큰포스트"
-    },
-    {
-      "title": "토스, 오프라인 단말기 특허 분쟁서 승리",
-      "link": "https://n.news.naver.com/mnews/article/023/0003977792?sid=105",
-      "originallink": "https://www.chosun.com/economy/tech_it/2026/05/22/SOQV5YKD5JHORAAWOYA7FPCPHU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "description": "21일 법조계에 따르면 특허심판원은 지난 19일 토스 자회사 토스플레이스가 제기한 특허 무효 확인 심판에서 KICC가 보유한 기술은 특허로 볼 수 없다고 판단했다. 앞서 지난해 말 국내 주요 VAN(부가통신사업자) 중...",
-      "pubDate": "2026-05-21T15:35:00+00:00",
-      "category": "토스페이",
-      "source": "조선일보"
-    },
-    {
-      "title": "토스플레이스, 오프라인 결제단말기 특허 무효심판 승소",
-      "link": "https://n.news.naver.com/mnews/article/001/0016092954?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20260521171100017?input=1195m",
-      "description": "토스의 결제 단말기 자회사 토스플레이스가 한국정보통신(KICC)을 상대로 제기한 특허 무효심판에서 승소했다. 21일 정보통신기술(ICT) 업계에 따르면 특허심판원은 토스플레이스가 제기한 특허 무효확인 심판에서...",
-      "pubDate": "2026-05-21T10:37:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "토스, 오프라인 결제 단말기 특허 분쟁 이겨",
-      "link": "https://n.news.naver.com/mnews/article/023/0003977699?sid=105",
-      "originallink": "https://www.chosun.com/economy/tech_it/2026/05/21/WXX5FYUDCZCR5MEU2XFXLOFAOI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "description": "21일 법조계에 따르면 특허심판원은 지난 19일 토스 자회사 토스플레이스가 제기한 특허 무효 확인 심판에서 KICC가 보유한 기술은 특허로 볼 수 없다고 판단했다. 앞서 지난해 말 국내 주요 VAN(부가통신사업자) 중...",
-      "pubDate": "2026-05-21T05:07:00+00:00",
-      "category": "토스페이",
-      "source": "조선일보"
-    },
-    {
-      "title": "NHN KCP, 페이코 연계 온·오프라인 통합 스테이블코인 결제 실증 진행",
-      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=304563",
-      "originallink": "https://www.khgames.co.kr/news/articleView.html?idxno=304563",
-      "description": "이번 실증은 글로벌 블록체인 플랫폼 아발란체와 협력해 구축한 결제 특화 메인넷을 기반으로 진행되며, 간편결제 서비스 페이코와의 연계를 통해 업계 최초로 온·오프라인의 경계를 넘는 전방위적 스테이블코인 결제...",
-      "pubDate": "2026-05-21T03:24:00+00:00",
-      "category": "페이코",
-      "source": "경향게임스"
-    },
-    {
-      "title": "\"결제 넘어 AI까지\"…네이버, 토스 아성 흔든다",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1709643",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1709643",
-      "description": "토스는 2023년 3월 자회사 토스플레이스의 결제 단말기인 '토스 프론트'를 출시한 이후 빠르게 가맹점을 늘려왔으며 지난달 기준 33만개를 돌파했다.  2027년까지 70만대 보급이라는 목표도 제시한 상태다. 후발주자인...",
-      "pubDate": "2026-05-21T02:04:00+00:00",
-      "category": "토스페이",
-      "source": "이비엔(EBN)뉴스센터"
-    },
-    {
-      "title": "NHN KCP, PAYCO 연계 스테이블코인 결제 PoC 진행…온·오프라인 동시 검...",
-      "link": "https://n.news.naver.com/mnews/article/032/0003447142?sid=101",
-      "originallink": "https://www.khan.co.kr/article/202605211057018",
-      "description": "NHN KCP는 간편결제 서비스 페이코(PAYCO)와 연계해 온라인과 오프라인을 아우르는 결제 흐름을 함께 검증한다. 스테이블코인 결제를 다양한 결제 접점에서 시험하는 방식으로 실증 범위를 확대했다. 우선 온라인...",
-      "pubDate": "2026-05-21T01:57:00+00:00",
-      "category": "페이코",
-      "source": "경향신문"
-    },
-    {
-      "title": "애플페이·삼성페이 간편결제 시장, 지방선거 이후 급변할까?",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=303028",
-      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=303028",
-      "description": "토스의 결제 단말기 자회사 토스플레이스는 오프라인 결제 접점을 빠르게 늘리고 있다. 토스 프론트 가맹점 수는 2025년 말 기준 24만개, 누적 결제액은 약 26조원으로 집계됐다. 토스는 연말까지 50만대, 2027년까지 70만대...",
-      "pubDate": "2026-05-21T00:28:00+00:00",
-      "category": "삼성페이",
-      "source": "스트레이트뉴스"
     }
   ],
-  "lastFetch": "2026-08-18T23:33:36.402164+00:00"
+  "lastFetch": "2026-08-19T23:35:30.777247+00:00"
 }
