@@ -1,6 +1,708 @@
 {
   "articles": [
     {
+      "title": "회사서 받은 식대, 이제 배민에 쓴다…‘페이코 식권’ 결제 시작",
+      "link": "https://n.news.naver.com/mnews/article/092/0002435299?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260827110609",
+      "description": "페이코에 등록된 신용·체크카드와 쿠폰, 포인트 등 다른 간편결제 수단도 배민에서 이용할 수 있다. 음식배달뿐 아니라 장보기·쇼핑 서비스에서도 페이코 일반 결제를 지원한다. 우아한형제들은 오는 31일까지 페이코...",
+      "pubDate": "2026-08-27T04:31:00+00:00",
+      "category": "페이코",
+      "source": "ZDNet"
+    },
+    {
+      "title": "롯데백화점, 유니온페이 QR결제 업계 첫 도입…외국인 고객 '타깃'",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851726",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=851726",
+      "description": "한편 롯데백화점은 2023년 애플페이·화웨이페이·샤오미페이 결제가 가능한 NFC 결제 시스템을 도입한 데 이어, 지난해에는 업계 최초로 대만 라인페이를 도입해 외국인 고객의 결제 편의성을 지속적으로 높여왔다....",
+      "pubDate": "2026-08-27T04:06:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "배민서 페이코 식권 쓴다, 우아한형제들이 결제수단 늘린 이유는",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=749055",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=749055",
+      "description": "식권뿐 아니라 페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 쓸 수 있게 되면서 고객은 상황에 맞게 여러 결제 옵션을 고를 수 있게 됐다. 배민은 계좌 및 휴대폰 결제와 각종 간편결제는 물론 해외 발급...",
+      "pubDate": "2026-08-27T03:32:00+00:00",
+      "category": "페이코",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "“식권도 배민에서”…페이코 결제 추가로 편의성 극대화",
+      "link": "http://www.globalepic.co.kr/view.php?ud=20260827114654538248439a4874_29",
+      "originallink": "http://www.globalepic.co.kr/view.php?ud=20260827114654538248439a4874_29",
+      "description": "이번 도입으로 배민 이용자들은 모바일 식권 외에도 페이코와 연계된 카드, 쿠폰, 포인트 등의 간편결제 수단을 자유롭게 선택할 수 있게 되었다. 결제 옵션의 다양화는 상황과 필요에 맞는 최적의 결제 방식을 선택하려는...",
+      "pubDate": "2026-08-27T02:50:00+00:00",
+      "category": "페이코",
+      "source": "글로벌에픽"
+    },
+    {
+      "title": "배민서 모바일 식권 쓴다⋯'페이코' 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/031/0001052892?sid=101",
+      "originallink": "http://www.inews24.com/view/1998918",
+      "description": "배민 운영사 우아한형제들은 신규 결제수단으로 페이코를 도입하고 모바일 식권을 비롯해 카드·쿠폰·포인트 등 다양한 간편결제를 지원한다고 27일 밝혔다. 회사 측은 이번 결제 지원을 통해 수요가 집중되는 평일...",
+      "pubDate": "2026-08-27T02:37:00+00:00",
+      "category": "페이코",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "높아진 대출 문턱 … 핀테크, 중저신용자 '금융 틈새' 메운다",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700097.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700097.html",
+      "description": "27일 핀테크업계에 따르면 네이버파이낸셜은 소상공인과 중저신용자를 대상으로 비금융 데이터 기반 신용대출 심사 서비스를 추진한다. 금융위원회는 전날 제10차 지정대리인 심사위원회를 열고 네이버파이낸셜의 '금융...",
+      "pubDate": "2026-08-27T02:34:00+00:00",
+      "category": "간편결제",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "배민에서 회사 식권 쓴다… 우아한형제들, 페이코 결제 도입",
+      "link": "https://platum.kr/archives/293380",
+      "originallink": "https://platum.kr/archives/293380",
+      "description": "페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 지원돼 결제 선택지가 넓어졌다. 회사에 따르면 배민은 계좌·휴대폰 결제와 각종 간편결제, 해외 발급 카드까지 국내 배달앱 가운데 가장 많은 결제수단을...",
+      "pubDate": "2026-08-27T02:24:00+00:00",
+      "category": "페이코",
+      "source": "플래텀"
+    },
+    {
+      "title": "“모바일 식권까지 배달앱으로”…배민, 페이코 등 결제수단 확대 나섰...",
+      "link": "https://n.news.naver.com/mnews/article/009/0005726498?sid=103",
+      "originallink": "https://www.mk.co.kr/article/12137565",
+      "description": "페이코와 연계된 카드와 쿠폰, 포인트 등 간편결제 수단도 함께 이용할 수 있다. 이용자는 자신이 보유한 결제수단과 혜택에 따라 선택할 수 있는 폭이 넓어졌다. 배민은 최근 고객층과 이용 환경이 다양해지는 데 맞춰...",
+      "pubDate": "2026-08-27T02:05:00+00:00",
+      "category": "페이코",
+      "source": "매일경제"
+    },
+    {
+      "title": "배민, 신규 결제수단으로 ‘페이코’ 도입…모바일 식권으로도 배달시...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=91018",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=91018",
+      "description": "페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 쓸 수 있습니다. 배민은 계좌 및 휴대폰 결제와 각종 간편결제는 물론 해외 발급 카드 등 글로벌 결제까지 국내 배달앱 중 가장 많은 결제수단을 지원하고...",
+      "pubDate": "2026-08-27T01:44:00+00:00",
+      "category": "페이코",
+      "source": "inthenews"
+    },
+    {
+      "title": "마이크로닉스, 'WIZMAX 스텔라' 케이스 포토 상품평 작성 시 네이버페이...",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60465",
+      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60465",
+      "description": "행사 기간 WIZMAX 스텔라를 구매한 뒤 구매 쇼핑몰에 포토 상품평을 작성하고 카카오톡으로 응모하면 네이버페이 1만원 교환권을 받을 수 있다. 이벤트와 제품에 관한 자세한 정보는 마이크로닉스 공식...",
+      "pubDate": "2026-08-27T01:40:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털포스트(PC사랑)"
+    },
+    {
+      "title": "배민, '페이코' 결제 도입…모바일 식권도 배달 주문에 사용",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207244",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=207244",
+      "description": "페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 사용할 수 있다. 배민은 계좌·휴대폰 결제와 각종 간편결제, 해외 발급 카드 등 다양한 결제수단을 지원하고 있다. 페이코 결제는 음식배달과 장보기·쇼핑...",
+      "pubDate": "2026-08-27T01:16:00+00:00",
+      "category": "페이코",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "금융위, 네이버파이낸셜 대안신용평가 서비스 지정대리인 지정",
+      "link": "https://n.news.naver.com/mnews/article/123/0002389098?sid=101",
+      "originallink": "http://www.joseilbo.com/news/news_read.php?uid=574558&class=18&grp=",
+      "description": "금융위원회가 네이버파이낸셜의 금융 소외계층을 위한 비(非)금융 데이터 기반 신용대출 심사 서비스를 지정대리인으로 지정했다. 케이뱅크와 웰컴저축은행은 네이버파이낸셜의 대안신용 평가를 바탕으로 대출 가능...",
+      "pubDate": "2026-08-27T01:03:00+00:00",
+      "category": "네이버페이",
+      "source": "조세일보"
+    },
+    {
+      "title": "배달의민족, 결제수단 '페이코' 도입…모바일 식권 및 간편결제 지원",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1399792",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1399792",
+      "description": "페이코 연계 카드, 쿠폰, 포인트 등 다양한 간편결제 옵션도 함께 적용되며, 페이코 결제는 음식배달과 장보기·쇼핑 등에서 활용 가능하다. 다만 모바일 식권은 음식배달 주문 시에만 쓸 수 있으며 주류 포함 메뉴는...",
+      "pubDate": "2026-08-27T01:02:00+00:00",
+      "category": "페이코",
+      "source": "데일리한국"
+    },
+    {
+      "title": "배달의민족, '페이코' 결제 도입…회사 제공 모바일 식권 음식배달 사용...",
+      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=2584",
+      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=2584",
+      "description": "우아한형제들은 페이코를 통해 모바일 식권과 카드, 쿠폰, 포인트 등 다양한 간편결제를 지원한다고 27일 밝혔다. 이번 결제수단 확대에 따라 직장에서 식대 지원 차 지급받아 오프라인 음식점에서 주로 사용하던 모바일...",
+      "pubDate": "2026-08-27T01:00:00+00:00",
+      "category": "페이코",
+      "source": "뉴스맵"
+    },
+    {
+      "title": "배민서 '모바일 식권' 쓴다…페이코 결제수단 도입",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128753",
+      "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128753",
+      "description": "배민 운영사 우아한형제들은 페이코를 신규 결제수단으로 도입해 모바일 식권을 비롯한 카드·쿠폰·포인트 등의 간편결제를 지원한다고 27일 밝혔다. 이에 따라 주로 오프라인 음식점에서 사용하던 페이코 모바일 식권의...",
+      "pubDate": "2026-08-27T01:00:00+00:00",
+      "category": "페이코",
+      "source": "스마트경제"
+    },
+    {
+      "title": "\"간편결제 경쟁력 빛났다\"…KB국민카드, DCXI 신용카드 부문 2년 연속 1위",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86272",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=86272",
+      "description": "실생활 혜택과 결제 속도 개선도 눈에 띈다. 전국 40여 개 제휴 브랜드에서 체크카드 바코드 결제 시 최대 7% 즉시 할인을 제공하는 KB Pay 바로할인을 운영 중이다. 아울러 안드로이드 기반 스마트폰을 단말기에 대기만...",
+      "pubDate": "2026-08-27T01:00:00+00:00",
+      "category": "간편결제",
+      "source": "더페어"
+    },
+    {
+      "title": "배민, '페이코' 결제 도입…모바일 식권으로 배달 주문",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=187117",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=187117",
+      "description": "페이코에 연계된 카드와 쿠폰, 포인트 등 간편결제 수단도 배민에서 이용할 수 있다. 적용 대상은 음식배달과 장보기·쇼핑 등이다. 다만 모바일 식권은 음식배달 주문에 한해 사용할 수 있으며 주류가 포함된 메뉴는...",
+      "pubDate": "2026-08-27T00:52:00+00:00",
+      "category": "페이코",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "\"모바일 식권도 쓴다\"…배민, '페이코' 결제수단 도입",
+      "link": "https://n.news.naver.com/mnews/article/215/0001263810?sid=103",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270302&t=NN",
+      "description": "아울러 페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 쓸 수 있어 고객이 상황에 맞게 여러 옵션을 선택할 수 있게 됐다. 배민은 계좌 및 휴대폰 결제와 각종 간편결제는 물론 해외 발급 카드 등 글로벌...",
+      "pubDate": "2026-08-27T00:48:00+00:00",
+      "category": "페이코",
+      "source": "owtv"
+    },
+    {
+      "title": "롯데백화점, 유니온페이 QR결제 업계 최초 도입",
+      "link": "https://n.news.naver.com/mnews/article/215/0001263805?sid=103",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270290&t=NN",
+      "description": "2023년 애플페이·화웨이페이·샤오미페이 결제가 가능한 NFC 결제 시스템을 도입한 데 이어 지난해에는 업계 최초로 대만 라인페이를 도입했다. 이번 유니온페이 QR결제와 NFC QPS결제 도입을 통해 국적과 결제 방식에...",
+      "pubDate": "2026-08-27T00:47:00+00:00",
+      "category": "간편결제",
+      "source": "owtv"
+    },
+    {
+      "title": "배민서 모바일 식권 쓴다...페이코 결제 도입해 사용처 확대",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=130926",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=130926",
+      "description": "페이코와 연계된 카드와 쿠폰, 포인트 등 다양한 간편결제 수단도 함께 이용할 수 있다. 이에 따라 고객은 보유한 결제수단이나 이용 상황에 따라 원하는 방식을 선택할 수 있게 됐다. 배민은 기존에도 계좌이체와 휴대폰...",
+      "pubDate": "2026-08-27T00:42:00+00:00",
+      "category": "페이코",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "네이버파이낸셜 대안신용평가 시범운영 길 열렸다",
+      "link": "https://www.tokenpost.kr/news/policy/398622",
+      "originallink": "https://www.tokenpost.kr/news/policy/398622",
+      "description": "네이버파이낸셜이 비금융 데이터를 활용해 소상공인과 중·저신용자의 신용대출 심사를 돕는 서비스를 시범 운영할 수 있게 됐다. 금융위원회는 27일 보도참고자료에서 제10차 지정대리인 심사위원회가 ‘금융 소외계층을...",
+      "pubDate": "2026-08-27T00:38:00+00:00",
+      "category": "네이버페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "롯데百, 38개국 간편결제 연결…유니온페이 QR 전 점 도입",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=272404",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=272404",
+      "description": "롯데백화점은 앞서 2023년 애플페이와 화웨이페이, 샤오미페이 등 근거리무선통신(NFC) 기반 결제 시스템을 도입했다. 지난해에는 대만 이용자가 많은 라인페이를 백화점 업계 최초로 적용했다. 유니온페이 결제 도입을...",
+      "pubDate": "2026-08-27T00:38:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "배민, '페이코' 결제 도입…모바일 식권 배달 주문에 사용",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=761701",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=761701",
+      "description": "배민은 계좌·휴대폰 결제와 각종 간편결제, 해외 발급 카드 등 글로벌 결제를 지원하고 있다. 페이코 결제는 음식배달과 장보기·쇼핑 서비스에서 이용할 수 있다. 모바일 식권은 음식배달 주문에만 사용할 수 있으며...",
+      "pubDate": "2026-08-27T00:36:00+00:00",
+      "category": "페이코",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "롯데백화점, 유니온페이 QR결제 업계 최초 도입…외국이 '캐시리스' 잡는...",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1399769",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1399769",
+      "description": "2023년 애플페이·화웨이페이·샤오미페이 결제가 가능한 NFC 결제 시스템을 도입한 데 이어 지난해에는 업계 최초로 대만 라인페이를 도입했다. 이번 유니온페이 QR결제와 NFC QPS결제 도입을 통해 국적과 결제 방식에...",
+      "pubDate": "2026-08-27T00:36:00+00:00",
+      "category": "간편결제",
+      "source": "데일리한국"
+    },
+    {
+      "title": "페이코 얼마 남았더라…배민에서 페이코 된다",
+      "link": "https://n.news.naver.com/mnews/article/374/0000529634?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000331050?division=NAVER",
+      "description": "페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 사용할 수 있습니다. 페이코 결제는 음식배달과 장보기·쇼핑 등에서 이용할 수 있는데 모바일 식권은 음식배달 주문 시에만 사용할 수 있으며 주류 포함...",
+      "pubDate": "2026-08-27T00:31:00+00:00",
+      "category": "페이코",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "배민, 페이코 연계…모바일 식권 결제 지원",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695879",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695879",
+      "description": "페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 지원된다. 배민은 계좌 및 휴대폰 결제, 각종 간편결제에 더해 해외 발급 카드까지 지원하며 국내 배달앱 중 결제수단을 가장 많이 갖췄다고 회사는 설명했다....",
+      "pubDate": "2026-08-27T00:30:00+00:00",
+      "category": "페이코",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "[경제일보] 두나무, 주식교환 후 IPO 시동…'네이버파이낸셜 상장' 셈법...",
+      "link": "https://www.ajunews.com/view/20260824164341139",
+      "originallink": "https://www.ajunews.com/view/20260824164341139",
+      "description": "[사진=두나무] [경제일보] 가상자산 거래소 업비트를 운영하는 두나무가 네이버파이낸셜과의 포괄적 주식교환 이후 기업공개(IPO)에 나선다. 미국 회계기준(US GAAP)을 검토한 사실이 알려지며 나스닥 상장 가능성이...",
+      "pubDate": "2026-08-27T00:24:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "\"식권으로 배달 가능\"…배민, 페이코 모바일 식권 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/003/0014151196?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260827_0003764605",
+      "description": "페이코와 연계된 카드·쿠폰·포인트 등 간편결제 수단도 함께 이용할 수 있다. 배민은 계좌이체와 휴대폰 결제, 각종 간편결제는 물론 해외 발급 카드 등 글로벌 결제까지 지원하며 국내 배달앱 가운데 가장 다양한...",
+      "pubDate": "2026-08-27T00:16:00+00:00",
+      "category": "페이코",
+      "source": "뉴시스"
+    },
+    {
+      "title": "배민, '페이코' 결제 도입…모바일 식권도 사용 가능",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=144434",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=144434",
+      "description": "[우아한형제들]  배달의민족이 '페이코(PAYCO)'를 신규 결제수단으로 도입해 모바일 식권과 카드·쿠폰·포인트 간편결제를 지원한다. 배민 운영사 우아한형제들은 페이코 결제 서비스를 순차적으로 적용한다고 27일 밝혔다....",
+      "pubDate": "2026-08-27T00:16:00+00:00",
+      "category": "페이코",
+      "source": "직썰"
+    },
+    {
+      "title": "배민서 회사 식권 쓴다…'페이코' 결제수단 추가",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=718233",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=718233",
+      "description": "배민 운영사 우아한형제들은 페이코 모바일 식권과 함께 페이코에 연계된 카드·쿠폰·포인트 등의 간편결제를 지원한다. 페이코 식권은 기존에 주로 오프라인 음식점에서 사용됐지만 이번 연동으로 배민 음식배달...",
+      "pubDate": "2026-08-27T00:08:00+00:00",
+      "category": "페이코",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "배민서 '회사 식권' 쓴다…직장인 46만명 페이코 식대 배달까지 확대",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=543092",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=543092",
+      "description": "페이코와 연계된 카드와 쿠폰, 포인트 등 다른 간편결제 수단도 함께 이용할 수 있다. 고객이 보유한 결제수단이나 혜택에 따라 결제 방식을 선택할 수 있도록 선택지를 넓혔다. 배민은 계좌·휴대전화 결제와 각종...",
+      "pubDate": "2026-08-27T00:00:00+00:00",
+      "category": "페이코",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "배민, '페이코' 결제수단 도입",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=210955",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=210955",
+      "description": "아울러 페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 쓸 수 있어 고객이 상황에 맞게 여러 옵션을 선택할 수 있게 됐다. 배민은 계좌 및 휴대폰 결제와 각종 간편결제는 물론 해외 발급 카드 등 글로벌...",
+      "pubDate": "2026-08-27T00:00:00+00:00",
+      "category": "페이코",
+      "source": "SR타임스"
+    },
+    {
+      "title": "[유통갤러리] 배민에서 모바일 식권도 쓴다…‘페이코’ 결제수단 도입...",
+      "link": "https://theviewers.co.kr/View.aspx?No=4201106",
+      "originallink": "https://theviewers.co.kr/View.aspx?No=4201106",
+      "description": "아울러 페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 쓸 수 있어 고객이 상황에 맞게 여러 옵션을 선택할 수 있게 됐다. 배민은 계좌 및 휴대폰 결제와 각종 간편결제는 물론 해외 발급 카드 등 글로벌...",
+      "pubDate": "2026-08-26T23:56:00+00:00",
+      "category": "페이코",
+      "source": "뷰어스"
+    },
+    {
+      "title": "배달의민족, 모바일 식권 결제 지원…결제수단 '페이코' 도입",
+      "link": "https://n.news.naver.com/mnews/article/421/0009134849?sid=101",
+      "originallink": "https://www.news1.kr/industry/distribution/6270872",
+      "description": "페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 사용할 수 있다. 배민은 계좌와 휴대폰 결제, 각종 간편결제, 해외 발급 카드 등 다양한 결제수단을 지원하고 있다. 페이코 결제는 음식배달과 장보기·쇼핑...",
+      "pubDate": "2026-08-26T23:53:00+00:00",
+      "category": "페이코",
+      "source": "뉴스1"
+    },
+    {
+      "title": "배민서 모바일 식권 쓴다…결제수단에 ‘페이코’ 추가",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608270027",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202608270027",
+      "description": "배민 운영사 우아한형제들은 신규 결제수단으로 ‘페이코(PAYCO)’를 추가해 모바일 식권과 카드·쿠폰·포인트 등 간편결제를 지원한다고 27일 밝혔다. 이에 따라 직장인들은 오프라인 음식점에서 주로 사용하던 페이코...",
+      "pubDate": "2026-08-26T23:52:00+00:00",
+      "category": "페이코",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "회사서 받은 '모바일 식권', 배민에서도 쓴다…페이코 결제 도입",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1406554",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1406554",
+      "description": "배민은 신규 결제수단으로 '페이코(PAYCO)'를 추가해 모바일 식권과 카드·쿠폰·포인트 등의 간편결제를 지원한다. 사진=우아한형제들 제공 매일일보 = 오시내 기자  |  직장에서 식대 지원을 위해 지급받은 모바일 식권을...",
+      "pubDate": "2026-08-26T23:48:00+00:00",
+      "category": "페이코",
+      "source": "매일일보"
+    },
+    {
+      "title": "\"외국인도 빠르게 결제\"…롯데百, 유니온페이 QR결제 업계 첫 도입",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480911",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480911",
+      "description": "2023년 애플페이·화웨이페이·샤오미페이 등을 지원하는 NFC 결제 시스템을 도입한 데 이어 지난해에는 업계 최초로 대만 라인페이를 도입했다. 롯데백화점이 외국인 결제 수단을 다양화하는 이유는 방한 관광객이...",
+      "pubDate": "2026-08-26T23:24:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "롯데백화점, 유니온페이 QR결제 도입…외국인 간편결제 확대",
+      "link": "https://n.news.naver.com/mnews/article/001/0016273334?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260826152800030?input=1195m",
+      "description": "2023년 애플페이·화웨이페이·샤오미페이 결제가 가능한 NFC 결제 시스템을 도입한 데 이어, 지난해에는 대만 라인페이 시스템을 도입했다. 롯데백화점은 유니온페이 결제 시스템 도입을 기념해 내달 1일부터 10월...",
+      "pubDate": "2026-08-26T21:00:00+00:00",
+      "category": "간편결제",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "롯데百, 유니온페이 QR결제 업계 첫 도입…외국인 쇼핑 편의 높인다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009134669?sid=101",
+      "originallink": "https://www.news1.kr/industry/distribution/6270417",
+      "description": "2023년 애플페이·화웨이페이·샤오미페이 등을 지원하는 NFC 결제 시스템을 도입한 데 이어 지난해에는 업계 최초로 대만 라인페이를 도입했다. 롯데백화점이 외국인 결제 수단을 다양화하는 이유는 방한 관광객이...",
+      "pubDate": "2026-08-26T21:00:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이, '내 카드 머니연결' 서비스 선봬",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=144413",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=144413",
+      "description": "카카오페이가 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 '내 카드 머니연결' 서비스를 출시했다. 사진=카카오페이  카카오페이(대표 신원근)가 별도의 카드 재발급 없이 사용자가 기존에 보유한 체크카드에...",
+      "pubDate": "2026-08-26T16:34:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "[금융] 카카오페이 체크카드 머니연결 / KB국민은행 스타벅스 제휴통장...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2279081",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2279081",
+      "description": "◼︎ 카카오페이, 기존 체크카드에 카카오페이머니 연결 서비스 카카오페이는 별도의 카드 재발급 없이 기존에 보유한 체크카드에 카카오페이머니를 연결해 결제할 수 있는 '내 카드 머니연결' 서비스를 출시했다고...",
+      "pubDate": "2026-08-26T11:26:00+00:00",
+      "category": "카카오페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "네이버파이낸셜, 스마트스토어 매출로 신용평가…케뱅·웰컴저축은행과...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003125837?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1682816/?sc=Naver",
+      "description": "네이버파이낸셜이 스마트스토어 판매 실적과 결제 내역 등 비금융 데이터를 활용해 소상공인과 중저신용자의 대출 심사를 지원한다. 기존 금융정보만으로 상환 능력을 충분히 인정받지 못했던 금융소비자의 대출 문턱을...",
+      "pubDate": "2026-08-26T09:56:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "네이버파이낸셜, '비금융 데이터' 대출 심사…소상공인·중저신용자 문...",
+      "link": "https://www.newspim.com/news/view/20260826001135",
+      "originallink": "https://www.newspim.com/news/view/20260826001135",
+      "description": "금융위원회는 '제10차 지정대리인 심사위원회'를 열고 네이버파이낸셜의 '금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스'를 지정대리인으로 신규 지정했다고 26일 밝혔다. 지정대리인은 핀테크 기업 등이...",
+      "pubDate": "2026-08-26T09:15:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "네이버파이낸셜, 비금융 데이터로 케이뱅크·웰컴저축은행 대출 심사",
+      "link": "https://n.news.naver.com/mnews/article/366/0001188529?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/08/26/QMU5KUURHVDQHEUXUJRE6QVD6Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "네이버파이낸셜이 비금융 데이터를 활용해 케이뱅크와 웰컴저축은행의 중·저신용자 대출 심사를 맡게 된다. 금융위원회는 네이버파이낸셜을 지정 대리인으로 지정했다고 26일 밝혔다. 지정 대리인이 된 네이버파이낸셜은...",
+      "pubDate": "2026-08-26T09:08:00+00:00",
+      "category": "네이버페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "토스 등 해외주식 수수료 ‘대박’ 증권사…3분기엔 먹구름, 왜?",
+      "link": "https://www.ceoscoredaily.com/page/view/2026082616033054124",
+      "originallink": "https://www.ceoscoredaily.com/page/view/2026082616033054124",
+      "description": "26일 금융투자협회에 따르면 주요 증권사(미래에셋·한국투자·NH투자·KB·삼성·메리츠·키움·하나·신한투자·대신·토스·카카오페이증권)의 올해 2분기 외화증권 수탁수수료수익은 총 1조176억2646만원으로...",
+      "pubDate": "2026-08-26T08:52:00+00:00",
+      "category": "토스페이",
+      "source": "CEOSCOREDAILY"
+    },
+    {
+      "title": "네이버파이낸셜, 중저신용자 대안신용평가한다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005566862?sid=101",
+      "originallink": "https://www.fnnews.com/news/202608261704108002",
+      "description": "금융위원회가 26일 네이버파이낸셜의 '금융소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스'를 지정대리인으로 지정했다고 밝혔다. 핀테크업체가 지정대리인이 되면, 금융회사로부터 업무를 위탁받아 해당...",
+      "pubDate": "2026-08-26T08:42:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "네이버파이낸셜, 케이뱅크·웰컴저축은행 대출 심사 지원",
+      "link": "https://n.news.naver.com/mnews/article/029/0003044516?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12080420?ref=naver",
+      "description": "네이버파이낸셜이 비금융 데이터를 바탕으로 한 대안신용평가 시스템을 구축해 케이뱅크와 웰컴저축은행의 중·저신용자 대출 심사를 지원한다. 금융위원회는 제10차 지정대리인 심사위원회를 개최하고 네이버파이낸셜을...",
+      "pubDate": "2026-08-26T08:33:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "네이버파이낸셜 비금융 데이터 대출심사 지정대리인 지정",
+      "link": "https://n.news.naver.com/mnews/article/003/0014150476?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260826_0003764019",
+      "description": "금융위원회는 26일 '제10차 지정대리인 심사위원회'를 개최하고 네이버파이낸셜의 '금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스'를 지정대리인으로 지정했다고 밝혔다. 핀테크업체 등이 금융위로부터...",
+      "pubDate": "2026-08-26T08:26:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "네이버파이낸셜, 비금융 데이터로 대출심사…중·저신용자·소상공인 문...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=272239",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=272239",
+      "description": "26일 금융위원회 제10차 지정대리인 심사위원회는 네이버파이낸셜의 '금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스'를 지정대리인 서비스로 신규 지정했다. 지정대리인은 핀테크 기업 등이...",
+      "pubDate": "2026-08-26T08:16:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털 금융 소식...카카오뱅크·카카오페이·두...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201066",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=201066",
+      "description": "카카오페이는 기존 체크카드에 카카오페이머니를 연결해 사용할 수 있는 서비스를 선보였으며, 두나무는 디지털자산 거래소 최초로 행정안전부의 행정정보 공동이용 대상기관에 지정됐다. ◆ 카카오뱅크, ‘모바일...",
+      "pubDate": "2026-08-26T08:10:00+00:00",
+      "category": "카카오페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "네이버파이낸셜, 비금융 데이터로 소상공인·중저신용자 대출 심사",
+      "link": "https://n.news.naver.com/mnews/article/277/0005807755?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026082617060963513",
+      "description": "금융위원회는 네이버파이낸셜의 '금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스'를 지정대리인으로 26일 지정했다. 기존 금융정보만으로 충분한 신용평가를 받기 어려웠던 소상공인과 중·저신용자의...",
+      "pubDate": "2026-08-26T08:06:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "네이버파이낸셜, 비금융데이터로 중저신용자 대출심사한다",
+      "link": "https://n.news.naver.com/mnews/article/001/0016272704?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260826153900002?input=1195m",
+      "description": "금융위, 지정대리인 지정…\"포용금융 확산 기대\" 금융위원회는 26일 지정대리인 심사위원회를 열고 네이버파이낸셜의 '금융소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스'를 지정대리인으로 지정했다....",
+      "pubDate": "2026-08-26T07:55:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "“쇼핑·결제 데이터로 대출 문턱 낮춘다”…네이버파이낸셜, 대안신용...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002239090?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026082616533472423",
+      "description": "네이버파이낸셜이 스마트스토어 판매 실적과 결제·콘텐츠 활동 등 비금융 데이터를 활용해 소상공인과 중·저신용자의 신용을 평가한다. 기존 금융정보만으로 신용도를 충분히 인정받기 어려웠던 금융 소외계층의 대출...",
+      "pubDate": "2026-08-26T07:54:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "네이버파이낸셜, 비금융 데이터로 중·저신용자 대출 심사",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1721818",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1721818",
+      "description": "네이버파이낸셜이 스마트스토어 판매 실적과 결제 정보 등 비금융 데이터를 활용해 소상공인과 중·저신용자의 대출 가능성을 평가하는 대안신용평가 서비스를 선보인다. 케이뱅크와 웰컴저축은행은 이 평가를 토대로...",
+      "pubDate": "2026-08-26T07:50:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "'스마트스토어 매출'도 신용점수로…네이버파이낸셜, 대출심사 참여",
+      "link": "https://n.news.naver.com/mnews/article/374/0000529521?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000330929?division=NAVER",
+      "description": "앞으로 네이버파이낸셜이 금융회사의 대출심사 업무 일부를 위탁받아 금융·비금융 데이터를 활용한 대안신용평가에 나섭니다. 금융위원회는 오늘(26일) '제10차 지정대리인 심사위원회'를 열고 네이버파이낸셜의 '금융...",
+      "pubDate": "2026-08-26T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "네이버파이낸셜, 케뱅·웰컴저축銀 중저신용자 대출 심사한다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009134233?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-finance/6270395",
+      "description": "네이버파이낸셜이 결제 정보 등 비금융 데이터를 활용해 케이뱅크와 웰컴저축은행의 중저신용자 대출 심사를 맡게 된다. 금융위원회는 26일 제10차 지정대리인 심사위원회를 열고 이같이 결정했다고 밝혔다. 핀테크업체인...",
+      "pubDate": "2026-08-26T07:43:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "네이버파이낸셜의 비금융 데이터 대출심사 지정대리인 지정",
+      "link": "https://n.news.naver.com/mnews/article/008/0005405137?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/08/26/2026082616271475960",
+      "description": "네이버파이낸셜의 '금융 소외계층을 위한 비금융 데이터 기반 신용대출 심사 서비스'가 지정대리인으로 지정됐다. 이에 따라 네이버파이낸셜이 소상공인과 중·저신용자의 비금융 데이터를 활용해 대안신용평가를...",
+      "pubDate": "2026-08-26T07:33:00+00:00",
+      "category": "네이버페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이, 체크카드에 ‘머니’ 연결…하나카드부터 서비스",
+      "link": "https://n.news.naver.com/mnews/article/138/0002239069?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026082615505785134",
+      "description": "카카오페이가 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 ‘내 카드 머니연결’ 서비스를 출시했다고 26일 밝혔다. ‘내 카드 머니연결’은 실물 체크카드에 카카오페이머니를 결합한 서비스다. 이미 발급된...",
+      "pubDate": "2026-08-26T06:56:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오페이, 쓰던 체크카드에 카카오페이머니 연결하는 서비스 선봬",
+      "link": "https://n.news.naver.com/mnews/article/020/0003743507?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20260826/134548512/1",
+      "description": "체크카드 이용자가 현재 사용 중인 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스가 나왔다. 이미 발급된 체크카드에 선불 충전금을 연결하는 방식은 국내 최초라고 카카오페이 측은 설명했다. 서비스는...",
+      "pubDate": "2026-08-26T06:49:00+00:00",
+      "category": "카카오페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "\"쓰던 체크카드 그대로\"…카카오페이, '내 카드 머니연결' 출시",
+      "link": "https://n.news.naver.com/mnews/article/003/0014149917?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260826_0003763657",
+      "description": "기존에 사용하던 체크카드를 결제 수단으로 유지하면서도 모든 금융 계좌와 연결되는 카카오페이머니의 결제 편의성을 같이 활용할 수 있는 서비스가 나왔다. 카카오페이는 보유 체크카드에 카카오페이머니를 연결해...",
+      "pubDate": "2026-08-26T06:15:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이, 기존 체크카드에 '카카오페이머니' 연결…새 카드 없이 결...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207186",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=207186",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이가 새 카드를 발급받지 않고 기존에 사용하던 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스를 선보인다. 체크카드와 특정 은행계좌 간 연결 구조를 넘어 다양한...",
+      "pubDate": "2026-08-26T05:56:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "카카오페이 ‘내 카드 머니연결’ 시작…연말까지 1% 추가 적립",
+      "link": "https://n.news.naver.com/mnews/article/009/0005726061?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12136735",
+      "description": "카카오페이는 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 ‘내 카드 머니연결’ 서비스를 선보인다고 26일 밝혔다. 이 서비스는 이미 발급된 실물 체크카드에 선불충전금을 연결하는 방식으로, 카드를 새로...",
+      "pubDate": "2026-08-26T05:33:00+00:00",
+      "category": "카카오페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "쓰던 체크카드에 카카오페이머니 연결한다…카카오페이, '내 카드 머니...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=130822",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=130822",
+      "description": "카카오페이가 이용자가 보유한 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스를 선보였다. 새 카드를 발급받거나 별도 계좌를 개설하지 않고도 기존 체크카드를 선불충전금 결제 수단으로 활용할 수 있게 한...",
+      "pubDate": "2026-08-26T04:54:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "\"쓰던 체크카드 그대로\"…카카오페이, '내 카드 머니연결' 서비스 출시",
+      "link": "https://n.news.naver.com/mnews/article/215/0001263691?sid=101",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608260473&t=NN",
+      "description": "카카오페이가 사용자가 기존에 보유한 체크카드에 카카오페이머니를 연결해 자유롭게 결제할 수 있는 ‘내 카드 머니연결’ 서비스를 출시했다. ‘내 카드 머니연결’은 사용자가 익숙하게 쓰던 실물 체크카드에...",
+      "pubDate": "2026-08-26T04:51:00+00:00",
+      "category": "카카오페이",
+      "source": "owtv"
+    },
+    {
+      "title": "카카오페이, 기존 체크카드에 카카오페이머니 연결…재발급 없이 결제",
+      "link": "https://www.g-enews.com/view.php?ud=202608261110111918cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202608261110111918cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 기존에 사용하던 체크카드를 그대로 활용하면서 카카오페이머니로 결제할 수 있는 서비스를 선보였다. 카카오페이는 별도의 카드 재발급이나 계좌 개설 없이 기존 체크카드에 카카오페이머니를...",
+      "pubDate": "2026-08-26T04:04:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오페이 \"쓰던 체크카드에 카카오페이머니 연결하세요\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009133428?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6269961",
+      "description": "카카오페이(377300)가 별도 카드 재발급 없이 사용자가 기존에 쓰던 체크카드에 카카오페이머니를 연결해 쓸 수 있는 '내 카드 머니연결' 서비스를 출시했다고 26일 밝혔다. 내 카드 머니연결은 실물 체크카드에...",
+      "pubDate": "2026-08-26T03:36:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이, 체크카드에 페이머니 연결 '국내 최초'",
+      "link": "https://www.sentv.co.kr/article/view/sentv202608260076",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202608260076",
+      "description": "카카오페이가 기존에 보유한 체크카드에 카카오페이머니를 연결해 결제할 수 있는 '내 카드 머니연결' 서비스를 출시했다고 26일 밝혔다. 별도의 카드 재발급 없이 사용자가 쓰던 체크카드 그대로 카카오페이머니의...",
+      "pubDate": "2026-08-26T02:20:00+00:00",
+      "category": "카카오페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "카카오페이 충전금으로 체크카드 결제 가능해진다…\"국내 최초\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005807564?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026082611192592368",
+      "description": "카카오페이머니 충전금을 체크카드 결제에 활용할 수 있게 된다. 이미 발급된 체크카드에 선불충전금을 연결하는 방식이 국내에 도입되는 건 처음이다. 카카오페이는 체크카드에 카카오페이머니를 연결해 결제할 수 있는...",
+      "pubDate": "2026-08-26T02:19:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "카카오페이, 쓰던 체크카드에 '머니연결'…결제 편의성 강화",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=88969",
+      "originallink": "https://www.the-today.com/news/articleView.html?idxno=88969",
+      "description": "카카오페이가 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 '내 카드 머니연결' 서비스를 선보였다. 별도의 카드 재발급이나 계좌 개설 없이 다양한 금융계좌를 연결할 수 있도록 해 결제 편의성을 높인 것이...",
+      "pubDate": "2026-08-26T02:18:00+00:00",
+      "category": "카카오페이",
+      "source": "더투데이"
+    },
+    {
+      "title": "카카오페이 체크카드에 머니 연결한 이유",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=748916",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=748916",
+      "description": "카카오페이(대표 신원근)는 사용자가 기존에 보유한 체크카드에 카카오페이머니를 연결해 자유롭게 결제할 수 있는 '내 카드 머니연결' 서비스를 출시했다고 밝혔다. 별도의 카드 재발급 없이 이용할 수 있다는 점이...",
+      "pubDate": "2026-08-26T02:14:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "쓰던 카드 그대로…카카오페이, 하나 체크카드에 '머니' 연결",
+      "link": "https://n.news.naver.com/mnews/article/119/0003125545?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1682464/?sc=Naver",
+      "description": "카카오페이가 별도 카드 발급 없이 기존 하나카드 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스를 선보인다. 현재 하나카드 체크카드에 우선 적용되며 향후 제휴 카드사를 순차적으로 확대할 예정이다. 26일...",
+      "pubDate": "2026-08-26T02:05:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "카카오페이, '쓰던 체크카드 그대로' 연동 결제…페이머니 활용도 높여",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265987",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=265987",
+      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이)  카카오페이가 별도의 카드 재발급 없이 기존에 보유한 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스를 선보인다. 발급된 체크카드에 선불충전금을 연결하는...",
+      "pubDate": "2026-08-26T01:52:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "카카오페이 충전금으로도 체크카드 결제 가능",
+      "link": "https://n.news.naver.com/mnews/article/015/0005324856?sid=101",
+      "originallink": "https://www.hankyung.com/article/202608263524i",
+      "description": "카카오페이머니에 넣어둔 돈을 현재 사용 중인 체크카드의 결제에 쓰는 것이 가능해진다. 이미 발급된 체크카드에 선불충전금을 연결하는 방식이 국내에 도입되는 것은 이번이 처음이다. 카카오페이는 25일 체크카드에...",
+      "pubDate": "2026-08-26T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "카카오페이 '내 카드 머니연결' 서비스 출시",
+      "link": "http://www.lawissue.co.kr/view.php?ud=2026082610293233639817d053b9_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026082610293233639817d053b9_12",
+      "description": "카카오페이가 새 카드 발급 없이 보유 중인 체크카드에 카카오페이머니를 연결하는 '내 카드 머니연결' 서비스를 26일 출시했다고 밝혔다. 카카오페이에 따르면 이 서비스는 기존 체크카드에 선불충전금을 연결하는...",
+      "pubDate": "2026-08-26T01:32:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "\"체크카드 재발급 없이 페이머니 쓴다\" 카카오페이 '내 카드 머니연결'...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=127720",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=127720",
+      "description": "카카오페이가 기존 실물 체크카드에 카카오페이머니를 결제 수단으로 직접 연결하는 서비스를 선보였다. [이미지 카카오페이] 카카오페이가 기존 실물 체크카드에 카카오페이머니를 결제 수단으로 직접 연결하는...",
+      "pubDate": "2026-08-26T00:56:00+00:00",
+      "category": "카카오페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "카카오페이, 체크카드·카카오페이머니 연결하는 ‘내 카드 머니연결’...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002688510?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10852354?ref=naver",
+      "description": "카카오페이가 기존에 보유한 체크카드에 카카오페이머니를 연결해 자유롭게 결제할 수 있는 ‘내 카드 머니연결’ 서비스를 출시했다고 26일 밝혔다. ‘내 카드 머니연결’은 별도의 카드 재발급 없이 사용자가 보유한...",
+      "pubDate": "2026-08-26T00:53:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "카카오페이, 개인정보 관련 제재 189억원…ESG 보고서엔 '0원'",
+      "link": "https://www.consumuch.com/news/articleView.html?idxno=78863",
+      "originallink": "https://www.consumuch.com/news/articleView.html?idxno=78863",
+      "description": "카카오페이는 업무 위탁에 따른 적법한 이전이라고 주장했지만 1심 법원은 알리페이를 거쳐 애플에 개인정보가 전달된 구조를 제3자 제공으로 판단했다. ■재무제표엔 59억6800만 원 '충당부채' 계상 카카오페이가...",
+      "pubDate": "2026-08-25T23:40:00+00:00",
+      "category": "카카오페이",
+      "source": "컨슈머치"
+    },
+    {
+      "title": "카카오페이, 체크카드에 선불충전금 연결하는 '내 카드 머니연결' 선보...",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=210837",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=210837",
+      "description": "보유 중인 체크카드 재발급 없이 카카오페이머니 결제 연동  빅테크와 간편결제 업체들이 사용자의 결제... 혜택과 결제 적립을 동시에 제공하는 '네이버페이 하나 통장'을 출시해 호응을 얻은 바 있으며, 토스 역시 자사...",
+      "pubDate": "2026-08-25T23:38:00+00:00",
+      "category": "카카오페이",
+      "source": "SR타임스"
+    },
+    {
       "title": "[들어보니]키움·카카오페이證, 반대매매·강제청산에 개미만 당했다",
       "link": "https://www.nspna.com/news/?mode=view&newsid=825497",
       "originallink": "https://www.nspna.com/news/?mode=view&newsid=825497",
@@ -4057,7 +4759,7 @@
       "description": "삼성월렛 포인트는 현재 가입자 250만 명을 확보한 선불형 간편결제 서비스로, 삼성 월렛 앱을 통해 국내 온·오프라인 가맹점에서 사용할 수 있다. 연회비는 없으며 삼성 월렛 앱에서 카드 발급을 신청할 수 있다....",
       "pubDate": "2026-08-04T23:50:00+00:00",
       "category": "삼성페이",
-      "source": "베이비뉴스"
+      "source": "임신·출산·육아전문언론ㅣ베이비뉴스"
     },
     {
       "title": "'최대 실적' 카카오페이의 자신감 \"손보 자회사 손익분기점 조기 달성\"",
@@ -19837,5 +20539,5 @@
       "source": "Ϻ"
     }
   ],
-  "lastFetch": "2026-08-25T23:37:02.450027+00:00"
+  "lastFetch": "2026-08-27T04:34:04.012249+00:00"
 }
