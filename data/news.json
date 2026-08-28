@@ -1,6 +1,861 @@
 {
   "articles": [
     {
+      "title": "하나카드, 카카오페이와 체크카드 연계 결제 서비스 출시",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=120933",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=120933",
+      "description": "사진=하나카드 하나카드가 카카오페이와 손잡고 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스를 선보인다. 하나카드는 별도 카드 발급 없이 보유 중인 체크카드로 카카오페이머니를 이용할 수 있는...",
+      "pubDate": "2026-08-28T06:44:00+00:00",
+      "category": "카카오페이",
+      "source": "딜라이트닷넷"
+    },
+    {
+      "title": "한국간편결제진흥원, 거제·통영 수해 복구에 성금 2천만원 기부",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131971",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=131971",
+      "description": "한국간편결제진흥원 로고 (이미지=한국간편결제진흥원) 한국간편결제진흥원이 집중호우로 피해를 입은 경남 거제시와 통영시의 수해 복구와 피해 주민 지원을 위해 성금 2천만원을 기부했다. 한국간편결제진흥원(한결원)...",
+      "pubDate": "2026-08-28T06:44:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "토스, 우리금융저축은행과 '소호스코어' 개인사업자 신용대출 출시",
+      "link": "https://n.news.naver.com/mnews/article/215/0001264040?sid=101",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608280517&t=NN",
+      "description": "양사는 지난 27일 서울 강남구 역삼동 아크플레이스에서 관련 업무협약(MOU)을 체결했다. 협약식에는 이석태 우리금융저축은행 대표와 김규하 토스 부대표 등을 비롯한 주요 관계자들이 참석했다. 이번에 출시한 상품은...",
+      "pubDate": "2026-08-28T06:32:00+00:00",
+      "category": "토스페이",
+      "source": "owtv"
+    },
+    {
+      "title": "카카오페이, 스테이블코인 사업 속도…VASP·인프라 인력 수혈",
+      "link": "https://n.news.naver.com/mnews/article/018/0006359726?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03834326645551912&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "카카오 인적분할로 그룹 사업구조가 윤곽을 드러낸 가운데 카카오페이가 원화 스테이블코인 사업에 속도를 내고 있다. 카카오X 관계사와 기술 검증과 사업 협력을 진행한 데 이어 스테이블코인 발행 인프라와 월렛...",
+      "pubDate": "2026-08-28T06:30:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "헥토파이낸셜, 아시아 핀테크 톱30 선정…크로스보더 결제로 해외사업 ...",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=207178",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=207178",
+      "description": "회사는 국내 간편현금결제와 PG 사업을 기반으로 해외 결제·송금 등으로 사업 영역을 확대하고 있다. 글로벌 사업 거래 규모는 지난해 전년 대비 170.3% 증가했다. 특히 서클(Circle)이 구축한 'CPN(Circle Payments Network)'의...",
+      "pubDate": "2026-08-28T06:30:00+00:00",
+      "category": "간편결제",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "피티코리아, 카카오페이 '심은자 캠페인'으로 에피어워드 코리아 '실버...",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214101",
+      "originallink": "https://www.datanet.co.kr/news/articleView.html?idxno=214101",
+      "description": "디지털 마케팅 전문기업 피티코리아(대표 지원규, PTKOREA)는 에피어워드 코리아에서 카카오페이의 '심은자 캠페인'으로 실버(Silver)를 수상했다고 밝혔다. 에피어워드는 1968년 미국에서 시작돼 전 세계 125개국에서...",
+      "pubDate": "2026-08-28T06:10:00+00:00",
+      "category": "카카오페이",
+      "source": "데이터넷"
+    },
+    {
+      "title": "넵튠, 카카오페이 '미니게임 파트너'로 선정 ··· H5 게임 공급",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=214099",
+      "originallink": "https://www.datanet.co.kr/news/articleView.html?idxno=214099",
+      "description": "넵튠(대표 강율빈)이 카카오페이(대표 신원근)와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너로 참여한다. 넵튠은 금융 플랫폼 특성상 게임 공급 진입 장벽이 높은 구조에도 안정성, 보안 등 높은...",
+      "pubDate": "2026-08-28T06:00:00+00:00",
+      "category": "카카오페이",
+      "source": "데이터넷"
+    },
+    {
+      "title": "카카오페이 부캐 '심은자' 통했다…'에피 어워드 코리아' 은상",
+      "link": "https://n.news.naver.com/mnews/article/030/0003461327?sid=101",
+      "originallink": "https://www.etnews.com/20260828000202",
+      "description": "카카오페이가 해외결제 브랜드 캠페인으로 '2026 에피 어워드 코리아'에서 은상을 수상했다. 에피 어워드는 1968년 미국에서 시작돼 전 세계 55개 이상 지역에서 시행되고 있는 마케팅 분야 세계적인 권위의 시상식이다....",
+      "pubDate": "2026-08-28T05:34:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[보험·카드24시] 우리금융저축은행, 토스 소상공인 대출 출시外",
+      "link": "https://news.dealsitetv.com/articles/175332",
+      "originallink": "https://news.dealsitetv.com/articles/175332",
+      "description": "◆하나카드, 체크카드에 카카오페이머니 연결 서비스 출시 하나카드가 카카오페이와 손잡고 기존 보유한 체크카드에 카카오페이머니를 연결해 자유롭게 결제할 수 있는 ‘내 카드 머니연결’ 서비스를 업계 최초로...",
+      "pubDate": "2026-08-28T05:30:00+00:00",
+      "category": "토스페이",
+      "source": "dealsitetv"
+    },
+    {
+      "title": "헥토파이낸셜, \"아시아 핀테크 '톱30' 선정돼\"",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207345",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=207345",
+      "description": "헥토파이낸셜은 현재 연간 1200조원 이상의 거래를 처리하고 있으며 국내 간편현금결제 시장을 기반으로 국내외 가맹점에 결제·금융 서비스를 제공하고 있다. 2025년 크로스보더 거래 규모는 전년 대비 170.3% 증가했다....",
+      "pubDate": "2026-08-28T05:30:00+00:00",
+      "category": "간편결제",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "애플페이 확 달라진다…이제 포인트로 결제까지",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696361",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696361",
+      "description": "애플이 iOS 27에서 애플페이 결제 화면을 개편하고 리워드 포인트 사용·직불카드 충전 등 새 기능을 추가한다. [사진: 애플] 애플이 애플페이 결제 화면을 개편하고 아메리칸 익스프레스 리워드 포인트 사용과 '탭 투...",
+      "pubDate": "2026-08-28T05:26:00+00:00",
+      "category": "애플페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오페이 '심은자' 캠페인 에피 어워드서 은상 받았다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=749182",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=749182",
+      "description": "토스와 네이버페이 등 경쟁 서비스들도 여행·해외결제를 소재로 한 콘텐츠 마케팅을 강화하고 있다. 카카오페이가 이번 캠페인으로 화제성과 실사용 지표를 동시에 끌어올렸다는 점에서 업계의 시선이 집중되고...",
+      "pubDate": "2026-08-28T04:52:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "헥토파이낸셜, 아시아 핀테크 '톱30' 선정…크로스보더 경쟁력 인정",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=309243",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=309243",
+      "description": "향후 간편현금결제와 전자지급결제대행(PG) 등 기존 사업을 기반으로 크로스보더 결제와 해외 송금, 스테이블코인 등으로 사업 영역을 확대할 계획이다. 최종원 헥토파이낸셜 대표는 \"이번 대상 후보 선정은 국내...",
+      "pubDate": "2026-08-28T04:42:00+00:00",
+      "category": "간편결제",
+      "source": "FETV"
+    },
+    {
+      "title": "넵튠, 카카오페이 미니게임 파트너사 선정...H5 사업 확대",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=543647",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=543647",
+      "description": "|중앙이코노미뉴스 엄현식 기자|넵튠이 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다. [사진=넵튠]  넵튠이 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이...",
+      "pubDate": "2026-08-28T04:12:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이 해외결제 이용자 15.5% 증가…NFC 확장·캠페인 에피상",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134276",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=134276",
+      "description": "카카오페이는 해외결제 캠페인을 진행한 기간 이용자가 15.5%, 결제 건수가 16.9% 증가했으며 해당 캠페인으로 마케팅 시상식에서 은상을 받았다. 카카오페이는 해외결제 브랜드 캠페인 'CASH IS UNCOOL'이 '2026 에피 어워드...",
+      "pubDate": "2026-08-28T03:16:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "카카오페이 해외결제 캠페인, '에피 어워드' 은상",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90861",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=90861",
+      "description": "카카오페이의 해외결제 브랜드 캠페인 '캐시 이스 언쿨(CASH IS UNCOOL)'이 '2026 에피 어워드 코리아'에서 은상(실버)을 받았다. '캐시 이스 언쿨'은 배우 심은경의 부캐릭터 '심은자'를 활용해 해외여행 중 현금을 사용할...",
+      "pubDate": "2026-08-28T03:12:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "넵튠, 카카오페이 미니게임 파트너사 선정…자체 IP H5 게임 공급",
+      "link": "https://n.news.naver.com/mnews/article/031/0001053272?sid=105",
+      "originallink": "http://www.inews24.com/view/1999389",
+      "description": "넵튠(대표 강율빈)은 카카오페이(대표 신원근)와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 28일 밝혔다. 미니게임은 카카오페이가 올해 2월 출시한 서비스다. 이용자들이 다양한...",
+      "pubDate": "2026-08-28T02:54:00+00:00",
+      "category": "카카오페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "넵튠, 카카오페이에 미니게임 공급한다",
+      "link": "https://www.tokenpost.kr/news/tech/399465",
+      "originallink": "https://www.tokenpost.kr/news/tech/399465",
+      "description": "넵튠이 카카오페이와 게임 콘텐츠 공급 계약을 맺고 카카오페이 미니게임에 H5 게임을 공급한다. 자체 지식재산권(IP)과 제휴 게임사의 캐주얼게임을 선별해 플랫폼 이용자에게 제공하는 방식이다. 넵튠은 28일...",
+      "pubDate": "2026-08-28T02:42:00+00:00",
+      "category": "카카오페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "마이크로닉스, 'WIZMAX 릿지 PRO' 케이스 구매 인증 시 네이버페이 증정",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60485",
+      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=60485",
+      "description": "대상으로 네이버페이를 지급하는 페이백 사은 혜택을 전개했다. WIZMAX 릿지 프로는 강력한 공기 순환과 정숙한 구동 환경을 동시에 구축하기 위한 설계를 적용했다. 전면 전체에 대면적 허니콤 메쉬를 적용하고...",
+      "pubDate": "2026-08-28T02:32:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털포스트(PC사랑)"
+    },
+    {
+      "title": "카카오페이, 해외결제 편의성 알린 캠페인 '에피어워드 은상' 수상",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266108",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266108",
+      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이)  카카오페이가 해외에서 현금결제 시 겪을 수 있는 불편을 소개하고 카카오페이만의 해외결제 편의성을 알리기 위해 기획한 해외결제 캠페인 'CASH IS UNCOOL'이 2026 에피...",
+      "pubDate": "2026-08-28T02:30:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "넵튠, 카카오페이 미니게임 파트너사 참여",
+      "link": "https://m.sports.naver.com/esports/article/236/0000256634",
+      "originallink": "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=155492",
+      "description": "넵튠은 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 28일 밝혔다. '미니게임'은 금융 서비스를 넘어 사용자의 일상에 자연스럽게 연결되는 생활 금융 플랫폼을 지향하는...",
+      "pubDate": "2026-08-28T02:26:00+00:00",
+      "category": "카카오페이",
+      "source": "fomos"
+    },
+    {
+      "title": "카카오페이 해외결제 캠페인, ‘2026 에피 어워드 코리아’ 은상",
+      "link": "https://www.viva100.com/article/20260828500280",
+      "originallink": "https://www.viva100.com/article/20260828500280",
+      "description": "카카오페이는 해외결제 브랜드 캠페인 ‘CASH IS UNCOOL’이 ‘2026 에피 어워드 코리아’에서 은상을 수상했다고 28일 밝혔다. 에피 어워드는 1968년 미국에서 시작된 마케팅 시상식으로 캠페인의 창의성뿐 아니라 실제...",
+      "pubDate": "2026-08-28T02:20:00+00:00",
+      "category": "카카오페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "카카오페이, 해외결제 캠페인으로 에피 어워드 은상 수상",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=131084",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=131084",
+      "description": "카카오페이가 해외결제 브랜드 캠페인 'CASH IS UNCOOL'로 '2026 에피 어워드 코리아' 은상을 받았다. 캠페인 전개 기간 해외결제 이용자 수와 결제 건수가 각각 15.5%, 16.9% 증가하면서 광고의 화제성을 실제 서비스...",
+      "pubDate": "2026-08-28T02:16:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "하나카드·카카오페이, 금융계좌와 체크카드 잇는 '내 카드 머니연결' ...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=131081",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=131081",
+      "description": "하나카드가 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스를 선보였다. 별도의 카드를 추가로 발급받지 않고도 은행과 증권사, 저축은행 등의 계좌에서 카카오페이머니를 충전해 쓰던 하나 체크카드로...",
+      "pubDate": "2026-08-28T02:02:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "한국간편결제진흥원, 거제·통영 수해 복구 지원 성금 2000만원 기부",
+      "link": "http://www.intn.co.kr/news/articleView.html?idxno=2052874",
+      "originallink": "http://www.intn.co.kr/news/articleView.html?idxno=2052874",
+      "description": "한국간편결제진흥원(이사장 권대수)은 집중호우로 피해를 입은 경남 거제시와 통영시의 신속한 수해 복구와 피해 주민 지원을 위해 총 2000만원의 성금을 기부했다고 28일 밝혔다. 지난 광복절 연휴 기간 경남 남부...",
+      "pubDate": "2026-08-28T02:02:00+00:00",
+      "category": "간편결제",
+      "source": "日刊 NTN(일간NTN)"
+    },
+    {
+      "title": "삼성 간편결제 생태계 확장에...갤럭시아머니트리·다날 등 상승 랠리",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481469",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481469",
+      "description": "네이버 증권. 삼성전자의 스마트폰 온디바이스 AI 적용 확대와 함께 모바일 간편결제 생태계가 확장되면서... KG파이낸셜, 한국정보통신, 효성ITX 등도 일제히 상승 대열에 합류중이다. 반면 모듈 및 플랫폼 관련주인...",
+      "pubDate": "2026-08-28T01:50:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "헥토파이낸셜, 'AFA 어워즈' 亞대표 핀테크 톱30 선정",
+      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=362360",
+      "originallink": "http://www.smedaily.co.kr/news/articleView.html?idxno=362360",
+      "description": "헥토파이낸셜은 연간 1200조원 이상의 거래를 안정적으로 처리하고 있으며, 국내 간편현금결제 시장 1위 사업자로서 다양한 국내외 가맹점에 결제 및 금융 서비스를 제공하고 있다. 글로벌 사업도 성장 추세로...",
+      "pubDate": "2026-08-28T01:50:00+00:00",
+      "category": "간편결제",
+      "source": "중소기업신문"
+    },
+    {
+      "title": "카카오페이, 해외결제 캠페인으로 '2026 에피 어워드 코리아' 은상 수상",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=211084",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=211084",
+      "description": "카카오페이가 해외결제 브랜드 캠페인 '캐시 이즈 언쿨(CASH IS UNCOOL)'로 '2026 에피 어워드 코리아(2026 Effie Awards Korea, 이하 에피 어워드)'에서 은상을 받았다고 28일 밝혔다. 에피 어워드는 1968년 미국에서 시작해 전 세계...",
+      "pubDate": "2026-08-28T01:42:00+00:00",
+      "category": "카카오페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "넵튠, 카카오페이 미니게임 파트너사 선정",
+      "link": "https://m.sports.naver.com/esports/article/442/0000195962",
+      "originallink": "https://www.inven.co.kr/webzine/news/?news=320115",
+      "description": "넵튠은 28일 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 밝혔다. 카카오페이가 올해 2월 출시한 '미니게임'은 이용자가 게임과 간단한 미션을 수행하면 카카오페이...",
+      "pubDate": "2026-08-28T01:39:00+00:00",
+      "category": "카카오페이",
+      "source": "인벤"
+    },
+    {
+      "title": "헥토파이낸셜, ‘AFA 어워즈 2026’ 아시아 핀테크 톱30 선정",
+      "link": "https://n.news.naver.com/mnews/article/138/0002239340?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026082810255322060",
+      "description": "회사는 연간 1200조원 이상의 거래를 처리하는 국내 간편현금결제 1위 사업자다. 지난해 글로벌 사업 거래 규모는 전년 대비 170.3% 증가했다. 글로벌 스테이블코인 기업 서클이 구축한 ‘CPN’의 국내 유일 파트너로 USDC...",
+      "pubDate": "2026-08-28T01:37:00+00:00",
+      "category": "간편결제",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "'맞손' 토스·우리금융저축은행, 개인사업자 신용대출 출시",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=80898",
+      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=80898",
+      "description": "지난 27일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 우리금융저축은행의 업무협약식에서 이석태 우리금융저축은행 대표(왼쪽)와 김규하 토스 부대표가 기념 사진을 촬영하고 있다.  사진=토스 | 뉴스워치= 박수진...",
+      "pubDate": "2026-08-28T01:32:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스워치"
+    },
+    {
+      "title": "카카오페이, 해외결제 캠페인 에피 어워드 은상 수상",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317116",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317116",
+      "description": "카카오페이가 해외결제 캠페인 'CASH IS UNCOOL'로 '2026 에피 어워드 코리아'에서 은상을 수상하고 기념촬영을 하고 있다. 사진=카카오페이  카카오페이가 배우 심은경의 부캐릭터를 활용한 해외결제 브랜드 마케팅으로...",
+      "pubDate": "2026-08-28T01:28:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스 소호스코어, 우리저축은행 첫 적용",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=260238",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=260238",
+      "description": "28일 토스 운영사 비바리퍼블리카에 따르면 토스와 우리금융저축은행은 전날 서울 강남구 아크플레이스에서 업무협약을 맺고 '비타WON [BIZ]'를 선보였다. 4대 금융지주 계열 저축은행 가운데 토스 소호스코어를 대출상품...",
+      "pubDate": "2026-08-28T01:20:00+00:00",
+      "category": "토스페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "하나카드, 카카오페이와 '내 카드 머니연결' 서비스 출시...결제 편의성...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=260301",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=260301",
+      "description": "하나카드가 카카오페이와 손잡고 기존 보유 카드에 카카오페이머니를 연동해 쓸 수 있는 신규 결제 서비스를 업계 처음으로 선보인다. 하나카드는 별도의 카드 추가 발급 없이 기존에 보유한 하나 체크카드에...",
+      "pubDate": "2026-08-28T01:18:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "[포토뉴스] 카카오페이, '2026 에피 어워드 코리아' 은상 수상",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1013224",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1013224",
+      "description": "카카오페이가 해외결제 브랜드 캠페인 'CASH IS UNCOOL'로 '2026 에피 어워드 코리아(2026 Effie Awards Korea)'에서 은상(실버)을 수상했다고 28일 밝혔다. 'CASH IS UNCOOL'은 배우 심은경이 부캐(부캐릭터) '심은자...",
+      "pubDate": "2026-08-28T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "토스, 우리금융저축은행과 손잡고 신용대출 출시",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317114",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317114",
+      "description": "27일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 우리금융저축은행의 업무협약식에서 (왼쪽부터)이석태 우리금융저축은행 대표와 김규하 토스 부대표가 기념 사진을 촬영하고 있다. 사진=토스  토스(운용사...",
+      "pubDate": "2026-08-28T01:14:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "넵튠, 카카오페이와 게임 콘텐츠 공급 계약 체결... 자체 IP H5 게임 공급",
+      "link": "https://gamefocus.co.kr/detail.php?number=178638",
+      "originallink": "https://gamefocus.co.kr/detail.php?number=178638",
+      "description": "㈜넵튠(대표 강율빈)이 카카오페이(대표 신원근)와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 ‘미니게임’ 파트너사로 참여한다고 밝혔다. 미니게임은 금융 서비스를 넘어 사용자의 일상에 자연스럽게 연결되는...",
+      "pubDate": "2026-08-28T01:12:00+00:00",
+      "category": "카카오페이",
+      "source": "gamefocus"
+    },
+    {
+      "title": "토스·우리금융저축은행 손잡았다…개인사업자 신용대출에 ‘소호스코...",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202608281010548980de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202608281010548980de3f0aa1be_7",
+      "description": "양사는 지난 27일 서울 강남구 역삼동 아크플레이스에서 관련 업무협약(MOU)을 체결했다. 협약식에는 이석태 우리금융저축은행 대표와 김규하 토스 부대표 등이 참석했다. ‘비타WON BIZ’는 토스에서 단독 판매하는 비대면...",
+      "pubDate": "2026-08-28T01:12:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "넵튠, 카카오페이에 H5게임 공급...미니게임 사업 강화",
+      "link": "https://n.news.naver.com/mnews/article/092/0002435414?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260828094920",
+      "description": "넵튠(대표 강율빈)은 카카오페이(대표 신원근)와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 ‘미니게임’ 파트너사로 참여한다고 28일 밝혔다. 미니게임은 금융 서비스를 넘어 사용자의 일상에 자연스럽게 연결되는...",
+      "pubDate": "2026-08-28T01:10:00+00:00",
+      "category": "카카오페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "PTKOREA, 카카오페이 캠페인 에피어워드 실버 수상",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=860284",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=860284",
+      "description": "PTKOREA | 서울=한스경제 김종효 기자 | PTKOREA는 카카오페이 해외결제 캠페인 '심은자 캠페인'으로 에피어워드 코리아에서 실버를 수상했다고 28일 밝혔다. 에피어워드는 1968년 미국에서 시작된 세계적 권위의 마케팅...",
+      "pubDate": "2026-08-28T01:10:00+00:00",
+      "category": "카카오페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "헥토파이낸셜, AFA 어워즈 亞대표 핀테크 기업 톱30 선정",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=300220",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=300220",
+      "description": "헥토파이낸셜은 간편현금결제 등 계좌 기반 금융 서비스와 PG(전자지급결제대행) 등 결제 서비스를 넘어 ▲크로스보더 결제 ▲해외 송금 ▲스테이블코인 등으로 사업 영역을 확대하며 '원스톱 크로스보더 금융 허브...",
+      "pubDate": "2026-08-28T01:04:00+00:00",
+      "category": "간편결제",
+      "source": "와이드경제"
+    },
+    {
+      "title": "넵튠, 카카오페이와 맞손...앱 내 H5 기반 '미니게임' 공급",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481430",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481430",
+      "description": "넵튠이 카카오페이에 HTML5(H5) 기반 캐주얼 게임을 공급한다. 사진=넵튠 넵튠이 카카오페이에 HTML5(H5) 기반 캐주얼 게임을 공급하며 플랫폼 대상 게임 콘텐츠 사업을 확대한다. 넵튠은 카카오페이와 게임 콘텐츠 공급...",
+      "pubDate": "2026-08-28T01:02:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "하나카드, 카카오페이와 '머니연결' 출시…기존 체크카드 활용도 넓힌다",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=80893",
+      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=80893",
+      "description": "| 뉴스워치= 송호길 기자 | 하나카드가 카카오페이와 손잡고 별도의 카드 추가 발급 없이 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 '내 카드 머니연결' 서비스를 선보인다. 28일 하나카드에 따르면 '내...",
+      "pubDate": "2026-08-28T01:02:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워치"
+    },
+    {
+      "title": "[테크스냅] 토스, 우리금융저축은행과 개인사업자 신용대출",
+      "link": "https://n.news.naver.com/mnews/article/001/0016276142?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20260828050800017?input=1195m",
+      "description": "KT, 부산교육청·언론재단에 미래 예술인 대상 AI 교육 카카오페이 해외결제 캠페인, 에피 어워드서 은상 토스가 우리금융저축은행과 손잡고 대안 신용평가 모델을 활용한 개인사업자 전용 신용대출 상품을 선보인다. KT는...",
+      "pubDate": "2026-08-28T01:00:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "하나카드, 카카오페이와 맞손...'내 카드 머니연결' 출시",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317112",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317112",
+      "description": "이미지=하나카드  하나카드가 카카오페이와 함께 '내 카드 머니연결' 서비스를 업계 최초로 선보인다고 28일 밝혔다. '내 카드 머니연결'은 고객이 평소 사용하던 하나 체크카드에 카카오페이머니의 편의성을 결합한...",
+      "pubDate": "2026-08-28T00:58:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스, 저축은행 대출에 첫 소호스코어 심사 적용한 이유는?",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=749173",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=749173",
+      "description": "양사는 27일 서울 강남구 역삼동 아크플레이스에서 업무협약(MOU)을 맺었다. 협약식에는 이석태 우리금융저축은행 대표와 김규하 토스 부대표 등 주요 관계자가 참석했다. 이번 상품 출시를 시작으로 데이터 기반 금융...",
+      "pubDate": "2026-08-28T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "넵튠, 카카오페이에도 설치 없이 즐기는 미니 게임 공급",
+      "link": "https://game.donga.com/124029/",
+      "originallink": "https://game.donga.com/124029/",
+      "description": "넵튠(대표 강율빈)은 카카오페이(대표 신원근)와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 ‘미니게임’ 파트너사로 참여한다고 28일 밝혔다. 미니게임은 카카오페이가 올해 2월 출시한 서비스로, 이용자들이...",
+      "pubDate": "2026-08-28T00:52:00+00:00",
+      "category": "카카오페이",
+      "source": "donga"
+    },
+    {
+      "title": "\"무너진 일상에 다시 손길\"…한국간편결제진흥원, 거제·통영 수해복구...",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=236580",
+      "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=236580",
+      "description": "한국간편결제진흥원(이하 한결원)은 28일 거제시와 통영시의 수해 복구 및 피해 주민 지원을 위해 총 2천만원의 성금을 전달했다고 밝혔다. 거제·통영에 각각 1천만원씩 이번 성금은 대한적십자사를 통해 거제시와...",
+      "pubDate": "2026-08-28T00:50:00+00:00",
+      "category": "간편결제",
+      "source": "한국NGO신문"
+    },
+    {
+      "title": "하나카드, 카카오페이와 `내 카드 머니연결` 서비스 출시",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/110889",
+      "originallink": "https://www.smarttoday.co.kr/ko-kr/articles/110889",
+      "description": "|스마트투데이=김한솔 기자| 하나카드가 카카오페이와 ‘내 카드 머니연결’ 서비스를 선보인다고 28일 밝혔다. ‘내 카드 머니연결’은 손님이 평소 사용하던 하나 체크카드에 카카오페이머니의 편의성을 결합한...",
+      "pubDate": "2026-08-28T00:44:00+00:00",
+      "category": "카카오페이",
+      "source": "스마트투데이"
+    },
+    {
+      "title": "[게시판] 하나카드, 카카오페이와 '내 카드 머니연결' 출시",
+      "link": "https://n.news.naver.com/mnews/article/001/0016276091?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260828045600002?input=1195m",
+      "description": "▲ 하나카드가 평소 사용하던 체크카드를 카카오페이에 연결해 결제할 수 있는 '내 카드 머니연결' 서비스를 카드 업계 최초로 출시했다고 28일 밝혔다. 이 서비스는 기존 체크카드 연동이 어려웠던 인터넷전문은행과...",
+      "pubDate": "2026-08-28T00:41:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "토스-우리금융저축은행, 개인사업자 대출 상품 출시",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=860278",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=860278",
+      "description": "양사는 지난 27일 서울 강남구 역삼동 아크플레이스에서 업무협약을 맺었다. 이석태 우리금융저축은행 대표와 김규하 토스 부대표 등 주요 관계자가 참석했다. 앞으로 데이터 기반 금융 협력을 이어갈 계획이다. '비타WON...",
+      "pubDate": "2026-08-28T00:40:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "토스, 우리금융저축은행 대출에 '소호스코어'…4대 지주 계열 첫 적용",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=187185",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=187185",
+      "description": "27일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 우리금융저축은행의 업무협약식에서 (왼쪽부터) 이석태 우리금융저축은행 대표와 김규하 토스 부대표가 기념 사진을 촬영하고 있다. 양사는 27일 서울 강남구...",
+      "pubDate": "2026-08-28T00:40:00+00:00",
+      "category": "토스페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "\"현금은 노쓸모\"…카카오페이, 에피 어워드 코리아 은상",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=543536",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=543536",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 해외결제 브랜드 캠페인 'CASH IS UNCOOL'로 '2026 에피 어워드 코리아'에서 은상을 수상했다고 28일 밝혔다. [사진=카카오페이]  카카오페이는 해외결제 브랜드 캠페인 'CASH IS...",
+      "pubDate": "2026-08-28T00:38:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "넵튠, 카카오페이 '미니게임'에 H5 게임 공급",
+      "link": "https://n.news.naver.com/mnews/article/277/0005808561?sid=105",
+      "originallink": "https://view.asiae.co.kr/article/2026082809371321659",
+      "description": "넵튠은 카카오페이와 게임 콘텐츠 공급 계약을 체결하고, 카카오페이 '미니게임' 파트너사로 참여한다고 28일 밝혔다. 미니게임은 생활 금융 플랫폼을 지향하는 카카오페이가 올해 2월 출시한 서비스다. 이용자들이...",
+      "pubDate": "2026-08-28T00:37:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "넵튠, 카카오페이 미니게임 파트너사 선정…H5 게임 공급",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696264",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696264",
+      "description": "넵튠은 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 28일 밝혔다. [사진: 넵튠] 넵튠은 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임...",
+      "pubDate": "2026-08-28T00:36:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "하나카드, 카카오페이와 '내 카드 머니연결' 서비스 출시",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=272498",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=272498",
+      "description": "하나카드는 별도의 카드를 발급받지 않고 기존 하나 체크카드로 카카오페이머니를 결제할 수 있는 '내 카드 머니연결' 서비스를 출시했다고 28일 밝혔다. 이용자가 보유한 하나 체크카드를 카카오페이머니와 연결하면...",
+      "pubDate": "2026-08-28T00:34:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "\"170.3% 커진 해외 거래\"···헥토파이낸셜, 아시아 핀테크 '톱30'",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=152386",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=152386",
+      "description": "회사는 연간 1200조원 이상의 거래를 처리하는 금융 인프라를 기반으로 간편현금결제와 전자지급결제대행(PG) 등 국내 결제 시장에서 사업을 이어왔다. 최근에는 사업 무대를 해외로 넓혀 크로스보더 결제와 정산...",
+      "pubDate": "2026-08-28T00:34:00+00:00",
+      "category": "간편결제",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "카카오페이, '심은자'로 해외결제 편의성 알렸다…에피 어워드 은상 수...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=272506",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=272506",
+      "description": "카카오페이는 자사의 해외결제 캠페인 'CASH IS UNCOOL'이 2026 에피 어워드 코리아에서 은상을 받았다고 28일 밝혔다. 지난해 9월 공개된 이번 캠페인은 해외에서 현금을 사용할 때 겪는 불편을 보여주고 카카오페이...",
+      "pubDate": "2026-08-28T00:32:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "하나카드, 카카오페이와 '내 카드 머니연결' 출시…체크카드 계좌 장벽...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=851845",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=851845",
+      "description": "하나카드가 카카오페이와 손잡고 기존 체크카드에 카카오페이머니를 연결해 결제할 수 있는 서비스를 선보인다. 별도의 카드를 발급받지 않고도 시중은행부터 인터넷전문은행, 증권사, 저축은행 계좌까지 연결할 수 있어...",
+      "pubDate": "2026-08-28T00:32:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "STO 결제 시장 선점 나선 갤럭시아머니트리… 무슨 호재 있나",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481413",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481413",
+      "description": "네이버 증권. 전자결제(전자화폐) 테마가 28일 디지털 결제 수요 확대 및 신사업 모멘텀에 힘입어 강세를... 헥토파이낸셜, 다날, NHN KCP가 상승 흐름을 타고 있다. 온라인 거래액 증가와 해외 가맹점 확대에 따른 실적...",
+      "pubDate": "2026-08-28T00:30:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "넵튠, 카카오페이 '미니게임' 파트너사로 참여",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1400239",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1400239",
+      "description": "넵튠은 카카오페이의 '미니게임' 파트너사로 참여한다고 28일 밝혔다. 사진=넵튠 제공 넵튠은 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 28일 밝혔다. 미니게임은...",
+      "pubDate": "2026-08-28T00:28:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "넵튠, 카카오페이에 자체 IP HTML5 게임 공급",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=307819",
+      "originallink": "https://www.khgames.co.kr/news/articleView.html?idxno=307819",
+      "description": "넵튠이 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 밝혔다. 미니게임은 금융 서비스를 넘어 사용자의 일상에 자연스럽게 연결되는 생활 금융 플랫폼을 지향하는...",
+      "pubDate": "2026-08-28T00:24:00+00:00",
+      "category": "카카오페이",
+      "source": "경향게임스"
+    },
+    {
+      "title": "넵튠, 카카오페이 미니게임 파트너사로 선정",
+      "link": "https://n.news.naver.com/mnews/article/018/0006359496?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02906086645551912&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "넵튠(217270)이 카카오페이(377300)와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 ‘미니게임’ 파트너사로 참여한다고 28일 밝혔다. 미니게임은 금융 서비스를 넘어 사용자의 일상에 자연스럽게 연결되는 생활 금융...",
+      "pubDate": "2026-08-28T00:22:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "헥토파이낸셜, 아시아 핀테크 톱30 선정…스테이블코인·AI 결제 키운다",
+      "link": "https://n.news.naver.com/mnews/article/008/0005406081?sid=105",
+      "originallink": "https://www.mt.co.kr/tech/2026/08/28/2026082809211441706",
+      "description": "헥토파이낸셜은 연간 1200조원 이상의 거래를 처리하고 있으며 간편현금결제와 전자지급결제대행(PG) 등을 제공한다. 최근에는 크로스보더 결제·정산과 해외송금 등으로 사업 영역을 확대하고 있다. 2025년 글로벌...",
+      "pubDate": "2026-08-28T00:21:00+00:00",
+      "category": "간편결제",
+      "source": "머니투데이"
+    },
+    {
+      "title": "토큰증권(STO) 법제화 재추진 모멘텀… 핀테크·플랫폼주 溫氣 확산",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481406",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481406",
+      "description": "네이버 증권. 토큰증권(STO) 제도화를 위한 자본시장법 및 전자증권법 개정 논의가 다시 속도를 낼 것이라는... 헥토파이낸셜, 한국정보인증도 일제히 오름세를 기록하는 중이다. 미술품 조각투자 및 유통 관련 사업을...",
+      "pubDate": "2026-08-28T00:20:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "하나카드, 카카오페이와 맞손…결제 편의성 확대 나서",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=144573",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=144573",
+      "description": "하나카드가 카카오페이와 손잡고 별도의 카드 추가 발급 없이 기존 보유한 체크카드에 카카오페이머니를 연결해 자유롭게 결제할 수 있는 '내 카드 머니연결' 서비스를 업계 최초로 출시한다. [하나카드]  하나카드가 기존...",
+      "pubDate": "2026-08-28T00:20:00+00:00",
+      "category": "카카오페이",
+      "source": "직썰"
+    },
+    {
+      "title": "외국인 간편결제 비중 10%p↑…롯데백화점, 결제수단 확대",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=316492",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=316492",
+      "description": "2023년 애플페이·화웨이페이·샤오미페이 결제가 가능한 NFC 결제 시스템을 도입했고 지난해에는 대만 라인페이를 도입했다. 업계에서는 외국인 관광객의 국적과 결제 수단이 다양해지면서 해외 간편결제를 폭넓게...",
+      "pubDate": "2026-08-28T00:20:00+00:00",
+      "category": "간편결제",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "넵튠, 카카오페이 미니게임 파트너사로 선정",
+      "link": "https://www.betanews.net/article/view/beta202608280008",
+      "originallink": "https://www.betanews.net/article/view/beta202608280008",
+      "description": "넵튠이 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다. 미니게임은 카카오페이가 올해 2월 출시한 서비스로, 게임을 즐기는 동시에 간단한 미션을 수행하면 카카오페이...",
+      "pubDate": "2026-08-28T00:18:00+00:00",
+      "category": "카카오페이",
+      "source": "베타뉴스"
+    },
+    {
+      "title": "\"토스 이어 카카오페이까지\" 넵튠, 금융 플랫폼 H5 게임 영토 확장",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=260280",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=260280",
+      "description": "넵튠은 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 '미니게임' 공식 파트너사로 참여한다고 28일 밝혔다. 이번 계약을 통해 넵튠은 자체 인기 지식재산권(IP) 및 제휴 게임사 캐주얼 게임을 H5(HTML5) 형태로 전환해...",
+      "pubDate": "2026-08-28T00:14:00+00:00",
+      "category": "토스페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "하나카드-카카오페이, 내 카드 머니연결 서비스 출시",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=117047",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=117047",
+      "description": "하나카드가 카카오페이와 '내 카드 머니연결' 서비스를 업계 최초로 선보인다고 28일 밝혔다. '내 카드 머니연결'은 고객이 평소 사용하던 하나 체크카드에 카카오페이머니의 편의성을 결합한 서비스다. 별도의 카드...",
+      "pubDate": "2026-08-28T00:10:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "헥토파이낸셜, 아시아 대표 핀테크 기업 탑 30으로 선정",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317097",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317097",
+      "description": "헥토파이낸셜은 연간 1200조원 이상의 거래를 안정적으로 처리하고 있으며 국내 간편현금결제 시장 1위 사업자로서 다양한 국내외 가맹점에 결제 및 금융 서비스를 제공하고 있다. 글로벌 사업도 성장 추세로...",
+      "pubDate": "2026-08-28T00:10:00+00:00",
+      "category": "간편결제",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "헥토파이낸셜, 'AFA 어워즈' 핀테크 기업 톱30 선정",
+      "link": "https://www.newspim.com/news/view/20260828000174",
+      "originallink": "https://www.newspim.com/news/view/20260828000174",
+      "description": "연간 1200조원 이상의 거래를 처리하고 있으며 간편현금결제와 전자지급결제대행(PG) 등 결제·금융 서비스를 제공하고 있다. 회사는 서클이 구축한 '서클 페이먼츠 네트워크(CPN)'에도 한국 파트너로 참여해 USDC 기반...",
+      "pubDate": "2026-08-28T00:06:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "토스, 우리금융저축은행과 맞손…개인사업자 대출 출시",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=144565",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=144565",
+      "description": "지난 27일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 우리금융저축은행의 업무협약식에서 (왼쪽부터)이석태 우리금융저축은행 대표와 김규하 토스 부대표가 기념 사진을 촬영하고 있다. [토스]  토스가...",
+      "pubDate": "2026-08-28T00:04:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "토스·우리금융저축은행, '소호스코어' 개인사업자 대출 출시",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696249",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696249",
+      "description": "27일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 우리금융저축은행의 업무협약식에서 이석태 우리금융저축은행 대표와 김규하 토스 부대표(왼쪽부터)가 기념 사진을 촬영하고 있다. [사진: 토스] 토스 운영사...",
+      "pubDate": "2026-08-27T23:58:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "헥토파이낸셜, 'AFA 어워즈 2026' 아시아 핀테크 톱30 선정",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696240",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696240",
+      "description": "회사는 기존 간편현금결제 등 계좌 기반 금융서비스와 전자지급결제대행(PG)을 넘어 크로스보더 결제, 해외송금, 스테이블코인 등으로 사업 영역을 확대할 계획이다. 최종원 헥토파이낸셜 대표는 \"국내 금융...",
+      "pubDate": "2026-08-27T23:56:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "[Tech & Now] 헥토파이낸셜, 아시아 핀테크 톱30…SK쉴더스, '캡스홈' AI ...",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1722040",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1722040",
+      "description": "헥토파이낸셜은 간편현금결제 등 계좌 기반 금융 서비스와 PG(전자지급결제대행) 등의 결제 서비스에 더해 △크로스보더 결제 △해외 송금 △스테이블코인 등으로 사업 영역을 지속 확대하며 '원스톱 크로스보더...",
+      "pubDate": "2026-08-27T23:54:00+00:00",
+      "category": "간편결제",
+      "source": "EBN"
+    },
+    {
+      "title": "하나카드, 카카오페이와 ‘내 카드 머니연결’ 서비스 출시",
+      "link": "https://www.viva100.com/article/20260828500017",
+      "originallink": "https://www.viva100.com/article/20260828500017",
+      "description": "간편결제 시장에서는 최근 하나의 결제수단에 여러 계좌를 자유롭게 연동하는 '슈퍼 앱' 경쟁이 이어지고 있는데, 이번 서비스도 이런 흐름 속에서 카드사와 간편결제 플랫폼 간 협업 모델을 넓히는 사례로 평가된다....",
+      "pubDate": "2026-08-27T23:42:00+00:00",
+      "category": "카카오페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "헥토파이낸셜, AFA 어워즈 亞대표 핀테크 기업 톱30 선정",
+      "link": "https://n.news.naver.com/mnews/article/003/0014153810?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260828_0003766286",
+      "description": "헥토파이낸셜은 간편현금결제 등 계좌 기반 금융 서비스와 PG(전자지급결제대행) 등 결제 서비스를 넘어 ▲크로스보더 결제 ▲해외 송금 ▲스테이블코인 등으로 사업 영역을 확대하며 '원스톱 크로스보더 금융 허브...",
+      "pubDate": "2026-08-27T23:41:00+00:00",
+      "category": "간편결제",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스-우리금융저축은행, '소호스코어' 대출 출시",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1722033",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1722033",
+      "description": "양사는 지난 27일 서울 강남구 역삼동 아크플레이스에서 업무협약을 체결했다. 협약식에는 이석태 우리금융저축은행 대표와 김규하 토스 부대표 등이 참석했다. 비타WON [BIZ]는 토스에서 단독 판매하는 비대면 개인사업자...",
+      "pubDate": "2026-08-27T23:16:00+00:00",
+      "category": "토스페이",
+      "source": "EBN"
+    },
+    {
+      "title": "토스, 우리금융저축은행과 개인사업자 신용대출 출시",
+      "link": "https://www.ajunews.com/view/20260828081305193",
+      "originallink": "https://www.ajunews.com/view/20260828081305193",
+      "description": "소호스코어 활용 대안 신용평가모델 적용 아주경제=권가림 기자 hidden@ajunews.com 지난 27일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 우리금융저축은행의 업무협약식에서 이석태 우리금융저축은행 대표(왼쪽)와...",
+      "pubDate": "2026-08-27T23:16:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "배민, 모바일 식권 결제 지원…페이코 연계로 결제수단 확대",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202608271916502152204ead0791_12",
+      "originallink": "http://www.lawissue.co.kr/view.php?ud=202608271916502152204ead0791_12",
+      "description": "페이코 도입에 따라 배민의 결제 선택지도 늘었다. 계좌와 휴대폰 결제를 비롯해 각종 간편결제와 해외 발급 카드까지 지원하면서 음식 주문과 장보기 등 서비스 이용 과정에서 다양한 결제 방식을 제공하는 구조를 갖추게...",
+      "pubDate": "2026-08-27T10:18:00+00:00",
+      "category": "페이코",
+      "source": "로이슈"
+    },
+    {
+      "title": "배민에서 모바일 식권도 쓴다…'페이코' 결제수단 도입",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=272368",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=272368",
+      "description": "아울러 페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단도 함께 쓸 수 있어 고객이 상황에 맞게 여러 옵션을 선택할 수 있게 됐다. 배민은 계좌 및 휴대폰 결제와 각종 간편결제는 물론 해외 발급 카드 등 글로벌...",
+      "pubDate": "2026-08-27T09:24:00+00:00",
+      "category": "페이코",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "\"회사서 받은 식권으로 배달 시킨다\"... 배민, '페이코 식권' 결제 도입",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=207054",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=207054",
+      "description": "페이코와 연계된 카드와 쿠폰, 포인트 등 다른 간편결제 수단도 배민에서 이용할 수 있다. 페이코 결제 자체는 음식배달뿐 아니라 장보기·쇼핑에서도 지원된다. 다만 모바일 식권은 음식배달 주문에 한해서만 사용할 수...",
+      "pubDate": "2026-08-27T09:18:00+00:00",
+      "category": "페이코",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "배민, 페이코 결제 도입···모바일 식권도 쓴다",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=260160",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=260160",
+      "description": "페이코와 연계된 카드·쿠폰·포인트 등 간편결제 수단도 지원한다. 배민은 계좌와 휴대폰 결제를 비롯해 각종 간편결제와 해외 발급 카드 등 다양한 결제수단을 제공하고 있다. 페이코 결제는 음식배달과 장보기·쇼핑...",
+      "pubDate": "2026-08-27T08:42:00+00:00",
+      "category": "페이코",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "[백화점] 롯데 외국인 간편결제 확대 / 현대 추석 라이프스타일 선물 / ...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2280334",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2280334",
+      "description": "지난해 롯데백화점 외국인 매출 가운데 간편결제 비중은 2019년보다 약 10%포인트 높아졌다. 유니온페이 비접촉 결제 시스템도 함께 도입해 스마트폰을 결제 단말기에 접촉하는 방식으로 이용할 수 있다. 롯데백화점은...",
+      "pubDate": "2026-08-27T08:36:00+00:00",
+      "category": "간편결제",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "배민에서 모바일 식권으로 주문 된다…페이코 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/030/0003461062?sid=101",
+      "originallink": "https://www.etnews.com/20260827000356",
+      "description": "페이코와 연계된 카드, 쿠폰, 포인트 등 간편결제 수단은 음식배달, 장보기·쇼핑 등에서 이용할 수 있다. 페이코 식권은 모바일 식권 서비스 중 업계 최다 사용처와 사용자를 보유하고 있다. 회사에 따르면 지난달 기준 약...",
+      "pubDate": "2026-08-27T07:40:00+00:00",
+      "category": "페이코",
+      "source": "전자신문"
+    },
+    {
+      "title": "배민, 페이코 결제 수단 도입…31일까지 순차 확대 적용",
+      "link": "https://n.news.naver.com/mnews/article/001/0016275309?sid=103",
+      "originallink": "https://www.yna.co.kr/view/AKR20260827157300030?input=1195m",
+      "description": "우아한형제들은 배달의민족의 신규 간편결제 수단으로 NHN페이코의 '페이코(PAYCO)'를 도입해 오는 31일까지 전체 고객을 대상으로 순차 적용한다고 27일 밝혔다. 페이코는 카드·계좌·포인트·쿠폰 등을 등록해 온라인이나...",
+      "pubDate": "2026-08-27T07:33:00+00:00",
+      "category": "페이코",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "배달의민족, '페이코' 결제 도입…배달앱서 모바일 식권 사용 가능",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=85097",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=85097",
+      "description": "인더스트리뉴스 한원석 기자  배달의민족(이하 배민) 이용자가 앱 내에서 '페이코(PAYCO)' 간편결제와 함께 모바일 식권을 사용할 수 있게 됐다. 회사에서 식대를 지원받는 직장인들이 오프라인 매장을 방문하지 않고도 배달...",
+      "pubDate": "2026-08-27T07:18:00+00:00",
+      "category": "페이코",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "배달의민족에서 모바일 식권 사용가능, '페이코' 결재수단 도입",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=909253",
+      "originallink": "https://www.kgnews.co.kr/news/article.html?no=909253",
+      "description": "자연스럽게 찾는 서비스로 자리매김할 수 있도록 노력하겠다\"고 말했다 [ 경기신문 = 윤상연 기자 ] 배달의민족(배민)이 신규 결제수단으로 '페이코'를 추가해 간편결재를 지원한다고 27일 밝혔다. ( 사진 =(주)우아한형제들 )",
+      "pubDate": "2026-08-27T07:04:00+00:00",
+      "category": "페이코",
+      "source": "kgnews"
+    },
+    {
+      "title": "롯데百, 유니온페이 전 점포 도입…38개국 간편결제로 외국인 공략",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2116979",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2116979",
+      "description": "2023년 애플페이와 화웨이페이, 샤오미페이 등을 이용할 수 있는 NFC 결제 시스템을 도입했다. 지난해 11월에는 백화점업계 최초로 대만 라인페이를 도입해 대만 관광객의 결제 편의성을 높였다. 롯데백화점이 외국인...",
+      "pubDate": "2026-08-27T06:56:00+00:00",
+      "category": "간편결제",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "페이코 도입한 배민, 모바일 식권으로도 배달된다",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463784",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463784",
+      "description": "페이코에 등록된 카드와 쿠폰, 포인트를 활용한 간편결제도 지원한다. 일반 페이코 결제는 음식배달과 장보기·쇼핑에서 이용할 수 있으며 모바일 식권은 음식배달 주문에만 적용된다. 페이코 결제 기능은 오는 31일까지...",
+      "pubDate": "2026-08-27T05:49:00+00:00",
+      "category": "페이코",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "롯데백화점, 유니온페이 QR결제 업계 최초 도입",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=187146",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=187146",
+      "description": "롯데백화점은 2023년 애플페이·화웨이페이·샤오미페이 등을 이용할 수 있는 NFC 결제 시스템을 도입했으며, 지난해에는 대만 라인페이 결제를 도입했다. 유니온페이 결제 시스템 도입을 기념한 프로모션도 진행한다....",
+      "pubDate": "2026-08-27T05:26:00+00:00",
+      "category": "간편결제",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "배민, 페이코 모바일 식권 도입···직장인 배달 주문 편의 대폭 강화",
+      "link": "https://www.globale.co.kr/news/articleView.html?idxno=40070",
+      "originallink": "https://www.globale.co.kr/news/articleView.html?idxno=40070",
+      "description": "배민은 기존 계좌·휴대폰 결제와 각종 간편결제, 해외 발급 카드 등에 이어 페이코를 추가하며 결제 인프라를 넓혔다. 페이코 결제는 음식배달 및 장보기·쇼핑 서비스 전반에서 이용할 수 있다. 다만 모바일 식권의 경우...",
+      "pubDate": "2026-08-27T05:20:00+00:00",
+      "category": "페이코",
+      "source": "글로벌E"
+    },
+    {
+      "title": "롯데백화점, 유니온페이 QR결제 업계 최초 도입",
+      "link": "http://www.metroseoul.co.kr/article/20260827500286",
+      "originallink": "http://www.metroseoul.co.kr/article/20260827500286",
+      "description": "2023년 애플페이·화웨이페이·샤오미페이 등을 이용할 수 있는 NFC 결제 시스템을 도입했으며 지난해에는 대만 라인페이를 추가했다. 롯데백화점은 이번 유니온페이 QR 및 NFC QPS 도입을 통해 외국인 고객의 국적과 결제...",
+      "pubDate": "2026-08-27T05:14:00+00:00",
+      "category": "간편결제",
+      "source": "메트로신문"
+    },
+    {
+      "title": "토스, 국내 계좌 없는 외국인 유학생에 선불카드 배포",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317003",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=317003",
+      "description": "충전은 전국 CU 편의점에서 현금으로 손쉽게 가능하며 오프라인 매장 결제는 물론 토스페이에 간편 결제 수단으로 등록해 온라인 쇼핑 등에도 즉시 활용할 수 있다. 토스는 외국인 유학생들이 입국 후 외국인등록증을...",
+      "pubDate": "2026-08-27T04:54:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
       "title": "회사서 받은 식대, 이제 배민에 쓴다…‘페이코 식권’ 결제 시작",
       "link": "https://n.news.naver.com/mnews/article/092/0002435299?sid=105",
       "originallink": "https://zdnet.co.kr/view/?no=20260827110609",
@@ -20528,16 +21383,7 @@
       "pubDate": "2026-05-31T09:29:00+00:00",
       "category": "토스페이",
       "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "토스페이먼츠, VAN 별도 법인 분리… “PG 사업에 집중”",
-      "link": "https://n.news.naver.com/mnews/article/005/0001851961?sid=101",
-      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=0029894515&code=61141111&cp=nv",
-      "description": "토스페이먼츠가 사내 부가가치통신망(VAN) 부문을 별도 법인으로 분리한다. 전자지급결제대행(PG) 사업에 집중하기 위해서다. 신설 VAN 법인은 기존 토스 그룹 내부에서 발생하는 결제 물량을 처리하는 방식으로...",
-      "pubDate": "2026-05-30T01:42:00+00:00",
-      "category": "토스페이",
-      "source": "Ϻ"
     }
   ],
-  "lastFetch": "2026-08-27T04:34:04.012249+00:00"
+  "lastFetch": "2026-08-28T06:57:18.535308+00:00"
 }
