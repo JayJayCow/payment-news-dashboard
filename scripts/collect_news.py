@@ -2,7 +2,7 @@
 """
 간편결제 뉴스 수집 스크립트
 - 네이버 뉴스 Search API 사용
-- 매일 실행하여 data/news.json에 누적 저장 (90일 보관)
+- 매일 실행하여 data/news.json에 누적 저장 (30일 보관)
 """
 
 import os
@@ -18,7 +18,7 @@ from pathlib import Path
 CLIENT_ID     = os.environ["NAVER_CLIENT_ID"]
 CLIENT_SECRET = os.environ["NAVER_CLIENT_SECRET"]
 DATA_FILE     = Path(__file__).parent.parent / "data" / "news.json"
-KEEP_DAYS     = 90
+KEEP_DAYS     = 30
 
 SEARCH_QUERIES = [
     "네이버페이",
