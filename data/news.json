@@ -1,6 +1,366 @@
 {
   "articles": [
     {
+      "title": "우리WON모바일, 9월 한가위 이벤트 진행…개통 고객에 네이버페이 3만원...",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=300656",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=300656",
+      "description": "이 기간 동안 우리WON모바일에 신규로 가입하는 고객에게는 네이버페이(Npay) 3만원과 매월 5000원 상당의 멤버십 쿠폰이 웰컴 혜택으로 제공된다. 또한 더블쿠폰요금제, 직장인요금제, 청년드림요금제, 멤버십...",
+      "pubDate": "2026-09-10T00:56:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "[IT큐레이션] 네이버와 토스의 '측면'충돌",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=750369",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=750369",
+      "description": "당장 네이버페이와 토스플레이스는 자체 브랜드 단말기에 각 사의 서비스를 얹는 방식으로 접점을 넓히는 중이다. 토스플레이스가 40만 매장 기반을 확보한 가운데 네이버페이의 Npay 커넥트는 출시 7개월 만에 가맹점...",
+      "pubDate": "2026-09-09T22:42:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "토스-네이버페이, 스마트 결제단말기 서비스 격돌…'외부 연계' vs. 'AI 플...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=763468",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=763468",
+      "description": "스마트 결제 단말기 시장의 경쟁자인 토스플레이스와 네이버페이의 경쟁 양상이 가맹점 확대를 넘어 서비스 경쟁으로 확전 양상을 보이고 있다. 비바리퍼블리카(이하 토스)의 결제 단말기 및 포스(POS) 솔루션 공급...",
+      "pubDate": "2026-09-09T21:10:00+00:00",
+      "category": "네이버페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "카카오페이 온체인 지갑 실증 완료, 국내 스테이블코인 결제 인프라 본...",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101381",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101381",
+      "description": "카카오페이가 디지털 자산 지갑 구축을 위한 기술 실증을 마무리하고 국내 스테이블코인 유통 인프라 구축에 속도를 낸다. 카카오그룹은 이번에 검증된 지갑 기술을 그룹 내 서비스 전반으로 확장하는 한편, 국내 디지털...",
+      "pubDate": "2026-09-09T13:18:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "[토스 검색 미션 논란] 네이버 수사 의뢰에 이어 소상공인도 \"즉각 중단...",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=43625",
+      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=43625",
+      "description": "네이버 측은 이 미션으로 특정 검색어와 상점에 검색량이 일시에 몰리면서 네이버 스토어·플레이스의 검색 순위 알고리즘이 왜곡될 수 있다고 판단한 것으로 알려졌다. 네이버는 이미 지난해에도 토스를 포함한 주요...",
+      "pubDate": "2026-09-09T12:22:00+00:00",
+      "category": "토스페이",
+      "source": "S저널"
+    },
+    {
+      "title": "소상공인연합회, 토스 '검색 미션' 중단 촉구…\"소상공인 매출·검색순...",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89050",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=89050",
+      "description": "소상공인연합회는 9일 입장문을 내고 모바일 금융 플랫폼 토스를 운영하는 비바리퍼블리카가 네이버 스토어와 플레이스 검색을 유도하는 방식의 이용자 확보 마케팅을 벌여왔다며 문제를 제기했다. 최근 언론보도에...",
+      "pubDate": "2026-09-09T09:48:00+00:00",
+      "category": "토스페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "[핀테크 NOW] 카카오페이·토스",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191830",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=191830",
+      "description": "■ 카카오페이, 디지털 자산 지갑 기술 실증 완료...생태계 확장 카카오페이가 디지털 자산 지갑 구축 기술 실증(PoC)을 완료하고 국내 스테이블코인 유통 인프라 확보에 속도를 낸다고 9일 밝혔다. 카카오페이는 4,300만...",
+      "pubDate": "2026-09-09T09:12:00+00:00",
+      "category": "카카오페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "소공연 “토스 ‘검색 미션’ 약탈적 마케팅...전면중단ㆍ사법 당국 수...",
+      "link": "https://www.etoday.co.kr/news/view/2623727",
+      "originallink": "https://www.etoday.co.kr/news/view/2623727",
+      "description": "이투데이=김동효 기자 | 소상공인연합회는 모바일 금융 플랫폼 토스가 이용자 유치를 위해 네이버 스토어·플레이스 검색을 유도하는 이른바 '출석 체크 검색 미션'을 운영한 것과 관련해 전면 중단과 사법 당국의 수사를...",
+      "pubDate": "2026-09-09T09:10:00+00:00",
+      "category": "토스페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "토스·코엠페이에 해킹 공격… 카드정보 최대 수만건 유출",
+      "link": "https://n.news.naver.com/mnews/article/005/0001871930?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000010587&cp=nv",
+      "description": "토스페이먼츠는는 PG 서비스를 이용하는 가맹점 한 곳에서 결제 내역 일부가 제3자에게 조회된 사실을 확인했다고 밝혔다. 피해 가맹점 홈페이지의 결제 연동 플랫폼 인증 정보가 노출되면서 제3자가 결제 내역을 조회한...",
+      "pubDate": "2026-09-09T09:06:00+00:00",
+      "category": "토스페이",
+      "source": "국민일보"
+    },
+    {
+      "title": "토스 '검색 미션' 논란 가중…소공연 \"검색순위 조작해 매출 타격\"",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2117749",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2117749",
+      "description": "소상공인연합회는 9일 입장문을 내고 \"모바일 금융 플랫폼 토스 운영사 비바리퍼블리카가 자사 앱 이용자 유치를 위해 네이버 스토어·플레이스 검색을 유도하는 '출석 체크 검색 미션'을 운영해온 행태를 규탄한다\"고...",
+      "pubDate": "2026-09-09T08:54:00+00:00",
+      "category": "토스페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "[뉴스워커_카카오페이] 스테이블코인 '유통' 준비…지갑 기술 외부 공급...",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=503413",
+      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=503413",
+      "description": "카카오페이가 원화 스테이블코인 등 디지털 자산을 보관하고 거래할 수 있는 지갑 구축 기술의 실증(PoC)을 완료했다고 9일 밝혔다. 이번 실증은 카카오페이머니 등 선불충전금을 담아 사용하던 기존 지갑 시스템을...",
+      "pubDate": "2026-09-09T08:08:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "\"검색 순위 밀리면 매출 40% 급감\" 소공연, 토스 ‘검색 미션’ 중단 촉...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006366335?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04231206645578480&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "플랫폼 ‘토스’(비바리퍼블리카)가 자사 앱 이용자 유치를 위해 네이버 스토어·플레이스 검색을 유도하는 이른바 ‘출석 체크 검색 미션’을 운영해 온 행태를 강력 규탄하며, 즉각적인 전면 중단과 사법 당국의 엄정한...",
+      "pubDate": "2026-09-09T07:56:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "소공연 \"토스 '출석체크 미션', 소상공인 검색 순위 왜곡\"",
+      "link": "https://n.news.naver.com/mnews/article/001/0016300752?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20260909153900030?input=1195m",
+      "description": "이어 \"자금력과 대체 채널이 부족한 영세 소상공인에게 네이버 스마트스토어와 플레이스는 사실상 유일한 대고객 창구\"라며 \"토스는 제 배만 불리고 골목상인의 생계 기반을 털어 자사 성장의 밑거름으로 삼은 약탈적...",
+      "pubDate": "2026-09-09T07:51:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "소공연, 토스 '검색 미션' 중단 촉구…\"소상공인 노출 피해\"",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1412004",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1412004",
+      "description": "매일일보 = 이지완 기자  |  소상공인연합회가 모바일 금융 플랫폼 토스의 검색 유도형 리워드 서비스가 포털... 상품이나 플레이스의 매장 정보를 검색·조회하도록 하는 방식이다. 최근 네이버는 해당 서비스와 관련해...",
+      "pubDate": "2026-09-09T07:48:00+00:00",
+      "category": "토스페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "카카오페이, 디지털자산 지갑 기술 실증 완료",
+      "link": "https://www.ajunews.com/view/20260909164248150",
+      "originallink": "https://www.ajunews.com/view/20260909164248150",
+      "description": "스테이블코인 유통 인프라 구축 아주경제=권가림 기자 hidden@ajunews.com 카카오페이가 원화 스테이블코인 등 디지털 자산을 보관하고 송금·결제할 수 있는 지갑 기술의 실증(PoC·개념검증)을 마쳤다고 9일 밝혔다. 이번...",
+      "pubDate": "2026-09-09T07:46:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "토스·코엠페이 신용카드 정보 유출 의심⋯금감원, 검사 전환",
+      "link": "https://n.news.naver.com/mnews/article/031/0001056893?sid=101",
+      "originallink": "http://www.inews24.com/view/2003751",
+      "description": "금감원은 코엠페이먼츠와 토스페이먼츠에서 진행 중이던 현장 점검을 검사로 전환했다고 9일 밝혔다. 코엠페이먼츠에 따르면 해킹 공격은 지난달 30일 오전 8시 13분부터 9월 1일 오전 5시 34분 사이에 일어났다....",
+      "pubDate": "2026-09-09T06:54:00+00:00",
+      "category": "토스페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "카카오페이, 금융 플랫폼에서 스테이블 코인 등 '자산 지갑' 기술 실증",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92726",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=92726",
+      "description": "카카오그룹이 카카오페이와 카카오뱅크의 금융 인프라를 활용해 스테이블코인 등 디지털 자산의 유통 기반 마련에 나섰다. 카카오페이는 디지털 자산 지갑 구축을 위한 개념검증(PoC)을 완료했다고 9일 밝혔다. 이번...",
+      "pubDate": "2026-09-09T06:20:00+00:00",
+      "category": "카카오페이",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "소상공인연합회, 토스 검색 미션 중단 촉구",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485448",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485448",
+      "description": "소공연에 따르면 토스는 이용자에게 건당 5원 안팎의 포인트를 제공하면서 네이버 스토어 상품이나 플레이스 매장 정보를 검색·조회하도록 하는 방식의 리워드 미션을 운영해 왔다. 소공연은 하루 수백만 건 규모의 검색...",
+      "pubDate": "2026-09-09T06:00:00+00:00",
+      "category": "토스페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "토스페이먼츠 가맹점 연동키 노출…결제망 보안 '숙제'",
+      "link": "https://news.mtn.co.kr/news-detail/2026090914330522394",
+      "originallink": "https://news.mtn.co.kr/news-detail/2026090914330522394",
+      "description": "토스페이먼츠가 고객사와 결제 연동 과정에서 인증정보가 노출돼 금융당국이 관련 경위와 보안 관리 실태를... 있어서다.토스는 최근 얼굴 인식 기반 결제 서비스인 '페이스페이'를 확대하면서 암호화와 이상거래탐지 등...",
+      "pubDate": "2026-09-09T05:58:00+00:00",
+      "category": "토스페이",
+      "source": "MTN NEWS"
+    },
+    {
+      "title": "울산, 추석 앞두고 ‘울산페이’ 인센티브↑···간편결제 개선은 아직",
+      "link": "https://n.news.naver.com/mnews/article/032/0003469374?sid=102",
+      "originallink": "https://www.khan.co.kr/article/202609091449001",
+      "description": "최근 카카오페이와 네이버페이가 연동되고 있지만, 이 또한 결제 방식이 기존 QR코드 인증과 바코드 스캔 방식으로 제한되고 있다. 울산시는 대행사와의 계약이 끝나는 내년 3월 이후 새 사업자를 모집해 삼성페이...",
+      "pubDate": "2026-09-09T05:49:00+00:00",
+      "category": "간편결제",
+      "source": "경향신문"
+    },
+    {
+      "title": "카드 발급 끝나기 직전 \"간편결제 가입\" 안내…다크패턴 775건 적발",
+      "link": "https://www.raonnews.com/news/article.html?no=60977",
+      "originallink": "https://www.raonnews.com/news/article.html?no=60977",
+      "description": "금감원 268개사 자체점검…회사당 건수는 카드·은행에 집중 신용카드 발급 신청이 마무리되기 직전 화면에 간편결제 서비스 가입 안내가 뜬다. 발급 절차의 한 단계처럼 보이지만 실제로는 별개의 상품 광고다. 선택...",
+      "pubDate": "2026-09-09T05:30:00+00:00",
+      "category": "간편결제",
+      "source": "raonnews"
+    },
+    {
+      "title": "“카드 비밀번호 노출 우려”…금감원, 코엠·토스페이 PG사 검사 착수",
+      "link": "https://n.news.naver.com/mnews/article/029/0003047072?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12083001?ref=naver",
+      "description": "9일 금융당국에 따르면 금융감독원은 최근 해킹 공격 정황이 포착된 코엠페이먼츠와 토스페이먼츠에 대해... 가장 우려되는 곳은 코엠페이먼츠다. 사측이 홈페이지에 게재한 공지문에 따르면 침해 사고는 지난달 30일...",
+      "pubDate": "2026-09-09T05:29:00+00:00",
+      "category": "토스페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "카카오페이, 디지털 자산 지갑 기술 PoC 완료…스테이블코인 인프라 구...",
+      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=79605",
+      "originallink": "http://www.issuenbiz.com/news/articleView.html?idxno=79605",
+      "description": "/사진=카카오페이  카카오페이가 스테이블코인 등 디지털 자산을 보관·송금·결제할 수 있는 지갑 기술 실증(PoC)을 완료했다. 카카오페이는 기존 선불충전금 기반 지갑 시스템을 온체인 디지털 자산까지 담을 수 있는...",
+      "pubDate": "2026-09-09T05:08:00+00:00",
+      "category": "카카오페이",
+      "source": "이슈앤비즈"
+    },
+    {
+      "title": "카카오페이, 디지털 자산 지갑 기술 실증 완료...스테이블코인 지원",
+      "link": "https://www.tokenpost.kr/news/blockchain/404842",
+      "originallink": "https://www.tokenpost.kr/news/blockchain/404842",
+      "description": "카카오페이(대표 신원근)가 디지털 자산 지갑 구축 기술을 실증(PoC) 완료했다고 9일 밝혔다. 카카오그룹은 검증을 마친 최적화 기술을 국내 디지털 자산 시장에 보급하는 한편, 국내 규제와 핀테크·은행을 아우르는 복합...",
+      "pubDate": "2026-09-09T04:38:00+00:00",
+      "category": "카카오페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 핀테크 소식…토스·카카오페이",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201431",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=201431",
+      "description": "카카오페이가 카카오그룹의 인프라를 바탕으로 스테이블코인 등 온체인 자산을 지원하는 통합형 디지털 자산 지갑 기술 실증을 마치고 기업 맞춤형 인프라 보급에 나선다. ◆ 토스, 피에프씨테크놀로지스와 맞춤형...",
+      "pubDate": "2026-09-09T04:34:00+00:00",
+      "category": "카카오페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "카카오페이, 디지털 자산 지갑 기술 검증…송금·결제·정산 구현",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=132348",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=132348",
+      "description": "카카오그룹이 카카오페이의 결제망과 카카오뱅크의 금융 인프라를 활용해 스테이블코인 등 디지털 자산을 송금·결제·정산할 수 있는 지갑 기술을 검증했다. 향후 국내 기업과 금융기관을 대상으로 관련 기술과 규제...",
+      "pubDate": "2026-09-09T02:58:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "신원근 '20만원' 약속 어디로…카카오페이 고점 대비 81.6% 증발, 주주들...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000532157?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2363784.htm",
+      "description": "24만8500원→4만5800원…상장 약 5년 만에 주가 5분의 1 토막 \"20만원까지 최저임금\"…20만원 못 갔는데 정상 보수 복귀 카카오페이 주가가 상장 초기 고점 대비 80% 넘게 증발하면서 신원근 대표의 책임경영이 다시 시험대에...",
+      "pubDate": "2026-09-09T02:53:00+00:00",
+      "category": "카카오페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "“4300만 카카오페이 지갑에 스테이블코인 담는다”…디지털 자산 지갑...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002240745?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026090909244244015",
+      "description": "카카오페이가 기존 카카오페이머니 중심의 지갑을 스테이블코인 등 디지털 자산까지 통합 관리할 수 있도록 확장하는 기술 실증(PoC)을 완료했다. 카카오페이는 9일 대용량 트래픽 환경에서 스테이블코인 등 디지털 자산의...",
+      "pubDate": "2026-09-09T02:33:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오페이, 디지털자산 지갑 실증 완료…스테이블코인 인프라 구축",
+      "link": "https://n.news.naver.com/mnews/article/003/0014179164?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260909_0003782358",
+      "description": "카카오페이가 디지털자산을 보관하고 송금·결제·정산할 수 있는 디지털자산 지갑 기술의 실증을 마쳤다. 카카오그룹 차원에서 진행하는 디지털자산 전략의 일환으로, 검증을 마친 최적화 기술을 국내 디지털 자산 시장에...",
+      "pubDate": "2026-09-09T02:25:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "4300만명이 쓰는 카카오페이 지갑, 스테이블코인까지 품는다",
+      "link": "https://n.news.naver.com/mnews/article/008/0005411356?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/09/09/2026090909560949193",
+      "description": "카카오페이가 9일 디지털 자산 지갑 구축 기술을 실증(PoC) 완료했다. 카카오그룹은 검증을 마친 최적화 기술을 국내 디지털 자산 시장에 보급하면서 핀테크·은행을 아우르는 복합 금융 환경에 대한 경험을 활용해 컨설팅...",
+      "pubDate": "2026-09-09T02:14:00+00:00",
+      "category": "카카오페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이, 스테이블코인 등 디지털 자산 지갑 기술 실증",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=274689",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=274689",
+      "description": "카카오페이는 스테이블코인 등 디지털 자산을 담을 수 있는 지갑 구축 기술에 대한 실증(PoC)을 완료했다고 9일 밝혔다. 이번 실증은 카카오페이 사용자들이 선불충전금인 카카오페이머니를 담아 사용하던 기존 지갑...",
+      "pubDate": "2026-09-09T02:12:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "소상공인연합회, 토스 ‘검색 미션’ 중단 촉구…“소상공인 피해 전가...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002240734?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026090910502890249",
+      "description": "소상공인연합회가 모바일 금융 플랫폼 토스의 네이버 스토어·플레이스 검색 유도형 리워드 미션이 소상공인에게 피해를 주고 있다며 서비스 전면 중단을 촉구했다. 소상공인연합회는 8일 입장문을 내고 토스 운영사...",
+      "pubDate": "2026-09-09T02:12:00+00:00",
+      "category": "토스페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "토스 리워드 광고에 소상공인 반발…“검색 미션이 상권 교란”",
+      "link": "https://n.news.naver.com/mnews/article/030/0003465104?sid=101",
+      "originallink": "https://www.etnews.com/20260909000167",
+      "description": "여기서 나온 검색량이 네이버 스토어와 플레이스의 검색 결과에 영향을 미치면서 네이버는 최근 토스를 업무방해와 정보통신망법 위반 혐의로 경찰에 수사를 의뢰했다. 토스는 앞서 카카오와도 광고 노출을 놓고 충돌했다....",
+      "pubDate": "2026-09-09T02:04:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "\"인위적 검색으로 순위 왜곡\"… 소상공인업계, 토스 '검색 미션' 중단·...",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=300824",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=300824",
+      "description": "앞서 네이버 역시 이러한 행위가 포털 내 플레이스 및 스토어 순위에 비정상적인 영향을 미쳤다고 판단해 지난 2월 토스를 업무방해와 정보통신망법 위반 혐의로 경찰에 수사 의뢰한 바 있다. 양대 플랫폼 간의 충돌이 사법...",
+      "pubDate": "2026-09-09T01:58:00+00:00",
+      "category": "토스페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "\"5원 포인트에 골목상권 흔들\"…소상공인연합회, 토스 '검색 미션' 중단...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155044",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=155044",
+      "description": "네이버 스마트스토어나 플레이스 의존도가 높은 영세 자영업자는 검색 순위가 매출과 직결되는 경우가 많다. 연합회는 토스의 검색 미션으로 일부 소상공인의 검색 순위가 5~6위권 밖으로 밀려나는 피해가 발생했다고...",
+      "pubDate": "2026-09-09T01:58:00+00:00",
+      "category": "토스페이",
+      "source": "테크M"
+    },
+    {
+      "title": "카카오페이, 디지털자산 지갑 기술 실증 완료…스테이블코인 유통 인프...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005573138?sid=101",
+      "originallink": "https://www.fnnews.com/news/202609091030418418",
+      "description": "카카오페이가 스테이블코인을 비롯한 디지털자산을 담을 수 있는 통합형 지갑 기술 개발과 검증을 마쳤다. 카카오그룹은 이를 기반으로 국내 디지털자산 시장에 지갑 솔루션을 공급하고, 규제 대응 컨설팅까지 연계해...",
+      "pubDate": "2026-09-09T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 디지털 자산 지갑 기술 실증 완료…스테이블코인 인프라 구...",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=84470",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=84470",
+      "description": "카카오페이가 스테이블코인 등 차세대 디지털 자산의 유통을 위한 디지털 자산 지갑 구축 기술 실증(PoC)을 마쳤다. 9일 카카오페이에 따르면 카카오그룹은 이번에 검증을 마친 최적화 기술을 국내 시장에 보급하고...",
+      "pubDate": "2026-09-09T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "카카오페이 디지털자산 지갑 실증 완료 스테이블코인 인프라 박차",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=750268",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=750268",
+      "description": "카카오페이(대표 신원근)는 디지털 자산 지갑 구축 기술의 실증(PoC)을 완료했다고 9일 밝혔다. 카카오그룹은 검증을 마친 최적화 기술을 국내 디지털 자산 시장에 보급하는 한편 국내 규제와 핀테크·은행을 아우르는 복합...",
+      "pubDate": "2026-09-09T01:30:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 디지털 자산 지갑 기술 실증 완료... 인프라 선점",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=135858",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=135858",
+      "description": "카카오페이가 기존의 간편결제 영역을 뛰어넘어 스테이블코인을 비롯한 디지털 자산 유통 생태계 선점을 위한 핵심 기술 기반을 다졌다. 카카오페이(대표 신원근)는 디지털 자산 지갑 구축 기술에 대한 개념 검증(PoC)을...",
+      "pubDate": "2026-09-09T01:16:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "카카오그룹, 스테이블코인 지갑 인프라 구축 속도…카카오페이 PoC 완료",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699185",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699185",
+      "description": "카카오페이가 원화 스테이블코인 등 디지털자산 유통에 활용할 지갑 기술 검증을 마쳤다. 카카오그룹은 이를 기반으로 외부 기업과 금융기관에 관련 솔루션 공급을 추진한다. 카카오페이는 디지털자산 지갑 구축 기술에...",
+      "pubDate": "2026-09-09T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털투데이"
+    },
+    {
       "title": "카카오페이, 디지털 자산 지갑 기술 검증…스테이블코인 유통 채비",
       "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=52758",
       "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=52758",
@@ -2032,7 +2392,7 @@
       "description": "BC카드는 케이뱅크와 함께 온라인 간편결제 시 무조건 6% 할인 혜택을 제공하는 '히든카드'를 출시했다고 2일 밝혔다.",
       "pubDate": "2026-09-02T00:30:00+00:00",
       "category": "간편결제",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "CJ ONE 포인트, 네이버페이에서 쓴다",
@@ -2185,7 +2545,7 @@
       "description": "CJ올리브네트웍스의 라이프스타일 멤버십 서비스 ‘CJ ONE’을 네이버페이에서도 이용할 수 있게 됐다. CJ올리브네트웍스는 네이버페이와 손잡고 CJ ONE 멤버십 연동 서비스를 시작한다고 2일 밝혔다. 양사는 간편결제...",
       "pubDate": "2026-09-01T23:52:00+00:00",
       "category": "네이버페이",
-      "source": "datanews"
+      "source": "데이터뉴스"
     },
     {
       "title": "CJ ONE, 네이버페이와 멤버십 연동…포인트 적립·사용 지원",
@@ -2932,7 +3292,7 @@
       "description": "SK에너지와 네이버페이(이하 Npay)가 손잡고 SK주유소 이용 고객의 혜택 확대와 결제 편의성 강화를 위해 협력한다. SK에너지와 Npay는 주유소 현장에서의 고객 경험 혁신을 위한 업무 협약을 체결했다고 31일 밝혔다.",
       "pubDate": "2026-08-31T01:18:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "SK에너지, 네이버페이와 주유소 이용자 혜택 업무협약 체결",
@@ -2995,7 +3355,7 @@
       "description": "SK에너지와 네이버페이가 SK주유소 이용 고객의 혜택 확대와 결제 편의성 강화를 위해 업무 협약을 체결했다고 31일 밝혔다. 양사는 SK주유소 이용 고객을 대상으로 한 네이버페이 포인트 적립을 추진하고, 간편결제...",
       "pubDate": "2026-08-31T00:58:00+00:00",
       "category": "네이버페이",
-      "source": "datanews"
+      "source": "데이터뉴스"
     },
     {
       "title": "SK에너지•네이버페이 주유소 고객 혜택 강화 업무 협약 체결",
@@ -3697,7 +4057,7 @@
       "description": "넵튠이 카카오페이와 게임 콘텐츠 공급 계약을 맺고 카카오페이 미니게임에 H5 게임을 공급한다. 자체 지식재산권(IP)과 제휴 게임사의 캐주얼게임을 선별해 플랫폼 이용자에게 제공하는 방식이다. 넵튠은 28일...",
       "pubDate": "2026-08-28T02:42:00+00:00",
       "category": "카카오페이",
-      "source": "토큰포스트"
+      "source": "tokenpost"
     },
     {
       "title": "마이크로닉스, 'WIZMAX 릿지 PRO' 케이스 구매 인증 시 네이버페이 증정",
@@ -4381,7 +4741,7 @@
       "description": "2023년 애플페이·화웨이페이·샤오미페이 등을 이용할 수 있는 NFC 결제 시스템을 도입했으며 지난해에는 대만 라인페이를 추가했다. 롯데백화점은 이번 유니온페이 QR 및 NFC QPS 도입을 통해 외국인 고객의 국적과 결제...",
       "pubDate": "2026-08-27T05:14:00+00:00",
       "category": "간편결제",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "토스, 국내 계좌 없는 외국인 유학생에 선불카드 배포",
@@ -7378,7 +7738,7 @@
       "description": "진필규 토스플레이스 사업부문장(오른쪽)과 박정빈 당근 로컬비즈니스 사업개발 리드가 12일 서울 서초구 토스 신논현 오피스에서 '전략적 업무 제휴 협약 체결식'을 열고 기념 사진을 찍고 있다./토스 토스플레이스는...",
       "pubDate": "2026-08-13T07:16:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 디지털 금융 소식...토스플레이스·빗썸",
@@ -8369,187 +8729,7 @@
       "pubDate": "2026-08-11T01:42:00+00:00",
       "category": "카카오페이",
       "source": "sobi"
-    },
-    {
-      "title": "고성군, 고향사랑기부제 여름 이벤트…답례품 증량·네이버페이 지급",
-      "link": "https://www.kukinews.com/article/view/kuk202608110012",
-      "originallink": "https://www.kukinews.com/article/view/kuk202608110012",
-      "description": "경남 고성군이 여름철 고향사랑기부제 참여 확대를 위해 답례품 증량과 네이버페이 포인트 지급 이벤트를 진행한다. 고성군은 8월 한 달간 ‘인기 답례품 증량 이벤트’와 ‘더위야! 가라! 여름 극복 이벤트’를...",
-      "pubDate": "2026-08-10T22:32:00+00:00",
-      "category": "네이버페이",
-      "source": "kukinews"
-    },
-    {
-      "title": "[핀테크핫이슈] 핀테크 '최대 실적' 행진…결제 접점 확대·대출규제 완...",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691606",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691606",
-      "description": "카카오페이는 2분기 매출 3351억원, 영업이익 586억원, 당기순이익 496억원으로 매출과 영업이익, 순이익 모두 분기 기준 최대치를 기록했다. 다날은 상반기 위챗페이 오프라인 QR결제 거래액이 전년 동기 대비 62.7...",
-      "pubDate": "2026-08-10T22:30:00+00:00",
-      "category": "간편결제",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "코레일+, 예매 7단계→4단계 단축…삼성월렛 연동으로 편의성↑",
-      "link": "http://www.beyondpost.co.kr/view.php?ud=202608102320538173be44c0aacd_30",
-      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202608102320538173be44c0aacd_30",
-      "description": "한국철도공사(코레일)가 승차권 예매 절차를 대폭 축소하고 모바일 간편 결제 서비스와의 연동을 넓힌 새로운 철도 통합 플랫폼 '코레일+'를 내세워 모바일 철도 서비스 혁신에 속도를 내고 있다. 10일 코레일은 새로운...",
-      "pubDate": "2026-08-10T14:38:00+00:00",
-      "category": "삼성페이",
-      "source": "비욘드포스트"
-    },
-    {
-      "title": "또봉이통닭, 신메뉴 '맵치킹' 출시…네이버페이 결제 시 1만 포인트 즉시...",
-      "link": "https://n.news.naver.com/mnews/article/008/0005398035?sid=101",
-      "originallink": "https://www.mt.co.kr/industry/2026/08/10/2026080316372348969",
-      "description": "신메뉴 출시를 기념, 8월 10일부터 9월 9일까지 전국 또봉이통닭 매장에서 네이버페이 머니·포인트로 신메뉴를 포함해 1만6천 원 이상 결제하면 네이버페이 포인트 1만 포인트를 즉시 적립 받을 수 있다.",
-      "pubDate": "2026-08-10T10:46:00+00:00",
-      "category": "네이버페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "핀테크, 부산 부가가치 2위…후방산업도 키워라",
-      "link": "https://n.news.naver.com/mnews/article/658/0000151939?sid=101",
-      "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260811.22011002693",
-      "description": "간편 송금·결제 서비스, 인터넷 전문은행, 디지털 지갑 서비스가 대표적이다. 시 운영 부산 핀테크 허브에 따르면 지난해 누적 입주기업은 116곳이고 전체 매출액은 1476억 원 규모로 2020년(297억 원)보다 약 5배...",
-      "pubDate": "2026-08-10T10:25:00+00:00",
-      "category": "간편결제",
-      "source": "Ź"
-    },
-    {
-      "title": "코레일, '코레일+' 이용 편의 강화… 간편예매·MaaS·삼성 월렛 연동",
-      "link": "http://www.ikld.kr/news/articleView.html?idxno=338776",
-      "originallink": "http://www.ikld.kr/news/articleView.html?idxno=338776",
-      "description": "코레일+는 예매 단계 간소화를 포함해 ▲간편 로그인 기능 ▲개선된 사용자 환경(UI)·사용자 경험(UX) ▲삼성... 결제 단계에서도 쿠폰·마일리지를 바로 적용할 수 있다. 이용자 특성에 맞춘 맞춤형 서비스도 제공된다....",
-      "pubDate": "2026-08-10T09:02:00+00:00",
-      "category": "삼성페이",
-      "source": "국토일보"
-    },
-    {
-      "title": "기업은행, 서울 핀테크 위크 데모데이 참가 희망기업 모집",
-      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131492",
-      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=131492",
-      "description": "서울시는 기업은행과 네이버클라우드와 각각 데모데이를 공동 개최해 총 18개 핀테크 기업을 선발... 있는 핀테크 기업들의 많은 관심과 참여를 바란다\"고 말했다. [파이낸셜신문=임영빈 기자] (IBK기업은행 제공)",
-      "pubDate": "2026-08-10T08:26:00+00:00",
-      "category": "간편결제",
-      "source": "파이낸셜신문"
-    },
-    {
-      "title": "철도통합 앱 코레일+, 예매절차 간소화…삼성월렛 연동",
-      "link": "https://www.redaily.co.kr/news/articleView.html?idxno=17295",
-      "originallink": "https://www.redaily.co.kr/news/articleView.html?idxno=17295",
-      "description": "줄여 간편해졌다. 승차권 조회 화면에서 소요 시간, 정차역 수, 운임 정보를 한눈에 확인할 수 있다. 승차일이나 시간을 바꿔 조회할 때도 홈 화면으로 돌아가지 않고 변경할 수 있다. 결제 단계에서도 쿠폰·마일리지를...",
-      "pubDate": "2026-08-10T07:28:00+00:00",
-      "category": "삼성페이",
-      "source": "철도경제신문"
-    },
-    {
-      "title": "철도공사 '코레일+' 예매 간소화…삼성 월렛 연동도",
-      "link": "https://n.news.naver.com/mnews/article/003/0014118517?sid=102",
-      "originallink": "https://www.newsis.com/view/NISX20260810_0003743134",
-      "description": "간편 기능을 통해 삼성 월렛과의 연동도 새롭게 적용한다. 역 창구에서 삼성 월렛으로 결제하면 종이 승차권 대신 디지털 승차권이 자동 발권된다. 코레일+에서 예매한 승차권을 이용자의 삼성 월렛에 저장해 관리하는...",
-      "pubDate": "2026-08-10T07:04:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "삼성전자·SK하이닉스·에코프로 1000원부터 산다…카카오페이證, 국내...",
-      "link": "https://n.news.naver.com/mnews/article/366/0001185314?sid=101",
-      "originallink": "https://biz.chosun.com/stock/stock_general/2026/08/10/EEIL6K5INRARZGLEQEEJU2EBAE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "description": "카카오페이증권이 삼성전자와 SK하이닉스, 에코프로를 시작으로 국내 주식 소수점 거래 서비스를 선보인다. 투자자는 1주를 온전히 사지 않아도 1000원부터 국내 상장주식에 투자할 수 있다. 카카오페이증권은 10일...",
-      "pubDate": "2026-08-10T06:21:00+00:00",
-      "category": "카카오페이",
-      "source": "조선비즈"
-    },
-    {
-      "title": "1000원으로 ‘삼전·하닉’ 살 수 있다…카카오페이, 소수점 거래 서비...",
-      "link": "https://n.news.naver.com/mnews/article/020/0003739749?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20260810/134450096/2",
-      "description": "카카오페이증권이 1000원부터 국내 상장주식에 투자할 수 있는 소수점 거래 서비스를 시작했다. 10일 카카오페이증권(대표 신호철)은 국내 상장주식을 최소 0.0001주 단위로 거래할 수 있는 ‘소수점 거래 서비스’를...",
-      "pubDate": "2026-08-10T06:21:00+00:00",
-      "category": "카카오페이",
-      "source": "동아일보"
-    },
-    {
-      "title": "\"140만닉스도 1000원어치 산다\"…카카오페이, 국내주식 소수점 '쪼개기'...",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1719783",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1719783",
-      "description": "카카오페이증권이 주당 가격이 100만원을 웃도는 SK하이닉스도 1000원어치씩 나눠 살 수 있는 국내주식 소수점 거래 서비스를 시작했다. 자금 부담으로 고가주 투자에 접근하기 어려웠던 개인투자자의 진입 문턱이 한층...",
-      "pubDate": "2026-08-10T06:18:00+00:00",
-      "category": "카카오페이",
-      "source": "EBN"
-    },
-    {
-      "title": "\"삼전·닉스 천원에 쪼개 산다\"…카카오페이證, 국내주식 소수점 거래 ...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009106076?sid=101",
-      "originallink": "https://www.news1.kr/finance/general-stock/6254238",
-      "description": "카카오페이증권이 1000원부터 국내 상장주식에 투자할 수 있는 소수점 거래 서비스를 시작한다고 10일 밝혔다. 지난달 투자매매업 인가 취득 이후 선보이는 첫 리테일 서비스로 2022년 해외주식에서 먼저 도입한 소수점...",
-      "pubDate": "2026-08-10T05:48:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "계룡시, 주민세 납부 본격화... '간편결제·위택스' 이용 가능",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=440416",
-      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=440416",
-      "description": "주민세는 전국 금융기관 CD/ATM과 위택스, 가상계좌 및 지방세입계좌 이체, 신용카드와 신용카드 포인트 등을 이용해 납부할 수 있으며, 카카오페이와 네이버 앱 등 간편결제 서비스도 이용할 수 있다. 계룡시는 다양한...",
-      "pubDate": "2026-08-10T04:56:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스워커"
-    },
-    {
-      "title": "수원도시공사 '에너지의 날' 기념… 퀴즈 풀고 네이버 페이 받고",
-      "link": "https://gg.newdaily.co.kr/site/data/html/2026/08/10/2026081000139.html",
-      "originallink": "https://gg.newdaily.co.kr/site/data/html/2026/08/10/2026081000139.html",
-      "description": "이벤트는 공사 공식 인스타그램·페이스북·카카오톡·블로그 등 4개 소셜미디어에서 'ㅇㄴㅈ의 날' 초성을 맞히는 방식으로 진행된다. 참여자 중 40명을 추첨해 네이버페이 포인트를 지급하며 당첨자는 25일 발표한다....",
-      "pubDate": "2026-08-10T04:12:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴데일리"
-    },
-    {
-      "title": "[산업소식] 삼성 월렛에 코레일 '종이 없는 승차권' 서비스 시작",
-      "link": "http://www.4th.kr/news/articleView.html?idxno=2116056",
-      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2116056",
-      "description": "에어부산은 8월 한 달 동안 카카오페이로 항공권을 결제하는 고객에게 추가 할인 혜택도 제공한다. 항공권 구매와 프로모션에 관한 자세한 내용은 에어부산 홈페이지와 모바일 웹, 앱에서 확인할 수 있다. 2026년 7월...",
-      "pubDate": "2026-08-10T03:08:00+00:00",
-      "category": "삼성페이",
-      "source": "포쓰저널"
-    },
-    {
-      "title": "\"삼전·닉스, 쪼개 사세요\"…카카오페이證, 국내주식 소수점 거래 시작",
-      "link": "https://n.news.naver.com/mnews/article/003/0014117603?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20260810_0003742747",
-      "description": "카카오페이증권은 삼성전자와 SK하이닉스 등 국내 상장주식에 1000원부터 투자할 수 있는 소수점 거래 서비스를 출시했다고 10일 밝혔다. 이용자는 해외주식에 이어 국내 상장주식에 대해서도 거래 단위를 최소 0....",
-      "pubDate": "2026-08-10T02:56:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "코레일, 예매 간소화·삼성월렛 연동 통합 앱 '코레일+' 선봬",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1174427",
-      "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1174427",
-      "description": "코레일+는 예매 단계 간소화를 포함해 간편 로그인 기능, 개선된 사용자 환경(UI)·사용자 경험(UX), 삼성 월렛... 결제 단계에서도 쿠폰·마일리지를 바로 적용할 수 있다. 노약자 등 디지털 취약계층을 위한 큰 글씨와...",
-      "pubDate": "2026-08-10T02:46:00+00:00",
-      "category": "삼성페이",
-      "source": "금강일보"
-    },
-    {
-      "title": "삼성전자, '삼성 월렛'에 올해 스테이블코인 탑재 확정…\"계좌·해외 송...",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=743269",
-      "originallink": "http://www.newsprime.co.kr/news/article.html?no=743269",
-      "description": "대부분의 지역에서 삼성 페이가 삼성 월렛으로 통합된 만큼, 스테이블코인 잔액 역시 일반 체크카드와 동일한 가맹점 인프라에서 결제 처리가 가능해질 것으로 보인다. 샌드마크 측은 \"경쟁사인 애플과 글로벌 3위...",
-      "pubDate": "2026-08-10T02:08:00+00:00",
-      "category": "삼성페이",
-      "source": "newsprime"
-    },
-    {
-      "title": "[더벨][쿠팡페이는 지금] 오프라인 공략 '로켓페이', 원화 스테이블 코...",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061554157120101190",
-      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608061554157120101190",
-      "description": "쿠팡페이는 로켓페이를 앞세워 오프라인 전자결제 시장을 겨냥한다. 쿠팡 등 이용자 중심에서 일반 소비자 시장까지 공략하는 것이 목적이다. 전자결제 시장의 안착은 금융업에서 디지털자산 시장 확대로 이어질...",
-      "pubDate": "2026-08-10T02:02:00+00:00",
-      "category": "쿠팡페이",
-      "source": "더벨"
     }
   ],
-  "lastFetch": "2026-09-09T01:16:24.930875+00:00"
+  "lastFetch": "2026-09-10T01:02:24.670640+00:00"
 }
