@@ -1,6 +1,186 @@
 {
   "articles": [
     {
+      "title": "네이버페이, Npay 증권 PC 서비스 개편...\"종합 투자 정보 플랫폼 도약\"",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=262102",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=262102",
+      "description": "네이버페이가 넓은 PC 화면을 활용한 UI·UX 개편과 AI 기술 적용을 통해 국내외 증시부터 가상자산까지 아우르는 자산관리 투자 정보 플랫폼 경쟁에 나서고 있다. 네이버페이는 11일 국내·외 증시 흐름을 빠르게...",
+      "pubDate": "2026-09-12T00:36:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "[ICT 종합] 네이버페이 및 SOOP 소식 외",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60736",
+      "originallink": "https://www.gamevu.co.kr/news/articleView.html?idxno=60736",
+      "description": "■ ICT 종합 -네이버페이(Npay, 대표이사 박상진)가 오프라인 통합 단말기 'Npay 커넥트'에 지역화폐 결제 연동을 확대한다고 11일 밝혔다. 이번에 연동을 시작한 곳은 ▲서울 지역화폐 '서울페이' ▲대구 지역화폐...",
+      "pubDate": "2026-09-11T09:52:00+00:00",
+      "category": "네이버페이",
+      "source": "게임뷰"
+    },
+    {
+      "title": "토스, 네이버 공정위 신고 나선다… “포스 연동서 토스만 배제”",
+      "link": "https://n.news.naver.com/mnews/article/023/0003997940?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/09/11/VCJEQC342JDMBBONSQORRC4VKQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "현재 목록에는 오케이포스·KCP포스·페이히어 등 15사가 올라가 있다. 토스 관계자는 “2024년 7월 네이버에 포스 연동 제안서를 보낸 이후 지난해 11월과 12월, 올해 2월과 9월 네 차례 협의를 요청했으나 네이버로부터 거절...",
+      "pubDate": "2026-09-11T09:29:00+00:00",
+      "category": "토스페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "추석 맞이 9월 서울사랑상품권 발행…구매 일정→네이버·토스·카카오...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16190098",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16190098",
+      "description": "계좌이체와 카드 결제뿐 아니라 보유한 'Npay 머니'로도 상품권을 구매할 수 있으며, 향후 토스와 카카오페이 등으로 구매 수단을 확대할 계획이다. 또 네이버파이낸셜과 토스플레이스의 결제 단말기에 서울페이...",
+      "pubDate": "2026-09-11T09:12:00+00:00",
+      "category": "토스페이",
+      "source": "톱스타뉴스"
+    },
+    {
+      "title": "네이버페이, Npay 증권 PC 서비스 전면 개편",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106140",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4106140",
+      "description": "네이버페이가 국내외 증시 흐름을 빠르게 파악하고 투자 정보를 넓게 탐색할 수 있도록 'Npay 증권' PC 서비스를 전면 개편했습니다. 새로워진 Npay 증권은 PC 화면에 최적화된 상단 대시보드를 통해 주요 지수와 시황을...",
+      "pubDate": "2026-09-11T09:12:00+00:00",
+      "category": "네이버페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "[단독] 토스 \"네이버가 부당하게 토스만 포스 연동 배제‥공정위에 신고...",
+      "link": "https://n.news.naver.com/mnews/article/214/0001523456?sid=101",
+      "originallink": "https://imnews.imbc.com/news/2026/econo/article/6851245_36932.html",
+      "description": "간편결제 서비스 토스의 자회사인 토스플레이스가 네이버를 공정거래위원회에 신고하기로 했습니다. 토스 측은 네이버가 매장 주문·결제·매출 관리 시스템인 포스(POS) 결제 데이터를 검색 노출에 연결하는...",
+      "pubDate": "2026-09-11T08:42:00+00:00",
+      "category": "토스페이",
+      "source": "MBC 뉴스"
+    },
+    {
+      "title": "카카오페이, 도서산간 청소년 금융교육…주니어캠프 진행",
+      "link": "https://n.news.naver.com/mnews/article/003/0014185257?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260911_0003786319",
+      "description": "카카오페이가 금융교육과 진로체험 기회가 상대적으로 부족한 도서산간 지역 청소년 지원에 나선다. 카카오페이는 경북 상주 청리중학교를 시작으로 도서산간 지역 4개 학교 학생과 교사 110여 명이 참여하는 '사각사각...",
+      "pubDate": "2026-09-11T07:39:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "네이버페이, 'Npay 커넥트'에 지역화폐 추가…서울·대구·포항 연동",
+      "link": "https://n.news.naver.com/mnews/article/003/0014185233?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260911_0003786258",
+      "description": "네이버페이가 오프라인 결제 단말기에 지역화폐 결제를 추가하며 지역화폐 결제 인프라 확대에 나선다. 네이버페이(Npay)는 오프라인 통합 단말기 'Npay 커넥트'에 서울페이, 대구로페이, 포항사랑상품권 등 3개 지역화폐...",
+      "pubDate": "2026-09-11T07:22:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이, 도서산간 청소년 금융교육 나선다…4개교 110명 초청",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208163",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=208163",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이(대표 신원근)가 금융·진로교육 기회가 상대적으로 부족한 도서산간 지역 청소년을 대상으로 체험형 금융교육에 나선다. 금융사기 피해 예방부터 테크핀 분야 진로 탐색까지...",
+      "pubDate": "2026-09-11T07:18:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "[함께가자 우리ESG] 카카오페이, 도서산간 청소년 대상 금융·진로 캠프...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=136095",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=136095",
+      "description": "카카오페이(대표 신원근)가 도서산간 지역 청소년들에게 체계적인 경제 관념을 심어주기 위한 '사각사각 페이스쿨 주니어캠프'를 실시한다고 11일 밝혔다. 지난 10일 경상북도 상주시에 위치한 청리중학교를 필두로 막을...",
+      "pubDate": "2026-09-11T07:06:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "모바일 결제부터 금융보안까지…핀테크 관련주 동반 상승",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486225",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486225",
+      "description": "카카오페이는 금융 플랫폼 사업의 성장성이 부각되는 동시에 최근에는 단기 수급 부담과 플랫폼 규제 관련 우려가 맞물리면서 상대적으로 약한 흐름을 보이고 있다. KG파이낸셜과 갤럭시아머니트리는 결제 및 금융...",
+      "pubDate": "2026-09-11T06:14:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "삼성전자는 약세인데 아모텍 신바람… 삼성페이 관련주 온도차",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486217",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486217",
+      "description": "네이버 증권. 삼성전자의 모바일 간편결제 서비스인 삼성페이가 MST(마그네틱 보안 전송)와 NFC(근거리... 간편결제와 디지털 금융 분야에서는 다날과 KG파이낸셜, KG이니시스, 갤럭시아머니트리, 코나아이 등이 함께...",
+      "pubDate": "2026-09-11T05:58:00+00:00",
+      "category": "삼성페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "“도서산간 청소년에 금융·진로체험”…카카오페이, ‘주니어캠프’ ...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002241080?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026091109380245183",
+      "description": "카카오페이가 도서산간 지역 청소년을 대상으로 금융교육과 진로체험을 결합한 ‘사각사각 페이스쿨 주니어캠프’를 운영한다. 카카오페이는 지난 10일 경북 상주 청리중학교를 시작으로 전남 영광 법성고등학교, 충북...",
+      "pubDate": "2026-09-11T05:29:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "네이버페이, ‘Npay 커넥트’에 서울·대구·포항 지역화폐 연동",
+      "link": "https://www.viva100.com/article/20260911500546",
+      "originallink": "https://www.viva100.com/article/20260911500546",
+      "description": "이번 연동은 간편결제를 중심으로 구축해 온 네이버페이의 오프라인 결제 접점을 지역화폐 영역으로 넓힌다는 데 의미가 있다. 지역화폐 이용자는 기존 사용처에서 QR 방식으로 결제할 수 있는 선택지가 확대되고...",
+      "pubDate": "2026-09-11T05:06:00+00:00",
+      "category": "네이버페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "카카오페이, 청소년 금융·진로체험 '사각사각 페이스쿨 주니어캠프' 개...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=121701",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=121701",
+      "description": "지난 10일 판교 카카오페이 오피스에서 진행한 '사각사각 페이스쿨 주니어캠프'에 참석한 경북 상주 청리중학교 학생들이 기념촬영을 진행하고 있다. (사진=카카오페이)  카카오페이가 도서산간 지역 청소년을 대상으로...",
+      "pubDate": "2026-09-11T04:56:00+00:00",
+      "category": "카카오페이",
+      "source": "딜라이트닷넷"
+    },
+    {
+      "title": "카카오페이, 도서산간 청소년 초청…금융교육·진로체험 지원",
+      "link": "https://n.news.naver.com/mnews/article/030/0003465936?sid=101",
+      "originallink": "https://www.etnews.com/20260911000180",
+      "description": "카카오페이가 도서산간 지역 청소년을 위한 금융·진로체험 프로그램인 '사각사각 페이스쿨 주니어캠프'를 진행한다. 지난 10일 경북 상주 청리중학교를 시작으로 총 4개 학교의 학생과 교사 110여명을 초청해 금융교육과...",
+      "pubDate": "2026-09-11T04:09:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, '사각사각 페이스쿨 주니어캠프' 출발",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=91287",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=91287",
+      "description": "카카오페이가 금융교육과 진로 체험 기회가 상대적으로 부족한 도서산간 지역 청소년을 위한 '사각사각 페이스쿨 주니어캠프'를 진행한다. 카카오페이는 지난 10일 경북 상주 청리중학교를 시작으로 4개 학교 학생과...",
+      "pubDate": "2026-09-11T02:54:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "'Npay 커넥트'에 3곳 지역화폐 연동···소상공인 돕는다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005574450?sid=101",
+      "originallink": "https://www.fnnews.com/news/202609110951213666",
+      "description": "Npay는 이외에도 간편결제 및 'Npay 커넥트'를 기반으로 지역화폐 사용을 활성화하는 다양한 서비스를 제공하고 있다. 지난해 iM뱅크와 업무협약을 맺고 대구·경북 지역 내 iM뱅크 영업점에서 'Npay 커넥트'를 신청하고...",
+      "pubDate": "2026-09-11T02:49:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, '사각사각 페이스쿨 주니어캠프' 진행",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318938",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=318938",
+      "description": "10일 경기도 판교 카카오페이 오피스에서 진행한 '사각사각 페이스쿨 주니어캠프'에 참석한 경북 상주 청리중학교 학생들이 기념촬영을 진행하고 있다. 사진=카카오페이  카카오페이는 도서산간 지역 청소년을 위한 금융...",
+      "pubDate": "2026-09-11T02:10:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스 '검색 미션' 후폭풍...소상공인 \"노출·매출 피해 우려\"",
+      "link": "https://hbnpress.com/news/view/1065574425204001",
+      "originallink": "https://hbnpress.com/news/view/1065574425204001",
+      "description": "토스가 이용자에게 소액 포인트를 지급하고 네이버에서 특정 상품이나 사업장을 검색하도록 한 보상형... 플레이스 검색 역시 업체와 검색어의 유사도, 인기도, 거리, 정보 충실성 등을 종합적으로 반영한다. 연합회는 이...",
+      "pubDate": "2026-09-11T01:06:00+00:00",
+      "category": "토스페이",
+      "source": "hbnpress"
+    },
+    {
       "title": "\"한눈에 보는 투자정보\"…'Npay 증권' PC서비스 개편",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=547392",
       "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=547392",
@@ -484,7 +664,7 @@
       "description": "카카오페이가 카카오그룹의 인프라를 바탕으로 스테이블코인 등 온체인 자산을 지원하는 통합형 디지털 자산 지갑 기술 실증을 마치고 기업 맞춤형 인프라 보급에 나선다. ◆ 토스, 피에프씨테크놀로지스와 맞춤형...",
       "pubDate": "2026-09-09T04:34:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "카카오페이, 디지털 자산 지갑 기술 검증…송금·결제·정산 구현",
@@ -925,7 +1105,7 @@
       "description": "지난 7일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 비자 코리아의 업무협약식에서 (왼쪽부터)김규하 토스 부대표와 쿠날 채터지 비자 코리아 사장이 기념 사진을 촬영하고 있다. [사진=토스페이먼츠] 지난 7일...",
       "pubDate": "2026-09-08T01:24:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스페이먼츠, 비자와 손잡고 결제 인프라 경쟁력 높인다",
@@ -1357,7 +1537,7 @@
       "description": "◆ 토스, 간편 결제 ‘퀵계좌이체’ 월 거래액 1000억 돌파 토스(운영사 비바리퍼블리카, 대표 이승건)의 간편 계좌이체 서비스 ‘퀵계좌이체’가 지난달 말 기준 월 거래액 1000억을 돌파했다고 6일 전했다. 누적 이용자...",
       "pubDate": "2026-09-07T00:04:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "정답 확인하자…토스 행운퀴즈 '9월 7일' 정답 공개",
@@ -1816,7 +1996,7 @@
       "description": "토스모바일이 하나은행과 손잡고 하나 나라사랑카드 이용 고객을 위한 전용 알뜰폰 제휴 요금제를... 기반의 간편 결제 인프라를 지원한다고 4일 전했다. 네이버페이가 제22회 제천국제음악영화제와 제31회...",
       "pubDate": "2026-09-04T06:30:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "네이버, 토스 '리워드 검색' 경찰 수사의뢰…\"순위 왜곡\"",
@@ -2113,7 +2293,7 @@
       "description": "토스페이먼츠는 의뢰인이 간편결제에 익숙한 만큼 수임료처럼 금액이 큰 결제일수록 편하고 안전한 수단이 필요하다는 수요가 있었다고 설명했다. 새 결제 서비스는 법률사무소 환경에 맞춰 설계됐다. 의뢰인이...",
       "pubDate": "2026-09-02T08:10:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "핀테크 AI, 금융 문턱 낮추지만…고령층엔 또 다른 '금융 격차' 되나",
@@ -4048,7 +4228,7 @@
       "description": "카카오페이는 해외결제 이용자와 결제 건수를 각각 15.5%, 16.9% 늘린 캠페인 성과로 ‘2026 에피 어워드 코리아’ 은상을 받았다. 신용보증기금은 전북은행과 손잡고 지역 중소기업이 영업점 방문 없이 보증 신청부터...",
       "pubDate": "2026-08-28T08:50:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[금융 이모저모] 헥토파이낸셜, 'AFA 어워즈 2026' 아시아 대표 핀테크 ...",
@@ -4102,7 +4282,7 @@
       "description": "이석태 우리금융저축은행 대표(왼쪽)가 지난 27일 서울 강남구 역삼동 아크플레이스에서 열린 업무협약식에서 김규하 토스 부대표와 기념 촬영하고 있다. [사진=토스] 4대 금융지주 계열 저축은행 가운데 토스...",
       "pubDate": "2026-08-28T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[금융] 하나카드 카카오페이 연동 / NH농협은행 모바일 신분증 인증 / K...",
@@ -5002,7 +5182,7 @@
       "description": "2023년 애플페이·화웨이페이·샤오미페이 등을 이용할 수 있는 NFC 결제 시스템을 도입했으며 지난해에는 대만 라인페이를 추가했다. 롯데백화점은 이번 유니온페이 QR 및 NFC QPS 도입을 통해 외국인 고객의 국적과 결제...",
       "pubDate": "2026-08-27T05:14:00+00:00",
       "category": "간편결제",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "토스, 국내 계좌 없는 외국인 유학생에 선불카드 배포",
@@ -5461,7 +5641,7 @@
       "description": "카카오페이는 기존 체크카드에 카카오페이머니를 연결해 사용할 수 있는 서비스를 선보였으며, 두나무는 디지털자산 거래소 최초로 행정안전부의 행정정보 공동이용 대상기관에 지정됐다. ◆ 카카오뱅크, ‘모바일...",
       "pubDate": "2026-08-26T08:10:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "네이버파이낸셜, 비금융 데이터로 소상공인·중저신용자 대출 심사",
@@ -5821,7 +6001,7 @@
       "description": "N페이(N페이, 네이버페이)가 BC카드·유니온페이와 손잡고 방한 외국인의 국내 결제 편의성을 높이기 위한 결제 인프라 구축에 나선다. ◆ 카카오뱅크, 윤호영 대표 ‘사람 살리는 금융’ 캠페인 동참...불법사금융 피해...",
       "pubDate": "2026-08-25T08:04:00+00:00",
       "category": "간편결제",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "카카오페이, 시니어 1000명 대상 디지털 금융교육…AI 금융까지 확대",
@@ -6388,7 +6568,7 @@
       "description": "◆ N페이, 매머드커피와 ‘N페이 커넥트’ 프로모션…결제액 50% 적립 N페이(네이버페이, Npay)가 전국 매머드커피 매장에 오프라인 통합 단말기 ‘N페이 커넥트’ 설치를 완료하고 이용자 혜택과 소상공인 지원을 결합한...",
       "pubDate": "2026-08-24T08:20:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "커피 한 잔 결제에 절반이 포인트…네이버페이, 매머드커피서 '반값 적...",
@@ -6712,7 +6892,7 @@
       "description": "토스플레이스는 가맹점 사장들을 직접 찾아가는 첫 간담회를 열고 서비스 개선과 매장 운영 관련 현장 의견을 청취했다. ◆ 신한은행, 경남 수해 복구·이재민 구호 위해 2억 전달 신한은행(은행장 정상혁)이 집중호우로...",
       "pubDate": "2026-08-21T06:30:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스플레이스, 매장 비우기 어려운 사장님 찾아갔다...30명과 첫 간담회",
@@ -7387,7 +7567,7 @@
       "description": "카카오페이가 ‘굿딜’에 세븐일레븐을 추가해 국내 대표 편의점 4사에서 조건 없는 할인 혜택을 제공한다. 토스가 서민금융 공급 확대를 위해 대출비교 서비스에 입점한 저축은행의 ‘햇살론 특례’ 중개 수수료를...",
       "pubDate": "2026-08-19T06:44:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "고흥에 10만원 기부하면 답례품에 네이버페이 1만원권까지? '더블이벤트...",
@@ -7711,7 +7891,7 @@
       "description": "카카오페이손해보험은 보험금 청구부터 지급까지 걸린 시간을 알려주는 ‘바로지급’ 서비스를 시작했다. ◆ 현대해상, 다문화 아동 진로 탐색 지원…‘마음한글’ 직업체험 진행 현대해상화재보험(대표이사 이석현)이...",
       "pubDate": "2026-08-18T02:10:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스증권 순익 2368억, 토스 전체 넘었다...카카오·네이버와 갈린 '돈 ...",
@@ -7999,7 +8179,7 @@
       "description": "진필규 토스플레이스 사업부문장(오른쪽)과 박정빈 당근 로컬비즈니스 사업개발 리드가 12일 서울 서초구 토스 신논현 오피스에서 '전략적 업무 제휴 협약 체결식'을 열고 기념 사진을 찍고 있다./토스 토스플레이스는...",
       "pubDate": "2026-08-13T07:16:00+00:00",
       "category": "토스페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 디지털 금융 소식...토스플레이스·빗썸",
@@ -8008,7 +8188,7 @@
       "description": "토스플레이스가 당근과 전략적 사업 제휴를 맺고 소상공인의 홍보 채널 확대와 매출 증대 지원에 나선다. 빗썸이 8월 정보보호 캠페인의 일환으로 인공지능(AI) 관련 새로운 보안 위협인 ‘AI 공급망 공격’ 예방 가이드를...",
       "pubDate": "2026-08-13T07:14:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "당근 비즈프로필, 토스플레이스 가맹점 40만곳과 연결",
@@ -8243,295 +8423,7 @@
       "pubDate": "2026-08-13T01:08:00+00:00",
       "category": "토스페이",
       "source": "공감신문"
-    },
-    {
-      "title": "토스•당근 맞손…2천만 이용자와 소상공인 연결",
-      "link": "https://www.viva100.com/article/20260813500425",
-      "originallink": "https://www.viva100.com/article/20260813500425",
-      "description": "토스플레이스와 당근이 온라인 지역생활 커뮤니티와 오프라인 매장 운영 시스템을 연결해 소상공인의 고객 유입과 매장 운영을 지원한다. 비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 공급 자회사...",
-      "pubDate": "2026-08-13T01:04:00+00:00",
-      "category": "토스페이",
-      "source": "브릿지경제"
-    },
-    {
-      "title": "토스플레이스·당근 맞손…동네 가게 디지털 경쟁력 높인다",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6937948",
-      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6937948",
-      "description": "서울 서초동 토스 신논현 오피스에서 열린 협약식에서 진필규 토스플레이스 사업부문장(우)과 박정빈 로컬비즈니스 사업개발 리드가 기념 사진을 찍고 있다. ⓒ토스  토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사...",
-      "pubDate": "2026-08-13T00:58:00+00:00",
-      "category": "토스페이",
-      "source": "스포츠한국"
-    },
-    {
-      "title": "당근, 40만 토스플레이스 가맹점 연동",
-      "link": "https://ditoday.com/%eb%8b%b9%ea%b7%bc-40%eb%a7%8c-%ed%86%a0%ec%8a%a4%ed%94%8c%eb%a0%88%ec%9d%b4%ec%8a%a4-%ea%b0%80%eb%a7%b9%ec%a0%90-%ec%97%b0%eb%8f%99/",
-      "originallink": "https://ditoday.com/%eb%8b%b9%ea%b7%bc-40%eb%a7%8c-%ed%86%a0%ec%8a%a4%ed%94%8c%eb%a0%88%ec%9d%b4%ec%8a%a4-%ea%b0%80%eb%a7%b9%ec%a0%90-%ec%97%b0%eb%8f%99/",
-      "description": "당근이 토스플레이스와 손잡고 전국 40만 개 이상 매장의 홍보·주문·결제 시스템을 연동한다고 13일 밝혔다. 우선 3분기 중 토스 포스와 당근 비즈프로필을 연동한다. 사장님은 토스 포스에 마련된 연동 화면을 통해 매장...",
-      "pubDate": "2026-08-13T00:52:00+00:00",
-      "category": "토스페이",
-      "source": "ditoday"
-    },
-    {
-      "title": "토스플레이스, 당근마켓과 전략적 제휴 체결",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856524",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=856524",
-      "description": "토스플레이스 | 서울=한스경제 김종효 기자 | 토스플레이스는 당근과 전략적 사업 제휴 협약을 맺었다고 13일 밝혔다. 이번 협약은 온·오프라인 채널을 연결해 소상공인의 홍보 채널을 넓히고 매출 증대를 지원하기 위해...",
-      "pubDate": "2026-08-13T00:52:00+00:00",
-      "category": "토스페이",
-      "source": "한스경제"
-    },
-    {
-      "title": "[Digital & Now] 전국 40만 토스 가맹점서 '당근' 동네 가게 홍보·주문·...",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1720221",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1720221",
-      "description": "국내 대표 지역생활 커뮤니티 당근은 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스와 전략적 업무 제휴 협약을 체결했다고 13일 밝혔다. 이번 협약은 전국 토스플레이스 가맹점을 당근 비즈프로필과...",
-      "pubDate": "2026-08-13T00:46:00+00:00",
-      "category": "토스페이",
-      "source": "EBN"
-    },
-    {
-      "title": "토스플레이스·당근, 온·오프라인 잇는다…비즈프로필·주문·결제 연동",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202608130937103842de3f0aa1be_7",
-      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202608130937103842de3f0aa1be_7",
-      "description": "토스플레이스가 당근과 손잡고 온라인 지역생활 플랫폼과 오프라인 매장 결제 인프라를 연결한다. 당근 비즈프로필을 토스 포스와 연동하고, 향후 예약·주문·포장 요청까지 한 화면에서 처리할 수 있도록 범위를 넓힌다....",
-      "pubDate": "2026-08-13T00:38:00+00:00",
-      "category": "토스페이",
-      "source": "더파워"
-    },
-    {
-      "title": "토스·당근 손잡았다…POS에 비즈프로필 연동",
-      "link": "https://n.news.naver.com/mnews/article/001/0016248579?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20260813037300017?input=1195m",
-      "description": "가맹점 정보, 당근 동네지도에 노출…예약·주문까지 연결 토스플레이스가 지역생활 커뮤니티 당근과 업무협약(MOU)을 체결했다고 13일 밝혔다. 이번 협약은 당근의 온라인 고객과 토스플레이스의 오프라인 채널을...",
-      "pubDate": "2026-08-13T00:35:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "토스플레이스, 당근과 소상공인 매출 지원 협약 체결",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315349",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315349",
-      "description": "지난 10일 서울 서초동 토스 신논현 오피스에서 열린 협약식에서 진필규(오른쪽) 토스플레이스 사업부문장과 박정빈 로컬비즈니스 사업개발 리드가 기념 사진을 찍고 있다. 사진=토스플레이스   토스플레이스가 국내 대표...",
-      "pubDate": "2026-08-13T00:22:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "토스플레이스, 당근과 MOU…매장 홍보부터 주문·결제까지 연계",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692714",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692714",
-      "description": "협약식에서 진필규 토스플레이스 사업부문장(오른쪽)과 박정빈 로컬비즈니스 사업개발 리드(왼쪽)가 기념 사진을 찍고 있다. [사진: 토스] 토스의 결제 단말기 및 포스(POS) 솔루션 자회사 토스플레이스가 지역생활...",
-      "pubDate": "2026-08-13T00:20:00+00:00",
-      "category": "토스페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "당근·토스플레이스, 전략적 업무 제휴 협약 체결",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458912",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458912",
-      "description": "당근은 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스와 전략적 업무 제휴 협약을 체결했다고 13일 밝혔다. 이번 협약은 전국 토스플레이스 가맹점을 당근 비즈프로필과 연결하고, 가게 홍보부터 주문...",
-      "pubDate": "2026-08-13T00:18:00+00:00",
-      "category": "토스페이",
-      "source": "이뉴스투데이"
-    },
-    {
-      "title": "당근, 토스플레이스와 맞손…로컬 커머스 강화",
-      "link": "https://n.news.naver.com/mnews/article/277/0005802497?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026081309151102970",
-      "description": "당근은 12일 토스 자회사 토스플레이스와 전략적 업무 제휴 협약을 체결했다고 13일 밝혔다. 이번 협약은 전국 토스플레이스 가맹점을 당근 비즈프로필과 연결하기 위해 마련됐다. 협약 내용에는 ▲당근 비즈프로필과...",
-      "pubDate": "2026-08-13T00:15:00+00:00",
-      "category": "토스페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "당근, 토스플레이스와 맞손…40만 매장 디지털 전환 지원",
-      "link": "https://www.sentv.co.kr/article/view/sentv202608130035",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202608130035",
-      "description": "당근이 토스플레이스와 손잡고 전국 40만개 이상 매장의 홍보·주문·결제 시스템을 연동한다. 당근은 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스와 전략적 업무협약을 체결했다고 13일 밝혔다. 이번...",
-      "pubDate": "2026-08-13T00:12:00+00:00",
-      "category": "토스페이",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "당근, 토스와 맞손…매장 홍보·주문·결제 시스템 연동",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1395487",
-      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1395487",
-      "description": "사진=당근 제공  지역생활 커뮤니티 당근이 토스의 결제 단말기 및 포스(POS) 솔루션 자회사 토스플레이스와 전략적 업무 제휴 협약을 체결했다고 13일 밝혔다. 이번 협약은 전국 40만 개 이상 토스플레이스 가맹점을 당근...",
-      "pubDate": "2026-08-13T00:12:00+00:00",
-      "category": "토스페이",
-      "source": "데일리한국"
-    },
-    {
-      "title": "당근, 토스플레이스 40만 가맹점 품는다…홍보·주문·결제 연동",
-      "link": "https://n.news.naver.com/mnews/article/018/0006350813?sid=105",
-      "originallink": "https://www.edaily.co.kr/news/newspath.asp?newsid=03840886645546992",
-      "description": "당근이 토스플레이스와 손잡고 전국 40만개 이상 매장의 홍보, 주문, 결제 시스템을 연동한다. 동네 가게의 당근 비즈프로필과 토스플레이스의 포스(POS)·결제 인프라를 연결해 로컬 커머스 생태계를 넓히겠다는 전략이다....",
-      "pubDate": "2026-08-13T00:07:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "당근, 토스플레이스와 맞손…전국 40만 매장 홍보·결제 잇는다",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1401830",
-      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1401830",
-      "description": "12일 서울 서초구 토스플레이스 신논현 오피스에서 열린 전략적 업무 제휴 협약 체결식에서 박정빈 당근 로컬비즈니스 사업개발 리드(왼쪽)와 진필규 토스플레이스 사업부문장(오른쪽)이 기념촬영을 하고 있다. 사진=당근...",
-      "pubDate": "2026-08-13T00:00:00+00:00",
-      "category": "토스페이",
-      "source": "매일일보"
-    },
-    {
-      "title": "토스플레이스, 토스 포스 매장 2000만 당근 이용자에게 알린다",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=270253",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=270253",
-      "description": "토스플레이스는 지역생활 커뮤니티 당근과 온·오프라인 채널을 연결하기 위한 전략적 사업 제휴 협약을 멪었다고 13일 밝혔다. 협약에 따라 양사는 약 2000만명이 이용하는 당근의 온라인 고객 접점과 토스플레이스의...",
-      "pubDate": "2026-08-13T00:00:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "토스플레이스, 당근마켓과 맞손…소상공인 홍보·주문·결제 연동 서비...",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=143009",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=143009",
-      "description": "지난 10일 서울 서초동 토스 신논현 오피스에서 열린 협약식에서 진필규 토스플레이스 사업부문장(오른쪽)과 박정빈 로컬비즈니스 사업개발 리드가 기념 사진을 찍고 있다. [토스플레이스]  토스플레이스가 지역생활...",
-      "pubDate": "2026-08-13T00:00:00+00:00",
-      "category": "토스페이",
-      "source": "직썰"
-    },
-    {
-      "title": "서울사랑상품권 결제수단 확대…해외·민간 간편결제 참여 대비 약관 개...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009111338?sid=102",
-      "originallink": "https://www.news1.kr/local/moi/6257533",
-      "description": "서울시가 해외결제사와 민간 간편결제사 등 서울사랑상품권 서비스 참여기관 확대에 맞춰 가맹점 약관을 개정한다. QR코드를 중심으로 짜인 기존 결제 규정을 다양한 결제수단을 포괄하도록 바꾸고, 서비스 운영 과정에서...",
-      "pubDate": "2026-08-12T23:42:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스1"
-    },
-    {
-      "title": "토스플레이스, 당근과 소상공인 매출 확대 '맞손'",
-      "link": "https://www.ajunews.com/view/20260813083424233",
-      "originallink": "https://www.ajunews.com/view/20260813083424233",
-      "description": "온·오프라인 채널 연결 MOU 당근 예약·주문 토스 포스서 처리 아주경제=이성진 기자 leesj@ajunews.com (왼쪽부터) 박정빈 당근 로컬비즈니스 사업개발 리드, 진필규 토스플레이스 사업부문장 [사진=토스] 비바리퍼블리카...",
-      "pubDate": "2026-08-12T23:38:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "결제 인프라 잡은 토스플레이스 당근과 손 잡고 동네 상권 공략 나선다",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=747855",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=747855",
-      "description": "비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스는 지역생활 커뮤니티 당근과 온·오프라인 채널을 연결하는 사업 협약을 맺었다고 13일 밝혔다. 약 2천만 명이 쓰는 당근의 온라인 고객 접점과...",
-      "pubDate": "2026-08-12T23:26:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "\"2000만 당근 고객 모신다\"…토스플레이스·당근, 온·오프라인 매장 연...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84907",
-      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=84907",
-      "description": "비바리퍼블리카의 결제 단말기 및 포스 솔루션 자회사 토스플레이스는 지역생활 커뮤니티 당근과 온·오프라인 채널을 연결하는 전략적 사업 제휴 협약(MOU)을 체결했다고 13일 밝혔다. 지난 12일 서울 서초동 토스 신논현...",
-      "pubDate": "2026-08-12T23:14:00+00:00",
-      "category": "토스페이",
-      "source": "더페어"
-    },
-    {
-      "title": "인천시교육청, 방과후학교 간편결제 현장 활용도 높인다... 담당자 100여...",
-      "link": "http://www.lawissue.co.kr/view.php?ud=202608121149132692d94aa4ada6_12",
-      "originallink": "http://www.lawissue.co.kr/view.php?ud=202608121149132692d94aa4ada6_12",
-      "description": "인천광역시교육청이 방과후학교 수강료 납부 편의와 학교 행정 효율을 높이기 위해 간편결제 시스템의 현장 활용 기반을 강화하고 있다. 인천시교육청은 시스템 고도화에 맞춰 학교 담당자들이 개선된 기능을 실제 업무에...",
-      "pubDate": "2026-08-12T10:42:00+00:00",
-      "category": "간편결제",
-      "source": "로이슈"
-    },
-    {
-      "title": "카카오페이, 원화 스테이블코인 전담 인력 채용",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/389182",
-      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/389182",
-      "description": "이번 채용은 네이버와 카카오의 원화 스테이블코인 사업 경쟁이 인력과 기술 인프라 확보 단계로 이어지는 흐름과 맞닿아 있다. 다만 채용 공고는 카카오페이가 실제 발행을 결정했거나 구체적인 출시 일정을 확정했다는...",
-      "pubDate": "2026-08-12T09:06:00+00:00",
-      "category": "카카오페이",
-      "source": "토큰포스트"
-    },
-    {
-      "title": "삼성월렛 스테이블코인으로 보폭 확대, 우리은행장 정진완 '삼성월렛 동...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=444596",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=444596",
-      "description": "주요 페이 앱 가운데 가장 많았다. 삼성월렛에 스테이블코인 기능이 도입되면 이들 이용자가 별도의... 우리은행은 지난달 쿠팡과 원화 스테이블코인 기반의 실시간 정산 기술 개념검증(PoC)을 완료했다. 우리은행은 이...",
-      "pubDate": "2026-08-12T08:02:00+00:00",
-      "category": "삼성페이",
-      "source": "비즈니스포스트"
-    },
-    {
-      "title": "[금융 브리핑] 카카오뱅크·케이뱅크·네이버페이",
-      "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90495",
-      "originallink": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90495",
-      "description": "[사진 = 네이버페이 제공] ◇네이버페이, 한국전력공사와 전기요금 청구·수납 디지털화를 위한 업무협약 체결 네이버페이가 한국전력공사(이하 한국전력)와 전기요금 청구·수납 디지털화를 위한 업무협약(MOU)을...",
-      "pubDate": "2026-08-12T07:00:00+00:00",
-      "category": "네이버페이",
-      "source": "나이스경제"
-    },
-    {
-      "title": "박상진 네이버페이 대표, 상반기 결제액 50조 육박…‘커넥트’로 오프...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202608121012066290ed56b8e1f8_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=202608121012066290ed56b8e1f8_18",
-      "description": "박상진 네이버페이 대표가 올해 상반기 결제액 49조4000억원을 기록했다. 외부 결제액이 30% 가까이 늘어나며 전체 결제 성장을 이끌었다. 12일 네이버 IR 자료에 따르면, 올해 상반기 네이버페이 결제액은...",
-      "pubDate": "2026-08-12T06:44:00+00:00",
-      "category": "네이버페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "[A 금융체크] 금융 슈퍼앱 삼국지...토스 '일상'·모니모 '금융'·KB '생활...",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=258583",
-      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=258583",
-      "description": "△'금융 슈퍼앱' 시대 연 토스...간편송금에서 일상으로=토스 앱은 송금, 계좌 조회, 증권, 대출, 결제 등 모든 금융 서비스를 하나의 앱에서 제공하는 대표적인 금융 슈퍼앱이다. 복잡한 인증 절차 없는 간편 송금, 전...",
-      "pubDate": "2026-08-12T06:06:00+00:00",
-      "category": "토스페이",
-      "source": "아시아A"
-    },
-    {
-      "title": "인앱 결제·B2C 넘어 B2B로… 네카오 핀테크 '고성장'",
-      "link": "https://www.asiatime.co.kr/article/20260812500320",
-      "originallink": "https://www.asiatime.co.kr/article/20260812500320",
-      "description": "네이버, 2Q 파이낸셜 플랫폼 매출 16% 성장 카카오페이 2Q 매출 40.6% 올라 '역대 최고' 글로벌 시장과 함께 성장하는 네카오 핀테크 [아시아타임즈=김민솔 기자] 금융과 정보통신(IT) 기술이 융합한 핀테크 사업이...",
-      "pubDate": "2026-08-12T06:04:00+00:00",
-      "category": "간편결제",
-      "source": "아시아타임즈"
-    },
-    {
-      "title": "카카오페이 퀴즈타임 8월 12일 정답 공개",
-      "link": "https://www.wikitree.co.kr/articles/1152001",
-      "originallink": "https://www.wikitree.co.kr/articles/1152001",
-      "description": "12일 카카오페이 퀴즈타임에 ‘카카오뱅크 AI 이모지 퀴즈’ 관련 문제가 출제됐다.  오전 8시 정답은 [ 버스노선 ]이다. 오후 12시 정답은 [ 가속 ]이다. 카카오페이 퀴즈타임, 참여 방법은? 카카오페이 퀴즈타임은 매일 특정...",
-      "pubDate": "2026-08-12T04:54:00+00:00",
-      "category": "카카오페이",
-      "source": "위키트리"
-    },
-    {
-      "title": "[더벨][쿠팡페이는 지금] 정찬묵 대표 연임, 페이팔 출신과 각자 경영 이...",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071549292040105368",
-      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608071549292040105368",
-      "description": "길 디렉터는 카카오와 카카오뱅크 등을 거쳐 쿠팡페이로 자리를 옮겨 간편결제 사용자 UX 강화에 전념하고 있다. 쿠팡페이는 편리하고 안전하게 이용할 수 있는 핀테크 서비스 제공도 중요한 목표로 삼고 있다. UX...",
-      "pubDate": "2026-08-12T02:02:00+00:00",
-      "category": "쿠팡페이",
-      "source": "더벨"
-    },
-    {
-      "title": "누적 회원 600만 돌파 '롯데잇츠', 간편결제 확대하고 D2C 생태계 구축",
-      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3133561",
-      "originallink": "http://www.ttlnews.com/news/articleView.html?idxno=3133561",
-      "description": "기존 결제 방식에 더해 네이버페이, 토스페이 등 주요 간편결제 서비스를 새롭게 탑재해 결제 과정에서 발생하는 사용자 이탈을 방지하고자 했다. 지난 2020년 처음 선보인 롯데잇츠는 롯데리아, 엔제리너스...",
-      "pubDate": "2026-08-12T02:00:00+00:00",
-      "category": "간편결제",
-      "source": "퍼블릭뉴스통신(Public news-network for TTL)"
-    },
-    {
-      "title": "페이코 수익성 잡은 NHN, 글로벌 게임·웹툰 신작으로 날개",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476598",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476598",
-      "description": "네이버 증권. 글로벌 이커머스 시장의 성장률 둔화 우려와 결제 수수료율 인하 압박, 핀테크 시장 내 경쟁... KG이니시스, 다날, 카카오페이, 갤럭시아머니트리, KG파이낸셜, 한국정보통신, 헥토파이낸셜, 인포뱅크...",
-      "pubDate": "2026-08-12T01:34:00+00:00",
-      "category": "페이코",
-      "source": "핀포인트뉴스"
     }
   ],
-  "lastFetch": "2026-09-11T01:00:53.480341+00:00"
+  "lastFetch": "2026-09-12T01:04:21.374203+00:00"
 }
