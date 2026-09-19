@@ -1,6 +1,420 @@
 {
   "articles": [
     {
+      "title": "로그인 없이 카드 혜택 비교…카카오페이 '카드연구소' 오픈",
+      "link": "https://www.ajunews.com/view/20260918155902031",
+      "originallink": "https://www.ajunews.com/view/20260918155902031",
+      "description": "모바일·PC서 이용 가능 아주경제=김윤섭 기자 angks678@ajunews.com 카카오페이 카드 비교 서비스 카드연구소. [사진=카카오페이] 카카오페이가 애플리케이션(앱)에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로...",
+      "pubDate": "2026-09-19T00:02:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "\"카드 간편비교 하세요\" 카카오페이, 개인 맞춤형 '카드연구소' 웹 오픈",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=263230",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=263230",
+      "description": "카카오페이는 기존 모바일 앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장해 '카드연구소'를 정식 출시했다고 밝혔다. 이번 웹 서비스는 별도 로그인 없이도 모바일과 PC에서 접속 가능해 사용자...",
+      "pubDate": "2026-09-19T00:00:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "네카토, 3사 3색 결제시장 선점 전략…네이버 외부 가맹점·카카오페이...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202609101436285987ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202609101436285987ed56b8e1f8_18",
+      "description": "네이버페이·카카오페이·토스(이하 네카토)가 온라인 중심이던 결제 사업의 외연을 넓히면서 각기 다른 성장축을 키우고 있다. 네이버페이는 외부 가맹점 결제를 확대하고, 카카오페이는 생활밀착형 오프라인 결제에...",
+      "pubDate": "2026-09-18T21:02:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "SBI저축은행, 카카오페이·KCB와 햡약…대안신용평가 기반 중·저신용자...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=146852",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=146852",
+      "description": "신원근 카카오페이 대표, 김문석 SBI저축은행 대표, 이성욱 KCB 대표가 사진 촬영을 하고 있다. 사진=SBI저축은행  SBI저축은행이 카카오페이, 코리아크레딧뷰로(이하 KCB)와 대안신용평가 기반 중·저신용자 금융 공급...",
+      "pubDate": "2026-09-18T17:18:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "네이버페이, 'Npay 부동산' 인테리어 서비스 오픈",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107504",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107504",
+      "description": "네이버페이가 부동산 빅데이터 플랫폼 아실과 손잡고 'Npay 부동산'에서 다양한 인테리어 시공 사례를 살펴보고 적합한 시공업체까지 탐색할 수 있는 인테리어 서비스를 오픈했습니다. 이번 서비스는 시공 사례와 업체를...",
+      "pubDate": "2026-09-18T10:32:00+00:00",
+      "category": "네이버페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "“비번이나 얼굴·지문으로 하루 1.2조 결제”…간편결제 또 역대 최대...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002699527?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10878850?ref=naver",
+      "description": "간편지급 서비스 제공업자 중 네이버페이, 카카오페이 등 전자금융업자 이용 건수와 이용액은 작년 동기대비 각 13%, 17.5% 뛰었다. 전자금융업자 비중은 작년 상·하반기 55.1%에서 올해 상반기 55.4%로 확대됐다....",
+      "pubDate": "2026-09-18T08:46:00+00:00",
+      "category": "간편결제",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "\"오프라인 데이터 확보하라\"…네이버·토스, POS 시장 경쟁 불 붙었다",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026091816391230118",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026091816391230118",
+      "description": "18일 정보기술(IT) 업계에 따르면 토스 자회사 토스플레이스는 네이버 '플레이스 플러스'에서 포스사 15곳 중 토스포스만 배제해왔다며 공정위에 신고하겠다고 밝혔다. 플레이스 플러스는 네이버가 매장 포스 결제...",
+      "pubDate": "2026-09-18T08:20:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "올해 상반기 간편결제 역대 최대, 네이버페이·카카오페이 급성장",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=879066",
+      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=879066",
+      "description": "주요 서비스 제공업체인 네이버페이와 카카오페이의 이용 건수와 이용액은 전년 대비 각각 13.0%와 17.5% 증가한 것으로 나타났다. 전자금융업자의 시장 점유율도 소폭 상승해 55.4%를 기록했다. 휴대폰 제조사의...",
+      "pubDate": "2026-09-18T08:18:00+00:00",
+      "category": "네이버페이",
+      "source": "공감신문"
+    },
+    {
+      "title": "카카오페이 '카드연구소' 오픈…카드별 혜택 한눈에 비교",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=239966",
+      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=239966",
+      "description": "카카오페이가 기존 앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로 확대해 모바일과 PC에서 로그인 없이 이용할 수 있는 '카드연구소'를 선보였다고 18일 밝혔다. 카드연구소에서는 원하는 혜택 카테고리와...",
+      "pubDate": "2026-09-18T07:44:00+00:00",
+      "category": "카카오페이",
+      "source": "이지경제"
+    },
+    {
+      "title": "결제부터 쇼핑, 광고까지...네이버 닮아가는 토스, 경쟁 접점 넓어진다",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155390",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=155390",
+      "description": "이어 토스플레이스를 통해서는 이러한 결제 단말기와 포스 등 매장 운영 설루션을 제공하며 오프라인 가맹자 이용자 확보에도 속도를 내고 있다. 이승건 토스 대표 / 사진=토스 커머스 사업도 빠르게 키우고 있다. 지난...",
+      "pubDate": "2026-09-18T07:14:00+00:00",
+      "category": "토스페이",
+      "source": "테크M"
+    },
+    {
+      "title": "카카오페이, 로그인 없이 카드 비교하는 웹 '카드연구소' 출시",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=133480",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=133480",
+      "description": "카카오페이가 앱에서 제공하던 카드 비교 기능을 웹으로 넓혀 금융상품 탐색 접근성을 높였다. 이용자는 로그인 없이 모바일과 PC에서 카드 혜택과 연회비, 발급 행사 등을 비교하고 관련 정보를 공유할 수 있다....",
+      "pubDate": "2026-09-18T06:18:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "카카오페이, 개인 맞춤형 '카드연구소' 웹 오픈",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1016512",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1016512",
+      "description": "카카오페이가 앱 중심의 개인 맞춤형 카드 비교 플랫폼을 웹 환경으로 확장했다. 카카오페이는 모바일과 PC에서 별도의 로그인 절차 없이 카드를 탐색·비교할 수 있는 웹 기반 서비스 '카드연구소'를 오픈했다고 18일...",
+      "pubDate": "2026-09-18T06:12:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "카카오페이, 카드 혜택 비교·발급 정보 웹으로 확대",
+      "link": "https://www.g-enews.com/view.php?ud=202609181355117431cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202609181355117431cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 개인 맞춤형 카드 비교 서비스를 웹으로 확대해 로그인 없이 카드 혜택과 발급 조건을 비교할 수 있도록 했다. 소비자가 자신의 소비 패턴과 연회비, 선호 혜택에 맞는 카드를 찾고 카드사별...",
+      "pubDate": "2026-09-18T06:06:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "하루 간편결제 1.2조원 돌파…선불지급도 20%대 급증",
+      "link": "http://www.segyebiz.com/newsView/20260918508842?OutUrl=naver",
+      "originallink": "http://www.segyebiz.com/newsView/20260918508842?OutUrl=naver",
+      "description": "스마트폰 기반 간편결제 서비스가 일상 전반에 깊숙이 자리 잡으면서 올해 상반기 하루 평균 간편지급 이용액이 1조2000억원을 넘어섰다. 한국은행이 18일 발표한 ‘2026년 상반기 중 전자지급서비스 이용현황’에 따르면...",
+      "pubDate": "2026-09-18T06:02:00+00:00",
+      "category": "간편결제",
+      "source": "사장님 대출’ 넓히는 네이버·카카오페이…신용평가까지 확장"
+    },
+    {
+      "title": "“내게 맞는 카드 한눈에”…카카오페이, 웹 ‘카드연구소’ 열었다",
+      "link": "https://n.news.naver.com/mnews/article/138/0002241995?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026091810385009079",
+      "description": "카카오페이가 신용·체크카드의 혜택을 비교하고 자신에게 맞는 카드를 찾을 수 있는 서비스를 웹으로 확대했다. 별도 로그인 없이 PC와 모바일에서 카드별 혜택과 인기 순위, 카드사 이벤트 등을 확인할 수 있다....",
+      "pubDate": "2026-09-18T05:51:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오페이, 개인 맞춤형 카드 비교서비스 웹 확장 버전 카드연구소 오...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=764247",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=764247",
+      "description": "카카오페이(대표 신원근)가 기존 카카오페이 앱에서 제공하던 개인 맞춤형 카드 비교서비스를 웹 버전으로 확장한 카드연구소를 정식 오픈했다. 카드연구소는 사용자가 모바일과 PC 환경에서 별도의 로그인 절차 없이...",
+      "pubDate": "2026-09-18T05:50:00+00:00",
+      "category": "카카오페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "간편송금 하루 평균 1.2조…시중은행 아닌 카카오·토스가 견인",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81247",
+      "originallink": "http://www.newsfc.co.kr/news/articleView.html?idxno=81247",
+      "description": "연합뉴스 네이버페이와 카카오페이 등 각종 '페이'를 이용한 간편지급 규모가 하루 평균 1조2000억원을 넘어서며 역대 최대치를 기록했다. 전자상거래 이용이 늘면서 간편지급 시장이 꾸준히 커지고 있다....",
+      "pubDate": "2026-09-18T05:20:00+00:00",
+      "category": "토스페이",
+      "source": "금융소비자뉴스"
+    },
+    {
+      "title": "카카오페이, 카드 비교 서비스 웹으로 확대…'카드연구소' 오픈",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=90354",
+      "originallink": "https://www.the-today.com/news/articleView.html?idxno=90354",
+      "description": "카카오페이가 애플리케이션에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로 확대했다. 이용자는 별도의 로그인 없이 모바일과 PC에서 카드 혜택과 발급 이벤트를 비교할 수 있다. 카카오페이는 웹 기반 카드 비교...",
+      "pubDate": "2026-09-18T05:14:00+00:00",
+      "category": "카카오페이",
+      "source": "더투데이"
+    },
+    {
+      "title": "네이버페이·카카오페이 등 간편지급 하루 1.2조…'역대 최대'",
+      "link": "https://n.news.naver.com/mnews/article/586/0000138494?sid=101",
+      "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=387735",
+      "description": "상반기 간편지급 이용액 전년보다 16.8% 증가 간편송금도 1조1728억원 '최대'…증권계좌 송금 늘어 네이버페이와 카카오페이 등 각종 '페이'를 이용한 간편지급 규모가 하루 평균 1조2000억원을 넘어서며 역대 최대치를...",
+      "pubDate": "2026-09-18T04:42:00+00:00",
+      "category": "네이버페이",
+      "source": "시사저널"
+    },
+    {
+      "title": "카카오페이 스코어, 중·저신용자와 씬파일러 맞춤 지원 본격화",
+      "link": "http://www.intn.co.kr/news/articleView.html?idxno=2053476",
+      "originallink": "http://www.intn.co.kr/news/articleView.html?idxno=2053476",
+      "description": "포용금융 확대를 위한 전략적 사업 제휴 협약식에서 (왼쪽부터) 김문석 SBI저축은행 대표, 신원근 카카오페이 대표, 이성욱 KCB 대표가 협약서를 들어보이며 기념촬영을 하고 있다. 카카오페이(대표 신원근)가 SBI저축은행...",
+      "pubDate": "2026-09-18T04:38:00+00:00",
+      "category": "카카오페이",
+      "source": "日刊 NTN(일간NTN)"
+    },
+    {
+      "title": "현대카드 8월 온라인 호감도, 직전월 대비↑...애플페이 도입후 유저 만...",
+      "link": "https://www.thebigdata.co.kr/view.php?ud=202609181248429524d0a8833aad_23",
+      "originallink": "https://www.thebigdata.co.kr/view.php?ud=202609181248429524d0a8833aad_23",
+      "description": "데이터앤리서치 관계자는 \"애플페이 도입 이후 지속된 결제 편의성과 현대카드 특유의 트렌디한 플레이트 디자인 및 앱 UI/UX에 대해 실사용자들의 만족도가 계속 높게 나타나고 있다\"면서 여름 시즌(8월)을 맞아...",
+      "pubDate": "2026-09-18T04:08:00+00:00",
+      "category": "애플페이",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "네이버·카카오·토스 등 각종 '페이' 日 평균 소비 1.2조 … 이용액 역...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800179.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800179.html",
+      "description": "네이버페이와 카카오페이 등 전자금융업자의 일평균 이용금액은 6800억원으로 17.5% 증가했다. 이용 건수는 2440만건으로 13.0% 늘었다. 전체 이용금액에서 전자금융업자가 차지하는 비중은 지난해 상반기 55.1%에서...",
+      "pubDate": "2026-09-18T03:18:00+00:00",
+      "category": "토스페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "상반기 간편결제·송금 일평균 2조4000억원…역대 최대 경신",
+      "link": "https://n.news.naver.com/mnews/article/277/0005818455?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026091812140750572",
+      "description": "특히 간편지급 서비스 제공업자 중 네이버페이, 카카오페이 등 전자금융업자 이용 건수와 이용액은 전년 동기 대비 각 13.0%, 17.5% 올랐다. 전자금융업자 비중은 지난해 상·하반기 55.1%에서 올해 상반기 55.4%로...",
+      "pubDate": "2026-09-18T03:14:00+00:00",
+      "category": "간편결제",
+      "source": "아시아경제"
+    },
+    {
+      "title": "카카오페이, '카드연구소' 오픈…카드 비교 서비스 웹 버전",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=146745",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=146745",
+      "description": "카카오페이가 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소'를 정식 오픈했다. 사진=카카오페이  카카오페이(대표 신원근)가 기존 카카오페이앱에서 제공하던 개인...",
+      "pubDate": "2026-09-18T03:04:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "간편송금 하루 1조 시대…시중은행 아닌 카카오·토스가 견인",
+      "link": "https://n.news.naver.com/mnews/article/018/0006371850?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03220966645581432&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "시중은행 등 전통 금융회사가 아닌 카카오페이와 토스(비바리퍼블리카) 등이 시장 성장을 견인한 것으로 나타났다. 18일 한국은행에 따르면 올해 상반기 선불금 기반 간편송금 서비스의 일평균 이용금액은 1조...",
+      "pubDate": "2026-09-18T03:02:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "'○○페이' 간편결제 이용액 16.8%↑…상반기 하루 평균 1조2264억원",
+      "link": "https://www.ajunews.com/view/20260918102118117",
+      "originallink": "https://www.ajunews.com/view/20260918102118117",
+      "description": "제공업자별로 보면 네이버페이·카카오페이 등 전자금융업자의 비중은 선불전자지급수단을 중심으로 전년 동기 대비 0.3%포인트 확대된 55.4%로 집계됐다. 반면 휴대폰제조사와 금융회사 각각 23.3%, 21.2%로 각각 0.3...",
+      "pubDate": "2026-09-18T03:02:00+00:00",
+      "category": "간편결제",
+      "source": "아주경제"
+    },
+    {
+      "title": "'간편 결제·송금' 하루 이용액 2조원 넘어",
+      "link": "https://n.news.naver.com/mnews/article/014/0005577962?sid=101",
+      "originallink": "https://www.fnnews.com/news/202609181111376191",
+      "description": "네이버페이, 카카오페이 등 전자금융업자 이용 건수와 이용액은 전년 동기대비 각 13.0%, 17.5% 늘었다. 간편송금 서비스는 1조1728억원으로 19.8% 증가했다. 간편지급·송금 서비스는 이용 건수와 이용액 모두 관련...",
+      "pubDate": "2026-09-18T03:01:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "하루 1.2조 간편지급⋯네이버·카카오페이, 절반 넘었다",
+      "link": "https://n.news.naver.com/mnews/article/031/0001059665?sid=101",
+      "originallink": "http://www.inews24.com/view/2007056",
+      "description": "특히 네이버페이·카카오페이 등 전자금융업자가 전체 이용액의 절반 이상을 차지하며 간편결제 시장을 주도했다. 한국은행이 18일 공개한 '간편 지급·송금 서비스 이용 현황'에 따르면 올해 상반기 간편지급...",
+      "pubDate": "2026-09-18T03:01:00+00:00",
+      "category": "카카오페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "간편결제·송금 일상화…하루 거래액 나란히 1조원 넘어",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=276386",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=276386",
+      "description": "특히 네이버페이와 카카오페이, 토스 등 전자금융업자의 간편지급 이용금액은 6800억원으로 17.5% 증가했다. 전체 간편지급 이용금액에서 차지하는 비중도 지난해 상반기 55.1%에서 올해 상반기 55.4%로 확대됐다....",
+      "pubDate": "2026-09-18T03:00:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "간편결제·송금 하루 2.4조원…간편송금액 20% 급증",
+      "link": "https://n.news.naver.com/mnews/article/008/0005415797?sid=101",
+      "originallink": "https://www.mt.co.kr/economy/2026/09/18/2026091811045394297",
+      "description": "간편지급 시장에서는 카카오페이·네이버페이·토스페이 등 전자금융업자의 비중이 계속 확대됐다. 금액 기준 전자금융업자 비중은 지난해 상반기 55.1%에서 올해 상반기 55.4%로 높아졌다. 전자금융업자의...",
+      "pubDate": "2026-09-18T03:00:00+00:00",
+      "category": "간편결제",
+      "source": "머니투데이"
+    },
+    {
+      "title": "\"현금·카드 대신 페이\"⋯상반기 하루 평균 간편결제 1.2조 '역대 최대'",
+      "link": "https://www.etoday.co.kr/news/view/2627101",
+      "originallink": "https://www.etoday.co.kr/news/view/2627101",
+      "description": "주요 전자금융업자 서비스로는 네이버페이와 카카오페이, 페이코, 토스페이, SSG페이, Lpay 등이 있다. 이어 삼성페이 등 휴대폰제조사 간편결제 서비스 비중이 23.3%를 차지했다. 은행과 카드사가 제공하는 간편결제...",
+      "pubDate": "2026-09-18T03:00:00+00:00",
+      "category": "간편결제",
+      "source": "이투데이"
+    },
+    {
+      "title": "간편송금 이용 하루 1조원 시대···간편결제는 1.2조원 돌파",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=638293",
+      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=638293",
+      "description": "간편결제 이용금액도 하루 평균 1조2264억원으로 확대됐다. 18일 한국은행이 발표한 '2026년 상반기중 전자지급서비스 이용현황'에 따르면 상반기 선불금 기반 간편송금 이용금액은 일평균 1조1728억원으로 지난해...",
+      "pubDate": "2026-09-18T03:00:00+00:00",
+      "category": "간편결제",
+      "source": "서울파이낸스"
+    },
+    {
+      "title": "혜택부터 인기 순위까지···카카오페이 '카드연구소' 웹 확장",
+      "link": "https://n.news.naver.com/mnews/article/014/0005577952?sid=101",
+      "originallink": "https://www.fnnews.com/news/202609180923573958",
+      "description": "카카오페이가 개인 맞춤형 카드 비교 서비스를 기존 애플리케이션뿐 아니라 웹으로도 확장했다. 가입 절차 없이 곧바로 이용할 수 있도록 문턱을 대폭 낮췄다. 카카오페이는 18일 '카드연구소'를 정식 공개했다. 사용자가...",
+      "pubDate": "2026-09-18T02:42:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 로그인 없는 카드 비교 웹 '카드연구소'…혜택·연회비 한...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=135756",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=135756",
+      "description": "카카오페이는 애플리케이션에서 제공하던 카드 탐색 기능을 웹으로 확장한 '카드연구소'를 출시했다. 카드연구소에서는 이용자가 혜택 카테고리와 연회비 범위를 직접 설정해 조건에 맞는 카드를 찾을 수 있다....",
+      "pubDate": "2026-09-18T02:26:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "카카오페이, 맞춤형 '카드연구소' 선봬... 온라인 접근성 대폭 향상",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=136546",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=136546",
+      "description": "카카오페이가 복잡한 가입 절차 없이 개인의 소비 성향에 맞는 최적의 신용카드를 찾아주는 웹 기반 플랫폼을 새롭게 선보이며 금융 소비자들의 편의성을 한층 끌어올린다. 카카오페이(대표 신원근)가 기존 자사...",
+      "pubDate": "2026-09-18T02:12:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "카카오페이, '맞춤형 카드비교' 서비스 웹 제공…금융상품 혜택 한눈에",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266999",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266999",
+      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이)  카카오페이가 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소'를 정식 오픈했다. 혜택과 연회비별 카드 검색, 카드사별...",
+      "pubDate": "2026-09-18T02:06:00+00:00",
+      "category": "카카오페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "'로그인 없이 카드 비교부터 이벤트 확인까지'..카카오페이 ‘카드연구...",
+      "link": "https://kpenews.com/View.aspx?No=4233014",
+      "originallink": "https://kpenews.com/View.aspx?No=4233014",
+      "description": "한국정경신문 이하정 기­자 sae256@hanmail.net [한국정경신문=이하정 기자] 카카오페이(대표 신원근)가 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장했다.카카오페이는 모바일과 PC...",
+      "pubDate": "2026-09-18T02:04:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "카드 비교·이벤트 한곳에···카카오페이 '카드연구소'",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=91527",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=91527",
+      "description": "카카오페이가 카드 비교·추천 서비스를 웹으로 확대했다. 로그인 없이 모바일과 PC에서 카드 혜택과 이벤트 등을 확인할 수 있게 접근성을 높였다. 카카오페이는 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드...",
+      "pubDate": "2026-09-18T01:56:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 인터넷은행 소식…카카오페이, 네이버페이, 토...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201709",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=201709",
+      "description": "카카오페이가 앱 중심의 맞춤형 카드 추천 서비스를 PC와 모바일 웹으로 넓혀 로그인 없이 카드 혜택과 이벤트를 비교할 수 있는 ‘카드연구소’를 열었다. 네이버페이는 부동산 데이터 플랫폼 ‘아실’과 제휴해...",
+      "pubDate": "2026-09-18T01:50:00+00:00",
+      "category": "네이버페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "[금융레이더]iM뱅크/BNK경남은행/롯데카드/토스/카카오페이/네이버페이",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609181018358220640",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609181018358220640",
+      "description": "◆“우리집 단지 시공 사례를 손쉽게”…네이버페이(Npay) 부동산, 인테리어 서비스 오픈 네이버페이(Npay)가... 신용카드 매출채권을 기초자산으로 발행된 이번 사모 해외 ABS는 미쓰비시UFJ파이낸셜그룹(MUFG)과...",
+      "pubDate": "2026-09-18T01:42:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "카카오페이, 카드 비교 '카드연구소' 웹으로 확대…로그인 없이 이용",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208533",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=208533",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이(대표 신원근)가 애플리케이션에서 제공하던 카드 비교·탐색 서비스를 웹으로 확대한다. 별도 로그인 없이 모바일과 PC에서 카드 혜택과 연회비, 카드사별 이벤트 등을 비교할 수...",
+      "pubDate": "2026-09-18T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "카카오페이, 맞춤형 카드 비교 서비스 웹으로 확대…'카드연구소' 열어",
+      "link": "https://n.news.naver.com/mnews/article/030/0003468189?sid=101",
+      "originallink": "https://www.etnews.com/20260918000116",
+      "description": "카카오페이는 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소'를 열었다고 18일 밝혔다. 카드연구소는 사용자가 모바일과 PC 환경에서 별도의 로그인 절차 없이 자신에게...",
+      "pubDate": "2026-09-18T01:30:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, 카드 비교 서비스 웹으로 확대… ‘카드연구소’ 오픈",
+      "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/18/2026091880047.html",
+      "originallink": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/18/2026091880047.html",
+      "description": "송정현 기자 | 카카오페이가 카카오페이앱에서 제공하던 카드 비교 서비스를 웹으로 확대한다. 카카오페이는 개인 맞춤형 카드 비교 서비스의 웹 버전인 ‘카드연구소’를 정식 오픈했다고 18일 밝혔다. 카드연구소는...",
+      "pubDate": "2026-09-18T01:30:00+00:00",
+      "category": "카카오페이",
+      "source": "dizzo"
+    },
+    {
+      "title": "카카오페이, 웹 기반 '카드연구소' 정식 오픈",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=86244",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=86244",
+      "description": "인더스트리뉴스 이주엽 기자  카카오페이가 모바일 애플리케이션에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로 확대한다. 카카오페이는 기존 카카오페이앱의 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소...",
+      "pubDate": "2026-09-18T01:26:00+00:00",
+      "category": "카카오페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "네이버페이 부동산, 국내 아파트 단지별 인테리어 시공 사례 서비스 오...",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=132530",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=132530",
+      "description": "네이버페이 관계자는 \"아실과의 협력을 통해 사용자들이 자신의 집과 비슷한 조건의 실제 인테리어 사례와 적합한 시공업체 정보를 편리하게 탐색할 수 있도록 서비스를 지속 확대할 것\"이라고 말했다. [파이낸셜신문...",
+      "pubDate": "2026-09-18T01:18:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "SBI저축은행, 카카오페이·KCB와 '카카오페이 스코어' 활용한다",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319807",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319807",
+      "description": "신원근 카카오페이 대표와 김문석(가운데) SBI저축은행 대표, 이성욱 KCB 대표가 지난 16일 경기도 판교 카카오페이 오피스에서 진행한 포용금융 확대를 위한 전략적 사업 제휴 협약식에서 기념 촬영을 진행하고 있다....",
+      "pubDate": "2026-09-18T01:18:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
       "title": "카카오뱅크 개인사업자 신용대출, 'Npay 대출비교' 입점…비대면 신청 ...",
       "link": "https://www.thepublic.kr/news/articleView.html?idxno=319226",
       "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=319226",
@@ -4651,7 +5065,7 @@
       "description": "BC카드는 케이뱅크와 함께 온라인 간편결제 시 무조건 6% 할인 혜택을 제공하는 '히든카드'를 출시했다고 2일 밝혔다.",
       "pubDate": "2026-09-02T00:30:00+00:00",
       "category": "간편결제",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "CJ ONE 포인트, 네이버페이에서 쓴다",
@@ -5551,7 +5965,7 @@
       "description": "SK에너지와 네이버페이(이하 Npay)가 손잡고 SK주유소 이용 고객의 혜택 확대와 결제 편의성 강화를 위해 협력한다. SK에너지와 Npay는 주유소 현장에서의 고객 경험 혁신을 위한 업무 협약을 체결했다고 31일 밝혔다.",
       "pubDate": "2026-08-31T01:18:00+00:00",
       "category": "네이버페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "SK에너지, 네이버페이와 주유소 이용자 혜택 업무협약 체결",
@@ -7000,7 +7414,7 @@
       "description": "2023년 애플페이·화웨이페이·샤오미페이 등을 이용할 수 있는 NFC 결제 시스템을 도입했으며 지난해에는 대만 라인페이를 추가했다. 롯데백화점은 이번 유니온페이 QR 및 NFC QPS 도입을 통해 외국인 고객의 국적과 결제...",
       "pubDate": "2026-08-27T05:14:00+00:00",
       "category": "간편결제",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "토스, 국내 계좌 없는 외국인 유학생에 선불카드 배포",
@@ -9161,430 +9575,7 @@
       "pubDate": "2026-08-20T01:18:00+00:00",
       "category": "네이버페이",
       "source": "sobi"
-    },
-    {
-      "title": "[특징주]카카오페이, 트럼프 '클래리티법' 통과 촉구에 10%대 급등",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=920569",
-      "originallink": "https://www.namdonews.com/news/articleView.html?idxno=920569",
-      "description": "카카오페이가 미국 내 가상자산 규제 법안 통과 기대감에 힘입어 장 초반 10%대 강세를 보이고 있다. 20일 한국거래소에 따르면 오전 10시 3분 기준 카카오페이는 전 거래일 대비 4천350원(10.55%) 오른 4만6천원에...",
-      "pubDate": "2026-08-20T01:08:00+00:00",
-      "category": "카카오페이",
-      "source": "남도일보"
-    },
-    {
-      "title": "거래대금 증가에 날개 달았다… 카카오페이, 금융 플랫폼 주도권 확보",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478933",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478933",
-      "description": "네이버 증권. 전자결제(전자화폐) 테마가 20일 글로벌 국경 간 결제 및 실시간 정산 인프라 수요 확대... 계좌 기반 정산 및 지급결제 플랫폼 기술력을 보유한 헥토파이낸셜 역시 글로벌 핀테크 기업들과의 협업 및 실적...",
-      "pubDate": "2026-08-20T01:04:00+00:00",
-      "category": "카카오페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "[유럽 핀테크] 유럽판 페이팔 ‚위로(Wero)‚를 아시나요?",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=348016",
-      "originallink": "https://www.greened.kr/news/articleView.html?idxno=348016",
-      "description": "룩셈부르크의 경우, 올 9월까지 국가 대표 자국 간편결제 시스템인 페이코니크(Payconiq)에 가입  소비자와 이커머스 사업자를 위로로 전면 이전・통합시킬 계획이다. 독일을 비롯해 유럽 경제권 내 24개국에서 온...",
-      "pubDate": "2026-08-20T01:03:00+00:00",
-      "category": "간편결제",
-      "source": "녹색경제신문"
-    },
-    {
-      "title": "[특징주] 카카오페이 '클래리티법' 통과 촉구에 10%대 급등",
-      "link": "https://n.news.naver.com/mnews/article/031/0001051018?sid=101",
-      "originallink": "http://www.inews24.com/view/1996570",
-      "description": "카카오페이가 스테이블코인 관련 기대감에 10%대 급등하고 있다. 도널드 트럼프 미국 대통령이 가상자산 규제 체계를 담은 '클래리티법'의 의회 통과를 촉구하면서 규제 불확실성 완화 기대감이 반영된 것으로...",
-      "pubDate": "2026-08-20T00:55:00+00:00",
-      "category": "카카오페이",
-      "source": "아이뉴스24"
-    },
-    {
-      "title": "파리바게뜨, 21일 하루 네이버페이 결제 시 50% 할인 진행",
-      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252319",
-      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=252319",
-      "description": "네이버페이를 활용한 이번 할인 이벤트는 최근 프랜차이즈 업계에서 간편결제사와 손잡고 하루 단위로 한정 프로모션을 여는 흐름과 궤를 같이한다. 파리바게뜨 관계자는 \"21일 파리바게뜨를 방문해 단 하루만...",
-      "pubDate": "2026-08-20T00:42:00+00:00",
-      "category": "네이버페이",
-      "source": "넥스트데일리"
-    },
-    {
-      "title": "당장 정답 확인하자…토스 행운퀴즈 '8월 20일' 정답 공개",
-      "link": "https://www.wikitree.co.kr/articles/1153549",
-      "originallink": "https://www.wikitree.co.kr/articles/1153549",
-      "description": "앱을 통해 신용카드 이용 혜택, 간편 결제 내역, 보험 서비스, 신용 점수 관리, 간편 송금, 신분증 발급 신청까지 가능하다. 특히 토스뱅크는 조건 없이 이자 지급이 가능한 통장을 제공하며, 자동화된 재정관리 기능도...",
-      "pubDate": "2026-08-20T00:12:00+00:00",
-      "category": "토스페이",
-      "source": "위키트리"
-    },
-    {
-      "title": "\"해외 간편결제 물꼬 텄다\"…NHN KCP, 라인 넥스트와 손잡고 스테이블코...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85553",
-      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85553",
-      "description": "국내 대형 전자결제 지배력을 갖춘 결제대행사(PG)가 글로벌 디지털 자산을 활용한 크로스보더 결제 영토 확장에 나선다. NHN KCP는 글로벌 Web3 기업 라인 넥스트와 스테이블코인 기반 결제 서비스 확대를 위한 업무협약...",
-      "pubDate": "2026-08-20T00:04:00+00:00",
-      "category": "간편결제",
-      "source": "더페어"
-    },
-    {
-      "title": "파리바게뜨, 21일 단 하루 ‘네이버페이 50% 할인’ 프로모션",
-      "link": "https://n.news.naver.com/mnews/article/382/0001289059?sid=101",
-      "originallink": "https://sports.donga.com/economy/article/all/20260820/134509096/1",
-      "description": "파리바게뜨가 21일 단 하루 동안 매장을 방문하는 고객을 대상으로 네이버페이(Npay) 결제 시 50% 할인 혜택을 제공하는 특별 프로모션을실시한다. 행사 당일 파리바게뜨 매장에서 네이버페이 머나, 포인트, 카드 등의...",
-      "pubDate": "2026-08-19T23:27:00+00:00",
-      "category": "네이버페이",
-      "source": "스포츠동아"
-    },
-    {
-      "title": "파리바게뜨, 21일 Npay 50% 혜택→웅진식품, '더빅토리아 탐구생활' 행사",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=759932",
-      "originallink": "https://www.slist.kr/news/articleView.html?idxno=759932",
-      "description": "파리바게뜨가 오는 21일 매장에서 네이버페이(Npay) 결제 시 50% 할인 혜택을 제공하는 프로모션을 진행한다. 사진=파리바게뜨 행사 당일 파리바게뜨 매장에서 Npay(머니·포인트·카드) QR결제로 단독 결제하면 구매 금액...",
-      "pubDate": "2026-08-19T23:08:00+00:00",
-      "category": "네이버페이",
-      "source": "싱글리스트"
-    },
-    {
-      "title": "애플페이 약발 줄고, PLCC 경쟁 격화에도…현대카드, 독자 브랜드로 성...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=225306",
-      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=225306",
-      "description": "애플페이의 신규 회원 유입 효과 둔화에도 올해 상반기 실적 개선을 이어갔다. 신규 회원 증가세는 크지... 다만 올해 계약 만료가 예정된 네이버·대한항공과의 계약 연장 여부에 대해서는 확인하기 어렵다고 밝혔다....",
-      "pubDate": "2026-08-19T23:02:00+00:00",
-      "category": "애플페이",
-      "source": "청년일보"
-    },
-    {
-      "title": "간편결제 '쑥쑥'…헥토파이낸셜 수익성 '껑충'",
-      "link": "https://n.news.naver.com/mnews/article/648/0000049982?sid=105",
-      "originallink": "https://news.bizwatch.co.kr/article/mobile/2026/08/19/0032",
-      "description": "20일 핀테크업계에 따르면 올해 상반기 헥토파이낸셜의 간편결제 부문 매출은 297억원으로 전체 매출 1076억원 중 27.6%를 차지했다. 2024년 20%에서 지난해 22.1%로 증가했고 올해는 30%에 육박할 정도로 성장했다. 사업...",
-      "pubDate": "2026-08-19T22:40:00+00:00",
-      "category": "간편결제",
-      "source": "비즈니스워치"
-    },
-    {
-      "title": "제주 사장님 “육지 손님 몇명 왔어?”…네이버페이는 다 안다 [팩플]",
-      "link": "https://n.news.naver.com/mnews/article/025/0003545519?sid=105",
-      "originallink": "https://www.joongang.co.kr/article/25454660",
-      "description": "저마다 활로를 찾는 가운데 네이버페이(법인명 네이버파이낸셜)가 꺼내 든 카드는 데이터다. 간편결제를 넘어 자산 활동 전반을 관리하는 플랫폼이 되겠다는 구상이다. 지난달 10일 경기 성남시 네이버 1784 사옥에서...",
-      "pubDate": "2026-08-19T20:00:00+00:00",
-      "category": "네이버페이",
-      "source": "중앙일보"
-    },
-    {
-      "title": "던킨, 네이버페이와 손잡고 나흘간 전 품목 50% 혜택",
-      "link": "https://n.news.naver.com/mnews/article/144/0001132760?sid=103",
-      "originallink": "https://sports.khan.co.kr/article/202608200028003?pt=nv",
-      "description": "“반값으로 시원하게 즐기세요!” 던킨이 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다. 프로모션은 빠르고 간편한 모바일 결제를 선호하는 소비자들의 이용 편의성을 높이고...",
-      "pubDate": "2026-08-19T15:29:00+00:00",
-      "category": "네이버페이",
-      "source": "스포츠경향"
-    },
-    {
-      "title": "던킨, 네이버페이 결제 시 전 메뉴 반값 할인 이벤트 실시",
-      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88167",
-      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=88167",
-      "description": "던킨이 네이버페이 이용 고객을 대상으로 전 상품 50% 할인 행사를 연다. 행사는 19일부터 22일까지 나흘간 진행된다. 이번 이벤트는 모바일 간편결제를 즐겨 쓰는 고객층의 접근성을 넓히는 한편, 다양한 던킨 메뉴를...",
-      "pubDate": "2026-08-19T13:34:00+00:00",
-      "category": "네이버페이",
-      "source": "워크투데이"
-    },
-    {
-      "title": "[증권 데일리] NH투자·한투證 ‘상품’…삼성·카카오페이·키움 ‘고객...",
-      "link": "https://www.news2day.co.kr/article/20260819500331",
-      "originallink": "https://www.news2day.co.kr/article/20260819500331",
-      "description": "NH투자 IMA 조기 완판·한투 ELW 271종목 상장 삼성·카카오페이·키움, 혜택·MTS 앞세워 고객접점↑ 교보證, 한부모가정 제습제 제작…친환경나눔 실천 위 이미지는 기사 이해를 돕기 위해 AI(인공지능)를 활용해...",
-      "pubDate": "2026-08-19T09:12:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스투데이"
-    },
-    {
-      "title": "던킨, 네이버페이 손잡고 전 품목 50% 혜택 프로모션 진행",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6938198",
-      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6938198",
-      "description": "ⓒ던킨 던킨이 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다고 19일 밝혔다. 이번 프로모션은 빠르고 간편한 모바일 결제를 선호하는 소비자들의 이용 편의성을 높이고, 던킨의...",
-      "pubDate": "2026-08-19T08:50:00+00:00",
-      "category": "네이버페이",
-      "source": "스포츠한국"
-    },
-    {
-      "title": "오프라인 결제 '톱4' 노리는 카카오페이 '굿딜'로 성장 엔진 달군다",
-      "link": "https://www.catchnews.kr/news/articleView.html?idxno=127485",
-      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=127485",
-      "description": "카카오페이의 정률 할인 서비스 '굿딜'에 편의점 세븐일레븐이 입점해 국내 대표 편의점 4사를 모두 이용할 수 있게 됐다. [이미지 카카오페이] 카카오페이가 오프라인 결제 이용자 1000만명을 확보해 카드사를 포함한...",
-      "pubDate": "2026-08-19T08:50:00+00:00",
-      "category": "카카오페이",
-      "source": "CatchNews"
-    },
-    {
-      "title": "카카오페이 굿딜, 세븐일레븐까지 확대… 편의점 4사 할인 제공",
-      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=92373",
-      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=92373",
-      "description": "카카오페이가 할인 결제 서비스 '굿딜' 제휴처를 세븐일레븐까지 확대하며 국내 주요 편의점 4사에서 할인 혜택을 제공한다. 카카오페이는 이달부터 굿딜에 세븐일레븐이 새롭게 합류했다고 19일 밝혔다. 이에 따라...",
-      "pubDate": "2026-08-19T08:46:00+00:00",
-      "category": "카카오페이",
-      "source": "한국보험신문"
-    },
-    {
-      "title": "카카오페이 '굿딜', 세븐일레븐 입점… 4대 편의점 무제한 할인 망 완성",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=357621",
-      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=357621",
-      "description": "ㅣ카카오페이 카카오페이 상시 할인 결제 서비스 '굿딜'에 편의점 세븐일레븐이 이달 공식 입점하면서 국내 대표 4대 편의점 전반을 아우르는 오프라인 할인 결제 망이 완성됐다. 이로써 사용자들은 이마트24, CU, GS25에...",
-      "pubDate": "2026-08-19T08:36:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈트리뷴"
-    },
-    {
-      "title": "갤럭시아머니트리, 머니트리카드 ‘모니모페이’ 간편결제 오픈",
-      "link": "https://n.news.naver.com/mnews/article/366/0001187166?sid=101",
-      "originallink": "https://biz.chosun.com/stock/finance/2026/08/19/2CG3ACPZL5BSBE5JKD3KS7KIOM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "description": "디지털 금융 기업 갤럭시아머니트리는 삼성카드가 운영 중인 모바일 간편결제 서비스 ‘모니모페이(monimo Pay)’에 ‘머니트리카드 베이직(basic)’을 등록해 결제할 수 있는 서비스를 오픈한다고 19일 밝혔다. 회사는...",
-      "pubDate": "2026-08-19T08:22:00+00:00",
-      "category": "간편결제",
-      "source": "조선비즈"
-    },
-    {
-      "title": "던킨, 네이버페이와 손잡고 50% 할인",
-      "link": "http://www.bokuennews.com/news/article.html?no=282766",
-      "originallink": "http://www.bokuennews.com/news/article.html?no=282766",
-      "description": "던킨이 네이버페이와 함께 인기 도넛과 음료를 반값에 즐길 수 있는 특별한 혜택을 마련했다. 던킨은 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다. 행사 기간에는 신제품 '말랑...",
-      "pubDate": "2026-08-19T08:14:00+00:00",
-      "category": "네이버페이",
-      "source": "bokuennews"
-    },
-    {
-      "title": "카카오페이, 'IB 선수' 급속 충원에도 인건비 낮춘 요인은?",
-      "link": "https://www.topdaily.kr/articles/111523",
-      "originallink": "https://www.topdaily.kr/articles/111523",
-      "description": "최성민·김경숙·김수진 본부장, 비등기임원 선임…반기마다 현직 IB 전문가 영입 스톡옵션 행사 따른 부담금 재정산 통해 주식보상비용 -3억원으로 낮춰...인건비 증가율 완화 효과 카카오페이가 자회사인...",
-      "pubDate": "2026-08-19T07:35:00+00:00",
-      "category": "카카오페이",
-      "source": "톱데일리"
-    },
-    {
-      "title": "“결혼하면 주식 드려요”…카카오페이證 캠페인에 신혼부부 3만명 참여",
-      "link": "https://n.news.naver.com/mnews/article/366/0001187143?sid=101",
-      "originallink": "https://biz.chosun.com/stock/stock_general/2026/08/19/PBA5CTOIMFGERNIPVEDKE6OJ7Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "description": "카카오페이증권이 혼인신고를 한 부부에게 주식을 지급하는 캠페인을 시작한 지 약 2주 만에 참여자가 3만명을 넘어섰다. 참여자의 대부분은 20·30대였고 기존 카카오페이증권 계좌가 없던 신청자도 30%를 웃돌았다....",
-      "pubDate": "2026-08-19T07:07:00+00:00",
-      "category": "카카오페이",
-      "source": "조선비즈"
-    },
-    {
-      "title": "갤럭시아머니트리, 머니트리카드 '모니모페이' 간편결제 오픈…온라인...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478719",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478719",
-      "description": "갤럭시아머니트리가 머니트리카드의 결제 접점을 모바일 간편결제로 넓힌다. 카드 정보를 반복해서 입력해야 했던 온라인 결제 절차를 간소화하면서 이용자 확대뿐 아니라 실제 결제 빈도를 높일 수 있을지가...",
-      "pubDate": "2026-08-19T06:58:00+00:00",
-      "category": "간편결제",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 디지털 금융권 소식...카카오뱅크·카카오페이...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200891",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200891",
-      "description": "카카오페이가 ‘굿딜’에 세븐일레븐을 추가해 국내 대표 편의점 4사에서 조건 없는 할인 혜택을 제공한다. 토스가 서민금융 공급 확대를 위해 대출비교 서비스에 입점한 저축은행의 ‘햇살론 특례’ 중개 수수료를...",
-      "pubDate": "2026-08-19T06:44:00+00:00",
-      "category": "카카오페이",
-      "source": "thevaluenews"
-    },
-    {
-      "title": "고흥에 10만원 기부하면 답례품에 네이버페이 1만원권까지? '더블이벤트...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=740647",
-      "originallink": "https://www.polinews.co.kr/news/articleView.html?idxno=740647",
-      "description": "고향사랑e음을 통해 고흥군에 10만원 이상을 기부하고 문자 수신에 동의한 기부자는 별도의 추첨 없이 네이버페이 1만원을 받을 수 있다. 군은 세액공제와 답례품, 이벤트 등 기부자가 체감할 수 있는 혜택을 적극적으로...",
-      "pubDate": "2026-08-19T06:36:00+00:00",
-      "category": "네이버페이",
-      "source": "폴리뉴스 Polinews"
-    },
-    {
-      "title": "갤럭시아머니트리, '모니모페이'에 머니트리카드 간편결제 서비스 오픈",
-      "link": "https://n.news.naver.com/mnews/article/003/0014135697?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20260819_0003754477",
-      "description": "디지털금융기업 갤럭시아머니트리는 삼성카드가 운영하는 모바일 간편결제 서비스 '모니모페이(monimo Pay)'에 '머니트리카드basic'을 등록해 결제할 수 있는 서비스를 오픈한다고 19일 밝혔다. 회사 측에 따르면 이번...",
-      "pubDate": "2026-08-19T06:12:00+00:00",
-      "category": "간편결제",
-      "source": "뉴시스"
-    },
-    {
-      "title": "이현진 네이버페이 CISO “양자내성암호, 연내 네이버 전사 서비스에 적...",
-      "link": "https://n.news.naver.com/mnews/article/015/0005322395?sid=101",
-      "originallink": "https://www.hankyung.com/article/202608199216i",
-      "description": "\"네이버 서비스의 80%가 양자내성암호(PQC)를 적용했습니다.\" 이현진 네이버페이 최고보안책임자(CISO)는 한국경제신문과의 인터뷰에서 이같이 말했다. 이 CISO는 \"네이버페이에 선제적으로 도입한 PQC를 네이버 메일...",
-      "pubDate": "2026-08-19T05:59:00+00:00",
-      "category": "네이버페이",
-      "source": "한국경제"
-    },
-    {
-      "title": "던킨, 네이버페이 결제하면 전 품목 '반값'…22일까지",
-      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443031",
-      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=443031",
-      "description": "던킨은 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다. (사진=던킨) 던킨은 오는 22일까지 네이버페이와 함께 전 품목 50% 혜택을 제공하는 프로모션을 진행한다고 19일 밝혔다. 도넛은...",
-      "pubDate": "2026-08-19T05:46:00+00:00",
-      "category": "네이버페이",
-      "source": "이코노뉴스"
-    },
-    {
-      "title": "상반기 국내주식 수탁수수료 1위 KB증권…해외는 토스 선두",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026081911143873567",
-      "originallink": "https://www.newsway.co.kr/news/view?ud=2026081911143873567",
-      "description": "카카오페이증권의 상반기 국내주식 수탁수수료는 234억원이었다. 1분기 85억원에서 2분기 149억원으로 늘었다. 반면 토스증권의 국내주식 수탁수수료는 상반기 누적 약 8000만원에 그쳤다. 토스증권은 지난해 12월부터...",
-      "pubDate": "2026-08-19T05:46:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스웨이"
-    },
-    {
-      "title": "카카오페이 '굿딜', 세븐일레븐 합류…편의점 4곳서 할인",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84660",
-      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=84660",
-      "description": "인더스트리뉴스 김은경 기자  카카오페이(대표 신원근)의 무조건 할인 결제 서비스 '굿딜'에 세븐일레븐이 합류했다. 이로써 이마트24·CU·GS25·세븐일레븐 등 국내 주요 편의점 4곳에서 모두 굿딜 할인 혜택을 받을 수...",
-      "pubDate": "2026-08-19T05:46:00+00:00",
-      "category": "카카오페이",
-      "source": "인더스트리뉴스"
-    },
-    {
-      "title": "카카오페이 '굿딜', 세븐일레븐 입점 기념 프로모션",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315953",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=315953",
-      "description": "이미지=카카오페이 카카오페이는 '굿딜'에 편의점 세븐일레븐이 입점한 것을 기념해 프로모션을 진행한다고 19일 밝혔다. 기존에는 이마트24·CU·GS25 세 편의점만 입점했었는데 세븐일레븐이 추가된 것이다. '굿딜'은...",
-      "pubDate": "2026-08-19T05:06:00+00:00",
-      "category": "카카오페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "\"결혼하면 주식 드려요\"…카카오페이證 '주식 축의금'에 3만명 몰렸다",
-      "link": "https://n.news.naver.com/mnews/article/014/0005563457?sid=101",
-      "originallink": "http://www.fnnews.com/news/202608191334327870",
-      "description": "카카오페이증권의 '주식 축의금' 캠페인에 약 2주 만에 신혼부부 3만명이 몰렸다. 결혼을 계기로 투자를 시작하려는 20·30대 신혼부부를 중심으로 호응이 이어지면서 기존 고객 밖으로도 참여층이 확산하고 있다. 19일...",
-      "pubDate": "2026-08-19T04:57:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "카카오페이 ‘페이-득’ 결제 전환율 16.7%…마케팅 효율 높였다",
-      "link": "https://n.news.naver.com/mnews/article/029/0003043063?sid=101",
-      "originallink": "https://www.dt.co.kr/article/12078904?ref=naver",
-      "description": "카카오페이는 카카오페이만의 독특한 온라인 제휴 마케팅 프로그램 ‘페이-득’의 성과 지표를 공개했다. 참여 제휴사들과의 독보적인 네트워크와 플랫폼을 활용한 맞춤형 접근으로 4회차만에 폭발적인 마케팅 성과를...",
-      "pubDate": "2026-08-19T03:40:00+00:00",
-      "category": "카카오페이",
-      "source": "디지털타임스"
-    },
-    {
-      "title": "편의점 4곳 다 된다···카카오페이 굿딜 '무제한 할인'",
-      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=90564",
-      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=90564",
-      "description": "카카오페이는 할인 결제 서비스 '굿딜'에 세븐일레븐이 합류해 국내 대표 편의점 4곳에서 할인 혜택을 이용할 수 있게 됐다고 19일 밝혔다. 이에 따라 이마트24·CU·GS25·세븐일레븐을 모두 굿딜에서 만나볼 수...",
-      "pubDate": "2026-08-19T03:24:00+00:00",
-      "category": "카카오페이",
-      "source": "더리포트"
-    },
-    {
-      "title": "\"결혼하면 주식준다\" 카카오페이證, 2주 만에 신혼부부 3만명 몰려",
-      "link": "https://n.news.naver.com/mnews/article/421/0009120818?sid=101",
-      "originallink": "https://www.news1.kr/finance/general-stock/6262990",
-      "description": "카카오페이증권은 '2026년 대한민국은 결혼하면 주식을 받는 나라' 캠페인의 혼인 인증 참여자가 8월 첫 주 3만 명을 돌파했다고 19일 밝혔다. 지난달 22일 캠페인을 시작한 지 약 2주 만이다. 올 한 해 혼인신고를 하고...",
-      "pubDate": "2026-08-19T02:45:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "[뉴스워커_카카오페이] '굿딜' 제휴처 98곳으로…세븐일레븐 최대 10% 할...",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=441714",
-      "originallink": "http://www.newsworker.co.kr/news/articleView.html?idxno=441714",
-      "description": "카카오페이가 할인 결제 서비스 '굿딜'에 세븐일레븐을 추가하며 국내 주요 편의점 4사로 제휴 범위를 확대했다고 밝혔다. 이에 따라 이마트24·CU·GS25에 이어 세븐일레븐에서도 굿딜을 이용할 수 있다. 세븐일레븐...",
-      "pubDate": "2026-08-19T02:14:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스워커"
-    },
-    {
-      "title": "카카오페이證, '주식 축의금' 캠페인 시작 2주 만에 신혼부부 3만명↑",
-      "link": "https://n.news.naver.com/mnews/article/008/0005401776?sid=101",
-      "originallink": "https://www.mt.co.kr/stock/2026/08/19/2026081910022473703",
-      "description": "카카오페이증권이 '2026년 대한민국은 결혼하면 주식을 받는 나라' 캠페인의 혼인 인증 참여자가 3만명을 돌파했다고 19일 밝혔다. 지난달 22일 캠페인을 시작한 지 약 2주 만이다. 이번 캠페인은 올 한 해 혼인신고를...",
-      "pubDate": "2026-08-19T01:58:00+00:00",
-      "category": "카카오페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "카카오페이證 “‘주식 축의금’ 2주 만에 3만 명 참여”",
-      "link": "https://n.news.naver.com/mnews/article/011/0004652974?sid=101",
-      "originallink": "https://www.sedaily.com/article/20080766?ref=naver",
-      "description": "카카오페이증권이 ‘주식 축의금’ 캠페인을 시작한 지 약 2주 만에 3만 명이 참여한 것으로 나타났다. 신청자의 37%는 기존 카카오페이증권 계좌를 보유하지 않았다. 카카오페이증권은 ‘2026년 대한민국은 결혼하면...",
-      "pubDate": "2026-08-19T01:51:00+00:00",
-      "category": "카카오페이",
-      "source": "서울경제"
-    },
-    {
-      "title": "카카오페이 굿딜, 세븐일레븐 입점",
-      "link": "http://www.lawissue.co.kr/view.php?ud=2026081910400798669817d053b9_12",
-      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026081910400798669817d053b9_12",
-      "description": "카카오페이가 결제 할인 서비스 '굿딜'에 세븐일레븐을 입점시켜 국내 대표 편의점 4사를 모두 확보했다고 19일 밝혔다. 카카오페이에 따르면 이제 이마트24, CU, GS25와 함께 세븐일레븐에서도 굿딜로 결제할 수 있다....",
-      "pubDate": "2026-08-19T01:42:00+00:00",
-      "category": "카카오페이",
-      "source": "로이슈"
-    },
-    {
-      "title": "던킨·네이버페이 손잡았다…나흘간 전 품목 '반값' 혜택",
-      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128407",
-      "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=128407",
-      "description": "간편결제 이용이 일상화된 가운데 네이버페이 QR 결제와 가격 할인 혜택을 연계해 모바일 결제 고객의 이용 편의성과 제품 구매 기회를 함께 넓히는 방식이다. 던킨은 오는 22일까지 네이버페이 QR 결제 고객을 대상으로...",
-      "pubDate": "2026-08-19T01:40:00+00:00",
-      "category": "네이버페이",
-      "source": "스마트경제"
-    },
-    {
-      "title": "던킨, 네이버페이 제휴 '전 품목 50% 할인' 프로모션…22일까지 진행",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=116496",
-      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=116496",
-      "description": "SPC 비알코리아가 운영하는 던킨은 간편결제 서비스 네이버페이와 제휴를 맺고 오는 22일까지 전 품목 50% 할인 프로모션을 진행한다고 19일 밝혔다. 이번 행사는 모바일 간편결제 이용 고객의 쇼핑 편의를 높이고 소비자...",
-      "pubDate": "2026-08-19T01:40:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스드림"
-    },
-    {
-      "title": "카카오페이 '굿딜'에 세븐일레븐 입점…편의점 4사 모두 품었다",
-      "link": "https://n.news.naver.com/mnews/article/030/0003458503?sid=101",
-      "originallink": "https://www.etnews.com/20260819000127",
-      "description": "카카오페이 '굿딜'에 편의점 세븐일레븐이 입점한다. 국내 대표 편의점 4사를 모두 굿딜에서 이용할 수 있다. '굿딜'은 아무런 조건 없이 상시 할인을 제공한다. 카카오페이 결제 탭에서 하단 결제수단 중 '굿딜'을 선택해...",
-      "pubDate": "2026-08-19T01:34:00+00:00",
-      "category": "카카오페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "카카오페이 굿딜, 4대 편의점서 ‘조건 없는 무제한 할인’ 완비",
-      "link": "https://n.news.naver.com/mnews/article/009/0005722715?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12130882",
-      "description": "세븐일레븐 입점 기념 10% 할인 제휴 브랜드 100개 돌파 눈앞 카카오페이의 상시 할인 결제 서비스 ‘굿딜’이 세븐일레븐 입점을 완료하며 국내 대표 편의점 4사에서 모두 이용 가능해졌다. 세븐일레븐 입점 기념으로...",
-      "pubDate": "2026-08-19T01:26:00+00:00",
-      "category": "카카오페이",
-      "source": "매일경제"
-    },
-    {
-      "title": "도넛·커피도 QR 결제로 반값…던킨, 네이버페이 50% 할인",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=133740",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=133740",
-      "description": "| 이코노미사이언스 유나경 기자 | 모바일 간편결제가 일상적인 결제수단으로 자리 잡으면서 식음료업계의 할인 방식도 QR결제와 직접 연결되고 있다. 던킨이 네이버페이와 손잡고 도넛과 커피 등 전 품목을 대상으로 50...",
-      "pubDate": "2026-08-19T01:24:00+00:00",
-      "category": "네이버페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "던킨, 22일까지 네이버페이 이용 시 50% 할인",
-      "link": "https://n.news.naver.com/mnews/article/031/0001050670?sid=101",
-      "originallink": "http://www.inews24.com/view/1996108",
-      "description": "던킨은 최근 간편결제 서비스와 연계한 할인 프로모션을 적극 확대하고 있다. 지난달에는 당근페이와 손잡고 1만2000원 이상 결제 시 50% 할인 혜택을 제공한 바 있다. 던킨 관계자는 \"네이버페이와 함께 던킨의 인기...",
-      "pubDate": "2026-08-19T01:21:00+00:00",
-      "category": "네이버페이",
-      "source": "아이뉴스24"
-    },
-    {
-      "title": "\"이번 주만 반값\"…던킨, 네이버페이로 전 품목 50% 할인",
-      "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=62315",
-      "originallink": "https://www.the-pr.co.kr/news/articleView.html?idxno=62315",
-      "description": "모바일 간편결제를 선호하는 소비자의 이용 편의성을 높이고 다양한 제품을 경험할 기회를 제공하기 위해 이번 행사를 마련했다는 설명이다. 행사 기간에는 신제품 '말랑 바나나'와 '페이머스 글레이즈드', '먼치킨' 등...",
-      "pubDate": "2026-08-19T01:18:00+00:00",
-      "category": "네이버페이",
-      "source": "The PR 더피알"
     }
   ],
-  "lastFetch": "2026-09-18T01:17:55.974437+00:00"
+  "lastFetch": "2026-09-19T01:11:02.109501+00:00"
 }
