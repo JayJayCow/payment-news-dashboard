@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "title": "토스플레이스, 전국 가맹점 50만 넘었다",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319954",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319954",
+      "description": "토스플레이스가 자사 결제 단말기 토스 프론트를 설치한 전국 가맹점 수가 50만개를 넘어섰다 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스는 자사 결제 단말기 토스 프론트를 설치한 전국 가맹점...",
+      "pubDate": "2026-09-20T00:54:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜?",
+      "link": "https://n.news.naver.com/mnews/article/422/0000907894?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20260920092545Rjh",
+      "description": "그런데 최근에는 토스의 자회사 토스플레이스가 네이버를 공정거래위원회에 제소하는 안을 검토하면서 2차전 양상으로 확산하고 있습니다. 토스 측은 자사 포스를 쓰고 있는 업체들을 네이버에서 제공하는 플레이스플러스...",
+      "pubDate": "2026-09-20T00:26:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "네이버페이, 아파트별 인테리어 시공사례·업체 한눈에 본다",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=319381",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=319381",
+      "description": "네이버페이(Npay)가 부동산 빅데이터 플랫폼 아실과 손잡고 아파트 단지별 인테리어 시공 사례와 업체 정보를 한 번에 확인할 수 있는 '인테리어' 서비스를 선보였다. Npay는 18일 'Npay 부동산'에 신규 '인테리어' 서비스를...",
+      "pubDate": "2026-09-20T00:06:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "토스플레이스 가맹점 50만 돌파…6개월 새 20만곳 증가",
+      "link": "https://www.sentv.co.kr/article/view/sentv202609200006",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202609200006",
+      "description": "토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스는 토스 프론트 설치 가맹점 수가 50만곳을 돌파했다고 20일 밝혔다. 설치 가맹점은 지난 3월 30만곳에서 6월 40만곳, 이달 50만곳으로 늘었다. 최근 6개월 동안 약...",
+      "pubDate": "2026-09-19T23:28:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "간편결제 하루 1.2조원 시대, 편리함만큼 ‘돈의 안전장치’도 커져야",
+      "link": "https://www.dailyt.co.kr/newsView/dlt202609190008",
+      "originallink": "https://www.dailyt.co.kr/newsView/dlt202609190008",
+      "description": "시민들이 흔히 사용하는 모바일 간편결제와 각종 ‘페이’ 서비스가 여기에 포함된다. 온라인 쇼핑몰과 소비자 사이에서 결제를 대신 처리하는 전자지급결제대행(PG) 서비스의 일평균 이용금액도 전년 동기보다 12.6...",
+      "pubDate": "2026-09-19T10:44:00+00:00",
+      "category": "간편결제",
+      "source": "데일리환경"
+    },
+    {
+      "title": "카카오·카카오페이와 손잡은 더즌…금융 업무 자동화 시장 공략",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488729",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488729",
+      "description": "네이버 증권. 더즌이 디지털 뱅킹과 환전·정산 자동화, 데이터 솔루션을 앞세워 전자금융 솔루션 시장에서... 플랫폼 제휴 서비스에서는 카카오 및 카카오페이와 협력하고 있다. 인증과 대출조회, 청구서, 간편 송금 등...",
+      "pubDate": "2026-09-19T09:02:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "\"인테리어 사례 한눈에\"…네이버페이, '인테리어' 서비스 오픈",
+      "link": "https://www.ajunews.com/view/20260918164446194",
+      "originallink": "https://www.ajunews.com/view/20260918164446194",
+      "description": "실제 시공 사례와 업체 정보 제공 아주경제=김윤섭 기자 angks678@ajunews.com 네이버페이가 부동산 인테리어 비교 서비스를 출시했다. [사진=네이버페이] 네이버페이가 아파트 단지별 인테리어 시공 사례와 시공업체를 한...",
+      "pubDate": "2026-09-19T02:00:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
       "title": "로그인 없이 카드 혜택 비교…카카오페이 '카드연구소' 오픈",
       "link": "https://www.ajunews.com/view/20260918155902031",
       "originallink": "https://www.ajunews.com/view/20260918155902031",
@@ -5065,7 +5128,7 @@
       "description": "BC카드는 케이뱅크와 함께 온라인 간편결제 시 무조건 6% 할인 혜택을 제공하는 '히든카드'를 출시했다고 2일 밝혔다.",
       "pubDate": "2026-09-02T00:30:00+00:00",
       "category": "간편결제",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "CJ ONE 포인트, 네이버페이에서 쓴다",
@@ -5965,7 +6028,7 @@
       "description": "SK에너지와 네이버페이(이하 Npay)가 손잡고 SK주유소 이용 고객의 혜택 확대와 결제 편의성 강화를 위해 협력한다. SK에너지와 Npay는 주유소 현장에서의 고객 경험 혁신을 위한 업무 협약을 체결했다고 31일 밝혔다.",
       "pubDate": "2026-08-31T01:18:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "SK에너지, 네이버페이와 주유소 이용자 혜택 업무협약 체결",
@@ -6829,7 +6892,7 @@
       "description": "넵튠은 28일 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 밝혔다. 카카오페이가 올해 2월 출시한 '미니게임'은 이용자가 게임과 간단한 미션을 수행하면 카카오페이...",
       "pubDate": "2026-08-28T01:39:00+00:00",
       "category": "카카오페이",
-      "source": "인벤"
+      "source": "inven"
     },
     {
       "title": "헥토파이낸셜, ‘AFA 어워즈 2026’ 아시아 핀테크 톱30 선정",
@@ -7414,7 +7477,7 @@
       "description": "2023년 애플페이·화웨이페이·샤오미페이 등을 이용할 수 있는 NFC 결제 시스템을 도입했으며 지난해에는 대만 라인페이를 추가했다. 롯데백화점은 이번 유니온페이 QR 및 NFC QPS 도입을 통해 외국인 고객의 국적과 결제...",
       "pubDate": "2026-08-27T05:14:00+00:00",
       "category": "간편결제",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "토스, 국내 계좌 없는 외국인 유학생에 선불카드 배포",
@@ -9269,313 +9332,7 @@
       "pubDate": "2026-08-21T01:06:00+00:00",
       "category": "간편결제",
       "source": "SBS Biz"
-    },
-    {
-      "title": "\"전국 가맹점주 목소리 듣는다\"…토스플레이스, '찾아가는 간담회' 첫 개...",
-      "link": "http://www.beyondpost.co.kr/view.php?ud=202608210953502427be44c0aacd_30",
-      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202608210953502427be44c0aacd_30",
-      "description": "토스플레이스가 가맹점 자영업자를 직접 찾아가 현장의 목소리를 듣는 소통 행사를 마련하는 등 매장 운영 솔루션 개선에 나섰다. 토스플레이스는 가맹점주 간담회인 '찾아가는 토스플레이스'의 첫 행사를 지난 11일 서울...",
-      "pubDate": "2026-08-21T01:02:00+00:00",
-      "category": "토스페이",
-      "source": "비욘드포스트"
-    },
-    {
-      "title": "토스플레이스, 사장님 곁으로 간다…현장 밀착 소통 강화",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6938319",
-      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6938319",
-      "description": "지난 11일 서울 강남구 토스플레이스 가맹점에서 열린 '찾아가는 토스플레이스' 첫 간담회에서 토스플레이스 최재호 대표(가운데 오른쪽)가 공개 질의응답을 진행하고 있다. ⓒ토스  토스의 결제 단말기 및 포스(POS)...",
-      "pubDate": "2026-08-21T01:02:00+00:00",
-      "category": "토스페이",
-      "source": "스포츠한국"
-    },
-    {
-      "title": "카카오뱅크, 신한카드와 '착붙카드' 출시…AI 구독·간편결제 10% 할인",
-      "link": "http://www.press9.kr/news/articleView.html?idxno=81472",
-      "originallink": "http://www.press9.kr/news/articleView.html?idxno=81472",
-      "description": "온라인에서는 카카오페이와 네이버페이, 신한 SOL페이 결제금액의 10%를 할인한다. ChatGPT와 Claude 등 AI 서비스 정기결제에도 10% 할인이 적용된다. 네이버플러스와 쿠팡 와우 멤버십 정기결제 할인율은 50%다. 오프라인...",
-      "pubDate": "2026-08-21T00:48:00+00:00",
-      "category": "간편결제",
-      "source": "PRESS9"
-    },
-    {
-      "title": "토스플레이스, 강남서 가맹점 간담회 개최",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858428",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=858428",
-      "description": "토스플레이스 | 서울=한스경제 김종효 기자 | 토스플레이스는 지난 11일 서울 강남구 가맹점 하프하우스에서 '찾아가는 토스플레이스' 첫 간담회를 열었다고 21일 밝혔다. 이번 행사는 토스플레이스가 직접 가맹점 사장님을...",
-      "pubDate": "2026-08-21T00:44:00+00:00",
-      "category": "토스페이",
-      "source": "한스경제"
-    },
-    {
-      "title": "전자결제 테마 출렁…쿠콘·다날 급등, 카카오페이는 약세",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479273",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479273",
-      "description": "네이버 증권. 전자결제 테마가 21일 약세를 나타내고 있다. 간편결제와 전자금융 서비스 확대 기대가... KG파이낸셜과 헥토파이낸셜도 하락하고 있으며, NHN과 카카오페이, NHN KCP 등 주요 결제 관련주 역시 매도 우위 흐름을...",
-      "pubDate": "2026-08-21T00:40:00+00:00",
-      "category": "카카오페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "토스플레이스, 가맹점 찾아 현장 의견 듣는다···첫 간담회 30여명 참...",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705002",
-      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705002",
-      "description": "토스플레이스가 가맹점주를 직접 찾아가 서비스와 매장 운영에 대한 의견을 듣고 이를 제품 개선에 반영하는 현장 간담회를 시작했다. 첫 '찾아가는 토스플레이스'는 지난 11일 서울 강남구 가맹점 '하프하우스'에서 열렸다....",
-      "pubDate": "2026-08-21T00:40:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스프리존"
-    },
-    {
-      "title": "토스플레이스, '찾아가는 토스플레이스' 시작…전국 가맹점 방문",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694514",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694514",
-      "description": "11일 서울 강남구 토스플레이스 가맹점에서 열린 '찾아가는 토스플레이스' 첫 간담회에서 토스플레이스 최재호 대표(가운데 오른쪽)가 공개 질의응답을 진행하고 있다. [사진: 토스플레이스] 토스 운영사 비바리퍼블리카의...",
-      "pubDate": "2026-08-21T00:26:00+00:00",
-      "category": "토스페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "\"사장님 30명과 소통\"…토스플레이스, '찾아가는 가맹점 간담회' 개최",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=541598",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=541598",
-      "description": "|중앙이코노미뉴스 정재혁 기자|비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스는 가맹점 사장님을 직접 찾아가 목소리를 듣는 간담회 '찾아가는 토스플레이스'의 첫 행사를 지난 11일...",
-      "pubDate": "2026-08-21T00:18:00+00:00",
-      "category": "토스페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "토스플레이스, 가맹점주 목소리 듣는다…'찾아가는 간담회' 개최",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=143822",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=143822",
-      "description": "지난 11일 서울 강남구 토스플레이스 가맹점에서 열린 '찾아가는 토스플레이스' 첫 간담회에서 최재호 토스플레이스 대표(가운데 오른쪽)가 공개 질의응답을 진행하고 있다. [토스플레이스]  토스플레이스가 가맹점주들의...",
-      "pubDate": "2026-08-21T00:12:00+00:00",
-      "category": "토스페이",
-      "source": "직썰"
-    },
-    {
-      "title": "토스플레이스, 가맹점 속으로…\"현장에서 답 찾는다\"",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053406",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053406",
-      "description": "토스플레이스가 가맹점 사장님들과의 접점을 넓히고 있다. 결제 단말기와 포스(POS)를 공급하는 데 그치지 않고 실제 매장 운영 과정에서 나오는 의견을 서비스 개발에 반영하기 위해서다. 21일 관련업계에 따르면...",
-      "pubDate": "2026-08-21T00:10:00+00:00",
-      "category": "토스페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "가맹점주 의견 듣는다...토스플레이스, '찾아가는 토스플레이스' 간담회...",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=271370",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=271370",
-      "description": "토스플레이스가 가맹점주를 직접 찾아가 현장 의견을 서비스 개선에 반영하는 '찾아가는 토스플레이스' 간담회를 시작했다. 토스플레이스는 지난 11일 서울 강남구에 있는 가맹점 '하프하우스'에서 첫 간담회를 열었다고...",
-      "pubDate": "2026-08-21T00:06:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "토스플레이스, 첫 가맹점 사장 간담회 개최",
-      "link": "https://n.news.naver.com/mnews/article/277/0005805563?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026082108373356016",
-      "description": "비바리퍼블리카의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스는 가맹점 사장 간담회 '찾아가는 토스플레이스'의 첫 행사를 서울 강남구 한 가맹점에서 최근 열었다고 21일 밝혔다. 찾아가는 토스플레이스는...",
-      "pubDate": "2026-08-20T23:37:00+00:00",
-      "category": "토스페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "토스플레이스, 사장님 찾아 강남 매장서 연 이유",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=748544",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=748544",
-      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스(대표 최재호)는 가맹점 사장님을 직접 찾아가 목소리를 듣는 간담회 찾아가는 토스플레이스의 첫 행사를 지난 11일 서울 강남구...",
-      "pubDate": "2026-08-20T23:32:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "\"현장의 목소리가 혁신이다\"…토스플레이스, '찾아가는 간담회'로 자영...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85675",
-      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=85675",
-      "description": "토스플레이스는 자영업자의 매장 운영 고민을 듣고 서비스 개선에 반영하기 위해 마련된 '찾아가는 토스플레이스' 첫 간담회를 서울 강남 가맹점에서 개최했다고 21일 밝혔다. 이번 행사는 본사 방문이나 공식 채널 참여가...",
-      "pubDate": "2026-08-20T23:12:00+00:00",
-      "category": "토스페이",
-      "source": "더페어"
-    },
-    {
-      "title": "카카오페이 '페이-득' 성과지표 공개…\"결제 전환율 19.4% 기록\"",
-      "link": "https://n.news.naver.com/mnews/article/421/0009124928?sid=105",
-      "originallink": "https://www.news1.kr/it-science/internet-platform/6264570",
-      "description": "온라인 간편결제 플랫폼 카카오페이(377300)의 마케팅 프로그램 '페이-득'이 지난달 높은 비즈니스 성과를 기록했다는 분석이 나왔다. 카카오페이는 21일 독점 온라인 제휴 마케팅 프로그램 '페이-득'의 성과 지표를...",
-      "pubDate": "2026-08-20T22:00:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "“포인트·쿠폰 챙겨라”… 간편결제 ‘짠테크’ 확산",
-      "link": "https://n.news.naver.com/mnews/article/081/0003672202?sid=101",
-      "originallink": "https://www.seoul.co.kr/news/economy/finance/2026/08/21/20260821031004?wlog_tag3=naver",
-      "description": "20일 서울신문이 네이버페이와 올해 상반기 간편결제 데이터를 분석한 결과 포인트 활용은 크게 ①편의점·양식점에서는 ‘조금씩 자주’ ②학원·한식·주유소·백화점에서는 ‘한 번에 많이’ ③2030은 즉시 사용...",
-      "pubDate": "2026-08-20T20:04:00+00:00",
-      "category": "간편결제",
-      "source": "서울신문"
-    },
-    {
-      "title": "[충장로 빈점포 유행 '떳다방'] 뽑기기계 간편결제 수렁",
-      "link": "http://www.gjdream.com/news/articleView.html?idxno=672010",
-      "originallink": "http://www.gjdream.com/news/articleView.html?idxno=672010",
-      "description": "일부 가챠 기계에는 카드·간편결제 단말기가 설치돼 있고, 매장에서 카드로 전용 코인을 구매할 수도 있다. 현금을 준비하거나 지폐를 동전으로 바꾸지 않고도 곧바로 다음 캡슐을 뽑을 수 있게 된 것이다. 결제 편의성이...",
-      "pubDate": "2026-08-20T15:06:00+00:00",
-      "category": "간편결제",
-      "source": "광남신문"
-    },
-    {
-      "title": "한국간편결제진흥원, 라인 넥스트, 아이씨비 업무협약 체결",
-      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101283",
-      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101283",
-      "description": "국내 간편결제 인프라에 스테이블코인 기반 오프라인 결제가 접목되는 것은 이번이 처음이다. 한국간편결제진흥원은 라인 넥스트와 아이씨비와 함께 방한 외국인의 결제 편의 제고를 위한 업무협약을 체결했다고 밝혔다....",
-      "pubDate": "2026-08-20T13:32:00+00:00",
-      "category": "간편결제",
-      "source": "technoa"
-    },
-    {
-      "title": "카카오페이 ‘페이-득’, 평균 결제전환율 16.7%…제휴 마케팅 성과 공...",
-      "link": "https://n.news.naver.com/mnews/article/022/0004152394?sid=101",
-      "originallink": "https://www.segye.com/newsView/20260820521442?OutUrl=naver",
-      "description": "사진=카카오페이 여름 소비 시즌을 맞아 효과적인 마케팅 채널을 찾으려는 기업들의 움직임이 이어지는 가운데, 카카오페이가 온라인 간편결제 플랫폼을 활용한 제휴 마케팅 프로그램의 성과를 공개했다. 카카오페이...",
-      "pubDate": "2026-08-20T08:39:00+00:00",
-      "category": "카카오페이",
-      "source": "세계일보"
-    },
-    {
-      "title": "파리바게뜨, 21일 네이버페이 결제 50% 할인",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479139",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479139",
-      "description": "파리바게뜨, 네이버페이 단 하루 50% 혜택. 사진= 파리바게뜨. 파리바게뜨가 하루 동안 네이버페이 결제 고객의 구매 부담을 낮추는 할인 행사를 진행한다. 결제 방식과 할인 한도가 정해져 있어 행사 참여를 원하는...",
-      "pubDate": "2026-08-20T08:28:00+00:00",
-      "category": "네이버페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "(단독)네이버페이 모험자본 플랫폼, 한투·미래 등 종투사·GP 속속 가입",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1310874&inflow=N",
-      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1310874&inflow=N",
-      "description": "뉴스토마토 = 김현경 기자 |  금융감독원과 네이버페이가 구축한 모험자본 투자 플랫폼에 종합금융투자사업자(종투사)와 벤처캐피털 등 기관투자자들이 속속 합류하고 있습니다. 오는 10월 본격 운영을 앞두고 기관 간...",
-      "pubDate": "2026-08-20T08:12:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스토마토"
-    },
-    {
-      "title": "한국간편결제진흥원·라인 넥스트·아이씨비 글로벌 결제 활성화 업무협...",
-      "link": "https://www.tokenpost.kr/news/blockchain/394180",
-      "originallink": "https://www.tokenpost.kr/news/blockchain/394180",
-      "description": "한국간편결제진흥원(이사장 권대수, 이하 한결원)은 20일 라인 넥스트(대표 고영수, 이하 라인 넥스트), 아이씨비(대표 이한용, 이하 아이씨비)와 방한 외국인의 결제 편의 제고를 위한 업무협약을 체결했다고 밝혔다....",
-      "pubDate": "2026-08-20T08:04:00+00:00",
-      "category": "간편결제",
-      "source": "토큰포스트"
-    },
-    {
-      "title": "네이버페이∙통신 멤버십∙VIP 패키지…외식가, 할인 방식 다변화",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=186825",
-      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=186825",
-      "description": "파리바게뜨는 오는 21일 하루 동안 매장에서 네이버페이(Npay)로 결제하는 고객에게 50% 할인 혜택을 제공한다. Npay 머니·포인트·카드를 활용한 QR 단독 결제 시 구매 금액 제한 없이 최대 1만원까지 할인받을 수 있으며...",
-      "pubDate": "2026-08-20T08:00:00+00:00",
-      "category": "네이버페이",
-      "source": "한국면세뉴스"
-    },
-    {
-      "title": "파리바게뜨, 21일 Npay 결제 시 50% 할인 '최대 1만원'",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3669928",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3669928",
-      "description": "파리바게뜨, 네이버페이 단 하루 50% 혜택(출처=파리바게뜨) 파리바게뜨가 21일 하루 동안 네이버페이 결제 고객을 대상으로 50% 할인 행사를 실시한다. 이날 파리바게뜨 매장에서 네이버페이 머니, 포인트, 카드로 QR결제...",
-      "pubDate": "2026-08-20T07:34:00+00:00",
-      "category": "네이버페이",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "'뛰는' 카카오증권, '나는' 토스증권…더 벌어지는 핀테크 증권사 실적...",
-      "link": "https://www.ajunews.com/view/20260820145133964",
-      "originallink": "https://www.ajunews.com/view/20260820145133964",
-      "description": "아주경제=고혜영 기자 kohy0321@ajunews.com '핀테크' 증권사를 표방하는 토스증권과 카카오페이증권 간 실적 격차가 올해 상반기 더욱 벌어졌다. 카카오페이증권이 무섭게 성장하고 있지만 브로커리지와 외환을...",
-      "pubDate": "2026-08-20T06:16:00+00:00",
-      "category": "간편결제",
-      "source": "아주경제"
-    },
-    {
-      "title": "[특징주] 카카오페이, 美 클래리티법 통과 기대감에 '강세'",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=717436",
-      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=717436",
-      "description": "컨슈머타임스=김예령 기자 | 카카오페이가 미국의 가상자산 규제 법안 통과 촉구 소식과 스테이블코인 사업 기대감에 힘입어 강세다. 20일 오후 2시 21분 기준 카카오페이는 전 거래일 대비 3650원(8.85%) 오른 4만4900원에...",
-      "pubDate": "2026-08-20T05:26:00+00:00",
-      "category": "카카오페이",
-      "source": "컨슈머타임스(Consumertimes)"
-    },
-    {
-      "title": "[특징주] 카카오택시 美 IPO 추진 소식에…카카오페이·카카오 '급등'",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=850965",
-      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=850965",
-      "description": "20일 한국거래소에 따르면 오후 1시 30분 기준 카카오페이는 전날보다 3550원(8.61%) 상승한 4만4800원에 거래 중이다. 같은 시간 카카오는 전일 대비 1450원(3.88%) 오른 3만8850원에 거래되고 있다. 전날 미국...",
-      "pubDate": "2026-08-20T04:48:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스웍스"
-    },
-    {
-      "title": "카카오페이 주가 장중 10%대 올라, 트럼프 '클래리티법안' 통과 촉구에 ...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=445164",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=445164",
-      "description": "카카오페이 주가가 장중 크게 오르고 있다. 20일 코스피시장에서 오전 10시42분 기준 카카오페이 주식은 전날 정규거래 종가 4만1250원보다 10.91%(4500원) 오른 4만5750원에 거래되고 있다. 20일 오전 카카오페이 주가가...",
-      "pubDate": "2026-08-20T03:36:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈니스포스트"
-    },
-    {
-      "title": "카카오페이 ‘페이-득’, 결제 전환율 19.4%",
-      "link": "https://www.sentv.co.kr/article/view/sentv202608200071",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202608200071",
-      "description": "카카오페이는 자체 제휴 프로모션을 통해 고객 유입과 결제 전환, 거래액을 동시에 끌어올리며 플랫폼 기반 마케팅의 효과를 입증하고 있다. 카카오페이는 20일 온라인 제휴 마케팅 프로그램 ‘페이-득’의 성과 지표를...",
-      "pubDate": "2026-08-20T02:02:00+00:00",
-      "category": "카카오페이",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "저축은행 수수료 논란 속...토스 '햇살론 특례' 인하 배경은",
-      "link": "https://hbnpress.com/news/view/1065575409700674",
-      "originallink": "https://hbnpress.com/news/view/1065575409700674",
-      "description": "카카오페이 역시 저축은행 1.3%, 네이버페이는 0.82% 수준으로 나타났다. 저축은행업계는 플랫폼 의존도가 높은 2금융권에 상대적으로 높은 수수료가 적용되고 있다는 점을 문제 삼아왔다. 다만 대환대출 수수료와 이번...",
-      "pubDate": "2026-08-20T02:00:00+00:00",
-      "category": "토스페이",
-      "source": "hbnpress"
-    },
-    {
-      "title": "카카오페이 10.91% 상승, 스테이블코인주 동반 강세",
-      "link": "https://www.tokenpost.kr/news/breaking/393927",
-      "originallink": "https://www.tokenpost.kr/news/breaking/393927",
-      "description": "한국 증시에서 스테이블코인 관련주가 동반 상승했고, 카카오페이(Kakao Pay)는 10.91% 올랐다. 오데일리(Odaily)는 20일 한국 증시에서 스테이블코인 테마 종목들이 함께 강세를 보였고, 카카오페이가 10.91...",
-      "pubDate": "2026-08-20T01:56:00+00:00",
-      "category": "카카오페이",
-      "source": "토큰포스트"
-    },
-    {
-      "title": "카카오페이 주가, 8월 20일 장중 45,750원 10.91% 상승",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=541340",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=541340",
-      "description": "|중앙이코노미뉴스 조용우 기자|출처=네이버페이 증권 20일 오전 10시 32분 기준, 네이버페이 증권에 따르면 카카오페이 주가가 지난 종가 대비 4,500원 상승한 45,750원에 거래되고 있다. 이는 10.91%의...",
-      "pubDate": "2026-08-20T01:56:00+00:00",
-      "category": "카카오페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "망분리 규제 완화 및 디지털 금융 혁신 호재… 핀테크株 주가 파죽지세",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478950",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478950",
-      "description": "네이버 증권. 핀테크 테마가 20일 금융당국의 망분리 규제 완화 움직임과 마이데이터 2.0 추진 등 디지털... 한국거래소에 따르면 이날 오전 10시 20분 현재 헥토파이낸셜은 신규 결제 솔루션 공급 확대와 실적 개선...",
-      "pubDate": "2026-08-20T01:26:00+00:00",
-      "category": "간편결제",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "뚜레쥬르·파리바게뜨·삼립, 신제품 간식빵 출시·네이버페이와 할인 ...",
-      "link": "http://www.wsobi.com/news/articleView.html?idxno=316723",
-      "originallink": "http://www.wsobi.com/news/articleView.html?idxno=316723",
-      "description": "초코 바게트에 카카오의 풍미와 호두 맛을 더했다. 에어프라이어나 오븐에 2~3분 정도 구우면 즐길 수 있다. 파리바게뜨는 오는 21일 하루 동안 매장에서 네이버페이(Npay) 결제 시 50% 할인을 제공하는 프로모션을...",
-      "pubDate": "2026-08-20T01:18:00+00:00",
-      "category": "네이버페이",
-      "source": "sobi"
     }
   ],
-  "lastFetch": "2026-09-19T01:11:02.109501+00:00"
+  "lastFetch": "2026-09-20T01:02:29.977385+00:00"
 }
