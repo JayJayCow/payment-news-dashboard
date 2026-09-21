@@ -1,6 +1,204 @@
 {
   "articles": [
     {
+      "title": "네이버페이, 추석 해외결제 프로모션…74개국서 QR결제 적립",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=721441",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=721441",
+      "description": "컨슈머타임스=이필립 기자 | 네이버페이가 추석 연휴 해외여행객을 대상으로 해외 현장결제 프로모션을 진행한다. 다음달 31일까지 진행하는 '복주머니 프로모션'은 복주머니를 열어 무작위로 공개되는 결제 금액과...",
+      "pubDate": "2026-09-21T00:56:00+00:00",
+      "category": "네이버페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "네이버페이, 추석 해외여행객 겨냥…일본·중국 결제 할인·적립",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064499",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064499",
+      "description": "네이버페이(Npay)가 추석 연휴 해외여행객을 겨냥해 해외 현장결제 혜택을 확대한다. 결제 조건에 따라 포인트를 적립하는 프로모션과 함께 일본·중국·홍콩·마카오 등 주요 여행지에서 즉시 할인 혜택을 제공한다....",
+      "pubDate": "2026-09-21T00:56:00+00:00",
+      "category": "네이버페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "더즌, 독보적 결제 인프라에 스테이블코인 솔루션 이식... 핀테크 판도 ...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488967",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488967",
+      "description": "네이버 증권. 스테이블코인 테마가 21일 법정화폐 연동 암호화폐의 제도권 편입 움직임과 결제 인프라 확대... 위메이드, 드림시큐리티, 아톤, 카카오페이가 오름세를 이어가는 모습이다. 일부 종목은 단기 차익 실현...",
+      "pubDate": "2026-09-21T00:40:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "“해외서 QR결제하면 포인트·할인”…네이버페이, 추석 맞아 혜택 확대",
+      "link": "https://n.news.naver.com/mnews/article/138/0002242141?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026092109340631625",
+      "description": "네이버페이가 추석 연휴 해외여행객을 겨냥해 해외 QR결제 혜택을 확대한다. 일본·중국·홍콩·마카오 등에서 결제하면 포인트 적립이나 즉시 할인을 받을 수 있다. 21일 네이버페이에 따르면 오는 10월 31일까지 해외...",
+      "pubDate": "2026-09-21T00:37:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "네이버페이, 추석 맞아 해외 QR결제 혜택 확대…74개국서 포인트 적립",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701952",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701952",
+      "description": "네이버페이가 추석 연휴를 맞아 해외 QR결제 이용 고객을 대상으로 포인트 적립과 결제금액 할인 혜택을 제공한다. 전 세계 74개 국가·지역에서 참여할 수 있는 '복주머니' 이벤트를 비롯해 일본과 중국 등 주요...",
+      "pubDate": "2026-09-21T00:20:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "원주시, 추석 명절 '고향사랑기부 감사 이벤트'...네이버페이 지급",
+      "link": "https://www.newspim.com/news/view/20260921000215",
+      "originallink": "https://www.newspim.com/news/view/20260921000215",
+      "description": "기부금에 따라 10만 원 이상 20만 원 미만 기부자 중 선착순 50명에게 네이버페이 포인트 1만 원권, 20만 원 이상 기부자 중 선착순 30명에게 네이버페이 포인트 2만 원권이 지급된다. 대상자는 고향사랑e음 시스템에서...",
+      "pubDate": "2026-09-21T00:15:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "[더벨]토스플레이스, 첫 신종자본증권 조달…모회사 지원 '눈길'",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609170141570480102510",
+      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609170141570480102510",
+      "description": "비바리퍼블리카의 자회사 토스플레이스(Toss Place)가 올해 들어 잇따라 외부 자금 조달에 나서고 있다. 오프라인 결제 단말기 보급 확대 등 사업 확장 과정에서 자금 소요가 지속되는 가운데 자본잠식 상태에 놓이면서...",
+      "pubDate": "2026-09-20T22:02:00+00:00",
+      "category": "토스페이",
+      "source": "더벨"
+    },
+    {
+      "title": "토스, 플레이스로 오프라인 결제 판 뒤집었다",
+      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=363524",
+      "originallink": "http://www.smedaily.co.kr/news/articleView.html?idxno=363524",
+      "description": "토스는 얼굴인식 결제 서비스 '페이스페이'와 전용 단말기로, 네이버페이는 카드·QR·NFC·안면인식 기능을 통합한 단말기로, 카카오페이는 포스·키오스크와 연동한 QR 주문·결제 방식으로 각각 오프라인 고객 접점을...",
+      "pubDate": "2026-09-20T21:00:00+00:00",
+      "category": "토스페이",
+      "source": "중소기업신문"
+    },
+    {
+      "title": "\"섬마을까지 퍼졌다\"…토스플레이스, 가맹점 50만 돌파",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=549445",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=549445",
+      "description": "|중앙이코노미뉴스 정재혁 기자|토스플레이스는 자사 결제 단말기 '토스 프론트'를 설치한 전국 가맹점 수가 50만 개를 돌파했다고 20일 밝혔다. [사진=토스플레이스] 토스플레이스는 자사 결제 단말기 '토스 프론트'를...",
+      "pubDate": "2026-09-20T12:54:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "도심 넘어 읍·면·섬까지…토스플레이스 가맹점 50만 돌파",
+      "link": "https://n.news.naver.com/mnews/article/468/0001267715?sid=105",
+      "originallink": "https://www.sportsseoul.com/news/read/1636526?ref=naver",
+      "description": "토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스의 결제 단말기 ‘토스 프론트’ 설치 가맹점이 전국 50만곳을 넘어섰다. 지난 3월 30만곳을 돌파한 지 6개월 만에 약 20만곳이 늘었다. 토스플레이스는 토스...",
+      "pubDate": "2026-09-20T08:57:00+00:00",
+      "category": "토스페이",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "토스플레이스 설치 전국 가맹점 50만개 돌파",
+      "link": "https://n.news.naver.com/mnews/article/003/0014202742?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260920_0003797201",
+      "description": "토스의 결제 단말기 및 포스 솔루션 공급 자회사 토스플레이스가 자사 결제 단말기를 설치한 가맹점수가 50만개를 돌파했다고 20일 밝혔다. 토스플레이스 설치 가맹점은 지난 3월 30만개를 넘어섰고, 6월 40만개에 이어...",
+      "pubDate": "2026-09-20T07:23:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "울진군, 10만원이상 고향사랑기부자에 네이버페이·울진사랑패스 혜택",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3700334",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3700334",
+      "description": "참여자에게는 기부 금액에 따라 네이버페이 포인트가 제공되며, 10만원 이상 기부 시 2만원, 20만원 이상 기부 시 4만원 상당의 포인트가 지급된다. 기부자는 연말정산 시 세액공제와 함께 기부금의 30% 이내에서 답례품을...",
+      "pubDate": "2026-09-20T06:56:00+00:00",
+      "category": "네이버페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "“마라도 식당서도 쓴다”…토스플레이스 결제단말기, 가맹점 50만곳 돌...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003049019?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12084969?ref=naver",
+      "description": "토스의 오프라인 결제 인프라 자회사 토스플레이스가 전국 가맹점 50만곳을 돌파하며 무서운 성장세를 보이고 있다. 토스플레이스가 자사 스마트 결제 단말기 ‘토스 프론트’를 도입한 전국 가맹점 수가 50만곳을...",
+      "pubDate": "2026-09-20T06:43:00+00:00",
+      "category": "토스페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "토스플레이스, 설치 가맹점 50만 돌파…읍·면·섬까지 전국 확산",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=365799",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=365799",
+      "description": "토스(운영사 비바리퍼블리카)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 결제 단말기 '토스 프론트'를 설치한 전국 가맹점 수 50만개를 돌파했다고 20일 밝혔다. 토스플레이스 설치 가맹점은 지난 3월...",
+      "pubDate": "2026-09-20T06:12:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "토스플레이스, 가맹점 50만 돌파…6개월 새 20만곳 늘었다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006372902?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01620326645582088&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "토스플레이스의 결제 단말기를 설치한 가맹점이 50만곳을 넘어섰다. 올해 들어 6개월 만에 20만곳 가까이 늘며 전국 오프라인 매장으로 확산하고 있다. 토스플레이스는 결제 단말기 ‘토스 프론트’를 설치한 가맹점이...",
+      "pubDate": "2026-09-20T04:18:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "명륜진사갈비, 10월11일까지 네이버페이 프로모션",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064056",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064056",
+      "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 오는 10월 11일까지 네이버페이 결제 프로모션을 진행한다. 행사 기간 매장에서 네이버페이 포인트·머니로 4만3800원 이상 결제하면 6000원 상당의 네이버페이 포인트가...",
+      "pubDate": "2026-09-20T04:10:00+00:00",
+      "category": "네이버페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "신원근 카카오페이 대표, 신용관리 서비스로 ‘사장님’ 고객 선점 [페...",
+      "link": "https://www.fntimes.com/html/view.php?ud=20260918152856189ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=20260918152856189ed56b8e1f8_18",
+      "description": "신원근 카카오페이 대표가 개인사업자의 신용관리 수요를 대출 중개로 연결한다. 당장 자금이 필요하지 않은 사업자까지 고객으로 확보한 뒤 실제 대출 수요가 생기면 상품 비교와 실행으로 이어지게 해 중개수수료를...",
+      "pubDate": "2026-09-20T04:02:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "토스플레이스, 6개월 새 가맹점 20만 늘었다…전국 50만곳 돌파",
+      "link": "https://n.news.naver.com/mnews/article/119/0003134712?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1692611/?sc=Naver",
+      "description": "토스플레이스의 결제 단말기 설치 가맹점이 6개월 만에 약 20만곳 늘어나며 전국 50만곳을 넘어섰다. 수도권을 비롯한 주요 도심뿐 아니라 읍·면과 섬 지역까지 설치 범위가 확대됐다. 토스의 결제 단말기 및 포스(POS)...",
+      "pubDate": "2026-09-20T04:01:00+00:00",
+      "category": "토스페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "토스플레이스, 결제 단말기 설치 가맹점 50만곳 돌파",
+      "link": "https://n.news.naver.com/mnews/article/001/0016323584?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260920025700017?input=1195m",
+      "description": "최근 6개월 새 20만곳 증가…음식점·뷰티 등 업종도 확대 토스는 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스의 결제 단말기 '토스 프론트'를 설치한 가맹점이 50만곳을 돌파했다고 20일 밝혔다. 토스플레이스에...",
+      "pubDate": "2026-09-20T03:59:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "토스플레이스, 결제 단말기 50만대 돌파…읍·면·섬까지 안착",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=212912",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=212912",
+      "description": "토스 프론트는 신용카드는 물론 네이버페이, 카카오페이, 애플페이 등 다양한 간편결제를 완벽히 지원한다. 여기에 매장 상황에 따라 터치 한 번으로 고객이 직접 주문하는 '키오스크 모드' 전환이 가능해진 만큼 인력...",
+      "pubDate": "2026-09-20T03:02:00+00:00",
+      "category": "토스페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "토스플레이스, 단말기 설치 가맹점 50만 돌파",
+      "link": "https://n.news.naver.com/mnews/article/030/0003468457?sid=101",
+      "originallink": "https://www.etnews.com/20260920000040",
+      "description": "토스플레이스는 자사 결제 단말기 '토스 프론트'를 설치한 전국 가맹점 수가 50만개를 돌파했다고 20일 밝혔다. 토스플레이스 설치 가맹점은 지난 3월 30만개를 넘어선 뒤 6월 40만개, 9월 50만개를 돌파했다. 특히 최근 6개월...",
+      "pubDate": "2026-09-20T01:18:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "진격의 토스 \"짜장면, 아니 결제 단말기 시키신 분!\"",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=311607",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=311607",
+      "description": "한편 오프라인 결제 시장에서는 토스와 네이버페이 간 경쟁도 본격화하고 있다. 토스가 토스플레이스를 통해 결제 단말기와 매장 운영 솔루션을 직접 확대하고 있다면, 네이버페이는 네이버의 온라인 플랫폼과 결제...",
+      "pubDate": "2026-09-20T01:12:00+00:00",
+      "category": "토스페이",
+      "source": "스트레이트뉴스"
+    },
+    {
       "title": "토스플레이스, 전국 가맹점 50만 넘었다",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319954",
       "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319954",
@@ -2653,7 +2851,7 @@
       "description": "광주은행은 토스플레이스와 함께 토스 단말기 월 이용료 우대부터 개인사업자 전용 멤버십까지 제공하는 ‘광주은행 사장님만을 위한 웰컴 패키지’ 이벤트를 실시한다고 10일 밝혔다. 광주은행을 통해 토스 단말기를...",
       "pubDate": "2026-09-10T06:52:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "BC카드, 케이뱅크와 온라인 간편결제 전용 ‘히든카드’ 출시",
@@ -6892,7 +7090,7 @@
       "description": "넵튠은 28일 카카오페이와 게임 콘텐츠 공급 계약을 체결하고 카카오페이 '미니게임' 파트너사로 참여한다고 밝혔다. 카카오페이가 올해 2월 출시한 '미니게임'은 이용자가 게임과 간단한 미션을 수행하면 카카오페이...",
       "pubDate": "2026-08-28T01:39:00+00:00",
       "category": "카카오페이",
-      "source": "inven"
+      "source": "인벤"
     },
     {
       "title": "헥토파이낸셜, ‘AFA 어워즈 2026’ 아시아 핀테크 톱30 선정",
@@ -9143,196 +9341,7 @@
       "pubDate": "2026-08-22T03:42:00+00:00",
       "category": "카카오페이",
       "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "구독·간편결제 최대 50% 할인...'카카오뱅크 착붙 신한카드' 출격",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=259456",
-      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=259456",
-      "description": "이 카드는 네이버페이·카카오페이·신한 SOL페이 등 온라인 간편결제 이용 시 10% 할인을 제공하며, 챗GPT·클로드 등 AI 구독 서비스(10%)와 네이버플러스·쿠팡와우 등 멤버십(50%) 영역에서 할인 혜택을 부여한다. 대형마트...",
-      "pubDate": "2026-08-22T00:36:00+00:00",
-      "category": "간편결제",
-      "source": "아시아A"
-    },
-    {
-      "title": "월마트, 24일부터 애플페이 결제 받는다",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/395191",
-      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/395191",
-      "description": "월마트(Walmart, $WMT)가 24일부터 미국 일부 매장과 샘스클럽(Sam’s Club) 지점에서 애플페이와 구글페이 결제를 받기 시작한다. 자체 결제수단을 앞세워 비접촉 결제 도입에 소극적이던 미국 최대 유통사의 결제 전략이 바뀐...",
-      "pubDate": "2026-08-21T14:42:00+00:00",
-      "category": "애플페이",
-      "source": "토큰포스트"
-    },
-    {
-      "title": "카카오뱅크, '착붙 신한카드' 출시…간편결제·AI 구독 10% 할인",
-      "link": "https://www.cnbizm.com/news/articleView.html?idxno=312327",
-      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=312327",
-      "description": "온라인에서는 카카오페이·네이버페이·신한 SOL페이 결제와 ChatGPT·Claude 등 AI 구독 정기결제에 10% 할인을 제공한다. 네이버플러스·쿠팡 와우 멤버십은 50% 할인된다. 오프라인에서는 이마트·트레이더스 홀세일 클럽...",
-      "pubDate": "2026-08-21T06:58:00+00:00",
-      "category": "간편결제",
-      "source": "문화경제"
-    },
-    {
-      "title": "토스플레이스, 가맹점주 직접 찾아간다... 현장 목소리 서비스에 반영",
-      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=206535",
-      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=206535",
-      "description": "사진=토스플레이 토스플레이스가 결제 단말기와 포스(POS)를 실제 사용하는 가맹점주를 직접 찾아가 현장의 의견을 서비스 개선에 반영하는 소통 프로그램을 가동한다. 본사 행사나 공식 채널에 참여하기 어려운...",
-      "pubDate": "2026-08-21T06:54:00+00:00",
-      "category": "토스페이",
-      "source": "더퍼스트미디어"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 금융권 소식...신한은행·토스플레이스",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=200976",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=200976",
-      "description": "토스플레이스는 가맹점 사장들을 직접 찾아가는 첫 간담회를 열고 서비스 개선과 매장 운영 관련 현장 의견을 청취했다. ◆ 신한은행, 경남 수해 복구·이재민 구호 위해 2억 전달 신한은행(은행장 정상혁)이 집중호우로...",
-      "pubDate": "2026-08-21T06:30:00+00:00",
-      "category": "토스페이",
-      "source": "thevaluenews"
-    },
-    {
-      "title": "토스플레이스, 매장 비우기 어려운 사장님 찾아갔다...30명과 첫 간담회",
-      "link": "https://www.insight.co.kr/news/569469",
-      "originallink": "https://www.insight.co.kr/news/569469",
-      "description": "토스플레이스가 이번에는 사장님을 회사로 부르는 대신 직접 매장으로 찾아갔다. 포스(POS) 기능부터 매출·고객 관리까지 현장의 이야기를 듣고, 아직 출시되지 않은 인공지능(AI) 서비스도 먼저 보여줬다.21일 토스의 결제...",
-      "pubDate": "2026-08-21T06:16:00+00:00",
-      "category": "토스페이",
-      "source": "인사이트"
-    },
-    {
-      "title": "토큰증권(STO) 모멘텀에 갤럭시아머니트리 신바… 핀테크 업종은 차익실...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479403",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479403",
-      "description": "디지털 금융 혁신 및 간편결제 시장 확대 기대감으로 주목받던 핀테크 테마가 21일 내린 흐름을 보이고 있다. 테마 전반의 약세는 글로벌 금리 향방에 대한 불확실성과 함께 최근 단기 상승에 따른 차익실현 매물이...",
-      "pubDate": "2026-08-21T06:04:00+00:00",
-      "category": "간편결제",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "토스플레이스, 사장님 찾아 현장으로…'찾아가는 토스플레이스' 개최",
-      "link": "https://n.news.naver.com/mnews/article/030/0003459327?sid=101",
-      "originallink": "https://www.etnews.com/20260821000214",
-      "description": "토스플레이스가 '찾아가는 토스플레이스' 행사를 지난 11일 열었다. '찾아가는 토스플레이스'는 토스플레이스가 사장님이 있는 지역으로 직접 찾아가 개최하는 간담회다. 이 자리에서 서비스에 대한 의견과 매장 운영의...",
-      "pubDate": "2026-08-21T05:58:00+00:00",
-      "category": "토스페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "토스플레이스, 가맹점 찾아 현장 의견 청취",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=130413",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=130413",
-      "description": "토스플레이스가 가맹점을 직접 찾아 자영업자의 서비스 개선 의견과 매장 운영 관련 애로사항을 듣는 현장 소통에 나섰다. 21일 토스플레이스에 따르면 지난 11일 서울 강남구 가맹점 '하프하우스'에서 '찾아가는...",
-      "pubDate": "2026-08-21T04:40:00+00:00",
-      "category": "토스페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "카카오뱅크, ‘착붙 신한카드’ 출시…AI 구독·간편결제 할인",
-      "link": "https://n.news.naver.com/mnews/article/119/0003123890?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1680724/?sc=Naver",
-      "description": "온라인에서는 카카오페이·네이버페이·신한 SOL페이로 결제하거나 ChatGPT·Claude 등 AI 서비스를 정기결제하면 10% 할인받을 수 있다. 네이버플러스와 쿠팡 와우 멤버십 정기결제에는 50% 할인이 적용된다....",
-      "pubDate": "2026-08-21T04:20:00+00:00",
-      "category": "간편결제",
-      "source": "데일리안"
-    },
-    {
-      "title": "토스플레이스, 가맹점 직접 찾아간다…사장님 30명과 첫 현장 간담회",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202608211014418154de3f0aa1be_7",
-      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202608211014418154de3f0aa1be_7",
-      "description": "토스플레이스가 가맹점주를 본사로 초청하는 대신 직접 매장을 찾아가 현장의 의견을 듣는 간담회를 시작했다. 첫 행사에는 외식·카페부터 뷰티, 교육, 피트니스, 도소매업까지 서울지역 가맹점주 30여명이 참여했다....",
-      "pubDate": "2026-08-21T03:36:00+00:00",
-      "category": "토스페이",
-      "source": "더파워"
-    },
-    {
-      "title": "카카오페이 ‘페이-득’ 결제전환율 19.4%…이례적 성과에 마케터 이목...",
-      "link": "https://n.news.naver.com/mnews/article/021/0002812874?sid=101",
-      "originallink": "https://www.munhwa.com/article/11611009?ref=naver",
-      "description": "이른 더위로 한 발 앞서 시작된 여름 소비 특수가 이달 하반기까지 이어지는 가운데, 온라인 간편결제 플랫폼이 거둔 비즈니스 성과가 마케터들의 눈길을 끌고 있다. 카카오페이의 마케팅 프로그램 ‘페이-득’이 지난달...",
-      "pubDate": "2026-08-21T02:49:00+00:00",
-      "category": "카카오페이",
-      "source": "문화일보"
-    },
-    {
-      "title": "토스플레이스, 개발 중 AI 서비스 가맹점에 먼저 공개…현장 의견 반영",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=186867",
-      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=186867",
-      "description": "지난 11일 서울 강남구 토스플레이스 가맹점에서 열린 '찾아가는 토스플레이스' 첫 간담회에서 토스플레이스 최재호 대표(가운데 오른쪽)가 공개 질의응답을 진행하고 있다. 토스플레이스가 포스(POS)와 매장관리 서비스를...",
-      "pubDate": "2026-08-21T02:38:00+00:00",
-      "category": "토스페이",
-      "source": "한국면세뉴스"
-    },
-    {
-      "title": "토스플레이스, '찾아가는 간담회' 통해 사장님 현장 목소리 직접 청취",
-      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=131765",
-      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=131765",
-      "description": "지난 11일 서울 강남구 토스플레이스 가맹점에서 열린 '찾아가는 토스플레이스' 첫 간담회에서 토스플레이스 최재호 대표(가운데 오른쪽)가 공개 질의응답을 진행하고 있다. (사진=토스플레이스) 토스플레이스가...",
-      "pubDate": "2026-08-21T02:12:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜신문"
-    },
-    {
-      "title": "카카오뱅크·신한카드, AI 구독·간편결제 할인 담은 '착붙카드' 출시",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=210559",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=210559",
-      "description": "온라인에서는 카카오페이·네이버페이·신한 SOL페이 결제 시 10%를 할인한다. ChatGPT와 Claude 등 AI 서비스 정기구독에도 10% 할인 혜택을 제공하며, 네이버플러스와 쿠팡 와우 멤버십 정기결제는 50% 할인한다....",
-      "pubDate": "2026-08-21T02:12:00+00:00",
-      "category": "간편결제",
-      "source": "SR타임스"
-    },
-    {
-      "title": "토스플레이스, '찾아가는 토스플레이스' 첫 간담회 개최",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=717573",
-      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=717573",
-      "description": "컨슈머타임스=김지훈 기자 | 비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스(대표 최재호)가 가맹점 사장님을 직접 찾아가 목소리를 듣는 간담회 '찾아가는 토스플레이스'의 첫 행사를...",
-      "pubDate": "2026-08-21T02:02:00+00:00",
-      "category": "토스페이",
-      "source": "컨슈머타임스(Consumertimes)"
-    },
-    {
-      "title": "토스플레이스, 가맹점 직접 찾아간다…현장 목소리 서비스에 반영",
-      "link": "https://n.news.naver.com/mnews/article/138/0002238523?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026082110022601260",
-      "description": "토스플레이스가 가맹점 사장들을 직접 찾아가 서비스 개선 의견과 매장 운영 애로사항을 듣는 현장 간담회를 시작했다. 토스플레이스는 지난 11일 서울 강서구 소재 가맹점에서 ‘찾아가는 토스플레이스’ 첫 행사를...",
-      "pubDate": "2026-08-21T01:46:00+00:00",
-      "category": "토스페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "토스플레이스, '찾아가는 간담회' 첫 개최… 사장님 의견 반영",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316290",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=316290",
-      "description": "지난 11일 서울 강남구 토스플레이스 가맹점에서 열린 '찾아가는 토스플레이스' 첫 간담회에서 최재호(가운데 오른쪽) 토스플레이스 대표가 사장님들과 대화를 나누고 있다. 사진=토스플레이스  토스플레이스는 지난 11일...",
-      "pubDate": "2026-08-21T01:34:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "토스플레이스, '찾아가는 토스플레이스' 첫 간담회 성료",
-      "link": "https://n.news.naver.com/mnews/article/079/0004180856?sid=101",
-      "originallink": "https://www.nocutnews.co.kr/news/6565902?utm_source=naver&utm_medium=article&utm_campaign=20260821102654",
-      "description": "자회사 토스플레이스가 가맹점 사장님을 직접 찾아가 목소리를 듣는 간담회 '찾아가는 토스플레이스'의 첫 행사를 지난 11일 서울 강남구에 위치한 가맹점에서 열었다고 21일 밝혔다. '찾아가는 토스플레이스'는...",
-      "pubDate": "2026-08-21T01:27:00+00:00",
-      "category": "토스페이",
-      "source": "노컷뉴스"
-    },
-    {
-      "title": "\"토스 단말기, 쓸만 한가요?\"… 바쁜 사장님 직접 찾아 의견 들어",
-      "link": "https://n.news.naver.com/mnews/article/008/0005402891?sid=101",
-      "originallink": "https://www.mt.co.kr/finance/2026/08/21/2026082109325619559",
-      "description": "비바리퍼블리카(토스)의 결제 단말기 자회사 토스플레이스가 가맹점 사장님을 직접 찾아가 현장의 목소리를 들었다. 토스플레이스는 '찾아가는 토스플레이스' 첫 행사를 지난 11일 서울 강남구에 위치한 가맹점에서...",
-      "pubDate": "2026-08-21T01:09:00+00:00",
-      "category": "토스페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "신한카드, 카카오뱅크와 간편결제 10% 할인카드 출시",
-      "link": "https://n.news.naver.com/mnews/article/374/0000528616?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000329951?division=NAVER",
-      "description": "카카오페이와 네이버페이, 신한 SOL페이 결제가 대상이고, 1회 결제당 할인 한도는 5천원입니다. 이외에 챗GPT와 클로드 구독 시 10%, 네이버플러스와 쿠팡와우 멤버십은 50% 할인이 이뤄집니다. 간편결제와 구독 할인을...",
-      "pubDate": "2026-08-21T01:06:00+00:00",
-      "category": "간편결제",
-      "source": "SBS Biz"
     }
   ],
-  "lastFetch": "2026-09-20T01:02:29.977385+00:00"
+  "lastFetch": "2026-09-21T01:04:07.688536+00:00"
 }
