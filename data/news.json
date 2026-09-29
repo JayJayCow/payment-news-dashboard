@@ -1,6 +1,600 @@
 {
   "articles": [
     {
+      "title": "은행·핀테크 다 모이자… 카카오, 스테이블코인 라운드테이블 제안",
+      "link": "https://n.news.naver.com/mnews/article/008/0005419555?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/09/29/2026092910335139440",
+      "description": "첫 번째 챕터의 카카오그룹 측 발표자로 나선 손경희 카카오페이 디지털애셋그룹 총괄 부사장은 카카오그룹 디지털 자산 비즈니스의 목표가 사람들이 매일 쓰는 서비스에서 원화 스테이블코인이 실제로 쉽게 사용될 수...",
+      "pubDate": "2026-09-29T02:09:00+00:00",
+      "category": "간편결제",
+      "source": "머니투데이"
+    },
+    {
+      "title": "토스 새벽배송 합류, 판 흔든다",
+      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=363858",
+      "originallink": "http://www.smedaily.co.kr/news/articleView.html?idxno=363858",
+      "description": "결제에는 토스페이, 적립에는 토스포인트가 적용된다. 판매가와 배송 조건, 소비기한 임박 상품 할인 등... 마켓컬리 거래액은 25.7% 늘었고, 지난해 9월 네이버와의 제휴로 선보인 '컬리N마트'도 거래액 증가세를...",
+      "pubDate": "2026-09-29T01:52:00+00:00",
+      "category": "토스페이",
+      "source": "중소기업신문"
+    },
+    {
+      "title": "카카오, 원화 스테이블코인 추진…카카오페이·카카오뱅크 사업 구상 발...",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=112998",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=112998",
+      "description": "손경희 카카오페이 디지털애셋그룹 총괄 부사장은 카카오의 목표가 일상 서비스에서 원화 스테이블코인을 쉽게 사용할 수 있도록 하는 것이라고 설명했다. 카카오는 현재 발행·유통 기술을 확보하고 실제 활용 가능성을...",
+      "pubDate": "2026-09-29T01:40:00+00:00",
+      "category": "카카오페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "카카오페이, 금융매출 3211억…상반기 결제매출 413억 앞서",
+      "link": "https://sateconomy.co.kr/news/view/1065572463314379",
+      "originallink": "https://sateconomy.co.kr/news/view/1065572463314379",
+      "description": "상반기 매출 6354억·영업익 908억 금융서비스 3211억…결제서비스 2798억 추월 2분기 금융매출 비중 52%…증권 성장 이익으로 연결 ▲ 카카오페이의 2026년 상반기 서비스별 매출 지표 [=기사를 바탕으로 AI가 생성한 차트...",
+      "pubDate": "2026-09-29T00:56:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "[더벨][재무전략 분석] 토스플레이스, 자본잠식 메우려 영구채 발행",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609211738353600103129",
+      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609211738353600103129",
+      "description": "토스플레이스의 재무 선택지가 좁아지고 있다. 감사보고서를 집계한 결과 최대주주 비바리퍼블리카가 2024년과 2025년 2년간 넣은 현금출자는 775억원이다. 같은 기간 미처리결손금은 1338억원 늘었다. 출자액의 1....",
+      "pubDate": "2026-09-28T23:08:00+00:00",
+      "category": "토스페이",
+      "source": "더벨"
+    },
+    {
+      "title": "[핀테크핫이슈] 온투업 볕 드나...금융권 CEO 인사 '폭풍전야'",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703269",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703269",
+      "description": "카카오페이와 카카오뱅크는 파이어블록스와 디지털자산 인프라 구축에도 나서며 기술 기반을 넓히고 있다. 은행권에서도 블록체인 활용 사례가 확대되고 있다. 하나은행은 업비트 글로벌과 트래블룰 기술 공동 연구에...",
+      "pubDate": "2026-09-28T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "맛집 찾고 얼굴로 5초 결제, 리뷰까지⋯제주서 만난 '네이버페이 커넥트...",
+      "link": "https://n.news.naver.com/mnews/article/031/0001061735?sid=101",
+      "originallink": "http://www.inews24.com/view/2009231",
+      "description": "카운터에 놓인 네이버페이(Npay) 커넥트 단말기에서 '페이스 결제'를 누르고 화면을 바라보자 얼굴을 인식한... 그는 \"평소에 구글맵을 쓰지만 한국 지하철이나 버스 정보를 잘못 표시하는 경우가 잦고 카카오맵은...",
+      "pubDate": "2026-09-28T20:51:00+00:00",
+      "category": "네이버페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "[이스트포인트 2026] 신원근 카카오페이 대표 \"블록체인·AI 융합한 차세...",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=70602",
+      "originallink": "https://www.newswhoplus.com/news/articleView.html?idxno=70602",
+      "description": "신원근 카카오페이 대표는 28일 서울 삼성동 웨스틴 서울 파르나스에서 개최된 '이스트포인트 2026'에서 이같이 밝혔다. 이날 신 대표는 '넥스트 파이낸스 코리아: 화폐는 시작에 불과하다'를 주제로 한 발표에서 미래 금융...",
+      "pubDate": "2026-09-28T20:00:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스후플러스"
+    },
+    {
+      "title": "섹타나인, 새 수장에 '카카오페이 COO' 한순욱…AI·플랫폼 전환 이끈다",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3051566",
+      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3051566",
+      "description": "©AP신문(AP뉴스)/이미지 제공 = 상미당홀딩스 ▲한순욱 섹타나인 대표이사 섹타나인이 카카오페이에서 전사 전략과 사업 운영을 이끌었던 한순욱 전 운영총괄(COO)을 새 수장으로 영입했다. 멤버십과 커머스를...",
+      "pubDate": "2026-09-28T14:40:00+00:00",
+      "category": "카카오페이",
+      "source": "AP신문 |  온라인뉴스미디어  에이피신문"
+    },
+    {
+      "title": "카카오페이, 웹예능 '불$량학생' 공개…래퍼들의 금융 성장기 담아",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=147458",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=147458",
+      "description": "카카오페이가 래퍼들의 금융 성장기를 담은 새로운 오리지널 콘텐츠 '불$량학생'을 선보인다. 사진=카카오페이  카카오페이(대표 신원근)가 공식 유튜브 채널 '이페오카카'를 통해 래퍼들의 금융 성장기를 담은 새로운...",
+      "pubDate": "2026-09-28T12:12:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "\"플렉스 래퍼들이 금융 공부\"…카카오페이, 웹예능 '불$량학생' 공개",
+      "link": "https://n.news.naver.com/mnews/article/092/0002439019?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20260928193800",
+      "description": "카카오페이가 래퍼들의 금융 공부 과정을 담은 웹예능을 선보인다. '플렉스(Flex)'로 대표되는 힙합 문화와 금융을 결합해 소비와 투자부터 집, 자산, 은퇴까지 돈과 관련한 주제를 풀어낸다. 카카오페이는 공식 유튜브 채널...",
+      "pubDate": "2026-09-28T10:39:00+00:00",
+      "category": "카카오페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "상미당 섹타나인, 한순욱 전 카카오페이 COO 신임 대표 선임",
+      "link": "https://n.news.naver.com/mnews/article/117/0004109852?sid=102",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026092818202775032",
+      "description": "상미당홀딩스 계열사 통합 멤버십 ‘해피포인트’를 운영하는 섹타나인이 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다고 28일 밝혔다. 한 신임 대표는 액센츄어에서 제조·유통·소비재·서비스 분야...",
+      "pubDate": "2026-09-28T09:21:00+00:00",
+      "category": "카카오페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "\"디지털·AI 강화\" 섹타나인, 한순욱 전 카카오페이 COO 선임",
+      "link": "https://n.news.naver.com/mnews/article/119/0003137057?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1695204/?sc=Naver",
+      "description": "상미당홀딩스 계열 섹타나인이 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다고 28일 밝혔다. 데이터와 인공지능(AI)을 활용한 사업 경쟁력 강화에 나서겠다는 방침이다. 섹타나인은 멤버십·커머스...",
+      "pubDate": "2026-09-28T08:41:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "섹타나인 새 수장에 카카오페이 COO 출신 한순욱···'AI 플랫폼 기업'...",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=155005",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=155005",
+      "description": "| 스마트비즈 = 김선주 기자 | 상미당홀딩스 계열 마케팅·IT 기업 섹타나인이 카카오페이 운영총괄(COO) 출신 한순욱 대표를 새 수장으로 선임했다. 플랫폼 사업 경험을 갖춘 외부 인사를 영입해 데이터·인공지능(AI)...",
+      "pubDate": "2026-09-28T08:40:00+00:00",
+      "category": "카카오페이",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "섹타나인, 한순욱 신임 대표이사 선임…카카오페이 출신 경영전문가 영...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3707373",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3707373",
+      "description": "섹타나인 한순욱 대표이사(사진=상미당홀딩스) 한순욱 전 카카오페이 운영총괄이 섹타나인의 신임 대표이사로 선임됐다. 한 대표이사는 경영전략, 사업운영, 재무, 디지털 플랫폼 등 다양한 분야에서 경력을 쌓았다....",
+      "pubDate": "2026-09-28T08:32:00+00:00",
+      "category": "카카오페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "상미당홀딩스 섹타나인, 카카오페이 출신 한순욱 신임 대표이사 선임",
+      "link": "https://www.newspost.kr/news/articleView.html?idxno=225967",
+      "originallink": "https://www.newspost.kr/news/articleView.html?idxno=225967",
+      "description": "섹타나인은 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다고 28일 밝혔다. 섹타나인은 상미당홀딩스 계열 마케팅·AI·IT 전문 기업으로, 멤버십과 커머스, 디지털 플랫폼 및 IT 서비스를 기반으로...",
+      "pubDate": "2026-09-28T08:28:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스포스트"
+    },
+    {
+      "title": "[줌인] 상미당홀딩스 섹타나인, 카카오페이 COO 영입…2400만 회원 '사업...",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=102902",
+      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=102902",
+      "description": "상미당홀딩스 계열 IT·마케팅 전문기업 섹타나인이 카카오페이 출신 플랫폼 전문가를 새 수장으로 영입했다. 섹타나인은 9월 28일 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다. 이번 인사에서...",
+      "pubDate": "2026-09-28T08:16:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리팝"
+    },
+    {
+      "title": "카카오페이, 유튜브 오리지널 금융 예능 선봬",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=106725",
+      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=106725",
+      "description": "카카오페이가 공식 유튜브 채널 '이페오카카'를 통해 래퍼들의 금융 성장기를 다룬 오리지널 웹예능 콘텐츠 '불$량학생'을 선보였다고 28일 밝혔다. 이번 콘텐츠는 힙합의 '플렉스' 문화에서 벗어나 진정한 금융의 본질을...",
+      "pubDate": "2026-09-28T07:56:00+00:00",
+      "category": "카카오페이",
+      "source": "센트럴경제"
+    },
+    {
+      "title": "SPC그룹 계열 섹타나인 새 대표에 한순욱, 카카오페이 운영총괄 역임",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448093",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=448093",
+      "description": "상미당홀딩스 계열의 마케팅·인공지능(AI)·정보기술(IT) 전문기업 섹타나인이 한순욱 전 카카오페이 운영총괄(COO)을 새 대표이사로 선임했다. 섹타나인은 28일 한 대표의 플랫폼 사업 경험을 바탕으로 멤버십과 커머스...",
+      "pubDate": "2026-09-28T07:52:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "섹타나인, 카카오페이 출신 한순욱 대표 선임…AI·플랫폼 강화",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1314988&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1314988&inflow=N",
+      "description": "(사진=섹타나인) 상미당홀딩스 계열사 섹타나인이 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했습니다. 섹타나인은 멤버십·커머스·디지털 플랫폼과 IT 서비스를 운영하는 마케팅·AI·IT...",
+      "pubDate": "2026-09-28T07:48:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스토마토"
+    },
+    {
+      "title": "카카오페이, 마이데이터 활용처 확대…신용평가서 멤버십·포인트로",
+      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192535",
+      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192535",
+      "description": "카카오페이가 마이데이터를 활용하는 방식이 금융서비스를 넘어 소비·혜택 영역으로도 넓어지고 있다. 지난해 대안신용평가 모델 관련 데이터 판매·중개에 이어 이번에는 제휴사 멤버십 포인트 사후 적립과 관련한...",
+      "pubDate": "2026-09-28T07:42:00+00:00",
+      "category": "카카오페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "섹타나인, 신임 대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=881950",
+      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=881950",
+      "description": "상미당홀딩스 계열 마케팅·인공지능(AI)·정보기술(IT) 기업 섹타나인은 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다고 28일 밝혔다. 이번 인사를 통해 상미당홀딩스 계열사는 디지털 혁신과 AI 전환...",
+      "pubDate": "2026-09-28T07:36:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌경제신문"
+    },
+    {
+      "title": "섹타나인 신임 대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "https://www.ajunews.com/view/20260928163119432",
+      "originallink": "https://www.ajunews.com/view/20260928163119432",
+      "description": "카카오페이 COO 거쳐 경영전략·플랫폼 경험 쌓아 멤버십·커머스 경쟁력 강화…종합 플랫폼 전환 추진 아주경제=김현아 기자 haha@ajunews.com 한순욱 섹타나인 대표이사 [사진=상미당홀딩스] 상미당홀딩스 계열 마케팅...",
+      "pubDate": "2026-09-28T07:34:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "부천시, 공영주차장 QR 간편결제 정식 시행",
+      "link": "https://www.sentv.co.kr/article/view/sentv202609280110",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202609280110",
+      "description": "부천시가 28일부터 공영주차장 ‘QR 코드 간편결제’ 서비스를 정식 시행한다. 이용자는 출차 전 주차장 안내표지판의 QR 코드를 스마트폰으로 스캔하면 된다. 부천주차포털에서 차량번호를 입력한 뒤 주차요금을 미리...",
+      "pubDate": "2026-09-28T07:34:00+00:00",
+      "category": "간편결제",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "\"플렉스만 하던 래퍼들, 금융 공부 시작\"…카카오페이, '불$량학생' 공개",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=277642",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=277642",
+      "description": "카카오페이는 공식 유튜브 채널 '이페오카카'를 통해 래퍼들의 금융 성장기를 담은 오리지널 콘텐츠 '불$량학생'을 공개했다고 28일 밝혔다. 불$량학생은 돈과 성공, '플렉스(Flex)'로 대표되는 힙합의 익숙한 문법에서...",
+      "pubDate": "2026-09-28T07:32:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "섹타나인, '카카오페이 출신' 한순욱 대표 선임…디지털·AI 경쟁력 강화",
+      "link": "https://n.news.naver.com/mnews/article/421/0009195897?sid=101",
+      "originallink": "https://www.news1.kr/industry/distribution/6303503",
+      "description": "상미당홀딩스 계열 섹타나인은 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다고 28일 밝혔다. 섹타나인은 멤버십·커머스·디지털 플랫폼과 IT 서비스를 운영하는 상미당홀딩스 계열 마케팅·AI·IT...",
+      "pubDate": "2026-09-28T07:24:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "상미당홀딩스 섹타나인, 카카오페이 COO 출신 한순욱 영입…계열사 AX 힘...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136211",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=136211",
+      "description": "| 이코노미사이언스 강은영 기자 | 상미당홀딩스의 마케팅·AI·IT 전문기업 섹타나인이 카카오페이에서 플랫폼 사업을 이끌었던 한순욱 전 운영총괄(COO)을 새 대표로 영입했다. AI와 데이터를 활용한 사업을 확대하고...",
+      "pubDate": "2026-09-28T07:08:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "섹타나인, 신임 대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "https://www.ceoscoredaily.com/page/view/2026092815573736093",
+      "originallink": "https://www.ceoscoredaily.com/page/view/2026092815573736093",
+      "description": "상미당홀딩스 계열 마케팅·AI·IT 전문 기업 섹타나인이 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다. 한 대표를 앞세워 멤버십·커머스 등 기존 사업 경쟁력을 높이는 한편, 데이터와 AI 기반으로...",
+      "pubDate": "2026-09-28T06:58:00+00:00",
+      "category": "카카오페이",
+      "source": "CEOSCOREDAILY"
+    },
+    {
+      "title": "섹타나인, 카카오페이 출신 한순욱 대표 영입…상미당홀딩스 'AX 전환' ...",
+      "link": "https://www.peoplewatch.co.kr/article/view/ppw202609280010",
+      "originallink": "https://www.peoplewatch.co.kr/article/view/ppw202609280010",
+      "description": "▲한순욱 섹타나인 신임 대표.[사진제공:상미당홀딩스] 상미당홀딩스 계열사 섹타나인의 새 대표이사에 한순욱 전 카카오페이 운영총괄이 선임됐다. 28일 상미당홀딩스는 플랫폼과 인공지능(AI) 사업 강화를 위해 한...",
+      "pubDate": "2026-09-28T06:54:00+00:00",
+      "category": "카카오페이",
+      "source": "피플워치"
+    },
+    {
+      "title": "섹타나인, 카카오페이 출신 한순욱 신임 대표 선임… AI·플랫폼 사업 강...",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=96115",
+      "originallink": "http://www.newsian.co.kr/news/articleView.html?idxno=96115",
+      "description": "상미당홀딩스 계열 마케팅·IT 전문기업 섹타나인이 카카오페이에서 플랫폼 사업 운영을 이끌어온 한순욱 전 운영총괄(COO)을 신임 대표이사로 선임했다. [사진=상미당홀딩스] ［뉴시안= 신선경 기자］상미당홀딩스...",
+      "pubDate": "2026-09-28T06:46:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시안"
+    },
+    {
+      "title": "카카오페이, 래퍼와 배우는 금융 웹예능 '불$량학생' 공개",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208896",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=208896",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이(대표 신원근)가 래퍼들의 금융 성장기를 소재로 한 웹예능을 선보이며 금융 콘텐츠 강화에 나섰다. 소비와 투자부터 집, 자산, 은퇴까지 일상과 밀접한 금융 주제를 예능 형식으로...",
+      "pubDate": "2026-09-28T06:46:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "섹타나인, 신임 대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=188548",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=188548",
+      "description": "섹타나인이 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다고 밝혔다. 한 신임 대표는 경영전략과 사업 운영, 재무, 디지털 플랫폼 분야에서 경력을 쌓았다. 액센츄어에서 제조·유통·소비재·서비스...",
+      "pubDate": "2026-09-28T06:44:00+00:00",
+      "category": "카카오페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "섹타나인, 카카오페이 출신 한순욱 신임 대표 선임... AI·데이터 기반 ...",
+      "link": "https://www.insight.co.kr/news/575589",
+      "originallink": "https://www.insight.co.kr/news/575589",
+      "description": "상미당홀딩스 계열 마케팅·AI·IT 전문 기업 섹타나인이 한순욱 전 카카오페이 운영총괄(COO)을 신임 대표이사로 선임했다. 한순욱 신임 대표는 경영전략과 사업운영, 재무, 디지털 플랫폼 분야에서 폭넓은 경험을...",
+      "pubDate": "2026-09-28T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "[뉴스워커_카카오페이] 키드밀리가 금융 공부를?…래퍼들의 '불$량학생...",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=506150",
+      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=506150",
+      "description": "카카오페이(대표 신원근)가 래퍼들을 '금융 갱생 학교'에 입학시켰다. 돈과 성공, 플렉스를 이야기하던 힙합의 익숙한 이미지를 뒤집어 소비부터 주식·집·은퇴까지 실제 금융생활을 배우는 웹예능을 선보인다....",
+      "pubDate": "2026-09-28T06:34:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "섹타나인, 신임 대표에 한순욱 전 카카오페이 COO 선임…디지털·AI 경쟁...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1418607",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1418607",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 역임하며 경영전략 및 프로세스 혁신(PI) 컨설팅을 수행했으며, 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 이후 경영기획팀장과...",
+      "pubDate": "2026-09-28T06:18:00+00:00",
+      "category": "카카오페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "토스·네이버페이만 하던 예금 비교…플랫폼 경쟁 열린다",
+      "link": "https://dealsite.co.kr/articles/169710",
+      "originallink": "https://dealsite.co.kr/articles/169710",
+      "description": "네이버파이낸셜과 비바리퍼블리카(토스)를 비롯해 카카오페이, 신한은행, 뱅크샐러드, 핀다 등이 포함됐다. 삼성·신한·KB국민·BC·현대·롯데·우리·하나카드 등 카드사 8곳도 이름을 올렸다. 하지만 실제 서비스는 크게...",
+      "pubDate": "2026-09-28T06:12:00+00:00",
+      "category": "네이버페이",
+      "source": "딜사이트"
+    },
+    {
+      "title": "섹타나인, 신임대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "https://n.news.naver.com/mnews/article/031/0001061596?sid=101",
+      "originallink": "http://www.inews24.com/view/2009525",
+      "description": "이후 쿠팡에서 재무기획 업무를 맡았다. 2017년 카카오페이에 합류한 뒤 경영기획팀장과 성장지원실장을 거쳐 2022년부터 운영총괄을 맡았다. 전사 전략과 사업 운영을 총괄하며 결제·금융·플랫폼 등 주요 사업을...",
+      "pubDate": "2026-09-28T06:06:00+00:00",
+      "category": "카카오페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "섹타나인, 카카오페이 출신 한순욱 대표 선임…AI·플랫폼 사업 강화",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=749090",
+      "originallink": "http://www.newsprime.co.kr/news/article.html?no=749090",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 담당 이사를 맡아 경영전략과 업무 프로세스 혁신 컨설팅을 수행했으며, 이후 쿠팡에서 재무기획 업무를 담당했다. 2017년 카카오페이에 합류해 경영기획팀장과...",
+      "pubDate": "2026-09-28T05:48:00+00:00",
+      "category": "카카오페이",
+      "source": "프라임경제"
+    },
+    {
+      "title": "상미당홀딩스 섹타나인, 카카오페이 출신 한순욱 신임 대표 선임",
+      "link": "https://n.news.naver.com/mnews/article/138/0002242834?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026092814224543083",
+      "description": "이후 쿠팡에서 재무기획을 담당했다. 지난 2017년에는 카카오페이에 합류해 경영기획팀장과 성장지원실장을 거쳐 2022년부터 운영총괄을 맡았다. 섹타나인은 한 대표의 경영전략 및 플랫폼 사업 운영 경험을 바탕으로...",
+      "pubDate": "2026-09-28T05:31:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "섹타나인, 한순욱 전 카카오페이 COO 신임 대표이사 선임",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253391",
+      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253391",
+      "description": "액센츄어에서는 제조·유통·소비재·서비스 산업 부문 이사로 일하며 경영전략과 프로세스 혁신(PI) 컨설팅을 맡았고, 이후 쿠팡에서 재무기획 업무를 담당했다. 2017년 카카오페이에 합류한 한 대표는 경영기획팀장과...",
+      "pubDate": "2026-09-28T05:14:00+00:00",
+      "category": "카카오페이",
+      "source": "넥스트데일리"
+    },
+    {
+      "title": "섹타나인, 신임대표에 카카오페이·쿠팡 출신 한순욱 선임 … AI·플랫폼...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800134.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800134.html",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사로 근무하며 경영전략과 프로세스 혁신(PI) 컨설팅을 담당했고, 이후 쿠팡에서 재무기획 업무를 맡았다. 2017년에는 카카오페이에 합류했다. 경영기획팀장과...",
+      "pubDate": "2026-09-28T05:12:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "섹타나인, 한순욱 전 카카오페이 COO 신임 대표 선임",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000100295",
+      "originallink": "https://www.seoultimes.news/news/article.html?no=2000100295",
+      "description": "액센츄어·쿠팡 거쳐 카카오페이 운영총괄까지 경험 경영전략·재무·플랫폼 거쳐 결제·금융 사업도 맡아 멤버십·커머스 확대…데이터·AI 신사업 발굴 나서 [서울타임즈뉴스 = 서연옥 기자] 섹타나인은 한순욱 전...",
+      "pubDate": "2026-09-28T05:10:00+00:00",
+      "category": "카카오페이",
+      "source": "seoultimes"
+    },
+    {
+      "title": "섹타나인, 한순욱 전 카카오페이 COO 신임 대표 선임…“AI·데이터 기반...",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589476800153",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589476800153",
+      "description": "이후 쿠팡에서 재무기획 업무를 담당했다. ▲ 섹타나인 한순욱 대표이사. [사진=섹타나인] 2017년 카카오페이에 합류한 뒤에는 경영기획팀장과 성장지원실장을 거쳤다. 2022년부터는 운영총괄을 맡아 전사 전략과 사업...",
+      "pubDate": "2026-09-28T05:06:00+00:00",
+      "category": "카카오페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "상미당홀딩스, AI 사업 확대..섹타나인 새 대표에 카카오페이 출신",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2118757",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2118757",
+      "description": "2016년에는 쿠팡으로 옮겨 글로벌 오퍼레이션 부문의 재무기획(FP&A)을 맡았다. 여러 산업의 경영전략을 다룬 데 이어 이커머스 기업에서 재무와 사업 운영 경험을 쌓았다. 한 대표는 2017년 카카오페이에 합류해...",
+      "pubDate": "2026-09-28T05:00:00+00:00",
+      "category": "카카오페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "상미당 섹타나인, 카카오페이 출신 한순욱 신임 대표 선임",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=92394",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=92394",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 역임하며 경영전략 및 프로세스 혁신(PI) 컨설팅을 수행했으며 이후 쿠팡에서 재무기획을 담당했습니다. 2017년 카카오페이에 합류한 이후 경영기획팀장과...",
+      "pubDate": "2026-09-28T04:54:00+00:00",
+      "category": "카카오페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "상미당홀딩스 섹타나인, 한순욱 대표 선임…카카오페이 COO 출신",
+      "link": "https://n.news.naver.com/mnews/article/366/0001194749?sid=101",
+      "originallink": "https://biz.chosun.com/distribution/food/2026/09/28/PXQQ2KDGSFCFDOYZJNTREQAYQ4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 지내며 경영 전략 및 프로세스 혁신(PI) 컨설팅을 담당했고, 이후 쿠팡에서 재무 기획 업무를 맡았다. 카카오페이에 2017년 합류해 경영기획팀장...",
+      "pubDate": "2026-09-28T04:53:00+00:00",
+      "category": "카카오페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "상미당 섹타나인 새 수장에 한순욱 전 카카오페이 COO…AI·플랫폼 힘준...",
+      "link": "https://www.kukinews.com/article/view/kuk202609280121",
+      "originallink": "https://www.kukinews.com/article/view/kuk202609280121",
+      "description": "이후 쿠팡으로 자리를 옮겨 글로벌 오퍼레이션 분야의 재무기획 업무를 맡았다. 2017년에는 카카오페이에 합류했다. 경영기획팀장과 성장지원실장을 거쳐 2022년부터 COO를 맡아 결제와 금융, 플랫폼 등 주요 사업의...",
+      "pubDate": "2026-09-28T04:48:00+00:00",
+      "category": "카카오페이",
+      "source": "kukinews"
+    },
+    {
+      "title": "상미당 섹타나인, 신임 대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "https://n.news.naver.com/mnews/article/293/0000090942?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=674498",
+      "description": "쿠팡에서는 Global Operation FP&A를 맡았다. 2017년 카카오페이에 합류한 뒤에는 경영기획팀장과 성장지원실장을 거쳐 경영전략부문장과 운영총괄(COO)을 역임했다. 특히 전사 전략 수립과 사업 운영을 총괄하며 결제...",
+      "pubDate": "2026-09-28T04:47:00+00:00",
+      "category": "카카오페이",
+      "source": "블로터"
+    },
+    {
+      "title": "섹타나인, 신임 대표에 한순욱 전 카카오페이 운영총괄 선임",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=213356",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=213356",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 역임하며 경영전략·프로세스 혁신(PI) 컨설팅을 수행했으며 쿠팡에서 재무 기획을 담당했다. ​2017년에는 카카오페이에 합류해 경영기획팀장과...",
+      "pubDate": "2026-09-28T04:46:00+00:00",
+      "category": "카카오페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "부천시, 공영주차장 QR 코드 간편결제 도입",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=556333",
+      "originallink": "http://news.lghellovision.net/news/articleView.html?idxno=556333",
+      "description": "부천시가 오늘(28일)부터 공영주차장 QR 코드 간편결제 서비스를 시행합니다. 사용 방법은 출차 전 주차장 안내표지판의 QR 코드를 스마트폰으로 스캔해 부천주차포털에 접속한 뒤 차량번호를 입력하고 신용카드나 간편...",
+      "pubDate": "2026-09-28T04:44:00+00:00",
+      "category": "간편결제",
+      "source": "LG헬로비전"
+    },
+    {
+      "title": "섹타나인 신임 대표에 한순욱 전 카카오페이 운영총괄",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436698",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436698",
+      "description": "2011년부터 액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 역임하며 경영전략 및 프로세스 혁신(PI) 컨설팅을 수행했고 이후 쿠팡에서 재무 기획을 담당했다. 2017년 카카오페이에 합류해 경영기획팀장과...",
+      "pubDate": "2026-09-28T04:24:00+00:00",
+      "category": "카카오페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "카카오페이 COO 출신 한순욱, 섹타나인 이끈다…AI·플랫폼 사업 강화",
+      "link": "https://n.news.naver.com/mnews/article/030/0003470351?sid=101",
+      "originallink": "https://www.etnews.com/20260928000256",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 지내며 경영전략과 프로세스 혁신(PI) 컨설팅을 수행했고 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 뒤 경영기획팀장과 성장지원실장을...",
+      "pubDate": "2026-09-28T04:21:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "섹타나인, 카카오페이 COO 출신 한순욱 대표 선임...플랫폼·AI 사업 강화",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=134191",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=134191",
+      "description": "이후 쿠팡을 거쳐 2017년 8월 카카오페이에 합류해 2026년 9월까지 경영전략부문장과 운영총괄을 맡았다. 섹타나인 관계자는 \"한순욱 대표이사는 경영전략과 플랫폼 사업 운영 전반에 대한 폭넓은 경험과 전문성을...",
+      "pubDate": "2026-09-28T04:12:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "섹타나인, 한순욱 전 카카오페이 COO 신임 대표이사 선임",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=301625",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=301625",
+      "description": "쿠팡에서는 재무기획을 담당했으며, 2017년 카카오페이에 합류한 뒤 경영기획팀장과 성장지원실장을 거쳐 2022년부터 운영총괄로서 전사 전략과 사업 운영을 총괄했다. 이 기간 동안 결제, 금융, 플랫폼 등 다양한...",
+      "pubDate": "2026-09-28T04:06:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "상미당홀딩스 '섹타나인' 신임 대표에 한순욱 전 카카오페이 COO",
+      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=365466",
+      "originallink": "http://www.sisafocus.co.kr/news/articleView.html?idxno=365466",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 맡아 경영전략과 프로세스 혁신 컨설팅을 수행했으며, 이후 쿠팡에서 재무기획 업무를 담당했다. 지난 2017년 카카오페이에 합류한 뒤 경영기획팀장과...",
+      "pubDate": "2026-09-28T03:16:00+00:00",
+      "category": "카카오페이",
+      "source": "시사포커스"
+    },
+    {
+      "title": "섹타나인, 카카오페이 출신 한순욱 대표 영입…AI 기반 신사업 속도",
+      "link": "https://theviewers.co.kr/View.aspx?No=4242992",
+      "originallink": "https://theviewers.co.kr/View.aspx?No=4242992",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 역임하며 경영전략 및 프로세스 혁신(PI) 컨설팅을 수행했으며 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 이후 경영기획팀장과...",
+      "pubDate": "2026-09-28T03:12:00+00:00",
+      "category": "카카오페이",
+      "source": "뷰어스"
+    },
+    {
+      "title": "섹타나인, 한순욱 전 카카오페이 COO 대표 선임…AI 사업 강화",
+      "link": "https://n.news.naver.com/mnews/article/018/0006376289?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02738806645584712&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 뒤 경영기획팀장과 성장지원실장을 거쳤으며, 2022년부터 COO를 맡아 전사 전략과 사업 운영을 이끌었다. 섹타나인은 한 대표 선임을 계기로 데이터·AI...",
+      "pubDate": "2026-09-28T02:56:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "섹타나인, 카카오페이 출신 한순욱 대표 선임…디지털·AI 강화",
+      "link": "https://www.etoday.co.kr/news/view/2629843",
+      "originallink": "https://www.etoday.co.kr/news/view/2629843",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 맡아 경영전략 및 프로세스 혁신(PI) 컨설팅을 수행했으며 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 뒤에는 경영기획팀장과...",
+      "pubDate": "2026-09-28T02:44:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "섹타나인, 신임 대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "https://n.news.naver.com/mnews/article/001/0016340367?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20260928074900030?input=1195m",
+      "description": "이후 쿠팡에서 재무기획을 담당했으며, 2017년 카카오페이에 합류해 경영기획팀장과 성장지원실장을 거쳐 2022년부터 운영총괄을 맡았다. 섹타나인은 한 대표의 경영전략 및 플랫폼 사업 운영 경험을 바탕으로 멤버십...",
+      "pubDate": "2026-09-28T02:36:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "섹타나인 새 수장에 한순욱 전 카카오페이 COO 선임 … AI·데이터로 플...",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=89776",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=89776",
+      "description": "이후 2016년 쿠팡에서 글로벌 오퍼레이션 FP&A를 담당한 뒤 2017년 카카오페이에 합류했다. 섹타나인은 멤버십과 커머스, 디지털 플랫폼, IT 서비스를 기반으로 사업을 전개하고 있으며, 마케팅과 AI·IT 역량을 바탕으로...",
+      "pubDate": "2026-09-28T02:36:00+00:00",
+      "category": "카카오페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "상미당홀딩스 섹타나인, 한순욱 전 카카오페이 COO 신임 대표 선임",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=86614",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=86614",
+      "description": "액센츄어에서는 제조·유통·소비재·서비스 산업 부문 이사를 맡아 경영전략과 프로세스 혁신(PI) 컨설팅을 수행했고, 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 뒤 경영기획팀장과...",
+      "pubDate": "2026-09-28T02:34:00+00:00",
+      "category": "카카오페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "섹타나인 대표이사에 한순욱 전 카카오페이 COO",
+      "link": "http://www.foodnews.co.kr/news/articleView.html?idxno=120312",
+      "originallink": "http://www.foodnews.co.kr/news/articleView.html?idxno=120312",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 역임했으며, 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 뒤에는 경영기획팀장과 성장지원실장을 거쳐 2022년부터 운영총괄을 맡아...",
+      "pubDate": "2026-09-28T02:34:00+00:00",
+      "category": "카카오페이",
+      "source": "식품저널 foodnews"
+    },
+    {
+      "title": "부천시, 공영주차장 QR 코드 간편결제 28일부터 시행",
+      "link": "http://www.breaknews.com/1239265",
+      "originallink": "http://www.breaknews.com/1239265",
+      "description": "부천시가 28일부터 공영주차장 이용 편의를 높이고 출차 시 정산 대기 시간을 줄이기 위해 ‘QR 코드 간편결제’ 서비스를 정식 시행한다고 밝혔다. 부천시에...",
+      "pubDate": "2026-09-28T02:32:00+00:00",
+      "category": "간편결제",
+      "source": "브레이크뉴스"
+    },
+    {
+      "title": "상미당 섹타나인, 카카오페이 출신 한순욱 신임 대표이사 선임",
+      "link": "https://n.news.naver.com/mnews/article/003/0014217384?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20260928_0003805194",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 역임하며 경영전략 및 프로세스 혁신(PI) 컨설팅을 수행했으며, 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 이후 경영기획팀장과...",
+      "pubDate": "2026-09-28T02:31:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "섹타나인, 신임 대표에 한순욱 전 카카오페이 COO 선임",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=444893",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=444893",
+      "description": "액센츄어에서 제조·유통·소비재·서비스 산업 부문 이사를 맡아 경영전략 및 프로세스 혁신(PI) 컨설팅을 수행했으며 이후 쿠팡에서 재무기획을 담당했다. 2017년 카카오페이에 합류한 뒤 경영기획팀장과...",
+      "pubDate": "2026-09-28T02:28:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "섹타나인, 한순욱 전 카카오페이 COO 신임 대표 선임",
+      "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/28/2026092880090.html",
+      "originallink": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/28/2026092880090.html",
+      "description": "이후 쿠팡에서 글로벌 사업 재무기획(FP&A)을 맡았으며, 2017년 카카오페이에 합류해 경영기획팀장과 성장지원실장을 거쳐 2022년부터 운영총괄로 전사 전략과 사업 운영을 이끌었다. 섹타나인은 한 대표 체제에서...",
+      "pubDate": "2026-09-28T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "dizzo"
+    },
+    {
       "title": "정답 확인하자… 토스 행운퀴즈 '9월 28일' 정답 공개",
       "link": "https://www.wikitree.co.kr/articles/1162395",
       "originallink": "https://www.wikitree.co.kr/articles/1162395",
@@ -196,7 +790,7 @@
       "description": "토스는 먼저 보급한 단말기에 얼굴결제 서비스 ‘페이스페이’를 더해 이용을 늘리고 네이버페이는 검색·플레이스에서 시작한 소비자의 매장 이용을 결제로 연결하고 있다. 서로 다른 기반에서 출발했지만 매장의...",
       "pubDate": "2026-09-26T03:02:00+00:00",
       "category": "토스페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "네이버페이, 추석 맞이 혜택 확대…휴게소·해외 포인트 적립",
@@ -232,7 +826,7 @@
       "description": "②매장 관리에 쓰던 주문·결제 데이터…네이버 검색·지도서 소비자 선택 정보로 오프라인 결제 시장에서 네이버와 경쟁하는 토스가 네이버 ‘플레이스플러스’ 연동을 요구하고 있다. 매장에서 주문과 결제를 처리하는...",
       "pubDate": "2026-09-25T03:02:00+00:00",
       "category": "토스페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "네이버페이, 추석 연휴 맞아 해외 현장결제 프로모션 실시",
@@ -250,7 +844,7 @@
       "description": "①네이버 “리워드 문제 해결 우선”…토스 “동일한 연동 기준 적용해야” 검색 리워드 마케팅을 둘러싼... 토스 측에 따르면 오케이포스·페이히어 등 15개 POS 사업자가 연동 대상에 포함돼 있지만 토스포스는 빠져 있다....",
       "pubDate": "2026-09-24T03:02:00+00:00",
       "category": "토스페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "\"월 4만원 아끼자\"… 토스·네이버·쿠팡, 끝까지 뽑아먹는 카드는?",
@@ -8000,97 +8594,7 @@
       "pubDate": "2026-08-30T07:05:00+00:00",
       "category": "간편결제",
       "source": "디지털데일리"
-    },
-    {
-      "title": "카카오페이 해외결제 캠페인 통했다…이용자 15.5% 늘고 ‘에피 어워드...",
-      "link": "https://n.news.naver.com/mnews/article/119/0003126919?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1683980/?sc=Naver",
-      "description": "카카오페이가 해외결제 서비스의 편의성을 알리기 위해 선보인 브랜드 캠페인이 실제 이용자 증가로 이어지며 마케팅 성과를 인정받았다. 30일 카카오페이는 해외결제 브랜드 캠페인 ‘CASH IS UNCOOL’로 ‘2026 에피...",
-      "pubDate": "2026-08-30T00:31:00+00:00",
-      "category": "카카오페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "카카오페이 장기체류보험 가입 2배 늘어",
-      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101320",
-      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101320",
-      "description": "카카오페이손해보험의 해외장기체류보험이 출시 2주년을 맞으며 가입자 저변을 빠르게 넓히고 있다. 회사에 따르면 올해 1월부터 7월까지 해외장기체류보험 가입자 수는 전년 동기 대비 108% 증가했다. 초창기 주요...",
-      "pubDate": "2026-08-29T15:30:00+00:00",
-      "category": "카카오페이",
-      "source": "technoa"
-    },
-    {
-      "title": "라인 넥스트, 아이씨비, 한국간편결제진흥원 유니파이 페이 기반 외국인...",
-      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101322",
-      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101322",
-      "description": "한국간편결제진흥원이 라인 넥스트, 아이씨비와 손잡고 방한 외국인의 국내 결제 편의를 높이기 위한 협력에 나선다. 한결원은 라인 넥스트, 아이씨비와 방한 외국인 결제 편의 제고를 위한 업무협약을 체결했다고 밝혔다....",
-      "pubDate": "2026-08-29T15:30:00+00:00",
-      "category": "간편결제",
-      "source": "technoa"
-    },
-    {
-      "title": "카카오페이, 전국 시니어 천명에 AI 금융 가르친다",
-      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101317",
-      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101317",
-      "description": "카카오페이가 고령층의 디지털 격차 해소와 금융 접근성 제고를 위해 전국 시니어 1,000명을 대상으로 대규모 디지털 금융교육에 나선다. 지난 24일 첫 수업을 시작으로 오는 10월까지 전국 중장년 및 노인복지기관...",
-      "pubDate": "2026-08-29T15:28:00+00:00",
-      "category": "카카오페이",
-      "source": "technoa"
-    },
-    {
-      "title": "카카오페이 선불충전 연결 서비스, 어떤 계좌든 자유롭게 연결",
-      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101315",
-      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101315",
-      "description": "카카오페이가 별도의 카드 재발급 없이 사용자가 기존에 보유한 체크카드에 카카오페이머니를 연결해 결제할 수 있는 내 카드 머니연결 서비스를 선보였다. 실물 체크카드에 선불충전금을 연결하는 방식은 국내에서 처음...",
-      "pubDate": "2026-08-29T15:28:00+00:00",
-      "category": "카카오페이",
-      "source": "technoa"
-    },
-    {
-      "title": "카카오페이, '2026 에피 어워드 코리아' 은상 수상",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=144627",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=144627",
-      "description": "카카오페이가 해외결제 브랜드 캠페인 'CASH IS UNCOOL'로 '2026 에피 어워드 코리아'에서 은상을 받았다. 사진=카카오페이  카카오페이(대표 신원근)가 해외결제 브랜드 캠페인 'CASH IS UNCOOL'로 '2026 에피 어워드 코리아...",
-      "pubDate": "2026-08-29T12:34:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "넵튠, 카카오페이 '미니게임' 파트너사 합류…H5 게임 사업 확장",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=126699",
-      "originallink": "https://www.pennmike.com/news/articleView.html?idxno=126699",
-      "description": "넵튠이 카카오페이와 손잡고 별도 앱 설치 없이 즐길 수 있는 H5(HTML5) 게임 사업 확대에 나선다. 지난해 토스와의 제휴에 이어 카카오페이까지 게임 콘텐츠 공급처를 넓히면서 주요 플랫폼을 대상으로 한 사업 확장에...",
-      "pubDate": "2026-08-29T05:44:00+00:00",
-      "category": "카카오페이",
-      "source": "펜앤마이크"
-    },
-    {
-      "title": "[핀포인트] [롯데글로벌로지스] 카카오페이와 띄운 '이지고'…실패한 물...",
-      "link": "https://news.dealsitetv.com/articles/175107",
-      "originallink": "https://news.dealsitetv.com/articles/175107",
-      "description": "①JV 매출 전무…델레오코리아 전액 손상·CBE 내재화로 유지 실익 '물음표' 롯데글로벌로지스가 카카오페이·델레오코리아와 함께 설립한 합작법인(JV) '이지고'가 사실상 방치되고 있다. 당초 빠르게 커지는 온라인쇼핑...",
-      "pubDate": "2026-08-29T03:02:00+00:00",
-      "category": "카카오페이",
-      "source": "DealSite경제TV"
-    },
-    {
-      "title": "토스, 개인사업자 대출 문턱 낮춘다…우리금융저축은행에 '소호스코어'...",
-      "link": "https://n.news.naver.com/mnews/article/119/0003126811?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1683971/?sc=Naver",
-      "description": "앞서 토스와 우리금융저축은행은 지난 27일 서울 강남구 역삼동 아크플레이스에서 관련 업무협약을 체결했다. 양사는 이번 상품 출시를 시작으로 데이터 기반 금융 분야에서 협력을 이어갈 계획이다. 이석태...",
-      "pubDate": "2026-08-29T02:02:00+00:00",
-      "category": "토스페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "토스, 우리금융저축은행과 '소호스코어' 기반 개인사업자 신용대출 선보...",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=260351",
-      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=260351",
-      "description": "토스는 우리금융저축은행과 지난 27일 서울 강남구 역삼동 아크플레이스에서 개인사업자 전용 비대면 신용대출 '비타WON [BIZ]' 출시를 위한 업무협약을 체결했다고 밝혔다. 4대 금융지주 계열 저축은행 중 처음으로 토스의...",
-      "pubDate": "2026-08-29T02:00:00+00:00",
-      "category": "토스페이",
-      "source": "아시아A"
     }
   ],
-  "lastFetch": "2026-09-28T01:34:32.834332+00:00"
+  "lastFetch": "2026-09-29T02:36:14.597914+00:00"
 }
