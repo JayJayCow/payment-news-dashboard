@@ -1,6 +1,483 @@
 {
   "articles": [
     {
+      "title": "NH투자증권, 신규가입 이벤트…네이버페이 금액권 증정",
+      "link": "https://n.news.naver.com/mnews/article/018/0006379492?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03391526645608984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "NH투자증권은 퇴직연금 DC(확정기여)형 신규 가입 고객을 대상으로 네이버페이 모바일 금액권 등을 증정하는 ‘퇴직연금 DC 신규가입 이벤트’를 진행한다고 2일 밝혔다. 이번 이벤트는 2026년 10월 1일부터 2027년 1월...",
+      "pubDate": "2026-10-02T01:51:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "요기요, 배달앱 최초 삼성페이 도입…주문·결제 편의성 강화",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=301668",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=301668",
+      "description": "오는 25일까지 삼성월렛 머니로 2만5000원 이상 결제하면 결제 금액의 최대 5%를 삼성월렛 포인트로 적립해준다. 해당 혜택은 행사 기간 중 1회 제공된다. 요기요는 이번 삼성 페이 도입을 계기로 결제 수단을 다양화하고...",
+      "pubDate": "2026-10-02T01:00:00+00:00",
+      "category": "삼성페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "요기요, 배달앱 최초 삼성페이 도입…간편결제 수단 확대",
+      "link": "https://n.news.naver.com/mnews/article/138/0002243459?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026100209071650049",
+      "description": "김혜정 요기요 최고마케팅책임자(CMO)는 “삼성 페이 도입을 통해 요기요 고객들이 익숙한 결제 방식을 활용해 보다 간편하게 주문할 수 있게 됐다”며 “삼성 페이와 삼성월렛 머니 이용 고객을 위한 할인과 적립 혜택도...",
+      "pubDate": "2026-10-02T00:47:00+00:00",
+      "category": "삼성페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "네이버-토스, 국감서 맞붙는다 … 판매관리시스템 ‘차별·검색 왜곡’...",
+      "link": "https://n.news.naver.com/mnews/article/366/0001195803?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/10/02/JCJAHTDN7BD63KXBCRKBN3KH4I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "2일 금융권 등에 따르면 국회 정무위원회는 오는 12일 열리는 국정감사에 최재호 토스플레이스 대표와 이상철 네이버플레이스 사업 부문장을 증인으로 불렀다. 증인 신청 이유는 ‘특정 업체 POS기 사용 소상공인에 대한...",
+      "pubDate": "2026-10-02T00:35:00+00:00",
+      "category": "토스페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "\"배달 주문도 삼성페이로\" 요기요, 배달앱 최초 결제 도입",
+      "link": "https://n.news.naver.com/mnews/article/003/0014229199?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261002_0003811980",
+      "description": "25일까지 삼성월렛 머니로 2만5000원 이상 결제하면 결제 금액의 최대 5%를 삼성월렛 포인트로 적립해준다. 혜택은 행사 기간 1회 제공된다. 요기요는 연말까지 관련 프로모션을 이어가며 삼성 페이와의 협력을 강화할...",
+      "pubDate": "2026-10-02T00:34:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스, 네이버 리워드 마케팅 접는다…다른 플랫폼은 계속",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278448",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=278448",
+      "description": "최근에는 토스 자회사 토스플레이스가 네이버의 '플레이스플러스' 연동 대상에서 토스포스가 제외된 데 대해 공정거래위원회 신고를 검토하는 등 갈등 범위가 확대된 바 있다.",
+      "pubDate": "2026-10-02T00:32:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "온라인쇼핑몰 불법 카드 현금화 적발액 111억→240억…간편결제도 두 배",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=351283",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=351283",
+      "description": "금융감독원 신용카드로 허위 결제를 일으켜 현금을 융통하는 이른바 '카드깡' 적발 규모가 전반적으로 줄어드는 가운데, 온라인쇼핑몰과 간편결제를 통한 적발은 오히려 늘어난 것으로 나타났다. 2일...",
+      "pubDate": "2026-10-02T00:08:00+00:00",
+      "category": "간편결제",
+      "source": "녹색경제신문"
+    },
+    {
+      "title": "[단독] 토스 ‘검색 유도’ 수사 의뢰한 네이버, 자사 광고도 특정 검색...",
+      "link": "https://n.news.naver.com/mnews/article/005/0001876376?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000019268&cp=nv",
+      "description": "네이버가 토스의 리워드형(참여 대가로 보상을 주는 방식) 마케팅 상품이 자사 검색 결과를 왜곡하고 있다며... 이 같은 검색이 플레이스와 스토어 등의 검색 결과나 노출 순위에 영향을 미쳐 검색 신뢰도를 훼손할 수...",
+      "pubDate": "2026-10-02T00:02:00+00:00",
+      "category": "토스페이",
+      "source": "국민일보"
+    },
+    {
+      "title": "네이버와 갈등 격화… 토스, 리워드 광고서 '네이버 경로' 뺀다",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171267",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092171267",
+      "description": "이에 대응해 토스 자회사 토스플레이스는 네이버가 자사 '토스포스'를 '플레이스플러스' 연동 대상에서 부당하게 제외했다며 공정거래위원회 제소를 검토 중이다. 양사의 POS 연동 갈등은 오는 국정감사에서도 주요...",
+      "pubDate": "2026-10-01T23:48:00+00:00",
+      "category": "토스페이",
+      "source": "IT조선"
+    },
+    {
+      "title": "돈도 사람도 늘렸는데 제재·사고…카카오페이·토스 보안 '엇박자'",
+      "link": "https://dealsite.co.kr/articles/169916",
+      "originallink": "https://dealsite.co.kr/articles/169916",
+      "description": "네이버페이를 운영하는 네이버파이낸셜은 별도 정보보호 공시를 하지 않아 이번 비교에서는 제외했다. 결제사업을 중심으로 비교하면 카카오페이의 상대축은 비바리퍼블리카보다 토스페이먼츠에 가깝다....",
+      "pubDate": "2026-10-01T22:32:00+00:00",
+      "category": "카카오페이",
+      "source": "딜사이트"
+    },
+    {
+      "title": "[단독] 토스 ‘리워드광고’서 네이버 뺀다… 두 IT 기업 신경전 거세지...",
+      "link": "https://n.news.naver.com/mnews/article/005/0001876338?sid=101",
+      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000019222&cp=nv",
+      "description": "네이버의 매장정보 서비스 ‘플레이스플러스’에는 현재 다수의 POS 사업자가 연동돼 있지만, 약 15만개 매장에서 사용되는 토스의 POS 계열사 토스플레이스의 ‘토스포스’는 빠져 있다. 토스플레이스는 이와 관련해...",
+      "pubDate": "2026-10-01T17:05:00+00:00",
+      "category": "토스페이",
+      "source": "국민일보"
+    },
+    {
+      "title": "빅테크에 밀린 카드사 간편결제…'각자도생' 플랫폼 승부",
+      "link": "https://n.news.naver.com/mnews/article/629/0000538821?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2371810.htm",
+      "description": "네이버페이와 카카오페이 등이 간편결제 기능을 앞세워 이용자와 가맹점을 확대하는 동안 카드사업계는 관련 대응에서 뒤쳐졌다는 진단이다. 과거 카드업계는 오픈페이를 선보이며 반격에 나선 바 있다. 오픈페이는...",
+      "pubDate": "2026-10-01T15:01:00+00:00",
+      "category": "간편결제",
+      "source": "더팩트"
+    },
+    {
+      "title": "토스, 네이버 연계 ‘리워드 광고’ 중단",
+      "link": "https://byline.network/?p=9004111222622049",
+      "originallink": "https://byline.network/?p=9004111222622049",
+      "description": "광고 외 오프라인 단말기 사업 등으로 확대되고 있다. 토스 자회사 토스플레이스는 네이버의 플레이스플러스 연동 대상에 토스포스가 제외됐다며 공정거래위원회 신고를 검토하고 있다. 글.바이라인네트워크 <성아인기자>",
+      "pubDate": "2026-10-01T14:44:00+00:00",
+      "category": "토스페이",
+      "source": "byline"
+    },
+    {
+      "title": "우리은행·삼성전자, 간편결제 서비스 1주년 기념 프로모션 실시",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3711157",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3711157",
+      "description": "삼성월렛 머니는 우리은행과 삼성전자가 선보인 선불 충전형 간편결제 서비스로, 삼성 월렛 앱에 은행 계좌를 연결해 미리 충전한 금액으로 온·오프라인 가맹점에서 실물 카드 없이 결제할 수 있다. 신규로 '삼성월렛...",
+      "pubDate": "2026-10-01T14:16:00+00:00",
+      "category": "간편결제",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "토스, 네이버 연계 리워드 마케팅 중단…해묵은 갈등 풀리나",
+      "link": "https://n.news.naver.com/mnews/article/018/0006378999?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=06687926645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "2년간 리워드 마케팅을 두고 갈등을 빚어온 양사는 최근 갈등이 격화됐다. 토스 자회사 토스플레이스는 네이버의 ‘플레이스플러스’ 연동 대상에서 토스포스가 제외됐다며 공정거래위원회 신고를 검토하기도 했다.",
+      "pubDate": "2026-10-01T12:49:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "학사앱 'iM유니즈'에 간편결제 '유니패스' 탑재",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=561284",
+      "originallink": "https://www.idaegu.co.kr/news/articleView.html?idxno=561284",
+      "description": "QR결제와 스마트오더를 통해 주문부터 결제까지 모바일로 간편하게 처리할 수 있어 학생들이 식사 시간마다 반복적으로 겪던 대기와 혼잡을 줄이는 효과를 내고 있다. 김영현 경일대 4학년 학생은 \"기존에는 학생들이...",
+      "pubDate": "2026-10-01T12:24:00+00:00",
+      "category": "간편결제",
+      "source": "대구신문"
+    },
+    {
+      "title": "iM뱅크, 경일대 교내식당 간편결제 '유니패스' 확대",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=555986",
+      "originallink": "https://www.dkilbo.com/news/articleView.html?idxno=555986",
+      "description": "▲iM뱅크 제공 iM뱅크가 경일대학교 교내 식당에서 모바일 간편결제 서비스를 확대 운영한다. iM뱅크는 스마트 캠퍼스 앱 'iM유니즈'에 탑재한 교내식당 결제 서비스 '유니패스'를 경일대학교 교내 식당으로 전면...",
+      "pubDate": "2026-10-01T10:46:00+00:00",
+      "category": "간편결제",
+      "source": "대경일보"
+    },
+    {
+      "title": "우리은행, 삼성월렛 머니 1주년 맞아 특별 이벤트 진행",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=134752",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=134752",
+      "description": "삼성월렛 머니는 우리은행 계좌를 삼성 월렛 앱에 연결해 금액을 충전한 뒤 온·오프라인 가맹점에서 사용할 수 있는 선불 충전형 간편결제 서비스다. 프로모션 기간 '삼성월렛 머니 우리 통장'을 새로 개설하고 연결...",
+      "pubDate": "2026-10-01T09:36:00+00:00",
+      "category": "삼성페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "토스·네이버 격돌…토스, 결국 네이버만 뺀다",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=313526",
+      "originallink": "https://www.ppss.kr/news/articleView.html?idxno=313526",
+      "description": "토스의 POS 자회사 토스플레이스는 자사 서비스 '토스포스'가 네이버 '플레이스플러스' 연동 대상에서 제외됐다며 공정거래위원회 제소를 검토하고 있다. 네이버는 차별이 없으며 객관적 기준에 따라 연동 대상을...",
+      "pubDate": "2026-10-01T09:06:00+00:00",
+      "category": "토스페이",
+      "source": "ㅍㅍㅅㅅ PPSS"
+    },
+    {
+      "title": "카카오페이·카카오뱅크, 한국투자증권과 디지털자산 생태계 구축 협력",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448474",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=448474",
+      "description": "카카오페이와 카카오뱅크는 한국투자증권과 '디지털자산 발행 및 유통 관련 서비스 공동 개발과 마케팅 추진을 위한 전략적 업무제휴협약(MOU)'을 맺었다고 1일 밝혔다. 카카오그룹이 한국투자증권과 협력을 확대해 국내...",
+      "pubDate": "2026-10-01T08:56:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "네이버-토스 신경전, 국감장으로…정무위, 대표·사업부문장 소환",
+      "link": "https://www.ajunews.com/view/20261001172311460",
+      "originallink": "https://www.ajunews.com/view/20261001172311460",
+      "description": "1일 정치권과 금융권에 따르면 국회 정무위원회는 이날 의결할 국정감사 증인·참고인 명단에 최재호 토스플레이스 대표와 이상철 네이버 플레이스 사업 부문장을 포함했다. 증인 채택을 두고 여야 간에도 공감대가...",
+      "pubDate": "2026-10-01T08:46:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "핀다, '글로벌 핀테크 전문가' 안중현 CPO 선임",
+      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930247",
+      "originallink": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930247",
+      "description": "특히 네이버페이, 토스뱅크, 당근페이 등 국내 주요 핀테크 서비스의 출범 단계에 모두 참여해 새로운 금융... 최근에는 넥써쓰 부사장으로 스테이블코인 전담 조직을 맡아 게임 아이템 마켓플레이스를 66개국으로...",
+      "pubDate": "2026-10-01T08:36:00+00:00",
+      "category": "간편결제",
+      "source": "mbnmoney.mbn.co.kr"
+    },
+    {
+      "title": "\"성장가능성 보고 대출 제공\" 제주은행-토스, 개인사업자 포용금융 확대",
+      "link": "https://www.mediapen.com/news/view/1127354",
+      "originallink": "https://www.mediapen.com/news/view/1127354",
+      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다./사진=제주은행 제공 이번 협약은 두 회사의...",
+      "pubDate": "2026-10-01T08:20:00+00:00",
+      "category": "토스페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "토스·제주은행, 개인사업자 포용금융 업무협약...소상공인 대출문턱 낮...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=264890",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=264890",
+      "description": "토스는 제주은행과 함께 개인사업자의 포용금융 활성화를 위한 전략적 사업제휴 협약을 지난 30일 서울 역삼동 아크플레이스에서 체결했다고 1일 밝혔다. 이번 협약식에는 김규하 토스 부대표와 이희수 제주은행장 등...",
+      "pubDate": "2026-10-01T08:18:00+00:00",
+      "category": "토스페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "우리은행, 삼성월렛 머니 1주년···결제 시 최대 7.5% 적립",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476292",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476292",
+      "description": "'삼성월렛 머니'는 우리은행과 삼성전자가 함께 선보인 선불 충전형 간편결제 서비스다. 삼성 월렛 애플리케이션(앱)에 은행 계좌를 연결해 필요한 금액을 충전한 뒤 실물 카드 없이 온·오프라인 가맹점에서 결제할 수...",
+      "pubDate": "2026-10-01T08:13:00+00:00",
+      "category": "삼성페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "토스·제주은행, 소상공인 대출 문턱 낮춘다…포용금융 업무협약",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278392",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=278392",
+      "description": "지난달 30일 서울 강남구 아크플레이스에서 열린 협약식에는 김규하 토스 부대표와 이희수 제주은행장 등 양사 주요 관계자가 참석했다. 이번 협약에 따라 제주은행은 소상공인 특화 신용평가체계(SCB)를 활용한...",
+      "pubDate": "2026-10-01T08:06:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "[박수진의 금융人] 카카오페이證 신호철 2기, 종합증권사 노린다…민원...",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=81375",
+      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=81375",
+      "description": "신호철 카카오페이증권 대표이사. 사진=카카오페이증권 | 뉴스워치= 박수진 기자 | 신호철 카카오페이증권 대표이사가 경영 2기에서 리테일 부문 성장과 사업 다변화에 속도를 내고 있다. 이와 함께 'AI 네이티브 전환...",
+      "pubDate": "2026-10-01T08:00:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워치"
+    },
+    {
+      "title": "우리은행·삼성전자, '삼성월렛 머니' 1주년…공동 프로모션",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=209992",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=209992",
+      "description": "삼성월렛 머니는 우리은행과 삼성전자가 함께 선보인 선불 충전형 간편결제 서비스다. 삼성 월렛 앱에 은행 계좌를 연결해 필요한 금액을 충전한 뒤 실물 카드 없이 온·오프라인 가맹점에서 결제할 수 있다. 이번...",
+      "pubDate": "2026-10-01T07:58:00+00:00",
+      "category": "삼성페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "\"카카오페이 해외배송 199개국으로 확대\" 배송비 20% 깎아 문턱 낮춘다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=752386",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=752386",
+      "description": "카카오페이(대표 신원근)는 '해외배송' 서비스의 배송 가능 국가를 기존 5개국에서 전 세계 199개국으로 넓힌다고 1일 밝혔다. 이와 함께 이날부터 12월 31일까지 해외배송을 이용하는 모든 사용자에게 배송비 20%를 즉시...",
+      "pubDate": "2026-10-01T07:40:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "[금융계 소식] NH투자증권·신한투자증권·카카오페이",
+      "link": "https://sateconomy.co.kr/news/view/1065597430357763",
+      "originallink": "https://sateconomy.co.kr/news/view/1065597430357763",
+      "description": "NH, 첫 단기형 IMA 조기 완판…나무증권 수수료 무료 이벤트 신한, ISA 대기자금 자동운용 확대…카카오페이, 해외배송 199개국으로 ▲카카오페이가 해외배송 배송비를 20% 할인한다 [카카오페이] 증권·금융업계가 1일...",
+      "pubDate": "2026-10-01T07:26:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "우리은행, 삼성전자와 '삼성월렛 머니' 출시 1주년 프로모션 진행",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109836",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109836",
+      "description": "삼성월렛 머니는 우리은행과 삼성전자가 선보인 선불 충전형 간편결제 서비스로, 앱에 계좌를 연결해 충전한 뒤 온·오프라인 가맹점에서 결제할 수 있습니다. 이번 프로모션 기간 중 '삼성월렛 머니 우리 통장'을 신규...",
+      "pubDate": "2026-10-01T06:54:00+00:00",
+      "category": "삼성페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "다이소몰, 토스페이 결제 할인...10월 한 달간 매일 혜택",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136560",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=136560",
+      "description": "간편결제 제휴를 확대하며 온라인 구매 편의성을 높인다. 결제 할인과 배송·픽업 서비스를 연계해 다이소몰 이용 고객의 선택지를 넓히고 있다. 아성다이소는 온라인 쇼핑몰 다이소몰에서 모바일 금융 플랫폼 토스와...",
+      "pubDate": "2026-10-01T06:52:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "제주은행 ‘사장님 신용대출’ 토스 단독 입점…소상공인 대출 문턱 낮...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003138635?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1696880/?sc=Naver",
+      "description": "양사는 지난달 30일 서울 강남구 역삼동 아크플레이스에서 협약식을 열었다. 이희수 제주은행장과 김규하 토스 부대표 등 양사 관계자들이 참석했다. 협약에 따라 제주은행의 개인사업자 전용 신용대출인 ‘성장지수...",
+      "pubDate": "2026-10-01T06:36:00+00:00",
+      "category": "토스페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "'핀테크 공룡' 습격에 카드 영업망 흔들…카드 모집인 3000명대 '뚝'",
+      "link": "https://www.ajunews.com/view/20261001142829555",
+      "originallink": "https://www.ajunews.com/view/20261001142829555",
+      "description": "네이버페이·카카오페이·토스 등 주요 핀테크 3사의 선불충전금 합산 잔액은 1조원 돌파를 앞두고 있다. 간편결제가 단순히 카드를 연결해 결제하는 방식을 넘어 미리 충전한 자금을 직접 결제에 사용하는 방식으로도...",
+      "pubDate": "2026-10-01T06:28:00+00:00",
+      "category": "간편결제",
+      "source": "아주경제"
+    },
+    {
+      "title": "제주은행·토스, 개인사업자 포용금융 확대…성장 가능성 반영한 대출 ...",
+      "link": "https://www.todayeconomic.com/news/article.html?no=32302",
+      "originallink": "https://www.todayeconomic.com/news/article.html?no=32302",
+      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. 사진=제주은행",
+      "pubDate": "2026-10-01T06:24:00+00:00",
+      "category": "토스페이",
+      "source": "todayeconomic"
+    },
+    {
+      "title": "토스, 리워드 마케팅서 네이버 제외…2년 갈등 해소될지 주목(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016350944?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20261001089351017?input=1195m",
+      "description": "이달 셋째 주 적용 예정…구글·카카오 등 서비스는 유지 POS 연동 논의 진전·토스플레이스 공정위 제소 검토 철회 여부도 관심 '리워드 마케팅'을 둘러싸고 네이버와 2년 간 갈등을 빚어 온 토스가 이달 셋째 주 네이버 연계...",
+      "pubDate": "2026-10-01T06:20:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "\"QR로 간편하게\"…iM뱅크, 경일대 캠퍼스 결제 서비스 확대",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=552042",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=552042",
+      "description": "경일대학교 푸드코트에서 유니패스 스마트오더 기능을 통해 간편결제를 경험한 김영현 학생(경일대학교 4학년)은 \"기존에는 학생들이 식당에 몰리는 시간대에 주문과 결제를 위해 줄을 서야 했지만, 모바일을 통해 미리...",
+      "pubDate": "2026-10-01T06:18:00+00:00",
+      "category": "간편결제",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 금융계 소식…카카오그룹·토스·토스뱅크",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202016",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202016",
+      "description": "토스와 제주은행이 지난달 30일 서울 강남구 역삼동 아크플레이스에서 개인사업자 포용금융을 위한 업무협약을 체결했다. 왼쪽부터 이희수 제주은행장과 김규하 토스 부대표. [사진=토스] 협약에 따라 제주은행은 소상공인...",
+      "pubDate": "2026-10-01T06:10:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "iM뱅크, 캠퍼스 식당 간편결제 '유니패스'경일대 서비스 실시",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407655",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=407655",
+      "description": "QR결제와 스마트 오더를 통해 주문부터 결제까지 모바일로 간편하게 처리할 수 있는데 특히 학생들이 식사 시간마다 반복적으로 겪던 대기와 혼잡을 줄이는 데 효과를 보이고 있다고 은행은 설명했다. 경일대학교는 \"학생...",
+      "pubDate": "2026-10-01T06:00:00+00:00",
+      "category": "간편결제",
+      "source": "테크월드"
+    },
+    {
+      "title": "제주은행-토스, 개인사업자 포용금융…‘성장 가능성’ 반영한 신용대출...",
+      "link": "https://n.news.naver.com/mnews/article/020/0003752053?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20261001/134768099/1",
+      "description": "제주은행와 토스는 지난달 30일 서울 강남구 역삼동 아크플레이스에서 ‘개인사업자 포용금융을 위한 전략적 사업제휴 업무협약’을 맺었다. 협약에 따라 양사는 개인사업자 포용금융 상품 출시·운영, 대안신용평가의...",
+      "pubDate": "2026-10-01T05:46:00+00:00",
+      "category": "토스페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "네이버페이·토스뱅크 출신 안중현, 핀다 첫 CPO 맡는다",
+      "link": "https://n.news.naver.com/mnews/article/243/0000103742?sid=101",
+      "originallink": "https://economist.co.kr/article/view/ecn202610010023",
+      "description": "핀테크 기업 핀다가 네이버페이와 토스뱅크, 당근페이의 초기 성장에 참여한 안중현 전 넥써쓰 부사장을... 최근에는 넥써쓰 부사장으로 스테이블코인 전담 조직을 맡아 게임 아이템 마켓플레이스를 66개국으로...",
+      "pubDate": "2026-10-01T05:26:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미스트"
+    },
+    {
+      "title": "우리은행, 삼성월렛 머니 출시 1주년 프로모션…최대 7.5% 적립",
+      "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=7000",
+      "originallink": "https://www.newscammp.co.kr/news/articleView.html?idxno=7000",
+      "description": "삼성월렛 머니는 우리은행과 삼성전자가 함께 선보인 선불 충전형 간편결제 서비스다. 삼성월렛 앱에 은행 계좌를 연결해 금액을 충전한 뒤 실물 카드 없이 온·오프라인 가맹점에서 결제할 수 있다. 프로모션 기간 중...",
+      "pubDate": "2026-10-01T05:26:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스캠프"
+    },
+    {
+      "title": "토스, 제주은행과 맞손···소상공인 포용금융 확대",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=148025",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=148025",
+      "description": "지난 30일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 제주은행 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. [토스]  토스가 제주은행과 대안신용평가를...",
+      "pubDate": "2026-10-01T05:08:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "우리은행, 삼성월렛 머니 1주년 프로모션 진행...최대 7.5% 포인트 적립",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366443",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=366443",
+      "description": "삼성월렛 머니는 우리은행 계좌를 삼성 월렛 앱에 연결해 필요한 금액을 충전한 뒤 온·오프라인 가맹점에서 사용할 수 있는 선불 충전형 간편결제 서비스다. 조규형 우리은행 플랫폼사업부 과장은 \"출시 1주년을 맞아...",
+      "pubDate": "2026-10-01T05:08:00+00:00",
+      "category": "삼성페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "다이소몰, 한 달간 토스페이 결제 이벤트 전개… \"매일 누리는 쇼핑 할...",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=288343",
+      "originallink": "https://www.onews.tv/news/articleView.html?idxno=288343",
+      "description": "(제공= ㈜아성다이소)©열린뉴스통신ONA 균일가 생활용품점 ㈜아성다이소가 운영하는 온라인 쇼핑몰 다이소몰이 간편결제 시스템과 연계해 실속을 더한다. 10월 한 달간 토스페이를 이용하는 고객들에게 매일 즉시 할인의...",
+      "pubDate": "2026-10-01T05:04:00+00:00",
+      "category": "토스페이",
+      "source": "열린뉴스통신"
+    },
+    {
+      "title": "토스, 제주은행과 소상공인 금융 협력…개인사업자 대출 확대",
+      "link": "https://www.hellot.net/news/article.html?no=115243",
+      "originallink": "https://www.hellot.net/news/article.html?no=115243",
+      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 제주은행 업무협약식에서 이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. (출처 : 토스)",
+      "pubDate": "2026-10-01T04:42:00+00:00",
+      "category": "토스페이",
+      "source": "hellot"
+    },
+    {
+      "title": "제주은행, 토스와 함께 개인사업자 포용금융 확대",
+      "link": "https://n.news.naver.com/mnews/article/001/0016350146?sid=101",
+      "originallink": "https://www.yna.co.kr/view/PYH20261001140300013?input=1196m",
+      "description": "이희수 제주은행장(왼쪽)이 지난 달 30일 서울 강남구 아크플레이스에서 김규하 토스 부대표와 개인사업자 포용금융을 위한 전략적 사업제휴 업무협약을 체결한 뒤 기념 촬영하고 있다. 2026.10.1 [제주은행 제공....",
+      "pubDate": "2026-10-01T04:25:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "다이소몰, 10월 한 달간 '토스페이 이벤트'",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=445094",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=445094",
+      "description": "1일 1회 예산 소진 전까지 매일 혜택을 받을 수 있고, 토스페이에 등록된 계좌 또는 토스페이머니로 결제하는 경우에만 혜택이 제공된다. 생활용품처럼 일상에서 반복적으로 구매하는 상품과 모바일 간편결제를 결합해...",
+      "pubDate": "2026-10-01T04:22:00+00:00",
+      "category": "토스페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "제주은행, 토스와 협약 ... 개인사업자 포용금융 확대",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=132786",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=132786",
+      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. (사진=제주은행) 제주은행이 ERP...",
+      "pubDate": "2026-10-01T04:04:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "소상공인 대출 문턱 낮춘다…제주은행, 토스와 개인사업자대출 출시",
+      "link": "https://www.kpinews.kr/newsView/1065580104973527",
+      "originallink": "https://www.kpinews.kr/newsView/1065580104973527",
+      "description": "▲ 지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 이희수 제주은행장(왼쪽)과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. [제주은행 제공] 제주은행은 지난달 30일 토스와...",
+      "pubDate": "2026-10-01T02:43:00+00:00",
+      "category": "토스페이",
+      "source": "kpinews"
+    },
+    {
+      "title": "토스, 제주은행과 손잡고 소상공인 대출 문턱 낮춰",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321018",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321018",
+      "description": "30일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 제주은행 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. (사진=토스)  토스(운영사 비바리퍼블리카)가...",
+      "pubDate": "2026-10-01T02:36:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스, 네이버 연계 리워드 마케팅 종료한다…2년 갈등 해소될까",
+      "link": "https://n.news.naver.com/mnews/article/001/0016349727?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20261001089300017?input=1195m",
+      "description": "리워드 마케팅 논란과 별도로 토스의 POS 자회사 토스플레이스는 네이버가 자사의 '토스포스'를 '플레이스플러스' 연동 대상에서 제외했다며 공정위 제소를 검토하고 있다. 이에 앞서 네이버는 지난해 7월 토스를 포함한...",
+      "pubDate": "2026-10-01T02:18:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[단독]검색 순위 왜곡 논란...토스, '리워드광고'서 네이버 뺀다",
+      "link": "https://n.news.naver.com/mnews/article/008/0005420886?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/10/01/2026100110473723501",
+      "description": "토스 자회사 토스플레이스는 네이버플레이스가 '토스포스' 시스템을 부당하게 배제했다며 최근 공정거래위원회에 네이버를 신고하기도 했다. 이 외에도 토스는 조 의원실에 '뒷사람 결제'로 논란이 됐던 페이스페이의...",
+      "pubDate": "2026-10-01T02:00:00+00:00",
+      "category": "토스페이",
+      "source": "머니투데이"
+    },
+    {
       "title": "신용보증기금-네이버페이-코드박스, 스타트업 투자 활성화 '맞손'",
       "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109721",
       "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109721",
@@ -4174,7 +4651,7 @@
       "description": "‘NH 크레딧 온(溫)’은 씬파일러 등 금융소외계층을 위한 대안신용평가 생태계 구축을 목표로 지난 7월 출범한 협력체로 NH농협은행이 주관하고 어니스트AI와 카카오페이 등 총 8개사가 참여하고 있다. 지난 15일 서울...",
       "pubDate": "2026-09-16T23:42:00+00:00",
       "category": "카카오페이",
-      "source": "벤처스퀘어"
+      "source": "venturesquare"
     },
     {
       "title": "대신증권 \"네이버파이낸셜·두나무 결합 지연 가능성…규제 지연에 단기...",
@@ -5911,7 +6388,7 @@
       "description": "광주은행은 토스플레이스와 함께 토스 단말기 월 이용료 우대부터 개인사업자 전용 멤버십까지 제공하는 ‘광주은행 사장님만을 위한 웰컴 패키지’ 이벤트를 실시한다고 10일 밝혔다. 광주은행을 통해 토스 단말기를...",
       "pubDate": "2026-09-10T06:52:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "BC카드, 케이뱅크와 온라인 간편결제 전용 ‘히든카드’ 출시",
@@ -8170,7 +8647,7 @@
       "description": "비에이치소프트와 토스플레이스는 약 1초 안면인증을 학원관리 플랫폼에 연동한 ‘페이스패스’를 상용화했다. 에듀테크 솔루션 기업 비에이치소프트는...",
       "pubDate": "2026-09-02T02:59:00+00:00",
       "category": "토스페이",
-      "source": "벤처스퀘어"
+      "source": "venturesquare"
     },
     {
       "title": "BC카드·케이뱅크, 간편결제 6% 할인 '히든카드' 출시",
@@ -8189,709 +8666,7 @@
       "pubDate": "2026-09-02T02:25:00+00:00",
       "category": "간편결제",
       "source": "더팩트"
-    },
-    {
-      "title": "토스페이먼츠·변협, 회원 전용 결제 서비스 개시",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861433",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861433",
-      "description": "토스페이먼츠 | 서울=한스경제 김종효 기자 | 토스페이먼츠가 대한변호사협회와 공식 제휴를 맺고 회원 전용... 의뢰인은 간편결제에 익숙해지면서 수임료 등 큰 금액 결제에 편리하고 안전한 수단을 요구해왔다. 새 결제...",
-      "pubDate": "2026-09-02T02:00:00+00:00",
-      "category": "토스페이",
-      "source": "한스경제"
-    },
-    {
-      "title": "케이뱅크, 두 번째 PLCC '히든카드' 출시…간편결제 6% 할인",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=749600",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=749600",
-      "description": "히든카드는 네이버페이·카카오페이·쿠팡페이 등 주요 간편결제와 해외 결제 혜택을 중심으로 구성했다. 할인받은 결제금액도 전월 이용실적에 포함해 실적 산정에 따른 부담을 낮춘 것이 특징이다. 네이버페이...",
-      "pubDate": "2026-09-02T01:58:00+00:00",
-      "category": "간편결제",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "700만명 모은 토스 ‘페이스페이’…\"보안 난이도, 금융권 수준 강화\"",
-      "link": "https://n.news.naver.com/mnews/article/092/0002435931?sid=105",
-      "originallink": "https://zdnet.co.kr/view/?no=20260902101653",
-      "description": "토스 결제 단말기에서 페이스페이 서비스가 이뤄지는 모습 (사진=토스 홈페이지) 닮은꼴·쌍둥이는 ‘추가... 한편 토스는 IT 기술을 활용해 간편송금 등 다양한 서비스를 한 플랫폼에서 공급하는 기업이다.",
-      "pubDate": "2026-09-02T01:53:00+00:00",
-      "category": "토스페이",
-      "source": "ZDNet"
-    },
-    {
-      "title": "\"수임료도 링크로 결제\"···토스페이먼츠, 법률시장 공략",
-      "link": "https://n.news.naver.com/mnews/article/014/0005569854?sid=101",
-      "originallink": "https://www.fnnews.com/news/202609021026517407",
-      "description": "토스페이먼츠가 대한변호사협회와의 제휴를 통해 소속 법무법인, 법률사무소를 위한 전용 결제 서비스를... 하지만 고객인 의뢰인들은 대부분 간편결제에 익숙해져 있어 그 괴리가 컸다. 이번 신규 결제 서비스는...",
-      "pubDate": "2026-09-02T01:51:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "비에이치소프트·토스플레이스, AI 얼굴인식 출결 '페이스패스' 상용화",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134550",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=134550",
-      "description": "비에이치소프트와 토스플레이스가 선보인 '페이스패스'는 학생의 얼굴을 확인한 뒤 출결 기록과 학부모 알림, 학원 운영 통계를 한 번에 연결하는 서비스다. 비에이치소프트는 토스의 결제 단말기...",
-      "pubDate": "2026-09-02T01:38:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "케이뱅크, BC카드와 손잡고 '히든카드' 출시... 해외결제 2%·간편결제 6...",
-      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=135311",
-      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=135311",
-      "description": "세부적으로 살펴보면 카카오페이나 쿠팡페이, 네이버페이를 활용해 온라인에서 물품을 구매할 경우 결제액의 6%를 아낄 수 있다. 지난달 카드 사용액이 40만원을 넘으면 월간 최대 1만원, 100만원 이상일 경우 3만원...",
-      "pubDate": "2026-09-02T01:36:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스락"
-    },
-    {
-      "title": "케이뱅크, 간편결제 6%·해외결제 2% 할인 '히든카드' 출시",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=719083",
-      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=719083",
-      "description": "케이뱅크는 BC카드와 함께 네이버페이·카카오페이·쿠팡페이로 온라인 결제 시 6%, 해외 결제 시 2% 할인 혜택을 제공하는 '케이뱅크 히든카드'를 출시한다. 온라인 간편결제 할인은 전월실적 40만원 이상이면 월...",
-      "pubDate": "2026-09-02T01:28:00+00:00",
-      "category": "간편결제",
-      "source": "컨슈머타임스(Consumertimes)"
-    },
-    {
-      "title": "학원 출결도 '얼굴이 열쇠'…비에이치소프트·토스플레이스, 안면인식 ...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=53880",
-      "originallink": "https://www.public25.com/news/articleView.html?idxno=53880",
-      "description": "에듀테크 솔루션 전문기업 비에이치소프트(BHSoft)는 토스플레이스와 전략적 공동사업 협력을 통해 개발한 안면인식 출결 서비스 '페이스패스(FacePass)'를 학원관리 플랫폼 '에듀OK'와 모바일 출결·수납 서비스 '출결톡'에...",
-      "pubDate": "2026-09-02T01:20:00+00:00",
-      "category": "토스페이",
-      "source": "퍼블릭타임스"
-    },
-    {
-      "title": "'케이뱅크 히든카드' 출시…온라인 간편결제 6%·해외 결제 2% 할인",
-      "link": "https://n.news.naver.com/mnews/article/008/0005408251?sid=101",
-      "originallink": "https://www.mt.co.kr/finance/2026/09/02/2026090209395613985",
-      "description": "먼저 네이버페이·카카오페이·쿠팡페이로 온라인에서 결제하면 결제금액의 6%를 할인 받을 수 있다. 전월실적 40만원 이상 이용 시 월 최대 1만원, 100만원 이상 시 월 최대 3만원, 150만원 이상 시 월 최대 4만원까지 할인...",
-      "pubDate": "2026-09-02T01:11:00+00:00",
-      "category": "간편결제",
-      "source": "머니투데이"
-    },
-    {
-      "title": "비씨카드-케이뱅크, 온라인 간편결제 6% 할인 '히든카드' 출시",
-      "link": "https://n.news.naver.com/mnews/article/030/0003462637?sid=101",
-      "originallink": "https://www.etnews.com/20260902000103",
-      "description": "히든카드는 온라인과 모바일을 중심으로 소비하는 2040 세대와 케이뱅크 고객을 겨냥해 출시된 사업자 표시 신용카드(PLCC) 상품으로 네이버페이, 카카오페이, 쿠팡페이 등 3대 간편결제 서비스를 이용할 때 할인을...",
-      "pubDate": "2026-09-02T01:05:00+00:00",
-      "category": "간편결제",
-      "source": "전자신문"
-    },
-    {
-      "title": "토스페이먼츠, 대한변협과 제휴…회원 결제서비스 시작",
-      "link": "https://n.news.naver.com/mnews/article/277/0005810703?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026090210002316684",
-      "description": "토스페이먼츠는 대한변호사협회와 공식 제휴를 맺고, 협회 소속 법무법인과 법률사무소를 위한 회원 전용... 의뢰인은 이미 간편결제에 익숙한 만큼 수임료처럼 금액이 큰 결제일수록 편하고 안전한 수단이 필요하다는...",
-      "pubDate": "2026-09-02T01:00:00+00:00",
-      "category": "토스페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "CJ올리브네트웍스, CJ ONE-네이버페이와 연동 서비스 선봬",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697537",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697537",
-      "description": "CJ올리브네트웍스가 운영하는 라이프스타일 멤버십 'CJ ONE'이 네이버페이(Npay)와 협력해 멤버십 연동 서비스를 선보인다. 이번 협력으로 CJ ONE 회원은 Npay 앱 또는 웹 내 '멤버십 추가' 메뉴에서 CJ ONE 멤버십을...",
-      "pubDate": "2026-09-02T00:58:00+00:00",
-      "category": "네이버페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "BC카드-케이뱅크, 새 PLCC '히든카드' 출시…온라인 간편결제 6% 할인",
-      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=364473",
-      "originallink": "http://www.sisafocus.co.kr/news/articleView.html?idxno=364473",
-      "description": "이 카드는 네이버페이, 카카오페이, 쿠팡페이 등 간편결제 서비스를 이용할 때 할인 혜택을 집중 제공한다는 것이 특징이다. 전월실적 40만원 이상 고객이 온라인에서 3대 간편결제로 건당 1만원 이상 결제하면...",
-      "pubDate": "2026-09-02T00:52:00+00:00",
-      "category": "간편결제",
-      "source": "시사포커스"
-    },
-    {
-      "title": "케이뱅크·BC카드, '히든카드' 출시…네이버·카카오·쿠팡페이 6% 할인",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697512",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697512",
-      "description": "케이뱅크는 BC카드와 함께 네이버페이·카카오페이·쿠팡페이 온라인 결제 시 6%, 해외 결제 시 2% 할인 혜택을 제공하는 '히든카드'를 출시한다고 2일 밝혔다. 온라인 간편결제 할인은 전월실적에 따라 차등 적용된다....",
-      "pubDate": "2026-09-02T00:50:00+00:00",
-      "category": "쿠팡페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "[Tech & Now] CJ ONE, 3400만 네이버페이 이용자 품는다…포인트 적립·사...",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1722637",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1722637",
-      "description": "CJ올리브네트웍스가 운영하는 라이프스타일 멤버십 'CJ ONE'이 간편결제 플랫폼 네이버페이(Npay)와 손잡고 멤버십 연동 서비스를 선보인다. 이에 따라 CJ ONE 회원은 네이버페이에 멤버십을 등록해 오프라인 제휴처에서...",
-      "pubDate": "2026-09-02T00:48:00+00:00",
-      "category": "네이버페이",
-      "source": "EBN"
-    },
-    {
-      "title": "케이뱅크, BC카드와 PLCC '히든카드' 출시…온라인 간편결제시 6% 할인",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1401766",
-      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1401766",
-      "description": "먼저 네이버페이·카카오페이·쿠팡페이로 온라인에서 결제하면 결제금액의 6%를 할인 받을 수 있다. 전월실적 40만원 이상 이용 시 월 최대 1만원, 100만원 이상 시 월 최대 3만원, 150만원 이상 시 월 최대 4만원까지 할인...",
-      "pubDate": "2026-09-02T00:44:00+00:00",
-      "category": "간편결제",
-      "source": "데일리한국"
-    },
-    {
-      "title": "BC카드-케이뱅크, 온라인 간편결제 6% 할인 ‘히든카드’ 출시...소비자...",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202609020921057113df3c2a17b7_23",
-      "originallink": "http://www.thebigdata.co.kr/view.php?ud=202609020921057113df3c2a17b7_23",
-      "description": "히든카드는 온라인과 모바일을 중심으로 소비하는 2040세대와 케이뱅크 고객을 겨냥해 출시된 PLCC(Private Label Credit Card, 사업자 표시 신용카드) 상품으로 네이버페이, 카카오페이, 쿠팡페이 등 3대 간편결제 서비스를...",
-      "pubDate": "2026-09-02T00:42:00+00:00",
-      "category": "간편결제",
-      "source": "빅데이터뉴스"
-    },
-    {
-      "title": "[게시판] BC·케이뱅크, '히든카드' 출시…3대 간편결제 할인",
-      "link": "https://n.news.naver.com/mnews/article/001/0016284328?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20260902045900002?input=1195m",
-      "description": "네이버·카카오·쿠팡페이 등 3대 간편결제 서비스에서 1만원 이상 결제하면 6%를 할인해준다. 할인 한도는 건당 최대 3천원이며, 전월 실적 40만원 이상 시 적용된다. 해외 온오프라인 가맹점 이용 시에는 전월...",
-      "pubDate": "2026-09-02T00:33:00+00:00",
-      "category": "간편결제",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "케이뱅크, BC카드와 '히든카드' 출시…간편결제 6% 할인",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=89305",
-      "originallink": "https://www.the-today.com/news/articleView.html?idxno=89305",
-      "description": "히든카드는 네이버페이·카카오페이·쿠팡페이로 온라인 결제 시 이용금액의 6%를 할인한다. 전월실적 40만원 이상은 월 최대 1만원, 100만원 이상은 3만원, 150만원 이상은 4만원까지 혜택을 받을 수 있다. 해외 온...",
-      "pubDate": "2026-09-02T00:32:00+00:00",
-      "category": "간편결제",
-      "source": "더투데이"
-    },
-    {
-      "title": "CJ ONE, 네이버페이와 손잡고 멤버십 이용 편의 확대",
-      "link": "https://www.sentv.co.kr/article/view/sentv202609020030",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202609020030",
-      "description": "CJ올리브네트웍스가 운영하는 라이프스타일 멤버십 CJ ONE이 네이버페이(Npay)와 제휴해 멤버십 연동 서비스를 확대한다. CJ ONE 회원은 Npay 앱이나 웹의 ‘멤버십 추가’ 메뉴를 통해 CJ ONE 멤버십을 등록할 수 있다....",
-      "pubDate": "2026-09-02T00:30:00+00:00",
-      "category": "네이버페이",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "BC카드, 케이뱅크와 ‘히든카드’ 출시…간편결제 6% 할인",
-      "link": "https://www.viva100.com/article/20260902500265",
-      "originallink": "https://www.viva100.com/article/20260902500265",
-      "description": "BC카드는 2일 네이버페이·카카오페이·쿠팡페이 등 3대 간편결제 이용 시 6% 할인을 제공하는 히든카드를 출시했다고 밝혔다. 히든카드는 온라인·모바일 소비가 많은 2040세대와 케이뱅크 고객층을 겨냥한...",
-      "pubDate": "2026-09-02T00:30:00+00:00",
-      "category": "간편결제",
-      "source": "브릿지경제"
-    },
-    {
-      "title": "[카드] BC카드, 케이뱅크와 온라인 간편결제 6% 할인 '히든카드' 출시",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=746078",
-      "originallink": "http://www.newsprime.co.kr/news/article.html?no=746078",
-      "description": "BC카드는 케이뱅크와 함께 온라인 간편결제 시 무조건 6% 할인 혜택을 제공하는 '히든카드'를 출시했다고 2일 밝혔다.",
-      "pubDate": "2026-09-02T00:30:00+00:00",
-      "category": "간편결제",
-      "source": "프라임경제"
-    },
-    {
-      "title": "CJ ONE 포인트, 네이버페이에서 쓴다",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=207579",
-      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=207579",
-      "description": "라이센스뉴스 = 백성요 기자 | CJ ONE 포인트를 네이버페이에 등록해 손쉽게 사용할 수 있게 됐다. CJ ONE은 네이버페이와 제휴를 맺고 멤버십 연동 서비스를 제공한다고 2일 밝혔다. 모바일 결제와 오프라인...",
-      "pubDate": "2026-09-02T00:28:00+00:00",
-      "category": "네이버페이",
-      "source": "라이센스뉴스"
-    },
-    {
-      "title": "CJ ONE, 3400만 이용자 네이버페이에서도 적립 사용",
-      "link": "https://n.news.naver.com/mnews/article/014/0005569745?sid=105",
-      "originallink": "https://www.fnnews.com/news/202609020921237551",
-      "description": "CJ올리브네트웍스가 운영하는 라이프스타일 멤버십 'CJ ONE'이 네이버페이(Npay)와 제휴를 맺고 멤버십 연동 서비스를 선보인다고 2일 밝혔다. CJ ONE은 이번 제휴를 통해 고객의 결제 편의성을 극대화하고 멤버십 혜택...",
-      "pubDate": "2026-09-02T00:25:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "케이뱅크-BC카드, 온라인 간편결제 6%·해외 2% 할인..‘케이뱅크 히든카...",
-      "link": "https://kpenews.com/View.aspx?No=4208999",
-      "originallink": "https://kpenews.com/View.aspx?No=4208999",
-      "description": "먼저 네이버페이·카카오페이·쿠팡페이로 온라인에서 결제하면 결제금액의 6%를 할인 받을 수 있다. 전월실적 40만원 이상 이용 시 월 최대 1만원, 100만원 이상 시 월 최대 3만원, 150만원 이상 시 월 최대 4만원까지...",
-      "pubDate": "2026-09-02T00:24:00+00:00",
-      "category": "간편결제",
-      "source": "한국정경신문"
-    },
-    {
-      "title": "CJ ONE, 네이버페이와 손잡았다… \"결제와 멤버십 한 번에\"",
-      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=156640",
-      "originallink": "https://www.koreaittimes.com/news/articleView.html?idxno=156640",
-      "description": "국내 대표 간편결제 서비스인 네이버페이와 손잡고 결제 과정에서 CJ ONE 멤버십을 보다 간편하게 이용할 수 있도록 서비스를 연동한다. CJ올리브네트웍스는 CJ ONE과 네이버페이(Npay)의 제휴를 통해 멤버십 연동...",
-      "pubDate": "2026-09-02T00:24:00+00:00",
-      "category": "네이버페이",
-      "source": "Korea IT Times"
-    },
-    {
-      "title": "BC카드·케이뱅크, 간편결제 6% 할인 '히든카드' 출시",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057497",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057497",
-      "description": "히든카드는 네이버페이와 카카오페이, 쿠팡페이 등 3대 간편결제 서비스를 통해 온라인에서 결제하면 이용액의 6%를 할인해주는 상품이다. 전월 이용액이 40만원 이상인 이용자가 온라인에서 건당 1만원 이상...",
-      "pubDate": "2026-09-02T00:22:00+00:00",
-      "category": "간편결제",
-      "source": "신아일보"
-    },
-    {
-      "title": "CJ ONE, 네이버페이 제휴… 멤버십 연동",
-      "link": "https://www.asiatime.co.kr/article/20260902500041",
-      "originallink": "https://www.asiatime.co.kr/article/20260902500041",
-      "description": "네이버페이로 오프라인 제휴처 CJ ONE 포인트 사용 가능 CJ ONE이 결제 플랫폼 확장을 위해 3400만명 이상의 이용자를 확보한 네이버페이와 손을 잡았다. CJ ONE이 네이버페이와 제휴를 맺고 멤버십 연동 서비스를...",
-      "pubDate": "2026-09-02T00:20:00+00:00",
-      "category": "네이버페이",
-      "source": "아시아타임즈"
-    },
-    {
-      "title": "CJ온스타일·CJ ONE, 크리에이터 육성 추진·네이버페이와 제휴",
-      "link": "http://www.wsobi.com/news/articleView.html?idxno=317399",
-      "originallink": "http://www.wsobi.com/news/articleView.html?idxno=317399",
-      "description": "CJ온스타일이 크리에이터를 영상 기반 콘텐츠 커머스의 신성장 동력으로 육성하는 한편 CJ ONE은 '네이버페이'와 제휴하며 주요 간편결제 플랫폼 연동 확대를 추진한다. CJ온스타일은 크리에이터와 브랜드를 연결하는...",
-      "pubDate": "2026-09-02T00:20:00+00:00",
-      "category": "네이버페이",
-      "source": "sobi"
-    },
-    {
-      "title": "BC카드-케이뱅크, 간편결제 6% 할인해주는 '히든카드' 출시",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=273271",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=273271",
-      "description": "히든카드는 온라인·모바일 소비 비중이 높은 2040세대와 케이뱅크 고객을 겨냥한 상품으로 네이버페이와 카카오페이, 쿠팡페이 등 3대 간편결제 서비스 이용 시 할인 혜택을 제공한다. 전월실적 40만원 이상인 고객이...",
-      "pubDate": "2026-09-02T00:18:00+00:00",
-      "category": "간편결제",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "CJ ONE, 네이버페이와 멤버십 연동…간편결제 플랫폼 확대",
-      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=309475",
-      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=309475",
-      "description": "CJ올리브네트웍스가 CJ ONE 멤버십을 네이버페이와 연동한다. 지난 7월 삼성 월렛 연동에 이어 외부 결제 플랫폼에서도 포인트 적립·사용이 가능하도록 이용 접점을 넓히는 모습이다. CJ올리브네트웍스가 2일 CJ...",
-      "pubDate": "2026-09-02T00:12:00+00:00",
-      "category": "네이버페이",
-      "source": "FETV"
-    },
-    {
-      "title": "CJ ONE, 3400만 이용자 네이버페이에서도 포인트 적립·사용",
-      "link": "https://www.ajunews.com/view/20260902090054591",
-      "originallink": "https://www.ajunews.com/view/20260902090054591",
-      "description": "CJ올리브네트웍스, 네이버페이와 멤버십 제휴 Npay 앱·웹에서 CJ ONE 멤버십 간편하게 연동…포인트 적립·사용 지원 아주경제=백서현 기자 qortjgus0602@ajunews.com CJ ONE이 네이버페이에서도 적립 및 사용이...",
-      "pubDate": "2026-09-02T00:08:00+00:00",
-      "category": "네이버페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "케이뱅크, 두 번째 PLCC 선보여...간편결제 6%·해외 2% 할인",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=84140",
-      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=84140",
-      "description": "할인금액 실적 합산…금융 연계 이벤트 히든카드는 네이버페이·카카오페이·쿠팡페이로 온라인 결제 시 이용 금액의 6%를 할인해 준다. 전월실적 구간(40만원·100만원·150만원 이상)에 따라 월 최대 1만원에서...",
-      "pubDate": "2026-09-02T00:04:00+00:00",
-      "category": "간편결제",
-      "source": "포인트경제"
-    },
-    {
-      "title": "비에이치소프트, 토스플레이스와 '페이스패스' 출시",
-      "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275995",
-      "originallink": "https://www.businesskorea.co.kr/news/articleView.html?idxno=275995",
-      "description": "에듀테크 솔루션 전문 기업 비에이치소프트가 토스의 결제 단말기 및 POS 솔루션 자회사 토스플레이스와의 전략적 공동사업 협력을 바탕으로 개발한 안면인식 출결 서비스 '페이스패스(FacePass)'를 정식 출시했다고 2일...",
-      "pubDate": "2026-09-02T00:04:00+00:00",
-      "category": "토스페이",
-      "source": "Businesskorea"
-    },
-    {
-      "title": "토스페이먼츠 대한변호사협회와 손잡고 법률결제 디지털화",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=749589",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=749589",
-      "description": "업종에서도 간편결제와 통합 관리에 대한 수요가 커지고 있어 결제 업계가 다음으로 눈여겨보는 영역으로 꼽힌다. 협회 단위로 손잡는 이번 방식은 그 경쟁에서 한발 앞서려는 접근으로 풀이된다. 토스페이먼츠는 법률...",
-      "pubDate": "2026-09-02T00:02:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "얼굴 대면 1초 만에 출결…비에이치소프트·토스플레이스 '페이스패스'...",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1408905",
-      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1408905",
-      "description": "비에이치소프트 '에듀OK·출결톡'과 연동돼 약 1초 만에 안면인식 출결을 지원하는 토스플레이스 '페이스패스' 키오스크. 사진=비에이치소프트 제공 매일일보 = 오시내 기자  |  에듀테크와 핀테크 기업 간 기술 협업이...",
-      "pubDate": "2026-09-01T23:58:00+00:00",
-      "category": "토스페이",
-      "source": "매일일보"
-    },
-    {
-      "title": "BC카드-케이뱅크, 네이버·카카오·쿠팡페이 결제 6% 할인 ‘히든카드’...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002691559?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10859610?ref=naver",
-      "description": "히든카드는 온라인과 모바일을 중심으로 소비하는 2040세대와 케이뱅크 고객을 겨냥해 출시된 PLCC(사업자 표시 신용카드) 상품으로 네이버페이·카카오페이·쿠팡페이 등 3대 간편결제 서비스를 이용할 때 할인...",
-      "pubDate": "2026-09-01T23:56:00+00:00",
-      "category": "쿠팡페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "CJ ONE, ‘3400만 이용’ 네이버페이와 맞손…멤버십 혜택 연동",
-      "link": "https://n.news.naver.com/mnews/article/016/0002691558?sid=105",
-      "originallink": "https://biz.heraldcorp.com/article/10859607?ref=naver",
-      "description": "네이버페이서 CJ ONE 포인트 적립·사용 가능 올리브영·CGV·뚜레쥬르 등 라이프스타일 혜택 CJ ONE이 3400만명의 이용자를 확보한 네이버페이와 손잡는다. 네이버페이 결제에 자사의 멤버십 혜택을 연동해 이용자...",
-      "pubDate": "2026-09-01T23:54:00+00:00",
-      "category": "네이버페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "CJ ONE, 네이버페이와 멤버십 연동…포인트 이용 편의 높인다",
-      "link": "http://www.datanews.co.kr/news/article.html?no=146278",
-      "originallink": "http://www.datanews.co.kr/news/article.html?no=146278",
-      "description": "CJ올리브네트웍스의 라이프스타일 멤버십 서비스 ‘CJ ONE’을 네이버페이에서도 이용할 수 있게 됐다. CJ올리브네트웍스는 네이버페이와 손잡고 CJ ONE 멤버십 연동 서비스를 시작한다고 2일 밝혔다. 양사는 간편결제...",
-      "pubDate": "2026-09-01T23:52:00+00:00",
-      "category": "네이버페이",
-      "source": "데이터뉴스"
-    },
-    {
-      "title": "CJ ONE, 네이버페이와 멤버십 연동…포인트 적립·사용 지원",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1401683",
-      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1401683",
-      "description": "사진=CJ올리브네트웍스 제공  CJ ONE은 네이버페이(Npay)와 제휴를 맺고 멤버십 연동 서비스를 선보인다고 2일 밝혔다. 이번 제휴를 통해 CJ ONE 회원은 네이버페이 앱 또는 웹에서 CJ ONE 멤버십을 등록하고 오프라인...",
-      "pubDate": "2026-09-01T23:42:00+00:00",
-      "category": "네이버페이",
-      "source": "데일리한국"
-    },
-    {
-      "title": "CJ ONE, 네이버페이에서도 포인트 적립·사용 가능",
-      "link": "https://n.news.naver.com/mnews/article/018/0006362098?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02765046645576184&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "CJ올리브네트웍스가 운영하는 라이프스타일 멤버십 ‘CJ ONE’을 네이버페이에서도 이용할 수 있게 됐다. CJ올리브네트웍스는 네이버페이(Npay)와 제휴를 맺고 CJ ONE 멤버십 연동 서비스를 시작한다고 2일 밝혔다. 이용...",
-      "pubDate": "2026-09-01T23:41:00+00:00",
-      "category": "네이버페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "CJ ONE, 네이버페이 제휴로 라이프스타일 영토 확장",
-      "link": "https://www.goodkyung.com/news/articleView.html?idxno=290871",
-      "originallink": "https://www.goodkyung.com/news/articleView.html?idxno=290871",
-      "description": "CJ올리브네트웍스가 운영하는 라이프스타일 멤버십 서비스 CJ ONE이 네이버페이와 손잡고 간편결제 기반의 멤버십 연동 서비스를 전격 도입한다. 양사의 거대한 회원 기반을 결합해 오프라인 혜택 접근성을 끌어올리고...",
-      "pubDate": "2026-09-01T23:40:00+00:00",
-      "category": "네이버페이",
-      "source": "굿모닝경제"
-    },
-    {
-      "title": "BC카드, 케이뱅크와 간편결제 6% 할인 '히든카드' 출시",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=211398",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=211398",
-      "description": "네이버페이·카카오페이·쿠팡페이 결제 시 월 최대 4만원 할인  고물가 장기화 속에 소비 심리가 위축되면서 금융사와 핀테크 업계가 주요 소비층인 2040세대를 잡기 위해 실속형 혜택에 집중하고 있다. 특히 디지털...",
-      "pubDate": "2026-09-01T23:32:00+00:00",
-      "category": "간편결제",
-      "source": "SR타임스"
-    },
-    {
-      "title": "토스페이먼츠, 대한변호사협회와 맞손…회원 전용 결제 서비스 시작",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=719034",
-      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=719034",
-      "description": "컨슈머타임스=김지훈 기자 | 비바리퍼블리카(토스)의 전자지급결제대행(PG) 계열사 토스페이먼츠(대표... 의뢰인은 이미 간편결제에 익숙한 만큼 수임료처럼 금액이 큰 결제일수록 편하고 안전한 수단이 필요하다는...",
-      "pubDate": "2026-09-01T23:28:00+00:00",
-      "category": "토스페이",
-      "source": "컨슈머타임스(Consumertimes)"
-    },
-    {
-      "title": "[잘파세대 분석下] 10대 vs 20대 앱 사용법...\"네이버·카톡·토스도 다르...",
-      "link": "https://www.banronbodo.com/news/articleView.html?idxno=32928",
-      "originallink": "https://www.banronbodo.com/news/articleView.html?idxno=32928",
-      "description": "쇼핑·가격 비교는 10대 29.7%에서 20대 46.2%로 높아졌고, 네이버페이 등 결제·송금은 20.1%에서 42.1%로 두 배 이상 차이가 났다. 예약 역시 10대 22.5%, 20대 38.9%였다. 뉴스·기사 보기와 블로그 이용에서도 20대가...",
-      "pubDate": "2026-09-01T23:00:00+00:00",
-      "category": "토스페이",
-      "source": "반론보도닷컴"
-    },
-    {
-      "title": "토스 상반기 장사 어땠나… '금융서 벌어, 결제망에 쓴다'",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092169234",
-      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092169234",
-      "description": "토스 프론트가 설치된 가맹점은 37만곳을 넘어섰고, 얼굴인식 결제 서비스 '페이스페이' 가입자도 지난 6월 600만명을 넘어섰다. 온라인에서는 토스페이먼츠를 본체로 흡수하고 오프라인에서는 토스플레이스를 통해...",
-      "pubDate": "2026-09-01T21:10:00+00:00",
-      "category": "토스페이",
-      "source": "IT조선"
-    },
-    {
-      "title": "배민서 페이코로 결제 한다…‘모바일 식권’도 연동",
-      "link": "https://n.news.naver.com/mnews/article/011/0004657604?sid=105",
-      "originallink": "https://www.sedaily.com/article/20085996?ref=naver",
-      "description": "NHN페이코는 지난달 27일 배민 앱 내 신규 결제 수단으로 페이코 간편결제(카드·쿠폰·포인트)를 선제 적용한 데 이어, 1일부터 ‘페이코 모바일 식권’ 연동까지 마무리했다. 이로써 배민 이용자는 일반 간편결제뿐만...",
-      "pubDate": "2026-09-01T20:01:00+00:00",
-      "category": "페이코",
-      "source": "서울경제"
-    },
-    {
-      "title": "NHN페이코, 배민 내 '간편결제' 및 '모바일 식권' 연동 완료",
-      "link": "https://www.thedailypost.kr/news/articleView.html?idxno=115304",
-      "originallink": "https://www.thedailypost.kr/news/articleView.html?idxno=115304",
-      "description": "ㅣ데일리포스트=곽민구 기자ㅣNHN페이코가 '배달의민족' 앱 내 페이코 간편결제 및 '페이코 모바일 식권' 연동을 최종 완료했다. NHN페이코는 \"지난달 27일부터 배민 앱 내 결제 수단으로 페이코 간편결제(카드·쿠폰...",
-      "pubDate": "2026-09-01T14:18:00+00:00",
-      "category": "페이코",
-      "source": "데일리포스트"
-    },
-    {
-      "title": "[포토] QR-바코드 결제 그만...'모니모페이' 삼성페이로 더 편하게",
-      "link": "https://n.news.naver.com/mnews/article/030/0003462531?sid=101",
-      "originallink": "https://www.etnews.com/20260901000476",
-      "description": "삼성생명·삼성화재·삼성카드·삼성증권 애플리케이션을 하나로 합친 통합 앱 '모니모'가 제공하는 간편결제 서비스 '모니모페이'에서 삼성페이를 통한 현장결제가 가능해졌다. 1일 서울의 한 카페에서 모니모페이...",
-      "pubDate": "2026-09-01T13:39:00+00:00",
-      "category": "삼성페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "[ICT 종합] 컴투스 및 엔에이치엔 페이코 소식 외",
-      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60498",
-      "originallink": "https://www.gamevu.co.kr/news/articleView.html?idxno=60498",
-      "description": "-네이버페이(Npay, 대표이사 박상진)가 SK에너지(대표이사 김종화)와 주유소 고객 경험 혁신을 위한 업무협약을 체결했다고 31일 밝혔다. 이번 협약은 SK 에너지의 전국 주유소 네트워크와 Npay의 간편결제 서비스 및...",
-      "pubDate": "2026-09-01T09:10:00+00:00",
-      "category": "페이코",
-      "source": "게임뷰"
-    },
-    {
-      "title": "\"쇼핑 혜택 두 배로\"…아성다이소, '페이코 온·오프라인 이벤트' 실시",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=273160",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=273160",
-      "description": "앞서 아성다이소는 지난달 3일 카카오페이로 결제 시 혜택을 제공하는 '8월카카오페이 온오프라인 통합 이벤트'를 진행했다. 이 이벤트는 지난달 3일부터 31일까지 진행했으며, 다이소몰과 다이소 매장에서 기간 내 각각...",
-      "pubDate": "2026-09-01T09:10:00+00:00",
-      "category": "페이코",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "한국간편결제진흥원, 부산 외식업 해외결제 인프라 확대",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861311",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=861311",
-      "description": "한국간편결제진흥원 | 서울=한스경제 김종효 기자 | 한국간편결제진흥원은 1일 한국외식업중앙회 부산광역시지회와 외국인 관광객 결제 편의 강화를 위한 업무협약을 맺었다고 밝혔다. 이번 협약은 부산을 찾는 외국인...",
-      "pubDate": "2026-09-01T08:46:00+00:00",
-      "category": "간편결제",
-      "source": "한스경제"
-    },
-    {
-      "title": "카카오페이, '오래오래 함께가게' 성수서 10월 말까지 운영",
-      "link": "http://www.sisacast.kr/news/articleView.html?idxno=99468",
-      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=99468",
-      "description": "카카오페이는 소상공인 상생 캠페인 '오래오래 함께가게'를 1일부터 10월 31일까지 두 달간 성수동에서 운영한다. 사진=카카오페이  카카오페이가 서울 성수동에서 소상공인 브랜드 100곳을 소개하는 상생 캠페인을...",
-      "pubDate": "2026-09-01T08:04:00+00:00",
-      "category": "카카오페이",
-      "source": "시사캐스트"
-    },
-    {
-      "title": "\"온라인은 할인, 매장은 적립\"...다이소, 한 달간 페이코 연계 프로모션",
-      "link": "https://www.insight.co.kr/news/571391",
-      "originallink": "https://www.insight.co.kr/news/571391",
-      "description": "아성다이소가 간편결제 서비스 페이코(PAYCO)와 손잡고 9월 한 달간 온·오프라인 구매 고객 대상 프로모션을 펼친다. 1일 아성다이소는 오는 30일까지 다이소몰과 전국 다이소 매장에서 페이코 포인트 결제 시 할인 및...",
-      "pubDate": "2026-09-01T08:00:00+00:00",
-      "category": "페이코",
-      "source": "인사이트"
-    },
-    {
-      "title": "NHN페이코, 배달의민족에 결제·식권 서비스 오픈...소비자 관심도 증가",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202609011550218167bbceadc3c9_23",
-      "originallink": "http://www.thebigdata.co.kr/view.php?ud=202609011550218167bbceadc3c9_23",
-      "description": "NHN페이코는 지난달 27일부터 배민 앱 내 신규 결제수단으로 페이코 간편결제(카드·쿠폰·포인트)를 단계적으로 도입해 왔으며 31일 전체 이용자를 대상으로 공식 전면 오픈했다. 페이코 결제 서비스 적용에 따라 배민...",
-      "pubDate": "2026-09-01T07:54:00+00:00",
-      "category": "페이코",
-      "source": "빅데이터뉴스"
-    },
-    {
-      "title": "NHN페이코, 배민 결제·식권 서비스 오픈",
-      "link": "https://n.news.naver.com/mnews/article/382/0001291340?sid=105",
-      "originallink": "https://sports.donga.com/it/article/all/20260901/134581998/1",
-      "description": "8월 31일 페이코 간편결제를 도입했고, 9월 1일부터는 ‘페이코 모바일 식권’까지 연동했다. 배민 이용 고객은 페이코 간편결제는 물론 모바일 식권까지 배민 앱 내에서 함께 사용할 수 있게 됐다.  이번 연동으로 페이코...",
-      "pubDate": "2026-09-01T07:50:00+00:00",
-      "category": "페이코",
-      "source": "스포츠동아"
-    },
-    {
-      "title": "카카오페이, 성수동서 소상공인 100곳 알린다…입점비·수수료 ‘0원’",
-      "link": "https://www.kukinews.com/article/view/kuk202609010095",
-      "originallink": "https://www.kukinews.com/article/view/kuk202609010095",
-      "description": "쿠키뉴스=김미현 기자 | 카카오페이가 제품을 만들고도 알릴 기회가 부족했던 소상공인 100곳을 서울 성수동으로 불러 모았다. 입점비와 판매 수수료 없이 두 달간 제품을 선보일 공간을 내줬다. 많이 파는 것보다 작은...",
-      "pubDate": "2026-09-01T07:44:00+00:00",
-      "category": "카카오페이",
-      "source": "kukinews"
-    },
-    {
-      "title": "카카오페이, 성수동서 '오래오래 함께가게' 개최...100개 소상공인 브랜...",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=260788",
-      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=260788",
-      "description": "카카오페이는 1일부터 다음달 31일까지 서울 성수동에서 '오래오래 함께가게'를 개최한다고 이날 밝혔다. 올해 행사는 '진심, 감각, 일상, 지속, 지역' 다섯 가지 테마를 중심으로 100개의 소상공인 브랜드를 소개하며...",
-      "pubDate": "2026-09-01T07:42:00+00:00",
-      "category": "카카오페이",
-      "source": "아시아A"
-    },
-    {
-      "title": "카카오페이, 성수동에 소상공인 100개 브랜드 팝업…두 달 간 운영",
-      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=762862",
-      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=762862",
-      "description": "카카오페이(대표 신원근)가 서울 성수동에서 소상공인 브랜드 100곳의 상품을 선보이는 팝업스토어를 두 달간 운영한다. 행사 공간은 참여 브랜드 특성에 따라 진심·감각·일상·지속·지역 등 5개 주제로 구성됐다....",
-      "pubDate": "2026-09-01T07:38:00+00:00",
-      "category": "카카오페이",
-      "source": "소비자가 만드는 신문"
-    },
-    {
-      "title": "NHN페이코, 배민에 간편결제·모바일 식권 연동",
-      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=88707",
-      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=88707",
-      "description": "엔에이치엔 페이코(NHN PAYCO, 대표 정승규)가 배달의민족 앱에 페이코 간편결제와 모바일 식권 서비스를 연동했다. 이에 따라 배민 이용자는 페이코 카드·쿠폰·포인트 결제와 모바일 식권을 앱에서 사용할 수 있다....",
-      "pubDate": "2026-09-01T07:24:00+00:00",
-      "category": "페이코",
-      "source": "워크투데이"
-    },
-    {
-      "title": "\"사장님 오래오래함께가요\" 성수에 퍼진 카카오페이의 상생 온기[르포]",
-      "link": "https://n.news.naver.com/mnews/article/014/0005569449?sid=101",
-      "originallink": "https://www.fnnews.com/news/202609011109453567",
-      "description": "인파로 북적이는 서울 성수동 거리에 소상공인의 따뜻한 이야기를 담은 카카오페이의 '오래오래함께가게'가 문을 열었다. 매장에 들어서자 은은한 '오래의 빛' 향이 방문객을 맞았다. 올해 오래오래함께가게에 새롭게...",
-      "pubDate": "2026-09-01T07:08:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "[단독] 모니모, 삼성페이 연동…삼성 결제 생태계 확장",
-      "link": "https://n.news.naver.com/mnews/article/030/0003462387?sid=101",
-      "originallink": "https://www.etnews.com/20260901000344",
-      "description": "국내 간편결제 시장은 네이버페이·카카오페이·토스가 주도하고 있다. 3사의 연간 온·오프라인 간편결제 거래액은 100조원 이상이다. 모니모페이가 오프라인 결제 편의성을 높이며 점유율을 뺏어올 수 있을지 주목된다.",
-      "pubDate": "2026-09-01T06:09:00+00:00",
-      "category": "삼성페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "토스, 리투아니아에 유럽 디지털금융 거점 구축…법인 증자·인력 확충",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=134500",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=134500",
-      "description": "토스가 국내에서 운영해 온 간편송금과 결제 중심의 모바일 금융 경험을 유럽에 적용하려면 현지 인가와 국가별 규제에 맞춘 기술·운영체계를 별도로 구축해야 한다. 다만 자본금이 최소 요건을 넘었다는 사실만으로...",
-      "pubDate": "2026-09-01T05:34:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "유통업계, 할인‧적립 혜택 강화…다이소 '페이코 결제 할인'‧배민 '구...",
-      "link": "https://www.news2day.co.kr/article/20260901500147",
-      "originallink": "https://www.news2day.co.kr/article/20260901500147",
-      "description": "다이소는 간편결제 플랫폼 페이크와 손잡고 온‧오프라인 혜택을 제공한다. 배달의민족은 구독 서비스에 현금처럼 쓸 수 있는 포인트 적립을 더해 새롭게 선보일 예정이다. 다이소는 9월 한 달 동안 ‘페이코 온...",
-      "pubDate": "2026-09-01T05:28:00+00:00",
-      "category": "페이코",
-      "source": "뉴스투데이"
-    },
-    {
-      "title": "아성다이소, 페이코 결제 고객에 ‘할인·적립’ 혜택",
-      "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065586444596726",
-      "originallink": "https://www.swtvnews.com/news/newsview.php?ncode=1065586444596726",
-      "description": "아성다이소는 오는 30일까지 간편결제 페이코로 결제하는 고객을 대상으로 할인과 포인트 적립 혜택을 제공하는 ‘페이코 온·오프라인 9월 이벤트’를 진행한다고 1일 밝혔다. 우선 다이소 매장에서는 페이코포인트로...",
-      "pubDate": "2026-09-01T05:16:00+00:00",
-      "category": "페이코",
-      "source": "swtvnews"
-    },
-    {
-      "title": "배민서 페이코 결제 열린 이유는 식권 때문이었다",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=749459",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=749459",
-      "description": "NHN페이코는 지난달 27일부터 배민 앱 내 신규 결제수단으로 페이코 간편결제인 카드 쿠폰 포인트를 단계적으로 도입해왔다. 31일에는 전체 이용자를 대상으로 공식 전면 오픈이 이뤄졌다. 여기에 9월 1일부터는 페이코...",
-      "pubDate": "2026-09-01T04:48:00+00:00",
-      "category": "페이코",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "아성다이소, 페이코와 손잡고 ‘9월 온·오프라인 이벤트’",
-      "link": "https://www.sentv.co.kr/article/view/sentv202609010117",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202609010117",
-      "description": "균일가 생활용품점 아성다이소가 간편결제 서비스 페이코(PAYCO)와 손잡고 9월 한 달간 온·오프라인 통합 프로모션을 진행한다고 1일 밝혔다. 이번 이벤트는 이달 1일부터 30일까지 다이소몰과 전국 오프라인 매장에서...",
-      "pubDate": "2026-09-01T04:48:00+00:00",
-      "category": "페이코",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "\"배민 모든 가맹점서도 다된다\" NHN페이코, 식권서비스·간편결제 확대",
-      "link": "https://www.catchnews.kr/news/articleView.html?idxno=127967",
-      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=127967",
-      "description": "NHN페이코는 지난달 27일부터 배민 앱 내 신규 결제 수단으로 페이코 간편결제(카드·쿠폰·포인트)를 단계적으로 도입해 왔으며 31일 전체 이용자를 대상으로 서비스를 공식 전면 오픈했다. 이어 9월 1일부터는 '페이코...",
-      "pubDate": "2026-09-01T04:25:00+00:00",
-      "category": "페이코",
-      "source": "CatchNews"
-    },
-    {
-      "title": "NHN페이코, 배민 앱에 간편결제·모바일 식권 서비스 도입",
-      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=309426",
-      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=309426",
-      "description": "NHN페이코가 배달의민족 앱 내 페이코 간편결제 및 모바일 식권 서비스 연동을 완료했다. NHN페이코는 지난달 31일 카드·쿠폰·포인트 등 간편결제 서비스를 전면 적용한 데 이어 1일부터 모바일 식권까지 연동했다. 1일...",
-      "pubDate": "2026-09-01T04:02:00+00:00",
-      "category": "페이코",
-      "source": "FETV"
-    },
-    {
-      "title": "[G-브리핑] NHN페이코, ‘배달의민족’ 결제 서비스 오픈",
-      "link": "https://n.news.naver.com/mnews/article/009/0005728581?sid=105",
-      "originallink": "https://www.mk.co.kr/article/12141110",
-      "description": "NHN페이코는 지난달 27일부터 배민 앱 내 신규 결제수단으로 페이코 간편결제(카드·쿠폰·포인트)를 단계적으로 도입해왔으며 31일 전체 이용자를 대상으로 공식 전면 오픈했다. 9월 1일부터는 ‘페이코 모바일 식권’...",
-      "pubDate": "2026-09-01T03:11:00+00:00",
-      "category": "페이코",
-      "source": "매일경제"
-    },
-    {
-      "title": "링크알파, 쿠팡페이 CFO 출신 나혜원 COO 영입",
-      "link": "https://n.news.naver.com/mnews/article/277/0005810208?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026090112031854759",
-      "description": "최근엔 쿠팡페이 CFO를 맡았다. 링크알파는 글로벌 사업 확대에 필요한 재무·운영 체계를 고도화하고 조직 경쟁력을 강화할 방침이다. 나 COO는 재무 전략과 사업 운영 전반을 총괄하며 링크알파의 성장 단계에 맞는...",
-      "pubDate": "2026-09-01T03:03:00+00:00",
-      "category": "쿠팡페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "NHN페이코, 배달의민족에 간편결제·모바일 식권 연동",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=762824",
-      "originallink": "https://www.slist.kr/news/articleView.html?idxno=762824",
-      "description": "배달의민족에서 페이코 간편결제와 모바일 식권을 함께 이용할 수 있게 됐다. 페이코 식권의 사용 범위가 배민 전 가맹점으로 확대되면서 직장인 이용자의 메뉴 선택과 식대 결제 편의성도 높아질 전망이다. 사진...",
-      "pubDate": "2026-09-01T02:58:00+00:00",
-      "category": "페이코",
-      "source": "싱글리스트"
-    },
-    {
-      "title": "배민 앱에서 '페이코 식권' 쓴다",
-      "link": "https://n.news.naver.com/mnews/article/030/0003462221?sid=101",
-      "originallink": "https://www.etnews.com/20260901000180",
-      "description": "NHN페이코는 지난달 27일부터 배민 앱 내 신규 결제수단으로 페이코 간편결제를 단계적으로 도입해왔다. 1일부터는 '페이코 모바일 식권'까지 연동되면서 배민 앱 내 페이코 결제 서비스 도입이 마무리됐다. 페이코 결제...",
-      "pubDate": "2026-09-01T02:32:00+00:00",
-      "category": "페이코",
-      "source": "전자신문"
-    },
-    {
-      "title": "애플페이, 단말기 확대…현대카드 독주 언제까지?",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=310145",
-      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=310145",
-      "description": "토스플레이스의 '토스 프론트' 가맹점은 7월 기준 약 40만 곳이었다. 네이버페이의 'N페이 커넥트' 가맹점은 약 10만 곳이었다. 토스 프론트는 일반 카드와 삼성페이, 애플페이, 정보무늬 결제, 근거리무선통신 결제, 얼굴...",
-      "pubDate": "2026-09-01T02:22:00+00:00",
-      "category": "애플페이",
-      "source": "스트레이트뉴스"
-    },
-    {
-      "title": "링크알파, 쿠팡페이 CFO 출신 나혜원 COO 영입",
-      "link": "https://magazine.hankyung.com/job-joy/article/202609016134d",
-      "originallink": "https://magazine.hankyung.com/job-joy/article/202609016134d",
-      "description": "AI 네이티브 금융 인텔리전스 기업 링크알파는 쿠팡페이 최고재무책임자(CFO) 출신 나혜원을 최고운영책임자(COO)로 영입했다고 1일 밝혔다. 나혜원 신임 COO는 금융과 핀테크, IT 분야에서 20년 이상 재무·전략·운영...",
-      "pubDate": "2026-09-01T02:20:00+00:00",
-      "category": "쿠팡페이",
-      "source": "hankyung"
-    },
-    {
-      "title": "NHN페이코, 배달의민족 페이코 결제·식권 서비스 오픈",
-      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406323",
-      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=406323",
-      "description": "NHN페이코는 지난달 27일부터 배민 앱 내 신규 결제수단으로 페이코 간편결제(카드·쿠폰·포인트)를 단계적으로 도입해 왔으며 8월31일 전체 이용자를 대상으로 공식 전면 오픈했다. 9월1일부터는 '페이코 모바일 식권'까지...",
-      "pubDate": "2026-09-01T02:10:00+00:00",
-      "category": "페이코",
-      "source": "테크월드"
-    },
-    {
-      "title": "아성다이소, 페이코와 9월 온·오프라인 결제 이벤트",
-      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=443646",
-      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=443646",
-      "description": "이번 페이코와의 협업은 다이소가 온·오프라인을 아우르는 결제 편의성과 고객 혜택을 확대한다는 데 의미가 있다. 유통업계에서 간편결제가 단순한 결제수단을 넘어 할인·적립 등 고객 혜택과 결합되는 가운데...",
-      "pubDate": "2026-09-01T02:10:00+00:00",
-      "category": "페이코",
-      "source": "이코노뉴스"
-    },
-    {
-      "title": "링크알파, 쿠팡페이 CFO 출신 나혜원 COO 영입...글로벌 금융 인텔리전스...",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697175",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697175",
-      "description": "링크알파 나혜원 신임 COO AI 네이티브 금융 인텔리전스 기업 링크알파는 쿠팡페이 최고재무책임자(CFO) 출신 나혜원을 최고운영책임자(COO)로 영입​했다고 1일 밝혔다. 나혜원 신임 COO는 국민은행과 글로벌...",
-      "pubDate": "2026-09-01T02:08:00+00:00",
-      "category": "쿠팡페이",
-      "source": "디지털투데이"
     }
   ],
-  "lastFetch": "2026-10-01T02:02:01.689438+00:00"
+  "lastFetch": "2026-10-02T02:10:03.098468+00:00"
 }
