@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "title": "3분기 인기 체크카드, '여행·간편결제' 강세…'KB Youth Club' 1위",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=147905",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=147905",
+      "description": "6위에는 '네이버페이 머니카드'가 올랐다. 연회비와 전월 실적 조건, 한도 없이 국내외 결제와 네이버 쇼핑 간편결제에서 적립 혜택을 제공한다. 7위는 KG파이낸셜의 '모빌카드'다. 연회비와 전월 실적 조건, 한도 없이...",
+      "pubDate": "2026-10-03T22:32:00+00:00",
+      "category": "간편결제",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "토스에서 ‘무한의 계단’…미니 게임으로 14조 시장 노리는 게임사들[...",
+      "link": "https://n.news.naver.com/mnews/article/020/0003752536?sid=105",
+      "originallink": "https://www.donga.com/news/It/article/all/20261002/134777596/1",
+      "description": "카카오톡과 카카오페이에서도 앱을 벗어나지 않고 미니게임을 즐길 수 있다.》 금융·메신저 앱이 미니게임의 새로운 유통망으로 떠오르고 있다. 웹 표준 기술인 HTML5를 활용해 PC와 모바일의 웹 환경에서 실행되는 ‘H5...",
+      "pubDate": "2026-10-03T06:00:00+00:00",
+      "category": "토스페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "코스닥 노크하는 뱅샐, 유니콘 다리 놓는 Npay [핀테크 톡톡]",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2002449",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2002449",
+      "description": "3일 업계에 따르면 뱅크샐러드는 한국거래소에 코스닥 상장예비심사 신청서를 제출하며 기업공개(IPO) 절차에 착수했고 네이버페이는 신용보증기금·코드박스와 손잡고 투자 플랫폼 'Npay 스타트업'을 통한 모험자본...",
+      "pubDate": "2026-10-03T04:22:00+00:00",
+      "category": "네이버페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "네이버페이, 신보·코드박스와 모험자본 생태계 조성",
+      "link": "https://n.news.naver.com/mnews/article/003/0014231626?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261002_0003812893",
+      "description": "네이버페이(Npay)가 신용보증기금, 코드박스와 손잡고 스타트업과 벤처기업의 투자유치 지원에 나선다. 신용보증기금이 보유한 기업 정보와 유망기업 네트워크를 'Npay 스타트업 플랫폼'에 연계해 투자자와 성장기업 간...",
+      "pubDate": "2026-10-03T03:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
       "title": "영동군 고향사랑기부제 이벤트…2만~5만원 네이버페이 지급",
       "link": "https://n.news.naver.com/mnews/article/421/0009207736?sid=102",
       "originallink": "https://www.news1.kr/local/sejong-chungbuk/6309103",
@@ -133,7 +169,7 @@
       "description": "내년 1월 말까지 신규가입·최초 입금 고객 자동 참여 순입금액 따라 네이버페이 3만원 또는 커피 교환권... 연금자산관리센터와 연금전문 PB를 통한 상담도 지원하며, 카카오톡 채널 'NH투자증권 연금'에서 연금 정보와...",
       "pubDate": "2026-10-02T04:56:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "[플랫폼 인사이드] \"구글·카카오는 남기고 네이버만 뺀다\"…토스, '검색...",
@@ -1204,7 +1240,7 @@
       "description": "신규 단말기 설치·매출대금 입금 고객 대상…11월 30일까지 선착순 300명 BNK부산은행이 토스플레이스와 손잡고 개인사업자에게 최대 8만원의 캐시백을 제공하는 '사장님 응원 이벤트'를 오는 11월 30일까지 진행한다. 30일...",
       "pubDate": "2026-09-30T04:55:00+00:00",
       "category": "토스페이",
-      "source": "프레시안"
+      "source": "pressian"
     },
     {
       "title": "BNK부산은행, 개인사업자 토스플레이스 단말기 신규 이용 시 최대 8만원...",
@@ -1474,7 +1510,7 @@
       "description": "네이버파이낸셜은 지난해 11월 포괄적 주식교환으로 두나무를 100% 자회사로 편입하기로 했다. 네이버페이의 결제망과 두나무의 지갑·유통 기술이 결합할 경우, 스테이블코인 발행·결제로 사업을 넓힐 여지가 생긴다는...",
       "pubDate": "2026-09-29T23:28:00+00:00",
       "category": "토스페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "\"저신용·금융취약계층 대출 문턱 낮춘다\"…토스, 대안금융 영토 확장",
@@ -1519,7 +1555,7 @@
       "description": "네이버페이·카카오페이·토스페이 등은 전자지급결제대행(PG) 서비스의 하나로 이 중에서도 사전에 신용카드를 미리 등록해 간편 인증수단으로 빠르게 결제하는 지급 대행 역할을 한다. 2015년 공인인증서 의무 사용이...",
       "pubDate": "2026-09-29T09:56:00+00:00",
       "category": "네이버페이",
-      "source": "세계일보"
+      "source": "segye"
     },
     {
       "title": "\"실물카드 대신 간편결제로\"…하루 1조8000억 육박",
@@ -2014,7 +2050,7 @@
       "description": "액센츄어에서 제조·유통·소비재·서비스 산업 담당 이사를 맡아 경영전략과 업무 프로세스 혁신 컨설팅을 수행했으며, 이후 쿠팡에서 재무기획 업무를 담당했다. 2017년 카카오페이에 합류해 경영기획팀장과...",
       "pubDate": "2026-09-28T05:48:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "상미당홀딩스 섹타나인, 카카오페이 출신 한순욱 신임 대표 선임",
@@ -2428,7 +2464,7 @@
       "description": "지난 14일 저녁 방문한 카카오페이의 ‘오래오래 함께가게’ 입구에 들어서자 소상공인 조향사가 만든 이러한 향이 반겨줬다. ‘오래오래 함께가게’는 성장 잠재력을 가진 소상공인 브랜드를 발굴해 판로 개척과 사업...",
       "pubDate": "2026-09-27T00:26:00+00:00",
       "category": "카카오페이",
-      "source": "세계일보"
+      "source": "segye"
     },
     {
       "title": "[분석] '토스·카뱅·지그재그' 손잡은 신한카드, 결제액 노림수 통할까",
@@ -3292,7 +3328,7 @@
       "description": "키움증권(039490)은 이날 비상장주식 거래 플랫폼 네이버페이 비상장(Npay 비상장)과 비상장주식 교차거래 시스템 도입을 위한 업무협약을 체결했다고 22일 밝혔다.",
       "pubDate": "2026-09-22T00:46:00+00:00",
       "category": "네이버페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "키움증권·네이버페이, 비상장주식 교차거래 도입",
@@ -4822,7 +4858,7 @@
       "description": "이를 위해서는 네이버가 매장의 POS 주문·결제 데이터를 네이버 스마트플레이스와 연동해 줘야 한다. 토스에 따르면 현재 오케이포스, 페이히어 등 15개 POS 사업자가 연동돼 있지만 토스포스는 제외됐다. 토스 관계자는...",
       "pubDate": "2026-09-16T22:02:00+00:00",
       "category": "토스페이",
-      "source": "세계일보"
+      "source": "segye"
     },
     {
       "title": "[써보니] 네이버·토스 갈등 부른 '5원 미션'…결국 광고 싸움?",
@@ -4867,7 +4903,7 @@
       "description": "이를 위해서는 네이버가 매장의 POS 주문·결제 데이터를 네이버 스마트플레이스와 연동해 줘야 한다. 토스에 따르면 현재 오케이포스, 페이히어 등 15개 POS 사업자가 연동돼 있지만 토스포스는 제외됐다. 토스 관계자는...",
       "pubDate": "2026-09-16T10:32:00+00:00",
       "category": "토스페이",
-      "source": "세계일보"
+      "source": "segye"
     },
     {
       "title": "'보상형 검색' 두고 네이버·토스 충돌…경찰·공정위 '맞불'",
@@ -5200,7 +5236,7 @@
       "description": "네이버페이(Npay)가 네이버 스마트스토어 운영 실적을 신용평가에 반영하고 사업자 전용 대출과 보험 기반 상생 서비스를 선보이는 등 소상공인의 대출 문턱을 낮추고 있다. 15일 금융권에 따르면 네이버페이는 지난달...",
       "pubDate": "2026-09-15T21:04:00+00:00",
       "category": "네이버페이",
-      "source": "세계일보"
+      "source": "segye"
     },
     {
       "title": "병원 수납 창구서 얼굴로 결제한다…세나클 오름차트, 네이버페이 커넥...",
@@ -8044,7 +8080,7 @@
       "description": "네이버는 토스가 애플리케이션의 ‘출석 체크 미션’ 등으로 이용자들에게 특정 식당이나 장소를 네이버에서 검색하도록 유도했다며, 네이버 스토어·플레이스 검색 순위에 영향을 줬다고 주장한 것으로 알려졌다. 토스의...",
       "pubDate": "2026-09-04T08:49:00+00:00",
       "category": "토스페이",
-      "source": "세계일보"
+      "source": "segye"
     },
     {
       "title": "네이버, 토스 '리워드 검색' 수사의뢰…\"순위 왜곡해 업무방해\"",
@@ -8243,178 +8279,7 @@
       "pubDate": "2026-09-04T03:55:00+00:00",
       "category": "토스페이",
       "source": "매일경제"
-    },
-    {
-      "title": "카카오페이證, 친구 추가시 ‘삼성전자 1주’ 증정",
-      "link": "https://n.news.naver.com/mnews/article/016/0002692908?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10862816?ref=naver",
-      "description": "카카오페이증권은 자사 카카오톡 채널 신규 친구에게 추첨으로 주식을 증정하는 이벤트를 30일까지 진행한다고 4일 밝혔다. 6월 카카오톡 채널 친구 100만명을 돌파한 데 이어, 보다 많은 사용자에게 투자 정보와 이벤트...",
-      "pubDate": "2026-09-04T02:29:00+00:00",
-      "category": "카카오페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "\"검색순위 왜곡해 피해\"…네이버, '포인트 미션' 토스 업무방해 혐의 고...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=317544",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=317544",
-      "description": "네이버가 토스 운영사 비바리퍼블리카를 업무방해 및 정보통신망법 위반 혐의로 경찰에 고소한 사실이... 및 플레이스의 검색 순위 알고리즘이 왜곡되고 있다고 판단했다. 정상적인 거래 및 유입을 통해 순위를 유지하던...",
-      "pubDate": "2026-09-04T02:10:00+00:00",
-      "category": "토스페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "토스 '보상형 검색' 논란...네이버 순위 왜곡 의혹 수사로",
-      "link": "https://hbnpress.com/news/view/1065574451202566",
-      "originallink": "https://hbnpress.com/news/view/1065574451202566",
-      "description": "토스가 이용자에게 포인트를 지급하고 네이버에서 특정 상품이나 사업장을 검색하도록 한 앱테크 마케팅이... 플레이스 검색 역시 검색어와 업체의 유사도, 인기도, 거리, 정보 충실성 등을 종합적으로 반영한다. 네이버는...",
-      "pubDate": "2026-09-04T01:46:00+00:00",
-      "category": "토스페이",
-      "source": "hbnpress"
-    },
-    {
-      "title": "'네이버 검색 왜곡 의혹' 경찰 조사 받는 토스...IPO 앞두고 대형 악재 ...",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=154927",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=154927",
-      "description": "토스가 이용자의 앱 방문을 유도하기 위해 운영해온 이른바 '앱테크' 마케팅이다. 네이버는 이 과정에서 특정 검색어에 대규모 트래픽이 집중돼 네이버 스토어와 플레이스 등의 검색 순위가 왜곡될 수 있다고 보고 있다....",
-      "pubDate": "2026-09-04T01:20:00+00:00",
-      "category": "토스페이",
-      "source": "테크M"
-    },
-    {
-      "title": "첫 흑자 뒤 터진 '민원 폭탄'…신호철 카카오페이證, MTS 장애 42건·민원...",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=89452",
-      "originallink": "https://www.the-today.com/news/articleView.html?idxno=89452",
-      "description": "카카오페이증권이 출범 이후 첫 연간 흑자에 이어 올해 상반기에도 가파른 실적 성장세를 이어갔지만 고객 민원과 모바일트레이딩시스템(MTS) 장애도 함께 급증한 것으로 나타났다. 수익성과 외형 성장을 이끈 신호철...",
-      "pubDate": "2026-09-04T01:08:00+00:00",
-      "category": "카카오페이",
-      "source": "더투데이"
-    },
-    {
-      "title": "[테크스냅] 네이버페이, 제천·부산영화제에 'Npay 커넥트' 결제 지원",
-      "link": "https://n.news.naver.com/mnews/article/001/0016289578?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20260904050700017?input=1195m",
-      "description": "카카오, 버추얼 러닝 이벤트 '런투게더' 진행 네이버페이(Npay)가 제천국제음악영화제와 부산국제영화제에 오프라인 통합 결제 단말기 'Npay 커넥트'를 지원한다. 카카오는 다음 달 열리는 '카카오프렌즈 런' 참가권을...",
-      "pubDate": "2026-09-04T00:56:00+00:00",
-      "category": "네이버페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "샤브올데이, 네이버페이 이벤트...하겐다즈 '더 하겐 크루즈'",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=763628",
-      "originallink": "https://www.slist.kr/news/articleView.html?idxno=763628",
-      "description": "샤브올데이는 9월 20일까지 매장에서 네이버페이 포인트·머니 결제 고객에게 1만원을 적립하는 이벤트를 진행한다. 사진=샤브올데이 네이버페이와 연결된 삼성페이 결제도 대상에 포함하지만 네이버페이에 등록한...",
-      "pubDate": "2026-09-04T00:54:00+00:00",
-      "category": "네이버페이",
-      "source": "싱글리스트"
-    },
-    {
-      "title": "[금융레이더]네이버페이/광주은행",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609040904549310670",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609040904549310670",
-      "description": "◆네이버페이(Npay), 9월 가을맞이 프로모션 실시 네이버페이(Npay)가 Npay 앱 및 머니카드Y 사용자를 대상으로 Npay 포인트부터 편의점 쿠폰까지 다채로운 혜택을 제공하는 가을맞이 프로모션을 실시한다고 4일밝혔다....",
-      "pubDate": "2026-09-04T00:40:00+00:00",
-      "category": "네이버페이",
-      "source": "대한경제"
-    },
-    {
-      "title": "네이버페이, 국제영화제에 'Npay 커넥트' 결제 인프라 지원",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698168",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698168",
-      "description": "[사진: 네이버페이] 네이버페이가 국제영화제에 오프라인 통합 결제 단말기 'Npay 커넥트'를 공급하고 안면인식 기반 결제 서비스를 지원한다. 네이버페이는 제22회 제천국제음악영화제와 제31회 부산국제영화제...",
-      "pubDate": "2026-09-04T00:32:00+00:00",
-      "category": "네이버페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "샤브올데이, 매장서 네이버페이 결제 시 1만 원 적립 행사",
-      "link": "https://n.news.naver.com/mnews/article/421/0009150626?sid=101",
-      "originallink": "https://www.news1.kr/industry/distribution/6279835",
-      "description": "샤부샤부 뷔페 샤브올데이는 매장에서 네이버페이 포인트나 머니로 4만9800원 이상 결제하면 1만 원을 적립해 주는 행사를 이달 20일까지 연다고 4일 밝혔다. 네이버페이와 연결된 삼성페이로 결제하면 혜택을 받을 수...",
-      "pubDate": "2026-09-04T00:30:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "샤브올데이, 네이버페이와 외식비 할인 이벤트…최대 1만원 적립",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=719397",
-      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=719397",
-      "description": "컨슈머타임스=안솔지 기자 | 샤브올데이가 네이버페이와 손잡고 매장 결제 고객에게 1만원을 적립해주는 프로모션을 오는 20일까지 진행한다. 행사 기간 샤브올데이 매장에서 네이버페이 포인트 또는 머니로 4만9800원...",
-      "pubDate": "2026-09-04T00:20:00+00:00",
-      "category": "네이버페이",
-      "source": "컨슈머타임스(Consumertimes)"
-    },
-    {
-      "title": "\"'앱테크'가 검색 순위를 왜곡\"…토스 고소한 네이버, 왜",
-      "link": "https://n.news.naver.com/mnews/article/055/0001385823?sid=101",
-      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008737242&plink=ORI&cooper=NAVER",
-      "description": "이 마케팅을 두고 네이버가 올해 초 토스 운영사 비바리퍼블리카를 경기남부경찰청에 고소한 것으로 확인됐습니다. 혐의는 업무방해와 정보통신망법 위반입니다. 네이버스토어와 플레이스에 특정 검색어 유입이 몰리면...",
-      "pubDate": "2026-09-03T22:44:00+00:00",
-      "category": "토스페이",
-      "source": "SBS"
-    },
-    {
-      "title": "소상공인 100곳 사장님 브랜드 철학 한눈에…성수 카카오페이 ‘오래오...",
-      "link": "https://www.fntimes.com/html/view.php?ud=20260903155445862ed56b8e1f8_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=20260903155445862ed56b8e1f8_18",
-      "description": "“재료는 이야기가 되고, 이야기는 브랜드가 됩니다.” 지난 8월 31일 서울 성수동에서 열린 ‘오래오래 함께가게’ 팝업스토어에서 도슨트를 맡은 송수지 카카오페이 CR팀장은 아뜰리에존을 이같이 소개했다....",
-      "pubDate": "2026-09-03T21:02:00+00:00",
-      "category": "카카오페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "케이뱅크, BC카드와 '히든카드' 출시…온라인 간편결제 6% 할인",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=145216",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=145216",
-      "description": "먼저 네이버페이·카카오페이·쿠팡페이로 온라인에서 결제하면 결제금액의 6%를 할인받을 수 있다. 전월실적 40만원 이상 이용 시 월 최대 1만원, 100만원 이상 시 월 최대 3만원, 150만원 이상 시 월 최대 4만원까지 할인...",
-      "pubDate": "2026-09-03T19:32:00+00:00",
-      "category": "간편결제",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "[단독] \"검색어 순위 왜곡\"…네이버에 고소당한 토스",
-      "link": "https://n.news.naver.com/mnews/article/055/0001385748?sid=101",
-      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008736874&plink=ORI&cooper=NAVER",
-      "description": "이 마케팅을 두고 네이버가 올해 초 토스 운영사 비바리퍼블리카를 경기남부경찰청에 고소한 것으로 확인됐습니다. 혐의는 업무방해와 정보통신망법 위반입니다. 네이버 스토어와 플레이스에 특정 검색어 유입이 몰리면...",
-      "pubDate": "2026-09-03T12:00:00+00:00",
-      "category": "토스페이",
-      "source": "SBS"
-    },
-    {
-      "title": "BNK부산은행으로 첫 급여 받으면?… 네이버페이 5000원 선착순 500명",
-      "link": "https://n.news.naver.com/mnews/article/277/0005811689?sid=102",
-      "originallink": "https://view.asiae.co.kr/article/2026090316545193182",
-      "description": "급여통장을 부산은행으로 처음 옮기는 직장인에게 네이버페이 포인트 5000원 쿠폰이 제공된다. BNK부산은행(은행장 김성주)은 오는 10월 31일까지 부산은행 계좌로 급여를 처음 받는 고객을 대상으로 '부산은행으로 처음...",
-      "pubDate": "2026-09-03T07:54:00+00:00",
-      "category": "네이버페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "다이소, 9월 페이코 결제 이벤트…온라인 할인·매장 포인트 적립",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057957",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057957",
-      "description": "균일가 생활용품점 아성다이소가 9월 한 달간 다이소몰과 오프라인 매장에서 페이코 결제 고객을 대상으로... 멤버십이나 간편결제와 연계한 고객 접점 확대가 이어질 가능성이 있다\"고 말했다. [신아일보] 강동완...",
-      "pubDate": "2026-09-03T05:10:00+00:00",
-      "category": "페이코",
-      "source": "신아일보"
-    },
-    {
-      "title": "[개미를 위하여①] 국내주식 소수점 거래 '판' 키우는 카카오페이證",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=117369",
-      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=117369",
-      "description": "[편집자 주] 카카오페이증권이 최근 국내주식 소수점 거래 서비스에 주목하고 있다. 거래 가능 종목을 차차 확대하면서 고객 접근성을 제고하고, 사업 경쟁력을 끌어올리려는 움직임이다. 지난달 10일 카카오페이증권이...",
-      "pubDate": "2026-09-03T02:06:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스드림"
-    },
-    {
-      "title": "[더벨][활로 찾는 핀테크 기업] 에이판다 품은 에잇퍼센트, STO 시장에 '...",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609011145139880109364",
-      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609011145139880109364",
-      "description": "추 대표는 카카오페이 금융정책실장과 금융소비자보호책임자(CCO)를 지내고 서울거래 공동대표, 바이낸스 지역규제이사를 거쳤다. 과제도 분명하다. 조각투자 유통 시장 규모는 아직 작다. 서비스를 개시한 샌드박스...",
-      "pubDate": "2026-09-03T02:02:00+00:00",
-      "category": "간편결제",
-      "source": "더벨"
     }
   ],
-  "lastFetch": "2026-10-03T01:57:34.478681+00:00"
+  "lastFetch": "2026-10-04T02:35:51.723914+00:00"
 }
