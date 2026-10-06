@@ -1,6 +1,375 @@
 {
   "articles": [
     {
+      "title": "“결제부터 자금관리까지 한 번에”…네이버페이·국민은행, 소상공인 ...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002243753?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026100609491551178",
+      "description": "네이버페이(Npay)와 KB국민은행이 오프라인 결제 단말기를 매개로 소상공인의 결제와 사업관리, 금융 서비스를 한데 묶는 협력에 나선다. Npay는 KB국민은행, 한국정보통신(KICC), 이지샵과 소상공인의 디지털 전환과...",
+      "pubDate": "2026-10-06T02:44:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "하나은행·Npay, 서울 골목상권 금융지원…687억원 보증 공급",
+      "link": "https://sateconomy.co.kr/news/view/1065579435715504",
+      "originallink": "https://sateconomy.co.kr/news/view/1065579435715504",
+      "description": "[하나은행] 하나은행이 네이버페이(Npay), 네이버와 손잡고 서울 골목상권과 청년 창업기업에 687억5000만원 규모의 보증부 금융지원을 제공한다. 기존 Npay 가맹점 중심 지원을 야간상권과 청년기업까지 넓힌 것이...",
+      "pubDate": "2026-10-06T02:36:00+00:00",
+      "category": "네이버페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "KB국민은행, 네이버페이·한국정보통신·이지샵과 손잡고 소상공인 돕는...",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407802",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=407802",
+      "description": "KB국민은행이 지난 2일 네이버페이(이하 Npay), 한국정보통신(KICC), 이지샵과 함께 소상공인의 디지털 전환과 지속가능한 성장을 지원하기 위한 업무협약을 체결했다고 밝혔다. 이번 협약은 'Npay 커넥트'를 기반으로...",
+      "pubDate": "2026-10-06T02:30:00+00:00",
+      "category": "네이버페이",
+      "source": "테크월드"
+    },
+    {
+      "title": "KB국민은행, Npay·한국정보통신·이지샵과 소상공인 지원 금융·결제 서...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=122855",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=122855",
+      "description": "(사진=KB국민은행)  KB국민은행이 네이버페이(Npay), 한국정보통신(KICC), 이지샵과 손잡고 소상공인의 디지털 전환과 사업 운영을 지원하는 금융·결제 서비스 개발에 나선다. KB국민은행은 지난 2일 서울 여의도 KB국민은행...",
+      "pubDate": "2026-10-06T02:30:00+00:00",
+      "category": "네이버페이",
+      "source": "딜라이트닷넷"
+    },
+    {
+      "title": "KB국민은행, 네이버페이 결제단말기에 금융 붙인다…매출·정산 데이터...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136740",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=136740",
+      "description": "KB국민은행이 네이버페이(Npay), 한국정보통신, 이지샵과 손잡고 결제·매출·정산 데이터를 금융서비스와 연결한다. 4사는 지난 2일 서울 여의도 KB국민은행 신관에서 소상공인의 디지털 전환을 지원하기 위한 업무협약을...",
+      "pubDate": "2026-10-06T02:26:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 네이버페이 소식…소상공인 금융·결제 지원 확...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202108",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202108",
+      "description": "네이버페이가 금융기관 및 공공기관과의 협력을 확대하며 소상공인의 금융 접근성과 디지털 전환 지원에 나선다. 서울신용보증재단·하나은행과 지역상권 금융지원에 나선 데 이어 KB국민은행·한국정보통신·이지샵과...",
+      "pubDate": "2026-10-06T02:24:00+00:00",
+      "category": "네이버페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "하나은행∙네이버∙Npay, 55억원 출연…서울 소상공인 687.5억원 보증",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=188879",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=188879",
+      "description": "하나은행은 지난 1일 서울시 중랑구 상봉먹자골목에서 네이버페이, 네이버, 서울신용보증재단과 서울시 야간경제·청년창업 활성화를 위한 특별출연 업무협약을 체결했다. 이날 협약식에 참석한 이호성 하나은행장...",
+      "pubDate": "2026-10-06T02:22:00+00:00",
+      "category": "네이버페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "하나은행, 네이버페이·서울신용보증재단과 서울지역 골목상권 활성화...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=148113",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=148113",
+      "description": "사진=하나은행  하나은행(은행장 이호성)은 네이버페이(대표 박상진, 이하 Npay), 네이버(대표 최수연), 서울신용보증재단(이사장 최항도)과 '서울시 야간경제·청년창업 활성화를 위한 특별출연 업무협약'을 체결했다고...",
+      "pubDate": "2026-10-06T02:22:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "KB국민은행, 네이버페이·한국정보통신·이지샵과 소상공인 업무협약",
+      "link": "http://www.metroseoul.co.kr/article/20261006500122",
+      "originallink": "http://www.metroseoul.co.kr/article/20261006500122",
+      "description": "/KB국민은행 KB국민은행은 지난 2일 네이버페이(Npay), 한국정보통신(KICC), 이지샵과 함께 소상공인의 디지털 전환과 지속가능한 성장을 지원하기 위한 업무협약을 체결했다고 6일 밝혔다. 이날 서울 여의도 KB국민은행...",
+      "pubDate": "2026-10-06T02:20:00+00:00",
+      "category": "네이버페이",
+      "source": "메트로신문"
+    },
+    {
+      "title": "하나은행•Npay, 서울 야간상권•청년창업에 신용보증 공급…687.5억 규...",
+      "link": "https://www.viva100.com/article/20261006500487",
+      "originallink": "https://www.viva100.com/article/20261006500487",
+      "description": "하나은행이 네이버페이(Npay), 네이버, 서울신용보증재단과 손잡고 서울 야간상권 소상공인과 청년창업 기업에 687억5000만원 규모의 신용보증을 공급한다. 하나은행은 Npay, 네이버, 서울신용보증재단과 ‘서울시...",
+      "pubDate": "2026-10-06T02:16:00+00:00",
+      "category": "네이버페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "웰컴저축은행 “네이버페이 데이터로 대출 심사”…중·저신용자 금융 ...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002243748?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026100611132131220",
+      "description": "웰컴저축은행이 네이버페이(Npay)의 비금융데이터를 대출 심사에 활용한다. 기존 금융정보만으로 신용도를 충분히 평가받기 어려웠던 소상공인과 중·저신용자의 금융 접근성을 높이기 위해서다. 웰컴저축은행은...",
+      "pubDate": "2026-10-06T02:15:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "하나은행, Npay·서울신보와 서울지역 골목상권 활성화 협력",
+      "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49481",
+      "originallink": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49481",
+      "description": "하나은행은 네이버페이(Npay), 네이버, 서울신용보증재단과 '서울시 야간경제·청년창업 활성화를 위한 특별출연 업무협약'을 체결했다고 6일 밝혔다. 이번 협약에 따라 하나은행은 50억원, 네이버와 Npay 5억원 등 총...",
+      "pubDate": "2026-10-06T02:14:00+00:00",
+      "category": "네이버페이",
+      "source": "스마트타임스"
+    },
+    {
+      "title": "KB국민은행, 네이버페이 등과 업무협약…소상공인 지원",
+      "link": "https://n.news.naver.com/mnews/article/001/0016359232?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261006079200002?input=1195m",
+      "description": "Npay 커넥트와 금융서비스 연계 KB국민은행은 네이버페이, 한국정보통신, 이지샵 등과 소상공인 디지털 전환을 지원하기 위한 업무협약을 체결했다고 6일 밝혔다. 김현욱 KB국민은행 기업고객그룹 부행장은 지난 2일 서울...",
+      "pubDate": "2026-10-06T02:14:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "네이버페이, 웰컴저축은행과 상생금융 업무협약 체결",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110459",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4110459",
+      "description": "네이버페이가 지난 2일 웰컴저축은행과 '상생금융 서비스 제공을 위한 업무협약'을 체결했습니다. 이번 협약은 양사의 금융과 데이터 역량을 기반으로 더 많은 금융 소비자들이 보다 유리한 조건으로 대출을 이용할 수...",
+      "pubDate": "2026-10-06T02:12:00+00:00",
+      "category": "네이버페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "[은행가] 하나은행, 네이버페이·서울신용보증재단 MOU 外",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=771337",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=771337",
+      "description": "KB국민은행은 네이버페이·한국정보통신·이지샵과 결제부터 사업관리·금융을 연계하는 소상공인 상생 협약을 맺었다. 사진=KB국민은행 KB국민은행은 2일 서울 여의도 신관에서 네이버페이·한국정보통신·이지샵과...",
+      "pubDate": "2026-10-06T02:12:00+00:00",
+      "category": "네이버페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "KB국민은행, 네이버페이·KICC·이지샵과 ‘맞손’…소상공인 디지털 금...",
+      "link": "https://www.viva100.com/article/20261006500480",
+      "originallink": "https://www.viva100.com/article/20261006500480",
+      "description": "KB국민은행이 네이버페이(Npay)와 결제·사업관리 데이터를 기반으로 소상공인 금융서비스 확대에 나선다. KB국민은행은 지난 2일 서울 여의도 KB국민은행 신관에서 Npay, 한국정보통신(KICC), 이지샵과 소상공인의 디지털...",
+      "pubDate": "2026-10-06T02:12:00+00:00",
+      "category": "네이버페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "하나은행, 네이버페이·서울신보와 서울 골목상권 지원...687억원 금융 공...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366659",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=366659",
+      "description": "하나은행이 네이버페이·네이버·서울신용보증재단과 함께 서울 지역 골목상권과 청년창업 기업에 687억5000만원 규모의 금융지원에 나선다. 하나은행은 지난 1일 서울시 야간경제·청년창업 활성화를 위한 업무협약을...",
+      "pubDate": "2026-10-06T02:08:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "\"데이터로 문턱 낮추고 상생 키운다\"… 웰컴저축은행·네이버페이, 대안...",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130668",
+      "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130668",
+      "description": "웰컴저축은행은 지난 2일 네이버페이(Npay)와 '상생금융 서비스 제공을 위한 업무협약(MOU)'을 전격 체결하고 비금융데이터를 적극 활용한 대안신용평가 기반 신용대출 상품을 연내 시장에 선보일 예정이라고 6일 밝혔다....",
+      "pubDate": "2026-10-06T02:06:00+00:00",
+      "category": "네이버페이",
+      "source": "스마트경제"
+    },
+    {
+      "title": "KB국민은행, 네이버페이 등과 소상공인 금융지원 협력",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=106920",
+      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=106920",
+      "description": "[국민은행] KB국민은행은 네이버페이, 한국정보통신(KICC), 이지샵 등 4개사와 소상공인 상생을 위한 업무협약을 체결했다고 6일 밝혔다. 이번 협약은 '엔페이 커넥트'를 기반으로 소상공인에게 결제와 사업관리, 금융을...",
+      "pubDate": "2026-10-06T02:06:00+00:00",
+      "category": "네이버페이",
+      "source": "센트럴경제"
+    },
+    {
+      "title": "KB국민은행, Npay·한국정보통신·이지샵과 소상공인 상생 MOU",
+      "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49479",
+      "originallink": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49479",
+      "description": "KB국민은행은 지난 2일 네이버페이(Npay), 한국정보통신(KICC), 이지샵과 소상공인의 디지털 전환 및 지속가능한 성장을 지원하기 위한 업무협약을 체결했다고 6일 밝혔다. 이번 협약은 'Npay 커넥트'를 기반으로...",
+      "pubDate": "2026-10-06T02:06:00+00:00",
+      "category": "네이버페이",
+      "source": "스마트타임스"
+    },
+    {
+      "title": "네이버페이, 웰컴저축은행과 상생금융 업무협약",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=722973",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=722973",
+      "description": "컨슈머타임스=김지훈 기자 | 네이버페이(Npay)rk 웰컴저축은행과 '상생금융 서비스 제공을 위한 업무협약(MOU)'을 체결했다고 6일 밝혔다. 협약은 양사의 금융·데이터 역량을 기반으로 더 많은 금융 소비자들이 보다...",
+      "pubDate": "2026-10-06T02:02:00+00:00",
+      "category": "네이버페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "네이버페이, KB국민은행·KICC·이지샵과 소상공인 디지털 전환 지원",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=92719",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=92719",
+      "description": "'Npay 커넥트' 기반 디지털 인프라 지원…사업관리·금융서비스 연계 결제·사업데이터 기반 맞춤형 금융서비스 발굴 및 공동 마케팅 추진 인더뉴스 이종현 기자ㅣ네이버페이는 KB국민은행, 한국정보통신(KICC), 이지샵과...",
+      "pubDate": "2026-10-06T02:02:00+00:00",
+      "category": "네이버페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "하나은행, 네이버페이·서울신용보증재단과 서울지역 골목상권에 활기...",
+      "link": "https://www.thebigdata.co.kr/view.php?ud=202610061046431284df3c2a17b7_23",
+      "originallink": "https://www.thebigdata.co.kr/view.php?ud=202610061046431284df3c2a17b7_23",
+      "description": "하나은행(은행장 이호성)은 네이버페이(대표이사 박상진, 이하 Npay), 네이버(대표이사 최수연), 서울신용보증재단(이사장 최항도)과 「서울시 야간경제·청년창업 활성화를 위한 특별출연 업무협약」을 체결했다고...",
+      "pubDate": "2026-10-06T02:02:00+00:00",
+      "category": "네이버페이",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "네이버페이, KB국민은행·웰컴저축은행 맞손...결제·데이터로 금융영토...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=155859",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=155859",
+      "description": "/ 사진=네이버페이 제공 네이버페이가 금융기관과의 협력을 확대하며 사업 외연을 확장하고 있다. 오프라인 결제 인프라를 기반으로 한 소상공인 지원부터 비금융데이터를 활용한 대출까지 아우르며 금융...",
+      "pubDate": "2026-10-06T01:58:00+00:00",
+      "category": "네이버페이",
+      "source": "테크M"
+    },
+    {
+      "title": "\"어두운 골목상권 밝히는 55억원 햇살\"… 하나은행·네이버·Npay, 서울시...",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130662",
+      "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130662",
+      "description": "하나은행은 지난 1일 네이버페이(Npay), 네이버, 서울신용보증재단과 손잡고 서울시 야간경제, 청년 창업을 원스톱으로 지원하기 위한 '서울시 야간경제·청년창업 활성화를 위한 특별출연 업무협약'을 체결했다고 6일...",
+      "pubDate": "2026-10-06T01:56:00+00:00",
+      "category": "네이버페이",
+      "source": "스마트경제"
+    },
+    {
+      "title": "KB국민은행, 네이버페이와 소상공인 디지털 전환 지원",
+      "link": "https://n.news.naver.com/mnews/article/629/0000539575?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2373190.htm",
+      "description": "Npay 커넥트 기반 결제·사업관리·금융서비스 연계 KB국민은행이 네이버페이, 한국정보통신, 이지샵과 손잡고 소상공인 대상 디지털·금융서비스 확대에 나선다. 결제와 사업관리, 금융서비스를 연계해 소상공인의 사업...",
+      "pubDate": "2026-10-06T01:54:00+00:00",
+      "category": "네이버페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "토스 페이스페이 록페스티벌 결제 \"네 건 중 한 건 차지\"",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=752764",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=752764",
+      "description": "결제 시장에서는 앱이나 QR을 앞세운 네이버페이와 카카오페이 같은 간편결제 업체들이 이용자 확보를 다퉈 왔다. 휴대폰조차 꺼내지 않아도 되는 얼굴결제는 이들과 결제 방식 자체가 달라 차별화 카드로 꼽힌다....",
+      "pubDate": "2026-10-06T01:24:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "결제부터 금융까지… KB·네이버페이 손잡고 소상공인 지원",
+      "link": "https://n.news.naver.com/mnews/article/009/0005744329?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12169013",
+      "description": "Npay 커넥트는 현금·카드·QR·간편결제·NFC와 안면인식 결제를 지원하는 네이버페이의 오프라인 통합 단말기다. 고객은 결제 직후 매장에서 바로 네이버 리뷰를 남기고 쿠폰을 적용할 수 있다. 또한 소상공인 입장에선...",
+      "pubDate": "2026-10-06T01:23:00+00:00",
+      "category": "네이버페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "국민은행, 네이버페이·KICC와 소상공인 결제 데이터 동맹",
+      "link": "https://www.nspna.com/news/?mode=view&newsid=830608",
+      "originallink": "https://www.nspna.com/news/?mode=view&newsid=830608",
+      "description": "POS 단말기서 은행 입점…결제·정산·금융 한 번에 신한·하나은행 예금토큰·납품대금 ‘맞불’... 하반기에 사업자 통장 개설과 급여 이체 간편송금 거래대금 지급 배달비 자동충전 등을 탑재하고 내년에는 세금...",
+      "pubDate": "2026-10-06T01:20:00+00:00",
+      "category": "네이버페이",
+      "source": "NSP통신"
+    },
+    {
+      "title": "\"3만원 담고 결제는 토스로\"…다이소몰, 10월 할인 혜택",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068665",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068665",
+      "description": "아성다이소가 운영하는 다이소몰이 토스페이 결제 고객을 대상으로 할인 행사를 진행한다. 행사는 10월... 미친다\"며 \"간편결제 할인과 무료배송을 연계하는 방식은 온라인몰 이용을 유도하는 수단으로 활용되고 있다\"고...",
+      "pubDate": "2026-10-06T01:10:00+00:00",
+      "category": "토스페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "국민은행, 네이버페이·한국정보통신·이지샵과 업무협약",
+      "link": "https://n.news.naver.com/mnews/article/015/0005339440?sid=101",
+      "originallink": "https://www.hankyung.com/article/202610064827i",
+      "description": "상품 주문과 결제 등을 처리하는 판매정보시스템(POS) 기기에 금융서비스를 추가할 계획이다. POS 하나로 통장 개설, 카드 발급, 간편 송금 등을 할 수 있는 체계를 만드는 게 목표다. 국민은행 관계자는 “소상공인의 사업...",
+      "pubDate": "2026-10-06T01:03:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "11번가, 난방매트 2만원대부터…카드·간편결제 추가 할인",
+      "link": "https://n.news.naver.com/mnews/article/092/0002439877?sid=103",
+      "originallink": "https://zdnet.co.kr/view/?no=20261006091230",
+      "description": "11번가 전기요·카본매트 특가전 또한 '60분러시'와 '타임딜'을 통해 한정 특가 판매를 진행하며, 주요 카드사 3% 추가 할인과 토스페이머니 7% 할인 등 결제 혜택도 함께 제공한다. 11번가 유승범 디지털유닛장은...",
+      "pubDate": "2026-10-06T00:19:00+00:00",
+      "category": "간편결제",
+      "source": "ZDNet"
+    },
+    {
+      "title": "[금융로드] 소상공인 '원스톱 단말기' 뜬다…KB국민은행·네이버페이 손...",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=65312",
+      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=65312",
+      "description": "'Npay 커넥트'는 오프라인 매장에서 카드·간편결제 등 결제 기능은 물론, 네이버 플랫폼의 리뷰·쿠폰·주문 서비스까지 한 단말기에서 처리할 수 있도록 한 장비다. 여기에 금융 기능까지 연계해 매장 운영 전반을...",
+      "pubDate": "2026-10-05T23:58:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스로드"
+    },
+    {
+      "title": "\"두손 자유로운 페스티벌 결제\"…토스 페이스페이, 야외 축제 영토 넓힌...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=89821",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=89821",
+      "description": "금융 플랫폼과 이동통신사 등 주요 테크 기업들이 대규모 야외 행사 현장에서 생체 인증 기반 간편결제... 공간에서 결제 단계를 단축하고 이용자 접점을 넓혀 새로운 결제 생태계를 구축하려는 전략이다. 토스 운영사...",
+      "pubDate": "2026-10-05T23:14:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "[핀테크핫이슈] 금융권 덮친 해킹…보안 취약점 전방위 노출",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705017",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705017",
+      "description": "추천 카카오뱅크는 개인사업자 대출 잔액이 4조원을 넘어선 가운데 11월 대환대출 출시를 예고했다.... 네이버페이는 신용보증기금 기업DB를 연계해 스타트업의 투자유치 지원에 나섰다. ⦁ 앱스토어 닮아가는 토스...",
+      "pubDate": "2026-10-05T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "우리은행, 삼성월렛 머니 1주년 프로모션 열어…최대 7.5% 포인트 적립",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=148000",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=148000",
+      "description": "6일 우리은행에 따르면 삼성월렛 머니는 우리은행과 삼성전자가 함께 선보인 선불 충전형 간편결제 서비스다. 삼성 월렛 앱에 은행 계좌를 연결해 필요한 금액을 미리 충전한 뒤 실물 카드 없이 온오프라인...",
+      "pubDate": "2026-10-05T21:14:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "카카오페이 4000만명 정보 中 넘어가도…개보위 '국외이전 중지명령' 0건",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3051748",
+      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3051748",
+      "description": "카카오페이 이용자 약 4000만명의 개인정보가 중국 알리페이로 넘어간 대규모 국외 이전 사태에서도 개인정보보호위원회의 '국외이전 중지명령'은 발동되지 않은 것으로 나타났다. 해외로 향하는 개인정보 전송 자체를...",
+      "pubDate": "2026-10-05T19:22:00+00:00",
+      "category": "카카오페이",
+      "source": "AP신문 |  온라인뉴스미디어  에이피신문"
+    },
+    {
+      "title": "5G부터 AI·핀테크까지… IT서비스 업종에 매수세 몰렸다",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492720",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492720",
+      "description": "네이버 증권. IT서비스 업종이 2일 기술주 전반에 대한 투자 심리 회복과 실적 개선 기대감에 힘입어 상승... 간편결제 및 PG 시장 성장 기대감이 반영된 헥토파이낸셜, 다날, 핑거, KG이니시스, 카카오페이가 일제히...",
+      "pubDate": "2026-10-05T08:16:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "네이버페이·하나은행·서울신보, 골목상권 금융지원…687억원 보증",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=132866",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=132866",
+      "description": "(사진=네이버페이) 네이버페이(Npay)가 하나은행, 서울신용보증재단과 손잡고 서울지역 소상공인과 청년... 현장결제 수수료를 올해 말까지 전액 지원하는 등 소상공인 지원을 이어가고 있다. [파이낸셜신문=황병우 기자]",
+      "pubDate": "2026-10-05T07:28:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "농산물 온누리상품권 60% 종이 형태…\"간편결제 인프라 확충 필요\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009209699?sid=102",
+      "originallink": "https://www.news1.kr/local/daegu-gyeongbuk/6310222",
+      "description": "차 의원은 \"현장 여건을 외면한 일방적인 지류 축소로 상인과 소비자가 소외돼서는 안 된다\"며 \"업종별 이용 실태와 디지털 전환 장벽을 면밀히 파악하고 고령 상인 대상 1대 1 디지털 결제 교육과 간편결제 인프라...",
+      "pubDate": "2026-10-05T04:01:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스1"
+    },
+    {
+      "title": "노란우산 '친추' 하면 네이버·카카오페이 '무제한'",
+      "link": "https://n.news.naver.com/mnews/article/119/0003139471?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1697759/?sc=Naver",
+      "description": "노란우산 기존 가입자가 지인에게 노란우산을 추천하고, 추천받은 지인이 신규 가입할 경우 추천인과 신규 가입자 모두에게 디지털 페이 5만원 쿠폰(네이버페이 또는 카카오페이 중 택1)을 지급하는 프로모션이다. 이번...",
+      "pubDate": "2026-10-05T03:00:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
       "title": "토스 50만 가맹점, 물류망으로…CJ대한통운과 택배 거점 추진",
       "link": "http://www.4th.kr/news/articleView.html?idxno=2119204",
       "originallink": "http://www.4th.kr/news/articleView.html?idxno=2119204",
@@ -331,7 +700,7 @@
       "description": "네이버페이를 운영하는 네이버파이낸셜은 별도 정보보호 공시를 하지 않아 이번 비교에서는 제외했다. 결제사업을 중심으로 비교하면 카카오페이의 상대축은 비바리퍼블리카보다 토스페이먼츠에 가깝다....",
       "pubDate": "2026-10-01T22:32:00+00:00",
       "category": "카카오페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "[단독] 토스 ‘리워드광고’서 네이버 뺀다… 두 IT 기업 신경전 거세지...",
@@ -1177,7 +1546,7 @@
       "description": "카카오 일반PG·토스 PG→VAN→단말기·네이버 오프라인 확장…결제 접점 확보 경쟁 네이버페이(네이버파이낸셜)·카카오페이·토스(비바리퍼블리카)의 경쟁이 간편결제 버튼 밖으로 번지고 있다. 카카오페이가 최근 일반...",
       "pubDate": "2026-09-30T22:04:00+00:00",
       "category": "간편결제",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "다날투자파트너스, 제2서울핀테크랩과 핀테크 스타트업 지원 나선다",
@@ -2086,7 +2455,7 @@
       "description": "네이버파이낸셜과 비바리퍼블리카(토스)를 비롯해 카카오페이, 신한은행, 뱅크샐러드, 핀다 등이 포함됐다. 삼성·신한·KB국민·BC·현대·롯데·우리·하나카드 등 카드사 8곳도 이름을 올렸다. 하지만 실제 서비스는 크게...",
       "pubDate": "2026-09-28T06:12:00+00:00",
       "category": "네이버페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "섹타나인, 신임대표에 한순욱 전 카카오페이 COO 선임",
@@ -2554,7 +2923,7 @@
       "description": "토스는 먼저 보급한 단말기에 얼굴결제 서비스 ‘페이스페이’를 더해 이용을 늘리고 네이버페이는 검색·플레이스에서 시작한 소비자의 매장 이용을 결제로 연결하고 있다. 서로 다른 기반에서 출발했지만 매장의...",
       "pubDate": "2026-09-26T03:02:00+00:00",
       "category": "토스페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "네이버페이, 추석 맞이 혜택 확대…휴게소·해외 포인트 적립",
@@ -2590,7 +2959,7 @@
       "description": "②매장 관리에 쓰던 주문·결제 데이터…네이버 검색·지도서 소비자 선택 정보로 오프라인 결제 시장에서 네이버와 경쟁하는 토스가 네이버 ‘플레이스플러스’ 연동을 요구하고 있다. 매장에서 주문과 결제를 처리하는...",
       "pubDate": "2026-09-25T03:02:00+00:00",
       "category": "토스페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "네이버페이, 추석 연휴 맞아 해외 현장결제 프로모션 실시",
@@ -2608,7 +2977,7 @@
       "description": "①네이버 “리워드 문제 해결 우선”…토스 “동일한 연동 기준 적용해야” 검색 리워드 마케팅을 둘러싼... 토스 측에 따르면 오케이포스·페이히어 등 15개 POS 사업자가 연동 대상에 포함돼 있지만 토스포스는 빠져 있다....",
       "pubDate": "2026-09-24T03:02:00+00:00",
       "category": "토스페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "\"월 4만원 아끼자\"… 토스·네이버·쿠팡, 끝까지 뽑아먹는 카드는?",
@@ -6631,7 +7000,7 @@
       "description": "광주은행은 토스플레이스와 함께 토스 단말기 월 이용료 우대부터 개인사업자 전용 멤버십까지 제공하는 ‘광주은행 사장님만을 위한 웰컴 패키지’ 이벤트를 실시한다고 10일 밝혔다. 광주은행을 통해 토스 단말기를...",
       "pubDate": "2026-09-10T06:52:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "BC카드, 케이뱅크와 온라인 간편결제 전용 ‘히든카드’ 출시",
@@ -7937,97 +8306,7 @@
       "pubDate": "2026-09-06T02:55:00+00:00",
       "category": "토스페이",
       "source": "전자신문"
-    },
-    {
-      "title": "토스 퀵계좌이체 거래액 1000억 돌파",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=749984",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=749984",
-      "description": "간편결제 시장에서는 카카오페이 네이버페이 등 기존 서비스들도 계좌기반 결제 영역을 함께 넓히는 추세다. 카드 수수료 부담을 줄이려는 가맹점 수요가 늘면서 계좌이체형 결제 서비스간 경쟁도 함께 커지는 모습이다....",
-      "pubDate": "2026-09-06T02:24:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "토스 ‘퀵계좌이체’ 월 거래액 1000억원 돌파…이용자 1200만명",
-      "link": "https://n.news.naver.com/mnews/article/119/0003129520?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1686915/?sc=Naver",
-      "description": "토스 관계자는 “퀵계좌이체는 간편한 결제 경험과 가맹점의 비용 효율성을 바탕으로 이용자와 거래 규모 모두 꾸준히 성장하고 있다”며 “소비자와 가맹점 모두 편리하고 안전하게 이용할 수 있도록 서비스를 지속...",
-      "pubDate": "2026-09-06T02:12:00+00:00",
-      "category": "토스페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "토스 ‘퀵계좌이체’, 월 거래 1000억 돌파…\"1200만이 쓴다\"",
-      "link": "https://n.news.naver.com/mnews/article/029/0003046326?sid=101",
-      "originallink": "https://www.dt.co.kr/article/12082253?ref=naver",
-      "description": "토스 관계자는 \"간편한 결제 경험과 가맹점의 비용 효율성이 맞물려 이용자와 거래 규모 모두 꾸준히 성장하는 추세\"라며 \"앞으로도 소비자와 가맹점 모두가 안심하고 편리하게 이용할 수 있도록 서비스를 고도화해...",
-      "pubDate": "2026-09-06T01:56:00+00:00",
-      "category": "토스페이",
-      "source": "디지털타임스"
-    },
-    {
-      "title": "토스 퀵계좌이체 '쑥'…월 거래액 1000억 돌파",
-      "link": "https://www.ajunews.com/view/20260906104350811",
-      "originallink": "https://www.ajunews.com/view/20260906104350811",
-      "description": "누적 이용자도 1200만명…1년 4개월 만에 1.8배↑ 아주경제=김지윤 기자 yoon0930@ajunews.com 토스의 계좌 기반 간편결제 서비스가 이용 편의성과 가맹점 확대를 바탕으로 빠르게 몸집을 키우고 있다. 토스는 간편 계좌이체...",
-      "pubDate": "2026-09-06T01:56:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "토스 '퀵계좌이체' 월 거래액 1000억 돌파…이용자 1200만명",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=145532",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=145532",
-      "description": "토스의 간편 계좌이체 서비스 '퀵계좌이체' 월 거래액이 1000억원을 넘어섰다. 누적 이용자도 1200만명을... 퀵계좌이체는 오픈뱅킹을 기반으로 계좌에서 바로 결제할 수 있는 서비스다. 최초 이용 시 계좌를 등록하면...",
-      "pubDate": "2026-09-06T01:56:00+00:00",
-      "category": "토스페이",
-      "source": "직썰"
-    },
-    {
-      "title": "토스 ‘퀵계좌이체’, 월 거래액 1000억원 돌파",
-      "link": "https://n.news.naver.com/mnews/article/018/0006364363?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01354646645577496&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "토스 관계자는 “퀵계좌이체는 간편한 결제 경험과 가맹점의 비용 효율성을 바탕으로 이용자와 거래 규모 모두 꾸준히 성장하고 있다”며 “앞으로도 소비자와 가맹점 모두가 편리하고 안전하게 이용할 수 있도록...",
-      "pubDate": "2026-09-06T01:25:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "토스 '퀵계좌이체' 월 거래액 1,000억원 돌파…누적 이용자 1,200만명",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=211701",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=211701",
-      "description": "토스 관계자는 \"퀵계좌이체는 간편한 결제 경험과 가맹점의 비용 효율성을 바탕으로 이용자와 거래 규모 모두 꾸준히 성장하고 있다\"며 \"앞으로도 소비자와 가맹점 모두가 편리하고 안전하게 이용할 수 있도록 서비스를...",
-      "pubDate": "2026-09-06T01:14:00+00:00",
-      "category": "토스페이",
-      "source": "SR타임스"
-    },
-    {
-      "title": "토스 '퀵계좌이체', 월 거래액 1천억 원 돌파",
-      "link": "https://www.newspim.com/news/view/20260906000029",
-      "originallink": "https://www.newspim.com/news/view/20260906000029",
-      "description": "토스 관계자는 \"퀵계좌이체는 간편한 결제 경험과 가맹점의 비용 효율성을 바탕으로 이용자와 거래 규모 모두 꾸준히 성장하고 있다\"며 \"앞으로도 소비자와 가맹점 모두가 편리하고 안전하게 이용할 수 있도록...",
-      "pubDate": "2026-09-06T01:13:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "네이버페이, 9월 가을맞이 프로모션 진행",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=145338",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=145338",
-      "description": "네이버페이가 Npay 앱·머니카드Y 사용자를 대상으로가을맞이 프로모션을 한다. 사진=네이버페이  네이버페이(이하 Npay)가 Npay 앱·머니카드Y 사용자를 대상으로 Npay 포인트부터 편의점 쿠폰까지 다채로운 혜택을...",
-      "pubDate": "2026-09-05T19:34:00+00:00",
-      "category": "네이버페이",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "씨엔티테크 육성 '커피사피엔스', 토스페이·페이스페이 도입…스마트카...",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058733",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058733",
-      "description": "씨엔티테크의 포트폴리오사인 '커피사피엔스'가 비바리퍼블리카(토스)와 토스페이 및 '페이스페이' 활성화를... 프랜차이즈 외식업계에서는 키오스크와 테이블오더, 간편결제 등 비대면·디지털 기반 매장 운영 방식이...",
-      "pubDate": "2026-09-05T09:10:00+00:00",
-      "category": "토스페이",
-      "source": "신아일보"
     }
   ],
-  "lastFetch": "2026-10-05T01:51:15.962357+00:00"
+  "lastFetch": "2026-10-06T02:54:28.050273+00:00"
 }
