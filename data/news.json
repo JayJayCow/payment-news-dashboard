@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "간편지급 70% 핀테크 시대⋯카드사, AI쇼핑으로 새판짜기 ‘시동’",
+      "link": "https://www.viva100.com/article/20261008500910",
+      "originallink": "https://www.viva100.com/article/20261008500910",
+      "description": "네이버는 쇼핑 AI 에이전트로 상품 탐색·추천 기능을 강화하고 있고, 카카오페이는 AI 에이전트가 정해진 권한과 한도 안에서 결제하는 기술을 실증했다. AI가 상품 선택과 결제를 대신하는 ‘에이전트 커머스’...",
+      "pubDate": "2026-10-11T00:56:00+00:00",
+      "category": "간편결제",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "광주은행, 토스와 스테이블코인 QR결제 기술검증 완료",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=311511",
+      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=311511",
+      "description": "11일 광주은행에 따르면 이번 검증은 광주은행 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 가상 가맹점 환경에서 진행됐다. 고객이 광주은행 앱에서 결제하면 토스 앱 QR스캔을 거쳐 결제와 정산이 이뤄지는...",
+      "pubDate": "2026-10-10T22:00:00+00:00",
+      "category": "토스페이",
+      "source": "FETV"
+    },
+    {
+      "title": "[비즈토크<상>] \"5원 미션이 뭐길래\"…네이버·토스 2년 갈등, 국감서 맞...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000540835?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2374607.htm",
+      "description": "토스플레이스의 ‘토스포스’를 네이버의 ‘플레이스플러스’와 연결하는 문제인데요. 플레이스플러스는 매장 POS의 주문·결제 데이터를 네이버 스마트플레이스와 연동해 대표 메뉴나 혼잡 시간대 같은 정보를 네이버...",
+      "pubDate": "2026-10-10T15:01:00+00:00",
+      "category": "토스페이",
+      "source": "더팩트"
+    },
+    {
       "title": "화순군에 고향사랑 기부하면 네이버페이 2만원 쿠폰 지급",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000071983",
       "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000071983",
@@ -619,7 +646,7 @@
       "description": "네이버파이낸셜과 두나무의 합병이 내년 3월로 미뤄졌습니다.공정거래위원회의 기업결합 심사가 길어지면서 주주총회와 거래 종결 일정이 연기된 건데요.자세한 내용 윤석진기자가 전합니다.[기사내용]연말로 예정됐던...",
       "pubDate": "2026-10-07T08:54:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "네이버파이낸셜·두나무 합병 세 번째 연기...내년 3월 목표",
@@ -628,7 +655,7 @@
       "description": "네이버파이낸셜과 두나무의 합병이 내년 3월로 미뤄졌습니다.공정거래위원회의 기업결합 심사가 길어지면서 주주총회와 거래 종결 일정이 연기된 건데요.자세한 내용 윤석진기자가 전합니다.[기사내용]연말로 예정됐던...",
       "pubDate": "2026-10-07T08:54:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "또 밀린 두나무·네이버파이낸셜 주식교환… 2027년 3월로 연기",
@@ -8171,223 +8198,7 @@
       "pubDate": "2026-09-11T02:10:00+00:00",
       "category": "카카오페이",
       "source": "포인트데일리"
-    },
-    {
-      "title": "토스 '검색 미션' 후폭풍...소상공인 \"노출·매출 피해 우려\"",
-      "link": "https://hbnpress.com/news/view/1065574425204001",
-      "originallink": "https://hbnpress.com/news/view/1065574425204001",
-      "description": "토스가 이용자에게 소액 포인트를 지급하고 네이버에서 특정 상품이나 사업장을 검색하도록 한 보상형... 플레이스 검색 역시 업체와 검색어의 유사도, 인기도, 거리, 정보 충실성 등을 종합적으로 반영한다. 연합회는 이...",
-      "pubDate": "2026-09-11T01:06:00+00:00",
-      "category": "토스페이",
-      "source": "hbnpress"
-    },
-    {
-      "title": "\"한눈에 보는 투자정보\"…'Npay 증권' PC서비스 개편",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=547392",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=547392",
-      "description": "|중앙이코노미뉴스 정재혁 기자|네이버페이(Npay)는 국내·외 증시 흐름을 빠르게 파악하고, 다양한 투자 정보를 더욱 넓고 깊이 있게 탐색할 수 있도록 'Npay 증권' PC 서비스를 전면 개편했다고 11일 밝혔다. [사진...",
-      "pubDate": "2026-09-11T00:42:00+00:00",
-      "category": "네이버페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "네이버페이, 오프라인서 서울·대구·포항 지역화폐 결제 연동 확대",
-      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406824",
-      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=406824",
-      "description": "네이버페이(Npay)가 오프라인 통합 단말기 '네이버페이 커넥트'에 서울페이, 대구로페이, 포항사랑상품권 등 지역화폐 결제 연동을 확대한다고 11일 밝혔다. 이번 네이버페이 커넥트의 연동 확대로 서울, 대구, 포항...",
-      "pubDate": "2026-09-11T00:42:00+00:00",
-      "category": "네이버페이",
-      "source": "테크월드"
-    },
-    {
-      "title": "카카오페이, 도서산간 청소년 110명 초청 금융진로 캠프 개최",
-      "link": "http://www.lawissue.co.kr/view.php?ud=2026091109295490949817d053b9_12",
-      "originallink": "http://www.lawissue.co.kr/view.php?ud=2026091109295490949817d053b9_12",
-      "description": "카카오페이가 도서산간 지역 청소년을 위한 금융·진로체험 프로그램인 '사각사각 페이스쿨 주니어캠프'를 진행한다고 11일 밝혔다. 카카오페이에 따르면 지난 10일 경북 상주 청리중학교를 시작으로 4개 학교 학생과...",
-      "pubDate": "2026-09-11T00:32:00+00:00",
-      "category": "카카오페이",
-      "source": "로이슈"
-    },
-    {
-      "title": "카카오페이, 도서산간 청소년에 금융·진로체험 제공",
-      "link": "https://www.g-enews.com/view.php?ud=202609110915519731cd0bfacc1c_1",
-      "originallink": "https://www.g-enews.com/view.php?ud=202609110915519731cd0bfacc1c_1",
-      "description": "카카오페이(대표 신원근)가 금융교육과 진로체험 기회가 상대적으로 적은 도서산간 지역 청소년을 대상으로 금융·진로체험 프로그램을 진행한다. 카카오페이는 지난 10일 경북 상주 청리중학교를 시작으로 '사각사각...",
-      "pubDate": "2026-09-11T00:24:00+00:00",
-      "category": "카카오페이",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "네이버페이, 'Npay 커넥트' 지역화폐 확대…서울페이·대구로페이 등 지...",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699868",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699868",
-      "description": "네이버페이가 오프라인 통합 단말기 'Npay 커넥트'에서 서울페이와 대구로페이, 포항사랑상품권 등 지역화폐 결제를 지원한다. 네이버페이는 Npay 커넥트의 지역화폐 결제 연동을 확대한다고 11일 밝혔다. 이번에 새로...",
-      "pubDate": "2026-09-11T00:22:00+00:00",
-      "category": "네이버페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "네이버페이, 서울페이 등 지역화폐 결제 연동 확대",
-      "link": "https://n.news.naver.com/mnews/article/001/0016303980?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20260911036500017?input=1195m",
-      "description": "Npay 커넥트 가맹점서 QR 결제…영세 가맹점 수수료 지원도 네이버페이는 오프라인 결제 설루션 'Npay 커넥트'에서 서울페이와 대구로페이, 포항사랑상품권 등 지역화폐 QR 결제 연동을 확대한다고 11일 밝혔다. 이에...",
-      "pubDate": "2026-09-11T00:15:00+00:00",
-      "category": "네이버페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "네이버페이 'Npay 커넥트', 지역화폐와 결제 연동 확대",
-      "link": "https://n.news.naver.com/mnews/article/018/0006367424?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02955286645579136&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "네이버페이(Npay)가 오프라인 통합 단말기 ‘Npay 커넥트’에 지역화폐 결제 연동을 확대한다. 이번에 연동을 시작한 곳은 △서울 지역화폐 ‘서울페이’ △대구 지역화폐 ‘대구로페이’ △포항 지역화폐...",
-      "pubDate": "2026-09-11T00:08:00+00:00",
-      "category": "네이버페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "명륜진사갈비, 가을 맞이 '네이버페이 결제 프로모션' 실시",
-      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=503793",
-      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=503793",
-      "description": "㈜명륜당이 운영하는 숯불돼지갈비 프랜차이즈 명륜진사갈비가 선선한 가을 나들이철을 맞아 '네이버페이 결제 프로모션'을 9월 9일부터 10월 11일까지 진행한다. 지난 1·2차 행사에서 고객들의 큰 호응을 얻은 데...",
-      "pubDate": "2026-09-11T00:00:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스워커"
-    },
-    {
-      "title": "네이버페이 커넥트로 지역화폐 결제…서울페이·대구로페이 연동",
-      "link": "https://n.news.naver.com/mnews/article/421/0009164302?sid=105",
-      "originallink": "https://www.news1.kr/it-science/internet-platform/6287150",
-      "description": "네이버페이가 오프라인 통합 단말기 '네이버페이 커넥트'에서 서울페이·대구로페이·포항사랑상품권 등 지역화폐 결제를 지원한다고 11일 밝혔다. 이용자는 네이버페이 커넥트가 설치된 지역화폐 가맹점에서 QR코드로...",
-      "pubDate": "2026-09-10T23:55:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "공차, 네이버페이 제휴 프로모션...50% 포인트 적립",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=765342",
-      "originallink": "https://www.slist.kr/news/articleView.html?idxno=765342",
-      "description": "이어 네이버페이와는 '네이버 포인트 적립 프로모션'을 전개한다. 28~30일 공차 매장에서 Npay 포인트·머니로 5,000원 이상 결제 시 전체 금액의 50%에 대해 네이버 포인트로 즉시 적립 받을 수 있다. 행사 기간 내 횟수...",
-      "pubDate": "2026-09-10T23:52:00+00:00",
-      "category": "네이버페이",
-      "source": "싱글리스트"
-    },
-    {
-      "title": "네이버페이 커넥트 지역화폐 연동 확대한 이유는?",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=750520",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=750520",
-      "description": "네이버페이(Npay 대표이사 박상진)는 오프라인 통합 단말기 'Npay 커넥트'에 지역화폐 결제 연동을 확대한다고 11일 밝혔다. 이번에 새로 연동을 시작한 지역화폐는 서울 지역화폐 '서울페이' 대구 지역화폐 '대구로페이...",
-      "pubDate": "2026-09-10T23:46:00+00:00",
-      "category": "네이버페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "[줌인] 토스, 결제정보 유출에 소상공인 반발까지 '사면초가'",
-      "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6716",
-      "originallink": "https://www.dailybrief.co.kr/news/articleView.html?idxno=6716",
-      "description": "토스의 미션으로 인위적인 검색 트래픽이 발생하면서 네이버의 스토어·플레이스 검색 결과에 영향을 줬다는 취지인데요. 소상공인업계가 문제 삼는 지점은 토스의 출석체크 미션으로 인위적인 트래픽이 생기며 검색...",
-      "pubDate": "2026-09-10T22:53:00+00:00",
-      "category": "토스페이",
-      "source": "데일리브리프"
-    },
-    {
-      "title": "네이버플러스 멤버십, 외부 쇼핑몰서 네이버페이 결제 시 포인트 적립 ...",
-      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=763333",
-      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=763333",
-      "description": "네이버 멤버십 서비스인 '네이버플러스 멤버십'이 외부 쇼핑몰에서 네이버페이로 결제 시 제공하던 '네이버페이 포인트' 적립을 중단한다. 신규뿐 아니라 기존 가입자에게도 동일하게 적용된다. 11일 업계에 따르면...",
-      "pubDate": "2026-09-10T21:16:00+00:00",
-      "category": "네이버페이",
-      "source": "소비자가 만드는 신문"
-    },
-    {
-      "title": "우리WON모바일, 9월 한가위 이벤트…개통 고객에 네이버페이 3만원 지급",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3691572",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3691572",
-      "description": "이번 행사 기간 동안 우리WON모바일을 신규로 개통한 고객에게는 네이버페이(Npay) 3만원과 매달 5000원 상당의 멤버십 쿠폰이 웰컴 혜택으로 제공된다. 더블쿠폰요금제, 직장인요금제, 청년드림요금제, 멤버십...",
-      "pubDate": "2026-09-10T11:34:00+00:00",
-      "category": "네이버페이",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "“토스 ‘검색 미션’ 중단…골목상권 다 죽는다”소상공硏 눈물의 호소",
-      "link": "https://n.news.naver.com/mnews/article/021/0002817900?sid=101",
-      "originallink": "https://www.munhwa.com/article/11616133?ref=naver",
-      "description": "토스는 건당 5원 안팎의 소액 포인트를 미끼로 하루 수백만 건에 달하는 이용자를 동원해 네이버 스토어의 상품 태그나 플레이스의 매장 정보를 기계적으로 검색·조회하도록 유도해 왔다는 것이다. 연합회는 이로 인해...",
-      "pubDate": "2026-09-10T09:11:00+00:00",
-      "category": "토스페이",
-      "source": "문화일보"
-    },
-    {
-      "title": "[취재후일담] 3000만 이용자 토스, '검색 미션'이 던진 숙제",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260910010004083",
-      "originallink": "https://www.asiatoday.co.kr/kn/view.php?key=20260910010004083",
-      "description": "단순한 송금과 간편결제 앱이 아니라는 말입니다. 이 덕에 토스의 별도 기준 플랫폼수익은 2022년 1986억원에서 지난해 4766억원으로 2.4배 늘었습니다. 전체 매출의 71.4%가 플랫폼에서 나왔습니다. 특히 광고수익이 크게...",
-      "pubDate": "2026-09-10T08:32:00+00:00",
-      "category": "토스페이",
-      "source": "아시아투데이"
-    },
-    {
-      "title": "명륜진사갈비, 가을 나들이철 맞아 '네이버페이 결제 프로모션' 3차 진행",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=121662",
-      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=121662",
-      "description": "사진=명륜진사갈비  ㈜명륜당이 운영하는 숯불돼지갈비 프랜차이즈 명륜진사갈비가 선선한 가을 나들이철을 맞아 '네이버페이 결제 프로모션'을 9일부터 10월 11일까지 진행한다고 밝혔다. 지난 1, 2차 행사에서 고객들의...",
-      "pubDate": "2026-09-10T08:28:00+00:00",
-      "category": "네이버페이",
-      "source": "딜라이트닷넷"
-    },
-    {
-      "title": "[단독] \"토스 얼굴 결제에 당했다\"…손님 커피값 대신 낸 알바생",
-      "link": "https://n.news.naver.com/mnews/article/015/0005330963?sid=105",
-      "originallink": "https://www.hankyung.com/article/202609107020i",
-      "description": "토스가 지난해 9월 ‘페이스페이’, 네이버페이가 지난해 11월 ‘페이스사인’이라는 이름의 안면인식 결제 서비스를 내놓으며 본격 확산했다. 특히 토스는 결제 금액의 3%를 포인트로 적립해주거나 6000원, 3000원 할인 쿠폰...",
-      "pubDate": "2026-09-10T07:31:00+00:00",
-      "category": "토스페이",
-      "source": "한국경제"
-    },
-    {
-      "title": "\"사장님 부담 덜어드립니다\"…광주은행, 토스 단말기 혜택",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=922975",
-      "originallink": "https://www.namdonews.com/news/articleView.html?idxno=922975",
-      "description": "광주은행이 토스플레이스와 손잡고 개인사업자의 결제 단말기 비용 부담을 낮추고 건강·금융보안·생활안전까지 지원하는 서비스를 선보인다. 광주은행은 10일부터 개인사업자를 대상으로 '광주은행 사장님만을 위한...",
-      "pubDate": "2026-09-10T07:30:00+00:00",
-      "category": "토스페이",
-      "source": "남도일보"
-    },
-    {
-      "title": "광주은행, 토스플레이스와 ‘사장님 웰컴 패키지’ 이벤트",
-      "link": "http://www.jndn.com/article.php?aid=1789022924439390095",
-      "originallink": "http://www.jndn.com/article.php?aid=1789022924439390095",
-      "description": "광주은행은 토스플레이스와 함께 토스 단말기 월 이용료 우대부터 개인사업자 전용 멤버십까지 제공하는 ‘광주은행 사장님만을 위한 웰컴 패키지’ 이벤트를 실시한다고 10일 밝혔다. 광주은행을 통해 토스 단말기를...",
-      "pubDate": "2026-09-10T06:52:00+00:00",
-      "category": "토스페이",
-      "source": "jndn"
-    },
-    {
-      "title": "BC카드, 케이뱅크와 온라인 간편결제 전용 ‘히든카드’ 출시",
-      "link": "https://n.news.naver.com/mnews/article/082/0001397765?sid=101",
-      "originallink": "https://www.busan.com/view/busan/view.php?code=2026091015041088683",
-      "description": "네이버페이·카카오페이·쿠팡페이 등 ‘3대 간편결제’ 서비스를 이용할 때 할인 혜택을 집중 제공한다. 먼저 전월실적 40만 원 이상 고객이 온라인에서 3대 간편결제로 건당 1만 원 이상 결제하면 결제액의 6%를 할인...",
-      "pubDate": "2026-09-10T06:05:00+00:00",
-      "category": "간편결제",
-      "source": "부산일보"
-    },
-    {
-      "title": "'페이스 페이' 토스페이먼츠, 정보유출 범죄 악용 공포",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1313243&inflow=N",
-      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1313243&inflow=N",
-      "description": "김승주 고려대 정보보호대학원 교수는 \"토스페이먼츠 가맹점 정보 유출과 토스의 페이스페이는 관계없는 사안\"이라며 \"인터넷뱅킹을 위해 지문 등록을 해놓았는데 입출금 내역이나 계좌 정보가 유출됐다고 해서 지문...",
-      "pubDate": "2026-09-10T05:30:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스토마토"
-    },
-    {
-      "title": "소공연 \"토스 '출석체크 미션', 소상공인 검색 순위 왜곡\"",
-      "link": "https://n.news.naver.com/mnews/article/055/0001387311?sid=101",
-      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008746991&plink=ORI&cooper=NAVER",
-      "description": "이어 \"자금력과 대체 채널이 부족한 영세 소상공인에게 네이버 스마트스토어와 플레이스는 사실상 유일한 대고객 창구\"라며 \"토스는 제 배만 불리고 골목상인의 생계 기반을 털어 자사 성장의 밑거름으로 삼은 약탈적...",
-      "pubDate": "2026-09-10T04:59:00+00:00",
-      "category": "토스페이",
-      "source": "SBS"
     }
   ],
-  "lastFetch": "2026-10-10T02:17:14.863868+00:00"
+  "lastFetch": "2026-10-11T01:50:15.934391+00:00"
 }
