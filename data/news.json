@@ -1,6 +1,726 @@
 {
   "articles": [
     {
+      "title": "네이버페이, 제주도와 맞손...소상공인에 금융 지원",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322521",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322521",
+      "description": "사진=NH농협카드  네이버페이(Npay)가 제주 지역 소상공인에 대한 금융 지원에 나선다. 네이버페이는 제주특별자치도와 제주은행, 제주신용보증재단과 업무협약을 체결하고 제주 지역 소상공인의 금융 접근성을 높이고...",
+      "pubDate": "2026-10-16T00:56:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "네이버페이, 제주 소상공인에 75억원 특별보증 지원",
+      "link": "https://n.news.naver.com/mnews/article/001/0016380634?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261016044900017?input=1195m",
+      "description": "업체당 최대 5천만원 보증…디지털 전환도 지원 네이버페이가 제주특별자치도, 제주은행, 제주신용보증재단과 손잡고 제주 지역 소상공인을 위한 금융 지원과 디지털 전환에 나선다. 네이버페이는 16일 이들 기관과...",
+      "pubDate": "2026-10-16T00:46:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "네이버페이, 제주도와 협력···도내 75억 특별보증 공급한다",
+      "link": "https://n.news.naver.com/mnews/article/014/0005590162?sid=101",
+      "originallink": "https://www.fnnews.com/news/202610160844344907",
+      "description": "네이버페이(Npay)가 제주 지역 소상공인 금융 접근성 향상과 디지털 성장 기반 확대를 위한 협력에 나선다. 16일 업계에 따르면 네이버페이는 지난 15일 제주도청에서 제주특별자치도, 제주은행, 제주신용보증재단과...",
+      "pubDate": "2026-10-16T00:41:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "[금융레이더]KB국민은행/네이버페이",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610160916554160834",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610160916554160834",
+      "description": "◆국민행복카드 바우처를 이제 네이버페이(Npay)로, 전용관 오픈에 할인·적립 혜택까지 네이버페이(Npay)가 국민행복카드 바우처를 보다 편리하게 사용할 수 있도록 Npay 간편결제를 지원한다고 16일 밝혔다....",
+      "pubDate": "2026-10-16T00:40:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "네이버페이, 제주 소상공인에 75억원 금융지원…제주은행 등과 맞손",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280800",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=280800",
+      "description": "네이버페이가 제주특별자치도와 제주은행, 제주신용보증재단과 손잡고 지역 소상공인을 대상으로 금융지원과 디지털 전환 지원에 나선다. 총 75억원 규모의 특별보증을 공급하고 결제 인프라 구축부터 교육·마케팅까지...",
+      "pubDate": "2026-10-16T00:30:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "네이버페이, 제주 소상공인 금융 부담 완화 나선다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009231347?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6322026",
+      "description": "네이버페이가 제주 지자체·금융권과 함께 제주 소상공인 금융 부담 완화에 나선다. 75억 원 규모 특별보증을 공급하고, 자사 오프라인 통합 단말기를 통해 디지털 전환을 지원하는 게 골자다. 네이버페이는...",
+      "pubDate": "2026-10-16T00:28:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "\"잊고 있던 Npay 머니 돌려받으세요\"…네이버페이, 미사용 충전금 환급...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=322464",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=322464",
+      "description": "금융당국의 장기 미사용 선불충전금 소비자 보호 가이드라인에 맞춰 네이버페이가 장기 미사용 고객을 위한 정기 알림 및 환급 지원 체계를 도입해 소비자 권익 증진에 나선다. 네이버페이(Npay)가 장기간 미사용...",
+      "pubDate": "2026-10-16T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "네이버페이, 서울 넘어 제주로 소상공인 상생 확장…지역금융 900억 육박",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072481",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072481",
+      "description": "네이버페이가 서울에서 시작한 지역 소상공인 금융지원 모델을 제주까지 넓힌다. 올해 서울 지역 소상공인을 대상으로 두 차례 금융·보증 지원에 나선 데 이어 제주에서도 75억원 규모 특별보증을 공급하기로 했다....",
+      "pubDate": "2026-10-16T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "네이버페이, 국민행복카드 바우처 간편결제 지원…6개 카드사 모두 연동",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495832",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495832",
+      "description": "네이버페이(Npay)가 국민행복카드 바우처를 간편결제로 사용할 수 있도록 결제 서비스를 확대한다. 기저귀와 조제분유, 생리대 등 정부 지원 바우처 대상 상품을 구매할 때 국민행복카드를 Npay에 등록해 결제할 수 있게...",
+      "pubDate": "2026-10-16T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "네이버페이, 제주 소상공인에 75억원 특별보증 지원",
+      "link": "https://www.thelec.kr/news/articleView.html?idxno=63803",
+      "originallink": "https://www.thelec.kr/news/articleView.html?idxno=63803",
+      "description": "네이버페이(Npay)는 제주특별자치도, 제주은행, 제주신용보증재단과 제주 지역 소상공인의 금융 지원과 디지털 전환을 위한 업무협약을 체결했다고 밝혔다. 협약식은 지난 15일 제주도청에서 열렸다. 4개 기관은 제주...",
+      "pubDate": "2026-10-16T00:16:00+00:00",
+      "category": "네이버페이",
+      "source": "디일렉(THE ELEC)"
+    },
+    {
+      "title": "네이버페이, 75억원 규모 제주도·제주은행·신보재단과 4자 협약 체결",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=266558",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=266558",
+      "description": "네이버페이(Npay)가 제주 지역 소기업과 소상공인의 자금난 해소와 디지털 경쟁력 강화를 위해 지자체 및 지역 금융권과 손을 잡았다. 네이버페이는 제주특별자치도, 제주은행, 제주신용보증재단과 업무협약을 체결하고...",
+      "pubDate": "2026-10-16T00:16:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "네이버·카카오·토스 미사용 충전금 255억원…19일부터 환급 안내",
+      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=80685",
+      "originallink": "http://www.issuenbiz.com/news/articleView.html?idxno=80685",
+      "description": "카카오페이/사진=연합뉴스  네이버페이·카카오페이·토스에 장기간 사용하지 않고 남아 있는 충전금이 255억원에 달하는 것으로 나타났다. 오는 19일부터는 이용자에게 잔액과 환급 방법을 정기적으로 안내한다....",
+      "pubDate": "2026-10-16T00:14:00+00:00",
+      "category": "토스페이",
+      "source": "이슈앤비즈"
+    },
+    {
+      "title": "네이버페이, 제주 소상공인에 75억 규모 특별보증…디지털 결제 지원",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707622",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707622",
+      "description": "15일 제주도청에서 열린 업무협약식에서 (왼쪽부터)오광석 제주신용보증재단 이사장, 위성곤 제주특별자치도지사, 박상진 네이버페이 대표, 이희수 제주은행장이 기념사진을 촬영하고 있다. [사진: 네이버페이]...",
+      "pubDate": "2026-10-16T00:12:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "\"선불충전금, 잊지 말고 사용하세요\"...네이버·카카오·토스, 장기 미사...",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319123",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=319123",
+      "description": "네이버페이와 카카오페이, 토스 등 빅테크 3개사가 장기간 사용하지 않은 선불충전금 잔액을 이용자에게 정기적으로 안내하고 환급 절차를 간소화한다. 이용자가 충전해 놓고 잊어버린 돈을 쉽게 확인하고 돌려받을 수...",
+      "pubDate": "2026-10-16T00:04:00+00:00",
+      "category": "토스페이",
+      "source": "월요신문"
+    },
+    {
+      "title": "네이버페이, 카카오 본거지 제주에 소상공인 지원 인프라 이식",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=313261",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=313261",
+      "description": "(왼쪽부터) 오광석 제주신용보증재단 이사장, 위성곤 제주특별자치도지사, 박상진 Npay 대표, 이희수 제주은행장[ 사진=네이버페이] 네이버페이가 카카오의 본거지인 제주에서 소상공인 지원 인프라 구축에 나선다. 금융...",
+      "pubDate": "2026-10-16T00:02:00+00:00",
+      "category": "네이버페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "네이버페이, 제주 지역 소상공인 금융 접근성 높인다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006389114?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02725686645613576&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "네이버페이(Npay)가 제주 지역 소상공인의 금융 접근성을 높이고 디지털 성장 기반을 확대하기 위해 나선다. Npay는 제주특별자치도, 제주은행, 제주신용보증재단과 업무협약을 체결하고, 상호 협력한다고 16일 밝혔다....",
+      "pubDate": "2026-10-15T23:51:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "\"제주 골목상권 체질 개선\"…네이버페이, 제주도·제주은행과 소상공인...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90863",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90863",
+      "description": "네이버페이가 제주 지역 소상공인의 자금난을 해소하고 오프라인 매장의 디지털 경쟁력을 키우기 위해 지자체 및 금융권과 연합전선을 구축했다. 네이버페이는 제주특별자치도, 제주은행, 제주신용보증재단과 상생...",
+      "pubDate": "2026-10-15T23:48:00+00:00",
+      "category": "네이버페이",
+      "source": "더페어"
+    },
+    {
+      "title": "네이버페이, 제주 소상공인에 75억 자금 수혈…디지털 전환 속도낸다",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86145",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=86145",
+      "description": "네이버페이가 제주 지역 소상공인의 자금난 해소와 디지털 경쟁력 강화를 위해 팔을 걷어붙였다. 네이버페이는 16일 제주특별자치도 및 제주은행 그리고 제주신용보증재단과 손잡고 소기업과 소상공인을 위한 다각적인...",
+      "pubDate": "2026-10-15T23:44:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "\"결제 때 놓친 포인트 챙긴다\"…카카오페이, '멤버십 사후 적립' 서비스...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149012",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149012",
+      "description": "카카오페이가 '멤버십 사후 적립' 서비스를 선보였다. 사진=카카오페이  카카오페이(대표 신원근)가 결제 내역을 확인해 결제 당시 놓친 멤버십 포인트를 나중에 적립할 수 있는 '멤버십 사후 적립' 서비스를 선보인다고...",
+      "pubDate": "2026-10-15T15:28:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "카카오페이 장기 미사용 카카오페이머니 안내 강화, 버튼 한번에 환급",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101520",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101520",
+      "description": "카카오페이가 장기간 사용하지 않은 카카오페이머니 잔액과 환급 가능 정보를 이용자가 놓치지 않도록 알림 체계를 한층 강화한다. 기존에도 카카오톡 알림톡으로 잔액 유효기간 환급 정보를 안내해 왔지만, 알림톡...",
+      "pubDate": "2026-10-15T13:20:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "설빙, 네이버페이 결제 연계 50% 적립 행사 운영",
+      "link": "https://www.lawissue.co.kr/view.php?ud=202610152204076061204ead0791_12",
+      "originallink": "https://www.lawissue.co.kr/view.php?ud=202610152204076061204ead0791_12",
+      "description": "설빙이 네이버페이와 함께 15일부터 18일까지 현장 결제 프로모션을 진행한다고 밝혔다. 이번 행사는 전국 매장에서 네이버페이 포인트 또는 머니로 9,900원 이상 결제한 고객을 대상으로 결제 금액의 50%를 적립해 주는...",
+      "pubDate": "2026-10-15T13:06:00+00:00",
+      "category": "네이버페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "네이버페이, 현대차증권 계좌 송금 24~26일 일시 중단",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392846",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392846",
+      "description": "24일 오전 7시부터 47시간…시스템 작업 상황에 따라 재개 시각 변동 가능 네이버페이를 통한 현대차증권 계좌의 송금 보내기·받기 서비스가 이달 24일 오전 7시부터 26일 오전 6시까지 47시간 동안 일시 중단될 예정이다....",
+      "pubDate": "2026-10-15T12:56:00+00:00",
+      "category": "네이버페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "네이버·카카오·토스 “잊은 돈 찾아가세요”",
+      "link": "https://n.news.naver.com/mnews/article/032/0003476578?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202610152052005",
+      "description": "네이버페이·카카오페이·토스에 충전해둔 돈을 잊고 지낸 이용자에게 오는 19일부터 잔액이 있다는 알림이 간다. 알림을 받으면 그 자리에서 바로 은행 계좌로 돈을 돌려받을 수 있다. 금융위원회·금융감독원은...",
+      "pubDate": "2026-10-15T11:52:00+00:00",
+      "category": "토스페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "네이버페이·카카오페이, 장기 미사용 잔액 안내 강화…환급 편의 향상",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=133176",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=133176",
+      "description": "(이미지=네이버페이) 네이버페이(Npay)와 카카오페이가 장기간 사용하지 않은 선불충전금에 대한 안내를 강화하고 환급 편의성을 높인다. 이용자가 잊고 있던 잔액을 쉽게 확인하고 필요할 경우 현금으로 돌려받을 수...",
+      "pubDate": "2026-10-15T11:16:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "토스 6개 계열사 보안 전문가 집결…내달 6일 열리는 '가디언즈 26' 참가...",
+      "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116234",
+      "originallink": "https://www.thedailypost.kr/news/articleView.html?idxno=116234",
+      "description": "매년 개최를 이어오고 있는 '가디언즈'는 토스를 포함해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 총 6개 계열사의 보안 전문가들이 연사로 참여한다. 연사들은 AI 기반 보안관제, 제로트러스트 접근...",
+      "pubDate": "2026-10-15T10:32:00+00:00",
+      "category": "토스페이",
+      "source": "데일리포스트"
+    },
+    {
+      "title": "네이버페이·제주은행 6억 출연… 제주 소상공인에 75억 보증",
+      "link": "https://n.news.naver.com/mnews/article/014/0005590023?sid=102",
+      "originallink": "https://www.fnnews.com/news/202610151911218673",
+      "description": "제주 소상공인의 자금난을 덜기 위해 네이버페이와 제주은행이 6억원을 출연해 75억원 규모의 특별보증을 공급한다. 업체당 최대 5000만원의 보증을 지원하고 보증료 인하와 대출이자 지원도 연계한다. 15일...",
+      "pubDate": "2026-10-15T10:18:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "[ICT 종합] 네이버페이 및 스카이월드와이드 소식 외",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=61462",
+      "originallink": "https://www.gamevu.co.kr/news/articleView.html?idxno=61462",
+      "description": "■ ICT 종합 -네이버페이(Npay)가 장기간 미사용 선불충전금에 대한 사용자 안내를 주기화하고, 원하는... -카카오는 지난 13일 카카오 AI 캠퍼스에서 열린 개발자 컨퍼런스 'if(kakao)26'를 통해 이를 공개했다. 카카오...",
+      "pubDate": "2026-10-15T08:56:00+00:00",
+      "category": "네이버페이",
+      "source": "게임뷰"
+    },
+    {
+      "title": "카카오페이, 장기 미사용 카카오페이머니 안내 강화… '환급' 문구 부각",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138035",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=138035",
+      "description": "카카오페이가 사용자의 잠자는 금융 자산 환급을 돕기 위해 안내를 한층 더 강조한다. 카카오페이(대표 신원근)가 장기간 미사용 카카오페이머니 잔액과 환급 가능 정보를 사용자가 놓치지 않고 확인하도록 안내한다고...",
+      "pubDate": "2026-10-15T08:46:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "카카오페이, 알림톡 버튼에 '환급' 표기…장기 미사용 페이머니 안내 강...",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=145785",
+      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=145785",
+      "description": "카카오페이가 장기간 쓰지 않은 카카오페이머니 잔액을 이용자가 쉽게 알아차리고 돌려받을 수 있도록 알림 방식을 손본다. 기존 알림톡 버튼에 '환급'이라는 표현을 직접 넣어, 해당 잔액을 본인 계좌로 되찾을 수 있다는...",
+      "pubDate": "2026-10-15T08:36:00+00:00",
+      "category": "카카오페이",
+      "source": "투어코리아"
+    },
+    {
+      "title": "카카오페이, 장기 미사용 시 안내 강화...'환급' 문구 강조",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322497",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322497",
+      "description": "사진=카카오페이  카카오페이는 장기간 사용하지 않은 카카오페이머니 잔액과 환급 정보를 사용자가 확인할 수 있도록 안내를 강화한다고 15일 밝혔다. 기존에도 알림톡으로  잔액·유효기간·환급 정보를 전해왔으나...",
+      "pubDate": "2026-10-15T08:28:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "[금융권 이모저모]카카오페이, 미사용 머니 환급 안내 강화 外",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=118259",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=118259",
+      "description": "그래픽=카카오페이 ◇카카오페이, 1년 이상 미사용 머니 환급 안내 강화 카카오페이는 장기간 사용하지 않은 카카오페이머니의 환급 방법을 고객이 쉽게 확인할 수 있도록 안내 메시지를 개선한다고 15일 밝혔다. 이번...",
+      "pubDate": "2026-10-15T08:14:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "네이버페이·토스·카카오페이, 선불머니 장기 미사용 잔액 알림 확대",
+      "link": "https://www.news2day.co.kr/article/20261015500206",
+      "originallink": "https://www.news2day.co.kr/article/20261015500206",
+      "description": "[그림=ChatGPT] [뉴스투데이=김태규 기자] 네이버페이(Npay), 토스, 카카오페이가 15일 선불충전금 잔액을 장기간 쓰지 않은 이용자에게 잔액과 환급 방법을 알리는 절차를 각각 정비한다고 발표했다. 알림 대상이 되는...",
+      "pubDate": "2026-10-15T07:54:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "카카오페이, 장기 미사용 카카오페이머니 환급 안내 강화…19일부터 시...",
+      "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/15/2026101580159.html",
+      "originallink": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/15/2026101580159.html",
+      "description": "송정현 기자 | 카카오페이가 장기간 사용하지 않은 카카오페이머니 잔액을 이용자가 쉽게 확인하고 환급받을 수 있도록 안내 체계를 개선한다고 15일 밝혔다. 이번 개선은 기존 카카오톡 알림톡의 ‘내 계좌로 송금하기’...",
+      "pubDate": "2026-10-15T07:48:00+00:00",
+      "category": "카카오페이",
+      "source": "dizzo"
+    },
+    {
+      "title": "카카오페이 주가, 10월 15일 애프터마켓 34,150원 5.79% 하락",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16248133",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16248133",
+      "description": "15일 애프터마켓 오후 4시 39분 기준, 네이버페이 증권에 따르면 카카오페이는 현재 34,150원을 기록하며 지난 종가 36,250원 대비 2,100원(-5.79%) 하락한 가격대를 형성하고 있다. 이는 52주 최저가 33...",
+      "pubDate": "2026-10-15T07:46:00+00:00",
+      "category": "카카오페이",
+      "source": "톱스타뉴스"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털금융 소식…토스·빗썸",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202384",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202384",
+      "description": "토스와 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 참여한다. 인공지능(AI) 기반 보안관제와 위협 탐지, 제로트러스트 기반 접근 통제와 보안 정책 운영, 레드티밍과...",
+      "pubDate": "2026-10-15T07:40:00+00:00",
+      "category": "토스페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스, '잠자는 충전금' 알려준다",
+      "link": "https://n.news.naver.com/mnews/article/586/0000140014?sid=101",
+      "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=390406",
+      "description": "장기 미사용 선불충전금 정기 안내…19일부터 순차 시행 앱에서 잔액 확인하고 본인 계좌로 환급…업체별 안내 기준 달라 네이버페이와 카카오페이, 토스가 장기간 사용하지 않은 선불충전금을 이용자에게 정기적으로...",
+      "pubDate": "2026-10-15T07:24:00+00:00",
+      "category": "네이버페이",
+      "source": "시사저널"
+    },
+    {
+      "title": "카카오페이, 장기 미사용 머니 환급 안내 강화…알림톡에 ‘환급’ 표시",
+      "link": "https://www.g-enews.com/view.php?ud=202610151459481621cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202610151459481621cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 장기간 사용하지 않은 카카오페이머니를 이용자가 쉽게 환급받을 수 있도록 안내 방식을 개선한다. 카카오톡 알림톡의 송금 버튼에 ‘환급’ 문구를 추가해 잔액을 계좌로 돌려받을 수 있다는...",
+      "pubDate": "2026-10-15T07:12:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오페이, 장기 미사용 머니 '환급' 안내 강화…19일부터 순차 적용",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=91796",
+      "originallink": "https://www.the-today.com/news/articleView.html?idxno=91796",
+      "description": "카카오페이는 장기간 사용하지 않은 카카오페이머니 잔액과 환급 가능 여부를 이용자가 쉽게 확인할 수 있도록 안내 체계를 강화한다고 15일 밝혔다. 카카오페이는 1년 이상 카카오페이머니 사용 이력이 없고 잔액을 1원...",
+      "pubDate": "2026-10-15T07:10:00+00:00",
+      "category": "카카오페이",
+      "source": "더투데이"
+    },
+    {
+      "title": "삼성월렛, 중국 QR결제 진출…알리 대신 위챗페이",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1316846&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1316846&inflow=N",
+      "description": "기존 카카오·네이버페이 등 국내 대표 간편결제사들이 알리바바 앤트그룹의 글로벌 결제 중개망 '알리페이플러스(Alipay+)'를 통해 해외 결제를 처리하던 방식과 구조적인 차이가 있습니다. 삼성전자는 국내 시중은행인...",
+      "pubDate": "2026-10-15T07:02:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스토마토"
+    },
+    {
+      "title": "'Npay 커넥트' 가맹점서 얼굴결제하면 10% 적립",
+      "link": "https://n.news.naver.com/mnews/article/009/0005749126?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12176806",
+      "description": "현금, 카드, QR, 간편결제, NFC, 안면인식 결제 등 다양한 결제 수단을 지원하는 동시에 네이버 플레이스와 연계한 리뷰, 주문, 쿠폰 기능 통합을 내세웠다. 지난 6월 젠슨 황 엔비디아 최고경영자(CEO)와 국내 주요 기업...",
+      "pubDate": "2026-10-15T07:02:00+00:00",
+      "category": "네이버페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "잠자는 미사용 충전형 선불금 찾기 쉬워진다...네이버·카카오·토스, 환...",
+      "link": "https://www.livebiz.today/news/articleView.html?idxno=205628",
+      "originallink": "https://www.livebiz.today/news/articleView.html?idxno=205628",
+      "description": "네이버파이낸셜·카카오페이·비바리퍼블리카 등의 핀테크 회사들이 정기적으로 환급정보를 안내하고, 이용자들이 더 쉽게 돈을 돌려받을 수 있도록 내부 규정을 고치기로 한 것. 기존에는 선불충전금 유효기간이 10년...",
+      "pubDate": "2026-10-15T06:58:00+00:00",
+      "category": "토스페이",
+      "source": "생생비즈"
+    },
+    {
+      "title": "선불충전금 환급 안내 19일 시작…네이버·카카오·토스 대상",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=392805",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=392805",
+      "description": "금융위원회와 금융감독원은 네이버파이낸셜·카카오페이·비바리퍼블리카와 함께 페이·머니형 선불 잔액의 이용자 통지와 환급 안내를 강화한다고 15일 밝혔다. ◆ 네이버·토스 2년, 카카오 1년 미사용 기준...",
+      "pubDate": "2026-10-15T06:52:00+00:00",
+      "category": "토스페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "카카오페이, 장기 미사용 잔액 돌려받기 쉬워진다..잠자던 머니 환급 안...",
+      "link": "https://kpenews.com/View.aspx?No=4265363",
+      "originallink": "https://kpenews.com/View.aspx?No=4265363",
+      "description": "한국정경신문 이하정 기­자 sae256@hanmail.net [한국정경신문=이하정 기자] 카카오페이가 장기간 사용하지 않은 카카오페이머니의 환급 가능 여부를 이용자가 쉽게 확인할 수 있도록 안내 체계를 강화한다. 알림톡 버튼에...",
+      "pubDate": "2026-10-15T06:48:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "토스, 11월 6일 코엑스서 '가디언즈 26' 진행",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873003",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873003",
+      "description": "이번 행사에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 참여한다. 연사진은 각 사의 보안 기술과 현장 실무 경험을 세션으로 나눌 예정이다. 대표...",
+      "pubDate": "2026-10-15T06:48:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스, 잠자는 선불충전금 안내 강화",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280674",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=280674",
+      "description": "네이버페이와 카카오페이, 토스가 장기간 사용하지 않은 선불충전금에 대한 안내를 강화한다. 이용자가 잊고 있던 잔액을 확인하고 필요할 때 환급받을 수 있도록 하기 위한 조치로, 각 사는 정기 알림과 환급 절차...",
+      "pubDate": "2026-10-15T06:46:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "네이버페이, '얼굴 결제' 총공세…오프라인의 벽, 이번엔 넘을까",
+      "link": "https://n.news.naver.com/mnews/article/586/0000140004?sid=101",
+      "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=390399",
+      "description": "얼굴 결제를 먼저 선보였지만 단말기 보급과 가맹점 확보에서 토스에 뒤처졌던 네이버페이가 추격에... 얼굴 결제의 간편성과 포인트 적립 혜택을 앞세워 실제 결제액을 늘리려는 전략으로 해석된다. 이번 프로모션에...",
+      "pubDate": "2026-10-15T06:44:00+00:00",
+      "category": "네이버페이",
+      "source": "시사저널"
+    },
+    {
+      "title": "네이버·카카오·토스에 잠든 255억 원… 19일부터 정기 안내",
+      "link": "https://n.news.naver.com/mnews/article/656/0000189590?sid=101",
+      "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2307227",
+      "description": "15일 금융당국에 따르면 네이버파이낸셜·카카오페이·비바리퍼블리카(토스) 3개사는 이 같은 내용의 장기 미사용선불충전금 환급 촉진 방안을 마련, 이달 중 우선 도입한다. 19일부터 대상자에게 순차적으로 안내할...",
+      "pubDate": "2026-10-15T06:23:00+00:00",
+      "category": "토스페이",
+      "source": "대전일보"
+    },
+    {
+      "title": "[주목! e금융] KB손해보험·토스·신협·한화손보·흥국화재...\"디지털 편...",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189345",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=189345",
+      "description": "연사로는 토스와 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사 보안 전문가가 나선다. 주요 세션에서는 AI 기반 보안관제와 위협 탐지, 제로트러스트 기반 접근 통제와 보안 정책 운영...",
+      "pubDate": "2026-10-15T06:22:00+00:00",
+      "category": "토스페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "\"내 돈이 토스에 남아 있었다\"···2년 묵은 토스머니, 먼저 찾아준다",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=156545",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=156545",
+      "description": "| 스마트비즈 = 최형호 기자 | 간편결제와 송금이 일상화되면서 플랫폼에 충전해 둔 돈을 장기간 잊고 지내는... 토스 운영사 비바리퍼블리카는 금융감독원 및 주요 선불전자지급수단 사업자들과 함께 장기간 사용하지 않은...",
+      "pubDate": "2026-10-15T06:12:00+00:00",
+      "category": "토스페이",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "잠든 선불 255억원 깨운다…네이버·카카오·토스, 장기 미사용 잔액 알...",
+      "link": "https://n.news.naver.com/mnews/article/123/0002391933?sid=101",
+      "originallink": "http://www.joseilbo.com/news/news_read.php?uid=577480&class=18&grp=",
+      "description": "네이버파이낸셜·카카오페이·비바리퍼블리카(토스)가 장기간 사용하지 않은 페이·머니형 선불 잔액을 이용자에게 정기적으로 알리고 환급 절차도 안내한다. 유효기간이 길어 잔액을 보유한 사실을 잊기 쉬운 이용자의...",
+      "pubDate": "2026-10-15T05:46:00+00:00",
+      "category": "토스페이",
+      "source": "조세일보"
+    },
+    {
+      "title": "네이버·카카오·토스페이, '잠자는 충전금' 찾아준다…정기 안내 및 환...",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=301990",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=301990",
+      "description": "국내 대표 간편결제 3사인 네이버페이와 카카오페이, 토스가 장기 미사용 선불충전금에 대한 이용자 안내를 대폭 강화한다. 고객들이 깜빡 잊고 방치한 '잠자는 충전금'을 정기적으로 알려주고, 손쉽게 본인 계좌로...",
+      "pubDate": "2026-10-15T05:38:00+00:00",
+      "category": "토스페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "카카오페이, 상암 하늘공원서 '노난날 리코더 대회' 개최",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=91779",
+      "originallink": "https://www.the-today.com/news/articleView.html?idxno=91779",
+      "description": "카카오페이는 오는 17일 서울 상암동 하늘공원에서 '노난날 리코더 대회'를 개최한다고 15일 밝혔다. 이번 행사는 오는 19일 시작하는 '2026 카카오페이 노난날'을 앞두고 마련한 오프라인 이벤트다. 코미디언 겸 크리에이터...",
+      "pubDate": "2026-10-15T05:36:00+00:00",
+      "category": "카카오페이",
+      "source": "더투데이"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스에 잠자는 돈 255억원…미사용 잔액 현금...",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000073720",
+      "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000073720",
+      "description": "금융위원회와 금융감독원은 네이버파이낸셜, 카카오페이, 비바리퍼블리카 등 빅테크 3개사와 협력해 장기 미사용 페이·머니형 선불충전금의 이용자 통지 강화 및 환급 촉진 방안을 마련했다. 이들 3개사는 이달부터...",
+      "pubDate": "2026-10-15T05:33:00+00:00",
+      "category": "네이버페이",
+      "source": "전남일보"
+    },
+    {
+      "title": "네이버가 토스 가맹점 차별했나… 공정위, ‘POS 갈등’ 사전조사",
+      "link": "https://n.news.naver.com/mnews/article/366/0001198179?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/10/15/4MZWFC7LN5D7LMGLHEJ3JRPC4Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "토스의 결제 단말기 사업 자회사인 토스플레이스는 “네이버가 2년 전부터 토스포스 이용 가맹점을 연동 대상에서 제외하는 등 차별 행위를 했고, 꾸준히 조치를 요구했으나 네이버가 거부했다”고 주장한다. 반면...",
+      "pubDate": "2026-10-15T05:31:00+00:00",
+      "category": "토스페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "네이버·카카오·토스에 잠든 255억원…19일부터 환급 안내",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=149512",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=149512",
+      "description": "금융위원회와 금융감독원은 15일 네이버파이낸셜·카카오페이·비바리퍼블리카와 함께 장기 미사용 선불충전금의 이용자 통지 및 환급 촉진 방안을 마련했다고 밝혔다. 이번 조치는 간편결제와 송금 서비스 이용이...",
+      "pubDate": "2026-10-15T05:28:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "[Fintech & Now] 토스, 2년 이상 미사용 '토스머니' 잔액 정기 안내 등",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727975",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1727975",
+      "description": "◆카카오페이, 17일 하늘공원서 '노난날 리코더 대회' 개최 카카오페이가 오는 17일 서울 상암동 하늘공원에서 '노난날 리코더 대회'를 개최한다. 이번 행사는 오는 19일 시작하는 대규모 할인 프로모션 '2026 카카오페이...",
+      "pubDate": "2026-10-15T05:20:00+00:00",
+      "category": "토스페이",
+      "source": "EBN"
+    },
+    {
+      "title": "[테크 NOW] 네이버페이ㆍ카카오",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151407455260748",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151407455260748",
+      "description": "▲네이버페이, 장기간 미사용 선불충전금 안내 강화 네이버페이(Npay)가 장기간 미사용 선불충전금에... ▲카카오, 자율 에이전트 시대 AI 윤리 원칙·이행 가이드 공개 카카오는 자율 에이전트의 확산에 대응하고자...",
+      "pubDate": "2026-10-15T05:20:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "카카오페이, 미사용 머니 환급 안내 강화",
+      "link": "https://www.newspim.com/news/view/20261015000832",
+      "originallink": "https://www.newspim.com/news/view/20261015000832",
+      "description": "카카오페이는 1년 이상 사용하지 않은 머니 잔액 환급 안내를 강화한다고 15일  밝혔다. 알림톡 버튼에 '환급' 문구를 명시해 사용자가 환급 가능 사실을 직관적으로 인지할 수 있도록 개선했다. 개선된 알림톡은 오는...",
+      "pubDate": "2026-10-15T05:15:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "\"잊고 있던 충전금 255억원 찾아가세요\" … 네이버·카카오·토스, 잔액...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500209.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500209.html",
+      "description": "금융위원회와 금융감독원은 15일 네이버파이낸셜·카카오페이·비바리퍼블리카(토스) 등 빅테크 3사와 함께 '장기 미사용 선불의 이용자 통지 및 환급 촉진 방안'을 마련했다고 밝혔다. 금융당국에 따르면 지난 8월 말...",
+      "pubDate": "2026-10-15T05:10:00+00:00",
+      "category": "토스페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "네이버페이 2년 안 쓴 선불충전금 알림 보낸다 환급까지 한 번에",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=753725",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=753725",
+      "description": "업계에서는 간편결제 서비스의 선불 잔액이 계속 불어나는 상황에서 사업자가 먼저 잔액을 알리고 환급 경로를 열어 주는 방식이 이용자 신뢰를 지키는 기본 장치로 자리 잡을 것으로 보고 있다. 카카오페이와 토스 같은...",
+      "pubDate": "2026-10-15T05:02:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 리코더 한 곡에 5만P 건다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=753721",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=753721",
+      "description": "업계에서는 간편결제 업체들이 연말 소비 시기를 앞두고 할인과 포인트 혜택을 앞세운 대형 행사를 잇따라 준비하는 만큼 카카오페이가 본행사 전에 오프라인 체험을 먼저 내놓은 점에 주목하고 있다. 네이버페이와 토스...",
+      "pubDate": "2026-10-15T04:56:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "“토스 의도적 배제” 주장에…네이버 “시장·기술 여건 고려”",
+      "link": "https://n.news.naver.com/mnews/article/029/0003053317?sid=105",
+      "originallink": "https://www.dt.co.kr/article/12089308?ref=naver",
+      "description": "네이버가 토스플레이스의 판매시점정보관리시스템(POS)을 자사 서비스 연동 대상에서 의도적으로 배제했다는 주장을 놓고 양측의 갈등이 깊어지고 있다. 토스플레이스는 ‘플레이스 플러스’와의 연동을 요청했지만...",
+      "pubDate": "2026-10-15T04:34:00+00:00",
+      "category": "토스페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "\"휴면 선불금 돌려받으세요\"…네이버·카카오·토스 176만명 대상 휴면...",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86117",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=86117",
+      "description": "해당 제도는 네이버파이낸셜과 카카오페이 그리고 비바리퍼블리카 등 대형 3사가 이달부터 우선적으로 자체 도입해 시행한다. 금감원에 따르면 올해 8월 말 기준 이들 3개사의 통지 대상자는 중복을 포함해 176만명에...",
+      "pubDate": "2026-10-15T03:30:00+00:00",
+      "category": "토스페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "네이버페이, 2년 이상 안 쓴 충전금 환급 안내 강화…19일부터 정기 알...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=156130",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=156130",
+      "description": "간편결제 서비스 이용이 일상화되면서 소비자들은 여러 플랫폼에 자금을 충전해 사용하는 경우가 많아졌다. 이 과정에서 소액의 잔액이 장기간 사용되지 않고 남아 있을 수 있다는 점도 소비자 보호 측면에서 관리할...",
+      "pubDate": "2026-10-15T03:24:00+00:00",
+      "category": "네이버페이",
+      "source": "테크M"
+    },
+    {
+      "title": "네이버·카카오·토스, 19일부터 잠자는 '충전형 선불금' 255억 주인 환급...",
+      "link": "https://n.news.naver.com/mnews/article/374/0000537978?sid=103",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000340152?division=NAVER",
+      "description": "금융위원회와 금융감독원은 15일 네이버파이낸셜·카카오페이·비바리퍼블리카(토스) 등 빅테크 3사가 이러한 내용의 제도 개선안을 오는 19일부터 우선 도입한다고 밝혔습니다. 지난 8월 말 기준 빅테크 3사의 장기...",
+      "pubDate": "2026-10-15T03:16:00+00:00",
+      "category": "토스페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "“충전해놓고 깜빡했네”…네이버·카카오·토스, 남은 돈 알려준다",
+      "link": "https://www.kukinews.com/article/view/kuk202610150053",
+      "originallink": "https://www.kukinews.com/article/view/kuk202610150053",
+      "description": "16일 금융위원회와 금융감독원에 따르면 지난 8월 말 기준 네이버파이낸셜·카카오페이·비바리퍼블리카 등 3사의 장기 미사용 선불충전금 통지 대상은 중복을 포함해 176만명이다. 이들이 보유한 잔액은 255억원으로...",
+      "pubDate": "2026-10-15T03:02:00+00:00",
+      "category": "토스페이",
+      "source": "kukinews"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스에 잠든 돈 255억원…19일부터 환급 안내",
+      "link": "https://n.news.naver.com/mnews/article/119/0003143126?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1701757/?sc=Naver",
+      "description": "금융위원회와 금융감독원은 15일 네이버파이낸셜과 카카오페이, 비바리퍼블리카 등 빅테크 3개사와 함께 장기 미사용 선불충전금에 대한 이용자 통지 및 환급 촉진 방안을 마련했다고 밝혔다. 올해 8월 말 기준 이들...",
+      "pubDate": "2026-10-15T03:02:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스, 잠자는 선불충전금 알려준다",
+      "link": "https://n.news.naver.com/mnews/article/030/0003475400?sid=101",
+      "originallink": "https://www.etnews.com/20261015000087",
+      "description": "네이버파이낸셜과 비바리퍼블리카는 2년 이상, 카카오페이는 1년 이상 미사용한 경우를 대상으로 한다. 3개사는 해당 이용자에게 잔액 보유 사실과 유효기간 등을 연 1회 이상 정기적으로 알린다. 네이버톡톡과 카카오...",
+      "pubDate": "2026-10-15T03:01:00+00:00",
+      "category": "네이버페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "네이버·카카오·토스, 잠자는 충전금 알려준다…19일부터",
+      "link": "https://n.news.naver.com/mnews/article/079/0004199092?sid=101",
+      "originallink": "https://www.nocutnews.co.kr/news/6591820?utm_source=naver&utm_medium=article&utm_campaign=20261015120059",
+      "description": "장기 미사용 페이 이용자 통지·환급 촉진 방안 마련176만명·255억원 대상 통지 받으면 앱에서 바로 환급 네이버파이낸셜·카카오페이·비바리퍼블리카(토스)가 오랫동안 쓰지 않은 선불충전금 잔액을 이용자에게...",
+      "pubDate": "2026-10-15T03:01:00+00:00",
+      "category": "토스페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "네이버·카카오·토스에 잠든 충전금 255억…19일부터 “잔액 있어요”...",
+      "link": "https://n.news.naver.com/mnews/article/032/0003476449?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202610151200041",
+      "description": "금융위원회·금융감독원은 네이버파이낸셜·카카오페이·비바리퍼블리카(토스) 3개사가 오래 쓰지 않은 선불충전금을 이용자에게 알리고 환급을 돕는 제도를 이달부터 시행한다고 15일 밝혔다. 지난 8월 말 기준으로 알림...",
+      "pubDate": "2026-10-15T03:00:00+00:00",
+      "category": "토스페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "네이버페이·카카오페이·토스에 잠든 255억원…19일부터 환급 안내",
+      "link": "https://www.etoday.co.kr/news/view/2636054",
+      "originallink": "https://www.etoday.co.kr/news/view/2636054",
+      "description": "금융위원회와 금융감독원은 네이버파이낸셜·카카오페이·비바리퍼블리카 등 빅테크 3개사와 함께 장기 미사용 선불충전금의 이용자 통지 및 환급 촉진 방안을 마련했다고 15일 밝혔다. 올해 8월 말 기준 빅테크 3개사의...",
+      "pubDate": "2026-10-15T03:00:00+00:00",
+      "category": "네이버페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "토스 \"2년 이상 잠든 선불충전금 잔액 알려준다\"",
+      "link": "https://n.news.naver.com/mnews/article/277/0005828968?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026101510051004335",
+      "description": "토스 외에도 네이버파이낸셜, 카카오페이 등 빅테크(대형 정보기술 기업) 3개사는 고객에게 장기간 쓰지 않은 선불잔액을 주기적으로 알려주는 서비스를 이달 우선 도입할 예정이다. 토스에 따르면 이번 조치는 오랜 기간...",
+      "pubDate": "2026-10-15T03:00:00+00:00",
+      "category": "토스페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "네이버·카카오·토스, 장기 미사용 선불잔액 정기 안내...간편 환급도 ...",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727942",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1727942",
+      "description": "네이버파이낸셜과 카카오페이, 비바리퍼블리카가 장기간 사용하지 않은 페이·머니형 선불잔액을 이용자에게 정기적으로 알리고 간편하게 환급할 수 있도록 제도를 개선한다. 지난 8월 말 기준 통지 대상은 중복을 포함해...",
+      "pubDate": "2026-10-15T03:00:00+00:00",
+      "category": "토스페이",
+      "source": "EBN"
+    },
+    {
+      "title": "금융당국, 네이버페이·카카오페이·토스 미사용 충전금 255억 환급 촉진",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=856555",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=856555",
+      "description": "15일 금융당국에 따르면 네이버파이낸셜·카카오페이·비바리퍼블리카와 함께 장기 미사용 페이·머니형 선불충전금의 이용자 통지 강화 및 환급 촉진 방안을 마련했다. 지난 8월 말 기준 빅테크 3곳의 장기 미사용...",
+      "pubDate": "2026-10-15T03:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "토스와의 분쟁으로 거래 막혔던 中企…1년 만에 족쇄 풀렸다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009229448?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6320953",
+      "description": "토스와 자회사 토스플레이스가 SCS프로에 총 150억 원을 투자하고 결제 단말기 사업에서 협력하는 내용이다. 텀시트에는 SCS프로가 네이버 및 계열사와 토스의 사업제휴와 동일하거나 유사한 거래를 하지 못하도록 하는...",
+      "pubDate": "2026-10-15T02:32:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "토스, 6개 계열사 보안역량 결집…내달 '가디언즈 26' 진행",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280597",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=280597",
+      "description": "가디언즈는 토스가 매년 개최하는 보안 전문 행사로, 올해는 토스와 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 참여한다. 주요 발표 주제는 ▲인공지능(AI) 기반...",
+      "pubDate": "2026-10-15T02:28:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "토스, 다음달 6일 보안 컨퍼런스 개최…AI 보안기술 공유",
+      "link": "https://n.news.naver.com/mnews/article/374/0000537933?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000340112?division=NAVER",
+      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나섭니다. 대표적으로 AI 기반 보안관제와 위협 탐지, 제로트러스트 기반의 접근 통제와...",
+      "pubDate": "2026-10-15T02:06:00+00:00",
+      "category": "토스페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "아이앤텍, e모바일 전자고지 솔루션 간편결제 기능 확대",
+      "link": "https://n.news.naver.com/mnews/article/030/0003475372?sid=101",
+      "originallink": "https://www.etnews.com/20261015000203",
+      "description": "이번 결제 서비스 확대의 핵심은 국내 카드 결제, 간편결제, 가상계좌 등 다양한 결제수단을 지원하는 것이다. 이용자는 고지 내용을 확인한 뒤 자신의 이용 환경과 선호에 맞는 결제수단을 선택할 수 있어 서비스 접근성과...",
+      "pubDate": "2026-10-15T02:05:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "토스, 6개 계열사 보안기술 공유…내달 6일 '가디언즈 26' 개최",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=137371",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=137371",
+      "description": "행사에는 토스와 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사 보안 전문가들이 연사로 참여한다. 각 계열사가 금융과 결제, 디지털 서비스 운영 과정에서 축적한 보안 기술과 대응 경험을...",
+      "pubDate": "2026-10-15T01:52:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "AI 보안 현장 경험 공유의 장... 토스, 보안 콘퍼런스 '가디언즈 26' 접수...",
+      "link": "https://www.boannews.com/news/articleView.html?idxno=146409",
+      "originallink": "https://www.boannews.com/news/articleView.html?idxno=146409",
+      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나선다. 이들은 각 사의 보안 기술과 현장에서 쌓은 경험을 발표 세션을 통해 공유할...",
+      "pubDate": "2026-10-15T01:42:00+00:00",
+      "category": "토스페이",
+      "source": "보안뉴스"
+    },
+    {
       "title": "[제2서울핀테크랩 스타트업 CEO] 도매시장에서 현금 대신 카드로 결제하...",
       "link": "https://magazine.hankyung.com/job-joy/article/202610153458d",
       "originallink": "https://magazine.hankyung.com/job-joy/article/202610153458d",
@@ -1033,7 +1753,7 @@
       "description": "LS증권은 13일 헥토파이낸셜(234340)에 대해 신규 간편현금결제 서비스 재개에 따른 수익성 회복으로 3분기 실적 개선이 기대되는 가운데 크로스보더 정산 사업 확대와 디지털자산 결제 네트워크 구축이 중장기...",
       "pubDate": "2026-10-12T23:46:00+00:00",
       "category": "간편결제",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "[모닝 리포트] \"카카오페이, 실적 쉬어가도 플랫폼 확장\"",
@@ -1321,7 +2041,7 @@
       "description": "/제공=뉴스1주병기 공정거래위원장이 네이버의 토스플레이스 판매시점정보관리시스템(POS) 연동 거부 논란과 관련해 불공정한 차별이 있는지 살펴볼 필요가 있다고 밝혔다.12일 국회 정무위원회의 공정거래위원회...",
       "pubDate": "2026-10-12T08:14:00+00:00",
       "category": "토스페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "국감 오른 토스-네이버 POS 분쟁…주병기 \"차별 여부 살펴봐야\"",
@@ -1447,7 +2167,7 @@
       "description": "같은 기간 토스플레이스의 결제 단말기 설치 가맹점은 34만9189곳으로 네이버페이의 4.2배 수준이다. 지난해 2분기 12만6283곳에서 1년 만에 2.8배로 늘었다. 후발주자인 네이버페이도 지난해 말 4215곳이었던 설치 가맹점을...",
       "pubDate": "2026-10-12T05:46:00+00:00",
       "category": "네이버페이",
-      "source": "mtn"
+      "source": "MTN NEWS"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 토스 소식…토스·타다·토스플레이스",
@@ -1762,7 +2482,7 @@
       "description": "광주은행은 은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로 연결되며, 가맹점...",
       "pubDate": "2026-10-11T07:48:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행·토스 손잡고 '디지털 결제 실험' 성공",
@@ -2212,7 +2932,7 @@
       "description": "이번 시범에서는 광주은행과 토스 앱, 그리고 토스플레이스 결제 단말을 연계해 고객이 스테이블코인만으로 결제와 송금을 간편하게 처리할 수 있는 시스템을 구현했다. 고객이 광주은행 앱에서 결제를 시작하면 토스...",
       "pubDate": "2026-10-08T00:52:00+00:00",
       "category": "토스페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "토스, 광주은행과 '스테이블코인으로 매장 결제' 검증 마쳐",
@@ -3247,7 +3967,7 @@
       "description": "/KB국민은행 KB국민은행은 지난 2일 네이버페이(Npay), 한국정보통신(KICC), 이지샵과 함께 소상공인의 디지털 전환과 지속가능한 성장을 지원하기 위한 업무협약을 체결했다고 6일 밝혔다. 이날 서울 여의도 KB국민은행...",
       "pubDate": "2026-10-06T02:20:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "하나은행•Npay, 서울 야간상권•청년창업에 신용보증 공급…687.5억 규...",
@@ -3760,7 +4480,7 @@
       "description": "내년 1월 말까지 신규가입·최초 입금 고객 자동 참여 순입금액 따라 네이버페이 3만원 또는 커피 교환권... 연금자산관리센터와 연금전문 PB를 통한 상담도 지원하며, 카카오톡 채널 'NH투자증권 연금'에서 연금 정보와...",
       "pubDate": "2026-10-02T04:56:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[플랫폼 인사이드] \"구글·카카오는 남기고 네이버만 뺀다\"…토스, '검색...",
@@ -4831,7 +5551,7 @@
       "description": "신규 단말기 설치·매출대금 입금 고객 대상…11월 30일까지 선착순 300명 BNK부산은행이 토스플레이스와 손잡고 개인사업자에게 최대 8만원의 캐시백을 제공하는 '사장님 응원 이벤트'를 오는 11월 30일까지 진행한다. 30일...",
       "pubDate": "2026-09-30T04:55:00+00:00",
       "category": "토스페이",
-      "source": "pressian"
+      "source": "프레시안"
     },
     {
       "title": "BNK부산은행, 개인사업자 토스플레이스 단말기 신규 이용 시 최대 8만원...",
@@ -5101,7 +5821,7 @@
       "description": "네이버파이낸셜은 지난해 11월 포괄적 주식교환으로 두나무를 100% 자회사로 편입하기로 했다. 네이버페이의 결제망과 두나무의 지갑·유통 기술이 결합할 경우, 스테이블코인 발행·결제로 사업을 넓힐 여지가 생긴다는...",
       "pubDate": "2026-09-29T23:28:00+00:00",
       "category": "토스페이",
-      "source": "datanews"
+      "source": "데이터뉴스"
     },
     {
       "title": "\"저신용·금융취약계층 대출 문턱 낮춘다\"…토스, 대안금융 영토 확장",
@@ -5236,7 +5956,7 @@
       "description": "사진= 한국은행 올해 상반기 모바일 기기를 이용하는 간편결제가 완벽히 자리 잡으면서, 카드 이용액 증가율이 3년 반 만에 최고치를 기록했다. 29일 한국은행이 발표한 '2026년 상반기중 국내 지급결제동향'에...",
       "pubDate": "2026-09-29T07:22:00+00:00",
       "category": "간편결제",
-      "source": "금강일보"
+      "source": "ggilbo"
     },
     {
       "title": "금감원, 금융투자 민원 86% 급증에 감독 강화…카카오페이證 720% 폭증",
@@ -5641,7 +6361,7 @@
       "description": "액센츄어에서 제조·유통·소비재·서비스 산업 담당 이사를 맡아 경영전략과 업무 프로세스 혁신 컨설팅을 수행했으며, 이후 쿠팡에서 재무기획 업무를 담당했다. 2017년 카카오페이에 합류해 경영기획팀장과...",
       "pubDate": "2026-09-28T05:48:00+00:00",
       "category": "카카오페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "상미당홀딩스 섹타나인, 카카오페이 출신 한순욱 신임 대표 선임",
@@ -6595,7 +7315,7 @@
       "description": "사진=네이버페이 던킨 도너츠가 최대 50% 할인 행사 소식을 알렸다. 22일 던킨도너츠는 오는 25일부터 26일 2일 간 네이버페이 QR 결제 시 최대 1만 원까지 50% 할인 혜택을 제공한다고 밝혔다. 이번 이벤트는 1일 1회 참여할...",
       "pubDate": "2026-09-22T10:58:00+00:00",
       "category": "네이버페이",
-      "source": "금강일보"
+      "source": "ggilbo"
     },
     {
       "title": "키움증권, 네이버페이 비상장과 손잡고 장외주식 교차거래 연다",
@@ -6919,7 +7639,7 @@
       "description": "키움증권(039490)은 이날 비상장주식 거래 플랫폼 네이버페이 비상장(Npay 비상장)과 비상장주식 교차거래 시스템 도입을 위한 업무협약을 체결했다고 22일 밝혔다.",
       "pubDate": "2026-09-22T00:46:00+00:00",
       "category": "네이버페이",
-      "source": "newsprime"
+      "source": "프라임경제"
     },
     {
       "title": "키움증권·네이버페이, 비상장주식 교차거래 도입",
@@ -8485,7 +9205,7 @@
       "description": "시진 = 쿠콘 비즈니스 데이터 플랫폼 기업 쿠콘(대표 김종현, 코스닥 294570)이 카카오페이와 서울페이를 연결해 QR 결제 인프라를 국내 결제 서비스까지 확대한다고 지난 15일 밝혔다. 이번 연동으로 카카오페이 이용자는...",
       "pubDate": "2026-09-16T13:08:00+00:00",
       "category": "카카오페이",
-      "source": "금강일보"
+      "source": "ggilbo"
     },
     {
       "title": "네이버·토스 갈등 격화… 마케팅 이어 POS 충돌",
@@ -8666,331 +9386,7 @@
       "pubDate": "2026-09-16T01:28:00+00:00",
       "category": "토스페이",
       "source": "CBC뉴스"
-    },
-    {
-      "title": "[특징주] 美 클래리티 법안 부결에 코인주↓⋯카카오페이 10% 급락",
-      "link": "https://www.etoday.co.kr/news/view/2626136",
-      "originallink": "https://www.etoday.co.kr/news/view/2626136",
-      "description": "이투데이=임하은 기자 | 미국 가상자산 제도화 법안인 '클래리티 법안(Clarity Act)'의 부결 소식에 카카오페이는 10% 급락세를 보이고 있다. 16일 한국거래소에 따르면 오전 9시 50분 기준 카카오페이는 전 거래일...",
-      "pubDate": "2026-09-16T01:08:00+00:00",
-      "category": "카카오페이",
-      "source": "이투데이"
-    },
-    {
-      "title": "카카오페이, 장 중 8%대 하락…美 가상자산 법안 표결 부결 영향",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=212568",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=212568",
-      "description": "카카오페이가 장 초반 6%대 하락하고 있다. 미국 가상자산 규제 법안의 상원 절차표결 부결로 가상자산 관련주 전반의 투자심리가 약화한 영향으로 풀이된다. 16일 한국거래소에 따르면 카카오페이는 이날 오전 9시 45분...",
-      "pubDate": "2026-09-16T00:58:00+00:00",
-      "category": "카카오페이",
-      "source": "SR타임스"
-    },
-    {
-      "title": "美클래리티법안 부결에 카카오페이 9%↓…가상자산주 일제히 급락[핫종...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009172988?sid=101",
-      "originallink": "https://www.news1.kr/finance/market-exr/6292095",
-      "description": "16일 오전 9시 46분 카카오페이(377300)는 전일 대비 9.07% 하락한 4만 1600원에 거래되고 있다. 헥토파이낸셜(234340)(-14.09%), 다날(064260)(-8.59%) 등도 급락세다. 15일(현지 시각) 미 상원에서 진행된 클래리티 법 토론 종결...",
-      "pubDate": "2026-09-16T00:56:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "네이버·토스 갈등 격화…'포인트 보상형 검색 유도' 불씨",
-      "link": "https://n.news.naver.com/mnews/article/422/0000906605?sid=105",
-      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20260916093931Y6d",
-      "description": "이런 상황에서 토스의 POS 자회사 토스플레이스는 최근 네이버가 자사 '토스포스'를 '플레이스플러스' 연동 대상에서 제외했다며 공정위 제소를 검토 중입니다. 토스 측은 \"다른 POS 사업자에 적용한 연동 기준을 공개하고...",
-      "pubDate": "2026-09-16T00:40:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스TV"
-    },
-    {
-      "title": "[특징주] 美 '클래리티법' 좌초⋯카카오페이·다날·헥토파이낸셜 급락",
-      "link": "https://n.news.naver.com/mnews/article/031/0001058782?sid=101",
-      "originallink": "http://www.inews24.com/view/2006094",
-      "description": "16일 한국거래소에 따르면 이날 오전 9시 21분 기준 카카오페이(7.87%), 다날(7.98%), 헥토파이낸셜(12.05%) 등 가상자산 관련주가 일제히 하락세를 보이고 있다. 15일(현지시간) 미국에서 클래리티법 심의 착수를 위한...",
-      "pubDate": "2026-09-16T00:35:00+00:00",
-      "category": "카카오페이",
-      "source": "아이뉴스24"
-    },
-    {
-      "title": "\"이번엔 될 줄 알았는데\"...'클래리티법' 무산에 카카오페이 '급락'[종목...",
-      "link": "https://n.news.naver.com/mnews/article/014/0005576489?sid=101",
-      "originallink": "https://www.fnnews.com/news/202609160922521691",
-      "description": "16일 유가증권시장에서 오전 9시24분 기준 카카오페이는 전일 대비 8.96% 내린 4만1650원에 거래되고 있다. 코스닥시장에서도 헥토파이낸셜(-12.93%), NHN KCP(-7.52%), 다날(-8.38%) 등이 떨어지고 있다. 미 상원은 클래리티법을...",
-      "pubDate": "2026-09-16T00:35:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "끝없는 주가 추락…카카오페이, 美 클래리티법 불발에 6%대 급락",
-      "link": "https://n.news.naver.com/mnews/article/629/0000534190?sid=101",
-      "originallink": "https://news.tf.co.kr/read/economy/2366411.htm",
-      "description": "장기 주가 부진에 코인 악재까지…기업가치 회복 부담 가중 상장 고점 24만8500원→4만원대…80% 넘게 증발 가상자산 신사업 기대감으로 주목받아온 카카오페이가 장 초반 6% 넘게 급락하고 있다. 미국 가상자산 규제...",
-      "pubDate": "2026-09-16T00:31:00+00:00",
-      "category": "카카오페이",
-      "source": "더팩트"
-    },
-    {
-      "title": "은평구, 고향사랑기부자 200명에 네이버페이 1만 포인트 지급",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3696669",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3696669",
-      "description": "행사 기간 동안 '위기브'를 통해 은평구에 고향사랑기부를 한 참여자 선착순 200명에게는 기존 세액공제와 답례품 외에 네이버페이 1만 포인트가 추가로 지급된다. 은평구는 답례품 선택의 폭을 넓히고 지역 특색을 알리기...",
-      "pubDate": "2026-09-16T00:16:00+00:00",
-      "category": "네이버페이",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "“너부터 문제” 네이버·토스 갈등 폭발",
-      "link": "https://n.news.naver.com/mnews/article/050/0000110992?sid=101",
-      "originallink": "https://magazine.hankyung.com/business/article/202609167388b",
-      "description": "토스의 POS 자회사 토스플레이스는 최근 네이버가 자사 ‘토스포스’를 ‘플레이스플러스’ 연동 대상에서 제외했다며 공정위 제소를 검토하고 있다. 플레이스플러스는 매장의 POS 주문·결제 데이터를 네이버...",
-      "pubDate": "2026-09-16T00:16:00+00:00",
-      "category": "토스페이",
-      "source": "hankyung"
-    },
-    {
-      "title": "부산 시내버스, 외국인 모바일 간편결제 도입",
-      "link": "https://n.news.naver.com/mnews/article/056/0012258209?sid=101",
-      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8664691&ref=A",
-      "description": "부산 시내버스에 오는 21일부터 모바일 기반의 '제로페이 간편 결제 서비스'가 도입됩니다. 이에 따라 외국인 관광객은 별도의 교통카드나 원화 없이 버스에 부착된 QR(큐알) 코드를 제휴 결제 앱으로 촬영한 뒤 결제할...",
-      "pubDate": "2026-09-16T00:01:00+00:00",
-      "category": "간편결제",
-      "source": "KBS 뉴스"
-    },
-    {
-      "title": "은평구, 추석 맞아 고향사랑기부 특별행사…선착순 200명 네이버페이 지...",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062705",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5062705",
-      "description": "행사 기간 '위기브'를 통해 은평구에 고향사랑기부를 한 사람 가운데 선착순 200명에게는 기존 세액공제와 답례품에 더해 '네이버페이' 1만 포인트가 추가로 제공된다. 구는 기부자들이 선택할 수 있는 답례품의 종류도...",
-      "pubDate": "2026-09-15T23:56:00+00:00",
-      "category": "네이버페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "정면충돌한 포털·금융앱 1위...네이버·토스, 보상형 마케팅에서 결제...",
-      "link": "https://www.livebiz.today/news/articleView.html?idxno=204902",
-      "originallink": "https://www.livebiz.today/news/articleView.html?idxno=204902",
-      "description": "이 같은 상황에서 토스의 POS 자회사 토스플레이스는 최근 네이버가 자사 '토스포스'를 '플레이스플러스' 연동 대상에서 제외했다며 공정위 제소를 검토하고 있다. 플레이스플러스는 매장의 POS 주문·결제 데이터를 네이버...",
-      "pubDate": "2026-09-15T23:54:00+00:00",
-      "category": "토스페이",
-      "source": "생생비즈"
-    },
-    {
-      "title": "네이버 수사 의뢰 vs 토스 공정위 제소…'검색 보상형 광고' 전면전",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=275806",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=275806",
-      "description": "토스의 결제단말기 자회사인 토스플레이스는 네이버가 매장 결제 데이터 연동 서비스 '플레이스플러스'에서 자사 단말기인 '토스포스'를 배제했다고 주장했다. 토스는 공정거래위원회 제소를 위한 준비를 마쳤다며 동일한...",
-      "pubDate": "2026-09-15T23:32:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "네이버는 경찰로, 토스는 공정위로…'검색 광고' 갈등 전면전",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000065875",
-      "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000065875",
-      "description": "플레이스플러스는 매장의 POS 주문·결제 데이터를 네이버 스마트플레이스와 연동해 대표 메뉴와 혼잡 시간대 등을 검색·지도 서비스에 보여주는 기능이다. 현재 오케이포스, 페이히어 등 15개 POS 사업자가 연동 목록에...",
-      "pubDate": "2026-09-15T22:42:00+00:00",
-      "category": "토스페이",
-      "source": "전남일보"
-    },
-    {
-      "title": "네이버와 토스의 갈등, 검색 보상형 광고 전쟁의 승자는 누구?",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=878547",
-      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=878547",
-      "description": "이와 중첩되는 문제로, 토스의 POS 자회사인 토스플레이스는 네이버가 자사의 '토스포스'를 매장 정보 서비스 연동 대상에서 제외했다며 공정거래위원회 제소를 고려 중이다. 토스는 연동 대상 선정 기준에 대해 투명성을...",
-      "pubDate": "2026-09-15T22:10:00+00:00",
-      "category": "토스페이",
-      "source": "공감신문"
-    },
-    {
-      "title": "윤호영號 카카오뱅크, '착붙'으로 간편결제·AI 구독 집중…'멤버십 50%...",
-      "link": "https://www.fntimes.com/html/view.php?ud=2026091516485446561b5a221379_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=2026091516485446561b5a221379_18",
-      "description": "'착붙' AI·구독 혜택 집중…생활 특화 차별화 착붙은 카카오페이·네이버페이·신한 SOL페이 등 간편결제와 ChatGPT·Claude 등 AI 구독을 주요 혜택 영역으로 잡았다. 네이버플러스·쿠팡 와우 같은 멤버십과 대형마트·카페...",
-      "pubDate": "2026-09-15T22:02:00+00:00",
-      "category": "간편결제",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "네이버·토스 갈등 격화…'포인트 보상형 검색 유도'가 불씨",
-      "link": "https://n.news.naver.com/mnews/article/001/0016313357?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20260915166700017?input=1195m",
-      "description": "플레이스플러스는 매장의 POS 주문·결제 데이터를 네이버 스마트플레이스와 연동해 대표 메뉴와 혼잡 시간대 등을 검색·지도 서비스에 보여주는 기능이다. 현재 오케이포스, 페이히어 등 15개 POS 사업자가 연동 목록에...",
-      "pubDate": "2026-09-15T21:30:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "소상공인 특화 신용평가 등…네이버페이, 대출 문턱 낮춰",
-      "link": "https://n.news.naver.com/mnews/article/022/0004159382?sid=101",
-      "originallink": "https://www.segye.com/newsView/20260915515851?OutUrl=naver",
-      "description": "네이버페이(Npay)가 네이버 스마트스토어 운영 실적을 신용평가에 반영하고 사업자 전용 대출과 보험 기반 상생 서비스를 선보이는 등 소상공인의 대출 문턱을 낮추고 있다. 15일 금융권에 따르면 네이버페이는 지난달...",
-      "pubDate": "2026-09-15T21:04:00+00:00",
-      "category": "네이버페이",
-      "source": "세계일보"
-    },
-    {
-      "title": "병원 수납 창구서 얼굴로 결제한다…세나클 오름차트, 네이버페이 커넥...",
-      "link": "https://byline.network/?p=9004111222620207",
-      "originallink": "https://byline.network/?p=9004111222620207",
-      "description": "디지털 헬스케어 기업 세나클은 자사 클라우드 EMR '오름차트'에 네이버의 오프라인 통합 단말기 '네이버페이(Npay) 커넥트' 연동 기능을 추가했다고 15일 밝혔다. 이번 연동으로 오름차트 사용 병원은 카드와 QR...",
-      "pubDate": "2026-09-15T13:36:00+00:00",
-      "category": "네이버페이",
-      "source": "byline"
-    },
-    {
-      "title": "카카오페이, 국내 최초 서울페이 연동…4300만 가입자 QR결제 가능",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3696200",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3696200",
-      "description": "쿠콘이 카카오페이와 서울페이를 연동해 QR 결제 인프라를 국내 결제 서비스까지 확대했다(사진=쿠콘) 카카오페이와 서울페이의 QR 결제 서비스가 연동되면서, 카카오페이 이용자는 서울페이 가맹점에서...",
-      "pubDate": "2026-09-15T09:02:00+00:00",
-      "category": "카카오페이",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "네이버파이낸셜, 두나무 편입 시 '지주 요건 vs 지분 상한' 충돌 우려",
-      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=310254",
-      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=310254",
-      "description": "네이버파이낸셜이 두나무를 자회사로 편입한 뒤 지주회사 요건까지 충족할 경우 공정거래법상 지분 보유 의무와 추진 중인 가상자산거래소 대주주 지분 제한 규제가 상충할 수 있다는 분석이 나왔다. 15일 국회...",
-      "pubDate": "2026-09-15T08:56:00+00:00",
-      "category": "네이버페이",
-      "source": "FETV"
-    },
-    {
-      "title": "AI가 나 대신 결제…카카오페이, ‘에이전틱 결제’ 기술 구현",
-      "link": "https://n.news.naver.com/mnews/article/056/0012257716?sid=105",
-      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663983&ref=A",
-      "description": "사용자를 대신해 인공지능이 직접 결제하는 기술을 카카오페이가 구현했습니다. 카카오페이는 오늘(15일) AI 에이전트가 자사 지갑과 결제 인프라에 연동해 스테이블코인으로 결제하도록 하는 기술을 구현했다고...",
-      "pubDate": "2026-09-15T08:56:00+00:00",
-      "category": "카카오페이",
-      "source": "KBS 뉴스"
-    },
-    {
-      "title": "세나클 오름차트, 네이버페이 커넥트 연동…병원서 얼굴로 결제",
-      "link": "https://n.news.naver.com/mnews/article/018/0006369898?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04664166645580448&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "디지털 헬스케어 기업 세나클은 클라우드 전자의무기록(EMR) ‘오름차트’에 네이버페이(Npay)의 오프라인 통합 결제 단말기 ‘Npay 커넥트’ 연동 기능을 추가했다고 15일 밝혔다. 이에 따라 오름차트를 사용하는...",
-      "pubDate": "2026-09-15T08:49:00+00:00",
-      "category": "네이버페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "세나클 \"클라우드 EMR 오름차트, 'Npay 커넥트' 연동\"",
-      "link": "https://www.rapportian.com/news/articleView.html?idxno=240377",
-      "originallink": "https://www.rapportian.com/news/articleView.html?idxno=240377",
-      "description": "세나클(공동대표 위의석·박찬희)은 자사 클라우드 전자의무기록(EMR) 시스템 '오름차트'에 오프라인 통합 단말기 '네이버페이(Npay) 커넥트' 연동 기능을 추가했다고 15일 밝혔다. 오름차트를 사용하는 병의원은 이번...",
-      "pubDate": "2026-09-15T08:44:00+00:00",
-      "category": "네이버페이",
-      "source": "라포르시안"
-    },
-    {
-      "title": "세나클 '오름차트', ‘네이버페이(Npay) 커넥트' 연동",
-      "link": "https://www.medigatenews.com/news/2320495672",
-      "originallink": "https://www.medigatenews.com/news/2320495672",
-      "description": "디지털헬스케어기업 세나클은 자사 클라우드 EMR '오름차트'에 오프라인 통합 단말기 '네이버페이(Npay) 커넥트' 연동 기능을 추가했다고 15일 밝혔다. 이번 연동으로 오름차트 사용 병원은 카드와 QR, 간편결제, NFC 뿐만...",
-      "pubDate": "2026-09-15T08:28:00+00:00",
-      "category": "네이버페이",
-      "source": "medigatenews"
-    },
-    {
-      "title": "부산, 외국인 버스요금 간편결제",
-      "link": "https://n.news.naver.com/mnews/article/015/0005332574?sid=102",
-      "originallink": "https://www.hankyung.com/article/2026091564201",
-      "description": "한국간편결제진흥원이 운영하는 글로벌 결제 네트워크 ‘제로페이’를 이용하는 서비스다. 별도의 앱을 설치하거나 교통카드를 구매하지 않고 평소 사용하던 제휴 결제 앱을 사용할 수 있다.",
-      "pubDate": "2026-09-15T08:17:00+00:00",
-      "category": "간편결제",
-      "source": "한국경제"
-    },
-    {
-      "title": "\"AI 에이전트가 상호 거래·정산까지\"...카카오페이 자율결제 실증 완료",
-      "link": "https://www.aitimes.com/news/articleView.html?idxno=215311",
-      "originallink": "https://www.aitimes.com/news/articleView.html?idxno=215311",
-      "description": "카카오페이(대표 신원근)가 '에이전틱 결제(Agentic Payment)'와 관련해 '구매'와 '판매' 양방향에서 기술 실증(PoC)을 완료했다고 15일 밝혔다. 에이전틱 결제는 사용자가 AI 에이전트에게 구매 권한, 결제 한도 등 정책을...",
-      "pubDate": "2026-09-15T08:12:00+00:00",
-      "category": "카카오페이",
-      "source": "AI타임스"
-    },
-    {
-      "title": "[현장] “팝업서 백화점까지”…성수에서 싹틔운 카카오페이 ‘1000일 상...",
-      "link": "https://n.news.naver.com/mnews/article/138/0002241526?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026091516071813548",
-      "description": "포스트 코로나 시기 판로 확보에 어려움을 겪는 소상공인을 돕기 위해 시작된 카카오페이의 상생 프로젝트 ‘오래오래 함께가게’가 어느덧 1000일을 지났다. 작은 팝업에서 출발한 프로젝트는 성수동 한복판에 100개...",
-      "pubDate": "2026-09-15T07:58:00+00:00",
-      "category": "카카오페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "단말기 넘어 검색·광고까지 번진 네이버와 토스의 ‘페이 전쟁’",
-      "link": "https://n.news.naver.com/mnews/article/023/0003998554?sid=105",
-      "originallink": "https://www.chosun.com/economy/tech_it/2026/09/15/EKLQKQQ5BZGOHABPAWD7ZJJNKE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "description": "수사 의뢰에 공정위 신고 맞불 16일 IT 업계에 따르면, 토스 자회사 토스플레이스는 네이버가 매장 포스(주문·결제 관리 시스템) 결제 데이터를 검색·지도 노출에 연결하는 ‘플레이스 플러스’에서 포스사 15곳 중...",
-      "pubDate": "2026-09-15T06:30:00+00:00",
-      "category": "토스페이",
-      "source": "조선일보"
-    },
-    {
-      "title": "AI에이전트가 스스로 '구매·판매'···카카오페이 에이전틱 결제 실증",
-      "link": "https://n.news.naver.com/mnews/article/018/0006369733?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03942566645580448&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "카카오페이(377300)가 구매자를 위한 기술뿐 아니라, 판매자의 수익 창출을 돕는 판매 도구로서 인공지능(AI) 에이전트를 이용한 결제 생태계의 가능성을 입증했다. 카카오페이는 ‘에이전틱 결제(Agentic Payment)’ 기술을...",
-      "pubDate": "2026-09-15T06:00:00+00:00",
-      "category": "카카오페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "쿠콘, 카카오페이·서울페이 연동… 27만 가맹점 QR 결제 지원",
-      "link": "https://n.news.naver.com/mnews/article/366/0001192489?sid=101",
-      "originallink": "https://biz.chosun.com/stock/finance/2026/09/15/G2LWR5MCKRC7BF4LBVQ5VWFTY4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "description": "비즈니스 데이터 플랫폼 기업 쿠콘은 카카오페이와 서울페이를 연결해 빠른 응답(QR·Quick Response) 결제 인프라(기반 시설)를 국내 결제 서비스까지 확대한다고 15일 밝혔다. 이번 연동으로 카카오페이 이용자는 서울페이...",
-      "pubDate": "2026-09-15T05:27:00+00:00",
-      "category": "카카오페이",
-      "source": "조선비즈"
-    },
-    {
-      "title": "성수동에 모인 100개 작은 브랜드…카카오페이 '함께가게'",
-      "link": "https://www.ajunews.com/view/20260915091840929",
-      "originallink": "https://www.ajunews.com/view/20260915091840929",
-      "description": "소상공인 제품에 향기·조경·체험 더해 1000원 이용권 수익도 성장 지원에 활용 아주경제=김윤섭 기자 angks678@ajunews.com 서울 성수동에 위치한 카카오페이 '오래오래 함께가게' 팝업스토어. [사진=김윤섭 기자] 팝업스토어...",
-      "pubDate": "2026-09-15T05:24:00+00:00",
-      "category": "카카오페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 핀테크 소식…카카오페이·NHN KCP·티머니모빌...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201579",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=201579",
-      "description": "카카오페이가 AI 에이전트 간 결제와 데이터 판매 수익화를 모두 아우르는 ‘에이전틱 결제’ 인프라 실증을 성공적으로 마쳤다. NHN KCP는 엔부스트의 ‘엔디페이’와 연동해 전국 농산물 공영 도매시장에 경매대금...",
-      "pubDate": "2026-09-15T05:14:00+00:00",
-      "category": "카카오페이",
-      "source": "thevaluenews"
-    },
-    {
-      "title": "쿠콘, 카카오페이·서울페이 연동…QR 결제 인프라 국내로 확대",
-      "link": "https://n.news.naver.com/mnews/article/021/0002818929?sid=101",
-      "originallink": "https://www.munhwa.com/article/11617179?ref=naver",
-      "description": "카카오페이 이용자, 서울페이 27만 가맹점서 결제 가능 기존 QR 인프라 활용…쿠콘, 국내 이어 아시아 시장 공략 쿠콘은 카카오페이와 서울페이의 QR 결제 연동을 완료하고 상용 서비스를 시작했다고 15일 밝혔다. 국내...",
-      "pubDate": "2026-09-15T05:12:00+00:00",
-      "category": "카카오페이",
-      "source": "문화일보"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 결합, 지주사 전환 때 법률 위반 소지 : 입법조...",
-      "link": "https://www.huffingtonpost.kr/article/260497",
-      "originallink": "https://www.huffingtonpost.kr/article/260497",
-      "description": "네이버파이낸셜이 두나무를 자회사로 편입한 뒤 지주회사 요건을 갖추게 되면 공정거래법과 금융당국이 검토 중인 가상자산거래소 대주주 지분 제한 규제가 정면으로 부딪칠 수 있다는 국회 입법조사처 분석이 나왔다....",
-      "pubDate": "2026-09-15T02:30:00+00:00",
-      "category": "네이버페이",
-      "source": "허프포스트코리아"
-    },
-    {
-      "title": "검색미션·온투업·POS 갈등까지...토스, 사업 확장 곳곳서 마찰",
-      "link": "https://hbnpress.com/news/view/1065573555619828",
-      "originallink": "https://hbnpress.com/news/view/1065573555619828",
-      "description": "머니무브·모우다·어니스트AI·에잇퍼센트·PFCT·한패스파이낸셜 등 6개사는 지난 10일 공동 입장문을 내고... 토스는 앱 이용자가 특정 상품이나 식당 등을 네이버에서 검색한 뒤 키워드나 가격 등의 정보를 입력하면...",
-      "pubDate": "2026-09-15T01:36:00+00:00",
-      "category": "토스페이",
-      "source": "hbnpress"
     }
   ],
-  "lastFetch": "2026-10-15T01:28:09.559922+00:00"
+  "lastFetch": "2026-10-16T01:15:26.062245+00:00"
 }
