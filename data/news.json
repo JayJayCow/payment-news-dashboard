@@ -1,6 +1,366 @@
 {
   "articles": [
     {
+      "title": "원스토어, 전세계 200여개 국가 간편결제 시스템 확보... 에어월렉스와...",
+      "link": "https://gamefocus.co.kr/detail.php?number=179892",
+      "originallink": "https://gamefocus.co.kr/detail.php?number=179892",
+      "description": "원스토어는 에어월렉스와의 협력으로 200여 개국에서 카드 및 카드 기반 간편결제를 지원하는 글로벌 결제 수단을 확보하고, 이를 '원스토어 글로벌'과 '원샵'에 적용할 계획이다. 전 세계 이용자는 보다 원활하고 편리한...",
+      "pubDate": "2026-10-19T00:48:00+00:00",
+      "category": "간편결제",
+      "source": "gamefocus"
+    },
+    {
+      "title": "네이버페이, 국민행복카드 바우처 간편결제 지원",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149094",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149094",
+      "description": "네이버페이가 국민행복카드 바우처를 간편하게 사용할 수 있도록 간편결제 서비스를 지원한다. 사진=네이버페이  네이버페이(이하 Npay)가 국민행복카드 바우처를 간편하게 사용할 수 있도록 간편결제 서비스를...",
+      "pubDate": "2026-10-19T00:42:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "요거트월드, 카카오페이 2천원 할인 프로모션",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=774500",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=774500",
+      "description": "디저트카페 프랜차이즈 요거트월드가 카카오페이와 손잡고 가맹점 홀 매출 활성화를 위한 할인 프로모션을 진행한다. 사진=요거트월드 이번 프로모션은 오는 31일까지 카카오페이 가맹이 완료된 요거트월드 오프라인...",
+      "pubDate": "2026-10-19T00:42:00+00:00",
+      "category": "카카오페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "네이버페이, 잠자는 선불충전금 먼저 알린다…소비자보호 '보관'에서 '환...",
+      "link": "https://sateconomy.co.kr/news/view/1065572830758248",
+      "originallink": "https://sateconomy.co.kr/news/view/1065572830758248",
+      "description": "2년 이상 미사용·1000원 이상 잔액 보유자 대상 안내 빅테크 3사 미사용 충전금 255억원…실제 환급률이 관건 ▲ 네이버페이 로고 네이버페이가 장기간 사용하지 않은 선불충전금의 잔액과 환급 방법을 이용자에게 먼저...",
+      "pubDate": "2026-10-19T00:40:00+00:00",
+      "category": "네이버페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "6억 출연으로 75억 보증…네이버페이, '커넥트'에 정책금융 얹었다",
+      "link": "https://sateconomy.co.kr/news/view/1065571970797376",
+      "originallink": "https://sateconomy.co.kr/news/view/1065571970797376",
+      "description": "네이버페이·제주은행 각 3억 특별출연…출연금의 12.5배 보증 공급 보증료 0.9%·대출이자 2.5% 보전…결제단말기 이용·예정 업체도 지원 대상 ▲15일 제주도청에서 (왼쪽부터) 오광석 제주신용보증재단 이사장, 위성곤...",
+      "pubDate": "2026-10-19T00:30:00+00:00",
+      "category": "네이버페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "삼성월렛에 위챗페이 품는다…중국 QR결제 정조준",
+      "link": "http://www.datanews.co.kr/news/article.html?no=146945",
+      "originallink": "http://www.datanews.co.kr/news/article.html?no=146945",
+      "description": "중국과 동남아시아에서 이미 널리 쓰이는 텐센트의 위챗페이 QR결제망을 삼성월렛에 연결해 갤럭시의 금융 서비스 영역을 넓히겠다는 전략이다. 삼성전자는 국내에서 마그네틱 보안 전송(MST)과 근거리무선통신(NFC)을...",
+      "pubDate": "2026-10-18T23:44:00+00:00",
+      "category": "삼성페이",
+      "source": "데이터뉴스"
+    },
+    {
+      "title": "[금융 HOT 뉴스] 잊고 있던 간편결제 잔액 찾아준다…네·카·토, 환급 안...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149126",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149126",
+      "description": "네이버페이·카카오페이·토스 등 간편결제 3사가 장기간 사용하지 않은 선불충전금 안내를 강화한다. 사진=챗GPT AI 이미지  네이버페이·카카오페이·토스(이하 네·카·토) 등 간편결제 3사가 장기간 사용하지 않은...",
+      "pubDate": "2026-10-18T23:16:00+00:00",
+      "category": "간편결제",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "[현장] “리뷰가 10배쯤 늘었어요”…제주 사장님이 말한 ‘Npay 커넥트...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003144003?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1702835/?sc=Naver",
+      "description": "18일 네이버페이에 따르면 올해 9월 제주 지역 커넥트 설치 대수는 1월보다 15배 증가했다. 소상공인·자영업자 수 대비 설치 비율도 전국 시·도 가운데 가장 높다. 관광객 비중이 높은 제주에서는 네이버에서 가게를 찾아...",
+      "pubDate": "2026-10-18T22:04:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "[더벨][뱅크샐러드 IPO] 핀테크·보험 GA 사업구조…비교기업 선정 고심",
+      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610132315165760103994",
+      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610132315165760103994",
+      "description": "데이터 서비스와 펌뱅킹·가상계좌 등 간편결제 기반을 지원하는 페이먼트 서비스를 제공하고 있다는 점에서 유사성을 보인다. 핑거 역시 디지털 금융 플랫폼과 솔루션을 제공하는 핀테크 기업으로 비교 대상으로...",
+      "pubDate": "2026-10-18T22:02:00+00:00",
+      "category": "간편결제",
+      "source": "더벨"
+    },
+    {
+      "title": "토스플레이스, 법인 설립 후 첫 대규모 공개채용…31일까지 진행",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=148808",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=148808",
+      "description": "토스플레이스가 법인 설립 이후 처음으로 전 직군 대규모 공개채용을 진행한다. 사진=토스플레이스  토스플레이스(대표 최재호)가 법인 설립 이후 처음으로 전 직군 대규모 공개채용을 한다고 밝혔다. 19일...",
+      "pubDate": "2026-10-18T20:48:00+00:00",
+      "category": "토스페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "네이버페이 “NFT는 다음 만남 이어 줘”",
+      "link": "https://n.news.naver.com/mnews/article/081/0003690090?sid=102",
+      "originallink": "https://www.seoul.co.kr/news/peoples/2026/10/19/20261019023008?wlog_tag3=naver",
+      "description": "대체불가능토큰(NFT)은 다음 만남까지 이어 줍니다.” 지난 16일 제주 서귀포시 제주월드컵경기장 인근 카페에서 만난 이미영 네이버페이(Npay) 페이인프라＆비즈 책임리더는 NFT의 가능성을 이렇게 설명했다. 경기장...",
+      "pubDate": "2026-10-18T20:04:00+00:00",
+      "category": "네이버페이",
+      "source": "서울신문"
+    },
+    {
+      "title": "카카오페이, 청년 100명과 '디지털 금융' 아이디어 해커톤 성료",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138141",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=138141",
+      "description": "카카오페이가 대학생 서포터즈와 머리를 맞대고 일상 속 금융 소외계층이 겪는 애로사항을 타파하기 위한 혁신적인 아이디어를 발굴했다. 카카오페이(대표 신원근)는 지난 17일 경기도 용인시에 위치한 카카오...",
+      "pubDate": "2026-10-18T11:18:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "암표 없는 NFT세계가 Npay 월렛에 쏙 [르포]",
+      "link": "https://n.news.naver.com/mnews/article/014/0005590763?sid=101",
+      "originallink": "https://www.fnnews.com/news/202610181823402197",
+      "description": "저마다 '네이버페이(Npay) 월렛' 화면에 나타난 QR코드로 된 티켓을 띄워놓고 있었다. 미리 알아보고 오지 않았더라도 네이버 아이디만 있다면 현장 발급이 가능했다. 네이버페이가 전국체전에서 최초 도입한...",
+      "pubDate": "2026-10-18T09:25:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "“쿠폰은 쓰면 끝나지만…” 네이버페이가 NFT로 그리는 미래",
+      "link": "https://n.news.naver.com/mnews/article/081/0003690006?sid=101",
+      "originallink": "https://www.seoul.co.kr/news/economy/2026/10/18/20261018500112?wlog_tag3=naver",
+      "description": "제107회 제주 전국체전 네이버페이 NFT 현장 르포 입장권 1만 2871건 발급…관람 인증하면 지역화폐 지급 NFT 관광증 35만건 발급…내년 결제 단말기 연동 추진 관람 기록으로 재방문 유도…지속적인 이용자 확보는 과제...",
+      "pubDate": "2026-10-18T08:38:00+00:00",
+      "category": "네이버페이",
+      "source": "서울신문"
+    },
+    {
+      "title": "카카오페이, 대학생 100명과 디지털 금융 사각지대 해법 모색",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=209814",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=209814",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이가 대학생 100명과 함께 소상공인과 디지털 금융 소외계층의 금융서비스 이용 불편을 개선하기 위한 아이디어 발굴에 나섰다. 금융교육과 소상공인 지원 현장에서 얻은 경험을...",
+      "pubDate": "2026-10-18T08:26:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "“기저귀·분유도 네이버페이로”…Npay, 국민행복카드 바우처 결제 지...",
+      "link": "https://n.news.naver.com/mnews/article/468/0001273374?sid=101",
+      "originallink": "https://www.sportsseoul.com/news/read/1642192?ref=naver",
+      "description": "네이버페이(Npay)가 국민행복카드 바우처 결제 서비스를 도입하며 정부 지원금 사용 편의성을 높이고 출산·육아 관련 혜택을 확대한다. 네이버페이는 국민행복카드의 ‘기저귀·조제분유 바우처’와 ‘여성청소년...",
+      "pubDate": "2026-10-18T07:41:00+00:00",
+      "category": "네이버페이",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "카카오페이, '디지털 금융 서포터즈'와 포용 금융 아이디어 모색",
+      "link": "https://n.news.naver.com/mnews/article/448/0000645524?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/10/18/2026101890058.html",
+      "description": "카카오페이가 청년 서포터즈를 대상으로 해커톤을 개최했다. 18일 카카오페이는 전날 경기도 용인시 카카오AI 캠퍼스에서 ‘사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤’을 진행했다고 밝혔다. 5명씩...",
+      "pubDate": "2026-10-18T07:18:00+00:00",
+      "category": "카카오페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "카카오페이, 청년 100명과 '우리 동네 금융 불편' 해결 나서",
+      "link": "https://n.news.naver.com/mnews/article/030/0003476084?sid=101",
+      "originallink": "https://www.etnews.com/20261018000076",
+      "description": "카카오페이가 청년 디지털 금융 리더 '사각사각 서포터즈' 1기 100명과 해커톤을 개최했다. 카카오페이는 지난 17일 경기도 용인시 카카오 AI캠퍼스에서 '사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤'을...",
+      "pubDate": "2026-10-18T07:08:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "디지털 금융 사각지대 해소…카카오페이, '사각사각 서포터즈' 해커톤",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=228278",
+      "originallink": "https://www.itbiznews.com/news/articleView.html?idxno=228278",
+      "description": "카카오페이가 청년 디지털 금융 리더 '사각사각 서포터즈' 1기 100명과 함께 디지털 금융 불편을 해결하기 위한 아이디어를 모색하는 해커톤을 개최했다. 사각사각 서포터즈는 디지털 금융 이용에 어려움을 겪는 이웃을...",
+      "pubDate": "2026-10-18T07:00:00+00:00",
+      "category": "카카오페이",
+      "source": "IT비즈뉴스"
+    },
+    {
+      "title": "카카오페이, 대학생 100명과 손잡고 금융 사각지대 해법 찾는다",
+      "link": "https://n.news.naver.com/mnews/article/138/0002245099?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026101815203389495",
+      "description": "카카오페이가 대학생 100명과 함께 소상공인과 지역 주민들이 겪는 디지털 금융 불편을 해결할 아이디어 발굴에 나섰다. 청년들이 현장에서 직접 경험한 문제를 바탕으로 누구나 쉽게 이용할 수 있는 금융 서비스를...",
+      "pubDate": "2026-10-18T06:21:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "[D-피플라운지] 이미영 네이버페이 책임리더, NFT를 ‘일상 속 티켓’으...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003143951?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1702788/?sc=Naver",
+      "description": "NFT 티켓은 아트 형태로 계속 아카이빙됩니다.” 이미영 네이버페이 페이인프라&비즈 책임리더는 지난 16일 제주특별자치도 서귀포시에서 데일리안과 진행한 인터뷰에서 NFT(대체불가능토큰) 티켓의 가장 큰 가치로...",
+      "pubDate": "2026-10-18T06:19:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "[인터뷰] 네이버페이 이미영 책임리더, 제주를 커넥트 연계 시험대로",
+      "link": "https://n.news.naver.com/mnews/article/293/0000091741?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=675938",
+      "description": "네이버페이(Npay)가 2027년 제주에서 대체불가능토큰(NFT) 디지털관광증을 오프라인 결제 단말기 '커넥트'와 연계하는 서비스를 추진한다. 관광객이 NFT에 담긴 쿠폰을 지역 가맹점에서 사용하고 Npay 포인트도 적립받는...",
+      "pubDate": "2026-10-18T06:15:00+00:00",
+      "category": "네이버페이",
+      "source": "블로터"
+    },
+    {
+      "title": "[르포] 결제하자 리뷰까지…제주 상권 파고든 Npay",
+      "link": "https://n.news.naver.com/mnews/article/293/0000091740?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=675937",
+      "description": "네이버페이(Npay)의 오프라인 통합 단말기 '커넥트'가 결제뿐 아니라 식당 메뉴를 보여주고 손님에게 혜택을 알리는 창구로 활용되고 있었다. 18일 금융권에 따르면 네이버페이는 제주를 중심으로 커넥트 보급을 확대하고...",
+      "pubDate": "2026-10-18T06:10:00+00:00",
+      "category": "네이버페이",
+      "source": "블로터"
+    },
+    {
+      "title": "[르포]전국체전 입장 Npay NFT로…\"종이 없으니 편해요\"",
+      "link": "https://n.news.naver.com/mnews/article/648/0000051690?sid=101",
+      "originallink": "https://news.bizwatch.co.kr/article/finance/2026/10/18/0001",
+      "description": "네이버페이의 디지털 지갑 'Npay 월렛'에 담긴 대체불가능토큰(NFT) 티켓이다. QR코드를 찍자 곧바로 입장이 확인됐다. 입구 한쪽에는 쓰이지 않은 종이 입장권이 뭉텅이로 버려져 있었다. 경기장 앞 Npay 부스에는 티켓을...",
+      "pubDate": "2026-10-18T06:10:00+00:00",
+      "category": "네이버페이",
+      "source": "bizwatch"
+    },
+    {
+      "title": "[르포] NFT로 입장해 얼굴로 결제…제주 달군 Npay 실험",
+      "link": "https://n.news.naver.com/mnews/article/293/0000091739?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=675936",
+      "description": "옆에 마련된 네이버페이(Npay) 디지털 티켓 안내소에서는 운영요원들이 티켓을 미리 발급받지 못한 관람객에게 신청 방법을 설명하고 있었다. 18일 금융권에 따르면 네이버페이는 16일 개막한 제107회 전국체육대회에...",
+      "pubDate": "2026-10-18T06:05:00+00:00",
+      "category": "네이버페이",
+      "source": "블로터"
+    },
+    {
+      "title": "[현장] “입장권 어디 갔지?” 걱정 끝…전국체전서 써본 ‘네이버페이...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003143948?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1702780/?sc=Naver",
+      "description": "종이 입장권을 꺼내 절취선을 자르는 대신 관람객들은 스마트폰 화면에 띄운 네이버페이 NFT(대체불가능토큰) 티켓을 내밀었다. 스태프가 티켓의 QR코드를 스캔하자 검표가 끝났다. 제107회 전국체육대회 개막식이 열린...",
+      "pubDate": "2026-10-18T06:02:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "“전국체전 공짜로 보고 탐나는전 1만원까지” 네이버페이 NFT 받으러 어...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002710826?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10906197?ref=naver",
+      "description": "네이버페이 직원들은 어르신들의 휴대전화 화면을 함께 들여다보며 티켓 발급을 도왔다. 낯선 디지털 입장권이었지만 직원들의 안내에 따라 어렵지 않게 발급받는 모습이었다. 제주특별자치도에서 열리는 이번 제...",
+      "pubDate": "2026-10-18T06:01:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "\"리뷰 10배 늘었다\"…제주 상인들이 체감한 Npay 커넥트 효과 [르포]",
+      "link": "https://n.news.naver.com/mnews/article/014/0005590685?sid=101",
+      "originallink": "https://www.fnnews.com/news/202610180847365313",
+      "description": "18일 네이버페이에 따르면 커넥트는 지난해 11월 정식 출시한 통합 단말기로 현금, 카드, QR, 간편결제, 안면인식(페이스사인) 등 다양한 결제 수단을 지원한다. 올해 9월 기준 제주 지역 커넥트 설치 대수는 지난 1월 대비...",
+      "pubDate": "2026-10-18T06:01:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "\"리뷰 10배 늘었어요\"…제주 소상공인 사로잡은 네이버페이 커넥트",
+      "link": "https://n.news.naver.com/mnews/article/421/0009234542?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6323416",
+      "description": "네이버페이의 오프라인 통합 단말기 네이버페이 커넥트를 도입한 제주 지역 소상공인들은 결제와 동시에 고객의 리뷰 작성을 유도할 수 있어 광고 부담이 줄었다고 입을 모았다. 결제에서 리뷰까지…제주 지역 커넥트...",
+      "pubDate": "2026-10-18T06:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "동행 찾고, 좌석 바꾸고… 네이버페이 'NFT 티켓'의 무한 가능성",
+      "link": "https://n.news.naver.com/mnews/article/008/0005427930?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/10/18/2026101800540638087",
+      "description": "\"처음 오신 분과 재방문 손님은 접근하는 방식 자체가 다르잖아요.\" 이미영 네이버페이(Npay) 페이인프라&비즈 책임리더는 지난 16일 제주에서 기자들과 만나 NFT(대체불가능토큰)와 오프라인 결제 단말기 '커넥트'를...",
+      "pubDate": "2026-10-18T06:00:00+00:00",
+      "category": "네이버페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "네이버페이, NFT로 관광·결제 잇는다…글로벌 서비스도 준비",
+      "link": "https://n.news.naver.com/mnews/article/421/0009234541?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6323388",
+      "description": "네이버페이가 내년 제주에서 대체불가토큰(NFT) 기반 디지털 관광증과 오프라인 결제 단말기를 연계해 관광객의 방문·소비 데이터를 활용한 지역 상권 활성화에 나선다. 방한 외국인 관광객이 국내에서 예약부터 교통...",
+      "pubDate": "2026-10-18T06:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "\"1만3000명이 NFT 들고 입장\"···전국체전서 엿본 Npay의 다음 수 [르포...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005590684?sid=101",
+      "originallink": "https://www.fnnews.com/news/202610180847378925",
+      "description": "저마다 '네이버페이(Npay) 월렛' 화면에 나타난 QR코드로 된 티켓을 띄워놓고 있었다. 미리 알아보고 오지 않았더라도 네이버 아이디만 있다면 현장 발급이 가능했다. 티켓 안내소엔 낯설어하는 장년층들 문의가 더러...",
+      "pubDate": "2026-10-18T06:00:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오페이, 청년 100명과 금융 사각지대 해법 찾는다",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072981",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072981",
+      "description": "카카오페이가 금융교육을 넘어 이용자가 직접 디지털 금융의 불편을 찾아 해결책을 제안하는 참여형 상생활동을 확대하고 있다. 청소년을 대상으로 금융서비스 아이디어를 발굴했던 프로그램에 이어 올해는 대학생...",
+      "pubDate": "2026-10-18T04:52:00+00:00",
+      "category": "카카오페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "[핀테크] 네이버·카카오페이 잠자는 충전금 255억…176만명 환급 강화",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616733",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=616733",
+      "description": "네이버파이낸셜, 카카오페이, 비바리퍼블리카 등 빅테크 3개 사와 함께 장기 미사용 선불충전금에 대한 정기 통지 및 환급 촉진 방안을 마련했다고 한다. 자료사진=본 기사와 무관.  금융위원회와 금융감독원은 지난 15일...",
+      "pubDate": "2026-10-18T02:56:00+00:00",
+      "category": "카카오페이",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "카카오페이, '사각사각 서포터즈' 해커톤 개최 ··· 디지털 금융 아이...",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215162",
+      "originallink": "https://www.datanet.co.kr/news/articleView.html?idxno=215162",
+      "description": "카카오페이(대표 신원근)는 청년 디지털 금융 리더 '사각사각 서포터즈' 1기 100명과 함께 일상 속 디지털 금융 불편을 해결하기 위한 아이디어를 모색하는 해커톤을 개최했다. 소상공인과 고객이 디지털 금융 서비스를 더...",
+      "pubDate": "2026-10-18T02:30:00+00:00",
+      "category": "카카오페이",
+      "source": "데이터넷"
+    },
+    {
+      "title": "카카오페이, 대학생 100명과 금융 해커톤…20개 팀 아이디어 제안",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189455",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=189455",
+      "description": "17일 카카오페이가 경기도 용인시 카카오 AI캠퍼스에서 진행한 '사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤' 현장 모습. 카카오페이가 대학생 100명과 함께 지역 내 결제·금융 이용 과정의 불편을 주제로 한...",
+      "pubDate": "2026-10-18T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "\"우리 동네 금융 불편, 우리가 해결\"…대학생들, 카카오페이 해커톤서 ...",
+      "link": "https://www.ajunews.com/view/20261018103521365",
+      "originallink": "https://www.ajunews.com/view/20261018103521365",
+      "description": "20개 팀 참여해 디지털 금융 아이디어 발굴 아주경제=김지윤 기자 yoon0930@ajunews.com 카카오페이가 대학생 100명과 함께 일상 속 디지털 금융 불편을 해소하기 위한 아이디어 발굴에 나섰다. 카카오페이는 지난 17일 경기...",
+      "pubDate": "2026-10-18T02:06:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "카카오페이가 대학생 100명에게 동네 결제 불편을 맡긴 이유는?",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=753991",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=753991",
+      "description": "토스와 네이버페이 같은 경쟁 사업자도 가맹점 기반을 넓히고 있는 가운데 가맹점주와 고객이 실제로 겪는 불편을 얼마나 빨리 풀어내느냐가 서비스 선택을 좌우할 수 있다는 분석이다. 사각사각 서포터즈는...",
+      "pubDate": "2026-10-18T02:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 청년 100명과 디지털 금융 해커톤 개최",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=215056",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=215056",
+      "description": "카카오페이가 청년들과 함께 일상생활에서 발생하는 디지털 금융 이용 불편을 개선하기 위한 아이디어 발굴에 나섰다. 소상공인과 금융 소외계층이 겪는 문제를 청년들의 현장 경험을 바탕으로 분석하고 해결 방안을...",
+      "pubDate": "2026-10-18T02:00:00+00:00",
+      "category": "카카오페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "카카오페이, 디지털 포용 금융 아이디어 모색..‘사각사각 서포터즈’ ...",
+      "link": "https://kpenews.com/View.aspx?No=4267968",
+      "originallink": "https://kpenews.com/View.aspx?No=4267968",
+      "description": "한국정경신문 최현준 기­자 raysenel@naver.com [한국정경신문=최현준 기자] 카카오페이가 금융 사각지대를 줄이기 위해 디지털 포용 금융 아이디어를 모색하는 행사를 선보였다.카카오페이는 ‘사각사각 서포터즈’ 1기와...",
+      "pubDate": "2026-10-18T01:50:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
       "title": "청년 100명과 머리 맞댄 카카오페이… 디지털 금융 사각지대 해법 모색",
       "link": "https://n.news.naver.com/mnews/article/018/0006390578?sid=105",
       "originallink": "https://www.edaily.co.kr/News/Read?newsId=01279206645614232&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
@@ -17,6 +377,15 @@
       "pubDate": "2026-10-18T00:40:00+00:00",
       "category": "카카오페이",
       "source": "서울경제TV"
+    },
+    {
+      "title": "[금융레이더] NH농협생명/카카오페이/KB리브모바일",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180906003500002",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180906003500002",
+      "description": "◆카카오페이, ‘사각사각 서포터즈’ 디지털 금융 해커톤 개최 카카오페이는 지난 17일 경기 용인시 카카오 AI캠퍼스에서 대학생 100명이 참여한 ‘사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤’을...",
+      "pubDate": "2026-10-18T00:40:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
     },
     {
       "title": "카카오페이, 청년 100명과 디지털 금융 해커톤 개최…소상공인 불편 푼...",
@@ -2482,7 +2851,7 @@
       "description": "비에이치소프트는 토스플레이스와의 전략적 제휴를 통해 선보인 인공지능(AI) 얼굴인식 출결 서비스 ‘페이스패스(FacePass)’와의 연계를 본격 추진하며, 기존의 번호 입력이나 카드 태그 방식과의 유기적 결합을 완성해...",
       "pubDate": "2026-10-12T05:28:00+00:00",
       "category": "토스페이",
-      "source": "thetracker"
+      "source": "더트래커"
     },
     {
       "title": "토스플레이스, 첫 대규모 공채…전 직군서 세 자릿수 채용",
@@ -4264,7 +4633,7 @@
       "description": "/KB국민은행 KB국민은행은 지난 2일 네이버페이(Npay), 한국정보통신(KICC), 이지샵과 함께 소상공인의 디지털 전환과 지속가능한 성장을 지원하기 위한 업무협약을 체결했다고 6일 밝혔다. 이날 서울 여의도 KB국민은행...",
       "pubDate": "2026-10-06T02:20:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "하나은행•Npay, 서울 야간상권•청년창업에 신용보증 공급…687.5억 규...",
@@ -4777,7 +5146,7 @@
       "description": "내년 1월 말까지 신규가입·최초 입금 고객 자동 참여 순입금액 따라 네이버페이 3만원 또는 커피 교환권... 연금자산관리센터와 연금전문 PB를 통한 상담도 지원하며, 카카오톡 채널 'NH투자증권 연금'에서 연금 정보와...",
       "pubDate": "2026-10-02T04:56:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "[플랫폼 인사이드] \"구글·카카오는 남기고 네이버만 뺀다\"…토스, '검색...",
@@ -8594,475 +8963,7 @@
       "pubDate": "2026-09-19T02:00:00+00:00",
       "category": "네이버페이",
       "source": "아주경제"
-    },
-    {
-      "title": "로그인 없이 카드 혜택 비교…카카오페이 '카드연구소' 오픈",
-      "link": "https://www.ajunews.com/view/20260918155902031",
-      "originallink": "https://www.ajunews.com/view/20260918155902031",
-      "description": "모바일·PC서 이용 가능 아주경제=김윤섭 기자 angks678@ajunews.com 카카오페이 카드 비교 서비스 카드연구소. [사진=카카오페이] 카카오페이가 애플리케이션(앱)에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로...",
-      "pubDate": "2026-09-19T00:02:00+00:00",
-      "category": "카카오페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "\"카드 간편비교 하세요\" 카카오페이, 개인 맞춤형 '카드연구소' 웹 오픈",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=263230",
-      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=263230",
-      "description": "카카오페이는 기존 모바일 앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장해 '카드연구소'를 정식 출시했다고 밝혔다. 이번 웹 서비스는 별도 로그인 없이도 모바일과 PC에서 접속 가능해 사용자...",
-      "pubDate": "2026-09-19T00:00:00+00:00",
-      "category": "카카오페이",
-      "source": "아시아A"
-    },
-    {
-      "title": "네카토, 3사 3색 결제시장 선점 전략…네이버 외부 가맹점·카카오페이...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202609101436285987ed56b8e1f8_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=202609101436285987ed56b8e1f8_18",
-      "description": "네이버페이·카카오페이·토스(이하 네카토)가 온라인 중심이던 결제 사업의 외연을 넓히면서 각기 다른 성장축을 키우고 있다. 네이버페이는 외부 가맹점 결제를 확대하고, 카카오페이는 생활밀착형 오프라인 결제에...",
-      "pubDate": "2026-09-18T21:02:00+00:00",
-      "category": "카카오페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "SBI저축은행, 카카오페이·KCB와 햡약…대안신용평가 기반 중·저신용자...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=146852",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=146852",
-      "description": "신원근 카카오페이 대표, 김문석 SBI저축은행 대표, 이성욱 KCB 대표가 사진 촬영을 하고 있다. 사진=SBI저축은행  SBI저축은행이 카카오페이, 코리아크레딧뷰로(이하 KCB)와 대안신용평가 기반 중·저신용자 금융 공급...",
-      "pubDate": "2026-09-18T17:18:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "네이버페이, 'Npay 부동산' 인테리어 서비스 오픈",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107504",
-      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4107504",
-      "description": "네이버페이가 부동산 빅데이터 플랫폼 아실과 손잡고 'Npay 부동산'에서 다양한 인테리어 시공 사례를 살펴보고 적합한 시공업체까지 탐색할 수 있는 인테리어 서비스를 오픈했습니다. 이번 서비스는 시공 사례와 업체를...",
-      "pubDate": "2026-09-18T10:32:00+00:00",
-      "category": "네이버페이",
-      "source": "불교방송"
-    },
-    {
-      "title": "“비번이나 얼굴·지문으로 하루 1.2조 결제”…간편결제 또 역대 최대...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002699527?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10878850?ref=naver",
-      "description": "간편지급 서비스 제공업자 중 네이버페이, 카카오페이 등 전자금융업자 이용 건수와 이용액은 작년 동기대비 각 13%, 17.5% 뛰었다. 전자금융업자 비중은 작년 상·하반기 55.1%에서 올해 상반기 55.4%로 확대됐다....",
-      "pubDate": "2026-09-18T08:46:00+00:00",
-      "category": "간편결제",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "\"오프라인 데이터 확보하라\"…네이버·토스, POS 시장 경쟁 불 붙었다",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026091816391230118",
-      "originallink": "https://www.newsway.co.kr/news/view?ud=2026091816391230118",
-      "description": "18일 정보기술(IT) 업계에 따르면 토스 자회사 토스플레이스는 네이버 '플레이스 플러스'에서 포스사 15곳 중 토스포스만 배제해왔다며 공정위에 신고하겠다고 밝혔다. 플레이스 플러스는 네이버가 매장 포스 결제...",
-      "pubDate": "2026-09-18T08:20:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스웨이"
-    },
-    {
-      "title": "올해 상반기 간편결제 역대 최대, 네이버페이·카카오페이 급성장",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=879066",
-      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=879066",
-      "description": "주요 서비스 제공업체인 네이버페이와 카카오페이의 이용 건수와 이용액은 전년 대비 각각 13.0%와 17.5% 증가한 것으로 나타났다. 전자금융업자의 시장 점유율도 소폭 상승해 55.4%를 기록했다. 휴대폰 제조사의...",
-      "pubDate": "2026-09-18T08:18:00+00:00",
-      "category": "네이버페이",
-      "source": "공감신문"
-    },
-    {
-      "title": "카카오페이 '카드연구소' 오픈…카드별 혜택 한눈에 비교",
-      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=239966",
-      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=239966",
-      "description": "카카오페이가 기존 앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로 확대해 모바일과 PC에서 로그인 없이 이용할 수 있는 '카드연구소'를 선보였다고 18일 밝혔다. 카드연구소에서는 원하는 혜택 카테고리와...",
-      "pubDate": "2026-09-18T07:44:00+00:00",
-      "category": "카카오페이",
-      "source": "이지경제"
-    },
-    {
-      "title": "결제부터 쇼핑, 광고까지...네이버 닮아가는 토스, 경쟁 접점 넓어진다",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155390",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=155390",
-      "description": "이어 토스플레이스를 통해서는 이러한 결제 단말기와 포스 등 매장 운영 설루션을 제공하며 오프라인 가맹자 이용자 확보에도 속도를 내고 있다. 이승건 토스 대표 / 사진=토스 커머스 사업도 빠르게 키우고 있다. 지난...",
-      "pubDate": "2026-09-18T07:14:00+00:00",
-      "category": "토스페이",
-      "source": "테크M"
-    },
-    {
-      "title": "카카오페이, 로그인 없이 카드 비교하는 웹 '카드연구소' 출시",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=133480",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=133480",
-      "description": "카카오페이가 앱에서 제공하던 카드 비교 기능을 웹으로 넓혀 금융상품 탐색 접근성을 높였다. 이용자는 로그인 없이 모바일과 PC에서 카드 혜택과 연회비, 발급 행사 등을 비교하고 관련 정보를 공유할 수 있다....",
-      "pubDate": "2026-09-18T06:18:00+00:00",
-      "category": "카카오페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "카카오페이, 개인 맞춤형 '카드연구소' 웹 오픈",
-      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1016512",
-      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1016512",
-      "description": "카카오페이가 앱 중심의 개인 맞춤형 카드 비교 플랫폼을 웹 환경으로 확장했다. 카카오페이는 모바일과 PC에서 별도의 로그인 절차 없이 카드를 탐색·비교할 수 있는 웹 기반 서비스 '카드연구소'를 오픈했다고 18일...",
-      "pubDate": "2026-09-18T06:12:00+00:00",
-      "category": "카카오페이",
-      "source": "CNB뉴스"
-    },
-    {
-      "title": "카카오페이, 카드 혜택 비교·발급 정보 웹으로 확대",
-      "link": "https://www.g-enews.com/view.php?ud=202609181355117431cd0bfacc1c_1",
-      "originallink": "https://www.g-enews.com/view.php?ud=202609181355117431cd0bfacc1c_1",
-      "description": "카카오페이(대표 신원근)가 개인 맞춤형 카드 비교 서비스를 웹으로 확대해 로그인 없이 카드 혜택과 발급 조건을 비교할 수 있도록 했다. 소비자가 자신의 소비 패턴과 연회비, 선호 혜택에 맞는 카드를 찾고 카드사별...",
-      "pubDate": "2026-09-18T06:06:00+00:00",
-      "category": "카카오페이",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "하루 간편결제 1.2조원 돌파…선불지급도 20%대 급증",
-      "link": "http://www.segyebiz.com/newsView/20260918508842?OutUrl=naver",
-      "originallink": "http://www.segyebiz.com/newsView/20260918508842?OutUrl=naver",
-      "description": "스마트폰 기반 간편결제 서비스가 일상 전반에 깊숙이 자리 잡으면서 올해 상반기 하루 평균 간편지급 이용액이 1조2000억원을 넘어섰다. 한국은행이 18일 발표한 ‘2026년 상반기 중 전자지급서비스 이용현황’에 따르면...",
-      "pubDate": "2026-09-18T06:02:00+00:00",
-      "category": "간편결제",
-      "source": "사장님 대출’ 넓히는 네이버·카카오페이…신용평가까지 확장"
-    },
-    {
-      "title": "“내게 맞는 카드 한눈에”…카카오페이, 웹 ‘카드연구소’ 열었다",
-      "link": "https://n.news.naver.com/mnews/article/138/0002241995?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026091810385009079",
-      "description": "카카오페이가 신용·체크카드의 혜택을 비교하고 자신에게 맞는 카드를 찾을 수 있는 서비스를 웹으로 확대했다. 별도 로그인 없이 PC와 모바일에서 카드별 혜택과 인기 순위, 카드사 이벤트 등을 확인할 수 있다....",
-      "pubDate": "2026-09-18T05:51:00+00:00",
-      "category": "카카오페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "카카오페이, 개인 맞춤형 카드 비교서비스 웹 확장 버전 카드연구소 오...",
-      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=764247",
-      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=764247",
-      "description": "카카오페이(대표 신원근)가 기존 카카오페이 앱에서 제공하던 개인 맞춤형 카드 비교서비스를 웹 버전으로 확장한 카드연구소를 정식 오픈했다. 카드연구소는 사용자가 모바일과 PC 환경에서 별도의 로그인 절차 없이...",
-      "pubDate": "2026-09-18T05:50:00+00:00",
-      "category": "카카오페이",
-      "source": "소비자가 만드는 신문"
-    },
-    {
-      "title": "간편송금 하루 평균 1.2조…시중은행 아닌 카카오·토스가 견인",
-      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=81247",
-      "originallink": "http://www.newsfc.co.kr/news/articleView.html?idxno=81247",
-      "description": "연합뉴스 네이버페이와 카카오페이 등 각종 '페이'를 이용한 간편지급 규모가 하루 평균 1조2000억원을 넘어서며 역대 최대치를 기록했다. 전자상거래 이용이 늘면서 간편지급 시장이 꾸준히 커지고 있다....",
-      "pubDate": "2026-09-18T05:20:00+00:00",
-      "category": "토스페이",
-      "source": "금융소비자뉴스"
-    },
-    {
-      "title": "카카오페이, 카드 비교 서비스 웹으로 확대…'카드연구소' 오픈",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=90354",
-      "originallink": "https://www.the-today.com/news/articleView.html?idxno=90354",
-      "description": "카카오페이가 애플리케이션에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로 확대했다. 이용자는 별도의 로그인 없이 모바일과 PC에서 카드 혜택과 발급 이벤트를 비교할 수 있다. 카카오페이는 웹 기반 카드 비교...",
-      "pubDate": "2026-09-18T05:14:00+00:00",
-      "category": "카카오페이",
-      "source": "더투데이"
-    },
-    {
-      "title": "네이버페이·카카오페이 등 간편지급 하루 1.2조…'역대 최대'",
-      "link": "https://n.news.naver.com/mnews/article/586/0000138494?sid=101",
-      "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=387735",
-      "description": "상반기 간편지급 이용액 전년보다 16.8% 증가 간편송금도 1조1728억원 '최대'…증권계좌 송금 늘어 네이버페이와 카카오페이 등 각종 '페이'를 이용한 간편지급 규모가 하루 평균 1조2000억원을 넘어서며 역대 최대치를...",
-      "pubDate": "2026-09-18T04:42:00+00:00",
-      "category": "네이버페이",
-      "source": "시사저널"
-    },
-    {
-      "title": "카카오페이 스코어, 중·저신용자와 씬파일러 맞춤 지원 본격화",
-      "link": "http://www.intn.co.kr/news/articleView.html?idxno=2053476",
-      "originallink": "http://www.intn.co.kr/news/articleView.html?idxno=2053476",
-      "description": "포용금융 확대를 위한 전략적 사업 제휴 협약식에서 (왼쪽부터) 김문석 SBI저축은행 대표, 신원근 카카오페이 대표, 이성욱 KCB 대표가 협약서를 들어보이며 기념촬영을 하고 있다. 카카오페이(대표 신원근)가 SBI저축은행...",
-      "pubDate": "2026-09-18T04:38:00+00:00",
-      "category": "카카오페이",
-      "source": "日刊 NTN(일간NTN)"
-    },
-    {
-      "title": "현대카드 8월 온라인 호감도, 직전월 대비↑...애플페이 도입후 유저 만...",
-      "link": "https://www.thebigdata.co.kr/view.php?ud=202609181248429524d0a8833aad_23",
-      "originallink": "https://www.thebigdata.co.kr/view.php?ud=202609181248429524d0a8833aad_23",
-      "description": "데이터앤리서치 관계자는 \"애플페이 도입 이후 지속된 결제 편의성과 현대카드 특유의 트렌디한 플레이트 디자인 및 앱 UI/UX에 대해 실사용자들의 만족도가 계속 높게 나타나고 있다\"면서 여름 시즌(8월)을 맞아...",
-      "pubDate": "2026-09-18T04:08:00+00:00",
-      "category": "애플페이",
-      "source": "빅데이터뉴스"
-    },
-    {
-      "title": "네이버·카카오·토스 등 각종 '페이' 日 평균 소비 1.2조 … 이용액 역...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800179.html",
-      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800179.html",
-      "description": "네이버페이와 카카오페이 등 전자금융업자의 일평균 이용금액은 6800억원으로 17.5% 증가했다. 이용 건수는 2440만건으로 13.0% 늘었다. 전체 이용금액에서 전자금융업자가 차지하는 비중은 지난해 상반기 55.1%에서...",
-      "pubDate": "2026-09-18T03:18:00+00:00",
-      "category": "토스페이",
-      "source": "뉴데일리경제"
-    },
-    {
-      "title": "상반기 간편결제·송금 일평균 2조4000억원…역대 최대 경신",
-      "link": "https://n.news.naver.com/mnews/article/277/0005818455?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026091812140750572",
-      "description": "특히 간편지급 서비스 제공업자 중 네이버페이, 카카오페이 등 전자금융업자 이용 건수와 이용액은 전년 동기 대비 각 13.0%, 17.5% 올랐다. 전자금융업자 비중은 지난해 상·하반기 55.1%에서 올해 상반기 55.4%로...",
-      "pubDate": "2026-09-18T03:14:00+00:00",
-      "category": "간편결제",
-      "source": "아시아경제"
-    },
-    {
-      "title": "카카오페이, '카드연구소' 오픈…카드 비교 서비스 웹 버전",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=146745",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=146745",
-      "description": "카카오페이가 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소'를 정식 오픈했다. 사진=카카오페이  카카오페이(대표 신원근)가 기존 카카오페이앱에서 제공하던 개인...",
-      "pubDate": "2026-09-18T03:04:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "간편송금 하루 1조 시대…시중은행 아닌 카카오·토스가 견인",
-      "link": "https://n.news.naver.com/mnews/article/018/0006371850?sid=101",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03220966645581432&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "시중은행 등 전통 금융회사가 아닌 카카오페이와 토스(비바리퍼블리카) 등이 시장 성장을 견인한 것으로 나타났다. 18일 한국은행에 따르면 올해 상반기 선불금 기반 간편송금 서비스의 일평균 이용금액은 1조...",
-      "pubDate": "2026-09-18T03:02:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "'○○페이' 간편결제 이용액 16.8%↑…상반기 하루 평균 1조2264억원",
-      "link": "https://www.ajunews.com/view/20260918102118117",
-      "originallink": "https://www.ajunews.com/view/20260918102118117",
-      "description": "제공업자별로 보면 네이버페이·카카오페이 등 전자금융업자의 비중은 선불전자지급수단을 중심으로 전년 동기 대비 0.3%포인트 확대된 55.4%로 집계됐다. 반면 휴대폰제조사와 금융회사 각각 23.3%, 21.2%로 각각 0.3...",
-      "pubDate": "2026-09-18T03:02:00+00:00",
-      "category": "간편결제",
-      "source": "아주경제"
-    },
-    {
-      "title": "'간편 결제·송금' 하루 이용액 2조원 넘어",
-      "link": "https://n.news.naver.com/mnews/article/014/0005577962?sid=101",
-      "originallink": "https://www.fnnews.com/news/202609181111376191",
-      "description": "네이버페이, 카카오페이 등 전자금융업자 이용 건수와 이용액은 전년 동기대비 각 13.0%, 17.5% 늘었다. 간편송금 서비스는 1조1728억원으로 19.8% 증가했다. 간편지급·송금 서비스는 이용 건수와 이용액 모두 관련...",
-      "pubDate": "2026-09-18T03:01:00+00:00",
-      "category": "간편결제",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "하루 1.2조 간편지급⋯네이버·카카오페이, 절반 넘었다",
-      "link": "https://n.news.naver.com/mnews/article/031/0001059665?sid=101",
-      "originallink": "http://www.inews24.com/view/2007056",
-      "description": "특히 네이버페이·카카오페이 등 전자금융업자가 전체 이용액의 절반 이상을 차지하며 간편결제 시장을 주도했다. 한국은행이 18일 공개한 '간편 지급·송금 서비스 이용 현황'에 따르면 올해 상반기 간편지급...",
-      "pubDate": "2026-09-18T03:01:00+00:00",
-      "category": "카카오페이",
-      "source": "아이뉴스24"
-    },
-    {
-      "title": "간편결제·송금 일상화…하루 거래액 나란히 1조원 넘어",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=276386",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=276386",
-      "description": "특히 네이버페이와 카카오페이, 토스 등 전자금융업자의 간편지급 이용금액은 6800억원으로 17.5% 증가했다. 전체 간편지급 이용금액에서 차지하는 비중도 지난해 상반기 55.1%에서 올해 상반기 55.4%로 확대됐다....",
-      "pubDate": "2026-09-18T03:00:00+00:00",
-      "category": "간편결제",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "간편결제·송금 하루 2.4조원…간편송금액 20% 급증",
-      "link": "https://n.news.naver.com/mnews/article/008/0005415797?sid=101",
-      "originallink": "https://www.mt.co.kr/economy/2026/09/18/2026091811045394297",
-      "description": "간편지급 시장에서는 카카오페이·네이버페이·토스페이 등 전자금융업자의 비중이 계속 확대됐다. 금액 기준 전자금융업자 비중은 지난해 상반기 55.1%에서 올해 상반기 55.4%로 높아졌다. 전자금융업자의...",
-      "pubDate": "2026-09-18T03:00:00+00:00",
-      "category": "간편결제",
-      "source": "머니투데이"
-    },
-    {
-      "title": "\"현금·카드 대신 페이\"⋯상반기 하루 평균 간편결제 1.2조 '역대 최대'",
-      "link": "https://www.etoday.co.kr/news/view/2627101",
-      "originallink": "https://www.etoday.co.kr/news/view/2627101",
-      "description": "주요 전자금융업자 서비스로는 네이버페이와 카카오페이, 페이코, 토스페이, SSG페이, Lpay 등이 있다. 이어 삼성페이 등 휴대폰제조사 간편결제 서비스 비중이 23.3%를 차지했다. 은행과 카드사가 제공하는 간편결제...",
-      "pubDate": "2026-09-18T03:00:00+00:00",
-      "category": "간편결제",
-      "source": "이투데이"
-    },
-    {
-      "title": "간편송금 이용 하루 1조원 시대···간편결제는 1.2조원 돌파",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=638293",
-      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=638293",
-      "description": "간편결제 이용금액도 하루 평균 1조2264억원으로 확대됐다. 18일 한국은행이 발표한 '2026년 상반기중 전자지급서비스 이용현황'에 따르면 상반기 선불금 기반 간편송금 이용금액은 일평균 1조1728억원으로 지난해...",
-      "pubDate": "2026-09-18T03:00:00+00:00",
-      "category": "간편결제",
-      "source": "서울파이낸스"
-    },
-    {
-      "title": "혜택부터 인기 순위까지···카카오페이 '카드연구소' 웹 확장",
-      "link": "https://n.news.naver.com/mnews/article/014/0005577952?sid=101",
-      "originallink": "https://www.fnnews.com/news/202609180923573958",
-      "description": "카카오페이가 개인 맞춤형 카드 비교 서비스를 기존 애플리케이션뿐 아니라 웹으로도 확장했다. 가입 절차 없이 곧바로 이용할 수 있도록 문턱을 대폭 낮췄다. 카카오페이는 18일 '카드연구소'를 정식 공개했다. 사용자가...",
-      "pubDate": "2026-09-18T02:42:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "카카오페이, 로그인 없는 카드 비교 웹 '카드연구소'…혜택·연회비 한...",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=135756",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=135756",
-      "description": "카카오페이는 애플리케이션에서 제공하던 카드 탐색 기능을 웹으로 확장한 '카드연구소'를 출시했다. 카드연구소에서는 이용자가 혜택 카테고리와 연회비 범위를 직접 설정해 조건에 맞는 카드를 찾을 수 있다....",
-      "pubDate": "2026-09-18T02:26:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "카카오페이, 맞춤형 '카드연구소' 선봬... 온라인 접근성 대폭 향상",
-      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=136546",
-      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=136546",
-      "description": "카카오페이가 복잡한 가입 절차 없이 개인의 소비 성향에 맞는 최적의 신용카드를 찾아주는 웹 기반 플랫폼을 새롭게 선보이며 금융 소비자들의 편의성을 한층 끌어올린다. 카카오페이(대표 신원근)가 기존 자사...",
-      "pubDate": "2026-09-18T02:12:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스락"
-    },
-    {
-      "title": "카카오페이, '맞춤형 카드비교' 서비스 웹 제공…금융상품 혜택 한눈에",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266999",
-      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=266999",
-      "description": "화이트페이퍼, WHITEPAPER(사진=카카오페이)  카카오페이가 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소'를 정식 오픈했다. 혜택과 연회비별 카드 검색, 카드사별...",
-      "pubDate": "2026-09-18T02:06:00+00:00",
-      "category": "카카오페이",
-      "source": "화이트페이퍼"
-    },
-    {
-      "title": "'로그인 없이 카드 비교부터 이벤트 확인까지'..카카오페이 ‘카드연구...",
-      "link": "https://kpenews.com/View.aspx?No=4233014",
-      "originallink": "https://kpenews.com/View.aspx?No=4233014",
-      "description": "한국정경신문 이하정 기­자 sae256@hanmail.net [한국정경신문=이하정 기자] 카카오페이(대표 신원근)가 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장했다.카카오페이는 모바일과 PC...",
-      "pubDate": "2026-09-18T02:04:00+00:00",
-      "category": "카카오페이",
-      "source": "한국정경신문"
-    },
-    {
-      "title": "카드 비교·이벤트 한곳에···카카오페이 '카드연구소'",
-      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=91527",
-      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=91527",
-      "description": "카카오페이가 카드 비교·추천 서비스를 웹으로 확대했다. 로그인 없이 모바일과 PC에서 카드 혜택과 이벤트 등을 확인할 수 있게 접근성을 높였다. 카카오페이는 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드...",
-      "pubDate": "2026-09-18T01:56:00+00:00",
-      "category": "카카오페이",
-      "source": "더리포트"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 인터넷은행 소식…카카오페이, 네이버페이, 토...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201709",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=201709",
-      "description": "카카오페이가 앱 중심의 맞춤형 카드 추천 서비스를 PC와 모바일 웹으로 넓혀 로그인 없이 카드 혜택과 이벤트를 비교할 수 있는 ‘카드연구소’를 열었다. 네이버페이는 부동산 데이터 플랫폼 ‘아실’과 제휴해...",
-      "pubDate": "2026-09-18T01:50:00+00:00",
-      "category": "네이버페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "[금융레이더]iM뱅크/BNK경남은행/롯데카드/토스/카카오페이/네이버페이",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609181018358220640",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609181018358220640",
-      "description": "◆“우리집 단지 시공 사례를 손쉽게”…네이버페이(Npay) 부동산, 인테리어 서비스 오픈 네이버페이(Npay)가... 신용카드 매출채권을 기초자산으로 발행된 이번 사모 해외 ABS는 미쓰비시UFJ파이낸셜그룹(MUFG)과...",
-      "pubDate": "2026-09-18T01:42:00+00:00",
-      "category": "네이버페이",
-      "source": "대한경제"
-    },
-    {
-      "title": "카카오페이, 카드 비교 '카드연구소' 웹으로 확대…로그인 없이 이용",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=208533",
-      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=208533",
-      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이(대표 신원근)가 애플리케이션에서 제공하던 카드 비교·탐색 서비스를 웹으로 확대한다. 별도 로그인 없이 모바일과 PC에서 카드 혜택과 연회비, 카드사별 이벤트 등을 비교할 수...",
-      "pubDate": "2026-09-18T01:34:00+00:00",
-      "category": "카카오페이",
-      "source": "라이센스뉴스"
-    },
-    {
-      "title": "카카오페이, 맞춤형 카드 비교 서비스 웹으로 확대…'카드연구소' 열어",
-      "link": "https://n.news.naver.com/mnews/article/030/0003468189?sid=101",
-      "originallink": "https://www.etnews.com/20260918000116",
-      "description": "카카오페이는 기존 카카오페이앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소'를 열었다고 18일 밝혔다. 카드연구소는 사용자가 모바일과 PC 환경에서 별도의 로그인 절차 없이 자신에게...",
-      "pubDate": "2026-09-18T01:30:00+00:00",
-      "category": "카카오페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "카카오페이, 카드 비교 서비스 웹으로 확대… ‘카드연구소’ 오픈",
-      "link": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/18/2026091880047.html",
-      "originallink": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/18/2026091880047.html",
-      "description": "송정현 기자 | 카카오페이가 카카오페이앱에서 제공하던 카드 비교 서비스를 웹으로 확대한다. 카카오페이는 개인 맞춤형 카드 비교 서비스의 웹 버전인 ‘카드연구소’를 정식 오픈했다고 18일 밝혔다. 카드연구소는...",
-      "pubDate": "2026-09-18T01:30:00+00:00",
-      "category": "카카오페이",
-      "source": "dizzo"
-    },
-    {
-      "title": "카카오페이, 웹 기반 '카드연구소' 정식 오픈",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=86244",
-      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=86244",
-      "description": "인더스트리뉴스 이주엽 기자  카카오페이가 모바일 애플리케이션에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹으로 확대한다. 카카오페이는 기존 카카오페이앱의 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소...",
-      "pubDate": "2026-09-18T01:26:00+00:00",
-      "category": "카카오페이",
-      "source": "인더스트리뉴스"
-    },
-    {
-      "title": "네이버페이 부동산, 국내 아파트 단지별 인테리어 시공 사례 서비스 오...",
-      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=132530",
-      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=132530",
-      "description": "네이버페이 관계자는 \"아실과의 협력을 통해 사용자들이 자신의 집과 비슷한 조건의 실제 인테리어 사례와 적합한 시공업체 정보를 편리하게 탐색할 수 있도록 서비스를 지속 확대할 것\"이라고 말했다. [파이낸셜신문...",
-      "pubDate": "2026-09-18T01:18:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸셜신문"
-    },
-    {
-      "title": "SBI저축은행, 카카오페이·KCB와 '카카오페이 스코어' 활용한다",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319807",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319807",
-      "description": "신원근 카카오페이 대표와 김문석(가운데) SBI저축은행 대표, 이성욱 KCB 대표가 지난 16일 경기도 판교 카카오페이 오피스에서 진행한 포용금융 확대를 위한 전략적 사업 제휴 협약식에서 기념 촬영을 진행하고 있다....",
-      "pubDate": "2026-09-18T01:18:00+00:00",
-      "category": "카카오페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "카카오뱅크 개인사업자 신용대출, 'Npay 대출비교' 입점…비대면 신청 ...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=319226",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=319226",
-      "description": "카카오뱅크와 네이버페이는 카카오뱅크의 '개인사업자 신용대출'을 Npay 대출비교 서비스에 입점했다고 17일 밝혔다. 양사는 지난 6월 카카오뱅크 개인사업자 부동산담보대출을 Npay 대출비교에 선보인 데 이어 약 3개월...",
-      "pubDate": "2026-09-18T01:10:00+00:00",
-      "category": "네이버페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "네이버페이, 카카오뱅크 입점…업계 유일 인터넷은행 3사 대출 비교 라...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=319178",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=319178",
-      "description": "네이버페이(Npay)가 케이뱅크, 토스뱅크에 이어 카카오뱅크의 개인사업자 신용대출 상품까지 자사 대출 비교 서비스에 제휴·연계하며 금융 플랫폼 입지 확대에 나선다. 이번 제휴를 통해 연계되는 카카오뱅크...",
-      "pubDate": "2026-09-18T01:10:00+00:00",
-      "category": "네이버페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "“우리 아파트 인테리어 한눈에”…네이버페이, 시공 사례 2500건 모았다",
-      "link": "https://n.news.naver.com/mnews/article/138/0002241933?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026091809592343621",
-      "description": "네이버페이가 아파트 단지별 실제 인테리어 시공 사례와 시공업체를 한 번에 찾아볼 수 있는 서비스를 선보였다. 네이버페이는 부동산 빅데이터 플랫폼 아실과 함께 ‘Npay 부동산’에 인테리어 서비스를 새롭게...",
-      "pubDate": "2026-09-18T01:08:00+00:00",
-      "category": "네이버페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "네이버페이 부동산, 인테리어 서비스 시작",
-      "link": "https://n.news.naver.com/mnews/article/030/0003468168?sid=101",
-      "originallink": "https://www.etnews.com/20260918000089",
-      "description": "네이버페이는 네이버페이 부동산 내에 집에 맞는 인테리어와 시공업체를 탐색할 수 있는 인테리어 서비스를 열었다. 네이버페이는 부동산 빅데이터 플랫폼 아실과 함께 이같은 서비스를 시작했다. 인테리어 서비스는...",
-      "pubDate": "2026-09-18T01:08:00+00:00",
-      "category": "네이버페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "카카오페이, 카드 비교 서비스 '카드연구소' 정식 오픈",
-      "link": "https://n.news.naver.com/mnews/article/421/0009178180?sid=105",
-      "originallink": "https://www.news1.kr/it-science/internet-platform/6294877",
-      "description": "카카오페이(377300)가 앱에서 제공하던 개인 맞춤형 카드 비교 서비스를 웹 버전으로 확장한 '카드연구소'를 정식 오픈했다고 18일 밝혔다. 카드연구소는 자신에게 최적화된 카드를 비교·탐색하고 관련 이벤트와 금융...",
-      "pubDate": "2026-09-18T01:00:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "토스, 추석 맞아 영세 가맹점 결제 수수료 전액 면제",
-      "link": "https://n.news.naver.com/mnews/article/421/0009178162?sid=101",
-      "originallink": "https://www.news1.kr/finance/bank/6294867",
-      "description": "오프라인 결제 사업을 담당하는 토스플레이스는 토스 포스(POS)에서 포인트 적립 기능, 쿠폰 발송 기능 등을 무료로 제공한다. QR 테이블오더인 토스오더 또한 무료로 사용할 수 있다. 토스 관계자는 \"명절은 소상공인과...",
-      "pubDate": "2026-09-18T00:55:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스1"
     }
   ],
-  "lastFetch": "2026-10-18T00:52:14.454931+00:00"
+  "lastFetch": "2026-10-19T01:05:34.573870+00:00"
 }
