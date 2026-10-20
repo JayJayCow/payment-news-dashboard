@@ -1,6 +1,375 @@
 {
   "articles": [
     {
+      "title": "[금융계 소식] NH투자증권·키움증권·삼성증권·토스·금투협·카카오페...",
+      "link": "https://sateconomy.co.kr/news/view/1065576340736059",
+      "originallink": "https://sateconomy.co.kr/news/view/1065576340736059",
+      "description": "NH투자증권, 퇴직연금 ELS 100호 발행…키움증권, 연금저축 고객 혜택 강화 카카오페이, 500억 걸음 기부 캠페인…금투협, 11월 채권시장 심리 개선 ▲ NH투자증권 사옥 [NH투자증권] 증권·금융업계가 연금상품과 고객...",
+      "pubDate": "2026-10-20T01:36:00+00:00",
+      "category": "토스페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "카카오페이, 가수 션과 기부 마라톤 ‘2026 롱런’ 개최⋯최대 15억 기부",
+      "link": "https://www.etoday.co.kr/news/view/2637789",
+      "originallink": "https://www.etoday.co.kr/news/view/2637789",
+      "description": "이투데이=연희진 기자 | 카카오페이는 가수 션의 유튜브 채널(션과 함께)과 손잡고 소상공인 지원을 위한 온·오프라인 기부 마라톤 ‘2026 LONG RUN(롱런)’을 연다고 20일 밝혔다. ‘롱런’에는 오래 달린다는 뜻과 함께...",
+      "pubDate": "2026-10-20T01:24:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "카카오페이·션, 소상공인 위해 달린다…500억 걸음 도전",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=240957",
+      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=240957",
+      "description": "카카오페이가 가수 션과 손잡고 소상공인 지원을 위한 기부 마라톤 캠페인을 개최한다. 올해는 누적 500억 걸음을 목표로 최대 15억원의 기부금을 조성할 계획이다. 카카오페이는 가수 션의 유튜브 채널 '션과 함께...",
+      "pubDate": "2026-10-20T01:22:00+00:00",
+      "category": "카카오페이",
+      "source": "이지경제"
+    },
+    {
+      "title": "걸음 모아 소상공인 돕는다…카카오페이, 기부 마라톤 '롱런' 개최",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=136573",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=136573",
+      "description": "카카오페이가 이용자들의 걸음 수를 모아 소상공인을 지원하는 기부 캠페인을 진행한다. 온라인 걷기 행사와 오프라인 마라톤을 함께 열고 목표 달성에 따라 기부금을 조성한다. 카카오페이는 가수 션의 유튜브...",
+      "pubDate": "2026-10-20T01:08:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "아이앤텍, e모바일 전자고지 결제 서비스 확대..디지털 서비스 경쟁력 ...",
+      "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=209379",
+      "originallink": "https://www.kdpress.co.kr/news/articleView.html?idxno=209379",
+      "description": "국내 카드 결제와 간편결제, 가상계좌 등 다양한 결제수단을 지원하기 때문이다. 아이앤텍은 기존 종이 고지서를 디지털 문서로 전환하는 수준을 넘어 정보 전달과 확인, 후속 업무를 연결하는 디지털 서비스로 발전하고...",
+      "pubDate": "2026-10-20T01:04:00+00:00",
+      "category": "간편결제",
+      "source": "데일리경제"
+    },
+    {
+      "title": "[금융권 이모저모]토스, 불법도박 의심계좌 송금 전 경고 外",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=118421",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=118421",
+      "description": "/ 사진=BC카드 ◇BC카드, 불법사금융 예방 캠페인 동참…다음 주자로 네이버페이 지목 BC카드는 김영우 사장이 서민금융진흥원 주관 '사람 살리는 금융' 릴레이 캠페인에 참여했다고 20일 밝혔다. 이 캠페인은 불법사금융...",
+      "pubDate": "2026-10-20T00:52:00+00:00",
+      "category": "토스페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "카카오페이·션, 기부 마라톤 '롱런' 개최…최대 15억 기부",
+      "link": "https://n.news.naver.com/mnews/article/421/0009237807?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6325424",
+      "description": "카카오페이(377300)가 가수 션의 유튜브 채널 '션과 함께'와 손잡고 기부 마라톤 캠페인 '2026 롱런'(LONG RUN)을 개최한다고 20일 밝혔다. 롱런은 카카오페이 만보기 서비스를 통해 집계된 참가자들의 누적 걸음 수에 따라...",
+      "pubDate": "2026-10-20T00:46:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이, 션과 '2026 롱런' 개최…35만명 세계 신기록 정조준",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86274",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=86274",
+      "description": "카카오페이가 가수 션이 운영하는 유튜브 채널과 손을 잡고 소상공인 지원 목적의 2026 롱런 마라톤 대회를 연다고 20일 밝혔다. 지난해 26만5000명이 동참해 역대급 흥행을 거둔 성과를 바탕으로 올해는 총참여자...",
+      "pubDate": "2026-10-20T00:32:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "카카오페이가 걸음으로 500억 걸음 도전에 나선다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=754196",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754196",
+      "description": "카카오페이가 이 방식을 이어가며 규모를 키우고 있다. 가수 션의 유튜브 채널 션과 함께와 손잡고 소상공인을 위한 온·오프라인 기부 마라톤 캠페인 2026 LONG RUN(롱런)을 개최하고 올해 500억 걸음 달성에 나선다고 20일...",
+      "pubDate": "2026-10-20T00:30:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 500억 걸음 모아 소상공인에 최대 15억 기부",
+      "link": "https://www.g-enews.com/view.php?ud=202610200916566785cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202610200916566785cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 시민들의 걷기와 달리기를 소상공인 지원으로 연결하는 기부 마라톤 캠페인을 진행한다. 참가자들이 모은 걸음 수에 따라 최대 15억원을 기부하고, 온라인 걷기 행사와 오프라인 마라톤을...",
+      "pubDate": "2026-10-20T00:24:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오페이, 소상공인 위한 온·오프라인 기부 마라톤 개최",
+      "link": "https://n.news.naver.com/mnews/article/018/0006391978?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02889686645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "카카오페이(377300)가 소상공인을 위한 온·오프라인 기부 마라톤 캠페인을 개최한다. 카카오페이는 가수 션의 유튜브 채널 ‘션과 함께’와 손잡고 ‘2026 LONG RUN(롱런)’을 연다고 20일 밝혔다. ‘LONG RUN’은 ‘오래...",
+      "pubDate": "2026-10-20T00:19:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, 500억 걸음 모이면 15억원 기부…소상공인 지원",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708346",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708346",
+      "description": "카카오페이가 이용자들의 걸음 수에 따라 소상공인 지원 기부금을 조성하는 마라톤 캠페인을 시작한다. 올해 누적 500억 걸음을 목표로 설정하고 달성 구간에 따라 최대 15억원을 기부할 계획이다. 카카오페이는 20일...",
+      "pubDate": "2026-10-20T00:16:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오페이, 스테이블코인 생태계 구축 속도..결제·유통 기반 확대",
+      "link": "https://kpenews.com/View.aspx?No=4270424",
+      "originallink": "https://kpenews.com/View.aspx?No=4270424",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] 카카오페이가 글로벌 디지털자산 기업과의 협력을 확대하고 스테이블코인 지갑·송금·결제부터 인공지능(AI) 기반 거래까지 기술 실증을...",
+      "pubDate": "2026-10-19T23:42:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "네이버·카카오·토스, ‘잠자는 페이 잔액’ 255억원 찾아준다",
+      "link": "http://www.datanews.co.kr/news/article.html?no=146972",
+      "originallink": "http://www.datanews.co.kr/news/article.html?no=146972",
+      "description": "네이버페이·카카오페이·토스 등 간편결제 3사가 장기간 사용하지 않은 선불충전금의 잔액과 환급 방법을 이용자에게 알려주는 제도를 시작했다. 충전해 놓고 잊어버린 돈을 이용자가 쉽게 확인해 돌려받도록 안내를...",
+      "pubDate": "2026-10-19T23:38:00+00:00",
+      "category": "토스페이",
+      "source": "데이터뉴스"
+    },
+    {
+      "title": "KB페이, 올 2030 관심도 1년새 급등…’간편결제 할인·카드 바로할인' ...",
+      "link": "https://www.thebigdata.co.kr/view.php?ud=202610192227168762fdcde0ec8c_23",
+      "originallink": "https://www.thebigdata.co.kr/view.php?ud=202610192227168762fdcde0ec8c_23",
+      "description": "15%, 네이버·카카오·토스페이는 10% 할인을 해 주는 고효율 간편결제 카드로, 간편결제에 익숙한 2030 세대라면 연회비가 더 저렴한 모바일 단독 카드로 발급받아 15% 할인을 알뜰하게 누려 보길 추천한다”고 평가했다....",
+      "pubDate": "2026-10-19T23:32:00+00:00",
+      "category": "간편결제",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "[핀테크핫이슈] 금융권 '해킹 사태' 일파만파...힘받는 디지털자산 과세...",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708202",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708202",
+      "description": "탑재 네이버페이·카카오페이·토스는 장기간 사용하지 않은 선불충전금 보유자 176만명에게 잔액을 안내하기로 했다. 또한 네이버페이는 제주 소상공인을 대상으로 75억원 규모의 특별보증을 지원하고, 네이버와 함께...",
+      "pubDate": "2026-10-19T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오페이 3분기 경영실적 발표 11월 3일",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=394404",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=394404",
+      "description": "카카오페이가 11월 3일 오후 4시 2026년 3분기 경영실적을 발표한다. 금융감독원 전자공시시스템(DART)에 접수된 기업설명회 안내 공시에 따르면 발표는 컨퍼런스콜로 진행한다. 대상은 국내외 증권사 애널리스트와...",
+      "pubDate": "2026-10-19T21:10:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "[송호길의 금융人] 카카오페이 신원근, 흑자전환에도…주가 74% 내리막 ...",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=81562",
+      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=81562",
+      "description": "신원근 카카오페이 대표이사. 사진= 카카오페이 | 뉴스워치= 송호길 기자 | 신원근 카카오페이 대표 재임 중 회사가 지난해 상장 이후 첫 연간 연결 영업흑자를 달성했다. 올해 상반기에는 영업이익이 908억원으로...",
+      "pubDate": "2026-10-19T21:00:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워치"
+    },
+    {
+      "title": "잇다, 코리아 핀테크 위크서 AI 음성 주문·결제 시연",
+      "link": "https://n.news.naver.com/mnews/article/008/0005428570?sid=101",
+      "originallink": "https://www.mt.co.kr/industry/2026/10/19/2026101913085019462",
+      "description": "이 서비스는 고객이 키오스크에 음성으로 메뉴를 말하면 AI가 주문 의도를 파악해 장바구니에 담고 간편결제까지 처리한다. 회사는 LLM(거대언어모델)으로 의도를 추출해 POS 주변기기를 제어하는 기술을 특허...",
+      "pubDate": "2026-10-19T09:09:00+00:00",
+      "category": "간편결제",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이, 이달 말까지 '노난날' 이벤트 진행",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322843",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322843",
+      "description": "사진=카카오페이  카카오페이는 '2026 카카오페이 노난날' 캠페인을 이달 30일까지 진행한다고 19일 밝혔다. '노난날'은 차별화된 온·오프라인·해외 결제 혜택과 매일 받을 수 있는 쿠폰, 사용자별 맞춤 할인 등...",
+      "pubDate": "2026-10-19T08:58:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "카카오페이, '2026 노난날' 개최...전 국민 대상 맞춤형 결제 할인 프로...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=266957",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=266957",
+      "description": "카카오페이는 10월 말까지 '2026 카카오페이 노난날' 행사를 진행하며, 전 국민이 누릴 수 있는 다양한 결제 할인과 맞춤형 혜택을 선보인다고 19일 밝혔다. 이번 행사는 뷰티, 패션, 여행, 통신, 편의점, 음식 및 생활용품...",
+      "pubDate": "2026-10-19T08:30:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "카카오페이, 50여개 브랜드서 최대 15만원 할인…'노난날' 개최",
+      "link": "https://www.ajunews.com/view/20261019170944600",
+      "originallink": "https://www.ajunews.com/view/20261019170944600",
+      "description": "오는 30일까지 진행 아주경제=김지윤 기자 yoon0930@ajunews.com 카카오페이가 온라인·오프라인·해외 결제 할인 혜택을 제공하는 '2026 카카오페이 노난날'을 개최한다. 카카오페이는 오는 30일까지 뷰티·패션, 여행, 해외...",
+      "pubDate": "2026-10-19T08:18:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "카카오페이, '2026 카카오페이 노난날' 개최… 이달 말까지 진행",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=146080",
+      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=146080",
+      "description": "카카오페이가 이달 말까지 온·오프라인과 해외 결제를 아우르는 할인 행사를 연다. 7개 업종 50여 개 가맹 브랜드의 할인을 한데 묶은 행사다. 카카오페이는 19일 '2026 카카오페이 노난날' 행사를 시작했다고 밝혔다....",
+      "pubDate": "2026-10-19T08:04:00+00:00",
+      "category": "카카오페이",
+      "source": "투어코리아"
+    },
+    {
+      "title": "카카오페이, '2026 카카오페이 노난날' 진행…최대 15만원 할인 혜택 제...",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44604",
+      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=44604",
+      "description": "카카오페이(대표 신원근)가 전 국민을 대상으로 다양한 결제 혜택을 제공하는 '2026 카카오페이 노난날'을 이달 말일까지 진행한다. '노난날'은 온라인·오프라인·해외 결제 혜택과 매일 제공되는 쿠폰, 사용자 맞춤형...",
+      "pubDate": "2026-10-19T08:00:00+00:00",
+      "category": "카카오페이",
+      "source": "S저널"
+    },
+    {
+      "title": "카카오페이, 전 국민 할인받고 노나는 날 '노난날' 개최",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322825",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322825",
+      "description": "이미지=카카오페이  카카오페이가 온·오프라인과 해외를 아우르는 대규모 결제 할인 행사를 이달 말일까지 개최한다. 카카오페이는 전 국민 할인받고 노나는 날 '2026 카카오페이 노난날'을 이달 말일까지 진행한다고...",
+      "pubDate": "2026-10-19T07:58:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "요거트월드, 카카오페이 제휴로 오프라인 결제 프로모션 확대",
+      "link": "https://www.lawissue.co.kr/view.php?ud=202610191543552743204ead0791_12",
+      "originallink": "https://www.lawissue.co.kr/view.php?ud=202610191543552743204ead0791_12",
+      "description": "요거트월드가 카카오페이와 협력해 오프라인 매장의 결제 프로모션을 운영한다. 배달 중심으로 진행해 온 판촉 활동을 매장 결제 영역으로 넓혀 가맹점의 판매 채널을 다각화하는 취지다. 이번 제휴는 카카오페이를 통한...",
+      "pubDate": "2026-10-19T06:46:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "카카오페이, 시그니처 캠페인 '노난날'로 결제 생태계 확장",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1019902",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1019902",
+      "description": "카카오페이가 온·오프라인과 해외 결제 전반을 아우르는 고객 혜택 캠페인을 전개한다. 카카오페이는 자사 결제 혜택을 한데 모은 시그니처 캠페인 '2026 노난날'을 19일부터 오는 30일까지 진행한다고 밝혔다. 행사에서는...",
+      "pubDate": "2026-10-19T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "\"전 국민 할인받고 노나는 날\"…카카오페이, '2026 노난날' 개최",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=556221",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=556221",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 전 국민 할인받고 노나는 날 '2026 카카오페이 노난날'을 이달 말일까지 진행한다고 19일 밝혔다. [사진=카카오페이]  카카오페이는 전 국민 할인받고 노나는 날 '2026...",
+      "pubDate": "2026-10-19T06:12:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이, 온·오프라인 제후사 할인 '2026 노난날' 개시",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=107268",
+      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=107268",
+      "description": "카카오페이가 온·오프라인 및 해외 결제 이용자를 대상으로 대규모 할인 혜택을 제공하는 통합 프로모션을 진행한다. 카카오페이는 전 국민 결제 할인 행사 '2026 카카오페이 노난날'을 오는 30일까지 실시한다고 19일...",
+      "pubDate": "2026-10-19T06:06:00+00:00",
+      "category": "카카오페이",
+      "source": "센트럴경제"
+    },
+    {
+      "title": "카카오페이, 50여개 브랜드 할인 모은 '노난날'…최대 15만원 혜택",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=91993",
+      "originallink": "https://www.the-today.com/news/articleView.html?idxno=91993",
+      "description": "카카오페이는 온라인·오프라인·해외결제 혜택을 한데 모은 '2026 카카오페이 노난날'을 오는 30일까지 진행한다고 19일 밝혔다. '노난날'은 '횡재를 하거나 운수가 대통해 모든 일이 잘 풀린다'는 의미의 우리말...",
+      "pubDate": "2026-10-19T06:00:00+00:00",
+      "category": "카카오페이",
+      "source": "더투데이"
+    },
+    {
+      "title": "신한은행·케이에스넷, 스테이블코인 간편결제 실증 완료",
+      "link": "https://n.news.naver.com/mnews/article/374/0000538578?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000340460?division=NAVER",
+      "description": "케이에스넷은 스테이블코인 간편결제 서비스 '크립토닷컴 페이'의 결제 인프라 실증을 K-뷰티와 의료 관광 가맹점을 중심으로 완료했다고 오늘(19일) 밝혔습니다. 이번 실증은 외국인 관광객이 크립토닷컴 페이를 통해...",
+      "pubDate": "2026-10-19T06:00:00+00:00",
+      "category": "간편결제",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "쇼핑·여행·외식 할인 한 곳에···'카카오페이 노난날'",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=92426",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=92426",
+      "description": "카카오페이가 오는 30일까지 온오프라인과 해외 결제 혜택을 제공하는 '2026 카카오페이 노난날'을 진행한다. 이번 행사는 뷰티·패션, 여행, 해외, 통신, 편의점, 식음료(F&B), 리빙 등 7개 분야 50여개 브랜드에서...",
+      "pubDate": "2026-10-19T05:20:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 카카오페이 소식…디지털 금융 포용·결제 할인...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202459",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202459",
+      "description": "카카오페이가 디지털 금융 소외계층 지원과 결제 혜택 확대를 통해 금융 플랫폼의 사회적 역할과 고객 편의성을 강화한다. 청년들과 함께 일상 속 금융 불편을 해결할 아이디어를 발굴하는 한편, 온라인·오프라인...",
+      "pubDate": "2026-10-19T05:20:00+00:00",
+      "category": "카카오페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "50개 브랜드 최대 20% 할인까지…카카오페이, '2026 카카오페이 노난날'...",
+      "link": "https://n.news.naver.com/mnews/article/448/0000645697?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/10/19/2026101990145.html",
+      "description": "카카오페이가 온라인·오프라인 등 할인 혜택을 받을 수 있는 이벤트를 진행한다. 19일 카카오페이는 온라인·오프라인·해외 결제 혜택과 쿠폰, 사용자별 맞춤 할인 등 혜택을 선보이는 ‘2026 카카오페이 노난날’을...",
+      "pubDate": "2026-10-19T05:20:00+00:00",
+      "category": "카카오페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "해킹으로 부정 결제 시 ‘선보상’…핀테크 194곳 중 5곳만 도입",
+      "link": "https://n.news.naver.com/mnews/article/016/0002711285?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10907246?ref=naver",
+      "description": "금융사고에 따른 부정결제 피해 시 ‘선보상 제도’를 도입한 업체도 194개 중 헥토파이낸셜, 네이버파이낸셜, 비바리퍼블리카(토스 운영사), 카카오페이, 지머니트랜스 등 5곳에 불과했다. 소비자에게 선제적으로...",
+      "pubDate": "2026-10-19T05:13:00+00:00",
+      "category": "간편결제",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "카카오페이, 50여 브랜드 할인 '노난날' 30일까지 개최",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=215165",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=215165",
+      "description": "카카오페이(대표 신원근)가 전 국민이 할인 혜택을 누릴 수 있는 시그니처 캠페인 '2026 카카오페이 노난날'을 오는 30일까지 진행한다고 19일 밝혔다. '노난날'은 온라인·오프라인·해외 결제 혜택과 매일 제공되는 선착순...",
+      "pubDate": "2026-10-19T05:04:00+00:00",
+      "category": "카카오페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "요거트월드, 카카오페이 할인 프로모션 진행",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113181",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113181",
+      "description": "디저트카페 프랜차이즈 요거트월드가 카카오페이와 손잡고 가맹점 홀 매출 활성화를 위한 할인 프로모션을 진행합니다. 이번 프로모션은 오는 31일까지 카카오페이 가맹이 완료된 요거트월드 오프라인 매장에서...",
+      "pubDate": "2026-10-19T05:00:00+00:00",
+      "category": "카카오페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "카카오페이, 50여 브랜드 할인 한자리에…'노난날' 31일까지",
+      "link": "https://n.news.naver.com/mnews/article/030/0003476312?sid=101",
+      "originallink": "https://www.etnews.com/20261019000214",
+      "description": "카카오페이가 '2026 카카오페이 노난날'을 10월 31일까지 진행한다. '노난날'은 온라인·오프라인·해외 결제 혜택과 매일 받을 수 있는 쿠폰, 사용자별 맞춤 할인 등 카카오페이만의 혜택을 한자리에 선보이는...",
+      "pubDate": "2026-10-19T04:40:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이, 디지털 금융 불편 해결 방안 모색",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149246",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149246",
+      "description": "참가자들이 '사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤'의 한 프로그램인 '카카오페이 현직 멘토와 함께 하는 SOS클리닉'을 진행하고 있다. 사진=카카오페이  카카오페이(대표 신원근)가 청년 디지털 금융...",
+      "pubDate": "2026-10-19T04:34:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "카카오페이, 50여개 브랜드 결제 할인…매일 정오 선착순 쿠폰",
+      "link": "https://www.socialvalue.kr/news/view/1065581715261869",
+      "originallink": "https://www.socialvalue.kr/news/view/1065581715261869",
+      "description": "카카오페이가 이달 30일까지 50여개 브랜드에서 결제 할인 혜택을 제공하는 ‘2026 카카오페이 노난날’을 진행한다. 매일 정오 선착순 할인 쿠폰을 지급하고 해외결제 첫 이용자를 위한 할인과 공연 티켓 응모 행사도...",
+      "pubDate": "2026-10-19T02:58:00+00:00",
+      "category": "카카오페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "카카오페이가 가을 결제 혜택을 노난날에 모은 이유는?",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=754048",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754048",
+      "description": "네이버페이와 토스페이 등 경쟁 간편결제 업체들도 할인과 적립 혜택으로 이용자 확보에 나서고 있다. 업종 폭과 선착순 쿠폰 맞춤 혜택을 한 캠페인에 엮은 카카오페이의 이번 시도가 결제 빈도를 얼마나 끌어올릴지에...",
+      "pubDate": "2026-10-19T01:44:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
       "title": "원스토어, 전세계 200여개 국가 간편결제 시스템 확보... 에어월렉스와...",
       "link": "https://gamefocus.co.kr/detail.php?number=179892",
       "originallink": "https://gamefocus.co.kr/detail.php?number=179892",
@@ -3148,7 +3517,7 @@
       "description": "광주은행은 은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로 연결되며, 가맹점...",
       "pubDate": "2026-10-11T07:48:00+00:00",
       "category": "토스페이",
-      "source": "jndn"
+      "source": "jndmnews"
     },
     {
       "title": "광주은행·토스 손잡고 '디지털 결제 실험' 성공",
@@ -4633,7 +5002,7 @@
       "description": "/KB국민은행 KB국민은행은 지난 2일 네이버페이(Npay), 한국정보통신(KICC), 이지샵과 함께 소상공인의 디지털 전환과 지속가능한 성장을 지원하기 위한 업무협약을 체결했다고 6일 밝혔다. 이날 서울 여의도 KB국민은행...",
       "pubDate": "2026-10-06T02:20:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "하나은행•Npay, 서울 야간상권•청년창업에 신용보증 공급…687.5억 규...",
@@ -4957,7 +5326,7 @@
       "description": "네이버는 토스의 리워드형 마케팅으로 이용자 검색이 특정 단어에 집중될 경우 실제 관심 정도와 무관하게 검색량이 인위적으로 늘어날 수 있다고 보고 있다. 이렇게 늘어난 검색량이 자사 ‘플레이스’와 스토어 등의...",
       "pubDate": "2026-10-04T15:07:00+00:00",
       "category": "토스페이",
-      "source": "국민일보"
+      "source": "kmib"
     },
     {
       "title": "박상진 네이버페이 대표, 'Npay 스코어' 데이터 기반 금융사 CSS 활용 확...",
@@ -5146,7 +5515,7 @@
       "description": "내년 1월 말까지 신규가입·최초 입금 고객 자동 참여 순입금액 따라 네이버페이 3만원 또는 커피 교환권... 연금자산관리센터와 연금전문 PB를 통한 상담도 지원하며, 카카오톡 채널 'NH투자증권 연금'에서 연금 정보와...",
       "pubDate": "2026-10-02T04:56:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "[플랫폼 인사이드] \"구글·카카오는 남기고 네이버만 뺀다\"…토스, '검색...",
@@ -5236,7 +5605,7 @@
       "description": "네이버가 토스의 리워드형(참여 대가로 보상을 주는 방식) 마케팅 상품이 자사 검색 결과를 왜곡하고 있다며... 이 같은 검색이 플레이스와 스토어 등의 검색 결과나 노출 순위에 영향을 미쳐 검색 신뢰도를 훼손할 수...",
       "pubDate": "2026-10-02T00:02:00+00:00",
       "category": "토스페이",
-      "source": "국민일보"
+      "source": "kmib"
     },
     {
       "title": "네이버와 갈등 격화… 토스, 리워드 광고서 '네이버 경로' 뺀다",
@@ -5263,7 +5632,7 @@
       "description": "네이버의 매장정보 서비스 ‘플레이스플러스’에는 현재 다수의 POS 사업자가 연동돼 있지만, 약 15만개 매장에서 사용되는 토스의 POS 계열사 토스플레이스의 ‘토스포스’는 빠져 있다. 토스플레이스는 이와 관련해...",
       "pubDate": "2026-10-01T17:05:00+00:00",
       "category": "토스페이",
-      "source": "국민일보"
+      "source": "kmib"
     },
     {
       "title": "빅테크에 밀린 카드사 간편결제…'각자도생' 플랫폼 승부",
@@ -6559,7 +6928,7 @@
       "description": "모바일 간편결제에서 핀테크 업체 서비스 비중은 72.0%로 기존 카드사의 28.0%를 압도했다. 카드 유형별로는 신용카드 같은 후불형 카드가 전체 지급카드 이용규모의 79.7%를 차지했다. 올해 상반기 인터넷...",
       "pubDate": "2026-09-29T08:29:00+00:00",
       "category": "간편결제",
-      "source": "국민일보"
+      "source": "kmib"
     },
     {
       "title": "카카오페이, 원화 스테이블코인 생태계 구축 본격화",
@@ -8882,88 +9251,7 @@
       "pubDate": "2026-09-20T03:02:00+00:00",
       "category": "토스페이",
       "source": "SR타임스"
-    },
-    {
-      "title": "토스플레이스, 단말기 설치 가맹점 50만 돌파",
-      "link": "https://n.news.naver.com/mnews/article/030/0003468457?sid=101",
-      "originallink": "https://www.etnews.com/20260920000040",
-      "description": "토스플레이스는 자사 결제 단말기 '토스 프론트'를 설치한 전국 가맹점 수가 50만개를 돌파했다고 20일 밝혔다. 토스플레이스 설치 가맹점은 지난 3월 30만개를 넘어선 뒤 6월 40만개, 9월 50만개를 돌파했다. 특히 최근 6개월...",
-      "pubDate": "2026-09-20T01:18:00+00:00",
-      "category": "토스페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "진격의 토스 \"짜장면, 아니 결제 단말기 시키신 분!\"",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=311607",
-      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=311607",
-      "description": "한편 오프라인 결제 시장에서는 토스와 네이버페이 간 경쟁도 본격화하고 있다. 토스가 토스플레이스를 통해 결제 단말기와 매장 운영 솔루션을 직접 확대하고 있다면, 네이버페이는 네이버의 온라인 플랫폼과 결제...",
-      "pubDate": "2026-09-20T01:12:00+00:00",
-      "category": "토스페이",
-      "source": "스트레이트뉴스"
-    },
-    {
-      "title": "토스플레이스, 전국 가맹점 50만 넘었다",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319954",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=319954",
-      "description": "토스플레이스가 자사 결제 단말기 토스 프론트를 설치한 전국 가맹점 수가 50만개를 넘어섰다 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스는 자사 결제 단말기 토스 프론트를 설치한 전국 가맹점...",
-      "pubDate": "2026-09-20T00:54:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "수사 의뢰·공정위 제소…네이버·토스 갈등 왜?",
-      "link": "https://n.news.naver.com/mnews/article/422/0000907894?sid=101",
-      "originallink": "http://www.yonhapnewstv.co.kr/news/MYH20260920092545Rjh",
-      "description": "그런데 최근에는 토스의 자회사 토스플레이스가 네이버를 공정거래위원회에 제소하는 안을 검토하면서 2차전 양상으로 확산하고 있습니다. 토스 측은 자사 포스를 쓰고 있는 업체들을 네이버에서 제공하는 플레이스플러스...",
-      "pubDate": "2026-09-20T00:26:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스TV"
-    },
-    {
-      "title": "네이버페이, 아파트별 인테리어 시공사례·업체 한눈에 본다",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=319381",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=319381",
-      "description": "네이버페이(Npay)가 부동산 빅데이터 플랫폼 아실과 손잡고 아파트 단지별 인테리어 시공 사례와 업체 정보를 한 번에 확인할 수 있는 '인테리어' 서비스를 선보였다. Npay는 18일 'Npay 부동산'에 신규 '인테리어' 서비스를...",
-      "pubDate": "2026-09-20T00:06:00+00:00",
-      "category": "네이버페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "토스플레이스 가맹점 50만 돌파…6개월 새 20만곳 증가",
-      "link": "https://www.sentv.co.kr/article/view/sentv202609200006",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202609200006",
-      "description": "토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스는 토스 프론트 설치 가맹점 수가 50만곳을 돌파했다고 20일 밝혔다. 설치 가맹점은 지난 3월 30만곳에서 6월 40만곳, 이달 50만곳으로 늘었다. 최근 6개월 동안 약...",
-      "pubDate": "2026-09-19T23:28:00+00:00",
-      "category": "토스페이",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "간편결제 하루 1.2조원 시대, 편리함만큼 ‘돈의 안전장치’도 커져야",
-      "link": "https://www.dailyt.co.kr/newsView/dlt202609190008",
-      "originallink": "https://www.dailyt.co.kr/newsView/dlt202609190008",
-      "description": "시민들이 흔히 사용하는 모바일 간편결제와 각종 ‘페이’ 서비스가 여기에 포함된다. 온라인 쇼핑몰과 소비자 사이에서 결제를 대신 처리하는 전자지급결제대행(PG) 서비스의 일평균 이용금액도 전년 동기보다 12.6...",
-      "pubDate": "2026-09-19T10:44:00+00:00",
-      "category": "간편결제",
-      "source": "데일리환경"
-    },
-    {
-      "title": "카카오·카카오페이와 손잡은 더즌…금융 업무 자동화 시장 공략",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488729",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488729",
-      "description": "네이버 증권. 더즌이 디지털 뱅킹과 환전·정산 자동화, 데이터 솔루션을 앞세워 전자금융 솔루션 시장에서... 플랫폼 제휴 서비스에서는 카카오 및 카카오페이와 협력하고 있다. 인증과 대출조회, 청구서, 간편 송금 등...",
-      "pubDate": "2026-09-19T09:02:00+00:00",
-      "category": "카카오페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "\"인테리어 사례 한눈에\"…네이버페이, '인테리어' 서비스 오픈",
-      "link": "https://www.ajunews.com/view/20260918164446194",
-      "originallink": "https://www.ajunews.com/view/20260918164446194",
-      "description": "실제 시공 사례와 업체 정보 제공 아주경제=김윤섭 기자 angks678@ajunews.com 네이버페이가 부동산 인테리어 비교 서비스를 출시했다. [사진=네이버페이] 네이버페이가 아파트 단지별 인테리어 시공 사례와 시공업체를 한...",
-      "pubDate": "2026-09-19T02:00:00+00:00",
-      "category": "네이버페이",
-      "source": "아주경제"
     }
   ],
-  "lastFetch": "2026-10-19T01:05:34.573870+00:00"
+  "lastFetch": "2026-10-20T01:44:34.653492+00:00"
 }
