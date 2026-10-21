@@ -1,6 +1,213 @@
 {
   "articles": [
     {
+      "title": "2026 뉴스1 투자포럼 기조연설하는 신호철 카카오페이 대표",
+      "link": "https://n.news.naver.com/mnews/article/421/0009240719?sid=101",
+      "originallink": "https://www.news1.kr/photos/8170622",
+      "description": "신호철 카카오페이증권 대표가 21일 서울 여의도 한국거래소에서 열린 2026 뉴스1 투자포럼(NIF)에서 '투자의 퀄리티업, 신뢰할 수 있는 AI 에이전트의 조건'을 주제로 기조연설을 하고 있다. 민영뉴스통신사 뉴스1...",
+      "pubDate": "2026-10-21T01:10:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "지니틱스 주가 기세등등… 삼성페이 터치IC 모듈 공급 모멘텀 부각",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497133",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497133",
+      "description": "네이버 증권. 삼성전자의 모바일 결제 서비스인 삼성페이 관련 종목들이 21일 혼조세를 보이는 가운데 일부 부품 및 핀테크 종목을 중심으로 강세를 나타내고 있다. 삼성페이는 스마트폰에 신용카드나 체크카드 정보를...",
+      "pubDate": "2026-10-21T01:08:00+00:00",
+      "category": "삼성페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "부산도시철도 1회용 승차권 구매에 카드·간편결제 도입",
+      "link": "https://n.news.naver.com/mnews/article/421/0009240615?sid=102",
+      "originallink": "https://www.news1.kr/local/busan-gyeongnam/6326810",
+      "description": "결제 수단으로는 국내 9개 카드사와 비자(VISA), 마스터카드, JCB 등 해외 발급 신용카드를 비롯해 삼성페이·애플페이·카카오페이·네이버페이·알리페이·위챗페이 등 국내외 주요 간편결제가 모두 지원된다. 이번 서비스...",
+      "pubDate": "2026-10-21T00:43:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스1"
+    },
+    {
+      "title": "한국인 가장 많이 쓰는 페이 앱은 '삼성 월렛'…월 이용자 1887만 명",
+      "link": "https://n.news.naver.com/mnews/article/421/0009240401?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6326640",
+      "description": "이어 카카오페이가 1266만 명으로 2위를 기록했고 △네이버페이 704만 명 △페이코(PAYCO) 213만 명 △엘포인트(L.POINT with L.PAY) 86만 명 △쓱페이(SSGPAY) 45만 명 순으로 집계됐다. 간편결제 앱 이용자 비중도 꾸준히 늘고...",
+      "pubDate": "2026-10-20T23:46:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "우리카드, 네이버페이 손잡고 체크카드 적립 경쟁..실적 조건 없이 최대...",
+      "link": "https://kpenews.com/View.aspx?No=4272243",
+      "originallink": "https://kpenews.com/View.aspx?No=4272243",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] 우리카드가 네이버페이와 손잡고 전월 이용실적 조건 없이 최대 1.3%를 적립해 주는 체크카드를 선보인다. 신용카드보다 혜택이 제한적인...",
+      "pubDate": "2026-10-20T22:52:00+00:00",
+      "category": "네이버페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "‘춘천고향기부제’ 재기부 행사…네이버페이 만 포인트",
+      "link": "https://n.news.naver.com/mnews/article/056/0012277710?sid=101",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690999&ref=A",
+      "description": "대상은 2023년부터 25년까지 춘천시에 기부한 사람 4,700명입니다. 이번 행사 기간 휴대전화로 관련 문자를 받고 춘천에 10만 원 이상 기부하면, 네이버페이 만 포인트를 다음 달(11월) 13일 경품으로 지급합니다.",
+      "pubDate": "2026-10-20T22:43:00+00:00",
+      "category": "네이버페이",
+      "source": "KBS 뉴스"
+    },
+    {
+      "title": "네이버페이, 온·오프라인 접점 늘리며 생애 전반 서비스 확장",
+      "link": "https://www.news2day.co.kr/article/20261020500313",
+      "originallink": "https://www.news2day.co.kr/article/20261020500313",
+      "description": "[그림=ChatGPT] [뉴스투데이=김태규 기자] 네이버페이(Npay)의 매장용 결제 단말기 ‘Npay 커넥트’가 10만 곳을 넘어선 가운데, 올해 대출 비교·연금 조회·보험금 청구 등 금융 서비스도 잇따라 나왔다. 온라인 결제를...",
+      "pubDate": "2026-10-20T22:06:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "“광명스피돔, 자크닉 사진 공유하고 네이버페이 받자”",
+      "link": "https://m.sports.naver.com/general/article/144/0001145355",
+      "originallink": "https://sports.khan.co.kr/article/202610210416003?pt=nv",
+      "description": "경륜경정총괄본부는 응모자 가운데 추첨을 통해 10명을 선정해 네이버페이 포인트 3만 원을 지급한다. 당첨자는 11월 6일 발표할 예정이다. 경륜경정총괄본부 관계자는 “이번 포토 콘테스트를 통해 광명스피돔에서...",
+      "pubDate": "2026-10-20T19:17:00+00:00",
+      "category": "네이버페이",
+      "source": "스포츠경향"
+    },
+    {
+      "title": "한국핀테크산업협회·영란은행, 디지털금융 협력 간담회 성료",
+      "link": "https://www.tokenpost.kr/news/blockchain/424752",
+      "originallink": "https://www.tokenpost.kr/news/blockchain/424752",
+      "description": "이번 간담회는 한국의 디지털자산·토큰화 상품과 간편결제·전자지갑 서비스의 발전 현황을 공유하고 영국의 디지털금융 정책 및 감독·규제 방향에 대한 이해를 높이기 위해 마련됐다. 특히 국경 간 결제와 AI 기반...",
+      "pubDate": "2026-10-20T14:32:00+00:00",
+      "category": "간편결제",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "핀테크산업협회, 영국 중앙은행과 디지털금융 협력 논의",
+      "link": "https://n.news.naver.com/mnews/article/030/0003476962?sid=101",
+      "originallink": "https://www.etnews.com/20261020000422",
+      "description": "이번 간담회는 한국의 디지털자산·토큰화 상품과 간편결제·전자지갑 서비스의 발전 현황을 공유하고, 영국의 디지털금융 정책 및 감독·규제 방향에 대한 이해를 높이기 위해 마련됐다. 특히 국경 간 결제와 인공지능(AI)...",
+      "pubDate": "2026-10-20T14:11:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "담양군, 10만원 이상 고향사랑기부하면 '네이버페이' 추가 지급",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=352562",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=352562",
+      "description": "담양군은 오는 21일부터 23일까지 사흘간 지정된 이벤트 페이지를 통해 10만원 이상 기부한 참여자에게 네이버페이 1만5,000원권을 지급한다. [제공=담양군] 전남광주 담양군이 고향사랑기부 참여를 독려하기 위해...",
+      "pubDate": "2026-10-20T13:25:00+00:00",
+      "category": "네이버페이",
+      "source": "녹색경제신문"
+    },
+    {
+      "title": "담양군에 10만원 기부하면 네이버페이 15000원권…23일까지 고향사랑기...",
+      "link": "https://www.betanews.net/article/view/beta202610200130",
+      "originallink": "https://www.betanews.net/article/view/beta202610200130",
+      "description": "20일 군에 따르면 행사 기간 지정된 온라인 페이지를 통해 담양군에 10만원 이상 기부한 참여자 전원에게 네이버페이 1만5000원권을 지급한다. 이벤트 혜택을 받으려면 반드시 지정된 위기브 이벤트 페이지를 통해...",
+      "pubDate": "2026-10-20T12:38:00+00:00",
+      "category": "네이버페이",
+      "source": "베타뉴스"
+    },
+    {
+      "title": "금융자산 41조 토스는 그룹감독 받는데…86조 카카오는 제외",
+      "link": "https://n.news.naver.com/mnews/article/018/0006392438?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04969206645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "지난해 말 기준 주력업종인 여수신업(카카오뱅크) 자산은 76조4098억원인 반면, 비주력업종인 금융투자업(카카오페이증권)과 보험업(카카오페이손해보험) 자산은 각각 2조3442억원, 1591억원으로 합계 2조5033억원에 그쳤기...",
+      "pubDate": "2026-10-20T09:39:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "담양군, 10만원 이상 고향사랑기부···네이버페이 1만5000원 쿠폰",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482308",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482308",
+      "description": "행사 기간 지정된 이벤트 페이지를 통해 담양군에 10만원 이상 기부하면 참여자 모두에게 네이버페이 1만5000원권 쿠폰을 제공한다. 혜택을 받으려면 반드시 해당 이벤트 페이지에서 기부 절차를 진행해야 한다....",
+      "pubDate": "2026-10-20T08:38:00+00:00",
+      "category": "네이버페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "카카오페이, 션과 소상공인 돕는 기부 마라톤 '2026 롱런' 연다",
+      "link": "https://www.tournews21.com/news/articleView.html?idxno=146214",
+      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=146214",
+      "description": "카카오페이가 가수 션의 유튜브 채널 '션과함께'와 함께 소상공인을 돕는 기부 마라톤 '2026 LONG RUN(롱런)'을 연다. 러너들이 내디딘 발걸음이 쌓일수록 나눔 규모도 커지는 방식으로, 올해는 지난해의 두 배가 넘는...",
+      "pubDate": "2026-10-20T07:50:00+00:00",
+      "category": "카카오페이",
+      "source": "투어코리아"
+    },
+    {
+      "title": "카카오페이, 소상공인 위한 기부 마라톤 '2026 롱런' 개최",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=281478",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=281478",
+      "description": "카카오페이는 가수 션의 유튜브 채널 '션과 함께'와 손잡고 소상공인 지원을 위한 온·오프라인 기부 마라톤 캠페인 '2026 롱런'을 개최한다고 20일 밝혔다. 이는 참가자들이 카카오페이 만보기 서비스를 통해 걷거나...",
+      "pubDate": "2026-10-20T07:18:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "현금·페이머니 쓰면 10% 할인?… 간편결제, 최대 수혜자 되나",
+      "link": "https://n.news.naver.com/mnews/article/008/0005429085?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/10/21/2026102015180197267",
+      "description": "핀테크 협회에 따르면 주요 간편결제사(네이버페이·카카오페이·토스)의 선불충전금과 카드 결제 수수료 차이는 0.02~0.56%P(포인트) 사이다. 영세 가맹점에선 오히려 선불충전금 수수료가 카드 결제보다 높은 경우도 있다....",
+      "pubDate": "2026-10-20T06:58:00+00:00",
+      "category": "간편결제",
+      "source": "머니투데이"
+    },
+    {
+      "title": "핀테크산업협회·영란은행, 디지털금융 협력 본격화",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728525",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1728525",
+      "description": "이번 간담회는 한국의 디지털자산·토큰화 상품과 간편결제·전자지갑 서비스의 발전 현황을 공유하고, 영국의 디지털금융 정책과 감독·규제 방향을 살펴보기 위해 마련됐다. 간담회에는 김종현 한국핀테크산업협회...",
+      "pubDate": "2026-10-20T06:58:00+00:00",
+      "category": "간편결제",
+      "source": "EBN"
+    },
+    {
+      "title": "[함께가자 우리ESG] 카카오페이, 소상공인 기부 마라톤 진행... 상생 관...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138287",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=138287",
+      "description": "카카오페이는 소상공인을 위한 일상 속 한걸음 모으기에 한발 더 앞장선다. 카카오페이(대표 신원근)가 가수 션의 유튜브 채널 '션과 함께'와 손잡고 소상공인을 위한 온·오프라인 기부 마라톤 캠페인 '2026 LONG RUN'을...",
+      "pubDate": "2026-10-20T06:44:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "카카오페이, 소상공인 위한 기부 마라톤 개최",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322930",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322930",
+      "description": "이미지=카카오페이  카카오페이가 가수 션의 유튜브 채널과 손잡고 소상공인과의 상생을 위한 대규모 온·오프라인 기부 마라톤 캠페인을 본격적으로 시작한다. 카카오페이는 가수 션의 유튜브 채널 '션과 함께'와...",
+      "pubDate": "2026-10-20T06:16:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "카카오페이, 소상공인 기부 마라톤 ‘롱런’ 개최…500억 걸음·15억원 ...",
+      "link": "https://n.news.naver.com/mnews/article/119/0003144793?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1703716/?sc=Naver",
+      "description": "카카오페이가 이용자들의 걸음 수에 따라 최대 15억원을 소상공인 지원에 기부하는 마라톤 캠페인을 진행한다. 카카오페이는 가수 션의 유튜브 채널 ‘션과 함께’와 소상공인을 위한 온·오프라인 기부 마라톤 ‘2026...",
+      "pubDate": "2026-10-20T06:14:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "카카오페이, 가수 션과 함께 소상공인을 위한 기부 마라톤 개최",
+      "link": "https://n.news.naver.com/mnews/article/448/0000645926?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/10/20/2026102090163.html",
+      "description": "카카오페이가 가수 션과 함게 기부 마라톤을 개최한다. 20일 카카오페이는 가수 션과 함께 소상공인을 위한 온오프라인 기부 마라톤 캠페인 ‘2026 LONG RUN(롱런)’을 개최한다고 밝혔다. 참가자들이 카카오페이...",
+      "pubDate": "2026-10-20T06:07:00+00:00",
+      "category": "카카오페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "잠자는 충전금 깨우고, 기저귀 바우처 품고…생활 파고든 핀테크 [핀테...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2007979",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2007979",
+      "description": "매일일보 = 기영미 기자   |  지갑 구석에서 잠자던 선불충전금은 알림으로 깨워 돌려주고 기저귀·분유 바우처는 간편결제에 올라탔다. 제주 소상공인에게는 75억원 규모의 보증을 채워주고 보험 영업 현장에는 새 고객...",
+      "pubDate": "2026-10-20T01:58:00+00:00",
+      "category": "간편결제",
+      "source": "매일일보"
+    },
+    {
       "title": "[금융계 소식] NH투자증권·키움증권·삼성증권·토스·금투협·카카오페...",
       "link": "https://sateconomy.co.kr/news/view/1065576340736059",
       "originallink": "https://sateconomy.co.kr/news/view/1065576340736059",
@@ -3517,7 +3724,7 @@
       "description": "광주은행은 은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로 연결되며, 가맹점...",
       "pubDate": "2026-10-11T07:48:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "광주은행·토스 손잡고 '디지털 결제 실험' 성공",
@@ -9062,196 +9269,7 @@
       "pubDate": "2026-09-21T01:56:00+00:00",
       "category": "토스페이",
       "source": "kukinews"
-    },
-    {
-      "title": "[금융★들의 궤적] 토스 이승건, 혁신DNA…슈퍼앱 넘어 결제망으로",
-      "link": "https://n.news.naver.com/mnews/article/293/0000090728?sid=101",
-      "originallink": "https://www.bloter.net/news/articleView.html?idxno=674096",
-      "description": "토스페이 간편결제와 토스페이먼츠의 전자지급결제대행(PG), 토스플레이스의 결제 단말기 등 온라인 사업자와 오프라인 가맹점을 연결하는 사업이 포함된다. 토스페이먼츠의 PG와 토스플레이스의 결제 단말기를...",
-      "pubDate": "2026-09-21T01:09:00+00:00",
-      "category": "토스페이",
-      "source": "블로터"
-    },
-    {
-      "title": "네이버페이, 추석 해외결제 프로모션…74개국서 QR결제 적립",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=721441",
-      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=721441",
-      "description": "컨슈머타임스=이필립 기자 | 네이버페이가 추석 연휴 해외여행객을 대상으로 해외 현장결제 프로모션을 진행한다. 다음달 31일까지 진행하는 '복주머니 프로모션'은 복주머니를 열어 무작위로 공개되는 결제 금액과...",
-      "pubDate": "2026-09-21T00:56:00+00:00",
-      "category": "네이버페이",
-      "source": "컨슈머타임스(Consumertimes)"
-    },
-    {
-      "title": "네이버페이, 추석 해외여행객 겨냥…일본·중국 결제 할인·적립",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064499",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064499",
-      "description": "네이버페이(Npay)가 추석 연휴 해외여행객을 겨냥해 해외 현장결제 혜택을 확대한다. 결제 조건에 따라 포인트를 적립하는 프로모션과 함께 일본·중국·홍콩·마카오 등 주요 여행지에서 즉시 할인 혜택을 제공한다....",
-      "pubDate": "2026-09-21T00:56:00+00:00",
-      "category": "네이버페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "더즌, 독보적 결제 인프라에 스테이블코인 솔루션 이식... 핀테크 판도 ...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488967",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488967",
-      "description": "네이버 증권. 스테이블코인 테마가 21일 법정화폐 연동 암호화폐의 제도권 편입 움직임과 결제 인프라 확대... 위메이드, 드림시큐리티, 아톤, 카카오페이가 오름세를 이어가는 모습이다. 일부 종목은 단기 차익 실현...",
-      "pubDate": "2026-09-21T00:40:00+00:00",
-      "category": "간편결제",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "“해외서 QR결제하면 포인트·할인”…네이버페이, 추석 맞아 혜택 확대",
-      "link": "https://n.news.naver.com/mnews/article/138/0002242141?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026092109340631625",
-      "description": "네이버페이가 추석 연휴 해외여행객을 겨냥해 해외 QR결제 혜택을 확대한다. 일본·중국·홍콩·마카오 등에서 결제하면 포인트 적립이나 즉시 할인을 받을 수 있다. 21일 네이버페이에 따르면 오는 10월 31일까지 해외...",
-      "pubDate": "2026-09-21T00:37:00+00:00",
-      "category": "네이버페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "네이버페이, 추석 맞아 해외 QR결제 혜택 확대…74개국서 포인트 적립",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701952",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701952",
-      "description": "네이버페이가 추석 연휴를 맞아 해외 QR결제 이용 고객을 대상으로 포인트 적립과 결제금액 할인 혜택을 제공한다. 전 세계 74개 국가·지역에서 참여할 수 있는 '복주머니' 이벤트를 비롯해 일본과 중국 등 주요...",
-      "pubDate": "2026-09-21T00:20:00+00:00",
-      "category": "네이버페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "원주시, 추석 명절 '고향사랑기부 감사 이벤트'...네이버페이 지급",
-      "link": "https://www.newspim.com/news/view/20260921000215",
-      "originallink": "https://www.newspim.com/news/view/20260921000215",
-      "description": "기부금에 따라 10만 원 이상 20만 원 미만 기부자 중 선착순 50명에게 네이버페이 포인트 1만 원권, 20만 원 이상 기부자 중 선착순 30명에게 네이버페이 포인트 2만 원권이 지급된다. 대상자는 고향사랑e음 시스템에서...",
-      "pubDate": "2026-09-21T00:15:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "[더벨]토스플레이스, 첫 신종자본증권 조달…모회사 지원 '눈길'",
-      "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609170141570480102510",
-      "originallink": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609170141570480102510",
-      "description": "비바리퍼블리카의 자회사 토스플레이스(Toss Place)가 올해 들어 잇따라 외부 자금 조달에 나서고 있다. 오프라인 결제 단말기 보급 확대 등 사업 확장 과정에서 자금 소요가 지속되는 가운데 자본잠식 상태에 놓이면서...",
-      "pubDate": "2026-09-20T22:02:00+00:00",
-      "category": "토스페이",
-      "source": "더벨"
-    },
-    {
-      "title": "토스, 플레이스로 오프라인 결제 판 뒤집었다",
-      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=363524",
-      "originallink": "http://www.smedaily.co.kr/news/articleView.html?idxno=363524",
-      "description": "토스는 얼굴인식 결제 서비스 '페이스페이'와 전용 단말기로, 네이버페이는 카드·QR·NFC·안면인식 기능을 통합한 단말기로, 카카오페이는 포스·키오스크와 연동한 QR 주문·결제 방식으로 각각 오프라인 고객 접점을...",
-      "pubDate": "2026-09-20T21:00:00+00:00",
-      "category": "토스페이",
-      "source": "중소기업신문"
-    },
-    {
-      "title": "\"섬마을까지 퍼졌다\"…토스플레이스, 가맹점 50만 돌파",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=549445",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=549445",
-      "description": "|중앙이코노미뉴스 정재혁 기자|토스플레이스는 자사 결제 단말기 '토스 프론트'를 설치한 전국 가맹점 수가 50만 개를 돌파했다고 20일 밝혔다. [사진=토스플레이스] 토스플레이스는 자사 결제 단말기 '토스 프론트'를...",
-      "pubDate": "2026-09-20T12:54:00+00:00",
-      "category": "토스페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "도심 넘어 읍·면·섬까지…토스플레이스 가맹점 50만 돌파",
-      "link": "https://n.news.naver.com/mnews/article/468/0001267715?sid=105",
-      "originallink": "https://www.sportsseoul.com/news/read/1636526?ref=naver",
-      "description": "토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스의 결제 단말기 ‘토스 프론트’ 설치 가맹점이 전국 50만곳을 넘어섰다. 지난 3월 30만곳을 돌파한 지 6개월 만에 약 20만곳이 늘었다. 토스플레이스는 토스...",
-      "pubDate": "2026-09-20T08:57:00+00:00",
-      "category": "토스페이",
-      "source": "스포츠서울"
-    },
-    {
-      "title": "토스플레이스 설치 전국 가맹점 50만개 돌파",
-      "link": "https://n.news.naver.com/mnews/article/003/0014202742?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20260920_0003797201",
-      "description": "토스의 결제 단말기 및 포스 솔루션 공급 자회사 토스플레이스가 자사 결제 단말기를 설치한 가맹점수가 50만개를 돌파했다고 20일 밝혔다. 토스플레이스 설치 가맹점은 지난 3월 30만개를 넘어섰고, 6월 40만개에 이어...",
-      "pubDate": "2026-09-20T07:23:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "울진군, 10만원이상 고향사랑기부자에 네이버페이·울진사랑패스 혜택",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3700334",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3700334",
-      "description": "참여자에게는 기부 금액에 따라 네이버페이 포인트가 제공되며, 10만원 이상 기부 시 2만원, 20만원 이상 기부 시 4만원 상당의 포인트가 지급된다. 기부자는 연말정산 시 세액공제와 함께 기부금의 30% 이내에서 답례품을...",
-      "pubDate": "2026-09-20T06:56:00+00:00",
-      "category": "네이버페이",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "“마라도 식당서도 쓴다”…토스플레이스 결제단말기, 가맹점 50만곳 돌...",
-      "link": "https://n.news.naver.com/mnews/article/029/0003049019?sid=101",
-      "originallink": "https://www.dt.co.kr/article/12084969?ref=naver",
-      "description": "토스의 오프라인 결제 인프라 자회사 토스플레이스가 전국 가맹점 50만곳을 돌파하며 무서운 성장세를 보이고 있다. 토스플레이스가 자사 스마트 결제 단말기 ‘토스 프론트’를 도입한 전국 가맹점 수가 50만곳을...",
-      "pubDate": "2026-09-20T06:43:00+00:00",
-      "category": "토스페이",
-      "source": "디지털타임스"
-    },
-    {
-      "title": "토스플레이스, 설치 가맹점 50만 돌파…읍·면·섬까지 전국 확산",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=365799",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=365799",
-      "description": "토스(운영사 비바리퍼블리카)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 결제 단말기 '토스 프론트'를 설치한 전국 가맹점 수 50만개를 돌파했다고 20일 밝혔다. 토스플레이스 설치 가맹점은 지난 3월...",
-      "pubDate": "2026-09-20T06:12:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜투데이"
-    },
-    {
-      "title": "토스플레이스, 가맹점 50만 돌파…6개월 새 20만곳 늘었다",
-      "link": "https://n.news.naver.com/mnews/article/018/0006372902?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01620326645582088&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "토스플레이스의 결제 단말기를 설치한 가맹점이 50만곳을 넘어섰다. 올해 들어 6개월 만에 20만곳 가까이 늘며 전국 오프라인 매장으로 확산하고 있다. 토스플레이스는 결제 단말기 ‘토스 프론트’를 설치한 가맹점이...",
-      "pubDate": "2026-09-20T04:18:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "명륜진사갈비, 10월11일까지 네이버페이 프로모션",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064056",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5064056",
-      "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 오는 10월 11일까지 네이버페이 결제 프로모션을 진행한다. 행사 기간 매장에서 네이버페이 포인트·머니로 4만3800원 이상 결제하면 6000원 상당의 네이버페이 포인트가...",
-      "pubDate": "2026-09-20T04:10:00+00:00",
-      "category": "네이버페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "신원근 카카오페이 대표, 신용관리 서비스로 ‘사장님’ 고객 선점 [페...",
-      "link": "https://www.fntimes.com/html/view.php?ud=20260918152856189ed56b8e1f8_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=20260918152856189ed56b8e1f8_18",
-      "description": "신원근 카카오페이 대표가 개인사업자의 신용관리 수요를 대출 중개로 연결한다. 당장 자금이 필요하지 않은 사업자까지 고객으로 확보한 뒤 실제 대출 수요가 생기면 상품 비교와 실행으로 이어지게 해 중개수수료를...",
-      "pubDate": "2026-09-20T04:02:00+00:00",
-      "category": "카카오페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "토스플레이스, 6개월 새 가맹점 20만 늘었다…전국 50만곳 돌파",
-      "link": "https://n.news.naver.com/mnews/article/119/0003134712?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1692611/?sc=Naver",
-      "description": "토스플레이스의 결제 단말기 설치 가맹점이 6개월 만에 약 20만곳 늘어나며 전국 50만곳을 넘어섰다. 수도권을 비롯한 주요 도심뿐 아니라 읍·면과 섬 지역까지 설치 범위가 확대됐다. 토스의 결제 단말기 및 포스(POS)...",
-      "pubDate": "2026-09-20T04:01:00+00:00",
-      "category": "토스페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "토스플레이스, 결제 단말기 설치 가맹점 50만곳 돌파",
-      "link": "https://n.news.naver.com/mnews/article/001/0016323584?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20260920025700017?input=1195m",
-      "description": "최근 6개월 새 20만곳 증가…음식점·뷰티 등 업종도 확대 토스는 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스의 결제 단말기 '토스 프론트'를 설치한 가맹점이 50만곳을 돌파했다고 20일 밝혔다. 토스플레이스에...",
-      "pubDate": "2026-09-20T03:59:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "토스플레이스, 결제 단말기 50만대 돌파…읍·면·섬까지 안착",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=212912",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=212912",
-      "description": "토스 프론트는 신용카드는 물론 네이버페이, 카카오페이, 애플페이 등 다양한 간편결제를 완벽히 지원한다. 여기에 매장 상황에 따라 터치 한 번으로 고객이 직접 주문하는 '키오스크 모드' 전환이 가능해진 만큼 인력...",
-      "pubDate": "2026-09-20T03:02:00+00:00",
-      "category": "토스페이",
-      "source": "SR타임스"
     }
   ],
-  "lastFetch": "2026-10-20T01:44:34.653492+00:00"
+  "lastFetch": "2026-10-21T01:30:17.852131+00:00"
 }
