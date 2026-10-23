@@ -1,6 +1,1005 @@
 {
   "articles": [
     {
+      "title": "카카오페이, 김천김밥축제서 QR오더 운영…줄 서지 않고 주문",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241124",
+      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=241124",
+      "description": "카카오페이가 '2026 김천김밥축제'에서 줄을 서지 않고 김밥을 주문할 수 있는 간편 주문·결제 서비스 'QR오더'를 운영한다고 23일 밝혔다. 이번 서비스는 축제 방문객들이 김밥을 구매하기 위해 부스 앞에서 기다리는...",
+      "pubDate": "2026-10-23T01:22:00+00:00",
+      "category": "카카오페이",
+      "source": "이지경제"
+    },
+    {
+      "title": "신한투자증권, Npay 증권 이벤트...최대 80만원 상당 혜택",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=367938",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=367938",
+      "description": "신한투자증권은 네이버페이증권 간편주문 서비스 이용 고객을 대상으로 '네이버페이(Npay) 증권 간편주문 8weeks 챌린지'를 오는 12월 4일까지 진행한다고 23일 밝혔다. 이번 이벤트는 만 19세 이상 내국인 개인 고객...",
+      "pubDate": "2026-10-23T01:14:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "카카오페이, 줄 안서고 김밥 주문 한다… 김천김밥축제에 QR오더 도입",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93463",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93463",
+      "description": "카카오페이는 23일 개막한 '2026 김천김밥축제'의 공식 주문·결제 수단으로 QR오더를 운영한다고 밝혔다. 김천김밥축제는 지난해 10월 25~26일 이틀간 약 15만명이 방문했던 행사로, 올해는 의전·개막식·바가지요금을...",
+      "pubDate": "2026-10-23T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "\"서울레스토랑위크 50% 적립\"…네이버페이, Npay 커넥트 가맹점 프로모...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=557692",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=557692",
+      "description": "|중앙이코노미뉴스 정재혁 기자|네이버페이(Npay)는 오는 29일까지 진행되는 '2026 서울레스토랑위크'를 맞아 행사에 참여하는 'Npay 커넥트' 가맹점에서 Npay 포인트·머니로 결제하면 결제금액의 50%를 즉시 적립하는...",
+      "pubDate": "2026-10-23T01:12:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제에 QR오더·결제 할인 제공",
+      "link": "https://www.g-enews.com/view.php?ud=202610230941079612cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202610230941079612cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 김천김밥축제에 QR오더와 결제 할인 혜택을 도입해 관람객의 주문 편의를 높인다. 카카오페이는 23일 개막하는 ‘2026 김천김밥축제’에서 QR오더를 통한 주문·결제 서비스와 할인 혜택, 현장...",
+      "pubDate": "2026-10-23T01:02:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 1주년 만에 가입자 300만명 돌파",
+      "link": "https://ditoday.com/%ec%82%bc%ec%84%b1%ec%9b%94%eb%a0%9b-%eb%a8%b8%eb%8b%88%c2%b7%ed%8f%ac%ec%9d%b8%ed%8a%b8-1%ec%a3%bc%eb%85%84-%eb%a7%8c%ec%97%90-%ea%b0%80%ec%9e%85%ec%9e%90-300%eb%a7%8c%eb%aa%85-%eb%8f%8c%ed%8c%8c/",
+      "originallink": "https://ditoday.com/%ec%82%bc%ec%84%b1%ec%9b%94%eb%a0%9b-%eb%a8%b8%eb%8b%88%c2%b7%ed%8f%ac%ec%9d%b8%ed%8a%b8-1%ec%a3%bc%eb%85%84-%eb%a7%8c%ec%97%90-%ea%b0%80%ec%9e%85%ec%9e%90-300%eb%a7%8c%eb%aa%85-%eb%8f%8c%ed%8c%8c/",
+      "description": "디지털 인사이트 | 김동욱 기자 삼성전자의 간편결제 서비스 ‘삼성월렛 머니·포인트’가 출시 1주년을 맞아 가입자 300만 명을 돌파했다고 23일 밝혔다. 삼성월렛 머니·포인트는 삼성 월렛에 통합된 충전식 간편결제...",
+      "pubDate": "2026-10-23T01:02:00+00:00",
+      "category": "삼성페이",
+      "source": "ditoday"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제서 QR오더 운영…줄 없이 주문·결제",
+      "link": "https://www.the-today.com/news/articleView.html?idxno=92270",
+      "originallink": "https://www.the-today.com/news/articleView.html?idxno=92270",
+      "description": "카카오페이는 23일부터 열리는 '2026 김천김밥축제'에서 QR오더를 공식 주문·결제 수단으로 운영한다고 밝혔다. 축제 관람객은 현장 곳곳에 설치된 카카오페이 QR오더를 스마트폰으로 스캔해 김밥을 주문하고 결제할 수...",
+      "pubDate": "2026-10-23T01:00:00+00:00",
+      "category": "카카오페이",
+      "source": "더투데이"
+    },
+    {
+      "title": "신한투자증권, Npay 증권 간편주문 고객 대상 이벤트",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323343",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323343",
+      "description": "이미지=신한투자증권  신한투자증권은 네이버페이(Npay) 증권 간편주문 서비스 이용 고객을 대상으로 'Npay 증권 간편주문 8weeks 챌린지' 이벤트를 오는 12월4일까지 진행한다고 23일 밝혔다. 이번 이벤트는 만 19세 이상...",
+      "pubDate": "2026-10-23T00:58:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "신한투자증권, Npay 증권 이용자 거래 이벤트…신규 고객 최대 80만원 혜...",
+      "link": "https://www.viva100.com/article/20261023500085",
+      "originallink": "https://www.viva100.com/article/20261023500085",
+      "description": "신한투자증권이 네이버페이증권(Npay 증권)을 통해 주식을 거래하는 고객을 대상으로 거래금액에 따라 포인트와 상품권을 제공하는 이벤트를 진행한다. 특히 행사 기간 신한투자증권 계좌를 처음 개설한 고객에게는...",
+      "pubDate": "2026-10-23T00:56:00+00:00",
+      "category": "네이버페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "신한투자증권, 네이버페이 간편주문 거래 이벤트…최대 80만원 경품",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282152",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=282152",
+      "description": "신한투자증권이 네이버페이증권(Npay 증권) 간편주문 서비스 이용 고객을 대상으로 국내주식 거래 실적에 따라 포인트와 모바일 상품권을 지급하는 이벤트를 진행한다. 신규 계좌 개설 고객에게는 추첨을 통해 최대...",
+      "pubDate": "2026-10-23T00:56:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "신한투자증권, Npay 증권 간편주문 고객 대상 이벤트…최대 80만원 혜택",
+      "link": "https://n.news.naver.com/mnews/article/016/0002713367?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10912372?ref=naver",
+      "description": "신한투자증권은 네이버페이(Npay) 증권 간편주문 서비스 이용 고객을 대상으로 ‘Npay 증권 간편주문 8weeks 챌린지’ 이벤트를 오는 12월4일까지 진행한다고 23일 밝혔다. 이번 이벤트는 만 19세 이상 내국인 개인 고객...",
+      "pubDate": "2026-10-23T00:55:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "네이버페이, 서울레스토랑위크서 결제금액 50% 적립…최대 1만원",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497856",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497856",
+      "description": "네이버페이(Npay)가 '2026 서울레스토랑위크' 기간 행사 참여 음식점에서 Npay로 결제하면 결제금액의 50%를 포인트로 돌려주는 프로모션을 진행한다고 23일 밝혔다. 이번 행사는 오는 29일까지 진행되며...",
+      "pubDate": "2026-10-23T00:54:00+00:00",
+      "category": "네이버페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제 '줄서기' 없앤다...QR오더 제공",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323340",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323340",
+      "description": "사진=카카오페이  카카오페이가 23일부터 25일까지 김천 직지문화공원, 사명대사공원, 친환경생태공원 일원에서 열리는 '2026 김천김밥축제'의 '줄서기'를 없앤다. 카카오페이는 23일 이날 개막하는 김천김밥축제에서...",
+      "pubDate": "2026-10-23T00:52:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니·포인트' 서비스 출시 1주년…가입자 300만명 ...",
+      "link": "https://www.betanews.net/article/view/beta202610220136",
+      "originallink": "https://www.betanews.net/article/view/beta202610220136",
+      "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아 가입자 300만 명을 돌파했다. 삼성월렛 머니·포인트는 삼성 월렛에 통합된 충전식 간편결제 서비스로, 사용자가 머니를 충전해 결제하고...",
+      "pubDate": "2026-10-23T00:46:00+00:00",
+      "category": "삼성페이",
+      "source": "베타뉴스"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제 공식 주문·결제 참여…QR오더로 대기시간 단...",
+      "link": "https://www.socialvalue.kr/news/view/1065573050493961",
+      "originallink": "https://www.socialvalue.kr/news/view/1065573050493961",
+      "description": "카카오페이가 23일 개막한 ‘2026 김천김밥축제’에 QR오더 기반 주문·결제 서비스를 제공한다. 방문객이 음식 판매 부스에 줄을 서지 않고 스마트폰으로 김밥을 주문한 뒤 알림에 맞춰 수령할 수 있도록 해 축제 현장의...",
+      "pubDate": "2026-10-23T00:38:00+00:00",
+      "category": "카카오페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "네이버페이, 서울미식주간 50% 적립 혜택…최대 1만원",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86510",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=86510",
+      "description": "네이버페이가 23일부터 오는 29일까지 열리는 '2026 서울레스토랑위크' 기간 동안 대규모 결제 혜택을 제공한다고 밝혔다. 행사 참여 점포 중 네이버페이 커넥트 단말기를 도입한 곳에서 자체 포인트나 머니로 밥값을...",
+      "pubDate": "2026-10-23T00:36:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "신한투자증권, Npay 증권 간편주문 '8weeks 챌린지'",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268052",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268052",
+      "description": "화이트페이퍼, WHITEPAPER(사진=신한투자증권)  신한투자증권이 네이버페이증권(Npay 증권)의 '간편주문' 서비스 이용 활성화를 위한 이벤트를 연다. 신한투자증권은 '8weeks 챌린지'를 12월 4일까지 진행한다고 23일...",
+      "pubDate": "2026-10-23T00:32:00+00:00",
+      "category": "네이버페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제 공식 결제 수단 참여",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282121",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=282121",
+      "description": "카카오페이가 '2026 김천김밥축제'의 공식 주문·결제 수단으로 QR오더 서비스를 제공한다. 관람객들이 음식 구매를 위해 줄을 서지 않고 스마트폰으로 주문과 결제를 마칠 수 있도록 지원한다. 카카오페이는 23일부터...",
+      "pubDate": "2026-10-23T00:28:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "신한투자, 'Npay 증권' 타고 오시면 혜택 드려요!",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=313784",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=313784",
+      "description": "신한투자증권이 네이버페이증권(Npay 증권) 간편주문 서비스를 이용하는 고객을 대상으로 거래 실적에 따라 포인트와 상품권을 지급하는 이벤트를 진행한다. 신한투자증권은 오는 12월 4일까지 'Npay 증권 간편주문 8weeks...",
+      "pubDate": "2026-10-23T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제에 QR 주문·결제 도입",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709431",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709431",
+      "description": "카카오페이가 23일부터 열리는 '2026 김천김밥축제'에 QR 기반 주문·결제 서비스를 제공한다. 방문객이 음식 판매 부스에서 주문을 위해 대기하지 않고 스마트폰으로 김밥을 구매할 수 있도록 지원하고, 결제 실적에...",
+      "pubDate": "2026-10-23T00:22:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제에 QR오더 도입…대기 줄 없앤다",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86505",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=86505",
+      "description": "카카오페이가 2026 김천김밥축제에 참여해 대기 없이 음식을 주문할 수 있는 QR오더 시스템을 선보인다고 23일 밝혔다. 방문객들은 행사장에 마련된 카카오페이 QR코드를 스마트폰으로 스캔해 원하는 메뉴를 결제할 수...",
+      "pubDate": "2026-10-23T00:22:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "신한투자증권, Npay 증권 간편주문 '8weeks 챌린지' 이벤트",
+      "link": "https://n.news.naver.com/mnews/article/030/0003477931?sid=101",
+      "originallink": "https://www.etnews.com/20261023000026",
+      "description": "신한투자증권은 네이버페이증권(이하 Npay 증권) 간편주문 서비스 이용 고객을 대상으로 '8weeks 챌린지'를 12월 4일까지 진행한다고 23일 밝혔다. Npay 증권 간편주문을 통해 신한투자증권 웹트레이딩시스템(WTS)에서...",
+      "pubDate": "2026-10-23T00:20:00+00:00",
+      "category": "네이버페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[금융레이더]삼성생명/교보생명/카카오페이/고려저축은행",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610230851340470837",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610230851340470837",
+      "description": "◆카카오페이, ‘김천김밥축제’에 QR오더 도입 카카오페이는 23일부터 열리는 ‘2026 김천김밥축제’에서 QR오더를 공식 주문·결제 수단으로 운영한다. 축제 현장 QR코드를 스마트폰으로 스캔하면 부스에 줄을 서지...",
+      "pubDate": "2026-10-23T00:20:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "\"줄 안 서고 김밥 주문\"…카카오페이, 김천김밥축제 QR오더 운영",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=557635",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=557635",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 23일 개막한 '2026 김천김밥축제'에서 QR오더로 김밥을 주문·결제할 수 있도록 공식 결제 수단으로 참여한다고 밝혔다. [사진=카카오페이]  카카오페이는 23일 개막한 '2026...",
+      "pubDate": "2026-10-23T00:16:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "신한투자증권, 네이버페이 간편주문 거래 고객에 상품권 쏜다…신규 고...",
+      "link": "https://www.sentv.co.kr/article/view/sentv202610230024",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202610230024",
+      "description": "신한투자증권이 네이버페이증권(Npay 증권) 간편주문 서비스 이용 고객을 대상으로 거래 이벤트를 연다. 신한투자증권은 ‘Npay 증권 간편주문 8weeks 챌린지'를 12월 4일까지 진행한다고 23일 밝혔다. 간편한 투자...",
+      "pubDate": "2026-10-23T00:04:00+00:00",
+      "category": "네이버페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "핀테크 품은 증권사…신한투자증권, 네이버페이 이용자 겨냥 '거래 이벤...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91640",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91640",
+      "description": "신한투자증권은 네이버페이증권 플랫폼 내 '간편주문' 기능을 이용하는 주식 투자자들을 위한 'Npay 증권 간편주문 8weeks 챌린지'를 12월 4일까지 8주간 전격 가동한다고 23일 전했다. 이번 행사는 네이버페이 앱에서 별도의...",
+      "pubDate": "2026-10-23T00:04:00+00:00",
+      "category": "네이버페이",
+      "source": "더페어"
+    },
+    {
+      "title": "하나카드, 간편결제 인기 신용카드 1·3위 차지…일상·여행 혜택 통했...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=137968",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=137968",
+      "description": "1위 MOVING카드 ALLDAY모드는 하나페이·삼성페이·네이버페이·카카오페이·페이코를 이용한 온라인 결제에 기본 1%를 적립한다. 3일 연속 카드를 사용하면 다음 날부터 적립률이 최대 2%로 높아진다. 전월 이용 실적과...",
+      "pubDate": "2026-10-22T23:00:00+00:00",
+      "category": "간편결제",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니·포인트,가입자 300만 돌파...1주년 맞아 다양...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=56997",
+      "originallink": "https://www.public25.com/news/articleView.html?idxno=56997",
+      "description": "퍼블릭타임스=삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자 300만 명을... 삼성월렛으로 토스 유스카드 또는 카카오뱅크 mini카드를 한 차례 결제하면 2000포인트를 즉시 지급한다....",
+      "pubDate": "2026-10-22T22:30:00+00:00",
+      "category": "삼성페이",
+      "source": "퍼블릭타임스"
+    },
+    {
+      "title": "비바·토스페이먼츠 RSU 바이백 갈등… 합병 지연도 변수로",
+      "link": "https://n.news.naver.com/mnews/article/366/0001199794?sid=101",
+      "originallink": "https://biz.chosun.com/stock/market_trend/2026/10/23/VEHH3YMQQZA63DI2GLR3OSJJP4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "금감원은 지난해부터 비바리퍼블리카를 비롯한 핀테크 3사에 대한 정기검사를 시작했으며, 올해 네이버페이와 카카오페이에 대한 검사를 진행한 바 있다. 내년 정기검사 대상에 비바리퍼블리카가 오를 가능성이 큰...",
+      "pubDate": "2026-10-22T21:01:00+00:00",
+      "category": "토스페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "[이코노 브리핑] 네이버페이 ‘Npay 우리 체크카드’ 출시 외",
+      "link": "https://n.news.naver.com/mnews/article/022/0004169011?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261022520097?OutUrl=naver",
+      "description": "네이버페이 ‘Npay 우리 체크카드’ 출시 네이버페이가 우리은행·우리카드와 협력해 ‘Npay 머니 우리 통장’을 시즌2로 확대하고 연계 체크카드인 ‘Npay 우리 체크카드’를 새롭게 출시했다고 22일 밝혔다. Npay 머니...",
+      "pubDate": "2026-10-22T20:02:00+00:00",
+      "category": "네이버페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "국민은행, 중국 결제망 연계 서비스 출시…QR코드로 간편 결제",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3730046",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3730046",
+      "description": "KB국민은행, 중국에서도 'KB스타뱅킹'으로 간편하게 결제  KB국민은행(은행장 이환주)이 국내 금융권 최초로 중국 국가 결제망과 직접 연계한 결제 서비스를 도입했다. 이 서비스는 NUCC(Net Union Clearing Corporation)...",
+      "pubDate": "2026-10-22T13:46:00+00:00",
+      "category": "간편결제",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1년 만에 가입자 300만명 돌파",
+      "link": "https://www.lawissue.co.kr/view.php?ud=2026102221221570299817d053b9_12",
+      "originallink": "https://www.lawissue.co.kr/view.php?ud=2026102221221570299817d053b9_12",
+      "description": "삼성전자의 충전식 간편결제 서비스 삼성월렛 머니·포인트가 출시 1년 만에 가입자 300만명을 넘어섰다고 22일 밝혔다. 삼성전자에 따르면 지난해 10월 출시된 이 서비스는 두 달 만에 가입자 100만명을 기록한 데 이어...",
+      "pubDate": "2026-10-22T12:24:00+00:00",
+      "category": "삼성페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "카드고릴라, 간편결제 혜택 인기 신용카드 5종 선정",
+      "link": "https://www.lawissue.co.kr/view.php?ud=2026102220574046619817d053b9_12",
+      "originallink": "https://www.lawissue.co.kr/view.php?ud=2026102220574046619817d053b9_12",
+      "description": "카드고릴라가 간편결제 혜택을 제공하는 인기 신용카드 5종을 공개했다고 22일 밝혔다. 지난달 카드 상품 조회수와 신청 전환수를 기준으로 선정했으며, 하나카드의 ‘MOVING카드 ALLDAY모드’가 1위를 차지했다....",
+      "pubDate": "2026-10-22T12:00:00+00:00",
+      "category": "간편결제",
+      "source": "로이슈"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1년 만에 가입자 300만명",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=284951",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=284951",
+      "description": "삼성월렛 머니·포인트 서비스 [사진=삼성전자] 삼성전자는 자사의 충전식 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자 300만명을 돌파했다고 22일 밝혔습니다. 지난해 10월 출시 후 두 달 만에...",
+      "pubDate": "2026-10-22T11:20:00+00:00",
+      "category": "삼성페이",
+      "source": "팍스경제TV"
+    },
+    {
+      "title": "12월부터 카카오페이로도 지방세 환급 된다",
+      "link": "https://n.news.naver.com/mnews/article/123/0002392421?sid=101",
+      "originallink": "http://www.joseilbo.com/news/news_read.php?uid=577979&class=9&grp=",
+      "description": "올해 12월부터 카카오페이 등 민간 금융 앱으로 지방세 환급이 가능해진다. 행정안전부(장관 윤호중)는 22일 민간기업 등과 '지방세 환급금 조회·환급 서비스' 업무협약을 체결했다고 밝혔다. 행안부와 대한민국...",
+      "pubDate": "2026-10-22T10:58:00+00:00",
+      "category": "카카오페이",
+      "source": "조세일보"
+    },
+    {
+      "title": "알리페이 20% 할인에 중화권 관광객 몰렸다…대구 간편결제 92%↑",
+      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088239",
+      "originallink": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088239",
+      "description": "대구문화예술진흥원이 중화권 관광객을 대상으로 모바일 간편결제 프로모션을 추진한 결과 지역 내 소비가 크게 증가한 것으로 나타났다. 대구광역시와 관광본부는 지난 7월 22일부터 연말까지 알리페이플러스와 협력해...",
+      "pubDate": "2026-10-22T10:00:00+00:00",
+      "category": "간편결제",
+      "source": "경북일보"
+    },
+    {
+      "title": "대구 외국인 간편결제 92% 증가…소비 확대",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875399",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875399",
+      "description": "모바일간편결제 KV 한국어. 사진 = 대구문화예술진흥원 제공 | 대구=한스경제 유재원 기자 | 대구시와 대구문화예술진흥원 관광본부가 중화권 관광객을 대상으로 추진하는 모바일 간편결제 활성화 프로모션이 이용...",
+      "pubDate": "2026-10-22T09:42:00+00:00",
+      "category": "간편결제",
+      "source": "한스경제"
+    },
+    {
+      "title": "카카오페이 김지현 클랜장, 스톡옵션 행사로 8000주 취득",
+      "link": "https://sateconomy.co.kr/news/view/1065600881108742",
+      "originallink": "https://sateconomy.co.kr/news/view/1065600881108742",
+      "description": "행사가격 주당 5000원 ▲ 카카오페이 [연합뉴스] 카카오페이(대표 신원근) 비등기임원인 김지현 클랜장이 주식매수선택권(스톡옵션)을 행사해 보통주 8000주를 취득했다. 22일 카카오페이 공시에 따르면 주당...",
+      "pubDate": "2026-10-22T09:36:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "KB국민은행, 중국서도 'KB스타뱅킹'으로 간편 결제",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=775585",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=775585",
+      "description": "이용 방법은 간편하다. 고객은 별도의 현지 결제 앱을 설치하거나 여권 및 신용카드 등 개인정보를 추가로 등록할 필요없이 중국 현지 가맹점에 비치된 QR코드를 KB스타뱅킹으로 스캔해 결제하면 된다. 또한 직접...",
+      "pubDate": "2026-10-22T09:32:00+00:00",
+      "category": "간편결제",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "[국감2026] 은행 쏠림 심화에 대출규제·간편결제 개선 요구 이어져",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709309",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709309",
+      "description": "네이버페이와 토스페이 등 국내 간편결제 서비스가 아이폰의 NFC 기능을 활용해 결제할 수 있도록 관련 환경을 개선해야 한다는 요구다. 외국인 관광객의 결제 편의를 높이기 위해 정부가 보다 적극적으로 결제 인프라...",
+      "pubDate": "2026-10-22T09:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "[카드 뉴스브리핑] 우리카드 'Npay 우리 체크' 출시",
+      "link": "https://www.asiatime.co.kr/article/20261022500408",
+      "originallink": "https://www.asiatime.co.kr/article/20261022500408",
+      "description": "□ 우리카드 'Npay 우리 체크' 출시 우리카드가 네이버페이(Npay)와 ‘Npay 우리 체크’를 선보였다. 이 카드는 전월 실적과 관계 없이 이용 금액의 최대 1.3%를 Npay 포인트로 쌓을 수 있다. 국내외에서 기본으로 0.5%가...",
+      "pubDate": "2026-10-22T09:30:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "KB국민은행, 중국에서도 'KB스타뱅킹'으로 간편 결제",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1020616",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1020616",
+      "description": "위챗페이는 중국 간편 결제 서비스다. 중국 안에선 널리 사용되고 있다. 중국 명칭은 웨이신즈푸(微信支付)다. 위챗페이는 중국 주요 모바일 메신저인 위챗에 기본으로 들어가 있다. 장기 체류 외국인의 경우 중국...",
+      "pubDate": "2026-10-22T09:30:00+00:00",
+      "category": "간편결제",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "애플페이 문턱 높은 한국…외국인 결제 불편 국감서 필요성 제기 [현장...",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=554970",
+      "originallink": "https://www.ngetnews.com/news/articleView.html?idxno=554970",
+      "description": "EU를 비롯해 미국·영국·일본 등에서는 경쟁당국의 조치 등을 통해 NFC 기능 개방이 이뤄졌지만 한국에서는 네이버페이·토스페이 등 다른 간편결제 서비스 기능을 활용하기 어려운 상황이다. 이찬진 금융감독원장은...",
+      "pubDate": "2026-10-22T09:08:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스저널리즘"
+    },
+    {
+      "title": "애플페이 제휴사 한국은 현대카드뿐…日 200곳·中 100곳 이상",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900454",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=900454",
+      "description": "국내 애플페이 제휴사가 현대카드 한 곳에 그치는 원인으로 높은 수수료와 단말기 보급 부족이 지목됐다. 22일 국회 정무위원회 금융위원회·금융감독원 종합감사에서 김용만 더불어민주당 의원은 애플페이 제휴...",
+      "pubDate": "2026-10-22T09:04:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "카카오페이, 소상공인 판로 지원…결제 접점 넓힌다",
+      "link": "https://www.sentv.co.kr/article/view/sentv202610220068",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202610220068",
+      "description": "카카오페이가 소상공인의 판로 개척을 돕기 위한 기업들의 상생 활동을 이어가고 있습니다. 카카오페이는 제품 판매부터 홍보, 교육까지 지원하는 캠페인을 운영하고 있는데요. 소비자들이 직접 제품을 구매하고 결제...",
+      "pubDate": "2026-10-22T09:02:00+00:00",
+      "category": "카카오페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1년 만에 가입자 300만명 돌파",
+      "link": "https://n.news.naver.com/mnews/article/029/0003054743?sid=105",
+      "originallink": "https://www.dt.co.kr/article/12090762?ref=naver",
+      "description": "삼성전자는 간편결제 서비스 ‘삼성월렛 머니·포인트’가 출시 1년 만에 가입자 300만명을 돌파했다고 22일... 결제하는 고객에게는 포인트 2.5%를 추가 적립해준다. 영 등급 고객을 대상으로는 삼성 월렛으로 토스...",
+      "pubDate": "2026-10-22T09:02:00+00:00",
+      "category": "삼성페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "돈 버는 토스증권, 재촉 않는 VC…토스 IPO ‘속도 조절’",
+      "link": "https://www.kukinews.com/article/view/kuk202610220182",
+      "originallink": "https://www.kukinews.com/article/view/kuk202610220182",
+      "description": "상장한 쿠팡은 국내에서 번 돈으로 미국에 상장했다는 비판을 받았다. 업계 일각에서는 금융업이 인허가 산업인 만큼, 해외 선상장이 향후 당국 인허가에서 부담이 될 수 있다는 우려도 나온다. 페이스페이·해외사업...",
+      "pubDate": "2026-10-22T08:38:00+00:00",
+      "category": "토스페이",
+      "source": "kukinews"
+    },
+    {
+      "title": "아트앤하트, 네이버페이와 'Npay 커넥트' 도입 제휴",
+      "link": "https://n.news.naver.com/mnews/article/008/0005430353?sid=101",
+      "originallink": "https://www.mt.co.kr/industry/2026/10/22/2026102213022166521",
+      "description": "아동 미술교육 브랜드 아트앤하트는 네이버페이와 제휴를 맺고 전국 450여 개 가맹점에 오프라인 통합 단말기 'Npay 커넥트'를 도입한다고 22일 밝혔다. Npay 커넥트는 현금, 카드, 간편결제, NFC, 얼굴인식 결제 '페이스사인...",
+      "pubDate": "2026-10-22T08:32:00+00:00",
+      "category": "네이버페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "[2026 국감] 애플페이 3년 넘도록 현대카드 한 곳뿐…국감서 '진입 장벽...",
+      "link": "https://www.news2day.co.kr/article/20261022500280",
+      "originallink": "https://www.news2day.co.kr/article/20261022500280",
+      "description": "카드사 지급액 중국의 5배 수준 단말기 설치에만 43억원 투입 금융당국 \"제도적 역할 고민\" [사진=현대카드] [뉴스투데이=김태규 기자] 국내 애플페이 서비스 카드사가 도입 3년이 넘도록 현대카드 한 곳에 그치는 가운데...",
+      "pubDate": "2026-10-22T08:30:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1년 만에 가입자 300만 돌파",
+      "link": "https://n.news.naver.com/mnews/article/092/0002442059?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20261022164702",
+      "description": "삼성월렛 머니·포인트는 삼성월렛에 내장된 충전식 간편결제 서비스다. 삼성전자는 \"전월 실적 조건이나... 해외 결제 시 2.5% 추가 적립, 영 등급 대상 제휴 청소년 카드(토스, 카카오뱅크) 결제 시 2000포인트 지급...",
+      "pubDate": "2026-10-22T08:21:00+00:00",
+      "category": "삼성페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "[산업 뉴스브리핑] '삼성월렛 머니·포인트' 서비스 출시 1주년…가입자...",
+      "link": "https://www.asiatime.co.kr/article/20261022500384",
+      "originallink": "https://www.asiatime.co.kr/article/20261022500384",
+      "description": "(사진=삼성전자) 삼성전자의 충전식 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아 가입자 300만 명을 돌파했다. 삼성월렛에서 충전한 머니로 결제하고 포인트를 적립하는 서비스다. 적립된 포인트는...",
+      "pubDate": "2026-10-22T08:20:00+00:00",
+      "category": "삼성페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "우리카드, 'Npay 우리 체크' 출시…Npay 포인트 최대 1.3% 적립",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149675",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149675",
+      "description": "우리카드는 네이버페이와 'Npay 우리 체크'를 선보인다. 사진=우리카드  우리카드(사장 진성원)는 네이버페이(Npay)와 'Npay 우리 체크'를 선보인다고 밝혔다. 22일 우리카드에 따르면 이 카드는 전월 실적과 관계 없이...",
+      "pubDate": "2026-10-22T08:16:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 1년 만에 300만명···해외 결제로 영역 넓힌다",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483393",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483393",
+      "description": "삼성전자의 충전식 간편결제 서비스 '삼성월렛 머니·포인트' 가입자가 출시 1년 만에 300만명을 넘어섰다.... Young 등급 고객이 삼성월렛으로 토스 유스카드 또는 카카오뱅크 mini카드를 이용해 1회 결제하면 2000포인트를...",
+      "pubDate": "2026-10-22T07:57:00+00:00",
+      "category": "삼성페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "네이버페이, 'Npay 머니 우리 통장' 전용 체크카드와 함께 시즌2 확대",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=724981",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=724981",
+      "description": "컨슈머타임스=김지훈 기자 | 네이버페이(대표이사 박상진)가 우리은행·우리카드와 협력해 'Npay 머니 우리 통장'을 시즌2로 확대하고 연계 체크카드인 'Npay 우리 체크카드'를 새롭게 출시했다고 22일 밝혔다. 'Npay...",
+      "pubDate": "2026-10-22T07:48:00+00:00",
+      "category": "네이버페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "우리카드 'Npay 우리 체크', 전월 실적 없이 Npay 포인트 최대 1.3% 적립",
+      "link": "https://www.cnbizm.com/news/articleView.html?idxno=318913",
+      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=318913",
+      "description": "문화경제 CNB저널 | CNB저널 | 씨앤비저널 우리카드는 네이버페이(Npay)와 함께 'Npay 우리 체크'를 출시한다고 22일 밝혔다. 카드 혜택을 받기 위한 전월 실적 조건과 별도 연회비 부담을 낮춰, 네이버페이를 자주...",
+      "pubDate": "2026-10-22T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "문화경제"
+    },
+    {
+      "title": "우리카드, 'Npay 우리 체크' 출시...포인트 최대 1.3% 적립",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323271",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323271",
+      "description": "사진=우리카드  우리카드는 네이버페이(Npay)와 함께 'Npay 우리 체크'를 출시했다고 22일 밝혔다. 이 카드는 전월 실적과 관계 없이 이용 금액의 최대 1.3%를 Npay 포인트로 쌓을 수 있다. 국내외에서 기본 0.5%가 적립되고...",
+      "pubDate": "2026-10-22T07:40:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "[2026 국감] 애플페이 수수료 중국의 5배…이억원 \"결제 편의 확대 방안...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000544658?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2379628.htm",
+      "description": "김용만 \"높은 수수료·단말기 부족에 확산 제약\"…현대카드만 서비스 제공 이찬진 \"수수료 문제 검토 중\" 국내 카드사가 애플에 지급하는 애플페이 수수료가 중국의 5배 수준에 달해 간편결제 시장 확대를 가로막고 있다는...",
+      "pubDate": "2026-10-22T07:28:00+00:00",
+      "category": "애플페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "우리카드, 국내 결제 최대 1.3% 적립 'Npay 우리 체크' 선봬",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=367891",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=367891",
+      "description": "우리금융그룹 계열사인 우리카드가 전월 이용 실적을 채우지 않아도 결제금액의 최대 1.3%를 네이버페이 포인트로 적립할 수 있는 체크카드를 출시했다. 우리카드는 네이버페이(Npay)와 함께 'Npay 우리 체크'를...",
+      "pubDate": "2026-10-22T07:22:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "[국감] \"애플페이 수수료 부담 해법 고민\"…금융당국, 결제 편의 확대 검...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=557539",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=557539",
+      "description": "|중앙이코노미뉴스 정재혁 기자|금융당국이 국내 애플페이 도입이 더딘 배경으로 지목된 높은 수수료와 결제 단말기 설치 비용 문제에 대해 해법을 고민하겠다는 입장을 밝혔다. 외국인 관광객의 결제 편의를 높이기...",
+      "pubDate": "2026-10-22T07:20:00+00:00",
+      "category": "애플페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "네이버페이-우리금융, 연 4% 통장 시즌2…1.3% 적립 체크카드도 출시",
+      "link": "https://n.news.naver.com/mnews/article/016/0002713101?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10911719?ref=naver",
+      "description": "네이버페이(Npay)가 우리은행과 손잡고 최고 연 4% 금리를 제공하는 ‘Npay 머니 우리 통장’의 특별금리 혜택을 다시 선보인다. 우리카드와 함께 전월 이용실적 조건 없이 국내 결제금액의 최대 1.3%를 적립해주는 전용...",
+      "pubDate": "2026-10-22T07:19:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니·포인트', 1년 만에 가입자 300만명 돌파",
+      "link": "https://www.mediapen.com/news/view/1131810",
+      "originallink": "https://www.mediapen.com/news/view/1131810",
+      "description": "Young 등급 고객은 삼성 월렛으로 토스 유스카드 또는 카카오뱅크 mini카드를 이용해 1회 결제하면 2000포인트를 즉시 받을 수 있다. 업계에서는 삼성전자가 간편결제 기능에 포인트 적립과 등급별 혜택을 결합하며 삼성...",
+      "pubDate": "2026-10-22T07:18:00+00:00",
+      "category": "삼성페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "\"충전해 쓰고 포인트도 빵빵하게\"…삼성월렛, 1년 만에 300만 명 모았다",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=916259",
+      "originallink": "https://www.kgnews.co.kr/news/article.html?no=916259",
+      "description": "충전식 간편결제 서비스 \"삼성월렛 머니·포인트\"가 출시 1년 만에 가입자 300만 명을 넘어섰다.... 머니로 결제하는 고객에게는 포인트 2.5%를 추가 적립한다. Young 등급 고객이 삼성월렛에 등록한 토스 유스카드나...",
+      "pubDate": "2026-10-22T07:12:00+00:00",
+      "category": "삼성페이",
+      "source": "kgnews"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 1년 만에 300만명…등급제·해외 결제로 서비스...",
+      "link": "https://www.todayeconomic.com/news/article.html?no=32554",
+      "originallink": "https://www.todayeconomic.com/news/article.html?no=32554",
+      "description": "투데이e코노믹 = 유서진 기자 | 삼성전자의 충전식 간편결제 서비스 ‘삼성월렛 머니·포인트’가 출시 1년 만에 가입자 300만명을 넘어섰다. 삼성전자는 포인트 등급제와 해외 결제 기능을 추가하며 서비스 이용 범위를...",
+      "pubDate": "2026-10-22T07:12:00+00:00",
+      "category": "삼성페이",
+      "source": "todayeconomic"
+    },
+    {
+      "title": "애플페이 확산 막는 수수료·단말기…이억원·이찬진 \"개선 방안 검토\"...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026102216034968346",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102216034968346",
+      "description": "애플페이 등 해외 간편결제 서비스의 국내 이용 기반이 제한적인 데다 근거리무선통신(NFC) 결제 단말기 보급도 충분하지 않아 외국인 관광객의 소비를 제약할 수 있다는 우려다. 22일 국회 정무위원회의 금융위원회...",
+      "pubDate": "2026-10-22T07:10:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "대구시, 중화권 관광객 '모바일 간편결제' 프로모션 효과 '톡톡'",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114107",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114107",
+      "description": "대구시와 대구문화예술진흥원 관광본부가 중화권 관광객을 위해 추진 중인 '모바일 간편결제 활성화 프로모션'이 큰 호응을 얻으며 가시적인 성과를 내고 있습니다. 외국인 관광객의 결제 편의를 높이고 관광 소비를...",
+      "pubDate": "2026-10-22T07:08:00+00:00",
+      "category": "간편결제",
+      "source": "불교방송"
+    },
+    {
+      "title": "KB국민은행, 중국에서도 'KB스타뱅킹'으로 간편 결제",
+      "link": "http://www.metroseoul.co.kr/article/20261022500473",
+      "originallink": "http://www.metroseoul.co.kr/article/20261022500473",
+      "description": "이용 방법은 간편하다. 고객은 별도의 현지 결제 앱을 설치하거나 여권 및 신용카드 등 개인정보를 추가로 등록할 필요없이 중국 현지 가맹점에 비치된 QR코드를 KB스타뱅킹으로 스캔해 결제하면 된다. 또한 직접...",
+      "pubDate": "2026-10-22T07:08:00+00:00",
+      "category": "간편결제",
+      "source": "메트로신문"
+    },
+    {
+      "title": "현장 간편결제 확산 제자리… 금융당국 \"제도 개선 검토\" [국감2026]",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172592",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092172592",
+      "description": "네이버페이·토스페이 등 다른 사업자의 참여를 넓히려면 결제 서비스 간 경쟁 여건부터 개선해야 한다는 주장이다. 결제 불편이 방한 관광객의 소비를 제약할 수 있다는 우려도 나왔다. 김 의원이 제시한 자료에 따르면...",
+      "pubDate": "2026-10-22T07:04:00+00:00",
+      "category": "간편결제",
+      "source": "IT조선"
+    },
+    {
+      "title": "출시 1년 만에 300만명…삼성월렛, 해외 결제까지 넓힌다",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202610221602343890de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202610221602343890de3f0aa1be_7",
+      "description": "삼성전자의 충전식 간편결제 서비스 ‘삼성월렛 머니·포인트’ 가입자가 출시 1년 만에 300만명을 넘어섰다. 삼성전자는 가입자 확대를 바탕으로 포인트 등급제를 도입하고 해외 결제까지 지원하며 삼성월렛의 결제...",
+      "pubDate": "2026-10-22T07:04:00+00:00",
+      "category": "삼성페이",
+      "source": "더파워"
+    },
+    {
+      "title": "토스, 3년간 대출중개금액 실적 자료 \"못 줘\"",
+      "link": "http://www.newscape.co.kr/news/articleView.html?idxno=125287",
+      "originallink": "http://www.newscape.co.kr/news/articleView.html?idxno=125287",
+      "description": "22일 국회 정무위원회 박성훈 국민의힘 의원이 금융감독원으로부터 제출받은 자료에 따르면 지난해 카카오페이·네이버파이낸셜·핀다 등 3개 플랫폼의 대출중개금액은 총 17조8592억원이었다. 플랫폼별로는 ▲카카오페이...",
+      "pubDate": "2026-10-22T07:00:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스케이프"
+    },
+    {
+      "title": "12월부터 카카오페이 등 민간앱에서도 지방세 환급금 신청",
+      "link": "https://n.news.naver.com/mnews/article/003/0014272456?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20261022_0003836647",
+      "description": "지방세 환급금 조회와 청구를 카카오페이 등 국민이 익숙한 민간 앱에서도 할 수 있게 된다. 행정안전부는 22일 정부서울청사에서 금융기관 및 플랫폼 기업과 이러한 내용의 '지방세 환급금 조회·환급 서비스' 관련...",
+      "pubDate": "2026-10-22T07:00:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니·포인트', 출시 1주년만에 가입자 300만명 돌파",
+      "link": "http://www.techholic.co.kr/news/articleView.html?idxno=223363",
+      "originallink": "http://www.techholic.co.kr/news/articleView.html?idxno=223363",
+      "description": "충전식 간편결제 서비스 '삼성월렛 머니ㆍ포인트'가 지난해 10월 출시된 이 서비스는 두 달 만에 가입자... 주는 '해외 결제 적립 이벤트'도 운영한다. 특히, Young 등급 고객을 대상으로는 삼성 월렛으로 토스 유스카드...",
+      "pubDate": "2026-10-22T06:58:00+00:00",
+      "category": "삼성페이",
+      "source": "techholic"
+    },
+    {
+      "title": "애플페이 확산 막는 수수료 부담에…금융당국 \"해법 고민\"",
+      "link": "https://n.news.naver.com/mnews/article/003/0014272440?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261022_0003837180",
+      "description": "국내에서 애플페이 도입이 더딘 배경으로 높은 수수료와 결제 단말기 설치 비용 등이 지목된 가운데 금융당국이 관련 문제에 대한 해법을 고민하겠다는 입장을 밝혔다. 외국인 관광객의 결제 편의를 높이기 위한 다양한...",
+      "pubDate": "2026-10-22T06:57:00+00:00",
+      "category": "애플페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1주년 가입자 300만 명 돌파…포인트 등급...",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254113",
+      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254113",
+      "description": "삼성전자는 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아 가입자 300만 명을 넘어섰다고... 머니로 결제하면 포인트 2.5%를 추가 적립해 주며, Young 등급 고객이 삼성월렛으로 토스 유스카드나...",
+      "pubDate": "2026-10-22T06:56:00+00:00",
+      "category": "삼성페이",
+      "source": "넥스트데일리"
+    },
+    {
+      "title": "[국감 2026] 애플페이 제휴사 국내 1곳뿐…김용만 의원, 결제 인프라 개...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282031",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=282031",
+      "description": "애플페이를 비롯한 간편결제 서비스의 이용환경이 해외보다 제한적인 만큼 금융당국의 적극적인 역할이 필요하다는 것이다. 22일 국회 정무위원회의 금융위원회·금융감독원 종합 국정감사에서 김용만 더불어민주당...",
+      "pubDate": "2026-10-22T06:56:00+00:00",
+      "category": "애플페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "'애플페이 수수료 中 5배' 지적…이억원 \"사업자 간 자율합의 사항\"",
+      "link": "https://n.news.naver.com/mnews/article/421/0009244723?sid=101",
+      "originallink": "https://www.news1.kr/finance/financial-policy/6328851",
+      "description": "윤수희 최재헌 기자 = 국내 카드사가 애플에 내는 애플페이 수수료가 중국의 5배 수준이어서 간편결제 확산을 가로막고 있다는 지적이 국정감사에서 나왔다. 이억원 금융위원장은 사업자 간 자율합의 사항이라며 정부...",
+      "pubDate": "2026-10-22T06:55:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "KB국민은행 중국 KB스타뱅킹 결제 서비스 시작",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079743",
+      "originallink": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079743",
+      "description": "국가에서 체감할 수 있는 혜택과 편의성을 높이겠다\"고 말했습니다. 최근 금융권에서는 해외 여행객 증가에 발맞춰 환전 수수료 절감과 현지 간편결제 편의성을 앞세운 영토 확장 경쟁이 치열해지고 있습니다.",
+      "pubDate": "2026-10-22T06:52:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스클레임"
+    },
+    {
+      "title": "하나카드, 간편결제 인기카드 1·3위…'무빙' 선두",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=84739",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=84739",
+      "description": "MOVING카드 ALLDAY모드는 하나페이·삼성페이·네이버페이·카카오페이·페이코를 통한 온라인 결제금액의 1%를 하나머니로 적립해준다. 하루 1원 이상 3일 연속 카드를 이용하면 적립률이 2%로 높아진다. 월...",
+      "pubDate": "2026-10-22T06:48:00+00:00",
+      "category": "간편결제",
+      "source": "PRESS9"
+    },
+    {
+      "title": "KB국민은행, 중국 현지 QR결제 서비스 도입… 해외결제 편의성 강화",
+      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=158428",
+      "originallink": "https://www.koreaittimes.com/news/articleView.html?idxno=158428",
+      "description": "이미지/ KB국민은행 제공 KB국민은행(은행장 이환주)이 중국 국가 결제망과 직접 연계한 QR결제 서비스를 출시하며 해외 간편결제 경쟁력 강화에 나섰다. 국내 금융사 가운데 처음으로 중국 국가 결제 인프라와 연계해...",
+      "pubDate": "2026-10-22T06:46:00+00:00",
+      "category": "간편결제",
+      "source": "Korea IT Times"
+    },
+    {
+      "title": "[단독]은행·증권·거래소 늘 때… 네이버페이 등 결제 3사 자금세탁방...",
+      "link": "https://n.news.naver.com/mnews/article/081/0003691558?sid=101",
+      "originallink": "https://www.seoul.co.kr/news/economy/2026/10/22/20261022500209?wlog_tag3=naver",
+      "description": "결제 3사 AML 전담인력 52명→42명 감소 은행 13.5%·증권 42.9%·거래소 4.4% 증가 네이버파이낸셜 전담인력 57% 급감 결제 3사 직원 14% 늘 때 AML 인력 줄어 보이스피싱 피해금 등 범죄자금의 흐름을 감시하는...",
+      "pubDate": "2026-10-22T06:43:00+00:00",
+      "category": "네이버페이",
+      "source": "서울신문"
+    },
+    {
+      "title": "삼성전자, \"'삼성월렛 머니·포인트' 출시 1년 만에 가입자 300만 명 돌파...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=766532",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=766532",
+      "description": "삼성전자는 기존 모바일 결제 서비스 삼성페이의 명칭을 2024년 3월 '삼성월렛'으로 바꾸고 단순 결제를... Young 등급 고객을 대상으로는 삼성 월렛으로 토스 유스카드 또는 카카오뱅크 mini카드 1회 결제 시 2000포인트를...",
+      "pubDate": "2026-10-22T06:40:00+00:00",
+      "category": "삼성페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "삼성전자, '삼성월렛 머니·포인트' 가입자 300만명 돌파",
+      "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88801",
+      "originallink": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88801",
+      "description": "삼성전자는 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자 300만명을 돌파했다고... 머니로 결제하면 포인트 2.5%를 추가 적립해 주는 행사도 마련했다. Young 등급 이용자가 삼성 월렛으로 토스...",
+      "pubDate": "2026-10-22T06:40:00+00:00",
+      "category": "삼성페이",
+      "source": "이코리아"
+    },
+    {
+      "title": "애플페이 도입 1곳뿐…외국인 관광객 늘어도 결제는 제자리",
+      "link": "https://n.news.naver.com/mnews/article/018/0006393847?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04664166645615544&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "유럽연합(EU)을 비롯해 미국·영국·일본 등에서는 경쟁당국의 조치 등을 통해 NFC 기능 개방이 이뤄졌지만 한국에서는 네이버페이·토스페이 등 다른 간편결제 서비스가 아이폰의 NFC 결제 기능을 활용하기 어려운...",
+      "pubDate": "2026-10-22T06:35:00+00:00",
+      "category": "애플페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "애플페이 3년 반 제자리… 이억원 \"결제수단 넓히겠다\"",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1728827",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1728827",
+      "description": "애플페이가 현대카드 중심으로 제한적으로 확산한 데다 근거리무선통신(NFC) 단말기 비용과 수수료 부담으로 소상공인·골목상권의 이용 여건이 개선되지 않고 있다는 것이다. 김용만 더불어민주당 의원은 22일 금융위원회...",
+      "pubDate": "2026-10-22T06:34:00+00:00",
+      "category": "애플페이",
+      "source": "EBN"
+    },
+    {
+      "title": "[국감] 김용만 의원 \"간편결제 확산, '자율' 아니라 '공공' 개입해야\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497668",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497668",
+      "description": "김용만 더불어민주당 의원이 22일 오후 서울 여의도 국회에서 열린 정무위원회 종합국정감사에서 이억원 금융위원장과 이찬진 금융감독원장에게 애플페이 수수료와 NFC 접근 제한, 외국인 결제환경 개선 방안에 관해...",
+      "pubDate": "2026-10-22T06:26:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 해외 결제·등급제 도입",
+      "link": "https://www.datasom.co.kr/news/articleView.html?idxno=210470",
+      "originallink": "https://www.datasom.co.kr/news/articleView.html?idxno=210470",
+      "description": "삼성전자의 충전식 간편결제 서비스 '삼성월렛 머니·포인트' 가입자가 서비스 시작 1년 만에 300만명을 넘어섰다고 22일 밝혔다. 삼성전자는 포인트 등급제와 해외 결제 기능을 추가했다. 삼성월렛 머니·포인트는...",
+      "pubDate": "2026-10-22T06:26:00+00:00",
+      "category": "삼성페이",
+      "source": "데이터솜"
+    },
+    {
+      "title": "KB국민은행, 중국 국가 결제망 연계 QR결제 서비스 출시…KB스타뱅킹으...",
+      "link": "http://www.queen.co.kr/news/articleView.html?idxno=465130",
+      "originallink": "http://www.queen.co.kr/news/articleView.html?idxno=465130",
+      "description": "이번 서비스 도입으로 중국을 방문한 고객들은 별도의 현지 결제 애플리케이션을 설치하거나 여권, 신용카드 등 개인정보를 추가 등록할 필요 없이 KB스타뱅킹만으로 간편하게 결제할 수 있게 됐다. 중국 현지...",
+      "pubDate": "2026-10-22T06:10:00+00:00",
+      "category": "간편결제",
+      "source": "queen"
+    },
+    {
+      "title": "KB국민은행 \"중국서도 'KB스타뱅킹'으로 간편 결제\"…현지 결제망 직접...",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884441",
+      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=884441",
+      "description": "KB국민은행이 KB스타뱅킹 해외결제 서비스를 중국으로 확대했다 KB국민은행은 국내 금융사 최초로 중국 국가 결제망과 연계한 결제 서비스를 선보였다고 22일 밝혔다. 이번 서비스는 중국의 국가 결제 인프라 기관인...",
+      "pubDate": "2026-10-22T06:06:00+00:00",
+      "category": "간편결제",
+      "source": "글로벌경제신문"
+    },
+    {
+      "title": "삼성전자, 삼성월렛 머니·포인트 출시 1년 만에 가입자 300만명 돌파",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241085",
+      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=241085",
+      "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자 300만명을 돌파했다. 포인트... 해외 결제 고객에게는 포인트 2.5% 추가 적립 혜택을 제공한다. 영 등급 고객이 토스 유스카드나 카카오뱅크...",
+      "pubDate": "2026-10-22T05:58:00+00:00",
+      "category": "삼성페이",
+      "source": "이지경제"
+    },
+    {
+      "title": "\"전월 실적 없이 최대 1.3% 적립\"…우리카드, 'Npay 우리 체크' 출시",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=557465",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=557465",
+      "description": "간편결제 포인트 적립을 앞세운 체크카드가 잇따르면서, 카드사들의 체크카드 경쟁도 조건 없는 단순 혜택과 해외 수수료 면제 중심으로 이어지는 모습이다. 우리카드 관계자는 \"복잡한 조건 없이 일상적인 카드...",
+      "pubDate": "2026-10-22T05:56:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "\"중국서도 'KB스타뱅킹'으로 간편결제\" 국민은행, '中결제망 연계 QR결제...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=129653",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=129653",
+      "description": "방식으로 간편하게 결제할 수 있다. 특히 직접 연계 구조를 통해 수수료 부담을 낮추고, 결제 시점에 환율 100% 우대 혜택을 적용해 해외결제에 따른 비용 부담을 실질적으로 줄였다. 이로써 'KB스타뱅킹 해외결제...",
+      "pubDate": "2026-10-22T05:54:00+00:00",
+      "category": "간편결제",
+      "source": "CatchNews"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니·포인트' 가입자 300만명 돌파",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=118583",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=118583",
+      "description": "./사진=삼성전자 삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트' 가입자가 출시 1년 만에 300만명을... 머니로 결제하면 포인트 2.5%를 추가 적립하는 이벤트도 운영한다. Young 등급 이용자가 삼성 월렛으로 토스...",
+      "pubDate": "2026-10-22T05:52:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "[가봤다] \"가치 있는 발견, 같이하는 성장\"...카카오페이, '오래오래 함...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=156387",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=156387",
+      "description": "카카오페이 '오래오래 함께가게' 성수 팝업스토어 입구 / 사진=배수현 기자 작은 브랜드가 소비자의 선택을 받기까지는 넘어야 할 문턱이 많다. 좋은 제품을 만들어도 이를 알릴 기회가 부족하고, 유동인구가 많은 상권에...",
+      "pubDate": "2026-10-22T05:50:00+00:00",
+      "category": "카카오페이",
+      "source": "테크M"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1년 만에 가입자 300만 명 돌파",
+      "link": "https://www.sentv.co.kr/article/view/sentv202610220099",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202610220099",
+      "description": "이 가운데 네이버페이·카카오페이 등 전자금융업자 비중이 55.4%로 절반을 넘었다. 삼성전자는 지난 20일부터 신규 기능을 담은 앱 업데이트를 순차 진행하고 있다. 포인트 등급제는 연간 누적 포인트에 따라 △Solar...",
+      "pubDate": "2026-10-22T05:48:00+00:00",
+      "category": "삼성페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "핀산협, 핀테크 현직자와 일대일 취업 상담…11월 27일 개최",
+      "link": "https://n.news.naver.com/mnews/article/030/0003477743?sid=101",
+      "originallink": "https://www.etnews.com/20261022000317",
+      "description": "이번 멘토링에는 네이버페이, 카카오페이, 토스를 비롯해 쿠콘, 아톤, 트래블월렛, 핀다, 한패스, 헥토파이낸셜, NHN KCP, 이나인페이, 한국자산매입, 한국평가데이터 등 결제·송금, 금융플랫폼, 데이터·신용평가 분야의...",
+      "pubDate": "2026-10-22T05:47:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 가입자 300만명 돌파… 해외 결제·등급제 도입",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=323289",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=323289",
+      "description": "삼성전자의 충전식 간편 결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자 300만명을... 머니로 결제하면 포인트 2.5%를 추가 적립하는 이벤트도 진행한다. Young 등급 고객이 삼성 월렛으로 토스 유스카드...",
+      "pubDate": "2026-10-22T05:42:00+00:00",
+      "category": "삼성페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "모바일 결제 시장 커지는데 관련주는 혼조…수익성이 관건",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497626",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497626",
+      "description": "다날과 헥토파이낸셜, 갤럭시아머니트리, 카카오페이, NHN KCP가 하락권에 머물렀다. 결제 시장이 성장하더라도 업체 간 수수료 경쟁과 마케팅 비용, 거래처 확보 비용 등이 수익성에 부담으로 작용할 수 있어 기업별 실적...",
+      "pubDate": "2026-10-22T05:24:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 서비스 출시 1년 만에 가입자 300만명 돌파",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=133363",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=133363",
+      "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아 가입자 300만명을 돌파했다.... 머니 결제 시 포인트 2.5%를 추가 적립해 주는 행사도 운영한다. Young 등급 이용자가 삼성월렛으로 토스...",
+      "pubDate": "2026-10-22T04:50:00+00:00",
+      "category": "삼성페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니·포인트' 출시 1년만에 가입자 300만명 돌파",
+      "link": "http://www.metroseoul.co.kr/article/20261022500263",
+      "originallink": "http://www.metroseoul.co.kr/article/20261022500263",
+      "description": "삼성월렛 머니·포인트는 삼성 월렛에 탑재된 충전식 간편결제 서비스다. 이용자가 머니를 충전해 결제하고... 결제 시 즉석 당첨 응모권 추가 지급 등 등급별 혜택이 제공된다. 영 등급 고객에게는 삼성 월렛으로 토스...",
+      "pubDate": "2026-10-22T04:48:00+00:00",
+      "category": "삼성페이",
+      "source": "메트로신문"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니·포인트', 출시 1년 만에 가입자 300만 돌파",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074812",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074812",
+      "description": "삼성전자는 간편결제 서비스 '삼성월렛 머니·포인트'가 실속형 혜택과 높은 편의성을 바탕으로 출시 1년... 결제하는 고객에게는 포인트 2.5%를 추가로 적립해 주는 이벤트도 운영한다. 또 영(Young) 등급 고객이 토스...",
+      "pubDate": "2026-10-22T04:20:00+00:00",
+      "category": "삼성페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "삼성월렛, 가입자 300만명 돌파…해외 결제까지 넓힌다",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2009062",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2009062",
+      "description": "해외 결제까지 지원하면서 충전식 간편결제 서비스의 활용 범위를 넓힌다. 삼성전자는 20일부터 삼성월렛... 해외에서 삼성월렛 머니로 결제하면 포인트 2.5%를 추가 적립해 준다. 영 등급 이용자가 삼성월렛에서 토스...",
+      "pubDate": "2026-10-22T02:38:00+00:00",
+      "category": "삼성페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "‘출시 1주년’ 삼성월렛 머니·포인트, 가입자 300만명 돌파",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=93391",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=93391",
+      "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 가입자 300만명을 돌파한 것으로 나타났습니다.... 주는 '해외 결제 적립 이벤트'도 운영합니다. 특히, Young 등급 고객을 대상으로는 삼성 월렛으로 토스...",
+      "pubDate": "2026-10-22T02:28:00+00:00",
+      "category": "삼성페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "삼성월렛 머니·포인트 가입자 300만 돌파...\"해외결제도 제공\"",
+      "link": "https://n.news.naver.com/mnews/article/014/0005593000?sid=105",
+      "originallink": "https://www.fnnews.com/news/202610221009122175",
+      "description": "삼성전자의 충전식 간편결제 서비스 '삼성월렛 머니·포인트' 가입자가 출시 1년 만에 300만명을... 머니로 결제하면 포인트 2.5%를 추가 적립하는 행사도 마련했다. 영(Young) 등급 이용자가 삼성월렛으로 토스...",
+      "pubDate": "2026-10-22T02:25:00+00:00",
+      "category": "삼성페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 결합에 새 변수…금융위, 거래소 지배구조 규제...",
+      "link": "https://sateconomy.co.kr/news/view/1065576889158329",
+      "originallink": "https://sateconomy.co.kr/news/view/1065576889158329",
+      "description": "공정위 기업결합 심사와 별개로 디지털자산기본법 안전장치 추진 특정 대주주 지배력 제한 여부 주목…주식교환 일정 세 차례 연기 ▲ [연합뉴스] 네이버파이낸셜의 두나무 인수 추진에 가상자산 거래소의 지배구조...",
+      "pubDate": "2026-10-22T02:10:00+00:00",
+      "category": "네이버페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "삼성월렛 머니·포인트 \"복잡한 조건 없이 혜택은 강화\"…가입자 300만명...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=754537",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754537",
+      "description": "삼성전자가 제공하고 있는 간편결제 서비스 이용자가 빠르게 늘고 있다. 삼성전자는 '삼성월렛 머니... 5%를 추가 적립해 주는 '해외 결제 적립 이벤트'도 운영한다. 그 외 Young 등급 고객이 삼성 월렛으로 토스 유스카드...",
+      "pubDate": "2026-10-22T02:08:00+00:00",
+      "category": "삼성페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1년 만에 가입자 300만명 돌파",
+      "link": "https://n.news.naver.com/mnews/article/031/0001068289?sid=105",
+      "originallink": "http://www.inews24.com/view/2017666",
+      "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자 300만명을 돌파했다.... 머니로 결제하면 포인트 2.5%를 추가 적립하는 행사도 마련했다. 영 등급 이용자가 삼성 월렛에 등록한 토스...",
+      "pubDate": "2026-10-22T02:04:00+00:00",
+      "category": "삼성페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "삼성전자, 삼성월렛 머니·포인트 가입자 300만 돌파…해외 결제까지 확...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=557198",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=557198",
+      "description": "[사진=삼성전자]  삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자 300만명을... 영 등급 고객이 삼성 월렛에 등록한 토스 유스카드 또는 카카오뱅크 mini카드로 한 차례 결제하면 2000포인트를...",
+      "pubDate": "2026-10-22T02:00:00+00:00",
+      "category": "삼성페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "삼성월렛 머니·포인트, 출시 1년 만에 가입자 300만명 돌파",
+      "link": "https://www.cnbizm.com/news/articleView.html?idxno=318842",
+      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=318842",
+      "description": "문화경제 CNB저널 | CNB저널 | 씨앤비저널 삼성전자는 지난해 10월 출시한 간편결제 서비스 '삼성월렛 머니... 해외 결제 이용자에게는 포인트 2.5% 추가 적립 혜택을 제공한다. Young 등급 이용자가 삼성월렛으로 토스...",
+      "pubDate": "2026-10-22T01:56:00+00:00",
+      "category": "삼성페이",
+      "source": "문화경제"
+    },
+    {
+      "title": "간편결제 혜택 신용카드 1위는 하나 ‘무빙카드’…최대 2% 적립",
+      "link": "https://n.news.naver.com/mnews/article/009/0005752307?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12182644",
+      "description": "무빙카드 ALLDAY모드는 온라인에서 하나페이와 삼성페이, 네이버페이, 카카오페이, 페이코로 결제하면 기본 1%를 적립해준다. 3일 연속 카드를 사용하면 다음 날부터 적립률이 2배로 높아져 최대 2%까지 적립받을 수...",
+      "pubDate": "2026-10-22T01:55:00+00:00",
+      "category": "간편결제",
+      "source": "매일경제"
+    },
+    {
+      "title": "삼성전자, '삼성월렛 머니·포인트' 출시 1주년 만에 가입자 300만 명 돌...",
+      "link": "https://www.kpinews.kr/newsView/1065577934285583",
+      "originallink": "https://www.kpinews.kr/newsView/1065577934285583",
+      "description": "삼성전자의 통합 충전식 간편결제 서비스인 '삼성월렛 머니·포인트'가 서비스 출시 1주년을 맞아 가입자... 또한 해외 결제 시 2.5% 추가 포인트를 적립해 주는 이벤트와 더불어, Young 등급 고객이 토스 유스카드나...",
+      "pubDate": "2026-10-22T01:53:00+00:00",
+      "category": "삼성페이",
+      "source": "kpinews"
+    },
+    {
+      "title": "“조건 없는 적립이 통했다”...삼성월렛 머니·포인트 가입자 300만",
+      "link": "https://www.socialvalue.kr/news/view/1065577179695184",
+      "originallink": "https://www.socialvalue.kr/news/view/1065577179695184",
+      "description": "삼성전자의 충전식 간편결제 서비스 ‘삼성월렛 머니·포인트’가 출시 1년 만에 가입자 300만 명을... 5%를 추가 적립해 주는 해외 결제 적립 이벤트도 운영한다. Young 등급 고객이 삼성 월렛에 등록한 토스 유스카드나...",
+      "pubDate": "2026-10-22T01:42:00+00:00",
+      "category": "삼성페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "'삼성월렛 머니·포인트' 출시 1년 만에 가입자 300만명 돌파",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=123647",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=123647",
+      "description": "(사진=삼성전자)  삼성전자의 충전식 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아... 해외 결제 시 2.5% 추가 적립 혜택을 제공한다. Young 등급 고객 대상으로는 토스 유스카드나 카카오뱅크 미니(mini)...",
+      "pubDate": "2026-10-22T01:28:00+00:00",
+      "category": "삼성페이",
+      "source": "딜라이트닷넷"
+    },
+    {
       "title": "삼성전자, '삼성월렛 머니·포인트' 1주년 가입자 300만명 돌파",
       "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=729703",
       "originallink": "http://www.the-biz.co.kr/news/articleView.html?idxno=729703",
@@ -250,7 +1249,7 @@
       "description": "우리카드(대표 진성원)는 네이버페이(Npay)와 함께 ‘Npay 우리 체크’를 선보인다고 22일 밝혔다. 이 카드는 전월 실적과 관계 없이 이용 금액의 최대 1.3%를 Npay 포인트로 쌓을 수 있는 것이 특징이다. 국내외에서...",
       "pubDate": "2026-10-22T00:46:00+00:00",
       "category": "네이버페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "삼성전자, 삼성월렛 머니·포인트 가입자 300만 돌파…해외 결제 지원",
@@ -427,7 +1426,7 @@
       "title": "삼성전자 '삼성월렛 머니·포인트' 가입자 300만명 넘어, 등급·해외결제...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449971",
       "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=449971",
-      "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아 가입자 300만 명을 넘어섰다. <삼성전자> 삼성전자는 지난해 10월 출시한 간편결제 서비스 '삼성월렛 머니·포인트'의 가입자가 300 만명을...",
+      "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아 가입자 300만 명을 넘어섰다.  삼성전자는 지난해 10월 출시한 간편결제 서비스 '삼성월렛 머니·포인트'의 가입자가 300 만명을...",
       "pubDate": "2026-10-22T00:06:00+00:00",
       "category": "삼성페이",
       "source": "비즈니스포스트"
@@ -1096,7 +2095,7 @@
       "description": "네이버페이·카카오페이·토스 등 간편결제 3사가 장기간 사용하지 않은 선불충전금의 잔액과 환급 방법을 이용자에게 알려주는 제도를 시작했다. 충전해 놓고 잊어버린 돈을 이용자가 쉽게 확인해 돌려받도록 안내를...",
       "pubDate": "2026-10-19T23:38:00+00:00",
       "category": "토스페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "KB페이, 올 2030 관심도 1년새 급등…’간편결제 할인·카드 바로할인' ...",
@@ -1393,7 +2392,7 @@
       "description": "중국과 동남아시아에서 이미 널리 쓰이는 텐센트의 위챗페이 QR결제망을 삼성월렛에 연결해 갤럭시의 금융 서비스 영역을 넓히겠다는 전략이다. 삼성전자는 국내에서 마그네틱 보안 전송(MST)과 근거리무선통신(NFC)을...",
       "pubDate": "2026-10-18T23:44:00+00:00",
       "category": "삼성페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "[금융 HOT 뉴스] 잊고 있던 간편결제 잔액 찾아준다…네·카·토, 환급 안...",
@@ -3760,7 +4759,7 @@
       "description": "LS증권은 13일 헥토파이낸셜(234340)에 대해 신규 간편현금결제 서비스 재개에 따른 수익성 회복으로 3분기 실적 개선이 기대되는 가운데 크로스보더 정산 사업 확대와 디지털자산 결제 네트워크 구축이 중장기...",
       "pubDate": "2026-10-12T23:46:00+00:00",
       "category": "간편결제",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "[모닝 리포트] \"카카오페이, 실적 쉬어가도 플랫폼 확장\"",
@@ -3895,7 +4894,7 @@
       "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 이용자가 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR 스캔 화면으로 연결되고...",
       "pubDate": "2026-10-12T09:14:00+00:00",
       "category": "토스페이",
-      "source": "newsmaker"
+      "source": "Ŀ"
     },
     {
       "title": "[2026 국감] POS 연동 공방…토스 \"2년째 요청\" vs 네이버 \"사실과 달라...",
@@ -4489,7 +5488,7 @@
       "description": "광주은행은 은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로 연결되며, 가맹점...",
       "pubDate": "2026-10-11T07:48:00+00:00",
       "category": "토스페이",
-      "source": "jndmnews"
+      "source": "jndn"
     },
     {
       "title": "광주은행·토스 손잡고 '디지털 결제 실험' 성공",
@@ -4939,7 +5938,7 @@
       "description": "이번 시범에서는 광주은행과 토스 앱, 그리고 토스플레이스 결제 단말을 연계해 고객이 스테이블코인만으로 결제와 송금을 간편하게 처리할 수 있는 시스템을 구현했다. 고객이 광주은행 앱에서 결제를 시작하면 토스...",
       "pubDate": "2026-10-08T00:52:00+00:00",
       "category": "토스페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "토스, 광주은행과 '스테이블코인으로 매장 결제' 검증 마쳐",
@@ -7558,7 +8557,7 @@
       "description": "신규 단말기 설치·매출대금 입금 고객 대상…11월 30일까지 선착순 300명 BNK부산은행이 토스플레이스와 손잡고 개인사업자에게 최대 8만원의 캐시백을 제공하는 '사장님 응원 이벤트'를 오는 11월 30일까지 진행한다. 30일...",
       "pubDate": "2026-09-30T04:55:00+00:00",
       "category": "토스페이",
-      "source": "프레시안"
+      "source": "pressian"
     },
     {
       "title": "BNK부산은행, 개인사업자 토스플레이스 단말기 신규 이용 시 최대 8만원...",
@@ -7828,7 +8827,7 @@
       "description": "네이버파이낸셜은 지난해 11월 포괄적 주식교환으로 두나무를 100% 자회사로 편입하기로 했다. 네이버페이의 결제망과 두나무의 지갑·유통 기술이 결합할 경우, 스테이블코인 발행·결제로 사업을 넓힐 여지가 생긴다는...",
       "pubDate": "2026-09-29T23:28:00+00:00",
       "category": "토스페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "\"저신용·금융취약계층 대출 문턱 낮춘다\"…토스, 대안금융 영토 확장",
@@ -8368,7 +9367,7 @@
       "description": "액센츄어에서 제조·유통·소비재·서비스 산업 담당 이사를 맡아 경영전략과 업무 프로세스 혁신 컨설팅을 수행했으며, 이후 쿠팡에서 재무기획 업무를 담당했다. 2017년 카카오페이에 합류해 경영기획팀장과...",
       "pubDate": "2026-09-28T05:48:00+00:00",
       "category": "카카오페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "상미당홀딩스 섹타나인, 카카오페이 출신 한순욱 신임 대표 선임",
@@ -9143,322 +10142,7 @@
       "pubDate": "2026-09-23T01:32:00+00:00",
       "category": "네이버페이",
       "source": "스마트경제"
-    },
-    {
-      "title": "네이버페이, 전국 9개 휴게소 대상 적립 프로모션 진행",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=106615",
-      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=106615",
-      "description": "네이버페이가 오는 30일까지 전국 9개 고속도로 휴게소에서 포인트 적립 프로모션을 실시한다고 23일 밝혔다. 이번 행사는 공주, 논공, 양평, 광주와 안산 등 9개 고속도로 휴게소에서 진행한다. 일부 브랜드 매장을...",
-      "pubDate": "2026-09-23T01:20:00+00:00",
-      "category": "네이버페이",
-      "source": "센트럴경제"
-    },
-    {
-      "title": "구로구, 구정소식 문자안내서비스 '5만 번째 가입자' 찾아 네이버페이 ...",
-      "link": "https://www.cnbizm.com/news/articleView.html?idxno=316125",
-      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=316125",
-      "description": "구는 행사 기간 5만 번째로 가입한 이용자에게 네이버페이 5만원 상품권을 증정한다. 또 기존 가입자를 포함한 전체 가입자 가운데 100명을 추첨해 커피 교환권을 제공한다. 참여를 원하는 사람은 구로구청 누리집에서...",
-      "pubDate": "2026-09-23T01:14:00+00:00",
-      "category": "네이버페이",
-      "source": "문화경제"
-    },
-    {
-      "title": "네이버페이, 고속도로 휴게소 50% 즉시 적립 프로모션",
-      "link": "https://n.news.naver.com/mnews/article/079/0004192394?sid=105",
-      "originallink": "https://www.nocutnews.co.kr/news/6582511?utm_source=naver&utm_medium=article&utm_campaign=20260923101133",
-      "description": "네이버페이(Npay)가 9월 30일까지 전국 9개 고속도로 휴게소에서 Npay 포인트 적립 프로모션을 실시한다고 23일 밝혔다. 공주휴게소, 논공휴게소, 양평휴게소, 광주휴게소(이상 양방향)와 안산휴게소까지 총 9곳에서...",
-      "pubDate": "2026-09-23T01:12:00+00:00",
-      "category": "네이버페이",
-      "source": "노컷뉴스"
-    },
-    {
-      "title": "‘흥행 대세’ 이상이, 광고까지 접수…카카오페이 해외결제 캠페인 모...",
-      "link": "https://www.viva100.com/article/20260923500262",
-      "originallink": "https://www.viva100.com/article/20260923500262",
-      "description": "소속사 초록뱀미디어는 배우 이상이가 카카오페이의 해외결제 캠페인 ‘본능따라 해외결제’의 모델로 발탁됐다고 23일 밝혔다. 카카오페이가 가을 여행 시즌에 맞춰 기획한 ‘본능따라 해외결제’ 캠페인은 웹소설과...",
-      "pubDate": "2026-09-23T01:02:00+00:00",
-      "category": "카카오페이",
-      "source": "브릿지경제"
-    },
-    {
-      "title": "토스플레이스, 결제단말기 50만곳 연결…'페이스페이' 확산 기반 넓혔다",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136010",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=136010",
-      "description": "| 이코노미사이언스 박성현 기자 | 토스플레이스의 결제 단말기 설치 가맹점이 전국 50만곳을 넘어섰다. 단말기 보급 규모를 키우는 데서 나아가 포스와 키오스크, 고객 적립을 연결하고 토스가 추진하는 얼굴결제...",
-      "pubDate": "2026-09-23T00:54:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "카카오페이, 웹소설·웹드라마·SNS 잇는 해외결제 콘텐츠 선봬",
-      "link": "https://www.g-enews.com/view.php?ud=202609230922373181cd0bfacc1c_1",
-      "originallink": "https://www.g-enews.com/view.php?ud=202609230922373181cd0bfacc1c_1",
-      "description": "카카오페이(대표 신원근)가 해외결제를 하나의 콘텐츠 세계관으로 풀어내며 브랜드 접점을 넓힌다. 웹소설에서 시작해 웹드라마와 캐릭터 SNS로 이야기를 확장하는 방식으로 해외여행객의 결제 경험을 유쾌하게...",
-      "pubDate": "2026-09-23T00:48:00+00:00",
-      "category": "카카오페이",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "카카오페이, 황금연휴 '본능따라 해외결제'…첫 결제 50% 할인",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3051474",
-      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3051474",
-      "description": "©AP신문(AP뉴스)/이미지 제공 = 카카오페이  카카오페이가 가을 황금연휴를 겨냥해 콘텐츠와 할인 혜택을 결합한 캠페인으로 해외결제 이용자 확대에 나선다. 카카오페이는 해외여행 수요가 집중되는 가을 연휴를 맞아...",
-      "pubDate": "2026-09-23T00:46:00+00:00",
-      "category": "카카오페이",
-      "source": "AP신문 |  온라인뉴스미디어  에이피신문"
-    },
-    {
-      "title": "추석 연휴 던킨 할인 쏟아진다… 토스·네이버페이부터 배달앱까지",
-      "link": "https://www.koreaittimes.com/news/articleView.html?idxno=157470",
-      "originallink": "https://www.koreaittimes.com/news/articleView.html?idxno=157470",
-      "description": "추석 당일부터는 네이버페이 할인으로 바통을 넘긴다. 25일부터 26일까지 매장에서 네이버페이 QR을 통해 머니·포인트·카드로 결제하면 전 품목을 50% 할인된 가격에 구매할 수 있다. 역시 최대 할인 금액은 1만원이다....",
-      "pubDate": "2026-09-23T00:34:00+00:00",
-      "category": "토스페이",
-      "source": "Korea IT Times"
-    },
-    {
-      "title": "카카오페이, 이상이와 '본능따라 해외결제' 가을연휴 캠페인",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=133993",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=133993",
-      "description": "카카오페이가 가을 황금연휴를 맞아 해외여행객을 위한 할인 혜택과 콘텐츠를 선보인다. 한국인 여행객의 모습을 유쾌하게 담은 이야기와 함께 해외에서도 익숙하게 카카오페이를 이용하도록 한다는 취지다....",
-      "pubDate": "2026-09-23T00:26:00+00:00",
-      "category": "카카오페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "이상이, 카카오페이 해외결제 캠페인 모델 발탁...대세 입증",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=768341",
-      "originallink": "https://www.slist.kr/news/articleView.html?idxno=768341",
-      "description": "배우 이상이가 카카오페이 해외결제 캠페인 모델로 발탁됐다. 이상이는 웹소설과 웹드라마, SNS 콘텐츠를 연결한 캠페인 '본능따라 해외결제'에 참여한다. 이번 캠페인에서 이상이는 지난 16일 카카오페이지를 통해 공개된...",
-      "pubDate": "2026-09-23T00:20:00+00:00",
-      "category": "카카오페이",
-      "source": "싱글리스트"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 핀테크 소식…카카오페이·토스페이먼츠·한패...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=201848",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=201848",
-      "description": "카카오페이가 가을 황금연휴를 맞아 웹소설과 웹드라마 세계관을 잇는 독창적인 스토리텔링 기반 ‘본능따라 해외결제’ 캠페인을 선보이고 아시아 주요 여행지 첫 결제 고객 대상 최대 50% 할인 프로모션을...",
-      "pubDate": "2026-09-23T00:14:00+00:00",
-      "category": "카카오페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "카카오페이 4000만명 정보 알리페이로…“단순 위탁” 주장 깨고 과징금...",
-      "link": "https://n.news.naver.com/mnews/article/277/0005820290?sid=102",
-      "originallink": "https://view.asiae.co.kr/article/2026092211014955223",
-      "description": "\"카카오페이는 NSF 점수(자금 부족 가능성을 판단하기 위해 책정하는 고객별 점수)가 어떻게 만들어지고 어디에 쓰이는지도 알지 못했습니다. 그런 업무를 자신의 업무를 맡긴 '처리위탁'이라고 볼 수 있느냐가...",
-      "pubDate": "2026-09-23T00:01:00+00:00",
-      "category": "카카오페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "던킨, 추석 연휴 간편결제·배달 앱 프로모션 진행",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366018",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=366018",
-      "description": "추석 당일인 오는 25일부터 26일까지 이틀간은 네이버페이로 QR(머니·포인트·카드) 결제 시 전 품목을 50% 가격(최대 1만원)에 구매할 수 있다. 타 행사 및 쿠폰, 제휴 할인과는 중복 적용되지 않는다. 배달 앱에서도...",
-      "pubDate": "2026-09-22T23:54:00+00:00",
-      "category": "간편결제",
-      "source": "파이낸셜투데이"
-    },
-    {
-      "title": "네이버페이 비상장, 한투·키움증권과 장외거래 활성화 협력…교차거래...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=319641",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=319641",
-      "description": "네이버페이(Npay) 비상장이 국내 주요 증권사와 손잡고 비상장주식 장외거래 활성화 및 안전한 거래 환경 조성을 위해 나선다. 그동안 비상장주식 거래는 정보의 비대칭성과 높은 진입장벽으로 한계가 있었으나, 이번...",
-      "pubDate": "2026-09-22T23:16:00+00:00",
-      "category": "네이버페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "처음엔 점유율, 지금은 ‘검색 리워드’…네이버·토스 포스 연동 갈등",
-      "link": "https://www.kukinews.com/article/view/kuk202609220109",
-      "originallink": "https://www.kukinews.com/article/view/kuk202609220109",
-      "description": "네이버페이의 결제 단말기 ‘커넥트’를 도입한 매장은 지난 6월 기준 10만곳 이상이다. 토스플레이스는 무료 설치를, 네이버페이는 대리점 판촉비 지원을 앞세워 가맹점을 늘리고 있다.",
-      "pubDate": "2026-09-22T21:02:00+00:00",
-      "category": "토스페이",
-      "source": "kukinews"
-    },
-    {
-      "title": "네이버-카카오-쿠팡페이 쓰면 6% 할인",
-      "link": "https://n.news.naver.com/mnews/article/020/0003750217?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20260922/134714204/2",
-      "description": "히든카드는 그중에서도 네이버페이, 카카오페이, 쿠팡페이 등 ‘3대 간편결제’ 서비스를 이용할 때 할인 혜택을 집중적으로 제공한다. 전월 실적 40만 원 이상 고객이 온라인에서 3대 간편결제로 건당 1만 원 이상...",
-      "pubDate": "2026-09-22T19:32:00+00:00",
-      "category": "쿠팡페이",
-      "source": "동아일보"
-    },
-    {
-      "title": "키움증권, 네이버페이 비상장과 교차거래 시스템 추진",
-      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53185",
-      "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=53185",
-      "description": "키움증권이 기존 증권계좌로 네이버페이 비상장에서 장외주식을 거래할 수 있는 시스템 구축을 추진한다. 키움증권은 비상장주식 거래 플랫폼 네이버페이 비상장을 운영하는 네이버페이비상장(Npay비상장)과 비상장주식...",
-      "pubDate": "2026-09-22T13:14:00+00:00",
-      "category": "네이버페이",
-      "source": "코리아리포트"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 파이어블록스와 디지털자산 인프라 협력",
-      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=53184",
-      "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=53184",
-      "description": "카카오페이와 카카오뱅크가 글로벌 디지털자산 인프라 기업 파이어블록스와 국내 스테이블코인 유통 기반을 구축하기 위한 협력에 나선다. 카카오페이와 카카오뱅크는 파이어블록스와 국내 디지털자산 인프라 구축을...",
-      "pubDate": "2026-09-22T13:02:00+00:00",
-      "category": "카카오페이",
-      "source": "코리아리포트"
-    },
-    {
-      "title": "키움증권, 네이버페이와 비상장주식 교차거래 추진",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489756",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489756",
-      "description": "키움증권㈜은 22일 비상장주식 거래 플랫폼 네이버페이비상장㈜(Npay비상장)과 비상장주식 교차거래 시스템 도입을 위한 업무협약을 체결했다고 밝혔다. 사진=키움증권 비상장주식 플랫폼에서 거래 상대방과 같은 증권사...",
-      "pubDate": "2026-09-22T11:56:00+00:00",
-      "category": "네이버페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "던킨도너츠, 네이버페이 결제 시 최대 50% 할인... 일정은?",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1183463",
-      "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1183463",
-      "description": "사진=네이버페이 던킨 도너츠가 최대 50% 할인 행사 소식을 알렸다. 22일 던킨도너츠는 오는 25일부터 26일 2일 간 네이버페이 QR 결제 시 최대 1만 원까지 50% 할인 혜택을 제공한다고 밝혔다. 이번 이벤트는 1일 1회 참여할...",
-      "pubDate": "2026-09-22T10:58:00+00:00",
-      "category": "네이버페이",
-      "source": "금강일보"
-    },
-    {
-      "title": "키움증권, 네이버페이 비상장과 손잡고 장외주식 교차거래 연다",
-      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=106439",
-      "originallink": "https://www.womentimes.co.kr/news/articleView.html?idxno=106439",
-      "description": "키움증권은 22일 비상장주식 거래 플랫폼 '네이버페이 비상장(Npay 비상장)'과 비상장주식 교차거래 시스템 도입을 위한 업무협약을 체결했다고 밝혔다. 그동안 네이버페이 비상장에서는 같은 증권사 계좌를 가진 매수자와...",
-      "pubDate": "2026-09-22T10:28:00+00:00",
-      "category": "네이버페이",
-      "source": "우먼타임스"
-    },
-    {
-      "title": "키움증권, 네이버페이 비상장 거래 시스템 연동…장외주식 접근성 확대",
-      "link": "http://www.sisacast.kr/news/articleView.html?idxno=100380",
-      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=100380",
-      "description": "키움증권은 22일 비상장주식 거래 플랫폼 운영사인 네이버페이비상장과 교차거래 시스템 도입을 위한 업무협약(MOU)을 체결했다. 사진=키움증권  키움증권이 네이버페이 비상장과 협력해 서로 다른 증권사 계좌를 이용하는...",
-      "pubDate": "2026-09-22T09:56:00+00:00",
-      "category": "네이버페이",
-      "source": "시사캐스트"
-    },
-    {
-      "title": "Npay 비상장, 한투·키움과 장외주식 교차거래 추진",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1417613",
-      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=1417613",
-      "description": "네이버페이 비상장이 국내 증권사들과 비상장주식 장외거래 활성화를 위한 업무협약을 체결한 이미지. 사진=네이버페이 매일일보 = 권소윤 인턴기자  |  네이버페이가 증권사 간 비상장주식 교차거래 기반을 마련해...",
-      "pubDate": "2026-09-22T09:24:00+00:00",
-      "category": "네이버페이",
-      "source": "매일일보"
-    },
-    {
-      "title": "[네이버 종합] 네이버클라우드 및 네이버페이 소식 외",
-      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=60998",
-      "originallink": "https://www.gamevu.co.kr/news/articleView.html?idxno=60998",
-      "description": "■ 네이버페이(Npay) 비상장, 한국투자증권·키움증권과 비상장주식 장외거래 활성화를 위한 업무협약 체결 비상장주식 거래 플랫폼 네이버페이 비상장(Npay 비상장)은 한국투자증권, 키움증권과 비상장주식 장외거래...",
-      "pubDate": "2026-09-22T08:50:00+00:00",
-      "category": "네이버페이",
-      "source": "게임뷰"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 파이어블록스와 디지털자산 생태계 구축 협력",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=447857",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=447857",
-      "description": "카카오페이와 카카오뱅크는 글로벌 디지털자산 인프라 기업 파이어블록스와 '디지털자산 생태계 구축 협력을 위한 업무협약(MOU)'을 맺었다고 22일 밝혔다. 카카오그룹이 파이어블록스와 '디지털자산 생태계 구축 협력을...",
-      "pubDate": "2026-09-22T08:46:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈니스포스트"
-    },
-    {
-      "title": "\"증권사 달라도 비상장주식 거래 원활\"…키움증권, 네이버페이 비상장과...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=227526",
-      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=227526",
-      "description": "키움증권 계좌로 네이버페이 비상장 거래 지원 별도 계좌 개설 없이 비상장주식 매매 가능 투자자 선택권 확대·장외시장 유동성 제고 기대 【 청년일보 】 키움증권이 네이버페이 비상장과 손잡고 비상장주식 거래...",
-      "pubDate": "2026-09-22T08:26:00+00:00",
-      "category": "네이버페이",
-      "source": "청년일보"
-    },
-    {
-      "title": "오아시스, 티몬은 뒤로하고 토스로 승부수…전용관 열고 2040 공략",
-      "link": "http://www.dailypop.kr/news/articleView.html?idxno=102808",
-      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=102808",
-      "description": "않아 간편결제 업체들도 선뜻 나서지 못하는 모습이다. 티몬 쪽에서 기대했던 효과가 나오지 않자 오아시스는 올 들어 유료 멤버십을 새로 선보이는 등 본업 쪽에서 승부를 보는 방향으로 무게를 옮겼고, 이번 토스와의...",
-      "pubDate": "2026-09-22T08:00:00+00:00",
-      "category": "토스페이",
-      "source": "데일리팝"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 파이어블록스와 손잡고 스테이블코인 인프라...",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065318",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5065318",
-      "description": "카카오페이와 카카오뱅크가 글로벌 디지털 자산 인프라 기업 파이어블록스와 손잡고 국내 스테이블코인 유통 인프라 구축에 나선다. 22일 금융권에 따르면, 카카오페이와 카카오뱅크는 파이어블록스와 국내 디지털 자산...",
-      "pubDate": "2026-09-22T07:32:00+00:00",
-      "category": "카카오페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "카카오페이·뱅크, 서클 이어 '파이어블록스'와 맞손...스테이블코인 사...",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=155495",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=155495",
-      "description": "카카오페이와 카카오뱅크가 파이어블록스와 업무협약(MOU)을 체결했다 / 사진=카카오페이 제공 카카오그룹이 글로벌 디지털 자산 인프라 기업들과 연이어 협력하며 스테이블코인 사업 기반 구축에 속도를 내고 있다. 지난...",
-      "pubDate": "2026-09-22T07:22:00+00:00",
-      "category": "카카오페이",
-      "source": "테크M"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 스테이블코인 '길'부터 찾는다…파이어블록스...",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=135979",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=135979",
-      "description": "카카오페이와 카카오뱅크는 글로벌 디지털 자산 인프라 기업 파이어블록스와 손잡고 국내 환경에 맞는 유통·수탁·정산 기반을 탐색한다. 스테이블코인은 원화나 달러 같은 법정통화 또는 특정 자산에 가치를 연동한...",
-      "pubDate": "2026-09-22T06:34:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "카카오페이, 타사 결제도 '놓친 포인트' 찾아준다",
-      "link": "https://n.news.naver.com/mnews/article/374/0000534386?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000336247?division=NAVER",
-      "description": "카카오페이가 자사가 아닌 다른 결제 수단을 이용해도 놓친 멤버십 포인트를 사후에 적립할 수 있는 서비스를 연내 선보입니다. 마이데이터에 연결된 결제 내역을 활용해 적립 가능한 포인트를 찾아 카카오톡으로...",
-      "pubDate": "2026-09-22T05:41:00+00:00",
-      "category": "카카오페이",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "[금융 브리핑] 토스·네이버페이·케이뱅크",
-      "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=91091",
-      "originallink": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=91091",
-      "description": "◇ 토스, '2026 청년정책 유공' 국무총리 표창 수상 토스가 '2026 청년정책 유공 포상'에서 국무총리 표창을... 이번 QR결제 시스템은 어플라이의 QR 간편송금 기술과 케이뱅크의 금융 인프라를 결합해 구축됐다. 케이뱅크는...",
-      "pubDate": "2026-09-22T05:24:00+00:00",
-      "category": "네이버페이",
-      "source": "나이스경제"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 파이어블록스와 맞손",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=135947",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=135947",
-      "description": "| 이코노미사이언스 박성현 기자 | 카카오페이와 카카오뱅크가 글로벌 디지털자산 인프라 기업 파이어블록스와 손잡고 국내 스테이블코인 인프라 구축 가능성을 검증한다. 국내 규제와 보안 환경에 맞는 디지털자산 유통...",
-      "pubDate": "2026-09-22T05:10:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 파이어블록스와 스테이블코인 인프라 협력",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=133864",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=133864",
-      "description": "카카오페이와 카카오뱅크가 글로벌 디지털자산 인프라 기업과 손잡고 국내 시장에 필요한 기반 기술을 모색한다. 스테이블코인을 중심으로 국내 규제와 서비스 환경에 맞는 유통 방식을 찾고 적용 가능성을 검증할...",
-      "pubDate": "2026-09-22T04:56:00+00:00",
-      "category": "카카오페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 파이어블록스와 스테이블코인 인프라 협력",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1725311",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1725311",
-      "description": "카카오페이와 카카오뱅크가 글로벌 디지털 자산 인프라 기업 파이어블록스와 손잡고 국내 스테이블코인 유통 기반을 살핀다. 실제 서비스에 적용할 수 있는 기술과 사업 모델을 찾는 단계로, 3사는 국내 규제와 보안...",
-      "pubDate": "2026-09-22T02:20:00+00:00",
-      "category": "카카오페이",
-      "source": "EBN"
     }
   ],
-  "lastFetch": "2026-10-22T01:28:54.599988+00:00"
+  "lastFetch": "2026-10-23T01:27:31.206158+00:00"
 }
