@@ -1,6 +1,1113 @@
 {
   "articles": [
     {
+      "title": "삼성전자, 삼성월렛 중국 결제 확대…위챗페이 연동",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=137498",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=137498",
+      "description": "특히 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'를 이용한 QR 결제를 지원하고 해외 결제 수수료도 면제한다. 내년에는 신용카드 결제까지 지원 범위를 넓혀 갤럭시 사용자의 해외 결제 편의성을 높일 계획이다....",
+      "pubDate": "2026-10-27T01:56:00+00:00",
+      "category": "삼성페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "삼성전자, 중국서 '삼성월렛 머니' QR 결제 지원…해외 결제 확대",
+      "link": "https://www.cnbizm.com/news/articleView.html?idxno=319328",
+      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=319328",
+      "description": "협약에 따라 한국의 삼성월렛 사용자는 중국 전역의 위챗페이 가맹점에서 QR 코드로 결제할 수 있게 된다. 앱에서 결제용 QR 코드를 제시하거나 매장에 비치된 QR 코드를 스캔하는 방식이다. 3사는 내년 1분기 중국 내 QR...",
+      "pubDate": "2026-10-27T01:52:00+00:00",
+      "category": "삼성페이",
+      "source": "문화경제"
+    },
+    {
+      "title": "삼성전자, ‘삼성월렛 머니’ 해외 결제 서비스 업무협약",
+      "link": "https://n.news.naver.com/mnews/article/082/0001404230?sid=101",
+      "originallink": "https://www.busan.com/view/busan/view.php?code=2026102708103912500",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 바로 결제할 수 있게 됐다. 특히...",
+      "pubDate": "2026-10-27T01:52:00+00:00",
+      "category": "삼성페이",
+      "source": "부산일보"
+    },
+    {
+      "title": "컨슈머인사이트 \"소비자, 금융앱 AI 기능 토스 1위 응답\"",
+      "link": "http://www.breaknews.com/1245962",
+      "originallink": "http://www.breaknews.com/1245962",
+      "description": "이어 카카오뱅크와 신한 슈퍼SOL(각 29%), 모니모(26%), KB국민은행 스타뱅킹(24%), 미래에셋증권 M-STOCK(22%), 삼성증권 mPOP와 네이버페이(각 19%) 순이었다. 컨슈머인사이트는...",
+      "pubDate": "2026-10-27T01:48:00+00:00",
+      "category": "토스페이",
+      "source": "브레이크뉴스"
+    },
+    {
+      "title": "삼성월렛 머니, 중국 QR 결제 지원",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=666991",
+      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=666991",
+      "description": "사진=삼성전자 한국금융경제신문=박형준 기자 | 삼성전자가 텐센트·우리은행과 협약을 맺고 '삼성월렛 머니'로 중국 위챗페이 가맹점의 QR 결제를 지원한다. 27일 삼성전자에 따르면 중국을 방문한 한국 삼성월렛...",
+      "pubDate": "2026-10-27T01:42:00+00:00",
+      "category": "삼성페이",
+      "source": "한국금융경제신문"
+    },
+    {
+      "title": "삼성월렛 머니, 중국서 위챗페이 QR 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/018/0006396919?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03375126645617184&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "이번 협약에 따라 국내 삼성월렛 이용자는 중국 방문 시 위챗페이 기반 QR 결제를 이용해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 된다. 결제 방식은 두 가지다. 삼성월렛 앱에서 결제용 QR...",
+      "pubDate": "2026-10-27T01:37:00+00:00",
+      "category": "삼성페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 해외 결제 서비스 협력",
+      "link": "https://www.lawissue.co.kr/view.php?ud=2026102710313094659817d053b9_12",
+      "originallink": "https://www.lawissue.co.kr/view.php?ud=2026102710313094659817d053b9_12",
+      "description": "이에 따라 한국 이용자는 중국 내 위챗페이 가맹점에서 QR코드를 이용해 '삼성월렛 머니'로 결제할 수 있으며, 별도의 결제 수단을 등록할 필요가 없다. 해당 서비스는 해외 결제 수수료 없이 이용할 수 있고, 오프라인...",
+      "pubDate": "2026-10-27T01:34:00+00:00",
+      "category": "간편결제",
+      "source": "로이슈"
+    },
+    {
+      "title": "중국서도 갤럭시로 ‘착’… 삼성전자, 위챗페이와 손잡고 ‘삼성월렛...",
+      "link": "https://www.mediapen.com/news/view/1132722",
+      "originallink": "https://www.mediapen.com/news/view/1132722",
+      "description": "이번 3자 협약에 따라 국내 삼성월렛 사용자들은 중국 방문 시 텐센트가 운영하는 모바일 결제 플랫폼 ‘위챗페이(WeChat Pay)’ 가맹점에서 별도 환전 없이 삼성월렛 머니로 결제할 수 있게 됐다. 현금 사용이...",
+      "pubDate": "2026-10-27T01:30:00+00:00",
+      "category": "삼성페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "삼성전자, '삼성월렛 머니' 해외 결제 서비스 MOU",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576438353302",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576438353302",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이(WeChat Pay) 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게...",
+      "pubDate": "2026-10-27T01:30:00+00:00",
+      "category": "삼성페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니' 중국 위챗페이 가맹점서 이용한다, 텐센트와...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450360",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=450360",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이 기반의 QR 결제로 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게 됐다....",
+      "pubDate": "2026-10-27T01:26:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "갤럭시 하나로 중국 결제...삼성월렛 머니, 위챗페이 QR 결제 지원",
+      "link": "https://www.socialvalue.kr/news/view/1065575248473101",
+      "originallink": "https://www.socialvalue.kr/news/view/1065575248473101",
+      "description": "협약에 따라 한국의 삼성월렛 사용자는 중국에서 텐센트가 운영하는 위챗페이(WeChat Pay) 기반 QR 결제로 중국 전역의 위챗페이 가맹점에서 ‘삼성월렛 머니’를 쓸 수 있다. 중국은 음식점 테이블 주문·결제부터...",
+      "pubDate": "2026-10-27T01:24:00+00:00",
+      "category": "삼성페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "삼성전자, 삼성월렛 머니 해외 결제 확대…중국 위챗페이와 연동",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241226",
+      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=241226",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 QR 결제를 이용할 수 있다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 매장에 비치된 QR 코드를 스캔하는 방식으로...",
+      "pubDate": "2026-10-27T01:24:00+00:00",
+      "category": "삼성페이",
+      "source": "이지경제"
+    },
+    {
+      "title": "중국서도 삼성월렛으로 결제…삼성월렛 머니 위챗페이 연동",
+      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=420216",
+      "originallink": "https://www.bizwork.co.kr/news/articleView.html?idxno=420216",
+      "description": "삼성전자가 중국 최대 모바일 결제 서비스 중 하나인 위챗페이와 연동해 '삼성월렛 머니'의 해외 결제 서비스를 확대한다. 삼성전자는 지난 26일 중국 선전 텐센트 본사에서 텐센트, 우리은행과 삼성월렛 머니의 중국 QR...",
+      "pubDate": "2026-10-27T01:20:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈워크"
+    },
+    {
+      "title": "중국서 위챗페이로 결제하는 삼성월렛···텐센트·우리은행과 손잡았...",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484786",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484786",
+      "description": "삼성전자가 중국 최대 모바일 결제 서비스 중 하나인 위챗페이와 손잡고 삼성월렛의 해외 결제 기능을 확대한다. 중국에서 보편화된 QR 결제 방식을 삼성월렛에 적용해 현지 간편결제 서비스에 별도로 가입해야 하는...",
+      "pubDate": "2026-10-27T01:18:00+00:00",
+      "category": "삼성페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "삼성전자, 텐센트 손잡고 '삼성월렛 머니' 중국 결제 지원",
+      "link": "http://www.metroseoul.co.kr/article/20261027500128",
+      "originallink": "http://www.metroseoul.co.kr/article/20261027500128",
+      "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 '삼성월렛 머니'로 결제할 수 있게 됐다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 상점의 QR 코드를 직접 스캔하는 방식으로...",
+      "pubDate": "2026-10-27T01:18:00+00:00",
+      "category": "삼성페이",
+      "source": "메트로신문"
+    },
+    {
+      "title": "중국서 삼성월렛 결제, 차량 점검은 앱으로… 고객 서비스 다변화",
+      "link": "https://www.pressman.kr/news/articleView.html?idxno=104174",
+      "originallink": "https://www.pressman.kr/news/articleView.html?idxno=104174",
+      "description": "이번 협약에 따라 삼성전자는 중국의 위챗페이 가맹점에서 삼성월렛 머니를 이용한 QR 결제를 지원하기로 했다. 이용자가 앱에 결제용 QR 코드를 띄워 매장 직원에게 제시하거나 매장에 비치된 코드를 직접 스캔하는...",
+      "pubDate": "2026-10-27T01:18:00+00:00",
+      "category": "삼성페이",
+      "source": "프레스맨"
+    },
+    {
+      "title": "삼성전자, 중국서 '삼성월렛 머니' QR 결제 지원...텐센트·우리은행과 ...",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=118782",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=118782",
+      "description": "이번 협약으로 국내 삼성월렛 사용자는 중국 방문 시 텐센트가 운영하는 위챗페이 가맹점에서 삼성월렛 머니를 이용해 QR 결제를 할 수 있게 됐다. 결제 방식은 두 가지다. 삼성월렛 앱에서 결제용 QR 코드를 생성해 상점...",
+      "pubDate": "2026-10-27T01:14:00+00:00",
+      "category": "삼성페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니', 中 찍고 글로벌로 결제 영토 확장한다",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=353093",
+      "originallink": "https://www.greened.kr/news/articleView.html?idxno=353093",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이(WeChat Pay) 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게...",
+      "pubDate": "2026-10-27T01:06:00+00:00",
+      "category": "삼성페이",
+      "source": "녹색경제신문"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 맞손…삼성월렛 머니 중국 QR 결제 지원",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319605",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=319605",
+      "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이(WeChat Pay) 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있다. 이번...",
+      "pubDate": "2026-10-27T01:02:00+00:00",
+      "category": "삼성페이",
+      "source": "월요신문"
+    },
+    {
+      "title": "삼성월렛 머니 해외 결제 확대…중국서 위챗페이 QR 지원",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno=242453",
+      "originallink": "https://www.itdaily.kr/news/articleView.html?idxno=242453",
+      "description": "중국 전역의 위챗페이 가맹점에서 삼성월렛 앱에 결제용 QR 코드를 띄워 직원에게 보여주거나 매장의 QR 코드를 직접 스캔하는 방식이다. 현지에서는 음식점의 테이블 주문·결제부터 일상적인 소액결제까지 QR 코드가...",
+      "pubDate": "2026-10-27T00:58:00+00:00",
+      "category": "삼성페이",
+      "source": "아이티데일리"
+    },
+    {
+      "title": "삼성전자 '삼성월렛 머니', 우리은행·텐센트와 해외 결제 서비스 협약",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=133480",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=133480",
+      "description": "위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게 됐다. 특히, 중국은 음식점의 테이블 주문·결제부터 일상적인 소액 결제까지 QR 코드가 폭넓게 활용되고 있어, 이번 서비스가 현지 결제 편의성을 한층...",
+      "pubDate": "2026-10-27T00:58:00+00:00",
+      "category": "삼성페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 맞손… '삼성월렛 머니' 중국 QR 결제 지...",
+      "link": "https://www.livesnews.com/news/article.html?no=65366",
+      "originallink": "https://www.livesnews.com/news/article.html?no=65366",
+      "description": "이번 협약으로 한국의 삼성월렛 사용자들은 중국 방문 시 위챗페이 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 간편하게 결제할 수 있게 되었다. 사용자들은 삼성월렛 앱에서 결제용 QR...",
+      "pubDate": "2026-10-27T00:56:00+00:00",
+      "category": "삼성페이",
+      "source": "livesnews"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 협약…삼성월렛 중국 QR 결제 지원",
+      "link": "https://sateconomy.co.kr/news/view/1065573451675808",
+      "originallink": "https://sateconomy.co.kr/news/view/1065573451675808",
+      "description": "위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있도록 했다. 삼성전자는 지난 26일 중국 선전 텐센트 본사에서 두 회사와 삼성월렛 머니 해외 결제 서비스 관련 업무협약을 체결했다고 27일 밝혔다. 삼성월렛 머니는...",
+      "pubDate": "2026-10-27T00:56:00+00:00",
+      "category": "삼성페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "삼성월렛 머니, 중국 QR 결제 지원…결제 수수료 0원",
+      "link": "https://n.news.naver.com/mnews/article/277/0005833851?sid=105",
+      "originallink": "https://view.asiae.co.kr/article/2026102709511695348",
+      "description": "이번 협약으로 국내 삼성월렛 사용자는 중국 방문 시 위챗페이 가맹점에서 QR 코드를 이용해 삼성월렛 머니로 바로 결제할 수 있다. 삼성월렛 애플리케이션(앱)에서 결제용 QR 코드를 띄워 상점 직원에게 보여주거나...",
+      "pubDate": "2026-10-27T00:51:00+00:00",
+      "category": "삼성페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "삼성전자, 중국서도 '삼성월렛 머니' 통한다…수수료 없이 QR 결제",
+      "link": "https://www.moneystorm.kr/news/articleView.html?idxno=7696",
+      "originallink": "https://www.moneystorm.kr/news/articleView.html?idxno=7696",
+      "description": "삼성전자가 텐센트·우리은행과 손잡고 '삼성월렛 머니'의 중국 QR 결제를 지원한다. 한국 갤럭시 이용자는 현지 위챗페이 가맹점에서 별도의 중국 결제 앱 없이 모바일 결제를 이용할 수 있게 됐다. 27일 회사에 따르면...",
+      "pubDate": "2026-10-27T00:50:00+00:00",
+      "category": "삼성페이",
+      "source": "머니스톰"
+    },
+    {
+      "title": "삼성전자, 중국서 '삼성월렛 머니' 결제 지원…수수료 없이 포인트 적립",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=138686",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=138686",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 결제 서비스인 위챗페이 기반 QR 결제를 통해 현지 가맹점에서 삼성월렛 머니로 결제할 수 있다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 매장에...",
+      "pubDate": "2026-10-27T00:50:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "이제 중국 위챗페이서 '삼성월렛 머니' 쓴다",
+      "link": "https://n.news.naver.com/mnews/article/079/0004203180?sid=101",
+      "originallink": "https://www.nocutnews.co.kr/news/6597488?utm_source=naver&utm_medium=article&utm_campaign=20261027094920",
+      "description": "삼성전자가 텐센트·우리은행과 손잡고 충전형 간편결제 서비스 '삼성월렛 머니'의 해외 결제를 확대한다. 중국에서는 위챗페이 가맹점에서 QR 코드로 결제할 수 있게 된다. 삼성전자는 26일 중국 선전의 텐센트 본사에서...",
+      "pubDate": "2026-10-27T00:50:00+00:00",
+      "category": "삼성페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 ‘삼성월렛 머니’ 중국 위챗페이 QR 결제...",
+      "link": "http://www.breaknews.com/1245938",
+      "originallink": "http://www.breaknews.com/1245938",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이(WeChat Pay) 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 ‘삼성월렛 머니’로...",
+      "pubDate": "2026-10-27T00:50:00+00:00",
+      "category": "삼성페이",
+      "source": "브레이크뉴스"
+    },
+    {
+      "title": "삼성전자·텐센트·우리은행, '삼성월렛 머니' 중국 QR 결제 협력",
+      "link": "http://www.datanews.co.kr/news/article.html?no=147137",
+      "originallink": "http://www.datanews.co.kr/news/article.html?no=147137",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이(WeChat Pay) 기반 QR 결제를 통해 중국 전역 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 사용자는...",
+      "pubDate": "2026-10-27T00:46:00+00:00",
+      "category": "삼성페이",
+      "source": "데이터뉴스"
+    },
+    {
+      "title": "삼성전자·텐센트 ‘삼성월렛 머니’ 해외 결제 서비스 지원 업무 협약...",
+      "link": "https://n.news.naver.com/mnews/article/666/0000129266?sid=101",
+      "originallink": "https://www.kyeonggi.com/article/20261027580049",
+      "description": "업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이(WeChat Pay) 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 ‘삼성월렛 머니’로 바로 결제할 수 있다. 또...",
+      "pubDate": "2026-10-27T00:43:00+00:00",
+      "category": "삼성페이",
+      "source": "경기일보"
+    },
+    {
+      "title": "삼성월렛 머니, 中 위챗페이 연동…해외 결제망 넓힌다",
+      "link": "https://n.news.naver.com/mnews/article/138/0002246096?sid=105",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026102709235383962",
+      "description": "이번 협약으로 국내 삼성월렛 머니 이용자는 중국 방문 시 텐센트가 운영하는 위챗페이 가맹점에서 QR 결제를 이용할 수 있게 된다. 삼성월렛 앱에서 결제용 QR 코드를 생성해 상점 직원에게 제시하거나, 매장에 비치된 QR...",
+      "pubDate": "2026-10-27T00:40:00+00:00",
+      "category": "삼성페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "삼성전자, 삼성월렛 머니로 중국 위챗페이 QR 결제 지원",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189934",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=189934",
+      "description": "중국을 방문하는 갤럭시 이용자는 별도의 현지 결제 수단을 등록하지 않고 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있다. 삼성전자는 26일 중국 선전 텐센트 본사에서 텐센트·우리은행과 삼성월렛 머니 해외...",
+      "pubDate": "2026-10-27T00:38:00+00:00",
+      "category": "삼성페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "삼성전자·텐센트·우리은행, '삼성월렛 머니' 중국 위챗페이 QR 결제 지...",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254205",
+      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254205",
+      "description": "이에 따라 한국의 삼성월렛 이용자는 중국을 찾을 때 텐센트가 운영하는 위챗페이(WeChat Pay) 기반 QR 결제로 중국 전역의 가맹점에서 삼성월렛 머니로 곧바로 결제할 수 있다. 중국은 식당 테이블 주문·결제부터 일상적인...",
+      "pubDate": "2026-10-27T00:38:00+00:00",
+      "category": "삼성페이",
+      "source": "넥스트데일리"
+    },
+    {
+      "title": "삼성월렛, 중국 위챗페이 가맹점서 바로 쓴다",
+      "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=303467",
+      "originallink": "https://www.newsquest.co.kr/news/articleView.html?idxno=303467",
+      "description": "삼성전자가 텐센트·우리은행과 손잡고 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니' QR 결제를 지원한다. 해외 결제 수수료 없이 이용할 수 있으며, 내년 1분기에는 결제 수단을 신용카드로 확대할 계획이다....",
+      "pubDate": "2026-10-27T00:36:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스퀘스트"
+    },
+    {
+      "title": "삼성전자, '삼성월렛 머니' 해외결제 서비스로 글로벌 경쟁력 제고",
+      "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=107324",
+      "originallink": "https://www.womentimes.co.kr/news/articleView.html?idxno=107324",
+      "description": "앞으로 중국 전역에 있는 위챗페이 가맹점에서 '삼성월렛 머니'로 즉시 결제가 가능해진다는 것이 회사 관계자의 설명이다. 무엇보다 중국에서는 음식점 테이블 주문부터 결제까지 QR 코드가 폭넓게 활용되는 만큼...",
+      "pubDate": "2026-10-27T00:32:00+00:00",
+      "category": "삼성페이",
+      "source": "우먼타임스"
+    },
+    {
+      "title": "삼성월렛 머니, 중국 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/092/0002442481?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20261027085025",
+      "description": "협약에 따라 삼성월렛 사용자는 중국 전역 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있다. 국내 삼성월렛 이용자는 중국 방문 시 별도 결제 수단 등록 없이 바로 사용 가능하다. 삼성전자가 26일 중국 선전에...",
+      "pubDate": "2026-10-27T00:28:00+00:00",
+      "category": "삼성페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "삼성전자, ‘삼성월렛 머니’ 중국 QR 결제 지원…해외 서비스 지원 강...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=93548",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=93548",
+      "description": "한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게 됐습니다. '삼성월렛 머니...",
+      "pubDate": "2026-10-27T00:26:00+00:00",
+      "category": "삼성페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "삼성월렛 머니로 中 위챗페이 결제…해외서 QR결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/014/0005594886?sid=105",
+      "originallink": "https://www.fnnews.com/news/202610270913023548",
+      "description": "삼성월렛 이용자는 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있다. 삼성월렛 앱에서 결제용 QR 코드를 띄워 매장 직원에게 보여주거나, 매장에 비치된 QR 코드를 직접 스캔하면 된다. 중국에서는...",
+      "pubDate": "2026-10-27T00:26:00+00:00",
+      "category": "삼성페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "삼성전자, 中서 '삼성월렛 머니' QR코드로 결제한다…위챗페이 연동",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210300",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=210300",
+      "description": "라이센스뉴스 = 백성요 기자 | 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 QR 결제를 이용할 수 있게 된다. 삼성전자가 텐센트·우리은행과 손잡고 충전형 간편결제 서비스인 삼성월렛 머니의 해외 결제 범위를...",
+      "pubDate": "2026-10-27T00:26:00+00:00",
+      "category": "삼성페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "삼성전자, 중국서 '삼성월렛 머니' 위챗페이 QR결제 지원",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=150837",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=150837",
+      "description": "[삼성전저]  삼성전자는 26일 텐센트·우리은행과 '삼성월렛 머니'의 중국 위챗페이 QR결제 지원을 위한 업무협약을 체결했다고 27일 밝혔다. 이에 따라 삼성월렛 사용자는 중국 전역의 위챗페이 가맹점에서 앱에...",
+      "pubDate": "2026-10-27T00:24:00+00:00",
+      "category": "삼성페이",
+      "source": "직썰"
+    },
+    {
+      "title": "삼성월렛 머니, 중국 결제 시장 공략…위챗페이와 손잡았다",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000076902",
+      "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000076902",
+      "description": "중국 위챗페이 가맹점서 QR 결제 지원 이번 협약을 통해 삼성월렛 사용자는 중국 방문 시 별도의 결제 수단 등록 없이 위챗페이(WeChat Pay) 기반의 QR 결제를 활용해 중국 내 위챗페이 가맹점에서 '삼성월렛 머니'로 직접...",
+      "pubDate": "2026-10-27T00:23:00+00:00",
+      "category": "삼성페이",
+      "source": "전남일보"
+    },
+    {
+      "title": "삼성전자, 中서 삼성월렛 머니 QR 결제 지원…텐센트·우리은행 협약",
+      "link": "https://www.jasm.co.kr/news/view/323046/?sc=Naver",
+      "originallink": "https://www.jasm.co.kr/news/view/323046/?sc=Naver",
+      "description": "협약에 따라 국내 삼성월렛 사용자는 중국 전역 위챗페이 가맹점에서 QR 코드를 이용해 삼성월렛 머니로 결제할 수 있다. 앱에서 결제용 QR 코드를 제시하거나 매장 QR 코드를 직접 스캔하는 방식으로, 별도의 결제...",
+      "pubDate": "2026-10-27T00:22:00+00:00",
+      "category": "삼성페이",
+      "source": "중앙신문"
+    },
+    {
+      "title": "삼성전자, 중국서 '삼성월렛 머니' 결제 지원…위챗페이와 연동",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90999",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=90999",
+      "description": "위챗페이(WeChat Pay) 가맹점에서 삼성월렛 머니로 결제할 수 있도록 하는 것이다. 한국의 삼성월렛 이용자는 중국 방문 시 별도의 현지 결제 서비스를 등록하거나 추가 결제 수단을 준비하지 않고도 위챗페이 기반 QR...",
+      "pubDate": "2026-10-27T00:22:00+00:00",
+      "category": "삼성페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "중국서도 '삼성월렛 머니 QR' 쓴다…텐센트·우리은행과 업무협약",
+      "link": "https://n.news.naver.com/mnews/article/422/0000919800?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR202610270917532ps",
+      "description": "삼성전자 MX사업부 디지털월렛팀장 채원철 부사장은 \"앞으로도 글로벌 파트너들과 긴밀하게 협력하여 현지에 최적화된 결제 경험을 지속적으로 제공하겠다\"고 했습니다. #삼성전자 #삼성월렛 #위챗페이 #QR",
+      "pubDate": "2026-10-27T00:18:00+00:00",
+      "category": "삼성페이",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "삼성전자, 중국서 삼성월렛 머니 QR 결제 지원…텐센트·우리은행과 맞...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900860",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=900860",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게 됐다. 특히...",
+      "pubDate": "2026-10-27T00:16:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "모바일콘텐츠주 들썩…웹툰·AI·간편결제까지 확산",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498734",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498734",
+      "description": "네이버 증권. 모바일콘텐츠(스마트폰 태블릿PC) 관련주가 27일 모바일 플랫폼 이용 확대와 디지털 콘텐츠... 모바일 결제 분야에서는 다날과 KG파이낸셜이 관련주로 분류된다. 다날은 휴대전화 결제 등 결제 서비스를...",
+      "pubDate": "2026-10-27T00:12:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "“중국서 위챗페이로 결제”…삼성월렛 머니, 해외로 확대",
+      "link": "https://n.news.naver.com/mnews/article/117/0004118800?sid=105",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026102709102684702",
+      "description": "삼성월렛 머니는 삼성전자가 우리은행과 제공하는 충전형 간편결제 서비스다. 이번 협력으로 중국 전역의 위챗페이 가맹점에서 결제용 QR 코드를 제시하거나 매장의 QR 코드를 스캔해 결제할 수 있게 됐다. 해외 결제...",
+      "pubDate": "2026-10-27T00:11:00+00:00",
+      "category": "삼성페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "삼성월렛 머니, 中 위챗페이 QR 결제 지원…해외 수수료도 '0원'",
+      "link": "https://n.news.naver.com/mnews/article/003/0014280111?sid=105",
+      "originallink": "https://www.newsis.com/view/NISX20261027_0003842239",
+      "description": "이번 협약에 따라 한국 삼성월렛 이용자는 중국 방문 시 텐센트가 운영하는 위챗페이 기반 QR 결제를 통해 현지 위챗페이 가맹점에서 삼성월렛 머니로 직접 결제할 수 있다. 중국에서는 음식점 테이블 주문·결제부터...",
+      "pubDate": "2026-10-27T00:10:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "삼성월렛, 중국서 QR 결제 가능···텐센트·우리은행 맞손",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268139",
+      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268139",
+      "description": "중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 QR 결제를 지원하고 내년 1분기 신용카드 결제까지 확대할 계획이다. 삼성전자는 26일 중국 선전 텐센트 본사에서 텐센트·우리은행과 '삼성월렛 머니' 해외 결제...",
+      "pubDate": "2026-10-27T00:08:00+00:00",
+      "category": "삼성페이",
+      "source": "화이트페이퍼"
+    },
+    {
+      "title": "삼성월렛 머니 ‘中 위챗페이 기반 QR 결제’ 지원…해외 사용 확대",
+      "link": "https://www.viva100.com/article/20261027500143",
+      "originallink": "https://www.viva100.com/article/20261027500143",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 QR 결제를 이용할 수 있다. 삼성월렛 앱에서 결제용 QR 코드를 띄워 상점 직원에게 보여주거나, 매장에 비치된 QR 코드를...",
+      "pubDate": "2026-10-27T00:04:00+00:00",
+      "category": "삼성페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "삼성전자, 중국서 ‘삼성월렛 머니’ 결제 시작…텐센트·우리은행과 협...",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000101388",
+      "originallink": "https://www.seoultimes.news/news/article.html?no=2000101388",
+      "description": "3% 적립…내년 1분기 신용카드 결제 추가 [서울타임즈뉴스 = 허성미 기자] 삼성전자는 텐센트, 우리은행과 협력해 중국 전역의 위챗페이 가맹점에서 ‘삼성월렛 머니’로 결제할 수 있는 서비스를 시작했다고 27일 밝혔다....",
+      "pubDate": "2026-10-27T00:01:00+00:00",
+      "category": "삼성페이",
+      "source": "seoultimes"
+    },
+    {
+      "title": "삼성전자, 삼성월렛 머니 해외 결제 확대…중국 QR 결제 공략",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408789",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=408789",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트가 운영하는 위챗페이 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니를 사용할 수 있다. 삼성월렛 머니는 삼성전자와 우리은행이...",
+      "pubDate": "2026-10-27T00:00:00+00:00",
+      "category": "삼성페이",
+      "source": "테크월드"
+    },
+    {
+      "title": "삼성월렛 머니, 이제 중국서 쓴다…해외결제 편의↑",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282630",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=282630",
+      "description": "이번 협약에 따라 한국 갤럭시 이용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 별도 수단 등록 없이 삼성월렛 앱 내 QR 코드로 바로 결제할 수 있게 됐다. 해외 결제 수수료가 면제되며, 오프라인 결제 금액의 0....",
+      "pubDate": "2026-10-26T23:58:00+00:00",
+      "category": "삼성페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "삼성전자, 중국서 삼성월렛 머니 QR 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/001/0016401931?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261027034100017?input=1195m",
+      "description": "협약에 따라 국내 삼성월렛 사용자는 중국 전역 위챗페이 가맹점에서 QR 코드를 이용해 삼성월렛 머니로 결제할 수 있다. 앱에서 결제용 QR 코드를 제시하거나 매장 QR 코드를 직접 스캔하는 방식으로, 별도의 결제...",
+      "pubDate": "2026-10-26T23:57:00+00:00",
+      "category": "삼성페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "삼성전자 \"중국에서 '삼성월렛 머니' 즉시 결제 가능\"…위챗페이 QR 결제...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=754959",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754959",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이(WeChat Pay) 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 즉시 결제가...",
+      "pubDate": "2026-10-26T23:54:00+00:00",
+      "category": "삼성페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 맞손…'삼성월렛' 中 전역으로 확장",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=120860",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=120860",
+      "description": "않고도 '삼성월렛 머니'를 통해 현지 소비를 처리할 수 있게 된다. 텐센트가 운영하는 모바일 결제 플랫폼 '위챗페이(WeChat Pay)' 가맹점 망과 연동돼, QR 결제가 보편화된 음식점 테이블 주문이나 소액 결제 매장에서...",
+      "pubDate": "2026-10-26T23:54:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "삼성전자, 삼성월렛 중국 결제 지원…텐센트와 업무협약",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=215882",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=215882",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는결제 서비스인 위챗페이(WeChat Pay) 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게...",
+      "pubDate": "2026-10-26T23:54:00+00:00",
+      "category": "삼성페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 '삼성월렛 머니' 중국 QR 결제 지원 협력",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1418628",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1418628",
+      "description": "삼성월렛 머니는 이번 업무 협약에 따라 중국 전역의 위챗페이 가맹점에서 텐센트의 결제 서비스 '위챗페이' 기반의 QR 결제를 바로 제공할 수 있게 됐다. 삼성월렛 앱에서 결제용 QR 코드를 띄우거나 상점 내 QR 코드를...",
+      "pubDate": "2026-10-26T23:54:00+00:00",
+      "category": "삼성페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "삼성월렛, 중국 결제시장 공략…텐센트·우리은행과 협력",
+      "link": "https://www.g-enews.com/view.php?ud=2026102708411250233084322ec9_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=2026102708411250233084322ec9_1",
+      "description": "이번 협약에 따라 국내 삼성월렛 이용자는 중국 방문 시 텐센트의 모바일 결제 서비스인 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 중국은 음식점 주문부터 교통·생활 편의시설 등 일상 소비 전반에 QR...",
+      "pubDate": "2026-10-26T23:50:00+00:00",
+      "category": "삼성페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "삼성월렛 머니 그대로 중국서 쓴다…삼성, 텐센트 손잡고 위챗페이 연동",
+      "link": "https://n.news.naver.com/mnews/article/008/0005432013?sid=105",
+      "originallink": "https://www.mt.co.kr/tech/2026/10/27/2026102708282250944",
+      "description": "중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 QR 결제를 지원하고, 내년 1분기에는 신용카드 결제까지 확대할 계획이다. 삼성전자는 26일 중국 선전 텐센트 본사에서 텐센트·우리은행과 '삼성월렛 머니' 해외 결제...",
+      "pubDate": "2026-10-26T23:50:00+00:00",
+      "category": "삼성페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "'삼성월렛 머니' 中전역 QR 결제 가능해진다…텐센트와 MOU",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441222",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4441222",
+      "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 서비스인 위챗페이 가맹점에서 QR 코드를 통해 '삼성월렛 머니'로 바로 결제할 수 있게 됐다. 또 해외 결제 수수료 없이 이용할 수 있으며...",
+      "pubDate": "2026-10-26T23:46:00+00:00",
+      "category": "삼성페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "삼성전자, '삼성월렛 머니' 중국 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/031/0001069490?sid=101",
+      "originallink": "http://www.inews24.com/view/2019217",
+      "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 방문 시 위챗페이 가맹점에서 삼성월렛 머니를 이용해 결제할 수 있게 됐다. 이용자는 삼성월렛 앱에서 결제용 QR 코드를 생성해 상점 직원에게 제시하거나 매장에 비치된...",
+      "pubDate": "2026-10-26T23:43:00+00:00",
+      "category": "삼성페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 협력⋯삼성월렛 중국 QR 결제 지원",
+      "link": "https://www.etoday.co.kr/news/view/2640346",
+      "originallink": "https://www.etoday.co.kr/news/view/2640346",
+      "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 방문 시 위챗페이 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 앱에서 결제용 QR 코드를 띄워 상점 직원에게 보여주거나...",
+      "pubDate": "2026-10-26T23:40:00+00:00",
+      "category": "삼성페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "삼성월렛, 중국서도 QR 결제 된다…텐센트·우리은행과 맞손",
+      "link": "https://n.news.naver.com/mnews/article/421/0009251468?sid=105",
+      "originallink": "https://www.news1.kr/it-science/mobile/6332655",
+      "description": "이에 따라 중국을 방문하는 갤럭시 사용자는 별도의 현지 결제 수단을 준비하지 않아도 위챗페이 가맹점에서 삼성월렛으로 결제할 수 있게 됐다. 내년 1분기에는 결제 수단을 신용카드까지 확대할 계획이다. 삼성전자는...",
+      "pubDate": "2026-10-26T23:35:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "삼성월렛 머니, 중국 위챗페이 가맹점서 QR 결제 지원",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=84943",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=84943",
+      "description": "협약에 따라 국내 삼성월렛 사용자는 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있다. 삼성월렛 앱에 결제용 QR 코드를 띄워 매장 직원에게 보여주거나, 매장에 비치된 QR 코드를 직접 스캔하는...",
+      "pubDate": "2026-10-26T23:34:00+00:00",
+      "category": "삼성페이",
+      "source": "PRESS9"
+    },
+    {
+      "title": "삼성전자, 중국서 '삼성월렛 머니' 위챗페이 QR 결제 튼다",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076219",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076219",
+      "description": "이에 따라 한국의 삼성월렛 사용자들은 앞으로 중국 방문 시 텐센트가 운영하는 위챗페이(WeChat Pay) 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 즉각 결제할 수 있게 된다. 음식점 테이블...",
+      "pubDate": "2026-10-26T23:32:00+00:00",
+      "category": "삼성페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "삼성전자, 중국 위챗페이와 연동…'삼성월렛 머니' 해외 결제 지원",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=241536",
+      "originallink": "https://www.ngonews.kr/news/articleView.html?idxno=241536",
+      "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이(WeChat Pay) 가맹점에서 삼성월렛 머니로 QR 결제를 할 수 있게 된다. 삼성월렛 앱에 결제용 QR 코드를 띄워 매장 직원에게 보여주거나, 매장에...",
+      "pubDate": "2026-10-26T23:32:00+00:00",
+      "category": "삼성페이",
+      "source": "한국NGO신문"
+    },
+    {
+      "title": "삼성월렛 머니, 중국 위챗페이 가맹점서 바로 결제",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2120460",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2120460",
+      "description": "이번 협약으로 한국 삼성월렛 이용자는 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 위챗페이는 텐센트가 운영하는 결제 서비스다. 결제 방식은 두 가지다. 삼성월렛 앱에서 결제용 QR...",
+      "pubDate": "2026-10-26T23:30:00+00:00",
+      "category": "삼성페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "삼성전자, '삼성월렛 머니' 중국 QR 결제 지원…텐센트·우리은행과 업...",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=446271",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=446271",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트가 운영하는 위챗페이(WeChat Pay) 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 이용자는 삼성월렛...",
+      "pubDate": "2026-10-26T23:30:00+00:00",
+      "category": "삼성페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "'삼성월렛 머니' 중국서 쓴다…내년 1분기 신용카드로 결제 수단 확대",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=725388",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=725388",
+      "description": "이번 협약으로 삼성월렛 사용자는 텐센트의 결제 서비스인 위챗페이의 QR 결제망을 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 바로 결제할 수 있다. 앱에서 결제용 QR 코드를 띄워 직원에게 보여주거나...",
+      "pubDate": "2026-10-26T23:26:00+00:00",
+      "category": "삼성페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "중국서도 ‘삼성월렛 머니’ 결제..삼성전자, 텐센트·우리은행과 업무...",
+      "link": "https://kpenews.com/View.aspx?No=4280141",
+      "originallink": "https://kpenews.com/View.aspx?No=4280141",
+      "description": "이번 협약으로 국내 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 바로 결제할 수 있게 됐다. 중국은 음식점 테이블 주문부터 일상 소액 결제까지 QR 코드가...",
+      "pubDate": "2026-10-26T23:22:00+00:00",
+      "category": "삼성페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "\"中 'QR 결제 장벽' 허문다\" 삼성월렛, 텐센트·우리은행 손잡고 영토 확...",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=267957",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=267957",
+      "description": "이번 협약에 따라 갤럭시 사용자는 중국 방문 시 텐센트 위챗페이 기반 QR 결제망을 그대로 이용할 수 있다. 삼성월렛 앱에서 결제용 QR 코드를 띄워 상점 직원에게 보여주거나, 상점에 비치된 QR 코드를 직접 스캔하는 두...",
+      "pubDate": "2026-10-26T23:20:00+00:00",
+      "category": "삼성페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "삼성전자, 중국서 '삼성월렛 머니' 결제 시작…수수료 없이 쓴다",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=113557",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=113557",
+      "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국을 방문했을 때 텐센트가 운영하는 위챗페이 기반 QR 결제를 통해 현지 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있다. 결제 방법은 두 가지다. 삼성월렛 앱에서...",
+      "pubDate": "2026-10-26T23:16:00+00:00",
+      "category": "삼성페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 맞손...중국서 '삼성월렛 머니' QR 결제 지...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498686",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498686",
+      "description": "이번 협약에 따라 국내 삼성월렛 이용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 별도의 현지 결제 앱이나 결제 수단을 등록하지 않아도 삼성월렛 머니를 이용해 QR 결제를 할 수 있게 됐다. 결제 방식은...",
+      "pubDate": "2026-10-26T23:16:00+00:00",
+      "category": "삼성페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "중국서 위챗페이 없어도 결제…삼성월렛, 해외 결제 서비스 확대",
+      "link": "https://www.ajunews.com/view/20261027080553571",
+      "originallink": "https://www.ajunews.com/view/20261027080553571",
+      "description": "위챗페이와 손잡고 '삼성월렛 머니'의 해외 결제 서비스를 확대한다. 앞으로 중국을 방문하는 갤럭시 스마트폰 사용자는 별도의 현지 결제 앱을 설치하지 않고도 삼성월렛으로 결제할 수 있게 된다. 삼성전자는 지난...",
+      "pubDate": "2026-10-26T23:14:00+00:00",
+      "category": "삼성페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "삼성전자, 텐센트·우리은행과 협력…삼성월렛 중국 QR 결제 지원",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1729235",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1729235",
+      "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이(WeChat Pay) 결제망을 통해 현지 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 결제 방식은 삼성월렛 앱에 표시된 QR코드를 매장 직원에게...",
+      "pubDate": "2026-10-26T23:12:00+00:00",
+      "category": "삼성페이",
+      "source": "EBN"
+    },
+    {
+      "title": "\"중국서 실물 카드 없이 모바일 결제\"…삼성전자, '삼성월렛 머니' 해외...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91944",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91944",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트가 운영하는 모바일 결제 플랫폼 위챗페이 기반의 QR 결제망을 활용해 중국 전역 가맹점에서 삼성월렛 머니로 결제를 진행할 수 있게 됐다. 사용자는...",
+      "pubDate": "2026-10-26T23:12:00+00:00",
+      "category": "삼성페이",
+      "source": "더페어"
+    },
+    {
+      "title": "삼성전자, '삼성월렛 머니' 해외 결제 협약…중국 QR 결제 지원",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776616",
+      "originallink": "https://www.slist.kr/news/articleView.html?idxno=776616",
+      "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 전역의 위챗페이 가맹점에서 '삼성월렛 머니'로 결제할 수 있게 됐다. 음식점의 테이블 주문·결제부터 일상적인 소액 결제까지 QR 코드가 폭넓게 쓰이는 중국에서 현지...",
+      "pubDate": "2026-10-26T23:10:00+00:00",
+      "category": "삼성페이",
+      "source": "싱글리스트"
+    },
+    {
+      "title": "삼성월렛, 위챗페이 손잡고 중국 결제 시장 공략",
+      "link": "https://n.news.naver.com/mnews/article/119/0003147310?sid=105",
+      "originallink": "https://www.dailian.co.kr/news/view/1706447/?sc=Naver",
+      "description": "삼성전자가 텐센트·우리은행과 협력해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있는 서비스를 선보인다. 삼성전자는 지난 26일 중국 선전(Shenzhen)에 위치한 텐센트 본사에서 텐센트·우리은행과...",
+      "pubDate": "2026-10-26T23:06:00+00:00",
+      "category": "삼성페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "[핀테크핫이슈] 금융권 3분기 성적표 공개...증시 전망 '시계제로'",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709983",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709983",
+      "description": "네이버페이는 우리은행과 제휴한 수시입출식 예금상품의 최고 연 4% 특별금리 혜택을 연장했다.... 카카오는 인적분할을 앞두고 제기된 블록딜 가능성과 주요 계열사 매각설을 부인했다. 소액주주들의 주가 하락과...",
+      "pubDate": "2026-10-26T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "토스, 페이스페이 20% 적립 프로모션 진행",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=150010",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=150010",
+      "description": "토스가 얼굴 인식 결제 서비스 '페이스페이' 이용 활성화를 위해 결제 금액의 20%를 적립해 주는 프로모션을... 결제 금액의 30%를 하루 최대 2000원까지 적립 받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식...",
+      "pubDate": "2026-10-26T20:32:00+00:00",
+      "category": "토스페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "토스, 페이스페이 20% 적립 프로모션",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876158",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876158",
+      "description": "| 서울=한스경제 김종효 기자 | 모바일 금융 서비스 토스를 운영하는 비바리퍼블리카가 얼굴 인식 결제... 결제 금액의 30%를 하루 최대 2000원까지 적립해 주며, CU 편의점에서는 오전 6시부터 오후 1시 사이에 간편식을...",
+      "pubDate": "2026-10-26T11:54:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "카카오페이, 김천김밥축제 QR오더로 접수",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101553",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101553",
+      "description": "카카오페이가 오늘 개막하는 2026 김천김밥축제서 QR오더 기반 비대면 주문 결제 서비스를 선보이며 김밥 주문 문화를 바꾼다. 현장 곳곳에 비치된 QR코드를 스마트폰으로 스캔하면 줄을 설 필요 없이 좌석에서 김밥을...",
+      "pubDate": "2026-10-26T11:20:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "한투, 카카오페이 '실적 쇼크' 전망…\"영업익 46% 급감·성장동력 흔들...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000545718?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2380984.htm",
+      "description": "3분기 영업익 317억원 전망…시장 기대치 15% 하회 카카오페이증권 성장세 꺾이자 실적 휘청…증권 의존도 부메랑 한국투자증권이 카카오페이의 실적 성장세에 급제동이 걸렸다고 진단했다. 국내 증시 급락에 따른 주식...",
+      "pubDate": "2026-10-26T09:06:00+00:00",
+      "category": "카카오페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "[현장] 신원근 \"나만의 AI 금융비서 고도화\"…카카오페이, 투자·대출·보...",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=817114",
+      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=817114",
+      "description": "카카오페이가 인공지능(AI) 기반 금융관리 서비스의 영역을 소비 분석에서 투자·대출·보험으로 넓힌다. 4300만 이용자 기반과 마이데이터를 활용해 개인별 금융 상황에 맞는 서비스를 제공하고, 기존 고액 자산가 중심의...",
+      "pubDate": "2026-10-26T09:00:00+00:00",
+      "category": "카카오페이",
+      "source": "오늘경제"
+    },
+    {
+      "title": "'서울 핀테크 위크 2026' 개막, AI가 바꿀 맞춤형 금융을 한 곳에서",
+      "link": "https://www.insnews.co.kr/news/articleView.html?idxno=93498",
+      "originallink": "https://www.insnews.co.kr/news/articleView.html?idxno=93498",
+      "description": "■ 금융권  AI 에이전트 활용부터 AX 정책·해외 협력까지 신원근 카카오페이 대표이사는 기조연설에서 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 금융 AI 에이전트가 개인의 금융정보와 데이터를...",
+      "pubDate": "2026-10-26T08:40:00+00:00",
+      "category": "간편결제",
+      "source": "한국보험신문"
+    },
+    {
+      "title": "[핀테크 NOW] 토스·웹케시",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193758",
+      "originallink": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193758",
+      "description": "토스 페이스페이는 별도의 카드나 휴대전화를 꺼내지 않고 단말기 화면을 바라보는 것만으로 즉시 결제가 완료되는 차세대 간편결제 서비스다. 올해 10월 기준 가입자 수 900만 명을 돌파하며 빠른 성장세를 이어가고...",
+      "pubDate": "2026-10-26T08:38:00+00:00",
+      "category": "토스페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "토스, 페이스페이 결제액 20% 적립…연말까지 프로모션",
+      "link": "https://n.news.naver.com/mnews/article/003/0014279421?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261026_0003841630",
+      "description": "토스가 얼굴 인식 결제 서비스 '페이스페이' 이용 고객을 대상으로 결제 금액의 20%를 적립해 주는 행사를... GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립할 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편...",
+      "pubDate": "2026-10-26T08:33:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "[이슈] 신원근 카카오페이 대표 \"금융 AI 에이전트 시대, 최대 과제는 신...",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=285193",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=285193",
+      "description": "[사진=정원선 기자] 신원근 카카오페이 대표이사가 금융 AI 에이전트 시대를 앞두고 풀어야 할 최대 과제로 신뢰와 제도를 꼽았다. 26일 서울 여의도 콘래드 서울에서 열린 '서울 핀테크 위크 2026'에서 기조연설을 통해...",
+      "pubDate": "2026-10-26T08:32:00+00:00",
+      "category": "카카오페이",
+      "source": "팍스경제TV"
+    },
+    {
+      "title": "\"금융사기 더는 없다\"…서울핀테크위크 빛낸 'AI 디펜더들'[현장]",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026102613031438630",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102613031438630",
+      "description": "어드바이저로렌은 우리은행과 카카오페이증권 등과 협업하고 있다. 이미지·영상 조작을 탐지하는 기술도 소개됐다. 딥페이크 탐지 기술을 개발하는 '메타크라우드'는 AI로 만들어진 이미지와 영상 등을 판별하는...",
+      "pubDate": "2026-10-26T07:56:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 금융계 소식…하나금융그룹·하나은행·토스",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202654",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202654",
+      "description": "또 토스는 일부 고객을 대상으로 페이스페이 결제금액의 20%를 적립해 주는 프로모션을 진행한다.... 등을 카카오톡으로 주기적으로 제공하는 서비스다. 이번 개편으로 가입자는 카카오톡에서 연금자산 현황과 시장...",
+      "pubDate": "2026-10-26T07:50:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "토스, 페이스페이 결제액 20% 적립…연말까지 프로모션",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=88210",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=88210",
+      "description": "페이스페이는 별도로 지갑이나 휴대전화를 꺼내지 않고 얼굴 인식만으로 결제할 수 있는 서비스다. 토스에... 결제 금액의 30%를 하루 최대 2000원까지 적립할 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식을...",
+      "pubDate": "2026-10-26T07:50:00+00:00",
+      "category": "토스페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "토스 페이스페이 가입자 900만명…연말까지 결제액 20% 적립",
+      "link": "https://n.news.naver.com/mnews/article/119/0003147170?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1706306/?sc=Naver",
+      "description": "토스의 얼굴 인식 결제 서비스 '페이스페이' 가입자가 900만명을 넘어섰다. 토스는 이용자 확대에 맞춰 올해... GS25에서는 결제금액의 30%를 하루 최대 2000원까지 적립해준다. CU에서는 오전 6시부터 오후 1시까지 간편식...",
+      "pubDate": "2026-10-26T07:50:00+00:00",
+      "category": "토스페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "[현장]‘나를 아는 금융’ 어디까지 왔나…‘서울 핀테크위크2026’ 가보...",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261450460250174",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261450460250174",
+      "description": "신원근 카카오페이 대표는 “AI 에이전트 시대는 이미 왔다”며 소비를 넘어 투자·대출·보험으로 서비스를 확대할 계획을 밝혔다. 신 대표는 “개인에게 유의미한 금융 조언을 제공할 수 있는 토대는 마이데이터다”며...",
+      "pubDate": "2026-10-26T07:22:00+00:00",
+      "category": "간편결제",
+      "source": "대한경제"
+    },
+    {
+      "title": "토스, 얼굴로 결재하면 '20% 적립' 쏜다",
+      "link": "https://magazine.hankyung.com/job-joy/article/202610265707d",
+      "originallink": "https://magazine.hankyung.com/job-joy/article/202610265707d",
+      "description": "토스가 얼굴 인식 결제 서비스 '페이스페이(FacePay)' 이용률을 높이기 위해 결제 금액의 20%를 적립해 주는... 결제 금액의 30%를 하루 최대 2,000원까지 적립 받을 수 있으며, CU에서는 오전 6시부터 오후 1시까지 간편식...",
+      "pubDate": "2026-10-26T07:14:00+00:00",
+      "category": "토스페이",
+      "source": "hankyung"
+    },
+    {
+      "title": "[증권 소식] 미래에셋증권·우리투자증권·NH투자증권·카카오페이",
+      "link": "http://sateconomy.co.kr/news/view/1065596369724725",
+      "originallink": "http://sateconomy.co.kr/news/view/1065596369724725",
+      "description": "미래에셋증권은 AI 인재 발굴에 나섰고 카카오페이는 금융 AI 서비스 확장 계획을 공개했다. 우리투자증권과 NH투자증권은 각각 퇴직연금과 해외 세무 분야의 고객 지원을 강화한다. ◆미래에셋증권, AI 페스티벌에...",
+      "pubDate": "2026-10-26T07:10:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "토스 페이스페이, 결제액 20% 적립…최대 6만원 혜택",
+      "link": "https://www.g-enews.com/view.php?ud=202610261602267579cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202610261602267579cd0bfacc1c_1",
+      "description": "페이스페이는 지갑이나 휴대전화를 꺼내지 않고 얼굴 인식만으로 결제할 수 있는 서비스로, 토스에 따르면... 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식을...",
+      "pubDate": "2026-10-26T07:08:00+00:00",
+      "category": "토스페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "‘가입자 900만 돌파’ 토스 페이스페이, 결제액 20% 돌려준다",
+      "link": "https://n.news.naver.com/mnews/article/468/0001275336?sid=101",
+      "originallink": "https://www.sportsseoul.com/news/read/1644155?ref=naver",
+      "description": "토스가 얼굴 인식 결제 서비스 ‘페이스페이(FacePay)’ 이용 확대를 위해 연말까지 결제 금액의 20%를 적립해... 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식 구매...",
+      "pubDate": "2026-10-26T06:27:00+00:00",
+      "category": "토스페이",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "투자·대출부터 보험까지⋯카카오페이, 금융 AI에이전트 고도화한다",
+      "link": "https://n.news.naver.com/mnews/article/031/0001069325?sid=101",
+      "originallink": "http://www.inews24.com/view/2019001",
+      "description": "카카오페이가 인공지능(AI) 금융 에이전트 'AI코치'의 서비스 범위를 기존의 소비 분석에서 투자·대출·보험으로 넓히겠다는 구상을 밝혔다. 신원근 카카오페이 대표는 26일 서울 여의도에서 열린 '서울 핀테크 위크 2026...",
+      "pubDate": "2026-10-26T06:21:00+00:00",
+      "category": "카카오페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "신원근 카카오페이 대표 “AI 에이전트 시대 본격화…스테이블코인 준비...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002246005?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026102614401672346",
+      "description": "신원근 카카오페이 대표가 금융 인공지능(AI) 에이전트의 확산에 대비해 스테이블코인 결제 기반을 서둘러 마련해야 한다고 강조했다. 신원근 대표는 26일 서울 여의도 콘래드호텔에서 열린 ‘서울 핀테크 위크 2026’...",
+      "pubDate": "2026-10-26T05:41:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "AI가 결제·투자까지 대신한다…서울 핀테크 위크 2026, 금융의 미래 조...",
+      "link": "https://www.kpinews.kr/newsView/1065586651440792",
+      "originallink": "https://www.kpinews.kr/newsView/1065586651440792",
+      "description": "이어 기조연설에 나선 신원근 카카오페이 대표는 AI가 금융정보를 제공하는 조력자에서 실제 업무를 수행하는 대리인으로 진화하고 있다는 점에 주목했다. 과거에는 이용자가 금융 애플리케이션에 직접 접속해 필요한...",
+      "pubDate": "2026-10-26T05:33:00+00:00",
+      "category": "간편결제",
+      "source": "kpinews"
+    },
+    {
+      "title": "'서울 핀테크 위크 2026 컨퍼런스' [포토오늘]",
+      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205472",
+      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=205472",
+      "description": "오세훈 서울시장(오른쪽 다섯번째)과 신원근 카카오페이 대표이사, 장민영 IBK기업은행장, 진옥동 신한금융그룹 회장, 이세훈 금융감독원 수석부원장, 조용병 전국은행연합회 회장 등이 26일 오전 서울 여의도...",
+      "pubDate": "2026-10-26T05:16:00+00:00",
+      "category": "간편결제",
+      "source": "시사오늘(시사ON)"
+    },
+    {
+      "title": "머스크도 어린이 주식 선물 계획…카카오페이證 주식 수령자 중 신규 고...",
+      "link": "https://www.viva100.com/article/20261021500492",
+      "originallink": "https://www.viva100.com/article/20261021500492",
+      "description": "일론 머스크 스페이스X 최고경영자(CEO)가 미국 어린이들에게 주식을 나눠주겠다는 계획을 밝힌 가운데, 국내에서는 카카오페이증권이 주식 선물 캠페인을 통해 신규 고객을 확보한 것으로 나타났다. 회사는 내년...",
+      "pubDate": "2026-10-26T05:06:00+00:00",
+      "category": "카카오페이",
+      "source": "브릿지경제"
+    },
+    {
+      "title": "신원근 카카오페이 대표 '금융AI 에이전트가 개인의 금융생활 바꿀 것'...",
+      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205476",
+      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=205476",
+      "description": "신원근 카카오페이 대표이사가 26일 오전 서울 여의도 콘래드호텔에서 열린 '서울 핀테크 위크 2026 컨퍼런스'에서 '금융의 새로운 전화 나만을 위한 금융 AI 에이전트' 기조강연을 하고 있다. ⓒ시사오늘 2026.10.26.",
+      "pubDate": "2026-10-26T05:04:00+00:00",
+      "category": "카카오페이",
+      "source": "시사오늘(시사ON)"
+    },
+    {
+      "title": "신원근 카카오페이 대표 “금융 AI 에이전트 시대 왔다⋯스테이블코인...",
+      "link": "https://www.etoday.co.kr/news/view/2640080",
+      "originallink": "https://www.etoday.co.kr/news/view/2640080",
+      "description": "이투데이=연희진 기자 | 한국 마이데이터 강점⋯“AI 통제·보안·책임 체계 갖춰야” 카카오페이, 소비 분석 넘어 종합 금융관리로 확장 추진 스테이블코인 준비 강조⋯AI 간 초소액 결제 등에 유리 AI가 개인의...",
+      "pubDate": "2026-10-26T05:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "국감서 또 도마 오른 애플페이…후발 카드사 커지는 '신중론'",
+      "link": "https://n.news.naver.com/mnews/article/629/0000545529?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2380643.htm",
+      "description": "수수료 논란에 정무 부담…기존 대비 유리한 계약 조건 관건 비용 전가 제한에 수익성 계산 복잡…결제 인프라 놓곤 '낙관적' 애플페이 수수료가 또다시 국정감사에서 도마에 오른 가운데 카드업계를 중심으로 신규...",
+      "pubDate": "2026-10-26T04:53:00+00:00",
+      "category": "애플페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "신원근 카카오페이 대표 “금융 AI 에이전트 시대, 마이데이터가 경쟁력...",
+      "link": "https://n.news.naver.com/mnews/article/030/0003478674?sid=101",
+      "originallink": "https://www.etnews.com/20261026000252",
+      "description": "신원근 카카오페이 대표는 26일 서울 여의도에서 열린 서울핀테크위크에서 “AI가 실제로 나를 대신한 행동까지 한다”며 금융 분야에서도 AI 에이전트의 역할이 확대될 것으로 내다봤다. 신 대표는 금융 AI 에이전트가...",
+      "pubDate": "2026-10-26T04:34:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "신원근 카카오페이 대표 \"AI 시대, 최적 결제수단은 스테이블코인\"",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172766",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092172766",
+      "description": "신원근 카카오페이 대표가 금융 AI 에이전트 시대에 대비하려면 스테이블코인 제도 정비가 빨라져야 한다고 밝혔다. 원화 스테이블코인 법제화가 늦어지는 가운데 관련 사업에 공을 들여온 카카오페이가 공개석상에서...",
+      "pubDate": "2026-10-26T04:12:00+00:00",
+      "category": "카카오페이",
+      "source": "IT조선"
+    },
+    {
+      "title": "'서울 핀테크 위크 2026 컨퍼런스'[한 컷]",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026102612075166149",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102612075166149",
+      "description": "오세훈 서울시장과 (앞 줄 왼쪽 첫 번째부터 네 번째)신원근 카카오페이 대표이사, 장민영 IBK기업은행장, 진옥동 신한금융그룹 회장, 이세훈 금융감독원 수석부원장, (앞 줄 오른쪽 두 번째) 조용병은 전국은행연합회...",
+      "pubDate": "2026-10-26T04:12:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "신원근 카카오페이 대표 \"온체인 결제 인프라 구축 핵심\"[한 컷]",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026102611590100171",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102611590100171",
+      "description": "'금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'에 대한 주제를 맡은 원근 카카오페이 대표이사가 26일 오전 서울 여의도 콘래드호텔에서 열린 '서울 핀테크 위크 2026 컨퍼런스'에서 기조연설을 하고 있다.",
+      "pubDate": "2026-10-26T04:10:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "기조연설 맡은 신원근 카카오페이 대표[한 컷]",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026102611553940356",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102611553940356",
+      "description": "신원근 카카오페이 대표이사가 26일 오전 서울 여의도 콘래드호텔에서 열린 '서울 핀테크 위크 2026 컨퍼런스'에서 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설을 하고 있다.",
+      "pubDate": "2026-10-26T04:08:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "신원근 카카오페이 대표 \"AI코치, 투자·대출·보험 확장\"",
+      "link": "https://n.news.naver.com/mnews/article/417/0001162054?sid=101",
+      "originallink": "https://www.sidae.com/article/2026102611333523310",
+      "description": "카카오페이가 소비 분석에 머물러 있는 AI 금융 에이전트 'AI코치'의 서비스 범위를 투자·대출·보험으로 넓힌다. 이미 구매한 그래픽처리장치(GPU)를 들여와 연산 용량을 키운 뒤 금융 전반을 다루는 에이전트로...",
+      "pubDate": "2026-10-26T03:09:00+00:00",
+      "category": "카카오페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "내일부터 토스도 무료반품…플랫폼 '쇼핑' 쟁탈전",
+      "link": "https://n.news.naver.com/mnews/article/374/0000539749?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000342081?division=NAVER",
+      "description": "선물하기와 톡딜 등 쇼핑 서비스를 이용하면 최대 5%를 적립해 주고, 카카오페이 결제 시 추가 적립도 제공합니다. 네이버는 다음 달 25일부터 기존에 제공하던 N배송 새벽배송을 유료 회원인 네이버플러스 멤버십 회원...",
+      "pubDate": "2026-10-26T02:49:00+00:00",
+      "category": "토스페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "카카오페이 \"에이전트 금융 선도국가 가능…스테이블코인 준비 서둘러야...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006396234?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02728966645616856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "이에 맞춰 최적화된 결제 수단인 스테이블코인을 중심으로 한 온체인 결제 인프라 구축에 서둘러야 합니다.” 신원근 카카오페이 대표이사가 26일 여의도 콘래드서울에서 열린 ‘서울 핀테크 위크 2026’ 첫날 ‘AX 기반...",
+      "pubDate": "2026-10-26T02:31:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "토스, 간편결제에서 쇼핑까지 전선 확대...커머스 영역 생태계 경쟁 본...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=156456",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=156456",
+      "description": "이러한 토스의 쇼핑 사업 확대는 네이버와의 경쟁 구도가 커머스 영역으로 확장되고 있다는 점에서도 주목된다. 양사는 이미 간편결제와 금융 서비스를 비롯한 다양한 사업 영역에서 경쟁을 벌이고 있다. 이 가운데...",
+      "pubDate": "2026-10-26T02:20:00+00:00",
+      "category": "토스페이",
+      "source": "테크M"
+    },
+    {
+      "title": "네이버 이어 토스도 ‘얼굴결제 전쟁’…20% 적립으로 승부",
+      "link": "https://n.news.naver.com/mnews/article/117/0004118359?sid=103",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026102611105951589",
+      "description": "토스의 이번 프로모션은 간편결제 업계가 얼굴 인식 기술을 활용한 결제 서비스 확대에 속도를 내는 가운데 나왔다. 앞서 네이버페이는 지난 13일부터 얼굴 인식 결제 서비스 ‘페이스사인’ 이용 고객에게 결제...",
+      "pubDate": "2026-10-26T02:14:00+00:00",
+      "category": "토스페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "배민·교촌치킨 할인 행사…쿠팡·토스는 결제 적립 혜택 확대",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189877",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=189877",
+      "description": "쿠팡과 토스도 카드 및 간편결제 이용 고객을 대상으로 적립 혜택을 확대한다. 배달의민족 운영사 우아한형제들은 11월 1일까지 맥도날드 신메뉴 '빅아치'를 3000원 할인하는 프로모션을 진행한다. 배민에서만...",
+      "pubDate": "2026-10-26T02:14:00+00:00",
+      "category": "토스페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "카카오페이 '新성장' 뭘로 하나 … 증권 시들, 스테이블코인 답보",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61088",
+      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61088",
+      "description": "디지털포스트(PC사랑 AI 에디션) 이백현 기자 = 3분기 영업익 317억 전망… 46% 감소 내년 영업익 전망치도 16.4% 하향 주식 거래대금 위축에 금융사업 주춤 새로운 성장동력 가시화 멀어 사진=카카오페이 [디지털포스트...",
+      "pubDate": "2026-10-26T02:02:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털포스트(PC사랑 AI 에디션)"
+    },
+    {
+      "title": "불붙은 얼굴결제 경쟁…토스, 페이스페이 20% 적립 프로모션",
+      "link": "https://www.ajunews.com/view/20261026104017466",
+      "originallink": "https://www.ajunews.com/view/20261026104017466",
+      "description": "토스는 토스플레이스의 50만개 가맹점을 기반으로 페이스페이 생태계 확장에 속도를 내고 있다. 토스 페이스페이 누적 가입자는 이달 900만명을 돌파했다. 지난해 9월 정식 출시 이후 올해 초 200만명, 6월 600만명으로...",
+      "pubDate": "2026-10-26T01:58:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "[금융계 소식] 메리츠증권·하나증권·신한투자증권·DB증권·토스",
+      "link": "https://sateconomy.co.kr/news/view/1065577546126622",
+      "originallink": "https://sateconomy.co.kr/news/view/1065577546126622",
+      "description": "결제금액의 30%를 하루 최대 2000원까지 적립하고, CU에서는 오전 6시부터 오후 1시까지 간편식 구매 시 최대 4000원 한도로 40% 할인한다. 다만 20% 적립 프로모션과 가맹점별 혜택은 중복 적용하지 않는다. 토스에 따르면...",
+      "pubDate": "2026-10-26T01:56:00+00:00",
+      "category": "토스페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "치열해지는 '얼굴결제' 혜택 전쟁… 토스, 결제 금액 20% 적립",
+      "link": "https://n.news.naver.com/mnews/article/008/0005431534?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/10/26/2026102609495923828",
+      "description": "얼굴 인식 결제를 활성화하려는 간편결제사의 프로모션 경쟁이 치열해지고 있다. 네이버페이가 '페이스사인' 결제에 10% 적립 이벤트를 진행하자 '페이스페이'를 서비스하는 토스는 20% 혜택으로 맞불을 놨다. 토스는...",
+      "pubDate": "2026-10-26T01:44:00+00:00",
+      "category": "토스페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "\"토스 페이스페이 가입자 900만 명 돌파\" 결제액 20% 적립으로 얼굴 결제...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=754814",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754814",
+      "description": "지갑이나 휴대전화를 꺼내지 않고 얼굴 인식만으로 결제할 수 있다는 점이 특징이다. 토스는 이 편리함을... 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식을...",
+      "pubDate": "2026-10-26T01:32:00+00:00",
+      "category": "토스페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "네이버 ‘10% 적립’ 내놓자…토스, 페이스페이 20% 적립 ‘맞불’",
+      "link": "https://n.news.naver.com/mnews/article/009/0005753850?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12185477",
+      "description": "토스, 최대 6만원 적립 프로모션 토스가 얼굴 인식 결제 서비스 ‘페이스페이’ 이용 고객에게 결제 금액의... GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립해준다. CU에서는 오전 6시부터 오후 1시 사이 간편식...",
+      "pubDate": "2026-10-26T01:23:00+00:00",
+      "category": "토스페이",
+      "source": "매일경제"
+    },
+    {
       "title": "토스, 연말까지 페이스페이 20% 적립…최대 6만원 혜택",
       "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368077",
       "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=368077",
@@ -10682,61 +11789,7 @@
       "pubDate": "2026-09-27T04:38:00+00:00",
       "category": "네이버페이",
       "source": "브릿지경제"
-    },
-    {
-      "title": "추석 연휴 성수동 나들이 코스로 소상공인 상생 가치 담은 카카오페이 ...",
-      "link": "https://n.news.naver.com/mnews/article/022/0004162022?sid=101",
-      "originallink": "https://www.segye.com/newsView/20260923515233?OutUrl=naver",
-      "description": "지난 14일 저녁 방문한 카카오페이의 ‘오래오래 함께가게’ 입구에 들어서자 소상공인 조향사가 만든 이러한 향이 반겨줬다. ‘오래오래 함께가게’는 성장 잠재력을 가진 소상공인 브랜드를 발굴해 판로 개척과 사업...",
-      "pubDate": "2026-09-27T00:26:00+00:00",
-      "category": "카카오페이",
-      "source": "세계일보"
-    },
-    {
-      "title": "[분석] '토스·카뱅·지그재그' 손잡은 신한카드, 결제액 노림수 통할까",
-      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814102",
-      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814102",
-      "description": "토스원 신한카드는 토스페이와 페이스페이 이용 고객을 겨냥했고, 카카오뱅크 착붙 신한카드는 간편결제와 구독, 생활 영역 할인까지 담았다. 지그재그 신한카드는 △카페 △백화점 △마트 △면세점 △택시까지 적립...",
-      "pubDate": "2026-09-26T09:00:00+00:00",
-      "category": "토스페이",
-      "source": "오늘경제"
-    },
-    {
-      "title": "드림시큐리티·삼성전자 급등… 삼성페이 섹터 일제히 웃었다",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490415",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490415",
-      "description": "네이버 증권. 삼성페이 관련 종목들이 26일 모바일 간편결제 시장의 지속적인 확대와 보안 기술 강화, 실적 개선 기대감에 힘입어 상승세로 장을 마감했다. 삼성페이는 MST(마그네틱 보안 전송)와 NFC(근거리 무선통신)를...",
-      "pubDate": "2026-09-26T07:10:00+00:00",
-      "category": "삼성페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "대출심사 파고드는 핀테크…2금융권과 잇달아 '동맹'",
-      "link": "https://n.news.naver.com/mnews/article/015/0005336134?sid=101",
-      "originallink": "https://www.hankyung.com/article/202609266145i",
-      "description": "토스와 네이버파이낸셜, 카카오페이 등에서 만든 신용점수 체계를 저축은행과 카드사 등에서 잇달아 심사에 결합하면서다. 대출 비교 서비스로 판매 창구를 넓혀온 대형 핀테크 회사들이 심사로 영역을 확대하고 있다....",
-      "pubDate": "2026-09-26T03:18:00+00:00",
-      "category": "간편결제",
-      "source": "한국경제"
-    },
-    {
-      "title": "[네이버-토스 갈등] 본질은 '오프라인 결제' 경쟁…매장 계산대서도 맞...",
-      "link": "https://dealsite.co.kr/articles/169530",
-      "originallink": "https://dealsite.co.kr/articles/169530",
-      "description": "토스는 먼저 보급한 단말기에 얼굴결제 서비스 ‘페이스페이’를 더해 이용을 늘리고 네이버페이는 검색·플레이스에서 시작한 소비자의 매장 이용을 결제로 연결하고 있다. 서로 다른 기반에서 출발했지만 매장의...",
-      "pubDate": "2026-09-26T03:02:00+00:00",
-      "category": "토스페이",
-      "source": "딜사이트"
-    },
-    {
-      "title": "네이버페이, 추석 맞이 혜택 확대…휴게소·해외 포인트 적립",
-      "link": "https://n.news.naver.com/mnews/article/003/0014214158?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20260923_0003802433",
-      "description": "네이버페이(Npay)가 추석 연휴 국내·외 여행객을 겨냥한 결제 프로모션을 진행하고 있다. 고속도로 휴게소에서 결제 금액의 절반을 포인트로 돌려주고, 해외에서도 국가별 할인과 적립 혜택을 제공한다. Npay는...",
-      "pubDate": "2026-09-26T02:00:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴시스"
     }
   ],
-  "lastFetch": "2026-10-26T01:09:11.326613+00:00"
+  "lastFetch": "2026-10-27T02:01:39.653514+00:00"
 }
