@@ -1,6 +1,33 @@
 {
   "articles": [
     {
+      "title": "해외 간편결제 경쟁 불붙었다…시중은행, 결제망 넓히기 총력",
+      "link": "https://www.ekn.kr/web/view.php?key=20261031028533449",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20261031028533449",
+      "description": "국내 결제 편의성에 해외 사용처를 더해 카카오페이·네이버페이 등 간편결제 서비스와 차별화를 꾀한다는 전략이다. 하나금융그룹의 자회사 GLN인터내셔널도 현지 결제 플랫폼과의 제휴를 확대하고 있다. 지난 5월...",
+      "pubDate": "2026-10-31T09:28:00+00:00",
+      "category": "간편결제",
+      "source": "에너지경제"
+    },
+    {
+      "title": "“카드로 결제하면 하수, 고수는 얼굴로” 토스 vs. 네이버 뭐가 더 이득...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002716970?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10920824?ref=naver",
+      "description": "그런데 여기저기 홍보 포스터가 붙어 있고 주변에서도 적립 혜택이 좋다고 하니 한번 써봤죠.” 김미영(58) 씨는 최근 네이버페이의 얼굴결제 서비스 ‘페이스사인’에 등록했다. 결제금액의 10%나 포인트로 돌려받고...",
+      "pubDate": "2026-10-31T03:10:00+00:00",
+      "category": "토스페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "[돈MORE]머니 전쟁 붙은 간편결제…어떤 '페이' 쓸까",
+      "link": "https://n.news.naver.com/mnews/article/648/0000052141?sid=101",
+      "originallink": "https://news.bizwatch.co.kr/article/finance/2026/10/30/0042",
+      "description": "네이버페이가 얼굴 결제에 10% 적립을 내걸자 토스는 20%로 응수했습니다. 삼성월렛머니 기자간담회에서는 직접 경쟁사와 적립률을 비교한 표를 내걸기도 했습니다. 한 업계 관계자는 \"다들 전쟁 중\"이라고 합니다....",
+      "pubDate": "2026-10-31T03:00:00+00:00",
+      "category": "간편결제",
+      "source": "bizwatch"
+    },
+    {
       "title": "“얼굴만 대면 10%·20% 적립”…네이버페이·토스 ‘쩐의 전쟁’",
       "link": "https://n.news.naver.com/mnews/article/119/0003149634?sid=101",
       "originallink": "https://www.dailian.co.kr/news/view/1708842/?sc=Naver",
@@ -97,7 +124,7 @@
       "description": "CJ푸드빌이 운영하는 뚜레쥬르가 지난 20일 토스의 간편결제 서비스 토스페이를 도입한 것을 기념해 신제품 출시와 프로모션을 진행한다고 30일 밝혔다. 뚜레쥬르는...",
       "pubDate": "2026-10-30T04:28:00+00:00",
       "category": "토스페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "삼성생명, 11월 다이렉트 보험 가입 이벤트…네이버페이·모니머니 지급",
@@ -241,7 +268,7 @@
       "description": "네이버페이가 Npay 커넥트 가맹점 사장님들이 본인 매장과 동네 장사 현황부터 상권 흐름까지, 사업 운영에... 반영해 매장 운영에 실질적으로 도움이 되는 정보를 더해 나갈 것\"이라고 말했다. [파이낸셜신문=황병우 기자]",
       "pubDate": "2026-10-29T08:02:00+00:00",
       "category": "네이버페이",
-      "source": "파이낸셜신문"
+      "source": "efnews"
     },
     {
       "title": "하나카드, 대만 간편결제 고객 유치 확대… 라인페이와 맞손",
@@ -790,7 +817,7 @@
       "description": "BNK경남은행이 디지털 결제 솔루션 기업 토스플레이스와 협력해 경남 지역 소상공인의 결제서비스 이용 편의성을 높이고 공동마케팅을 추진한다. BNK경남은행은...",
       "pubDate": "2026-10-28T11:16:00+00:00",
       "category": "토스페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "BNK경남은행, 토스플레이스와 지역 소상공인 지원 확대 '맞손'",
@@ -952,7 +979,7 @@
       "description": "국내에서 사용하던 갤럭시폰과 삼성월렛을 해외에서도 그대로 활용할 수 있도록 결제 절차를 간소화한 것이 특징이다. 중국에서는 위챗페이 가맹점을 중심으로 QR결제와 음식점 등의 테이블오더 결제를 지원한다. 중국...",
       "pubDate": "2026-10-28T08:52:00+00:00",
       "category": "삼성페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "카드·현금·앱 없이 결제…우리은행, 삼성월렛 머니 서비스 확대",
@@ -2176,7 +2203,7 @@
       "description": "이어 카카오뱅크와 신한 슈퍼SOL(각 29%), 모니모(26%), KB국민은행 스타뱅킹(24%), 미래에셋증권 M-STOCK(22%), 삼성증권 mPOP와 네이버페이(각 19%) 순이었다. 컨슈머인사이트는...",
       "pubDate": "2026-10-27T01:48:00+00:00",
       "category": "토스페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "삼성월렛 머니, 중국 QR 결제 지원",
@@ -2329,7 +2356,7 @@
       "description": "위챗페이 가맹점에서 '삼성월렛 머니'로 바로 결제할 수 있게 됐다. 특히, 중국은 음식점의 테이블 주문·결제부터 일상적인 소액 결제까지 QR 코드가 폭넓게 활용되고 있어, 이번 서비스가 현지 결제 편의성을 한층...",
       "pubDate": "2026-10-27T00:58:00+00:00",
       "category": "삼성페이",
-      "source": "파이낸셜신문"
+      "source": "efnews"
     },
     {
       "title": "삼성전자, 텐센트·우리은행과 맞손… '삼성월렛 머니' 중국 QR 결제 지...",
@@ -2392,7 +2419,7 @@
       "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이(WeChat Pay) 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 ‘삼성월렛 머니’로...",
       "pubDate": "2026-10-27T00:50:00+00:00",
       "category": "삼성페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "삼성전자·텐센트·우리은행, '삼성월렛 머니' 중국 QR 결제 협력",
@@ -5029,7 +5056,7 @@
       "description": "삼성전자의 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1주년을 맞아 가입자 300만명을 돌파했다.... 머니 결제 시 포인트 2.5%를 추가 적립해 주는 행사도 운영한다. Young 등급 이용자가 삼성월렛으로 토스...",
       "pubDate": "2026-10-22T04:50:00+00:00",
       "category": "삼성페이",
-      "source": "파이낸셜신문"
+      "source": "efnews"
     },
     {
       "title": "삼성전자 '삼성월렛 머니·포인트' 출시 1년만에 가입자 300만명 돌파",
@@ -5326,7 +5353,7 @@
       "description": "이 카드는 온라인에서 하나페이·삼성페이·네이버페이·카카오페이·페이코로 결제하면 기본 1%가 적립된다. 3일 연속 사용 시에는 다음 날부터 적립률이 2배 상향돼...",
       "pubDate": "2026-10-22T01:00:00+00:00",
       "category": "간편결제",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "\"간편결제 적립 파격 파격\"…우리카드, 'Npay 우리 체크'로 2030 영머니 ...",
@@ -5353,7 +5380,7 @@
       "description": "브레이크뉴스 정민우 기자= 삼성전자는 간편결제 서비스 ‘삼성월렛 머니... Young 등급 고객을 대상으로는 삼성 월렛으로 토스 유스카드 또는 카카오뱅크 mini카드...",
       "pubDate": "2026-10-22T00:54:00+00:00",
       "category": "삼성페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "삼성월렛 머니·포인트 등급제 도입..해외서도 쓴다",
@@ -7063,7 +7090,7 @@
       "description": "(사진=네이버페이) 네이버페이가 제주 지역 소상공인의 금융 접근성 제고 및 디지털 성장 기반 확대를 위해... 특별출연을 결정한 두 기관에 감사드리며, 신속한 자금 집행으로 보답하겠다\"고 말했다. [파이낸셜신문=]",
       "pubDate": "2026-10-16T05:22:00+00:00",
       "category": "네이버페이",
-      "source": "파이낸셜신문"
+      "source": "efnews"
     },
     {
       "title": "[테크 NOW] 네이버페이ㆍ카카오ㆍNHN링크ㆍ카카오엔터",
@@ -7378,7 +7405,7 @@
       "description": "(이미지=네이버페이) 네이버페이(Npay)와 카카오페이가 장기간 사용하지 않은 선불충전금에 대한 안내를 강화하고 환급 편의성을 높인다. 이용자가 잊고 있던 잔액을 쉽게 확인하고 필요할 경우 현금으로 돌려받을 수...",
       "pubDate": "2026-10-15T11:16:00+00:00",
       "category": "네이버페이",
-      "source": "파이낸셜신문"
+      "source": "efnews"
     },
     {
       "title": "토스 6개 계열사 보안 전문가 집결…내달 6일 열리는 '가디언즈 26' 참가...",
@@ -9844,7 +9871,7 @@
       "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 세부적으로 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로...",
       "pubDate": "2026-10-08T08:08:00+00:00",
       "category": "토스페이",
-      "source": "파이낸셜신문"
+      "source": "efnews"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 디지털금융 소식…토스·두나무·빗썸",
@@ -11401,7 +11428,7 @@
       "description": "(사진=네이버페이) 네이버페이(Npay)가 하나은행, 서울신용보증재단과 손잡고 서울지역 소상공인과 청년... 현장결제 수수료를 올해 말까지 전액 지원하는 등 소상공인 지원을 이어가고 있다. [파이낸셜신문=황병우 기자]",
       "pubDate": "2026-10-05T07:28:00+00:00",
       "category": "네이버페이",
-      "source": "파이낸셜신문"
+      "source": "efnews"
     },
     {
       "title": "농산물 온누리상품권 60% 종이 형태…\"간편결제 인프라 확충 필요\"",
@@ -11663,475 +11690,7 @@
       "pubDate": "2026-10-02T02:28:00+00:00",
       "category": "토스페이",
       "source": "이코노미사이언스"
-    },
-    {
-      "title": "NH투자증권, 신규가입 이벤트…네이버페이 금액권 증정",
-      "link": "https://n.news.naver.com/mnews/article/018/0006379492?sid=101",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=03391526645608984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "NH투자증권은 퇴직연금 DC(확정기여)형 신규 가입 고객을 대상으로 네이버페이 모바일 금액권 등을 증정하는 ‘퇴직연금 DC 신규가입 이벤트’를 진행한다고 2일 밝혔다. 이번 이벤트는 2026년 10월 1일부터 2027년 1월...",
-      "pubDate": "2026-10-02T01:51:00+00:00",
-      "category": "네이버페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "요기요, 배달앱 최초 삼성페이 도입…주문·결제 편의성 강화",
-      "link": "https://www.widedaily.com/news/articleView.html?idxno=301668",
-      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=301668",
-      "description": "오는 25일까지 삼성월렛 머니로 2만5000원 이상 결제하면 결제 금액의 최대 5%를 삼성월렛 포인트로 적립해준다. 해당 혜택은 행사 기간 중 1회 제공된다. 요기요는 이번 삼성 페이 도입을 계기로 결제 수단을 다양화하고...",
-      "pubDate": "2026-10-02T01:00:00+00:00",
-      "category": "삼성페이",
-      "source": "와이드경제"
-    },
-    {
-      "title": "요기요, 배달앱 최초 삼성페이 도입…간편결제 수단 확대",
-      "link": "https://n.news.naver.com/mnews/article/138/0002243459?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026100209071650049",
-      "description": "김혜정 요기요 최고마케팅책임자(CMO)는 “삼성 페이 도입을 통해 요기요 고객들이 익숙한 결제 방식을 활용해 보다 간편하게 주문할 수 있게 됐다”며 “삼성 페이와 삼성월렛 머니 이용 고객을 위한 할인과 적립 혜택도...",
-      "pubDate": "2026-10-02T00:47:00+00:00",
-      "category": "삼성페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "네이버-토스, 국감서 맞붙는다 … 판매관리시스템 ‘차별·검색 왜곡’...",
-      "link": "https://n.news.naver.com/mnews/article/366/0001195803?sid=101",
-      "originallink": "https://biz.chosun.com/stock/finance/2026/10/02/JCJAHTDN7BD63KXBCRKBN3KH4I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "description": "2일 금융권 등에 따르면 국회 정무위원회는 오는 12일 열리는 국정감사에 최재호 토스플레이스 대표와 이상철 네이버플레이스 사업 부문장을 증인으로 불렀다. 증인 신청 이유는 ‘특정 업체 POS기 사용 소상공인에 대한...",
-      "pubDate": "2026-10-02T00:35:00+00:00",
-      "category": "토스페이",
-      "source": "조선비즈"
-    },
-    {
-      "title": "\"배달 주문도 삼성페이로\" 요기요, 배달앱 최초 결제 도입",
-      "link": "https://n.news.naver.com/mnews/article/003/0014229199?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261002_0003811980",
-      "description": "25일까지 삼성월렛 머니로 2만5000원 이상 결제하면 결제 금액의 최대 5%를 삼성월렛 포인트로 적립해준다. 혜택은 행사 기간 1회 제공된다. 요기요는 연말까지 관련 프로모션을 이어가며 삼성 페이와의 협력을 강화할...",
-      "pubDate": "2026-10-02T00:34:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "토스, 네이버 리워드 마케팅 접는다…다른 플랫폼은 계속",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278448",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=278448",
-      "description": "최근에는 토스 자회사 토스플레이스가 네이버의 '플레이스플러스' 연동 대상에서 토스포스가 제외된 데 대해 공정거래위원회 신고를 검토하는 등 갈등 범위가 확대된 바 있다.",
-      "pubDate": "2026-10-02T00:32:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "온라인쇼핑몰 불법 카드 현금화 적발액 111억→240억…간편결제도 두 배",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=351283",
-      "originallink": "https://www.greened.kr/news/articleView.html?idxno=351283",
-      "description": "금융감독원 신용카드로 허위 결제를 일으켜 현금을 융통하는 이른바 '카드깡' 적발 규모가 전반적으로 줄어드는 가운데, 온라인쇼핑몰과 간편결제를 통한 적발은 오히려 늘어난 것으로 나타났다. 2일...",
-      "pubDate": "2026-10-02T00:08:00+00:00",
-      "category": "간편결제",
-      "source": "녹색경제신문"
-    },
-    {
-      "title": "[단독] 토스 ‘검색 유도’ 수사 의뢰한 네이버, 자사 광고도 특정 검색...",
-      "link": "https://n.news.naver.com/mnews/article/005/0001876376?sid=101",
-      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000019268&cp=nv",
-      "description": "네이버가 토스의 리워드형(참여 대가로 보상을 주는 방식) 마케팅 상품이 자사 검색 결과를 왜곡하고 있다며... 이 같은 검색이 플레이스와 스토어 등의 검색 결과나 노출 순위에 영향을 미쳐 검색 신뢰도를 훼손할 수...",
-      "pubDate": "2026-10-02T00:02:00+00:00",
-      "category": "토스페이",
-      "source": "kmib"
-    },
-    {
-      "title": "네이버와 갈등 격화… 토스, 리워드 광고서 '네이버 경로' 뺀다",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092171267",
-      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092171267",
-      "description": "이에 대응해 토스 자회사 토스플레이스는 네이버가 자사 '토스포스'를 '플레이스플러스' 연동 대상에서 부당하게 제외했다며 공정거래위원회 제소를 검토 중이다. 양사의 POS 연동 갈등은 오는 국정감사에서도 주요...",
-      "pubDate": "2026-10-01T23:48:00+00:00",
-      "category": "토스페이",
-      "source": "IT조선"
-    },
-    {
-      "title": "돈도 사람도 늘렸는데 제재·사고…카카오페이·토스 보안 '엇박자'",
-      "link": "https://dealsite.co.kr/articles/169916",
-      "originallink": "https://dealsite.co.kr/articles/169916",
-      "description": "네이버페이를 운영하는 네이버파이낸셜은 별도 정보보호 공시를 하지 않아 이번 비교에서는 제외했다. 결제사업을 중심으로 비교하면 카카오페이의 상대축은 비바리퍼블리카보다 토스페이먼츠에 가깝다....",
-      "pubDate": "2026-10-01T22:32:00+00:00",
-      "category": "카카오페이",
-      "source": "딜사이트"
-    },
-    {
-      "title": "[단독] 토스 ‘리워드광고’서 네이버 뺀다… 두 IT 기업 신경전 거세지...",
-      "link": "https://n.news.naver.com/mnews/article/005/0001876338?sid=101",
-      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000019222&cp=nv",
-      "description": "네이버의 매장정보 서비스 ‘플레이스플러스’에는 현재 다수의 POS 사업자가 연동돼 있지만, 약 15만개 매장에서 사용되는 토스의 POS 계열사 토스플레이스의 ‘토스포스’는 빠져 있다. 토스플레이스는 이와 관련해...",
-      "pubDate": "2026-10-01T17:05:00+00:00",
-      "category": "토스페이",
-      "source": "kmib"
-    },
-    {
-      "title": "빅테크에 밀린 카드사 간편결제…'각자도생' 플랫폼 승부",
-      "link": "https://n.news.naver.com/mnews/article/629/0000538821?sid=101",
-      "originallink": "https://news.tf.co.kr/read/economy/2371810.htm",
-      "description": "네이버페이와 카카오페이 등이 간편결제 기능을 앞세워 이용자와 가맹점을 확대하는 동안 카드사업계는 관련 대응에서 뒤쳐졌다는 진단이다. 과거 카드업계는 오픈페이를 선보이며 반격에 나선 바 있다. 오픈페이는...",
-      "pubDate": "2026-10-01T15:01:00+00:00",
-      "category": "간편결제",
-      "source": "더팩트"
-    },
-    {
-      "title": "토스, 네이버 연계 ‘리워드 광고’ 중단",
-      "link": "https://byline.network/?p=9004111222622049",
-      "originallink": "https://byline.network/?p=9004111222622049",
-      "description": "광고 외 오프라인 단말기 사업 등으로 확대되고 있다. 토스 자회사 토스플레이스는 네이버의 플레이스플러스 연동 대상에 토스포스가 제외됐다며 공정거래위원회 신고를 검토하고 있다. 글.바이라인네트워크",
-      "pubDate": "2026-10-01T14:44:00+00:00",
-      "category": "토스페이",
-      "source": "byline"
-    },
-    {
-      "title": "우리은행·삼성전자, 간편결제 서비스 1주년 기념 프로모션 실시",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3711157",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3711157",
-      "description": "삼성월렛 머니는 우리은행과 삼성전자가 선보인 선불 충전형 간편결제 서비스로, 삼성 월렛 앱에 은행 계좌를 연결해 미리 충전한 금액으로 온·오프라인 가맹점에서 실물 카드 없이 결제할 수 있다. 신규로 '삼성월렛...",
-      "pubDate": "2026-10-01T14:16:00+00:00",
-      "category": "간편결제",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "토스, 네이버 연계 리워드 마케팅 중단…해묵은 갈등 풀리나",
-      "link": "https://n.news.naver.com/mnews/article/018/0006378999?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=06687926645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "2년간 리워드 마케팅을 두고 갈등을 빚어온 양사는 최근 갈등이 격화됐다. 토스 자회사 토스플레이스는 네이버의 ‘플레이스플러스’ 연동 대상에서 토스포스가 제외됐다며 공정거래위원회 신고를 검토하기도 했다.",
-      "pubDate": "2026-10-01T12:49:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "학사앱 'iM유니즈'에 간편결제 '유니패스' 탑재",
-      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=561284",
-      "originallink": "https://www.idaegu.co.kr/news/articleView.html?idxno=561284",
-      "description": "QR결제와 스마트오더를 통해 주문부터 결제까지 모바일로 간편하게 처리할 수 있어 학생들이 식사 시간마다 반복적으로 겪던 대기와 혼잡을 줄이는 효과를 내고 있다. 김영현 경일대 4학년 학생은 \"기존에는 학생들이...",
-      "pubDate": "2026-10-01T12:24:00+00:00",
-      "category": "간편결제",
-      "source": "대구신문"
-    },
-    {
-      "title": "iM뱅크, 경일대 교내식당 간편결제 '유니패스' 확대",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=555986",
-      "originallink": "https://www.dkilbo.com/news/articleView.html?idxno=555986",
-      "description": "▲iM뱅크 제공 iM뱅크가 경일대학교 교내 식당에서 모바일 간편결제 서비스를 확대 운영한다. iM뱅크는 스마트 캠퍼스 앱 'iM유니즈'에 탑재한 교내식당 결제 서비스 '유니패스'를 경일대학교 교내 식당으로 전면...",
-      "pubDate": "2026-10-01T10:46:00+00:00",
-      "category": "간편결제",
-      "source": "대경일보"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 1주년 맞아 특별 이벤트 진행",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=134752",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=134752",
-      "description": "삼성월렛 머니는 우리은행 계좌를 삼성 월렛 앱에 연결해 금액을 충전한 뒤 온·오프라인 가맹점에서 사용할 수 있는 선불 충전형 간편결제 서비스다. 프로모션 기간 '삼성월렛 머니 우리 통장'을 새로 개설하고 연결...",
-      "pubDate": "2026-10-01T09:36:00+00:00",
-      "category": "삼성페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "토스·네이버 격돌…토스, 결국 네이버만 뺀다",
-      "link": "https://www.ppss.kr/news/articleView.html?idxno=313526",
-      "originallink": "https://www.ppss.kr/news/articleView.html?idxno=313526",
-      "description": "토스의 POS 자회사 토스플레이스는 자사 서비스 '토스포스'가 네이버 '플레이스플러스' 연동 대상에서 제외됐다며 공정거래위원회 제소를 검토하고 있다. 네이버는 차별이 없으며 객관적 기준에 따라 연동 대상을...",
-      "pubDate": "2026-10-01T09:06:00+00:00",
-      "category": "토스페이",
-      "source": "ㅍㅍㅅㅅ PPSS"
-    },
-    {
-      "title": "카카오페이·카카오뱅크, 한국투자증권과 디지털자산 생태계 구축 협력",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448474",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=448474",
-      "description": "카카오페이와 카카오뱅크는 한국투자증권과 '디지털자산 발행 및 유통 관련 서비스 공동 개발과 마케팅 추진을 위한 전략적 업무제휴협약(MOU)'을 맺었다고 1일 밝혔다. 카카오그룹이 한국투자증권과 협력을 확대해 국내...",
-      "pubDate": "2026-10-01T08:56:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈니스포스트"
-    },
-    {
-      "title": "네이버-토스 신경전, 국감장으로…정무위, 대표·사업부문장 소환",
-      "link": "https://www.ajunews.com/view/20261001172311460",
-      "originallink": "https://www.ajunews.com/view/20261001172311460",
-      "description": "1일 정치권과 금융권에 따르면 국회 정무위원회는 이날 의결할 국정감사 증인·참고인 명단에 최재호 토스플레이스 대표와 이상철 네이버 플레이스 사업 부문장을 포함했다. 증인 채택을 두고 여야 간에도 공감대가...",
-      "pubDate": "2026-10-01T08:46:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "핀다, '글로벌 핀테크 전문가' 안중현 CPO 선임",
-      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930247",
-      "originallink": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930247",
-      "description": "특히 네이버페이, 토스뱅크, 당근페이 등 국내 주요 핀테크 서비스의 출범 단계에 모두 참여해 새로운 금융... 최근에는 넥써쓰 부사장으로 스테이블코인 전담 조직을 맡아 게임 아이템 마켓플레이스를 66개국으로...",
-      "pubDate": "2026-10-01T08:36:00+00:00",
-      "category": "간편결제",
-      "source": "mbnmoney.mbn.co.kr"
-    },
-    {
-      "title": "\"성장가능성 보고 대출 제공\" 제주은행-토스, 개인사업자 포용금융 확대",
-      "link": "https://www.mediapen.com/news/view/1127354",
-      "originallink": "https://www.mediapen.com/news/view/1127354",
-      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다./사진=제주은행 제공 이번 협약은 두 회사의...",
-      "pubDate": "2026-10-01T08:20:00+00:00",
-      "category": "토스페이",
-      "source": "미디어펜"
-    },
-    {
-      "title": "토스·제주은행, 개인사업자 포용금융 업무협약...소상공인 대출문턱 낮...",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=264890",
-      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=264890",
-      "description": "토스는 제주은행과 함께 개인사업자의 포용금융 활성화를 위한 전략적 사업제휴 협약을 지난 30일 서울 역삼동 아크플레이스에서 체결했다고 1일 밝혔다. 이번 협약식에는 김규하 토스 부대표와 이희수 제주은행장 등...",
-      "pubDate": "2026-10-01T08:18:00+00:00",
-      "category": "토스페이",
-      "source": "아시아A"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 1주년···결제 시 최대 7.5% 적립",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476292",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476292",
-      "description": "'삼성월렛 머니'는 우리은행과 삼성전자가 함께 선보인 선불 충전형 간편결제 서비스다. 삼성 월렛 애플리케이션(앱)에 은행 계좌를 연결해 필요한 금액을 충전한 뒤 실물 카드 없이 온·오프라인 가맹점에서 결제할 수...",
-      "pubDate": "2026-10-01T08:13:00+00:00",
-      "category": "삼성페이",
-      "source": "이뉴스투데이"
-    },
-    {
-      "title": "토스·제주은행, 소상공인 대출 문턱 낮춘다…포용금융 업무협약",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278392",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=278392",
-      "description": "지난달 30일 서울 강남구 아크플레이스에서 열린 협약식에는 김규하 토스 부대표와 이희수 제주은행장 등 양사 주요 관계자가 참석했다. 이번 협약에 따라 제주은행은 소상공인 특화 신용평가체계(SCB)를 활용한...",
-      "pubDate": "2026-10-01T08:06:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "[박수진의 금융人] 카카오페이證 신호철 2기, 종합증권사 노린다…민원...",
-      "link": "http://www.newswatch.kr/news/articleView.html?idxno=81375",
-      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=81375",
-      "description": "신호철 카카오페이증권 대표이사. 사진=카카오페이증권 | 뉴스워치= 박수진 기자 | 신호철 카카오페이증권 대표이사가 경영 2기에서 리테일 부문 성장과 사업 다변화에 속도를 내고 있다. 이와 함께 'AI 네이티브 전환...",
-      "pubDate": "2026-10-01T08:00:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스워치"
-    },
-    {
-      "title": "우리은행·삼성전자, '삼성월렛 머니' 1주년…공동 프로모션",
-      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=209992",
-      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=209992",
-      "description": "삼성월렛 머니는 우리은행과 삼성전자가 함께 선보인 선불 충전형 간편결제 서비스다. 삼성 월렛 앱에 은행 계좌를 연결해 필요한 금액을 충전한 뒤 실물 카드 없이 온·오프라인 가맹점에서 결제할 수 있다. 이번...",
-      "pubDate": "2026-10-01T07:58:00+00:00",
-      "category": "삼성페이",
-      "source": "더퍼스트미디어"
-    },
-    {
-      "title": "\"카카오페이 해외배송 199개국으로 확대\" 배송비 20% 깎아 문턱 낮춘다",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=752386",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=752386",
-      "description": "카카오페이(대표 신원근)는 '해외배송' 서비스의 배송 가능 국가를 기존 5개국에서 전 세계 199개국으로 넓힌다고 1일 밝혔다. 이와 함께 이날부터 12월 31일까지 해외배송을 이용하는 모든 사용자에게 배송비 20%를 즉시...",
-      "pubDate": "2026-10-01T07:40:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "[금융계 소식] NH투자증권·신한투자증권·카카오페이",
-      "link": "https://sateconomy.co.kr/news/view/1065597430357763",
-      "originallink": "https://sateconomy.co.kr/news/view/1065597430357763",
-      "description": "NH, 첫 단기형 IMA 조기 완판…나무증권 수수료 무료 이벤트 신한, ISA 대기자금 자동운용 확대…카카오페이, 해외배송 199개국으로 ▲카카오페이가 해외배송 배송비를 20% 할인한다 [카카오페이] 증권·금융업계가 1일...",
-      "pubDate": "2026-10-01T07:26:00+00:00",
-      "category": "카카오페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "우리은행, 삼성전자와 '삼성월렛 머니' 출시 1주년 프로모션 진행",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109836",
-      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109836",
-      "description": "삼성월렛 머니는 우리은행과 삼성전자가 선보인 선불 충전형 간편결제 서비스로, 앱에 계좌를 연결해 충전한 뒤 온·오프라인 가맹점에서 결제할 수 있습니다. 이번 프로모션 기간 중 '삼성월렛 머니 우리 통장'을 신규...",
-      "pubDate": "2026-10-01T06:54:00+00:00",
-      "category": "삼성페이",
-      "source": "불교방송"
-    },
-    {
-      "title": "다이소몰, 토스페이 결제 할인...10월 한 달간 매일 혜택",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136560",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=136560",
-      "description": "간편결제 제휴를 확대하며 온라인 구매 편의성을 높인다. 결제 할인과 배송·픽업 서비스를 연계해 다이소몰 이용 고객의 선택지를 넓히고 있다. 아성다이소는 온라인 쇼핑몰 다이소몰에서 모바일 금융 플랫폼 토스와...",
-      "pubDate": "2026-10-01T06:52:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "제주은행 ‘사장님 신용대출’ 토스 단독 입점…소상공인 대출 문턱 낮...",
-      "link": "https://n.news.naver.com/mnews/article/119/0003138635?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1696880/?sc=Naver",
-      "description": "양사는 지난달 30일 서울 강남구 역삼동 아크플레이스에서 협약식을 열었다. 이희수 제주은행장과 김규하 토스 부대표 등 양사 관계자들이 참석했다. 협약에 따라 제주은행의 개인사업자 전용 신용대출인 ‘성장지수...",
-      "pubDate": "2026-10-01T06:36:00+00:00",
-      "category": "토스페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "'핀테크 공룡' 습격에 카드 영업망 흔들…카드 모집인 3000명대 '뚝'",
-      "link": "https://www.ajunews.com/view/20261001142829555",
-      "originallink": "https://www.ajunews.com/view/20261001142829555",
-      "description": "네이버페이·카카오페이·토스 등 주요 핀테크 3사의 선불충전금 합산 잔액은 1조원 돌파를 앞두고 있다. 간편결제가 단순히 카드를 연결해 결제하는 방식을 넘어 미리 충전한 자금을 직접 결제에 사용하는 방식으로도...",
-      "pubDate": "2026-10-01T06:28:00+00:00",
-      "category": "간편결제",
-      "source": "아주경제"
-    },
-    {
-      "title": "제주은행·토스, 개인사업자 포용금융 확대…성장 가능성 반영한 대출 ...",
-      "link": "https://www.todayeconomic.com/news/article.html?no=32302",
-      "originallink": "https://www.todayeconomic.com/news/article.html?no=32302",
-      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. 사진=제주은행",
-      "pubDate": "2026-10-01T06:24:00+00:00",
-      "category": "토스페이",
-      "source": "todayeconomic"
-    },
-    {
-      "title": "토스, 리워드 마케팅서 네이버 제외…2년 갈등 해소될지 주목(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016350944?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20261001089351017?input=1195m",
-      "description": "이달 셋째 주 적용 예정…구글·카카오 등 서비스는 유지 POS 연동 논의 진전·토스플레이스 공정위 제소 검토 철회 여부도 관심 '리워드 마케팅'을 둘러싸고 네이버와 2년 간 갈등을 빚어 온 토스가 이달 셋째 주 네이버 연계...",
-      "pubDate": "2026-10-01T06:20:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "\"QR로 간편하게\"…iM뱅크, 경일대 캠퍼스 결제 서비스 확대",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=552042",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=552042",
-      "description": "경일대학교 푸드코트에서 유니패스 스마트오더 기능을 통해 간편결제를 경험한 김영현 학생(경일대학교 4학년)은 \"기존에는 학생들이 식당에 몰리는 시간대에 주문과 결제를 위해 줄을 서야 했지만, 모바일을 통해 미리...",
-      "pubDate": "2026-10-01T06:18:00+00:00",
-      "category": "간편결제",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 금융계 소식…카카오그룹·토스·토스뱅크",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202016",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202016",
-      "description": "토스와 제주은행이 지난달 30일 서울 강남구 역삼동 아크플레이스에서 개인사업자 포용금융을 위한 업무협약을 체결했다. 왼쪽부터 이희수 제주은행장과 김규하 토스 부대표. [사진=토스] 협약에 따라 제주은행은 소상공인...",
-      "pubDate": "2026-10-01T06:10:00+00:00",
-      "category": "토스페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "iM뱅크, 캠퍼스 식당 간편결제 '유니패스'경일대 서비스 실시",
-      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=407655",
-      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=407655",
-      "description": "QR결제와 스마트 오더를 통해 주문부터 결제까지 모바일로 간편하게 처리할 수 있는데 특히 학생들이 식사 시간마다 반복적으로 겪던 대기와 혼잡을 줄이는 데 효과를 보이고 있다고 은행은 설명했다. 경일대학교는 \"학생...",
-      "pubDate": "2026-10-01T06:00:00+00:00",
-      "category": "간편결제",
-      "source": "테크월드"
-    },
-    {
-      "title": "제주은행-토스, 개인사업자 포용금융…‘성장 가능성’ 반영한 신용대출...",
-      "link": "https://n.news.naver.com/mnews/article/020/0003752053?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20261001/134768099/1",
-      "description": "제주은행와 토스는 지난달 30일 서울 강남구 역삼동 아크플레이스에서 ‘개인사업자 포용금융을 위한 전략적 사업제휴 업무협약’을 맺었다. 협약에 따라 양사는 개인사업자 포용금융 상품 출시·운영, 대안신용평가의...",
-      "pubDate": "2026-10-01T05:46:00+00:00",
-      "category": "토스페이",
-      "source": "동아일보"
-    },
-    {
-      "title": "네이버페이·토스뱅크 출신 안중현, 핀다 첫 CPO 맡는다",
-      "link": "https://n.news.naver.com/mnews/article/243/0000103742?sid=101",
-      "originallink": "https://economist.co.kr/article/view/ecn202610010023",
-      "description": "핀테크 기업 핀다가 네이버페이와 토스뱅크, 당근페이의 초기 성장에 참여한 안중현 전 넥써쓰 부사장을... 최근에는 넥써쓰 부사장으로 스테이블코인 전담 조직을 맡아 게임 아이템 마켓플레이스를 66개국으로...",
-      "pubDate": "2026-10-01T05:26:00+00:00",
-      "category": "네이버페이",
-      "source": "이코노미스트"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 출시 1주년 프로모션…최대 7.5% 적립",
-      "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=7000",
-      "originallink": "https://www.newscammp.co.kr/news/articleView.html?idxno=7000",
-      "description": "삼성월렛 머니는 우리은행과 삼성전자가 함께 선보인 선불 충전형 간편결제 서비스다. 삼성월렛 앱에 은행 계좌를 연결해 금액을 충전한 뒤 실물 카드 없이 온·오프라인 가맹점에서 결제할 수 있다. 프로모션 기간 중...",
-      "pubDate": "2026-10-01T05:26:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스캠프"
-    },
-    {
-      "title": "토스, 제주은행과 맞손···소상공인 포용금융 확대",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=148025",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=148025",
-      "description": "지난 30일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 제주은행 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. [토스]  토스가 제주은행과 대안신용평가를...",
-      "pubDate": "2026-10-01T05:08:00+00:00",
-      "category": "토스페이",
-      "source": "직썰"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 1주년 프로모션 진행...최대 7.5% 포인트 적립",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366443",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=366443",
-      "description": "삼성월렛 머니는 우리은행 계좌를 삼성 월렛 앱에 연결해 필요한 금액을 충전한 뒤 온·오프라인 가맹점에서 사용할 수 있는 선불 충전형 간편결제 서비스다. 조규형 우리은행 플랫폼사업부 과장은 \"출시 1주년을 맞아...",
-      "pubDate": "2026-10-01T05:08:00+00:00",
-      "category": "삼성페이",
-      "source": "파이낸셜투데이"
-    },
-    {
-      "title": "다이소몰, 한 달간 토스페이 결제 이벤트 전개… \"매일 누리는 쇼핑 할...",
-      "link": "https://www.onews.tv/news/articleView.html?idxno=288343",
-      "originallink": "https://www.onews.tv/news/articleView.html?idxno=288343",
-      "description": "(제공= ㈜아성다이소)©열린뉴스통신ONA 균일가 생활용품점 ㈜아성다이소가 운영하는 온라인 쇼핑몰 다이소몰이 간편결제 시스템과 연계해 실속을 더한다. 10월 한 달간 토스페이를 이용하는 고객들에게 매일 즉시 할인의...",
-      "pubDate": "2026-10-01T05:04:00+00:00",
-      "category": "토스페이",
-      "source": "열린뉴스통신"
-    },
-    {
-      "title": "토스, 제주은행과 소상공인 금융 협력…개인사업자 대출 확대",
-      "link": "https://www.hellot.net/news/article.html?no=115243",
-      "originallink": "https://www.hellot.net/news/article.html?no=115243",
-      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 제주은행 업무협약식에서 이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. (출처 : 토스)",
-      "pubDate": "2026-10-01T04:42:00+00:00",
-      "category": "토스페이",
-      "source": "hellot"
-    },
-    {
-      "title": "제주은행, 토스와 함께 개인사업자 포용금융 확대",
-      "link": "https://n.news.naver.com/mnews/article/001/0016350146?sid=101",
-      "originallink": "https://www.yna.co.kr/view/PYH20261001140300013?input=1196m",
-      "description": "이희수 제주은행장(왼쪽)이 지난 달 30일 서울 강남구 아크플레이스에서 김규하 토스 부대표와 개인사업자 포용금융을 위한 전략적 사업제휴 업무협약을 체결한 뒤 기념 촬영하고 있다. 2026.10.1 [제주은행 제공....",
-      "pubDate": "2026-10-01T04:25:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "다이소몰, 10월 한 달간 '토스페이 이벤트'",
-      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=445094",
-      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=445094",
-      "description": "1일 1회 예산 소진 전까지 매일 혜택을 받을 수 있고, 토스페이에 등록된 계좌 또는 토스페이머니로 결제하는 경우에만 혜택이 제공된다. 생활용품처럼 일상에서 반복적으로 구매하는 상품과 모바일 간편결제를 결합해...",
-      "pubDate": "2026-10-01T04:22:00+00:00",
-      "category": "토스페이",
-      "source": "이코노뉴스"
-    },
-    {
-      "title": "제주은행, 토스와 협약 ... 개인사업자 포용금융 확대",
-      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=132786",
-      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=132786",
-      "description": "지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. (사진=제주은행) 제주은행이 ERP...",
-      "pubDate": "2026-10-01T04:04:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜신문"
-    },
-    {
-      "title": "소상공인 대출 문턱 낮춘다…제주은행, 토스와 개인사업자대출 출시",
-      "link": "https://www.kpinews.kr/newsView/1065580104973527",
-      "originallink": "https://www.kpinews.kr/newsView/1065580104973527",
-      "description": "▲ 지난달 30일 서울 강남구 역삼동 아크플레이스에서 열린 제주은행과 토스 업무협약식에서 이희수 제주은행장(왼쪽)과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. [제주은행 제공] 제주은행은 지난달 30일 토스와...",
-      "pubDate": "2026-10-01T02:43:00+00:00",
-      "category": "토스페이",
-      "source": "kpinews"
-    },
-    {
-      "title": "토스, 제주은행과 손잡고 소상공인 대출 문턱 낮춰",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321018",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321018",
-      "description": "30일 서울 강남구 역삼동 아크플레이스에서 열린 토스와 제주은행 업무협약식에서 (왼쪽부터)이희수 제주은행장과 김규하 토스 부대표가 기념 사진을 촬영하고 있다. (사진=토스)  토스(운영사 비바리퍼블리카)가...",
-      "pubDate": "2026-10-01T02:36:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "토스, 네이버 연계 리워드 마케팅 종료한다…2년 갈등 해소될까",
-      "link": "https://n.news.naver.com/mnews/article/001/0016349727?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20261001089300017?input=1195m",
-      "description": "리워드 마케팅 논란과 별도로 토스의 POS 자회사 토스플레이스는 네이버가 자사의 '토스포스'를 '플레이스플러스' 연동 대상에서 제외했다며 공정위 제소를 검토하고 있다. 이에 앞서 네이버는 지난해 7월 토스를 포함한...",
-      "pubDate": "2026-10-01T02:18:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
     }
   ],
-  "lastFetch": "2026-10-31T02:16:12.011228+00:00"
+  "lastFetch": "2026-11-01T02:10:22.247786+00:00"
 }
