@@ -1,6 +1,888 @@
 {
   "articles": [
     {
+      "title": "네이버페이, 개발자 모드 켜면 앱 차단…금융권, 보안과 편의성 놓고 고...",
+      "link": "https://n.news.naver.com/mnews/article/138/0002247229?sid=105",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026110411382861806",
+      "description": "금융권 AI 해킹 비상 속 이용자 설정 일괄 차단… 불편 잇따르자 이번 주 완화 네이버페이가 보안 강화를 위해 안드로이드 스마트폰의 개발자 옵션을 활성화한 이용자의 앱 사용을 제한하면서 일부 이용자가 불편을 겪고...",
+      "pubDate": "2026-11-04T02:48:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "토스, 네이버 POS 연동 배제에 공정위 제소 '맞불'",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=247165",
+      "originallink": "https://www.safetimes.co.kr/news/articleView.html?idxno=247165",
+      "description": "토스 오프라인 결제 자회사 토스플레이스가 판매시점정보관리시스템(POS) 연동 문제로 네이버를 공정거래위원회에 신고했다. 네이버는 특정 업체를 차별한 사실이 없다며 반박했다. 3일 관계 당국과 정보기술(IT) 업계에...",
+      "pubDate": "2026-11-04T02:18:00+00:00",
+      "category": "토스페이",
+      "source": "세이프타임즈"
+    },
+    {
+      "title": "네이버페이, 생체인식 정보보호 국제표준 ISO 인증획득",
+      "link": "https://n.news.naver.com/mnews/article/277/0005837907?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026110411114827770",
+      "description": "네이버페이(Npay)는 생체인식 정보보호 국제표준 'ISO/IEC 24745:2022' 인증을 취득했다고 4일 밝혔다. 이번 인증 취득은 네이버페이 사용자 생체정보 보호 체계가 국제표준에 부합한다는 점을 인정받은 것으로, 국내 첫...",
+      "pubDate": "2026-11-04T02:11:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "네이버페이, 생체정보 보호체계 인정···국내 첫 ISO 24745 인증",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=93027",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=93027",
+      "description": "네이버페이(Npay)는 생체인식 정보보호 국제표준인 'ISO/IEC 24745:2022(ISO 24745)' 인증을 취득했다고 4일 밝혔다. 국내에서 해당 인증을 받은 것은 이번이 처음이다. ISO 24745는 국제표준화기구(ISO)와 국제전기기술위원회...",
+      "pubDate": "2026-11-04T02:08:00+00:00",
+      "category": "네이버페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "네이버페이, 생체인식 정보보호 국제표준 'ISO 24745' 인증 취득",
+      "link": "http://www.breaknews.com/1248193",
+      "originallink": "http://www.breaknews.com/1248193",
+      "description": "네이버페이는 생체인식 정보보호 국제표준 'ISO 24745' 인증을 취득했다고 4일 밝혔다. 'ISO/IEC 24745:2022'는 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 함께 제정한...",
+      "pubDate": "2026-11-04T01:54:00+00:00",
+      "category": "네이버페이",
+      "source": "브레이크뉴스"
+    },
+    {
+      "title": "신원근의 '체력 경영' 통했다…카카오페이, 변동장서도 3분기 이익 두 배...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2014177",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2014177",
+      "description": "매일일보 = 기영미 기자   |  증시와 환율이 출렁인 3분기에도 카카오페이는 흔들리지 않았다. 신원근 대표가 강조해 온 '이익 창출 체력'이 숫자로 증명됐다. 4일 카카오페이에 따르면 이 회사는 2026년 3분기 연결...",
+      "pubDate": "2026-11-04T01:44:00+00:00",
+      "category": "카카오페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "네이버페이, 국내 최초 생체정보 보호 국제표준 인증 획득",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324754",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324754",
+      "description": "사진=네이버페이  네이버페이(Npay)가 생체인식 정보보호 국제표준 인증을 국내 최초로 취득하며 생체정보 처리 시스템의 보안성을 인정받았다. 네이버페이는 생체인식 정보보호 국제표준인 'ISO/IEC 24745:2022(ISO 24745)...",
+      "pubDate": "2026-11-04T01:38:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "한투證 \"카카오페이, 성장세 꺾였다\"…올해 고점 대비 주가 60% 폭락",
+      "link": "https://n.news.naver.com/mnews/article/629/0000548550?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2384601.htm",
+      "description": "1월 7만9200원에서 3만원대로 추락…투자자 손실 눈덩이 3분기 영업익 전분기 대비 44.6% 급감…4분기도 실적 부진 전망 카카오페이가 올해 초 7만원대까지 치솟았던 주가가 3만원대로 추락하며 투자자들의 우려를 키우고...",
+      "pubDate": "2026-11-04T01:36:00+00:00",
+      "category": "카카오페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "네이버페이, 얼굴결제 생체정보 보호 국제표준 인증…국내 첫 취득",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138886",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=138886",
+      "description": "| 이코노미사이언스 박성현 기자 | 네이버페이가 얼굴인식 결제 서비스에 활용되는 생체정보 보호체계에 대해 국제표준 인증을 취득했다. 얼굴정보의 저장과 전송, 관리 과정에서 개인정보를 보호하기 위한 기술과...",
+      "pubDate": "2026-11-04T01:34:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "카카오페이, 3분기 영업이익 325억원...증권 실적 부진",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622871",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622871",
+      "description": "카카오페이가 결제 서비스 부문의 견조한 성장에도 불구하고 증시 거래대금 감소에 따른 금융서비스 부문 부진에 3분기 시장 기대치를 하회하는 실적을 발표했다. 4일 한국투자증권에 따르면 카카오페이의 3분기...",
+      "pubDate": "2026-11-04T01:06:00+00:00",
+      "category": "카카오페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "한국투자증권 \"카카오페이, 4분기 실적 부진 예상.. 중립 유지\"",
+      "link": "https://www.g-enews.com/view.php?ud=20261104094316554144093b5d4e_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=20261104094316554144093b5d4e_1",
+      "description": "한국투자증권은 4일 카카오페이에 대해 가파른 성장세를 지속하기 위해서는 증시 거래대금 회복이 필요하다고 분석했다.투자의견을 중립(HOLD)으로 유지했다. 종가는 3만1800원이다. 정호윤 한국투자증권 연구원은 “10월...",
+      "pubDate": "2026-11-04T00:56:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "네이버페이, 생체정보 보호 국제표준 'ISO 24745' 인증 취득…국내 최초",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501130",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501130",
+      "description": "[사진=네이버페이] 네이버페이(Npay)가 안면인식 결제 서비스 '페이스사인(Facesign)'의 생체정보 보호체계에 대해 국제표준 인증을 취득했다. 네이버페이는 생체인식 정보보호 국제표준인 'ISO/IEC 24745:2022' 인증을 국내...",
+      "pubDate": "2026-11-04T00:54:00+00:00",
+      "category": "네이버페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "네이버페이, 생체정보보호 국제표준 'ISO 24745' 첫 인증",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=560984",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=560984",
+      "description": "[사진=네이버페이] 네이버페이(Npay)는 생체인식 정보보호 국제표준 'ISO 24745' 인증을 취득해 자사 생체정보 처리 시스템의 안전성을 공식 인정받았다고 4일 밝혔다. 'ISO/IEC 24745:2022'는 국제표준화기구(ISO)와...",
+      "pubDate": "2026-11-04T00:42:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이, 3분기 결제 매출 성장에도 금융수익 둔화…영업이익 전분기...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138843",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=138843",
+      "description": "| 이코노미사이언스 박성현 기자 | 카카오페이가 올해 3분기 결제사업 성장과 증권·보험 자회사 실적 개선에 힘입어 전년 동기 대비 두 자릿수 매출 증가율을 기록했다. 결제 매출이 분기 최대치를 경신하고 연결...",
+      "pubDate": "2026-11-04T00:36:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "네이버페이, 얼굴결제 생체정보 보호 ISO 인증…국내 최초",
+      "link": "https://n.news.naver.com/mnews/article/119/0003151021?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1710460/?sc=Naver",
+      "description": "네이버페이가 얼굴인식 결제 서비스에 활용되는 생체정보 보호 체계에 대한 국제표준 인증을 국내 최초로 취득했다. 네이버페이는 생체인식 정보보호 국제표준인 'ISO/IEC 24745:2022(이하 ISO 24745)' 인증을 획득했다고...",
+      "pubDate": "2026-11-04T00:29:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "\"얼굴로 결제, 정보 보호는?\" 네이버페이 페이스사인 국제표준 인증",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=113748",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=113748",
+      "description": "네이버페이가 안면인식 인증·결제 서비스 '페이스사인'의 생체정보 보호 체계에 대해 국제표준 인증을 받았다. 네이버페이는 생체인식 정보보호 국제표준인 'ISO/IEC 24745:2022' 인증을 국내 최초로 취득했다고 4일 밝혔다....",
+      "pubDate": "2026-11-04T00:29:00+00:00",
+      "category": "네이버페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "네이버페이, 생체인식 정보보호 국제표준 인증 획득",
+      "link": "https://n.news.naver.com/mnews/article/001/0016420369?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20261104036400017?input=1195m",
+      "description": "안면인식 결제 '페이스사인' 보호 체계 검증…양자내성암호 적용 네이버페이(Npay)는 생체인식 정보보호 국제표준인 'ISO/IEC 24745:2022' 인증을 취득했다고 4일 밝혔다. 이번 인증 취득은 네이버페이 사용자 생체정보 보호...",
+      "pubDate": "2026-11-04T00:26:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오페이證, 주식 거래 이벤트…이강인·케인 유니폼 증정",
+      "link": "https://n.news.naver.com/mnews/article/421/0009268998?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-stock/6342293",
+      "description": "카카오페이증권은 주식 거래 이벤트를 열고 쿠팡플레이 스포츠 패스 1개월 이용권을 제공한다고 4일 밝혔다. 이벤트 참여자 중 추첨을 통해 선발한 6명에게는 이강인 유니폼과 해리 케인 친필 사인 유니폼도 증정한다....",
+      "pubDate": "2026-11-04T00:25:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "네이버페이, 생체정보 보호 국제표준 'ISO 24745' 국내 첫 인증",
+      "link": "https://n.news.naver.com/mnews/article/421/0009268994?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6342285",
+      "description": "네이버페이는 생체인식 정보보호 국제표준인 'ISO 24745' 인증을 국내 최초로 취득했다고 4일 밝혔다. ISO 24745는 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 제정한 생체인식 정보보호 분야 국제 표준이다. 생체...",
+      "pubDate": "2026-11-04T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "네이버페이, 얼굴인식 ‘페이스사인’ 보안 강화⋯생체정보 보호 국제인...",
+      "link": "https://www.etoday.co.kr/news/view/2643854",
+      "originallink": "https://www.etoday.co.kr/news/view/2643854",
+      "description": "이투데이=연희진 기자 | 네이버페이가 생체인식 정보보호 국제표준인 'ISO 24745' 인증을 국내 최초로 취득했다고 4일 밝혔다. ISO 24745는 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동 제정한 생체정보 보호 관련...",
+      "pubDate": "2026-11-04T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "\"얼굴 인식 결제 보안, 세계적 수준 인정\"…네이버페이, 생체정보 보호...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92982",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92982",
+      "description": "네이버페이가 얼굴 인식 결제 등 민감한 생체정보 처리 체계의 안전성을 입증하며 국제 표준 인증을 받았다. 네이버페이(Npay)는 생체인식 정보보호 분야 국제표준인 'ISO/IEC 24745:2022(이하 ISO 24745)' 인증을 취득해...",
+      "pubDate": "2026-11-04T00:22:00+00:00",
+      "category": "네이버페이",
+      "source": "더페어"
+    },
+    {
+      "title": "네이버페이, 생체정보 보안 국제표준 확보..국내 첫 ISO 24745 인증",
+      "link": "https://kpenews.com/View.aspx?No=4296334",
+      "originallink": "https://kpenews.com/View.aspx?No=4296334",
+      "description": "한국정경신문 이하정 기­자 sae256@hanmail.net [한국정경신문=이하정 기자] 네이버페이가 얼굴인식 결제 서비스의 생체정보 보호 체계를 국제표준에 맞춰 구축하며 보안 신뢰도 강화에 나섰다. 특히 데이터 전송 과정에...",
+      "pubDate": "2026-11-04T00:18:00+00:00",
+      "category": "네이버페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "한국투자 \"카카오페이 증시 거래대금 감소에 성장세 둔화, 보수적 접근...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451090",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=451090",
+      "description": "카카오페이가 가파른 성장세를 지속하기 위해서는 증시 거래대금 회복이 필요하다는 분석이 나왔다. 정호윤 한국투자증권 연구원은 4일 카카오페이 투자의견을 중립(HOLD)으로 유지했다. 카카오페이 투자의견이 중립...",
+      "pubDate": "2026-11-04T00:18:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "네이버페이, '얼굴결제' 안전성 입증…생체정보 보호 국제인증 취득",
+      "link": "https://www.ajunews.com/view/20261104090820047",
+      "originallink": "https://www.ajunews.com/view/20261104090820047",
+      "description": "안티스푸핑·양자내성암호 적용해 보호 강화 아주경제=김윤섭 기자 angks678@ajunews.com 박상진 네이버페이 대표(왼쪽)와 포티스 캄푸리스 로이드인증원 아시아태평양 총괄 부사장이 경기도 성남시 네이버 1784에서 진행된...",
+      "pubDate": "2026-11-04T00:16:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "네이버페이, 생체정보 보호 국제인증 국내 첫 취득…페이스사인 보안 강...",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712421",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712421",
+      "description": "[사진: 네이버페이] 네이버페이(Npay)가 생체인식 정보보호 국제표준인 'ISO 24745' 인증을 국내 최초로 취득했다. 얼굴인식 인증·결제 서비스 '페이스사인(Facesign)'의 생체정보 처리 및 보호체계가 국제표준에...",
+      "pubDate": "2026-11-04T00:08:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "네이버페이, 생체인식 정보보호 국제표준 'ISO 24745' 인증 취득",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=726552",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=726552",
+      "description": "컨슈머타임스=김지훈 기자 | 네이버페이(Npay, 대표이사 박상진)가 생체인식 정보보호 국제표준 'ISO 24745' 인증을 취득하며 자사 생체정보 처리 시스템의 안전성을 공식적으로 인정받았다고 4일 밝혔다. 'ISO/IEC 24745...",
+      "pubDate": "2026-11-04T00:08:00+00:00",
+      "category": "네이버페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "네이버페이, 얼굴 정보 보호 체계 국제표준 인증 국내 첫 ISO 24745 취득",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=755945",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=755945",
+      "description": "네이버페이(Npay 대표이사 박상진)는 생체인식 정보보호 국제표준 'ISO/IEC 24745:2022(ISO 24745)' 인증을 취득해 자사 생체정보 처리 시스템의 안전성을 공식 인정받았다고 4일 밝혔다. 이번 인증은 국내에서 처음 나온 사례다....",
+      "pubDate": "2026-11-03T23:58:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "네이버페이, 안면인식 결제 안전성 입증…생체정보 국제표준 첫 획득",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87119",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87119",
+      "description": "네이버페이가 생체 정보를 다루는 자사 시스템의 우수한 보안 능력을 국제적으로 검증받았다. 이들은 생체인식 정보보호 분야의 국제표준인 ISO 24745 인증을 국내 최초로 따냈다고 4일 발표했다. 까다로운 국제 기준 통과...",
+      "pubDate": "2026-11-03T23:48:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "[모닝 리포트] LS증권, 카카오페이 목표가 5만2000원…\"본업 성장세는 지...",
+      "link": "https://www.newspim.com/news/view/20261104000128",
+      "originallink": "https://www.newspim.com/news/view/20261104000128",
+      "description": "LS증권이 카카오페이에 대해 증권 거래대금 감소로 3분기 실적이 전 분기보다 둔화했지만, 결제·보험·대출 등 본업의 성장세는 이어지고 있다고 평가했다. 다만 증시 변동성 확대와 국내 가상자산 법제화 지연을...",
+      "pubDate": "2026-11-03T23:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "\"카카오페이, 거래대금 급감에 실적 부진… 4분기에도 이어질 것\"-한투",
+      "link": "https://n.news.naver.com/mnews/article/008/0005436229?sid=101",
+      "originallink": "https://www.mt.co.kr/stock/2026/11/04/2026110408181923863",
+      "description": "한국투자증권이 4일 카카오페이의 3분기 실적 부진이 4분기에도 이어질 것이라고 내다봤다. 올해 실적 성장을 이끌었던 카카오페이증권의 수수료 매출이 거래대금에서 비롯되는데, 10월 국내 증시 거래대금이 3분기...",
+      "pubDate": "2026-11-03T23:40:00+00:00",
+      "category": "카카오페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "[키-리포트] LS \"카카오페이, 본업 성장 지속…증권은 숨 고르기\"",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=121404",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=121404",
+      "description": "LS증권이 4일 카카오페이와 관련해 본업의 성장세가 지속되고 있다고 평가했다. 이와 함께 기업에 대한 투자의견을 매수로 유지하고 목표주가는 5만7000원에서 5만2000원으로 하향조정했다. 카카오페이는 올해 3분기 연결...",
+      "pubDate": "2026-11-03T23:04:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "한국투자證 \"카카오페이, 업황 바뀌기 전까지 보수적으로 접근해야\"",
+      "link": "https://www.etoday.co.kr/news/view/2643764",
+      "originallink": "https://www.etoday.co.kr/news/view/2643764",
+      "description": "이투데이=신혜주 기자 | 한국투자증권이 카카오페이에 대해 가팔랐던 실적 성장세가 둔화된 만큼 업황이 바뀌기 전까지는 보수적으로 접근해야 한다며, 투자의견 '중립'을 유지했다. 목표주가는 따로 제시하지 않았다....",
+      "pubDate": "2026-11-03T22:58:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "카카오페이, 개인사업자 대출 중개 강화… 인터넷은행 3사 상품 비교",
+      "link": "http://www.economytalk.kr/news/articleView.html?idxno=425064",
+      "originallink": "http://www.economytalk.kr/news/articleView.html?idxno=425064",
+      "description": "카카오페이가 카카오뱅크와 토스뱅크의 개인사업자 대출 상품을 대출비교 서비스에 추가함에 따라 사용자는 여러 은행 앱을 오가지 않고도 금리와 한도를 비교해 원하는 상품을 선택할 수 있다. 3일 카카오페이에 따르면...",
+      "pubDate": "2026-11-03T22:20:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미톡뉴스"
+    },
+    {
+      "title": "'증시 위축' 직격탄 카카오페이, 영업익 반토막…결제 성장에도 수익성...",
+      "link": "https://www.socialvalue.kr/news/view/1065599136553572",
+      "originallink": "https://www.socialvalue.kr/news/view/1065599136553572",
+      "description": "카카오페이의 올해 3분기 연결 영업이익이 전분기보다 44.6% 감소했다. 결제사업은 성장하고 본체 실적은 비교적 견조했지만, 주식 거래대금이 줄면서 증권 자회사 영업이익이 60.4% 급감한 영향이 컸다. 4일...",
+      "pubDate": "2026-11-03T22:06:00+00:00",
+      "category": "카카오페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "카카오페이 실적, 증시따라 '출렁'·금융서비스 부진…수익구조 개선 과...",
+      "link": "https://www.news2day.co.kr/article/20261103500256",
+      "originallink": "https://www.news2day.co.kr/article/20261103500256",
+      "description": "구성비 9%p↑, 절반은 분모 효과 영업비용 69억↓·매출 330억↓ 증권 거래액 139%↑·영업익 보합 [사진=카카오페이] [뉴스투데이=김태규 기자] 카카오페이의 올해 3분기 영업이익이 전분기보다 44.6% 줄어든 325억원을...",
+      "pubDate": "2026-11-03T21:50:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "카카오페이, 3분기 영업익 325억원…분기 최대 실적",
+      "link": "http://www.kjdaily.com/article.php?aid=1793720915691198276",
+      "originallink": "http://www.kjdaily.com/article.php?aid=1793720915691198276",
+      "description": "이미지=아이클릭아트-전년比 105% 증가…매출 3021억원·순이익 329억원 -전체 거래액 53조7000억원…결제 서비스 25% 성장 -일간 이용자 첫 700만명 돌파…금융 매출 41% 증가 -카카오페이증권 영업익 157억원…주식...",
+      "pubDate": "2026-11-03T15:50:00+00:00",
+      "category": "카카오페이",
+      "source": "kjdaily"
+    },
+    {
+      "title": "카카오페이, 3분기 거래액 53.7조 매출 3,021억",
+      "link": "http://www.technoa.co.kr/news/articleView.html?idxno=101602",
+      "originallink": "http://www.technoa.co.kr/news/articleView.html?idxno=101602",
+      "description": "카카오페이가 2026년 3분기 실적에서 거래액과 매출 모두 두 자릿수 성장을 기록하며 시장 변동성 속에서도 견조한 성장세와 이익 구조를 입증하였다. 결제와 금융 서비스를 양 축으로 외형과 수익성을 동시에 키운...",
+      "pubDate": "2026-11-03T14:52:00+00:00",
+      "category": "카카오페이",
+      "source": "technoa"
+    },
+    {
+      "title": "[금융소식] 비씨카드·하나카드·현대카드·토스플레이스·케이뱅크",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3445676",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3445676",
+      "description": "토스플레이스는 빵 축제 '빵력장터'를 성황리에 마쳤고, 케이뱅크는 '사장님 유급휴가 보내기2' 캠페인 휴가 신청 사연을 접수한다. 천지일보는 이외에도 3일 주요 금융소식을 모아봤다. 비씨카드가 '잇플(eat.pl)'을...",
+      "pubDate": "2026-11-03T14:48:00+00:00",
+      "category": "토스페이",
+      "source": "여론조사에 강한 신문- 천지일보"
+    },
+    {
+      "title": "신원근 카카오페이 대표, 오프라인 거래액 44% 증가 성과…AI 서비스 고...",
+      "link": "https://www.fntimes.com/html/view.php?ud=2026110319051458508a55064dd1_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=2026110319051458508a55064dd1_18",
+      "description": "신원근 카카오페이 대표가 오프라인 결제액 44% 증가하는 등 3분기에도 결제 거래액 성장세를 이어갔다. 지난 8월 베타 서비스를 오픈만 AI 코치가 좋은 반응을 얻은 만큼, 공식 출시 하기 까지 서비스 고도화에...",
+      "pubDate": "2026-11-03T13:50:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소… \"토스 포스 차별행위\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3445653",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3445653",
+      "description": "토스 자회사 토스플레이스가 공정거래위원회(공정위)에 네이버를 제소했다. 네이버가 매장 정보 서비스에 토스 포스(POS·판매시점정보관리시스템)를 연동해주지 않는 등 차별행위를 했다는 이유에서다. 3일 관계 당국과...",
+      "pubDate": "2026-11-03T12:54:00+00:00",
+      "category": "토스페이",
+      "source": "여론조사에 강한 신문- 천지일보"
+    },
+    {
+      "title": "카카오페이, 3분기 연결 영업익 325억원…전년比 105.4% 증가",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=400007",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=400007",
+      "description": "카카오페이(377300)의 2026년 3분기 연결 기준 영업이익이 324억5900만원으로 잠정 집계됐다. 전년 같은 기간보다 105.4% 증가했지만 직전 분기보다는 44.6% 감소했다. 카카오페이가 3일 금융감독원...",
+      "pubDate": "2026-11-03T11:56:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "토스 “네이버, 가맹점 차별” 공정위에 제소",
+      "link": "https://n.news.naver.com/mnews/article/022/0004172247?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261103516728?OutUrl=naver",
+      "description": "자사 포스 연동 안돼 “불공정” 네이버 “특정 업체 배제 없어” 토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS·판매시점정보관리시스템)를 연동해 주지 않는 것이...",
+      "pubDate": "2026-11-03T11:52:00+00:00",
+      "category": "토스페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소…‘포스 연동’ 놓고 또 충돌",
+      "link": "https://n.news.naver.com/mnews/article/032/0003480463?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202611032048005",
+      "description": "토스의 결제 단말기 자회사 토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS·카드결제 및 매장관리 시스템)를 연동해주지 않는 것은 부당하다며 네이버를 공정거래위원회에 제소했다. 3일 업계에 따르면...",
+      "pubDate": "2026-11-03T11:48:00+00:00",
+      "category": "토스페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "카카오페이 “내년 영업이익률 두 자릿수”…스테이블코인·AI 키운다",
+      "link": "https://www.ekn.kr/web/view.php?key=20261103022075002",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20261103022075002",
+      "description": "카카오페이가 내년에도 두 자릿수 영업이익률을 유지할 수 있을 것으로 전망했다. 기존의 결제·금융·플랫폼 사업의 성장세를 이어가는 동시에 스테이블코인과 인공지능(AI) 등 신규 사업을 성장시켜 수익성을 높인다는...",
+      "pubDate": "2026-11-03T10:42:00+00:00",
+      "category": "카카오페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소… '토스포스' 연동 차별 이유",
+      "link": "https://n.news.naver.com/mnews/article/008/0005436105?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/11/03/2026110318184563670",
+      "description": "네이버는 오케이포스와 페이히어 등 15개 포스 사업자와 연동하고 있지만 토스플레이스의 토스포스는 대상에서 제외했다. 토스플레이스는 2024년 7월부터 네이버에 연동을 요청했으나 받아들여지지 않았다고 주장한다....",
+      "pubDate": "2026-11-03T10:36:00+00:00",
+      "category": "토스페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "[컨콜] 카카오페이, 외형 성장세 지속…증시發 자산 이탈 제한적",
+      "link": "https://www.tleaves.co.kr/news/articleView.html?idxno=10099",
+      "originallink": "https://www.tleaves.co.kr/news/articleView.html?idxno=10099",
+      "description": "카카오페이. [그래픽=황민우 기자] 카카오페이가 결제·보험 등 고른 자회사 성장에 힘입어 외형 성장세를 이어가고 있다. 하반기 위축된 증시 상황에도 자산 감소세는 전분기 대비 크지 않았다. 3일 카카오페이에...",
+      "pubDate": "2026-11-03T10:26:00+00:00",
+      "category": "카카오페이",
+      "source": "더리브스"
+    },
+    {
+      "title": "토스, POS 연동 문제로 네이버 공정위 제소…네이버 \"특정 업체 배제 안...",
+      "link": "https://n.news.naver.com/mnews/article/277/0005837574?sid=105",
+      "originallink": "https://view.asiae.co.kr/article/2026110319071863058",
+      "description": "토스의 자회사 토스플레이스는 네이버가 매장 정보 서비스에 자사 결제단말기(POS)를 연동하지 않는 것은 부당하다며 공정거래위원회에 제소했다. 네이버는 POS사와 순차적으로 연동을 확대해오는 단계며, 특정 업체를...",
+      "pubDate": "2026-11-03T10:07:00+00:00",
+      "category": "토스페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "카카오페이 \"이달 스테이블코인 입법안 나오면 2028년 사업화 가능성 높...",
+      "link": "https://n.news.naver.com/mnews/article/031/0001071917?sid=101",
+      "originallink": "http://www.inews24.com/view/2022228",
+      "description": "카카오페이가 이달 스테이블코인 관련 입법안이 나오면 2028년 사업화 가능성이 높다고 밝혔다. 신원근 카카오페이 대표는 3일 열린 컨퍼런스콜에서 \"스테이블코인 관련 입법에 대해서는 다양한 변수가 있어 특정 시점을...",
+      "pubDate": "2026-11-03T09:58:00+00:00",
+      "category": "카카오페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "카카오페이, 3분기 영업익 325억원로 2배 껑충…결제·금융 쌍끌이",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=885891",
+      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=885891",
+      "description": "카카오페이가 올해 3분기 결제·금융 서비스 성장에 힘입어 영업이익이 전년 동기 대비 2배 이상 늘어나는 성과를 거뒀다. 카카오페이는 3분기 연결 기준 영업이익은 325억원, 당기순이익은 329억원으로 집계됐다고...",
+      "pubDate": "2026-11-03T09:56:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌경제신문"
+    },
+    {
+      "title": "카카오페이, 본체 매출 첫 2000억 돌파...결제 성장에 영업익 160% 늘었다",
+      "link": "https://www.insight.co.kr/news/580495",
+      "originallink": "https://www.insight.co.kr/news/580495",
+      "description": "카카오페이의 별도 기준 분기 매출이 처음으로 2000억원을 넘어섰다. 온라인뿐 아니라 매장과 해외에서도 결제가 늘었다. 별도 영업이익은 지난해 같은 기간의 2.6배로 증가했다.카카오페이는 3일 올해 3분기 별도...",
+      "pubDate": "2026-11-03T09:40:00+00:00",
+      "category": "카카오페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "토스플레이스, 네이버 공정위 신고…포스 연동 놓고 차별 공방",
+      "link": "https://byline.network/?p=9004111222625935",
+      "originallink": "https://byline.network/?p=9004111222625935",
+      "description": "네이버는 지난해 6월부터 플레이스 플러스 베타 서비스를 시작했다. OKPOS, 페이히어 등을 시작으로 올해 8월 기준 15개 포스와 연동했으나 토스 포스는 포함되지 않았다. 이번 신고의 쟁점은 네이버가 토스 포스를 연동...",
+      "pubDate": "2026-11-03T09:08:00+00:00",
+      "category": "토스페이",
+      "source": "byline"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소…플랫폼 갈등 '점입가경'",
+      "link": "https://n.news.naver.com/mnews/article/015/0005349871?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026110337291",
+      "description": "토스는 자회사 토스플레이스가 공정위에 네이버를 시장지배적 지위 남용 및 불공정거래행위 혐의로 신고했다고 3일 밝혔다. 공정위는 접수된 신고 내용을 검토 중인 것으로 전해졌다. 네이버는 매장 포스에 기록된 주문...",
+      "pubDate": "2026-11-03T09:04:00+00:00",
+      "category": "토스페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "카카오페이 탄탄한 본업에 이익 증가세 지속, 신원근 스테이블코인으로...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451070",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=451070",
+      "description": "카카오페이는 이미 국내 간편결제시장에서 대규모 이용자와 가맹점 네트워크를 확보하고 있다. 올해 3분기 카카오페이 플랫폼의 일간 활성 이용자 수(DAU)는 처음으로 700만 명을 넘어섰다. 이용자당 평균 거래건수는...",
+      "pubDate": "2026-11-03T08:48:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "실적 우려 딛고 성장한 카카오페이···AI·디지털자산 등 준비 박차(종...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006403011?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=05280806645642112&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "제공한다”며 “삼성페이·제로페이 등 타 간편결제와의 연계와 금융서비스 전환도 가능하다”고... 카카오페이는 슈퍼월렛 중심의 차세대 디지털자산 생태계 구축을 위해 편리한 지갑 사용성, 글로벌 표준 정산망...",
+      "pubDate": "2026-11-03T08:46:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, 3분기 영업이익 325억원…전년 동기比 105% 증가",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=133703",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=133703",
+      "description": "카카오페이가 국내 간편결제 중 처음으로 '서울Pay+' 결제를 지원한다. 서울시 내 27만 서울페이 가맹점에서 카카오페이로 결제할 수 있다. (이미지=카카오페이) 플랫폼 서비스 매출은 139억원으로 집계됐다. 광고...",
+      "pubDate": "2026-11-03T08:22:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "토스플레이스, 공정위에 네이버 제소…포스 연동 놓고 갈등",
+      "link": "https://n.news.naver.com/mnews/article/056/0012286383?sid=105",
+      "originallink": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702701&ref=A",
+      "description": "토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS·판매시점정보관리시스템)를 연동해 주지 않는 것은 부당하다며 공정거래위원회에 제소한 것으로 확인됐습니다. 오늘(3일)...",
+      "pubDate": "2026-11-03T08:19:00+00:00",
+      "category": "토스페이",
+      "source": "KBS 뉴스"
+    },
+    {
+      "title": "토스플레이스 공정위에 네이버 제소, 판매시스템 연동 제외 '부당 차별...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451061",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=451061",
+      "description": "토스의 오프라인 결제 자회사 토스플레이스가 매장 정보 서비스 연동 문제로 네이버를 공정거래위원회에 제소했다. 3일 금융권에 따르면 토스플레이스는 전날 오후 네이버의 시장지배적 지위 남용 및 불공정거래행위...",
+      "pubDate": "2026-11-03T08:10:00+00:00",
+      "category": "토스페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "[증권 소식] NH투자증권·교보증권·금융투자협회·토스",
+      "link": "https://sateconomy.co.kr/news/view/1065599947843561",
+      "originallink": "https://sateconomy.co.kr/news/view/1065599947843561",
+      "description": "◆토스플레이스, 성수 빵 축제서 얼굴인식 결제 7000건 돌파 토스의 오프라인 결제 자회사 토스플레이스는 지난달 30일부터 이달 1일까지 서울 성수동에서 열린 빵 축제 '빵력장터'에서 얼굴인식 결제 서비스...",
+      "pubDate": "2026-11-03T08:06:00+00:00",
+      "category": "토스페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "성수 ‘빵력장터’ 결제 56%가 ‘얼굴’…토스 페이스페이 7000건 돌파",
+      "link": "https://n.news.naver.com/mnews/article/119/0003150827?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1710262/?sc=Naver",
+      "description": "토스플레이스가 성수동 빵 축제에서 얼굴 인식 결제 서비스 ‘페이스페이’를 앞세워 오프라인 결제 접점 확대에 나섰다. 행사 기간 전체 결제의 절반 이상이 페이스페이로 이뤄진 가운데 첫 이용자도 30%를 넘었다....",
+      "pubDate": "2026-11-03T08:04:00+00:00",
+      "category": "토스페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "KG이니시스, 9개 카드사 포인트 통합 조회·결제 서비스 출시",
+      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=236279",
+      "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=236279",
+      "description": "KG이니시스는 카드통합포인트 서비스를 통해 기존 신용카드와 간편결제 등 결제수단에 포인트 활용 기능을 추가함으로써 소비자의 결제 선택권을 넓힐 수 있을 것으로 보고 있다. 특히 소비자가 보유한 포인트를 실제...",
+      "pubDate": "2026-11-03T08:04:00+00:00",
+      "category": "간편결제",
+      "source": "잡포스트(JOBPOST)"
+    },
+    {
+      "title": "포스 연동 두고 차별 논란...토스-네이버 공정위 심판대",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=82207",
+      "originallink": "http://www.newsfc.co.kr/news/articleView.html?idxno=82207",
+      "description": "3일 관계 당국과 정보기술(IT) 업계에 따르면 토스의 오프라인 결제 자회사 토스플레이스는 네이버의 매장 정보 서비스에 자사 포스(POS·판매시점정보관리시스템)를 연동해주지 않는 것은 부당하다며 전날 오후 네이버의...",
+      "pubDate": "2026-11-03T08:02:00+00:00",
+      "category": "토스페이",
+      "source": "금융소비자뉴스"
+    },
+    {
+      "title": "“왜 토스 포스만 빼나”…토스플레이스, 네이버 공정위 신고",
+      "link": "https://www.g-enews.com/view.php?ud=202611031649215589e30fcb1ba8_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202611031649215589e30fcb1ba8_1",
+      "description": "토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS)가 연동되지 않는 것은 부당한 차별이라며 공정거래위원회에 신고했다. 네이버는 특정 업체를 배제한 사실이 없다고 반박했다. 3일 관계 당국과 IT업계에 따르면...",
+      "pubDate": "2026-11-03T07:56:00+00:00",
+      "category": "토스페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 금융계 소식…은행연합회·토스플레이스·두나...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202943",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202943",
+      "description": "토스플레이스는 서울 성수동 빵 축제에서 얼굴 인식 결제 서비스 페이스페이를 선보이고 인근 가맹점까지 할인 행사를 확대했다. 또 두나무의 투자 정보 플랫폼 증권플러스는 증권가 실적 전망과 주가 움직임을...",
+      "pubDate": "2026-11-03T07:54:00+00:00",
+      "category": "토스페이",
+      "source": "thevaluenews"
+    },
+    {
+      "title": "토스플레이스, 네이버 공정위 신고…“포스 연동 배제는 부당한 차별”",
+      "link": "https://n.news.naver.com/mnews/article/030/0003481726?sid=101",
+      "originallink": "https://www.etnews.com/20261103000402",
+      "description": "토스플레이스가 자사 포스(판매시점정보관리시스템)를 매장 정보 서비스와 연동해주지 않는다며 네이버를 공정거래위원회에 신고했다. 네이버는 객관적인 기준에 따라 연동 대상을 순차적으로 확대하고 있다며 차별...",
+      "pubDate": "2026-11-03T07:52:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "토스플레이스, '네이버 포스 연동 배제 '공정위 신고… 매장 데이터 갈...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=284385",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=284385",
+      "description": "토스의 오프라인 결제 자회사 토스플레이스가 자사 포스를 네이버의 매장 정보 서비스에 연동하지 않은 것은 부당하다며 공정거래위원회에 신고했다. 검색·지도에서 활용되는 매장 데이터를 둘러싼 양사 갈등이...",
+      "pubDate": "2026-11-03T07:48:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "카카오페이, 3분기 영업익 325억원...전년比 105% 증가해 '분기 최대 실...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=324949",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=324949",
+      "description": "간편결제 플랫폼의 수익성은 거래 규모뿐 아니라 이용 빈도와 가맹점 범위에도 영향을 받는다. 결제 서비스를 통해 확보한 이용자를 투자와 보험 등 금융 서비스로 연결하면 사업 영역을 넓힐 수 있지만...",
+      "pubDate": "2026-11-03T07:42:00+00:00",
+      "category": "카카오페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "토스플레이스, 네이버 POS 연동 거부 공정위 신고…\"불공정 차별\" 주장",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=124308",
+      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=124308",
+      "description": "(자료사진=연합뉴스) 토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS·판매시점정보관리시스템)를 연동해주지 않는 것은 부당한 차별이라며 공정거래위원회에 신고했다. 리워드...",
+      "pubDate": "2026-11-03T07:40:00+00:00",
+      "category": "토스페이",
+      "source": "딜라이트닷넷"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소…포스 연동 차별 공방",
+      "link": "https://n.news.naver.com/mnews/article/003/0014298667?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261103_0003853224",
+      "description": "네이버는 오케이포스와 페이히어 등 15개 포스 사업자와 연동하고 있지만 토스플레이스의 토스포스는 대상에서 제외했다. 토스플레이스는 2024년 7월부터 네이버에 연동을 요청했으나 받아들여지지 않았다고 주장해왔다....",
+      "pubDate": "2026-11-03T07:34:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소…POS 연동 차별 놓고 정면충돌",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212636",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=212636",
+      "description": "3일 정보기술(IT) 업계에 따르면 토스의 오프라인 결제 자회사 토스플레이스는 전날 네이버의 시장지배적 지위 남용 및 불공정거래행위 혐의에 관한 신고서를 공정위에 제출했다. 공정위는 접수된 신고 내용을 검토하고...",
+      "pubDate": "2026-11-03T07:34:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "네이버·토스 POS 갈등…공정위 판단 받는다",
+      "link": "https://www.newspim.com/news/view/20261103001190",
+      "originallink": "https://www.newspim.com/news/view/20261103001190",
+      "description": "초기 제휴 대상은 오케이포스와 페이히어였다. 네이버 측은 당시 오케이포스의 설치 대수는 수십만대였지만 토스포스는 1만대 미만으로, 연동 우선순위에 시장 규모 등을 고려했다고 밝혔다. 반면 토스는 시장 규모와...",
+      "pubDate": "2026-11-03T07:32:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "토스플레이스, 공정위에 네이버 신고…POS 서비스 연동 갈등 격화",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257953",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=257953",
+      "description": "토스플레이스와 네이버 POS 연동 갈등이 공정거래위원회 판단을 받게 됐다. 토스플레이스는 네이버가 다른 POS 사업자와 달리 자사 서비스를 연동하지 않는 것이 부당한 차별이라고 주장했다. 네이버는 특정 업체를...",
+      "pubDate": "2026-11-03T07:32:00+00:00",
+      "category": "토스페이",
+      "source": "인사이트코리아"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소…포스 연동 두고 갈등",
+      "link": "https://n.news.naver.com/mnews/article/422/0000922465?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261103162615eAZ",
+      "description": "토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS·판매시점정보관리시스템)를 연동해주지 않는 것은 부당하다며 공정거래위원회에 제소한 것으로 확인됐습니다. 리워드 마케팅을...",
+      "pubDate": "2026-11-03T07:27:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "네이버-토스 또 붙었다 … 리워드 전쟁 이어 이번엔 '포스' 공정위 제소",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300285.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/03/2026110300285.html",
+      "description": "뉴데일리 홍지아 기자 = 토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장정보 서비스에서 자사 포스(POS·판매시점정보관리시스템)가 연동 대상에서 제외된 것이 부당하다며 공정거래위원회에 신고했다. 검색...",
+      "pubDate": "2026-11-03T07:18:00+00:00",
+      "category": "토스페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소…'POS 연동 배제' 놓고 충돌",
+      "link": "https://n.news.naver.com/mnews/article/119/0003150805?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1710225/?sc=Naver",
+      "description": "토스플레이스가 자사 포스(POS·판매시점정보관리시스템)의 네이버 매장 정보 서비스 연동 제외와 관련해 공정거래위원회에 신고했다. 토스플레이스는 부당한 차별 여부를 따져달라는 입장인 반면, 네이버는 특정 업체를...",
+      "pubDate": "2026-11-03T07:17:00+00:00",
+      "category": "토스페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소...\"포스 연동 제외 불공정\"",
+      "link": "https://n.news.naver.com/mnews/article/215/0001271508?sid=101",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030141&t=NN",
+      "description": "3일 금융권에 따르면 토스의 자회사 토스플레이스는 전날 오후 공정위에 네이버의 시장지배적 지위 남용 및 불공정거래행위 혐의에 관한 신고서를 제출했다. 현재 공정위는 지방 사무소를 통해 접수된 신고 내용을 검토...",
+      "pubDate": "2026-11-03T07:10:00+00:00",
+      "category": "토스페이",
+      "source": "owtv"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소…\"포스 연동 안 해줘 부당 차별\"",
+      "link": "https://n.news.naver.com/mnews/article/055/0001400283?sid=101",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008828664&plink=ORI&cooper=NAVER",
+      "description": "▲ 토스 토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS·판매시점정보관리시스템)를 연동해 주지 않는 것은 부당하다며 공정거래위원회에 제소한 것으로 확인됐습니다. 리워드...",
+      "pubDate": "2026-11-03T07:05:00+00:00",
+      "category": "토스페이",
+      "source": "SBS"
+    },
+    {
+      "title": "토스플레이스, 성수 빵 축제서 페이스페이 결제 비중 56% 기록",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212589",
+      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=212589",
+      "description": "사진=토스 토스의 결제 단말기 및 포스(POS) 솔루션 자회사 토스플레이스가 서울 성수동에서 열린 빵 축제에서 얼굴 인식 결제 서비스 '페이스페이'의 이용 실적을 공개했다. 행사 기간 전체 결제의 절반 이상이...",
+      "pubDate": "2026-11-03T07:04:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼스트미디어"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소…포스 연동 놓고 ‘2차전’",
+      "link": "https://n.news.naver.com/mnews/article/032/0003480388?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202611031557011",
+      "description": "토스의 결제 단말기 자회사 토스플레이스가 네이버의 매장 정보 서비스에 자사 포스(POS·카드 결제 및 매장 관리 시스템)를 연동해주지 않는 것은 부당하다며 네이버를 공정거래위원회에 제소했다. 3일 업계에 따르면...",
+      "pubDate": "2026-11-03T06:57:00+00:00",
+      "category": "토스페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소…15만 가맹점 ‘포스 연동’ 갈등",
+      "link": "https://n.news.naver.com/mnews/article/117/0004121449?sid=103",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026110315452056312",
+      "description": "3일 금융권에 따르면 토스의 오프라인 결제 자회사 토스플레이스는 전날 네이버를 시장지배적 지위 남용 및 불공정거래행위 혐의로 공정위에 신고했다. 공정위는 접수된 신고 내용을 검토 중인 것으로 알려졌다. 이번...",
+      "pubDate": "2026-11-03T06:47:00+00:00",
+      "category": "토스페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "토스 vs 네이버 또 다시 정면충돌…이번엔 포스 연동 차별 쟁점화",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87100",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87100",
+      "description": "오프라인 결제 단말기 운영사인 토스플레이스가 자사 판매시점정보관리시스템(POS)을 매장 정보 서비스에 연동해주지 않는 네이버를 상대로 공정거래위원회에 조사를 요청했다. 3일 정보기술 업계에 따르면...",
+      "pubDate": "2026-11-03T06:40:00+00:00",
+      "category": "토스페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "토스, 네이버 공정위에 제소",
+      "link": "https://n.news.naver.com/mnews/article/011/0004678228?sid=101",
+      "originallink": "https://www.sedaily.com/article/20109672?ref=naver",
+      "description": "3일 금융계에 따르면 토스의 결제 자회사 토스플레이스는 전날 오후 공정위에 네이버의 시장지배적 지위 남용 및 불공정거래행위 혐의에 관한 신고서를 제출했다. 공정위는 지방사무소를 통해 접수된 신고 내용을 검토...",
+      "pubDate": "2026-11-03T06:33:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "토스, \"가맹점 차별\" 공정위 신고⋯네이버 \"특정 업체 배제 없어\"",
+      "link": "https://n.news.naver.com/mnews/article/031/0001071805?sid=101",
+      "originallink": "http://www.inews24.com/view/2022117",
+      "description": "3일 금융권에 따르면 토스 자회사인 토스플레이스는 네이버의 시장지배적 지위 남용 및 불공정거래행위 혐의에 관한 신고서를 공정위에 제출했다. 신고 대상은 네이버의 매장 관리 서비스인 '플레이스 플러스'다. 플레이스...",
+      "pubDate": "2026-11-03T06:30:00+00:00",
+      "category": "토스페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "﻿토스, 네이버 공정위 제소…\"POS 연동 불공정 차별\"",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622692",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622692",
+      "description": "토스 운영사인 비바리퍼블리카의 결제 단말기 자회사 토스플레이스가 네이버를 공정거래위원회에 제소했다. 네이버가 자사 판매관리시스템인 '토스포스'를 이용하는 가맹점을 제휴 대상에서 배제하는 등 차별 행위를...",
+      "pubDate": "2026-11-03T06:20:00+00:00",
+      "category": "토스페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소…포스 연동 두고 \"불공정\" \"차별없다\"(종합)",
+      "link": "https://n.news.naver.com/mnews/article/001/0016418892?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20261103071751017?input=1195m",
+      "description": "리워드 마케팅 이어 포스 연동 문제로 또다시 충돌 양상 토스플레이스 \"소상공인 선택권에 영향\"…네이버 \"위법 없고 절차 진행시 소명\" 한상용 김수현 기자 = 토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장...",
+      "pubDate": "2026-11-03T06:13:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "토스플레이스, 네이버 공정위 제소…'데이터 연동 차별' 분쟁",
+      "link": "https://www.news2day.co.kr/article/20261103500201",
+      "originallink": "https://www.news2day.co.kr/article/20261103500201",
+      "description": "시장지배력 남용·차별 혐의 적시 공정위, 국감 뒤 사실 확인 중 토스, 리워드 분쟁서는 한발 양보 [사진=토스] [뉴스투데이=김태규 기자] 토스의 매장 결제단말기 계열사 토스플레이스가 공정거래위원회에 네이버를...",
+      "pubDate": "2026-11-03T06:04:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "“지갑도 휴대폰도 필요 없다”…토스플레이스 빵력장터, 페이스페이 결...",
+      "link": "https://n.news.naver.com/mnews/article/468/0001277606?sid=101",
+      "originallink": "https://www.sportsseoul.com/news/read/1646423?ref=naver",
+      "description": "스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 서울 성수동에서 열린 빵 축제에서 얼굴 인식 결제 서비스 ‘페이스페이’를 선보이며 오프라인 결제 경험 확대에 나섰다. 토스플레이스는 베이커리...",
+      "pubDate": "2026-11-03T06:00:00+00:00",
+      "category": "토스페이",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "토스플레이스·네이버 POS 연동 갈등…공정위 판단 가를 '제휴 기준·경...",
+      "link": "https://sateconomy.co.kr/news/view/1065591160382600",
+      "originallink": "https://sateconomy.co.kr/news/view/1065591160382600",
+      "description": "네이버 15개 POS 연동하면서 토스포스 제외…매장 검색·추천 기능 이용에 차이 시장지배력 남용·부당한 차별 여부 쟁점…연동 제외의 합리적 사유 입증 관건 ▲토스 로고 [연합뉴스] 토스플레이스가 네이버의...",
+      "pubDate": "2026-11-03T05:50:00+00:00",
+      "category": "토스페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "\"2년째 연동 제외\"...토스, 네이버 공정위 제소",
+      "link": "https://www.insight.co.kr/news/580432",
+      "originallink": "https://www.insight.co.kr/news/580432",
+      "description": "토스플레이스가 자사 판매관리시스템(POS) '토스포스'를 네이버 매장 정보 서비스와 연동해주지 않는 것은 부당한 차별이라며 네이버를 공정거래위원회에 제소했다. 네이버는 모든 포스 업체에 같은 기준을 적용하고...",
+      "pubDate": "2026-11-03T05:46:00+00:00",
+      "category": "토스페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "토스플레이스, 공정위에 네이버 신고…포스 연동 제외 '부당 차별' 주장",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712228",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712228",
+      "description": "토스플레이스가 2일 네이버를 시장지배적 지위 남용 및 불공정거래행위 혐의로 공정위에 신고했다. [사진: 토스] 토스 운영사 비바리퍼블리카의 오프라인 결제 자회사 토스플레이스가 네이버의 포스(POS...",
+      "pubDate": "2026-11-03T05:38:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소…\"토스 가맹점 차별했다\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442771",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4442771",
+      "description": "토스 측은 이번 신고와 관련해 \"토스플레이스는 특정 사업자의 연동 여부에 따라 소상공인의 서비스 선택권과 이용 편의에 차이가 발생할 수 있다는 점을 주요 문제로 보고 있다\"면서 \"토스플레이스는 이번 신고를 통해...",
+      "pubDate": "2026-11-03T05:34:00+00:00",
+      "category": "토스페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소...포스 연동 배제 놓고 갈등 재점화",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=324916",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=324916",
+      "description": "토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장 정보 서비스에서 자사 포스(POS·판매시점정보관리시스템)를 제외한 것은 부당한 차별이라며 공정거래위원회에 제소한 것으로 확인됐다. 다른 포스 업체와...",
+      "pubDate": "2026-11-03T05:32:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "토스, 네이버 공정위 제소…'플레이스플러스' POS 연동 두고 충돌",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=216606",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=216606",
+      "description": "토스플레이스가 네이버의 매장 정보 서비스 '플레이스플러스'에 자사 판매시점정보관리시스템(POS)을 연동하지 않은 것을 두고 부당한 차별이라며 공정위에 신고서를 제출하면서다. 3일 관계 당국과 정보기술(IT) 업계에...",
+      "pubDate": "2026-11-03T05:30:00+00:00",
+      "category": "토스페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "토스·네이버 또 충돌…이번엔 포스 연동 놓고 갈등",
+      "link": "https://n.news.naver.com/mnews/article/586/0000141487?sid=101",
+      "originallink": "https://www.sisajournal.com/news/articleView.html?idxno=392674",
+      "description": "토스플레이스 \"15개 포스 연동하면서 토스는 제외\" 네이버 \"객관적 기준 따라 순차 확대\" 토스와 네이버가 매장 결제 시스템 연동을 둘러싸고 또다시 갈등을 빚고 있다. 리워드 마케팅 문제로 2년 넘게 대립해 온 양측이...",
+      "pubDate": "2026-11-03T05:13:00+00:00",
+      "category": "토스페이",
+      "source": "시사저널"
+    },
+    {
+      "title": "토스플레이스, 성수 빵 축제 결제 56%가 '얼굴'…페이스페이 일상으로",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138824",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=138824",
+      "description": "토스플레이스가 서울 성수동 빵 축제에서 운영한 얼굴인식 결제 서비스 '페이스페이'가 전체 결제의 약 56%를 차지하며 새로운 결제 방식의 활용 가능성을 보여줬다. 토스플레이스는 지난달 30일부터 이달 1일까지 사흘간...",
+      "pubDate": "2026-11-03T05:08:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "토스플레이스 “네이버가 포스 연동 차별”…공정위 신고",
+      "link": "https://www.kukinews.com/article/view/kuk202611030090",
+      "originallink": "https://www.kukinews.com/article/view/kuk202611030090",
+      "description": "쿠키뉴스=김미현 기자 | 토스 자회사 토스플레이스가 네이버를 공정거래위원회에 신고했다. 네이버가 매장 정보 서비스 ‘플레이스플러스’에 다른 업체의 포스(POS·판매시점정보관리시스템)는 연결하면서 토스 포스는...",
+      "pubDate": "2026-11-03T05:08:00+00:00",
+      "category": "토스페이",
+      "source": "kukinews"
+    },
+    {
+      "title": "토스, 공정위에 네이버 제소…'POS 연동' 두고 충돌",
+      "link": "https://www.ajunews.com/view/20261103131114919",
+      "originallink": "https://www.ajunews.com/view/20261103131114919",
+      "description": "3일 금융권과 정보기술(IT) 업계에 따르면 토스의 자회사 토스플레이스는 전날 공정위에 네이버의 시장지배적 지위 남용 및 불공정거래행위 혐의에 관한 신고서를 제출했다. 공정위는 지방사무소를 통해 접수된 신고...",
+      "pubDate": "2026-11-03T04:36:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "토스, 성수동 '빵 축제'서 얼굴결제 체험 확대",
+      "link": "https://n.news.naver.com/mnews/article/030/0003481542?sid=101",
+      "originallink": "https://www.etnews.com/20261103000224",
+      "description": "토스플레이스가 베이커리 큐레이션 미디어 '빵모닝'과 함께 연 빵 축제 '빵력장터'를 성황리에 마쳤다. 빵력장터는 전국의 빵 맛집이 한자리에 모이는 행사다. 지난 10월 30일부터 11월 1일까지 사흘간 서울 성수동...",
+      "pubDate": "2026-11-03T04:35:00+00:00",
+      "category": "토스페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "토스플레이스·네이버, '포스 연동 배제 논란'...공정위로 번진 갈등",
+      "link": "https://www.cwn.kr/news/articleView.html?idxno=60865",
+      "originallink": "https://www.cwn.kr/news/articleView.html?idxno=60865",
+      "description": "토스의 오프라인 결제 자회사 토스플레이스가 네이버의 매장 정보 서비스에서 자사 포스(POS)가 연동 대상에서 제외된 것을 두고 공정거래위원회에 신고하면서 양사 간 갈등이 규제기관의 판단으로 이어질 전망이다. 3일...",
+      "pubDate": "2026-11-03T04:26:00+00:00",
+      "category": "토스페이",
+      "source": "CWN뉴스"
+    },
+    {
       "title": "성수 핫플서 열린 토스 빵축제… 결제 절반은 얼굴로",
       "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000120",
       "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000000120",
@@ -12014,70 +12896,7 @@
       "pubDate": "2026-10-05T04:01:00+00:00",
       "category": "간편결제",
       "source": "뉴스1"
-    },
-    {
-      "title": "노란우산 '친추' 하면 네이버·카카오페이 '무제한'",
-      "link": "https://n.news.naver.com/mnews/article/119/0003139471?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1697759/?sc=Naver",
-      "description": "노란우산 기존 가입자가 지인에게 노란우산을 추천하고, 추천받은 지인이 신규 가입할 경우 추천인과 신규 가입자 모두에게 디지털 페이 5만원 쿠폰(네이버페이 또는 카카오페이 중 택1)을 지급하는 프로모션이다. 이번...",
-      "pubDate": "2026-10-05T03:00:00+00:00",
-      "category": "카카오페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "토스 50만 가맹점, 물류망으로…CJ대한통운과 택배 거점 추진",
-      "link": "http://www.4th.kr/news/articleView.html?idxno=2119204",
-      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2119204",
-      "description": "협력의 핵심은 토스의 오프라인 결제 단말기 '토스 프론트'가 설치된 전국 약 50만개 가맹점을 생활밀착형 택배 거점으로 확장하는 것이다. 양사는 우선 가맹점주가 매장 운영 과정에서 필요한 택배를 간편하게 접수...",
-      "pubDate": "2026-10-05T01:44:00+00:00",
-      "category": "토스페이",
-      "source": "포쓰저널"
-    },
-    {
-      "title": "골목 상점서 택배 접수… CJ대한통운, '50만 토스 가맹점' 물류 거점화",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=278707",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=278707",
-      "description": "이번 협력의 핵심 매개체는 토스 자회사 토스플레이스가 보급한 '토스 프론트'다. 토스 프론트는 매장 결제 창구에서 ▲신용카드 ▲간편결제 QR 코드 ▲애플페이 등 NFC ▲모바일 페이를 두루 지원하는 일체형 단말기다....",
-      "pubDate": "2026-10-05T00:14:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "\"50만 동네 토스 매장서 택배 보낸다\"…CJ대한통운, 오프라인 접점 확대",
-      "link": "https://n.news.naver.com/mnews/article/003/0014233341?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261005_0003814182",
-      "description": "우선 토스의 오프라인 결제 단말기인 '토스 프론트’가 설치된 가맹점 네트워크를 활용해 가맹점주 전용 간편 택배 접수·발송 서비스를 선보일 예정이다. 매장 운영 과정에서 발생하는 물류 부담을 줄여 소상공인과...",
-      "pubDate": "2026-10-04T23:57:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "[단독] 토스에 “검색 어뷰징”이라더니… 네이버도 검색어 유도 광고",
-      "link": "https://n.news.naver.com/mnews/article/005/0001876688?sid=101",
-      "originallink": "https://www.kmib.co.kr/article/view.asp?arcid=9000019753&cp=nv",
-      "description": "네이버는 토스의 리워드형 마케팅으로 이용자 검색이 특정 단어에 집중될 경우 실제 관심 정도와 무관하게 검색량이 인위적으로 늘어날 수 있다고 보고 있다. 이렇게 늘어난 검색량이 자사 ‘플레이스’와 스토어 등의...",
-      "pubDate": "2026-10-04T15:07:00+00:00",
-      "category": "토스페이",
-      "source": "kmib"
-    },
-    {
-      "title": "박상진 네이버페이 대표, 'Npay 스코어' 데이터 기반 금융사 CSS 활용 확...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202610011459458708ed56b8e1f8_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=202610011459458708ed56b8e1f8_18",
-      "description": "박상진 네이버페이 대표가 쇼핑·결제 데이터를 앞세워 금융회사의 신용평가 업무로 사업을 확장한다. 스마트스토어 판매 활동과 이용자의 결제 정보를 대출 심사에 활용해 소상공인·중저신용자의 금융 접근성을...",
-      "pubDate": "2026-10-04T04:32:00+00:00",
-      "category": "네이버페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "신원근 카카오페이 대표, ‘송금봉투’까지 분석…생활데이터로 신용평...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202610021443105301ed56b8e1f8_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=202610021443105301ed56b8e1f8_18",
-      "description": "신원근 카카오페이 대표가 결제·송금 과정에서 축적한 생활데이터를 바탕으로 신용평가 역량을 강화하고 있다. 송금 이용 방식과 보유자산 구성을 분석해 금융거래 이력이 부족한 고객의 금융 접근성을 높인다는...",
-      "pubDate": "2026-10-04T04:32:00+00:00",
-      "category": "카카오페이",
-      "source": "한국금융신문"
     }
   ],
-  "lastFetch": "2026-11-03T04:00:26.800561+00:00"
+  "lastFetch": "2026-11-04T03:05:02.274272+00:00"
 }
