@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "title": "갤럭시 8200만대서 USDC 구매…삼성 월렛에 스트라이프 지원",
+      "link": "https://www.tokenpost.kr/news/breaking/434378",
+      "originallink": "https://www.tokenpost.kr/news/breaking/434378",
+      "description": "스트라이프(Stripe)는 5일 뉴스룸 공지에서 자사 Crypto Onramp가 삼성 월렛의 스테이블코인 계정에서 삼성페이·신용카드·체크카드·ACH를 이용한 구매를 지원한다고 밝혔다. 삼성전자(Samsung Electronics)는 이용...",
+      "pubDate": "2026-11-07T02:24:00+00:00",
+      "category": "삼성페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "네이버페이, 소상공인 DX 지원… 서귀포중심상가 결제 디지털화 협력",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=325404",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=325404",
+      "description": "네이버페이(Npay)가 제주 서귀포중심상가에 통합 결제 단말기를 도입하고 소상공인의 디지털 서비스 활용을 지원한다. 국내외 방문객의 결제 편의를 높이고, 상인이 네이버 리뷰와 예약 기능을 함께 활용하도록 돕는다....",
+      "pubDate": "2026-11-07T00:36:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "네이버페이, 서귀포중심상가 디지털 전환 지원…지역 상권 활성화 앞장",
+      "link": "https://www.ajunews.com/view/20261106145135766",
+      "originallink": "https://www.ajunews.com/view/20261106145135766",
+      "description": "[사진=네이버페이] 네이버페이가 제주 서귀포중심상가의 디지털 전환을 지원하고 지역 상권 활성화에 나선다. 통합 결제 단말기를 도입해 방문객의 결제 편의를 높이고 소상공인의 디지털 경쟁력 강화도 지원할...",
+      "pubDate": "2026-11-07T00:02:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "[네이버] Npay, 제주 서귀포중심상가 디지털 결제 환경 구축 지원",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=91616",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=91616",
+      "description": "■ 제주도·제주애퐁당과 협력…통합 결제 단말기 도입 및 소상공인 디지털 역량 강화 네이버페이(Npay)가 제주특별자치도 및 지역 콘텐츠 기업 제주애퐁당과 협력해 서귀포중심상가의 디지털 전환과 상권 활성화를...",
+      "pubDate": "2026-11-06T09:38:00+00:00",
+      "category": "네이버페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "제주 서귀포중심상가, 네이버페이와 손잡고 글로컬상권 도약 시동",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601724",
+      "originallink": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601724",
+      "description": "제주 서귀포중심상가가 네이버페이와 손잡고 디지털 결제 환경 구축과 온라인 서비스 활용을 통해 글로벌 관광상권으로 도약한다. 제주특별자치도는 서귀포중심상가 글로컬상권의 경쟁력 강화를 위해 상권기획자인 제주...",
+      "pubDate": "2026-11-06T08:58:00+00:00",
+      "category": "네이버페이",
+      "source": "헤드라인제주"
+    },
+    {
+      "title": "인피니소프트, 캐디피 결제 출시…앱 설치 없는 간편결제와 분할결제",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880701",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880701",
+      "description": "회사는 정부와 공정거래위원회가 캐디피 시장의 카드·간편결제 허용을 추진하는 상황에서 현금 결제의 불편을 해소하기 위해 서비스를 마련했다고 설명했다. 인피니소프트의 캐디머니는 현금 결제 불편을 해소하기...",
+      "pubDate": "2026-11-06T08:44:00+00:00",
+      "category": "간편결제",
+      "source": "한스경제"
+    },
+    {
+      "title": "카카오페이 '스테이블코인 행보' 보니…\"상표 추가 출원, 인력 채용\"",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=121631",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=121631",
+      "description": "카카오페이가 스테이블코인 사업에 속도를 내고 있다. 신원근 대표가 최근 스테이블코인에 대한 계획을 밝힌 후 상표권 2종을 추가 출원했고 동시에 서버 개발자를 비롯한 인력 채용도 진행 중이다. 스테이블코인...",
+      "pubDate": "2026-11-06T08:34:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "인피니소프트, QR 기반 '캐디머니' 출시… 캐디피 카드결제 시장 공략 본...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=139493",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=139493",
+      "description": "최근 정부와 공정거래위원회가 캐디피 시장 내 카드·간편결제 허용을 추진하면서, 관행화된 현금 결제 방식을 개선하고 과세 투명성을 높여야 한다는 목소리가 커지고 있다. 인피니소프트의 '캐디머니'는 현금 결제...",
+      "pubDate": "2026-11-06T08:12:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스락"
+    },
+    {
+      "title": "서귀포 중심상가에 네이버페이 도입…글로벌 상권 육성 속도",
+      "link": "https://www.newsjeju.net/news/articleView.html?idxno=428062",
+      "originallink": "https://www.newsjeju.net/news/articleView.html?idxno=428062",
+      "description": "서귀포 중심상가에 네이버페이의 디지털 결제서비스가 도입되는 등 외국인 관광객의 소비 편의를 높이고 지역 상권을 활성화하기 위한 사업이 본격 추진된다. 제주도는 서귀포중심상가 글로컬상권의 경쟁력 강화를 위해...",
+      "pubDate": "2026-11-06T08:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스제주"
+    },
+    {
+      "title": "\"자동화-여력-투자\"... 토스 가디언즈 26이 던진 세 가지 질문",
+      "link": "https://www.boannews.com/news/articleView.html?idxno=147078",
+      "originallink": "https://www.boannews.com/news/articleView.html?idxno=147078",
+      "description": "계열사 리더를 대표해 연단에 오른 신용석 토스페이먼츠 CISO는 현장 보안 실무자들의 연대와 격려를 강조했다. 신 CISO는 \"가디언즈는 토스 보안팀이 무언가를 자랑하거나 가르치기 위한 자리가 아니라, 치열한...",
+      "pubDate": "2026-11-06T07:46:00+00:00",
+      "category": "토스페이",
+      "source": "보안뉴스"
+    },
+    {
+      "title": "인피니소프트, QR 기반 캐디피 카드결제 서비스 '캐디머니' 선보여 \"현금...",
+      "link": "http://www.queen.co.kr/news/articleView.html?idxno=465893",
+      "originallink": "http://www.queen.co.kr/news/articleView.html?idxno=465893",
+      "description": "골프장 이용객은 별도의 애플리케이션을 설치할 필요 없이 카카오 알림톡으로 전달된 링크에 접속하거나 QR코드를 스캔하는 것만으로 현장에서 즉시 카드 결제를 진행할 수 있다. 결제 편의성도 강화했다. 삼성페이를...",
+      "pubDate": "2026-11-06T07:20:00+00:00",
+      "category": "간편결제",
+      "source": "queen"
+    },
+    {
+      "title": "네이버페이, 제주 서귀포중심상가 디지털 전환 지원…결제 인프라 확대",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139134",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=139134",
+      "description": "| 이코노미사이언스 박성현 기자 | 네이버페이(Npay)가 제주 서귀포중심상가의 디지털 결제 환경을 개선하고 지역 소상공인의 온라인 서비스 활용을 지원한다. 국내외 관광객이 다양한 결제 수단을 이용할 수 있도록 결제...",
+      "pubDate": "2026-11-06T07:12:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "네이버페이, 개발자모드 앱 이용 제한 완화…일부 기능만 차단",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139162",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=139162",
+      "description": "| 이코노미사이언스 박성현 기자 | 네이버페이가 안드로이드 스마트폰의 개발자모드를 활성화한 이용자에게 적용했던 앱 사용 제한을 완화한다. 개발자모드가 켜져 있다는 이유로 앱 이용이 제한되면서 불편이 제기되자...",
+      "pubDate": "2026-11-06T07:12:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "네이버페이, 서귀포중심상가 디지털 전환 지원",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117145",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117145",
+      "description": "네이버페이, Npay가 제주 서귀포중심상가의 디지털 전환을 지원하고 글로컬 상권 활성화에 나섭니다. 네이버페이는 제주특별자치도, 제주 기반 로컬 콘텐츠 기업 제주애퐁당과 서귀포중심상가에 'Npay 커넥트'를 도입하고...",
+      "pubDate": "2026-11-06T07:10:00+00:00",
+      "category": "네이버페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "[네이버 종합] 네이버플러스 맴버십 및 네이버페이 소식 외",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=62087",
+      "originallink": "https://www.gamevu.co.kr/news/articleView.html?idxno=62087",
+      "description": "참여자 중 추첨을 통해 총 1만 명에게 네이버페이 포인트 1,000원이 지급된다. 사업주들에겐 총 1억 5,000만 원 상당의 혜택이 돌아간다. 네이버는 추천 순위 상위 1,000곳 중 12월 7일까지 네이버 예약 서비스 도입을 마친...",
+      "pubDate": "2026-11-06T07:10:00+00:00",
+      "category": "네이버페이",
+      "source": "게임뷰"
+    },
+    {
+      "title": "타자페이 \"카카오페이 연동 결제 망 성능 저하\"…해외 결제 지연 가능성...",
+      "link": "https://www.kpinews.kr/newsView/1065596198424274",
+      "originallink": "https://www.kpinews.kr/newsView/1065596198424274",
+      "description": "글로벌 결제 대행 플랫폼 타자페이(Tazapay)가 카카오페이 연동 결제 망에 성능 저하 현상이 발생했다고 안내했다. ▲ 타자페이 홈페이지에 뜬 카카오페이 연동 결제 망 성능 저하 안내문. [타자페이 홈페이지 캡처]...",
+      "pubDate": "2026-11-06T06:58:00+00:00",
+      "category": "카카오페이",
+      "source": "kpinews"
+    },
+    {
+      "title": "삼성 월렛, 11월 미국 갤럭시서 수이 기반 USDC 지원 예정",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/433909",
+      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/433909",
+      "description": "스트라이프(Stripe)는 11월 5일 미국의 적격 이용자가 삼성 월렛 스테이블코인 계정을 이용할 수 있다고 발표했다. 이 계정은 삼성페이와 카드, ACH를 통한 USDC 구매를 지원한다. 일반 계정의 제공이 수이 네트워크...",
+      "pubDate": "2026-11-06T06:26:00+00:00",
+      "category": "삼성페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "토스, '가디언즈 26' 개막…보안 담당자 연대 강조",
+      "link": "https://n.news.naver.com/mnews/article/092/0002444214?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20261106140604",
+      "description": "이정하 토스뱅크, 장세인 토스증권, 유다혜 토스플레이스, 이준목 토스인슈어런스 CISO가 인사했다. 황지상 토스인컴, 윤용구 토스밴, 강진희 토스모바일, 신용석 토스페이먼츠 CISO도 차례로 마이크를 이어받았다....",
+      "pubDate": "2026-11-06T05:10:00+00:00",
+      "category": "토스페이",
+      "source": "ZDNet"
+    },
+    {
       "title": "중독성 넘치는 리코더 멜로디로 '노난날' 알리다…카카오페이 새광고",
       "link": "https://www.apnews.kr/news/articleView.html?idxno=3052848",
       "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3052848",
@@ -637,7 +799,7 @@
       "description": "이투데이=박정호 기자 | 한국투자신탁운용은 5일 자사 투자 플랫폼 ‘투자플러스(TO+)’ 모바일 앱 이용 고객을 대상으로 네이버페이 포인트 최대 3000원을 제공하는 ‘플러스 빙고’ 이벤트를 진행한다고 밝혔다....",
       "pubDate": "2026-11-04T23:42:00+00:00",
       "category": "네이버페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "[네이버페이 국제인증] 양자내성암호(PQC) 적용해 얼굴 정보 안전하게 ...",
@@ -826,7 +988,7 @@
       "description": "네이버페이는 생체인식 정보보호 국제표준 'ISO 24745' 인증을 취득했다고 4일 밝혔다. 'ISO/IEC 24745:2022'는 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 함께 제정한...",
       "pubDate": "2026-11-04T01:54:00+00:00",
       "category": "네이버페이",
-      "source": "브레이크뉴스"
+      "source": "breaknews"
     },
     {
       "title": "신원근의 '체력 경영' 통했다…카카오페이, 변동장서도 3분기 이익 두 배...",
@@ -961,7 +1123,7 @@
       "description": "이투데이=연희진 기자 | 네이버페이가 생체인식 정보보호 국제표준인 'ISO 24745' 인증을 국내 최초로 취득했다고 4일 밝혔다. ISO 24745는 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 공동 제정한 생체정보 보호 관련...",
       "pubDate": "2026-11-04T00:22:00+00:00",
       "category": "네이버페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "\"얼굴 인식 결제 보안, 세계적 수준 인정\"…네이버페이, 생체정보 보호...",
@@ -1069,7 +1231,7 @@
       "description": "이투데이=신혜주 기자 | 한국투자증권이 카카오페이에 대해 가팔랐던 실적 성장세가 둔화된 만큼 업황이 바뀌기 전까지는 보수적으로 접근해야 한다며, 투자의견 '중립'을 유지했다. 목표주가는 따로 제시하지 않았다....",
       "pubDate": "2026-11-03T22:58:00+00:00",
       "category": "카카오페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "카카오페이, 개인사업자 대출 중개 강화… 인터넷은행 3사 상품 비교",
@@ -3220,7 +3382,7 @@
       "description": "국내에서 사용하던 갤럭시폰과 삼성월렛을 해외에서도 그대로 활용할 수 있도록 결제 절차를 간소화한 것이 특징이다. 중국에서는 위챗페이 가맹점을 중심으로 QR결제와 음식점 등의 테이블오더 결제를 지원한다. 중국...",
       "pubDate": "2026-10-28T08:52:00+00:00",
       "category": "삼성페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "카드·현금·앱 없이 결제…우리은행, 삼성월렛 머니 서비스 확대",
@@ -4975,7 +5137,7 @@
       "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 방문 시 위챗페이 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 앱에서 결제용 QR 코드를 띄워 상점 직원에게 보여주거나...",
       "pubDate": "2026-10-26T23:40:00+00:00",
       "category": "삼성페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "삼성월렛, 중국서도 QR 결제 된다…텐센트·우리은행과 맞손",
@@ -5353,7 +5515,7 @@
       "description": "이투데이=연희진 기자 | 한국 마이데이터 강점⋯“AI 통제·보안·책임 체계 갖춰야” 카카오페이, 소비 분석 넘어 종합 금융관리로 확장 추진 스테이블코인 준비 강조⋯AI 간 초소액 결제 등에 유리 AI가 개인의...",
       "pubDate": "2026-10-26T05:00:00+00:00",
       "category": "카카오페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "국감서 또 도마 오른 애플페이…후발 카드사 커지는 '신중론'",
@@ -7810,7 +7972,7 @@
       "description": "이투데이=손희정 기자 | 삼성전자의 충전식 간편결제 서비스 ‘삼성월렛 머니·포인트’가 출시 1년 만에... 머니로 결제하는 고객에게는 포인트 2.5%를 추가 적립한다. 영 등급 고객이 삼성월렛으로 토스 유스카드 또는...",
       "pubDate": "2026-10-22T00:16:00+00:00",
       "category": "삼성페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "삼성월렛 머니·포인트 가입자 300만명…1년 새 성장 가속",
@@ -8413,7 +8575,7 @@
       "description": "이투데이=연희진 기자 | 카카오페이는 가수 션의 유튜브 채널(션과 함께)과 손잡고 소상공인 지원을 위한 온·오프라인 기부 마라톤 ‘2026 LONG RUN(롱런)’을 연다고 20일 밝혔다. ‘롱런’에는 오래 달린다는 뜻과 함께...",
       "pubDate": "2026-10-20T01:24:00+00:00",
       "category": "카카오페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "카카오페이·션, 소상공인 위해 달린다…500억 걸음 도전",
@@ -10069,7 +10231,7 @@
       "description": "금융위원회와 금융감독원은 네이버파이낸셜·카카오페이·비바리퍼블리카 등 빅테크 3개사와 함께 장기 미사용 선불충전금의 이용자 통지 및 환급 촉진 방안을 마련했다고 15일 밝혔다. 올해 8월 말 기준 빅테크 3개사의...",
       "pubDate": "2026-10-15T03:00:00+00:00",
       "category": "네이버페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "토스 \"2년 이상 잠든 선불충전금 잔액 알려준다\"",
@@ -10888,7 +11050,7 @@
       "description": "상장 핀테크 기업인 카카오페이가 대표적인 사례다. LS증권은 지난 8월 카카오페이를 성장하는 핀테크 플랫폼으로 평가하며 과거 2개년 평균 12개월 선행 주가매출비율(PSR) 6배를 목표 배수로 적용했다. 이후 13일에는...",
       "pubDate": "2026-10-13T20:00:00+00:00",
       "category": "간편결제",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "삼성월렛에 위챗페이 탑재…中 결제시장 공략",
@@ -11140,7 +11302,7 @@
       "description": "네이버페이 포인트를 제공하는 프로모션을 마련했다. KT가 Google AI와 다양한 생활 혜택을 결합한... 다이소·GS25·올리브영·카카오 이모티콘 플러스·스노우(SNOW) VIP 등 5종의 생활 혜택 중 하나를 선택하는...",
       "pubDate": "2026-10-13T00:18:00+00:00",
       "category": "네이버페이",
-      "source": "이투데이"
+      "source": "etoday"
     },
     {
       "title": "컴포즈커피, 카카오페이와 10월 제휴 프로모션 진행",
@@ -12230,763 +12392,7 @@
       "pubDate": "2026-10-08T03:32:00+00:00",
       "category": "토스페이",
       "source": "오늘경제"
-    },
-    {
-      "title": "광주은행, 토스와 스테이블코인 QR결제 기술 검증 성공",
-      "link": "https://n.news.naver.com/mnews/article/003/0014241351?sid=102",
-      "originallink": "https://www.newsis.com/view/NISX20261008_0003818895",
-      "description": "8일 광주은행에 따르면 이번 PoC는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 전 과정을 구현하는 방식으로 진행했다. 고객이 광주은행 앱에서 스테이블코인 결제를...",
-      "pubDate": "2026-10-08T02:24:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "광주은행·토스, 스테이블코인 QR결제 기술검증 완료",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136957",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=136957",
-      "description": "8일 광주은행과 토스에 따르면 양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 연계한 스테이블코인 QR결제 기술검증(PoC)을 완료했다. 이번 검증은 은행 고객이 별도의 복잡한 절차 없이 기존 모바일...",
-      "pubDate": "2026-10-08T02:22:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "두나무·네이버파이낸셜, 주식교환 '세 차례' 연기…IPO 추진에도 '변수...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202205",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202205",
-      "description": "왼쪽부터 박상진 네이버페이 대표, 최수연 네이버 대표, 이해진 네이버 이사회 의장, 송치형 두나무 회장, 오경석 두나무 대표. [사진=네이버] 양사는 지난해 11월 26일 이사회에서 포괄적 주식교환을 결의했다. 당초...",
-      "pubDate": "2026-10-08T02:20:00+00:00",
-      "category": "네이버페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "카카오페이, 5개 이상 서비스 이용자 결제액 7.1배…교차사용 효과 부각",
-      "link": "https://sateconomy.co.kr/news/view/1065577560089143",
-      "originallink": "https://sateconomy.co.kr/news/view/1065577560089143",
-      "description": "월 5개 이상 이용자 익월 이탈률 1% 미만 ATPU 87건·ARPU 1만3979원…교보證 “중장기 성장 가능성 증명” ▲ 사진은 카카오페이의 '오래오래 함께가게' 2차 팝업스토어. 2024.7.2 [연합뉴스] 카카오페이(대표 신원근)의 여러...",
-      "pubDate": "2026-10-08T01:50:00+00:00",
-      "category": "카카오페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "토스·광주은행, 스테이블코인 기반 QR결제 PoC 완료",
-      "link": "https://www.itbiznews.com/news/articleView.html?idxno=227320",
-      "originallink": "https://www.itbiznews.com/news/articleView.html?idxno=227320",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 단일 흐름으로 연결해 검증했다. 검증 시나리오는 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱에서 QR 스캐너가...",
-      "pubDate": "2026-10-08T01:36:00+00:00",
-      "category": "토스페이",
-      "source": "IT비즈뉴스"
-    },
-    {
-      "title": "토스, 광주은행과 스테이블코인 매장 결제 기술검증 완료",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366877",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=366877",
-      "description": "이번 검증에서는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 연결했다. 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱이 열리고 QR 스캐너가 자동 실행돼 가맹점 단말기의 QR을 스캔하면 결제가...",
-      "pubDate": "2026-10-08T01:36:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜투데이"
-    },
-    {
-      "title": "토스·광주은행, 스테이블코인 QR 결제 기술검증 완료",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279336",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=279336",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 연동해 별도의 복잡한 절차 없이 결제가 이뤄지는지 확인했다. 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱이 자동으로 실행되고 QR...",
-      "pubDate": "2026-10-08T01:32:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "토스·광주은행, 스테이블코인 QR 결제 기술검증 완료",
-      "link": "https://n.news.naver.com/mnews/article/030/0003473406?sid=101",
-      "originallink": "https://www.etnews.com/20261008000114",
-      "description": "양사는 광주은행 앱과 토스 앱, 토스플레이스 결제 단말기를 연결해 결제 과정이 원활하게 작동하는지 확인했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱이 곧바로 열리고, QR 스캐너가...",
-      "pubDate": "2026-10-08T01:29:00+00:00",
-      "category": "토스페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "은행앱서 QR 찍으면 결제·정산까지 한 번에…토스·광주은행, 스테이블...",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202610081021447430de3f0aa1be_7",
-      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202610081021447430de3f0aa1be_7",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 하나의 결제 흐름으로 연결했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱이 실행되고 QR 스캐너가 자동으로 열린다....",
-      "pubDate": "2026-10-08T01:24:00+00:00",
-      "category": "토스페이",
-      "source": "더파워"
-    },
-    {
-      "title": "광주은행-토스, 스테이블코인 QR결제 기술검증 성공",
-      "link": "https://n.news.naver.com/mnews/article/417/0001160373?sid=102",
-      "originallink": "https://www.sidae.com/article/2026100809530653656",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 결제 과정을 구현했다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로 연결되며, 가맹점 단말의 QR을 스캔해...",
-      "pubDate": "2026-10-08T01:21:00+00:00",
-      "category": "토스페이",
-      "source": "동행미디어 시대"
-    },
-    {
-      "title": "광주은행·토스, 코인 '오프라인 결제' 첫발",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610080945178490868",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610080945178490868",
-      "description": "스테이블코인 QR결제는 가격 변동성이 적은 가상자산을 오프라인 가맹점 단말기(토스플레이스) QR 코드로 스캔해 실물 경제에서 직접 사용하는 결제 방식이다. 최근 블록체인 생태계가 금융권의 핵심 인프라로...",
-      "pubDate": "2026-10-08T01:20:00+00:00",
-      "category": "토스페이",
-      "source": "대한경제"
-    },
-    {
-      "title": "[금융계 소식] 키움·신한·하나·KB증권·토스·삼성자산운용",
-      "link": "https://sateconomy.co.kr/news/view/1065575190837818",
-      "originallink": "https://sateconomy.co.kr/news/view/1065575190837818",
-      "description": "MBTI', 간편·프로모드를 선택하는 '듀얼UX' 등이 적용됐다. ◆KB증권, 고객감동경영대상 20년 연속 수상 8일... 광주은행 앱에서 스테이블코인 결제를 선택하면 토스의 QR 스캐너가 자동 실행되고 가맹점 QR을 인식하면...",
-      "pubDate": "2026-10-08T01:16:00+00:00",
-      "category": "토스페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "토스·광주은행, 스테이블코인 QR 결제 기술검증 완료…\"2차 검증 추진\"",
-      "link": "https://www.ajunews.com/view/20261008095826826",
-      "originallink": "https://www.ajunews.com/view/20261008095826826",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 연동해 결제 과정을 구현했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 토스 앱이 실행되면서 QR 스캐너가 자동으로 열린다. 이후...",
-      "pubDate": "2026-10-08T01:12:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "토스·광주은행, 스테이블코인 기반 QR 결제 기술검증 완료",
-      "link": "https://www.g-enews.com/view.php?ud=202610080834389132bb91c46fcd_1",
-      "originallink": "https://www.g-enews.com/view.php?ud=202610080834389132bb91c46fcd_1",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 그리고 토스플레이스 결제 단말기를 하나의 흐름으로 연결했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱이 실행되고 QR 스캐너가 자동으로...",
-      "pubDate": "2026-10-08T01:02:00+00:00",
-      "category": "토스페이",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "광주은행-토스, 스테이블코인 QR결제 첫 시범 성공",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=750281",
-      "originallink": "http://www.newsprime.co.kr/news/article.html?no=750281",
-      "description": "이번 시범에서는 광주은행과 토스 앱, 그리고 토스플레이스 결제 단말을 연계해 고객이 스테이블코인만으로 결제와 송금을 간편하게 처리할 수 있는 시스템을 구현했다. 고객이 광주은행 앱에서 결제를 시작하면 토스...",
-      "pubDate": "2026-10-08T00:52:00+00:00",
-      "category": "토스페이",
-      "source": "프라임경제"
-    },
-    {
-      "title": "토스, 광주은행과 '스테이블코인으로 매장 결제' 검증 마쳐",
-      "link": "https://n.news.naver.com/mnews/article/421/0009216554?sid=101",
-      "originallink": "https://www.news1.kr/finance/bank/6313781",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 그리고 토스플레이스 결제 단말기를 하나의 흐름으로 연결했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱이 곧바로 열리고, QR 스캐너가 자동으로...",
-      "pubDate": "2026-10-08T00:50:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "토스, 광주은행과 스테이블코인 결제 검증 성공",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321669",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321669",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 그리고 토스플레이스 결제 단말기를 하나의 흐름으로 연결했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱이 곧바로 열리고 QR 스캐너가 자동으로...",
-      "pubDate": "2026-10-08T00:46:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "광주은행·토스, '스테이블코인 QR결제' 기술검증 성공",
-      "link": "https://n.news.naver.com/mnews/article/001/0016364898?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20261008052300054?input=1195m",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR 스캔 화면으로 연결되며...",
-      "pubDate": "2026-10-08T00:40:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "토스·광주은행, 스테이블코인 QR 결제 PoC 완료",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/419652",
-      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/419652",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 연동했다. 광주은행 앱에서 결제를 선택하면 토스 앱과 QR 스캐너가 실행되고, 고객이 매장 단말기에 표시된 QR 코드를 읽으면 결제가 진행된다. 결과는...",
-      "pubDate": "2026-10-08T00:38:00+00:00",
-      "category": "토스페이",
-      "source": "토큰포스트"
-    },
-    {
-      "title": "토스·광주은행, 스테이블코인 기반 QR 결제 기술검증 완료",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=87211",
-      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=87211",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 그리고 토스플레이스 결제 단말기를 하나의 흐름으로 연결했다. 광주은행 고객은 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱이 곧바로 열리고, QR 스캐너가 자동으로...",
-      "pubDate": "2026-10-08T00:36:00+00:00",
-      "category": "토스페이",
-      "source": "인더스트리뉴스"
-    },
-    {
-      "title": "금융권 해킹 비상인데…금융사·핀테크 14곳 내부망에 외부 AI 연결 허용",
-      "link": "https://www.raonnews.com/news/article.html?no=61718",
-      "originallink": "https://www.raonnews.com/news/article.html?no=61718",
-      "description": "나머지 3건은 네이버파이낸셜과 토스뱅크·광주은행, 미래에셋증권이 지정받았다. 네이버파이낸셜은 중고거래 플랫폼 'N플리마켓'에서 개인 간 거래 대금을 신용카드로 결제할 수 있게 하고 결제 한도를 1회 150만원...",
-      "pubDate": "2026-10-08T00:30:00+00:00",
-      "category": "간편결제",
-      "source": "raonnews"
-    },
-    {
-      "title": "토스, 광주은행과 스테이블코인 QR 결제 기술검증 완료",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705774",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705774",
-      "description": "토스는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 연계해 스테이블코인 기반 QR 결제 흐름을 구현했다고 8일 밝혔다. 이번 검증은 광주은행 고객이 별도의 앱 설치나 복잡한 절차 없이 은행 앱에서...",
-      "pubDate": "2026-10-08T00:14:00+00:00",
-      "category": "토스페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "광주은행·토스, 스테이블코인 QR결제 기술검증 성공",
-      "link": "https://www.sentv.co.kr/article/view/sentv202610080021",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202610080021",
-      "description": "이번 검증은 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계하는 방식으로 진행됐다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로 연결되고, 가맹점 단말의 QR코드를...",
-      "pubDate": "2026-10-08T00:04:00+00:00",
-      "category": "토스페이",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "스마일페이-하나은행, 계좌 기반 간편결제 확대 나선다",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=283625",
-      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=283625",
-      "description": "스마일페이가 하나은행과 손잡고 계좌를 연계한 간편결제 이용자 확대에 나섭니다. 하나은행 계좌를 스마일페이에 등록하면 계좌에서 스마일머니를 충전해 G마켓과 이마트 등 온·오프라인 제휴처에서 결제할 수...",
-      "pubDate": "2026-10-08T00:04:00+00:00",
-      "category": "간편결제",
-      "source": "팍스경제TV"
-    },
-    {
-      "title": "토스, 광주은행과 스테이블코인 기반 QR 결제 기술 검증",
-      "link": "https://n.news.naver.com/mnews/article/018/0006383341?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02601046645610952&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 그리고 토스플레이스 결제 단말기를 하나의 흐름으로 연결했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 연계된 토스 앱이 곧바로 열리고, QR 스캐너가 자동으로...",
-      "pubDate": "2026-10-07T23:47:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "\"블록체인이 바꿀 결제 지형\"…토스·광주은행, 스테이블코인 오프라인...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90070",
-      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90070",
-      "description": "양사는 광주은행 앱과 토스 앱, 토스플레이스의 결제 단말기를 하나의 시스템 흐름으로 이어 결제 편의성을 극대화했다. 실제 결제 구동 과정을 보면 이용자가 광주은행 앱에서 스테이블코인 결제를 선택하는 즉시 토스...",
-      "pubDate": "2026-10-07T23:26:00+00:00",
-      "category": "토스페이",
-      "source": "더페어"
-    },
-    {
-      "title": "토스, 광주은행과 맞손···스테이블코인 매장 결제 검증 완료",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=148704",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=148704",
-      "description": "광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말기를 하나의 흐름으로 연결했다. 광주은행 고객이 은행 앱에서 스테이블코인 결제를 선택하면 토스 앱이 자동으로 실행되고 QR 스캐너가 작동한다. 이후 가맹점...",
-      "pubDate": "2026-10-07T23:06:00+00:00",
-      "category": "토스페이",
-      "source": "직썰"
-    },
-    {
-      "title": "토스, 광주은행과 '스테이블코인으로 매장 결제' 검증",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=723306",
-      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=723306",
-      "description": "은행 앱을 쓰던 고객이 별도의 앱 설치나 복잡한 절차 없이 결제까지 이어갈 수 있는지를 확인하는 것이 목적으로 양사는 광주은행 모바일 앱과 토스 앱, 그리고 토스플레이스 결제 단말기를 하나의 흐름으로 연결했다....",
-      "pubDate": "2026-10-07T23:06:00+00:00",
-      "category": "토스페이",
-      "source": "컨슈머타임스(Consumertimes)"
-    },
-    {
-      "title": "[뮤즈 돌풍] ⑤결제 목록 쥔 AI 에이전트...핀테크 줄서기 경쟁 나선다",
-      "link": "https://www.newspim.com/news/view/20261007001312",
-      "originallink": "https://www.newspim.com/news/view/20261007001312",
-      "description": "에이전트를 내놓은 애플과 구글도 각각 애플페이와 구글페이를 보유하고 있다. 메타가 메타페이를 뮤즈에 탑재할 수 있다는 정황도 나왔다. 개발자 제인 만천 웡은 지난달 23일 뮤즈 결제 화면에 링크·숍페이와 함께...",
-      "pubDate": "2026-10-07T22:40:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "‘검색’ 네이버와 ‘금융’ 토스는 왜 지금 충돌하나",
-      "link": "https://n.news.naver.com/mnews/article/050/0000111748?sid=101",
-      "originallink": "https://magazine.hankyung.com/business/article/202610017784b",
-      "description": "당시 카카오페이·카카오뱅크·뱅크샐러드 등 주요 핀테크 기업들이 인공지능(AI) 에이전트를 앞세운 가운데 토스와 네이버파이낸셜은 부스 전면에 나란히 오프라인 결제 단말기를 배치했다. 이승건 토스 대표는 이억원...",
-      "pubDate": "2026-10-07T20:01:00+00:00",
-      "category": "토스페이",
-      "source": "hankyung"
-    },
-    {
-      "title": "[ICT 종합] 네이버페이 및 엔에이치엔 데이터 소식 외",
-      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=61295",
-      "originallink": "https://www.gamevu.co.kr/news/articleView.html?idxno=61295",
-      "description": "여기에 카카오페이 결제 할인 혜택도 함께 적용된다. 선물하기에서 카카오페이머니로 2만원 이상 결제하면 배송상품은 10% 추가 할인(최대 1만원)을, 교환권은 2천원을 할인받는다. 프리미엄 특가 상품의 경우...",
-      "pubDate": "2026-10-07T14:54:00+00:00",
-      "category": "네이버페이",
-      "source": "게임뷰"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 주식교환 2027년 3월로 연기",
-      "link": "https://www.vegannews.co.kr/news/article.html?no=391657",
-      "originallink": "https://www.vegannews.co.kr/news/article.html?no=391657",
-      "description": "주주총회 예정일도 2027년 2월 26일로 조정 네이버파이낸셜과 두나무의 포괄적 주식교환 예정일이 2027년 3월 31일로 변경됐다. 네이버는 7일 정정공시에서 기존 오는 12월 31일이던 일정을 약 3개월 늦췄다고 밝혔다....",
-      "pubDate": "2026-10-07T12:20:00+00:00",
-      "category": "네이버페이",
-      "source": "vegannews"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 주식교환 내년 3월로 연기",
-      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539782",
-      "originallink": "https://www.obsnews.co.kr/news/articleView.html?idxno=1539782",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐습니다. 두나무는 네이버 종속회사인 네이버파이낸셜과 자사의 주식교환일이 내년 3월 31일로 변경됐다고 오늘(7일)...",
-      "pubDate": "2026-10-07T09:38:00+00:00",
-      "category": "네이버페이",
-      "source": "OBS경인TV"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 결합, 내년 3월로 재연기…“기업결합·규제절...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006383163?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=05215206645610624&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환을 통한 결합 일정이 내년 1분기 말로 또다시 미뤄졌다. 공정거래위원회의 기업결합 심사를 비롯해 금융당국의 대주주 변경 승인 등 정부 인허가 절차가 길어지고 있는...",
-      "pubDate": "2026-10-07T09:23:00+00:00",
-      "category": "네이버페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "두나무, 네이버파이낸셜과 합병 또 연기",
-      "link": "https://n.news.naver.com/mnews/article/014/0005586349?sid=101",
-      "originallink": "https://www.fnnews.com/news/202610071818320339",
-      "description": "두나무와 네이버파이낸셜의 합병을 위한 주식교환 일정이 또 다시 미뤄졌다. 당초 주식교환 일정은 올해 9월로 예고됐지만, 12월로 한 차례 연기된 데 이어 내년 3월까지 밀리게 됐다. 두나무는 네이버 종속회사인...",
-      "pubDate": "2026-10-07T09:20:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "[IT 투데이] 네이버페이, '실손24' 보험금 간편청구 확대 外",
-      "link": "https://news.dealsitetv.com/articles/176758",
-      "originallink": "https://news.dealsitetv.com/articles/176758",
-      "description": "선물하기 배송상품과 톡딜에서 카카오페이머니로 2만원 이상 결제하면 10%, 최대 1만원의 추가 할인을 받을 수 있으며 결제 할인은 행사 기간 횟수 제한 없이 적용된다. 오는 11일까지 사전 알림을 신청한 이용자에게는...",
-      "pubDate": "2026-10-07T09:20:00+00:00",
-      "category": "네이버페이",
-      "source": "DealSite경제TV"
-    },
-    {
-      "title": "[단독] ‘네이버 개입’ 공방 벌이다 계약 실효…토스-네이버 얼굴결제...",
-      "link": "https://ilyo.co.kr/?ac=article_view&entry_id=513054",
-      "originallink": "https://ilyo.co.kr/?ac=article_view&entry_id=513054",
-      "description": "당시 토스와 단말기 제작·판매 자회사 토스플레이스는 신주 인수와 구주 취득 방식으로 SCS프로에 총 150억 원을 투자하고 단말기 사업에서 협력하기로 했다. 토스와 SCS프로는 얼굴인식 결제 단말기 공급을 중심으로...",
-      "pubDate": "2026-10-07T09:16:00+00:00",
-      "category": "토스페이",
-      "source": "일요신문"
-    },
-    {
-      "title": "카카오쇼핑, 12일부터 '카쇼페' 진행···쿠폰·카카오페이 할인 더한다",
-      "link": "http://www.finomy.com/news/articleView.html?idxno=263110",
-      "originallink": "http://www.finomy.com/news/articleView.html?idxno=263110",
-      "description": "구매 금액별 쿠폰에 카카오페이 결제 할인을 중복 적용하고 특가 상품과 친구 초대 이벤트 등을 마련한다. 카카오는 오는 12일부터 25일까지 '두번 깎는 쇼핑 축제, 카쇼페야'를 진행한다고 7일 밝혔다. 카카오쇼핑페스타...",
-      "pubDate": "2026-10-07T08:58:00+00:00",
-      "category": "카카오페이",
-      "source": "현대경제신문"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 합병 세 번째 연기...내년 3월 목표",
-      "link": "https://news.mtn.co.kr/news-detail/2026100716464286355",
-      "originallink": "https://news.mtn.co.kr/news-detail/2026100716464286355",
-      "description": "네이버파이낸셜과 두나무의 합병이 내년 3월로 미뤄졌습니다.공정거래위원회의 기업결합 심사가 길어지면서 주주총회와 거래 종결 일정이 연기된 건데요.자세한 내용 윤석진기자가 전합니다.[기사내용]연말로 예정됐던...",
-      "pubDate": "2026-10-07T08:54:00+00:00",
-      "category": "네이버페이",
-      "source": "MTN NEWS"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 합병 세 번째 연기...내년 3월 목표",
-      "link": "https://news.mtn.co.kr/article/2026100716464286355",
-      "originallink": "https://news.mtn.co.kr/article/2026100716464286355",
-      "description": "네이버파이낸셜과 두나무의 합병이 내년 3월로 미뤄졌습니다.공정거래위원회의 기업결합 심사가 길어지면서 주주총회와 거래 종결 일정이 연기된 건데요.자세한 내용 윤석진기자가 전합니다.[기사내용]연말로 예정됐던...",
-      "pubDate": "2026-10-07T08:54:00+00:00",
-      "category": "네이버페이",
-      "source": "MTN NEWS"
-    },
-    {
-      "title": "또 밀린 두나무·네이버파이낸셜 주식교환… 2027년 3월로 연기",
-      "link": "https://n.news.naver.com/mnews/article/022/0004164816?sid=101",
-      "originallink": "https://www.segye.com/newsView/20261007517985?OutUrl=naver",
-      "description": "네이버파이낸셜의 두나무 완전 자회사 편입을 위한 포괄적 주식교환 일정이 또 연기됐다. 두나무는 7일 네이버 종속회사인 네이버파이낸셜과 주식교환일을 내년 3월31일로 변경했다고 공시했다. 주주총회 예정일도 오는...",
-      "pubDate": "2026-10-07T08:46:00+00:00",
-      "category": "네이버페이",
-      "source": "세계일보"
-    },
-    {
-      "title": "카카오쇼핑페스타 12일 시작…쿠폰에 카카오페이 할인 더한다",
-      "link": "https://www.mediajeju.com/news/articleView.html?idxno=366668",
-      "originallink": "https://www.mediajeju.com/news/articleView.html?idxno=366668",
-      "description": "행사 기간 매일 쿠폰을 받을 수 있으며 카카오페이 결제 할인도 함께 적용된다. 12일부터는 매일 오전 8시 데일리 쿠폰팩이 발급된다. 2만원 이상 구매하면 2000원, 5만원 이상은 5000원, 10만원 이상은 1만원을 할인받을 수...",
-      "pubDate": "2026-10-07T08:46:00+00:00",
-      "category": "카카오페이",
-      "source": "미디어제주"
-    },
-    {
-      "title": "[핀테크 NOW] 네이버페이·토스",
-      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192928",
-      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192928",
-      "description": "■ 토스플레이스, 다매장 사장님 대상 '비즈니스 스케일업' 세미나 개최 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 다매장 운영 소상공인의 사업 확장을 지원하는 전문 세미나를 개최했다....",
-      "pubDate": "2026-10-07T08:40:00+00:00",
-      "category": "네이버페이",
-      "source": "위키리크스한국"
-    },
-    {
-      "title": "토스플레이스, '1호점 다음'을 말하다…다매장 운영 세미나 진행",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279235",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=279235",
-      "description": "토스플레이스는 여러 매장을 운영하는 사업자를 위한 '장사의 다음: 비즈니스 스케일업' 세미나를 열었다고 7일 밝혔다. 이번 세미나는 여러 매장을 운영하거나 추가 출점을 준비하는 사업자를 대상으로 매장 확장 전략과...",
-      "pubDate": "2026-10-07T08:36:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "중고거래도 카드로 안전결제…네이버페이 등 혁신금융 24건 신규 지정",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438175",
-      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438175",
-      "description": "금융위원회는 7일 정례회의를 열고 네이버파이낸셜의 '개인 간 중고거래 신용카드 안전결제 서비스' 등 24건의 혁신금융서비스를 신규 지정했다고 밝혔다. 네이버파이낸셜의 서비스는 네이버가 운영하는 중고거래...",
-      "pubDate": "2026-10-07T08:32:00+00:00",
-      "category": "네이버페이",
-      "source": "연합인포맥스"
-    },
-    {
-      "title": "두나무 품는 네이버파이낸셜, 주식교환 또 연기...내년 3월 완료 목표",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=228075",
-      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=228075",
-      "description": "두나무·네이버파이낸셜 주식교환 내년 3월 31일로 재연기 공정위 기업결합 심사 등 인허가 절차 장기화 영향 디지털자산기본법 논의 지연도 향후 사업 변수로 부상 주식교환 지연에...네이버파이낸셜 상장 일정도 순연...",
-      "pubDate": "2026-10-07T08:18:00+00:00",
-      "category": "네이버페이",
-      "source": "청년일보"
-    },
-    {
-      "title": "네이버파이낸셜와 두나무 포괄적 주식교환 '재차 연기', 기업결합 내년...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=448856",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=448856",
-      "description": "네이버파이낸셜과 가상자산 거래소 업비트 운영사 두나무의 포괄적 주식교환을 통한 전략적 기업 결합이 또다시 뒤로 밀렸다. 네이버는 주요 종속회사인 네이버파이낸셜과 두나무의 주식 교환·이전 일자를 기존...",
-      "pubDate": "2026-10-07T08:18:00+00:00",
-      "category": "네이버페이",
-      "source": "비즈니스포스트"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 주식교환 내년 3월로, 벌써 세 번째",
-      "link": "https://www.junggi.co.kr/news/articleView.html?idxno=38024",
-      "originallink": "https://www.junggi.co.kr/news/articleView.html?idxno=38024",
-      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 다시 미뤄졌다. 네이버파이낸셜은 7일 정정공시를 내고 주주총회 예정일을 11월19일에서 2027년 2월26일로, 주식교환일을 12월31일에서 2027년 3월31일로 변경했다....",
-      "pubDate": "2026-10-07T08:06:00+00:00",
-      "category": "네이버페이",
-      "source": "중기이코노미"
-    },
-    {
-      "title": "네이버파이낸셜-두나무 주식교환 내년 3월로 또 연기",
-      "link": "http://www.iminju.net/news/articleView.html?idxno=170521",
-      "originallink": "http://www.iminju.net/news/articleView.html?idxno=170521",
-      "description": "민주신문=이한호 기자｜네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 또다시 미뤄졌다. 당초 올해 6월 말로 예정됐던 거래 종결 시점이 세 차례 연기되면서 내년 3월 말까지 늦춰졌다....",
-      "pubDate": "2026-10-07T07:56:00+00:00",
-      "category": "네이버페이",
-      "source": "민주신문"
-    },
-    {
-      "title": "중고거래도 신용카드로 결제…토스·광주은행 '비대면 공동대출' 출시",
-      "link": "https://n.news.naver.com/mnews/article/277/0005825837?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026100716533556353",
-      "description": "우선 네이버파이낸셜의 '개인간 중고거래 신용카드 안전결제 서비스'가 혁신금융서비스로 신규 지정됐다. 중고거래 플랫폼에서 개인 간 중고물품 거래 시 구매자가 신용카드로 대금을 결제하면 구매 확정 이후...",
-      "pubDate": "2026-10-07T07:53:00+00:00",
-      "category": "토스페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "두나무-네이버파이낸셜 주식교환 내년 3월로 세 번째 연기...왜 자꾸 늦...",
-      "link": "https://www.livebiz.today/news/articleView.html?idxno=205411",
-      "originallink": "https://www.livebiz.today/news/articleView.html?idxno=205411",
-      "description": "네이버파이낸셜의 두나무 완전 자회사 편입을 위한 포괄적 주식교환 일정이 또다시 연기되면서 그 배경에 관심이 모아지고 있다. 7일 두나무는 네이버 종속회사인 네이버파이낸셜과의 주식교환일을 내년 3월 31일로...",
-      "pubDate": "2026-10-07T07:50:00+00:00",
-      "category": "네이버페이",
-      "source": "생생비즈"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 결합 또 늦춰졌다…완료 시점 내년 3월로",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069730",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069730",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입 일정이 또다시 뒤로 밀렸다. 지난해 거래 계획 발표 당시 올해 6월 말로 잡았던 완료 시점은 세 차례 조정을 거쳐 내년 3월 말로 늦춰졌다. 7일 두나무에 따르면...",
-      "pubDate": "2026-10-07T07:50:00+00:00",
-      "category": "네이버페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 주식교환 다시 연기…내년 3월 예정",
-      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005934067",
-      "originallink": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005934067",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐습니다. 두나무는 네이버 종속회사인 네이버파이낸셜과 자사의 주식교환일이 내년 3월 31일로 변경됐다고 오늘(7일)...",
-      "pubDate": "2026-10-07T07:40:00+00:00",
-      "category": "네이버페이",
-      "source": "mbnmoney.mbn.co.kr"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 결합, 세 번 미뤄 해 넘긴다",
-      "link": "https://n.news.naver.com/mnews/article/417/0001160321?sid=101",
-      "originallink": "https://www.sidae.com/article/2026100716131881809",
-      "description": "네이버파이낸셜이 두나무를 품는 시점이 올해 말에서 내년 3월 말로 늦춰졌다. 당국 심사를 비롯한 거래 종결 절차 진행 상황을 고려해 양사가 일정을 다시 조정하면서다. 올해 6월 완료를 목표로 시작한 편입 작업은 세...",
-      "pubDate": "2026-10-07T07:37:00+00:00",
-      "category": "네이버페이",
-      "source": "동행미디어 시대"
-    },
-    {
-      "title": "두나무 품는 네이버파이낸셜, 연말 넘긴다…주식교환 3개월 연기",
-      "link": "https://dealsite.co.kr/articles/170263",
-      "originallink": "https://dealsite.co.kr/articles/170263",
-      "description": "당초 12월31일→내년 3월31일로 변경…“거래 구조·취지 변동 없어” 네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 약 3개월 미뤄졌다. 당초 연말로 잡았던 거래 종결 시점을 내년 3월 말로 늦추면서 두나무의...",
-      "pubDate": "2026-10-07T07:36:00+00:00",
-      "category": "네이버페이",
-      "source": "딜사이트"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 금융계 소식…토스뱅크·토스플레이스·케이뱅...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202181",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202181",
-      "description": "토스플레이스는 다매장 사장님 80여 명을 대상으로 매장 확장 전략을 공유하고, 가맹점 데이터 기반 AI 리포트를 공개했다. 케이뱅크는 만 19~34세 청년에게 생활안정자금을 지원하는 ‘햇살론유스’를 선보였다....",
-      "pubDate": "2026-10-07T07:34:00+00:00",
-      "category": "토스페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 주식교환 미뤄져…올해 12월→내년 3월로",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1412860",
-      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1412860",
-      "description": "사진=두나무  두나무와 네이버파이낸셜의 포괄적 주식교환 일정이 또다시 연기됐다. 관계 당국의 심사와 거래 종결에 필요한 제반 절차가 진행 중인 만큼 충분한 시간을 확보하기 위한 조치로 풀이된다. 7일 두나무는...",
-      "pubDate": "2026-10-07T07:26:00+00:00",
-      "category": "네이버페이",
-      "source": "데일리한국"
-    },
-    {
-      "title": "네이버파이낸셜-두나무, 주식교환 일정 또 연기…내년 3월 31일로",
-      "link": "https://www.fntimes.com/html/view.php?ud=2026100715455238160f4390e77d_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=2026100715455238160f4390e77d_18",
-      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 당초 올해 12월 31일에서 내년 3월 31일로 연기됐다. 앞서 두 차례 일정이 미뤄진 데 이어 이번이 세 번째 연기다. 7일 금융감독원 전자공시시스템(DART)에 따르면...",
-      "pubDate": "2026-10-07T07:26:00+00:00",
-      "category": "네이버페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 합병 또 연기...주식교환 내년 3월로",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=553323",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=553323",
-      "description": "|중앙이코노미뉴스 정재혁 기자|네이버-네이버파이낸셜-두나무 3사 공동 기자간담회. [사진=연합뉴스]  네이버파이낸셜과 두나무는 양사의 포괄적 주식교환 일정을 올해 12월 31일에서 내년 3월 31일로 변경하는...",
-      "pubDate": "2026-10-07T07:26:00+00:00",
-      "category": "네이버페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 결합 내년으로…주식교환 세 번째 연기",
-      "link": "https://n.news.naver.com/mnews/article/082/0001401525?sid=101",
-      "originallink": "https://www.busan.com/view/busan/view.php?code=2026100716232224622",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입이 내년 3월로 미뤄졌다. 거래에 필요한 정부 인허가 절차가 진행 중인 가운데 주식교환 일정이 세 차례 연기되면서 당초 올해 6월로 예정했던 결합은 내년으로 넘어가게 됐다....",
-      "pubDate": "2026-10-07T07:25:00+00:00",
-      "category": "네이버페이",
-      "source": "부산일보"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 빅딜 내년 3월로 또 연기",
-      "link": "https://n.news.naver.com/mnews/article/018/0006383057?sid=101",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04641206645610624&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 약 3개월 연기됐다. 공정거래위원회 기업결합 심사와 거래 제반 절차를 고려해 전체 일정을 조정한 것으로 양사는 거래의 기본 구조와...",
-      "pubDate": "2026-10-07T07:24:00+00:00",
-      "category": "네이버페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "카카오쇼핑, 12일부터 '카쇼페'···쿠폰에 카카오페이 할인 더한다",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477871",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477871",
-      "description": "구매 금액에 따른 쿠폰과 카카오페이 결제 할인을 함께 적용하는 방식으로 쇼핑 이용자 확대에 나선다. 카카오는 오는 12일부터 25일까지 '카카오쇼핑페스타(카쇼페)'를 진행한다고 7일 밝혔다. 이번 행사에는 카카오톡...",
-      "pubDate": "2026-10-07T07:24:00+00:00",
-      "category": "카카오페이",
-      "source": "이뉴스투데이"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 합병, 내년으로 넘어간다",
-      "link": "https://byline.network/?p=9004111222622516",
-      "originallink": "https://byline.network/?p=9004111222622516",
-      "description": "네이버파이낸셜과 두나무의 합병이 내년으로 연기됐다. 이번이 세 번째 연기로, 당초 6월 말로 예정됐던 주식교환일은 내년 3월 말까지 약 9개월 가량 미뤄졌다. 공정거래위원회 기업결합 심사 등 관계 당국의 절차가...",
-      "pubDate": "2026-10-07T07:20:00+00:00",
-      "category": "네이버페이",
-      "source": "byline"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 주식교환 또 연기…내년 3월로",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16240776",
-      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16240776",
-      "description": "네이버파이낸셜이 두나무를 100% 자회사로 편입하기 위한 포괄적 주식교환 일정을 다시 늦췄다. 두나무는 7일 주식교환일을 올해 12월 31일에서 2027년 3월 31일로 변경했다고 공시했다. 당초 6월 말로 잡혔던 주식교환은...",
-      "pubDate": "2026-10-07T07:20:00+00:00",
-      "category": "네이버페이",
-      "source": "톱스타뉴스"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 주식교환 또 연기···\"거래 방향은 변함없다...",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=639577",
-      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=639577",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 3개월가량 연기됐다. 관계 당국의 심사 절차를 원활히 마무리하기 위한 것으로, 거래 구조나 방향성에는 변함이 없다는 게 두나무측...",
-      "pubDate": "2026-10-07T07:17:00+00:00",
-      "category": "네이버페이",
-      "source": "서울파이낸스"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 합병, 내년으로 넘어간다…세 번째 연기",
-      "link": "https://n.news.naver.com/mnews/article/008/0005423366?sid=105",
-      "originallink": "https://www.mt.co.kr/tech/2026/10/07/2026100716005732875",
-      "description": "네이버파이낸셜과 두나무의 합병이 세 번째 연기되면서 연내 합병이 어려울 전망이다. 공정거래위원회의 기업 결함 심사 절차가 길어지면서다. 네이버는 당국과 지속 소통하겠다는 입장을 밝혔다. 네이버(NAVER)는...",
-      "pubDate": "2026-10-07T07:17:00+00:00",
-      "category": "네이버페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 주식교환 또 연기",
-      "link": "https://n.news.naver.com/mnews/article/422/0000913412?sid=101",
-      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261007161519MD5",
-      "description": "네이버파이낸셜의 두나무 완전 자회사 편입을 위한 포괄적 주식교환 일정이 또 연기됐습니다. 두나무는 오늘(7일) 네이버 종속회사인 네이버파이낸셜과의 주식교환일을 내년 3월 31일로 변경했다고 공시했습니다. 당초...",
-      "pubDate": "2026-10-07T07:16:00+00:00",
-      "category": "네이버페이",
-      "source": "연합뉴스TV"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 주식교환 또 연기…내년 3월로",
-      "link": "https://www.decenter.kr/article/20099129?ref=naverdc",
-      "originallink": "https://www.decenter.kr/article/20099129?ref=naverdc",
-      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 내년 3월로 다시 연기됐다. 관계 당국의 심사와 관련 절차가 진행 중인 가운데 주식교환 예정일은 최초 계획보다 9개월 늦춰졌다. 두나무는 7일 네이버 종속회사인...",
-      "pubDate": "2026-10-07T07:14:00+00:00",
-      "category": "네이버페이",
-      "source": "Decenter"
-    },
-    {
-      "title": "두나무-네이버파이낸셜 주식교환 또 연기···이번엔 내년 3월",
-      "link": "https://www.smartbizn.com/news/articleView.html?idxno=155835",
-      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=155835",
-      "description": "| 스마트비즈 = 최준 기자 | 네이버파이낸셜의 두나무 완전자회사 편입 작업이 또다시 늦어졌다. 당초 올해 안에 마무리될 것으로 예상됐던 주식교환 일정이 내년 3월로 넘어가면서 거래 종결은 물론 네이버파이낸셜의...",
-      "pubDate": "2026-10-07T07:08:00+00:00",
-      "category": "네이버페이",
-      "source": "스마트비즈"
-    },
-    {
-      "title": "두나무·네이버파이낸셜, 주식교환 내년 3월로 연기",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=855865",
-      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=855865",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 내년 3월로 연기됐다. 이에 따라 주주총회와 두나무 자기주식 소각, 네이버파이낸셜 기업공개(IPO) 추진 일정도 함께 늦춰진다. 7일 네이버와...",
-      "pubDate": "2026-10-07T07:08:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스웍스"
-    },
-    {
-      "title": "두나무-네이버파이낸셜 주식교환, 해 넘긴다…내년 3월로 연기 [크립토...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002706590?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10895977?ref=naver",
-      "description": "네이버파이낸셜과 두나무의 기업결합 일정이 다시금 미뤄졌다. 당초 올해 말로 예정됐던 포괄적 주식교환은 내년 3월 말로 연기되면서 양사의 결합은 해를 넘기게 됐다. 7일 네이버파이낸셜과 두나무는 양사의...",
-      "pubDate": "2026-10-07T07:04:00+00:00",
-      "category": "네이버페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 합병, 해 넘긴다…내년 3월로 연기",
-      "link": "https://www.newspim.com/news/view/20261007001242",
-      "originallink": "https://www.newspim.com/news/view/20261007001242",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 3개월가량 연기됐다. 7일 두나무는 네이버 종속회사인 네이버파이낸셜과 자사의 주식교환일이 기존 12월31일에서 내년 3월 31일로...",
-      "pubDate": "2026-10-07T07:04:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 주식교환 또다시 연기…“내년 3월에 시행”",
-      "link": "https://n.news.naver.com/mnews/article/009/0005745361?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12170521",
-      "description": "네이버파이낸셜이 두나무를 완전 자회사로 편입하기 위한 포괄적 주식교환 일정이 내년 3월로 다시 미뤄졌다. 당초 올해 6월로 잡았던 일정이 세 차례 연기됐다. 두나무는 네이버 종속회사인 네이버파이낸셜과의...",
-      "pubDate": "2026-10-07T07:03:00+00:00",
-      "category": "네이버페이",
-      "source": "매일경제"
-    },
-    {
-      "title": "네이버파이낸셜·두나무 주식교환 세 번째 연기…내년 3월말로",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071537594280811",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071537594280811",
-      "description": "네이버파이낸셜과 두나무의 포괄적 주식교환 일정이 세 번째 연기됐다. 당초 올해 6월 교환이 이뤄질 예정이었으나 9개월 늦어진 내년 3월로 미뤄진 것이다. 7일 네이버는 기재정정공시를 통해 주주총회 예정일을...",
-      "pubDate": "2026-10-07T07:02:00+00:00",
-      "category": "네이버페이",
-      "source": "대한경제"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 주식교환 내년 3월로 세 번째 연기",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026100715454227104",
-      "originallink": "https://www.newsway.co.kr/news/view?ud=2026100715454227104",
-      "description": "두나무와 네이버파이낸셜의 포괄적 주식교환 일정이 또다시 미뤄졌다. 두나무는 네이버 종속회사인 네이버파이낸셜과 자사의 주식교환일이 내년 3월 31일로 변경됐다고 7일 공시했다. 양사의 주식교환 일정이 연기된...",
-      "pubDate": "2026-10-07T07:02:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스웨이"
-    },
-    {
-      "title": "토스플레이스, 50만 가맹점 데이터 AI로 분석…'플레이스 인사이트' 연내...",
-      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=210287",
-      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=210287",
-      "description": "사진=토스플레이스 토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스가 여러 매장을 운영하는 사업자를 위한 AI 리포트 기능을 연내 선보인다. 매장별 관리 기능에 경쟁 매장 비교와 입지 분석 등을 더해 다매장...",
-      "pubDate": "2026-10-07T07:02:00+00:00",
-      "category": "토스페이",
-      "source": "더퍼스트미디어"
-    },
-    {
-      "title": "두나무-네이버파이낸셜 주식 교환 또 연기…내년 3월 예정",
-      "link": "https://n.news.naver.com/mnews/article/079/0004196554?sid=101",
-      "originallink": "https://www.nocutnews.co.kr/news/6588328?utm_source=naver&utm_medium=article&utm_campaign=20261007035924",
-      "description": "두나무 공시주주총회 예정일도 조정 \"심사·제반절차 성실히 임하겠다\" 네이버파이낸셜의 두나무 완전자회사 편입을 위한 포괄적 주식교환 일정이 다시 연기됐다. 두나무는 네이버 종속회사인 네이버파이낸셜과...",
-      "pubDate": "2026-10-07T07:00:00+00:00",
-      "category": "네이버페이",
-      "source": "노컷뉴스"
-    },
-    {
-      "title": "두나무·네이버파이낸셜 주식 교환 또 연기⋯내년 3월 31일 예정",
-      "link": "https://n.news.naver.com/mnews/article/031/0001064235?sid=101",
-      "originallink": "http://www.inews24.com/view/2012764",
-      "description": "가상자산 거래소 업비트 운영사 두나무와 간편결제 사업자 네이버파이낸셜의 합병이 약 3개월 연기됐다. 두나무와 네이버파이낸셜은 포괄적 주식 교환을 위한 주주총회 일정을 기존 11월 19일에서 내년 2월 26일로...",
-      "pubDate": "2026-10-07T06:58:00+00:00",
-      "category": "네이버페이",
-      "source": "아이뉴스24"
-    },
-    {
-      "title": "네이버페이 '보험금 청구' 서비스 강화…간편청구 병원 확대",
-      "link": "https://n.news.naver.com/mnews/article/079/0004196548?sid=105",
-      "originallink": "https://www.nocutnews.co.kr/news/6588318?utm_source=naver&utm_medium=article&utm_campaign=20261007035324",
-      "description": "마이데이터 기반 의료비 결제내역을 활용해 청구 과정의 편의성을 한층 높이는 등 서비스를 강화했다. 'Npay 보험금 청구'는 병·의원이나 약국 이용 후 보험사에 실손 보험금을 간편하게 청구할 수 있는 서비스다. 이번...",
-      "pubDate": "2026-10-07T06:54:00+00:00",
-      "category": "네이버페이",
-      "source": "노컷뉴스"
-    },
-    {
-      "title": "토스플레이스, 점포 분석 AI 리포트 공개…결제 사업서 운영 서비스로",
-      "link": "https://www.news2day.co.kr/article/20261007500268",
-      "originallink": "https://www.news2day.co.kr/article/20261007500268",
-      "description": "다매장 사장 겨냥 세미나 개최 반년 새 설치규모 20만 곳 늘어 적자·자본잠식 속 수익화 과제 토스플레이스가 9월 14일 서울 신논현 토스 오피스에서 개최한 '장사의 다음: 비즈니스 스케일업(The Next Move in Business)...",
-      "pubDate": "2026-10-07T06:36:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스투데이"
-    },
-    {
-      "title": "카카오쇼핑, '두 번 깎는 쇼핑 축제'…최대 10% 카카오페이 할인",
-      "link": "https://www.cnbizm.com/news/articleView.html?idxno=317336",
-      "originallink": "https://www.cnbizm.com/news/articleView.html?idxno=317336",
-      "description": "특히 플랫폼 자체 할인과 간편결제 혜택을 동시에 적용하는 구조가 소비자의 구매 비용을 낮추는 주요 수단으로 활용되고 있다. 카카오 관계자는 \"이용자들이 더 넓은 선택지와 실질적인 혜택을 체감할 수 있도록...",
-      "pubDate": "2026-10-07T05:44:00+00:00",
-      "category": "카카오페이",
-      "source": "문화경제"
-    },
-    {
-      "title": "토스플레이스, 50만 가맹점 데이터 AI 분석…다매장 관리 기능 연내 출시",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=136870",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=136870",
-      "description": "| 이코노미사이언스 박성현 기자 | 토스플레이스가 50만 가맹점 데이터를 활용해 여러 매장의 운영 현황과 경쟁 점포, 입지를 분석하는 AI 리포트 기능을 연내 출시한다. 결제와 포스 데이터를 기반으로 매장별 운영 정보를...",
-      "pubDate": "2026-10-07T04:44:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "토스플레이스, 다매장 사장님 위한 스케일업 세미나 개최",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=366782",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=366782",
-      "description": "토스플레이스는 여러 매장을 운영하거나 추가 출점을 준비하는 자영업자를 대상으로 '장사의 다음: 비즈니스 스케일업' 세미나를 열었다고 7일 밝혔다. 데일리 F&B와 공동 주관한 이번 행사에는 다매장 운영자 80여명이...",
-      "pubDate": "2026-10-07T04:40:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜투데이"
-    },
-    {
-      "title": "“매장 늘릴 때 필요한 전략은”…토스플레이스, 소상공인 세미나 개최",
-      "link": "https://n.news.naver.com/mnews/article/030/0003473020?sid=101",
-      "originallink": "https://www.etnews.com/20261007000231",
-      "description": "토스플레이스가 여러 매장을 운영하는 소상공인을 대상으로 세미나를 열었다. 토스플레이스의 가맹점 데이터와 실제 브랜드 성공 사례를 바탕으로 매장 확장 전략을 공유하기 위해 마련됐다. 토스플레이스는 1호점 이후를...",
-      "pubDate": "2026-10-07T04:14:00+00:00",
-      "category": "토스페이",
-      "source": "전자신문"
     }
   ],
-  "lastFetch": "2026-11-06T03:25:16.848676+00:00"
+  "lastFetch": "2026-11-07T02:45:03.954385+00:00"
 }
