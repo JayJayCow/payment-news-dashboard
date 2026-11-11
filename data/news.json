@@ -1,6 +1,510 @@
 {
   "articles": [
     {
+      "title": "카카오페이, ESG 평가 통합 A등급 획득",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325546",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325546",
+      "description": "사진=카카오페이  카카오페이가 한국ESG기준원(KCGS)의 ESG 평가에서 전년도에 이어 통합 A등급을 획득했다. 카카오페이는 한국ESG기준원이 발표한 '2026년 ESG 평가'에서 환경(E) A, 사회(S) A+, 지배구조(G) A등급을 받았다고...",
+      "pubDate": "2026-11-11T02:36:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "[테크스냅] 카카오페이, 한국ESG기준원 평가서 2년째 통합A등급",
+      "link": "https://n.news.naver.com/mnews/article/001/0016435360?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261111084700017?input=1195m",
+      "description": "딥엑스, AI 연산 가속기 특허로 홍대용상 수상 PFCT, 금융 업무 계획·실행 돕는 AI 도구 개발 호프만에이전시코리아, AI 답변 속 브랜드 분석 도구 출시 (서울=연합뉴스) 한상용 기자 = 카카오페이가 한국ESG기준원(KCGS)...",
+      "pubDate": "2026-11-11T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오페이, 한국ESG기준원 '통합 A'…사회부문 A+",
+      "link": "https://n.news.naver.com/mnews/article/277/0005841138?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026111111223494117",
+      "description": "카카오페이는 2026년 한국ESG기준원(KCGS)의 ESG(환경·사회·지배구조) 평가에서 지난해에 이어 통합 A등급을 획득했다고 11일 밝혔다. 카카오페이는 평가에서 환경 분야 A, 사회 A+, 지배구조 A를 각각 획득했다....",
+      "pubDate": "2026-11-11T02:22:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "[증권 소식] 카카오페이·한국투자증권·미래에셋증권",
+      "link": "https://sateconomy.co.kr/news/view/1065579204183699",
+      "originallink": "https://sateconomy.co.kr/news/view/1065579204183699",
+      "description": "카카오페이, KCGS ESG 평가 통합 A등급 유지 한국투자증권, 올해 마지막 실전투자대회 '한투배틀 파이널' 개최 미래에셋증권, 11월 개인투자용 국채 2000억원 발행 ▲ AI 생성 이미지 [토요경제] 카카오페이는...",
+      "pubDate": "2026-11-11T02:20:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "카카오페이, ESG 평가 2년 연속 통합 A등급 획득",
+      "link": "https://www.lawissue.co.kr/view.php?ud=2026111111142212089817d053b9_12",
+      "originallink": "https://www.lawissue.co.kr/view.php?ud=2026111111142212089817d053b9_12",
+      "description": "카카오페이가 한국ESG기준원(KCGS)의 2026년 ESG 평가에서 전년도에 이어 통합 A등급을 받았다고 11일 밝혔다. 카카오페이에 따르면 이번 평가에서 환경 부문 A등급, 사회 부문 A+등급, 지배구조 부문 A등급을 획득했다....",
+      "pubDate": "2026-11-11T02:16:00+00:00",
+      "category": "카카오페이",
+      "source": "로이슈"
+    },
+    {
+      "title": "카카오페이 지속가능경영 역량 인정···ESG 평가 ‘통합 A등급’",
+      "link": "https://n.news.naver.com/mnews/article/018/0006408109?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04050806645644736&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "카카오페이(377300)가 한국ESG기준원(KCGS)이 발표한 ‘2026년 ESG 평가’에서 전년도에 이어 통합 ‘A등급’을 받았다. 한국ESG기준원은 국내외 기관투자자와 기업을 대상으로 기업 지배구조와 ESG 관련 조사·평가, 의결권...",
+      "pubDate": "2026-11-11T02:12:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, KCGS ESG 평가서 전 부문 'A등급' 이상 획득",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87544",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87544",
+      "description": "카카오페이가 한국ESG기준원(KCGS)이 발표한 '2026년 ESG 평가'에서 전년도에 이어 통합 'A등급'을 달성했다. 11일 카카오페이에 따르면 이번 평가에서 부문별로는 환경(E) 'A', 사회(S) 'A+', 지배구조(G) 'A' 등급을 기록하며...",
+      "pubDate": "2026-11-11T02:10:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "카카오페이, ESG 평가 '통합 A등급' 획득... 2년 연속 안정적 결실",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=139837",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=139837",
+      "description": "카카오페이가 지속가능경영 역량을 입증하며 연속으로 ESG 성과를 창출했다. 카카오페이(대표 신원근)는 한국ESG기준원이 발표한 '2026년 ESG 평가'에서 전년도에 이어 통합 'A등급'을 획득했다고 11일 밝혔다. 카카오페이는...",
+      "pubDate": "2026-11-11T02:08:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "카카오페이, ESG 통합 A등급 유지…사회 부문 A+로 최고 평가",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578442305956",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578442305956",
+      "description": "카카오페이가 한국ESG기준원(KCGS)의 2026년 ESG 평가에서 통합 A등급을 유지했다. 특히 사회(S) 부문에서는 A+등급을 기록하며 정보보호와 인권, 공급망 관리 등 비재무적 위험 관리 역량을 인정받았다. 카카오페이는...",
+      "pubDate": "2026-11-11T02:02:00+00:00",
+      "category": "카카오페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "카카오페이, KCGS ESG 평가 통합 'A등급'…사회 부문은 A+",
+      "link": "https://n.news.naver.com/mnews/article/003/0014314999?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261111_0003863468",
+      "description": "카카오페이가 한국ESG기준원(KCGS)의 ESG 평가에서 지난해에 이어 통합 A등급을 획득했다. 카카오페이는 2026년 KCGS의 ESG평가 환경, 사회, 지배구조 분야에서 각각 A·A+·A 등급을 받았다고 11일 밝혔다. 환경...",
+      "pubDate": "2026-11-11T01:55:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오페이, 기후변화 대응부터 지배구조 투명성까지 ESG 경쟁력 입증",
+      "link": "https://www.g-enews.com/view.php?ud=202611111021288019cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202611111021288019cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 환경·사회·지배구조(ESG) 전 부문에서 우수한 평가를 받으며 지속가능경영 역량을 인정받았다. 기후변화 대응 전략과 정보보호 체계, 이사회 운영의 투명성 등을 바탕으로 지난해에 이어...",
+      "pubDate": "2026-11-11T01:54:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "[기업家] 네이버 ㉒ㅣ AI·핀테크·로봇으로 영토 확장",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=625585",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=625585",
+      "description": "● 2026-11-06 서귀포중심상가-네이버페이, 디지털 결제 협약 체결…외국인 관광객 결제 편의↑ 네이버페이 (사진=연합뉴스) 제주 서귀포중심상가의 외국인 관광객 결제 환경 개선과 상권 활성화를 위해 제주애퐁당과...",
+      "pubDate": "2026-11-11T01:52:00+00:00",
+      "category": "간편결제",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "가민, 간편결제 서비스 '가민 페이' 국내 출시…티머니 지원으로 일상 ...",
+      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=409560",
+      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=409560",
+      "description": "가민이 티머니 결제 서비스를 탑재한 간편결제 서비스 '가민 페이(Garmin Pay)'를 국내 공식 출시했다고 밝혔다. 가민 페이는 별도의 카드나 스마트폰을 꺼낼 필요 없이 손목의 가민 워치만으로 간편하게 결제할 수 있는...",
+      "pubDate": "2026-11-11T01:50:00+00:00",
+      "category": "간편결제",
+      "source": "테크월드"
+    },
+    {
+      "title": "네이버플러스 멤버십, 파리바게뜨 제휴...Npay 결제시 최대 10% 혜택",
+      "link": "https://www.dizzotv.com/site/data/html_dir/2026/11/11/2026111180035.html",
+      "originallink": "https://www.dizzotv.com/site/data/html_dir/2026/11/11/2026111180035.html",
+      "description": "별도의 사전 등록 없이 네이버페이(Npay) QR로 결제하면 구매 금액의 5%를 현장에서 즉시 할인받고, 추가 5%는 Npay 포인트로 적립받을 수 있다. 할인과 적립을 합산한 혜택 한도는 하루 최대 1만원이다. 가령 10만원어치...",
+      "pubDate": "2026-11-11T01:48:00+00:00",
+      "category": "네이버페이",
+      "source": "디지틀조선TV"
+    },
+    {
+      "title": "신원근 카카오페이 대표, ESG '통합 A등급' 지켰다",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2017066",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2017066",
+      "description": "매일일보 = 기영미 기자   |  카카오페이는 한국ESG기준원(KCGS)이 발표한 '2026년 ESG 평가'에서 전년도에 이어 통합 'A등급'을 획득했다고 11일 밝혔다. 카카오페이는 이번 평가에서 환경(E) 'A', 사회(S) 'A+', 지배구조(G) 'A...",
+      "pubDate": "2026-11-11T01:48:00+00:00",
+      "category": "카카오페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "카카오페이, ESG 평가 2년 연속 통합 A등급…\"경영 성과 인정\"",
+      "link": "https://www.ajunews.com/view/20261111103929651",
+      "originallink": "https://www.ajunews.com/view/20261111103929651",
+      "description": "환경 A·사회 A+·지배구조 A 등급 획득 아주경제=김윤섭 기자 angks678@ajunews.com 카카오페이. [사진=연합뉴스] 카카오페이가 한국ESG기준원(KCGS)의 2026년 환경·사회·지배구조(ESG) 평가에서 2년 연속 통합 A등급을...",
+      "pubDate": "2026-11-11T01:48:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "카카오페이, 한국ESG기준원 ESG 평가 2년 연속 통합 A등급",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=369390",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=369390",
+      "description": "카카오페이는 한국ESG기준원(KCGS)이 발표한 '2026년 ESG 평가'에서 지난해에 이어 통합 A등급을 받았다고 11일 밝혔다. 부문별로는 환경(E) A, 사회(S) A+, 지배구조(G) A등급을 기록했다. 지난해와 같은 부문별 등급을...",
+      "pubDate": "2026-11-11T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "카카오·토스뱅크 애플페이 도입 임박… 고객 확보 경쟁 새 변수",
+      "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731043",
+      "originallink": "http://www.the-biz.co.kr/news/articleView.html?idxno=731043",
+      "description": "카카오뱅크와 토스뱅크의 애플페이 도입 가능성이 커지면서 소비자들의 관심이 쏠리고 있다. 그간 현대카드에 집중됐던 애플페이 서비스가 인터넷전문은행으로 확대될 경우 아이폰 이용자들의 결제 선택지가 넓어지고...",
+      "pubDate": "2026-11-11T01:44:00+00:00",
+      "category": "애플페이",
+      "source": "THE Biz(더비즈)"
+    },
+    {
+      "title": "카카오페이, 한국ESG기준원 평가 통합 A 유지…사회 부문 A+",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=562928",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=562928",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 한국ESG기준원(KCGS)의 '2026년 ESG 평가'에서 전년에 이어 통합 'A등급'을 받았다고 11일 밝혔다. [사진=카카오페이] 카카오페이는 한국ESG기준원(KCGS)의 '2026년 ESG 평가...",
+      "pubDate": "2026-11-11T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이, ESG 평가 통합 A등급…사회 부문 A+",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882080",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882080",
+      "description": "카카오페이 제공. | 서울=한스경제 유은주 기자 | 카카오페이가 한국ESG기준원(KCGS)의 2026년 ESG 평가에서 통합 A등급을 획득했다. 지난해에 이어 환경·사회·지배구조 전 부문에서 우수 등급을 유지했다. 11일...",
+      "pubDate": "2026-11-11T01:32:00+00:00",
+      "category": "카카오페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "'결제부터 매출 분석까지'…네이버페이, 서울카페쇼서 매장 운영법 공개",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=285916",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=285916",
+      "description": "네이버페이는 오는 11~14일 서울 코엑스에서 열리는 '2026 서울카페쇼'에 공식 스폰서로 참가한다고 10일 밝혔다. 네이버페이는 이번 행사에서 오프라인 통합 단말기 'Npay 커넥트'를 활용한 매장 운영 및 사업 지원...",
+      "pubDate": "2026-11-11T01:30:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "카카오페이, 한국ESG기준원 평가서 2년 연속 통합 A등급",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=286103",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=286103",
+      "description": "카카오페이는 한국ESG기준원이 발표한 '2026년 ESG 평가'에서 지난해에 이어 통합 A등급을 획득했다고 11일 밝혔다. 이번 평가에서 카카오페이는 환경(E) A등급, 사회(S) A+등급, 지배구조(G) A등급을 기록했다. 3개 부문 모두...",
+      "pubDate": "2026-11-11T01:30:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "\"첫구독시 'Npay20만P·무선에어센서' 쏜다\" SK인텔릭스 '나무엑스 1주년...",
+      "link": "https://www.catchnews.kr/news/articleView.html?idxno=130341",
+      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=130341",
+      "description": "행사기간 나무엑스를 신규 구독하는 고객 전원에게 네이버페이(Npay) 20만포인트·무선 에어센서를 증정하며 제품상담만 받아도 아메리카노 기프티콘을 제공한다. SK인텔릭스 관계자는 11일 \"지난해 10월 나무엑스...",
+      "pubDate": "2026-11-11T01:27:00+00:00",
+      "category": "네이버페이",
+      "source": "CatchNews"
+    },
+    {
+      "title": "가민, 간편결제 서비스 '가민 페이' 국내 출시… 티머니 지원",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2017048",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2017048",
+      "description": "매일일보 = 성승환 기자   |  가민이 간편결제 서비스 '가민 페이(Garmin Pay)'를 국내 공식 출시했다. 티머니(Tmoney) 결제 기능을 탑재한 가민 페이는 별도의 카드나 스마트폰을 꺼낼 필요 없이 손목의 가민 워치만으로...",
+      "pubDate": "2026-11-11T01:22:00+00:00",
+      "category": "간편결제",
+      "source": "매일일보"
+    },
+    {
+      "title": "카카오페이, ESG 평가 2년 연속 통합 A등급..사회 부문 A+ 유지",
+      "link": "https://kpenews.com/View.aspx?No=4307005",
+      "originallink": "https://kpenews.com/View.aspx?No=4307005",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] 카카오페이가 국내 ESG 평가에서 2년 연속 통합 A등급을 받으며 지속가능경영 성과를 이어갔다. 특히 사회 부문에서 A+등급을 유지하며...",
+      "pubDate": "2026-11-11T01:16:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "애플페이 문 여는 카뱅·토뱅...‘체크카드’가 무기가 된 이유 [이슈+]",
+      "link": "https://www.ekn.kr/web/view.php?key=20261111029327932",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20261111029327932",
+      "description": "[단독] 애플페이, 카카오뱅크 체크카드로 넓어진다 토스페이먼츠와 카카오뱅크는 “테스트 차원\"이라는 입장을 밝혔지만 가맹점에 구체적인 시점까지 안내되며 서비스 출시가 임박한 것이 아니냐는 예상이 나왔다. 실제...",
+      "pubDate": "2026-11-11T01:12:00+00:00",
+      "category": "애플페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "\"헥토이노베이션, 3분기 최대 영업익…IT·핀테크 성장 지속\" - 유안타·...",
+      "link": "https://www.newspim.com/news/view/20261111000348",
+      "originallink": "https://www.newspim.com/news/view/20261111000348",
+      "description": "가맹점과 회원제 서비스 확대에 따라 결제대행(PG) 및 간편현금결제 매출이 증가한 영향이다. 반면 헥토헬스케어의 3분기 매출액은 238억원으로 전년 동기 대비 0.1% 감소했다. 다만 프리미엄 신제품 출시와 제품군...",
+      "pubDate": "2026-11-11T01:02:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "공정위, 네이버파이낸셜·두나무 합병 조건부 승인 추진",
+      "link": "https://n.news.naver.com/mnews/article/011/0004680916?sid=101",
+      "originallink": "https://www.sedaily.com/article/20112812?ref=naver",
+      "description": "■ 합병 심사 분수령: 공정거래위원회가 네이버파이낸셜과 두나무의 기업결합에 대해 시정조치 의견을 담은 심사보고서를 양사에 보내고 본격 심의에 들어갔다. 주식교환이 내달 31일로 예정된 가운데 아직...",
+      "pubDate": "2026-11-11T01:01:00+00:00",
+      "category": "네이버페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "가민, 간편결제 서비스 ‘가민 페이’ 국내 공식 출시…티머니 지원으로...",
+      "link": "https://n.news.naver.com/mnews/article/468/0001280120?sid=101",
+      "originallink": "https://www.sportsseoul.com/news/read/1648935?ref=naver",
+      "description": "글로벌 스마트 기기 브랜드 가민(Garmin)이 티머니(Tmoney) 결제 서비스를 탑재한 간편결제 서비스 ‘가민 페이(Garmin Pay)’를 국내에 공식 출시하며 웨어러블 기기의 일상 활용성을 강화한다. 가민 페이는 별도의...",
+      "pubDate": "2026-11-11T00:54:00+00:00",
+      "category": "간편결제",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "가민, 간편결제 서비스 '가민 페이' 국내 출시…티머니 탑재",
+      "link": "https://n.news.naver.com/mnews/article/138/0002248046?sid=105",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026111109425678334",
+      "description": "스마트워치 제조사 가민이 티머니와 손잡고 대중교통과 오프라인 가맹점에서 단말기 태그만으로 결제할 수 있는 간편결제 서비스를 국내에 정식 도입했다. 11일 가민(Garmin)은 티머니(Tmoney) 결제 기능을 내장한...",
+      "pubDate": "2026-11-11T00:45:00+00:00",
+      "category": "간편결제",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "'얼굴결제 대중화' 앞선 토스, 록페 결제 4건 중 1건…네이버는 '인증'으...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139420",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=139420",
+      "description": "토스는 지난달 부산국제록페스티벌에서 실제 결제 성과를 확인했고, 네이버페이는 11일 개막하는 서울카페쇼에서 얼굴결제와 매장 운영 서비스를 선보인다. 두 회사가 서로 다른 방식으로 이용자와 가맹점 확보에...",
+      "pubDate": "2026-11-10T23:00:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "유안타 \"헥토이노베이션, 핀테크ㆍ정보서비스 성장 지속⋯내년 헬스케...",
+      "link": "https://www.etoday.co.kr/news/view/2646517",
+      "originallink": "https://www.etoday.co.kr/news/view/2646517",
+      "description": "가맹점과 회원제 서비스 확대에 힘입어 전자지급결제대행(PG)과 간편현금결제 매출이 함께 증가했다. 헥토헬스케어 매출은 238억원으로 0.1% 감소했지만 200억원 이상의 매출 규모를 유지했다. 올해 3분기 누적...",
+      "pubDate": "2026-11-10T22:42:00+00:00",
+      "category": "간편결제",
+      "source": "이투데이"
+    },
+    {
+      "title": "[애플페이 도입 3년①] '단독 제휴' 현대카드, 고객 늘었지만…수익성 ...",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=121827",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=121827",
+      "description": "현대카드가 애플페이 단독 제휴를 바탕으로 국내 카드시장 내 입지를 강화했다. 약 3년 반 동안 아이폰 간편결제 시장을 선점하면서 고객 유치와 영업 경쟁력 확대 측면의 성과를 거뒀다는 평가다. 다만 이러한 성과가...",
+      "pubDate": "2026-11-10T22:00:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "인뱅도 출혈 경쟁…현대카드 애플페이 독점 욕심에 결제 생태계 파괴",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1319861&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1319861&inflow=N",
+      "description": "토스뱅크는 올해 초 금융감독원의 관련 약관 심사를 마쳤고, 카카오뱅크도 애플페이 도입을 검토하고 있습니다. 다만 양사는 구체적인 출시 일정과 계약 조건에 대해서는 말을 아끼고 있습니다. 두 은행은 자체...",
+      "pubDate": "2026-11-10T21:00:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스토마토"
+    },
+    {
+      "title": "(K금융, 태국 활로 찾기)②한국 간편결제의 한계",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1319853&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1319853&inflow=N",
+      "description": "현금, 하나은행 계열의 GLN은 물론 삼성페이, 애플페이, 카카오페이, 토스페이, 실물 트래블카드 등을 사용했습니다. QR 결제 보편화…GLN은 소규모 상점에서도 활용 시장조사업체 모르도르 인텔리전스(Mordor Intelligence)의...",
+      "pubDate": "2026-11-10T21:00:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스토마토"
+    },
+    {
+      "title": "카카오페이, 비대면 보험영업에 AI 접목 검토…채팅상담 인력 확충",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081931",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081931",
+      "description": "카카오페이가 비대면 영업 조직 강화에 나선다. 카카오톡 기반 채팅상담 인력 확충과 함께 비대면 보험영업에 인공지능(AI) 활용도 검토 중이다. 11일 신아일보 취재에 따르면, 카카오페이 자회사 법인보험대리점(GA)...",
+      "pubDate": "2026-11-10T21:00:00+00:00",
+      "category": "카카오페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "공정위 “네이버파이낸셜·두나무 결합, 경쟁제한 우려”",
+      "link": "https://byline.network/?p=9004111222626933",
+      "originallink": "https://byline.network/?p=9004111222626933",
+      "description": "공정거래위원회가 네이버파이낸셜과 두나무 기업결합으로 다수 시장에 경쟁이 제한될 우려가 있다고 판단했다. 이에 경쟁제한 우려를 해소하기 위한 시정조치 의견을 제시하고, 기업결합 승인 여부를 결정하는 심의...",
+      "pubDate": "2026-11-10T16:36:00+00:00",
+      "category": "네이버페이",
+      "source": "byline"
+    },
+    {
+      "title": "공정위, 네이버파이낸셜·두나무 결합 심의 착수…10개 시장 '독과점' 쟁...",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7193236",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7193236",
+      "description": "사진=연합뉴스  공정거래위원회가 네이버파이낸셜과 두나무의 기업결합을 조건부로 승인할지 판단하는 심의에 들어간다. 공정위 사무처는 두 회사로부터 경쟁 제한 우려 해소를 위한 시정방안을 받아 위원회에...",
+      "pubDate": "2026-11-10T16:08:00+00:00",
+      "category": "네이버페이",
+      "source": "주간한국"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 기업결합 심의 절차 개시",
+      "link": "https://n.news.naver.com/mnews/article/023/0004008854?sid=101",
+      "originallink": "https://www.chosun.com/economy/economy_general/2026/11/11/PKJPXGGTGZEXRK6CON3362XYPY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "공정위 “여러 시장서 경쟁 제한” 공정거래위원회가 네이버파이낸셜과 두나무 간 주식 교환을 통한 기업 결합 건에 대해 심의 절차를 개시했다고 10일 밝혔다. 공정위에 따르면, 공정위 사무처는 지난 6일 위원회와...",
+      "pubDate": "2026-11-10T15:33:00+00:00",
+      "category": "네이버페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "공정위, 네이버파이낸셜·두나무 기업결합 심의 시작",
+      "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=112958",
+      "originallink": "https://www.gametoc.co.kr/news/articleView.html?idxno=112958",
+      "description": "공정거래위원회(위원장 주병기)는 10일 네이버파이낸셜과 두나무의 포괄적 주식교환 방식 기업결합에 대한 본격적인 심의 절차에 착수했다. 지난해 11월 28일 기업결합 신고가 접수된 지 약 1년 만이다. 기업결합 심의는...",
+      "pubDate": "2026-11-10T12:52:00+00:00",
+      "category": "네이버페이",
+      "source": "게임톡"
+    },
+    {
+      "title": "두나무·네이버파이낸셜, 합치는 시점만큼 중요한 '묶어 쓰는 조건'",
+      "link": "https://www.insight.co.kr/news/581462",
+      "originallink": "https://www.insight.co.kr/news/581462",
+      "description": "공정거래위원회 사무처가 네이버파이낸셜과 두나무의 기업결합에 경쟁사업자 동등 대우와 영업 방식 제한을 담은 시정조치 의견을 냈다. 두 회사가 제출한 시정방안 초안으로는 경쟁제한 우려를 해소하기 어렵다고 보고...",
+      "pubDate": "2026-11-10T09:36:00+00:00",
+      "category": "네이버페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "토스의 그늘, 직원 3명 중 1명 비정규직…대부분 '초단기 계약'",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=325964",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=325964",
+      "description": "네이버와 카카오 등 국내 주요 IT 기업들과 비교해도 높은 수준이라고 한다. 특히 비정규직 가운데 약... 이는 토스가 최근 공격적으로 드라이브를 걸고 있는 '페이스페이' 등 신사업 확장의 상당 부분이 사회 초년생...",
+      "pubDate": "2026-11-10T09:14:00+00:00",
+      "category": "토스페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "카카오페이, AI·DB로 보험대리업 승부수",
+      "link": "https://n.news.naver.com/mnews/article/014/0005602211?sid=101",
+      "originallink": "https://www.fnnews.com/news/202611101811363810",
+      "description": "카카오페이가 인공지능(AI)과 고객 데이터베이스(DB)를 앞세워 침체된 보험대리점(GA) 사업의 활성화를 추진한다. 금융소비자보호법과 비대면 판매의 한계에 부딪혀 수년 간 적자를 이어왔으나 강점인 디지털 기술을...",
+      "pubDate": "2026-11-10T09:13:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "공정위 '두나무·네이버파이낸셜 기업결합' 심의 시작, 올해 안 결론 목...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=451657",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=451657",
+      "description": "공정거래위원회(공정위)가 네이버파이낸셜과 두나무의 기업결합 심의 절차에 착수했다. 공정위는 10일 네이버파이낸셜과 두나무 기업결합 심의 절차를 개시했다고 밝혔다. 지난해 11월28일 네이버파이낸셜과 두나무가...",
+      "pubDate": "2026-11-10T09:12:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "네이버파이낸셜-두나무 기업결합 심의 절차 개시…공정위 \"조속한 시일...",
+      "link": "https://www.fntimes.com/html/view.php?ud=2026111016513447390f4390e77d_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=2026111016513447390f4390e77d_18",
+      "description": "공정거래위원회가 네이버파이낸셜과 두나무의 기업결합에 대한 심의 절차에 착수했다. 공정위는 두 회사의 결합이 10개 시장에서 경쟁을 제한할 우려가 있다고 판단했다. 공정위는 네이버파이낸셜-두나무 기업결합건에...",
+      "pubDate": "2026-11-10T08:38:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "12개 결합 유형 중 10개 경쟁제한 우려…네이버파이낸셜·두나무 심의 착...",
+      "link": "https://www.tokenpost.kr/news/policy/435753",
+      "originallink": "https://www.tokenpost.kr/news/policy/435753",
+      "description": "공정거래위원회가 네이버파이낸셜과 두나무의 기업결합 심의에 착수했다. 심사관은 12개 결합 유형 가운데 10개에서 경쟁제한 우려가 있다고 판단했다. 공정위는 10일 브리핑에서 두 회사의 포괄적 주식교환에 관한...",
+      "pubDate": "2026-11-10T08:02:00+00:00",
+      "category": "네이버페이",
+      "source": "토큰포스트"
+    },
+    {
+      "title": "공정위, '네이버파이낸셜-두나무 기업결합' 심의 착수…\"경쟁제한 요소...",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=208773",
+      "originallink": "https://www.tfmedia.co.kr/news/article.html?no=208773",
+      "description": "국내 원화 스테이블코인 발행 시장 등과의 혼합결합 및 수직결합에서 타사와의 경쟁 제한 우려  공정거래위원회가 네이버파이낸셜과 두나무간 기업결합에 대한 심의 절차에 착수했다. 공정위는 빠른 시일 내...",
+      "pubDate": "2026-11-10T07:46:00+00:00",
+      "category": "네이버페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "트래블카드 다음은 애플페이·삼성월렛…은행권 해외결제 2차전",
+      "link": "https://n.news.naver.com/mnews/article/008/0005439190?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/11/11/2026111016083494535",
+      "description": "일반 고객의 카드 등록과 실제 매장 결제까지 이뤄지면서 업계에선 카카오뱅크의 애플페이 도입이 임박한 것으로 보고 있다. 토스뱅크도 연내 도입을 목표로 준비 중이다. 두 은행의 체크카드가 애플페이에 들어가면...",
+      "pubDate": "2026-11-10T07:41:00+00:00",
+      "category": "삼성페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "간편결제·코인 1위 결합에 '경쟁제한 우려'…공정위, 네이버·두나무 합...",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=303303",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=303303",
+      "description": "국내 간편결제 1위 네이버파이낸셜과 최대 디지털자산 거래소 업비트의 운영사 두나무의 기업결합을 두고 공정거래위원회가 본격적인 제재 심의에 착수했다. 공정위 심사관은 두 거대 플랫폼의 결합이 시장 경쟁을...",
+      "pubDate": "2026-11-10T07:20:00+00:00",
+      "category": "간편결제",
+      "source": "와이드경제"
+    },
+    {
+      "title": "수수료 부담에도 애플페이 도입···현대카드 독점 깬 것은 '고객 확보...",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424918",
+      "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=424918",
+      "description": "10일 금융권에 따르면 카카오뱅크와 토스뱅크는 애플페이 도입을 위한 기술적 준비를 마치고 연내 서비스 출시를 추진하고 있다. 카카오뱅크는 이르면 이달 중 서비스를 시작할 것으로 예상되며 토스뱅크는 연내 상용화를...",
+      "pubDate": "2026-11-10T07:00:00+00:00",
+      "category": "애플페이",
+      "source": "시사저널e"
+    },
+    {
+      "title": "미성년 파고드는 인뱅, 애플페이 추진···카드사와 1020 잡기 겨룬다",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718660",
+      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718660",
+      "description": "카카오뱅크와 토스뱅크가 애플페이 도입을 추진하면서 미성년 고객 기반이 두터운 인터넷은행과 청소년 카드로 먼저 공략에 나선 현대카드 간 경쟁 구도가 형성되고 있다. 10일 금융권에 따르면 최근 카카오뱅크...",
+      "pubDate": "2026-11-10T06:56:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스프리존"
+    },
+    {
+      "title": "공정위, 네이버파이낸셜·두나무 결합 '조건부 승인' 심의",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=32981",
+      "originallink": "http://www.fieldnews.kr/news/articleView.html?idxno=32981",
+      "description": "공정거래위원회가 네이버파이낸셜과 두나무의 기업결합을 독과점 우려 해소를 조건으로 승인할지 심의한다. 10일 공정위에 따르면 사무처는 두 회사가 제출한 시정방안을 검토한 뒤 조치 의견을 담은 심사보고서를...",
+      "pubDate": "2026-11-10T06:54:00+00:00",
+      "category": "네이버페이",
+      "source": "필드뉴스"
+    },
+    {
+      "title": "연말정산 세금 덜내고 Npay 1만원까지...카카오뱅크, 새 서비스 출시",
+      "link": "https://www.insight.co.kr/news/581415",
+      "originallink": "https://www.insight.co.kr/news/581415",
+      "description": "카카오뱅크는 연말까지 고향사랑기부제로 10만원 이상 기부한 고객 중 선착순 10만명에게 네이버페이 1만원권 또는 2027년 춘식이 한정판 다이어리를 증정하는 이벤트를 진행한다. 카카오뱅크 관계자는 \"연말정산 시즌에...",
+      "pubDate": "2026-11-10T06:40:00+00:00",
+      "category": "네이버페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "공정위, 네이버파이낸셜·두나무 결합에 경쟁제한 우려 제기",
+      "link": "https://n.news.naver.com/mnews/article/138/0002247959?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026111014281845908",
+      "description": "공정거래위원회가 네이버파이낸셜과 두나무의 기업결합에 대해 시장 경쟁을 실질적으로 제한할 우려가 있다고 판단했다. 공정위 사무처는 두 회사의 포괄적 주식 교환 방식 기업 결합이 온라인 간편결제와...",
+      "pubDate": "2026-11-10T06:17:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "페이스결제, 혜택 넘어 일상 속으로…토스·네이버페이 확장 시험대",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881656",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881656",
+      "description": "머니투데이방송(MTN)이 국회 제출자료를 토대로 보도한 바에 따르면 올해 2분기 말 기준 토스플레이스의 결제 단말기 설치 가맹점은 34만9189곳이다. 네이버페이는 6월 말 기준 Npay 커넥트 가맹점이 10만곳을 넘어섰다고...",
+      "pubDate": "2026-11-10T06:10:00+00:00",
+      "category": "네이버페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "공정위 네이버-두나무 기업결합 심의 착수 “간편결제·가상자산 경쟁제...",
+      "link": "https://www.ekn.kr/web/view.php?key=20261110025457574",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20261110025457574",
+      "description": "공정거래위원회가 네이버파이낸셜과 두나무의 기업결합 관련 심의에 착수했다. 네이버파이낸셜이 신주를 발행, 두나무 주식과 교환하는 '포괄적 주식교환'을 통해 두나무를 100% 자회사로 편입하는 내용이다. 온라인...",
+      "pubDate": "2026-11-10T05:52:00+00:00",
+      "category": "간편결제",
+      "source": "에너지경제"
+    },
+    {
       "title": "공정위, 네이버파이낸셜-두나무 기업결합 건 심의 절차 개시",
       "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=209810",
       "originallink": "https://www.kdpress.co.kr/news/articleView.html?idxno=209810",
@@ -430,7 +934,7 @@
       "description": "네이버페이는 11일부터 14일까지 서울 강남구 코엑스에서 열리는 '제25회 서울카페쇼'에 공식 스폰서로 참가한다고 10일 밝혔다. 서울카페쇼는 매년 10만명 이상이...",
       "pubDate": "2026-11-10T01:40:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "네이버페이 서울카페쇼 공식 스폰서로 첫선 \"Npay 커넥트 앞세워 사장님...",
@@ -709,7 +1213,7 @@
       "description": "네이버페이가 서민금융진흥원이 주관하는 '사람 살리는 금융' 캠페인에 동참했다고 9일 밝혔다. '사람 살리는 금융'은 불법사금융으로부터 금융 취약계층을 보호하고...",
       "pubDate": "2026-11-09T01:54:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "카카오페이, 소상공인 온라인 기획전…결제 시 20% 할인",
@@ -1996,7 +2500,7 @@
       "description": "네이버페이는 생체인식 정보보호 국제표준 'ISO 24745' 인증을 취득했다고 4일 밝혔다. 'ISO/IEC 24745:2022'는 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 함께 제정한...",
       "pubDate": "2026-11-04T01:54:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "신원근의 '체력 경영' 통했다…카카오페이, 변동장서도 3분기 이익 두 배...",
@@ -2275,7 +2779,7 @@
       "description": "이미지=아이클릭아트-전년比 105% 증가…매출 3021억원·순이익 329억원 -전체 거래액 53조7000억원…결제 서비스 25% 성장 -일간 이용자 첫 700만명 돌파…금융 매출 41% 증가 -카카오페이증권 영업익 157억원…주식...",
       "pubDate": "2026-11-03T15:50:00+00:00",
       "category": "카카오페이",
-      "source": "kjdaily"
+      "source": "jndmnews"
     },
     {
       "title": "카카오페이, 3분기 거래액 53.7조 매출 3,021억",
@@ -3535,7 +4039,7 @@
       "description": "CJ푸드빌이 운영하는 뚜레쥬르가 지난 20일 토스의 간편결제 서비스 토스페이를 도입한 것을 기념해 신제품 출시와 프로모션을 진행한다고 30일 밝혔다. 뚜레쥬르는...",
       "pubDate": "2026-10-30T04:28:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성생명, 11월 다이렉트 보험 가입 이벤트…네이버페이·모니머니 지급",
@@ -4228,7 +4732,7 @@
       "description": "BNK경남은행이 디지털 결제 솔루션 기업 토스플레이스와 협력해 경남 지역 소상공인의 결제서비스 이용 편의성을 높이고 공동마케팅을 추진한다. BNK경남은행은...",
       "pubDate": "2026-10-28T11:16:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "BNK경남은행, 토스플레이스와 지역 소상공인 지원 확대 '맞손'",
@@ -5614,7 +6118,7 @@
       "description": "이어 카카오뱅크와 신한 슈퍼SOL(각 29%), 모니모(26%), KB국민은행 스타뱅킹(24%), 미래에셋증권 M-STOCK(22%), 삼성증권 mPOP와 네이버페이(각 19%) 순이었다. 컨슈머인사이트는...",
       "pubDate": "2026-10-27T01:48:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성월렛 머니, 중국 QR 결제 지원",
@@ -5830,7 +6334,7 @@
       "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이(WeChat Pay) 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 ‘삼성월렛 머니’로...",
       "pubDate": "2026-10-27T00:50:00+00:00",
       "category": "삼성페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성전자·텐센트·우리은행, '삼성월렛 머니' 중국 QR 결제 협력",
@@ -8764,7 +9268,7 @@
       "description": "이 카드는 온라인에서 하나페이·삼성페이·네이버페이·카카오페이·페이코로 결제하면 기본 1%가 적립된다. 3일 연속 사용 시에는 다음 날부터 적립률이 2배 상향돼...",
       "pubDate": "2026-10-22T01:00:00+00:00",
       "category": "간편결제",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "\"간편결제 적립 파격 파격\"…우리카드, 'Npay 우리 체크'로 2030 영머니 ...",
@@ -8791,7 +9295,7 @@
       "description": "브레이크뉴스 정민우 기자= 삼성전자는 간편결제 서비스 ‘삼성월렛 머니... Young 등급 고객을 대상으로는 삼성 월렛으로 토스 유스카드 또는 카카오뱅크 mini카드...",
       "pubDate": "2026-10-22T00:54:00+00:00",
       "category": "삼성페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성월렛 머니·포인트 등급제 도입..해외서도 쓴다",
@@ -12824,286 +13328,7 @@
       "pubDate": "2026-10-12T03:33:00+00:00",
       "category": "토스페이",
       "source": "ZDNet"
-    },
-    {
-      "title": "토스플레이스, 세 자릿수 공개채용…전 직군 인재 모집",
-      "link": "https://n.news.naver.com/mnews/article/030/0003474041?sid=101",
-      "originallink": "https://www.etnews.com/20261012000163",
-      "description": "토스플레이스가 전 직군 대규모 공개채용을 진행한다. 오는 31일까지 진행되며, 세 자릿수 규모로 선발한다. 모집 직군은 △비즈니스·세일즈 △데이터 △디자인 △엔지니어링 △파이낸스 △마케팅 △HR △프로덕트 △보안...",
-      "pubDate": "2026-10-12T02:27:00+00:00",
-      "category": "토스페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "[금융계 소식] 하나증권·삼성자산운용·NH투자증권·키움증권·토스…...",
-      "link": "https://sateconomy.co.kr/news/view/1065578119018721",
-      "originallink": "https://sateconomy.co.kr/news/view/1065578119018721",
-      "description": "◆토스플레이스, 전 직군 세 자릿수 공개채용 12일 토스에 따르면 결제 단말기 및 매장관리 솔루션 계열사 토스플레이스가 오는 31일까지 세 자릿수 규모의 공개채용을 진행한다. 법인 설립 이후 첫 전 직군...",
-      "pubDate": "2026-10-12T02:06:00+00:00",
-      "category": "토스페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "토스플레이스, 31일까지 전 직군 공채…첫 세 자릿수 선발",
-      "link": "http://www.sisacast.kr/news/articleView.html?idxno=100890",
-      "originallink": "http://www.sisacast.kr/news/articleView.html?idxno=100890",
-      "description": "토스플레이스, 전 직군 대규모 채용. 이미지=토스플레이스 토스플레이스가 오는 31일까지 세 자릿수 규모로 인재를 선발한다. 토스의 결제 단말기·포스(POS) 솔루션 공급 자회사 토스플레이스는 법인 설립 이후 처음으로 전...",
-      "pubDate": "2026-10-12T01:58:00+00:00",
-      "category": "토스페이",
-      "source": "시사캐스트"
-    },
-    {
-      "title": "토스플레이스, 법인 설립 후 첫 세자릿수 대규모 공개채용",
-      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=364469",
-      "originallink": "http://www.smedaily.co.kr/news/articleView.html?idxno=364469",
-      "description": "사진/토스플레이스 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 법인 설립 이후 처음으로 전 직군 대규모 공개채용을 진행한다. 12일 토스플레이스에 따르면 이번 공개채용은 오는 31일까지...",
-      "pubDate": "2026-10-12T01:58:00+00:00",
-      "category": "토스페이",
-      "source": "중소기업신문"
-    },
-    {
-      "title": "토스플레이스, 설립 후 첫 대규모 공채···연차 제한 없다",
-      "link": "https://n.news.naver.com/mnews/article/014/0005587703?sid=101",
-      "originallink": "https://www.fnnews.com/news/202610120859100587",
-      "description": "토스플레이스가 법인 설립 이후 처음 전 직군 대규모 공개채용을 실시한다. 토스플레이스는 토스(운영사 비바리퍼블리카)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사다. 12일 토스에 따르면 토스플레이스는...",
-      "pubDate": "2026-10-12T01:57:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "토스플레이스, 결제 단말기 넘어 '매장 운영 플랫폼'으로…세 자릿수 채...",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=137070",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=137070",
-      "description": "토스플레이스가 세 자릿수 규모의 공개채용에 나선 배경에도 결제 중심 사업을 통합 매장 운영 플랫폼으로 확장하려는 전략이 자리하고 있다. 토스플레이스는 12일 법인 설립 이후 처음으로 전 직군 공개채용을 진행한다고...",
-      "pubDate": "2026-10-12T01:56:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "토스플레이스, 전 직군 세 자릿수 채용…신입∙경력 제한 없다",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189137",
-      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=189137",
-      "description": "토스플레이스가 법인 설립 이후 처음으로 전 직군 대상 대규모 공개채용을 진행한다. 오는 31일까지 세 자릿수 규모의 인재를 선발하며 신입과 경력 구분 없이 지원할 수 있다. 모집 분야는 비즈니스·세일즈와 데이터...",
-      "pubDate": "2026-10-12T01:44:00+00:00",
-      "category": "토스페이",
-      "source": "한국면세뉴스"
-    },
-    {
-      "title": "명륜진사갈비, 네이버페이 페이스사인 결제 시 10% 포인트 적립",
-      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=31787",
-      "originallink": "https://www.rcast.co.kr/news/articleView.html?idxno=31787",
-      "description": "숯불돼지갈비 프랜차이즈 브랜드 명륜진사갈비 매장에서 네이버페이 '페이스사인'으로 결제하면 결제금액의 10%를 네이버페이 포인트로 적립 받을 수 있다. 이번 혜택은 네이버커넥트가 설치된 명륜진사갈비 매장에서...",
-      "pubDate": "2026-10-12T01:30:00+00:00",
-      "category": "네이버페이",
-      "source": "리얼캐스트"
-    },
-    {
-      "title": "토스플레이스, 첫 전 직군 공채 세 자릿수 뽑아 매장 전체를 다시 짠다",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=753251",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=753251",
-      "description": "토스플레이스(대표 최재호)가 법인 설립 이후 처음으로 전 직군에서 세 자릿수 규모의 인재를 뽑는다고 12일 밝혔다. 결제 단말기와 포스(POS) 솔루션을 공급하는 토스 운영사 비바리퍼블리카의 자회사 토스플레이스는...",
-      "pubDate": "2026-10-12T01:28:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "명륜진사갈비, 네이버페이 '페이스사인' 결제 시 10% 적립…월 최대 5만...",
-      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253730",
-      "originallink": "https://www.nextdaily.co.kr/news/articleView.html?idxno=253730",
-      "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 얼굴인식 간편결제인 네이버페이 '페이스사인'으로 계산하는 고객에게 결제액의 10%를 네이버페이 포인트로 돌려준다고 밝혔다. 적립 한도는 월 최대 5만 포인트다. 페이스사인은...",
-      "pubDate": "2026-10-12T01:26:00+00:00",
-      "category": "네이버페이",
-      "source": "넥스트데일리"
-    },
-    {
-      "title": "토스플레이스, 세 자릿수 공개채용…신입·경력 모두 지원 가능",
-      "link": "https://www.g-enews.com/view.php?ud=202610121009583274cd0bfacc1c_1",
-      "originallink": "https://www.g-enews.com/view.php?ud=202610121009583274cd0bfacc1c_1",
-      "description": "토스의 결제 솔루션 자회사 토스플레이스가 세 자릿수 규모의 인력 채용에 나선다. 법인 설립 이후 처음으로 전 직군을 대상으로 공개채용을 진행하며, 신입과 경력 구분 없이 지원할 수 있도록 했다. 토스플레이스는 오는...",
-      "pubDate": "2026-10-12T01:22:00+00:00",
-      "category": "토스페이",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "신입·경력 구분 없이 세 자릿수 뽑는다…토스플레이스, 첫 전 직군 공채",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202610121012218479de3f0aa1be_7",
-      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202610121012218479de3f0aa1be_7",
-      "description": "토스플레이스가 법인 설립 이후 처음으로 전 직군을 대상으로 세 자릿수 규모의 공개채용에 나선다. 신입과 경력을 구분하지 않고 연차 제한을 없앤 데다 재지원 시 적용하던 6개월 제한도 풀어 지원 문턱을 낮췄다....",
-      "pubDate": "2026-10-12T01:14:00+00:00",
-      "category": "토스페이",
-      "source": "더파워"
-    },
-    {
-      "title": "토스플레이스, 법인 설립 후 첫 대규모 공채",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321869",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321869",
-      "description": "이미지=토스플레이스  토스(운영사 비바리퍼블리카)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사인 토스플레이스가 법인 설립 이래 최초로 전 직군 대상 대규모 공개채용에 돌입한다고 12일 밝혔다. 이번에 진행되는...",
-      "pubDate": "2026-10-12T00:58:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "토스플레이스, 창사 후 첫 대규모 채용… 이달 31일까지",
-      "link": "https://n.news.naver.com/mnews/article/008/0005424696?sid=101",
-      "originallink": "https://www.mt.co.kr/finance/2026/10/12/2026101209081647239",
-      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 자회사 토스플레이스가 법인 설립 이후 처음으로 전 직군 대규모 공개채용을 12일부터 진행한다. 이번 공개채용은 오는 31일까지 진행되며 세 자릿수 규모로 인재를...",
-      "pubDate": "2026-10-12T00:53:00+00:00",
-      "category": "토스페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "토스플레이스, 전 직군 신입·경력 세 자릿수 채용…10월 31일까지",
-      "link": "https://www.viva100.com/article/20261012500337",
-      "originallink": "https://www.viva100.com/article/20261012500337",
-      "description": "토스의 결제 단말기·매장관리 솔루션 자회사 토스플레이스가 법인 설립 이후 처음으로 전 직군 공개채용에 나선다. 결제 단말기에서 포스(POS)와 고객관리 등 매장 운영 솔루션 전반으로 사업 영역을 넓히면서 세 자릿수...",
-      "pubDate": "2026-10-12T00:52:00+00:00",
-      "category": "토스페이",
-      "source": "브릿지경제"
-    },
-    {
-      "title": "명륜진사갈비, 네이버페이 '페이스사인' 결제 시 10% 적립 진행",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3051957",
-      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3051957",
-      "description": "ⓒAP신문(AP뉴스) 명륜진사갈비가 네이버페이의 얼굴인식 결제 서비스인 페이스사인 이용 고객을 대상으로 결제금액의 10%를 네이버페이 포인트로 반환하는 적립 이벤트를 실시한다고 전했다. 이번 적립 서비스는...",
-      "pubDate": "2026-10-12T00:48:00+00:00",
-      "category": "네이버페이",
-      "source": "AP신문 |  온라인뉴스미디어  에이피신문"
-    },
-    {
-      "title": "명륜진사갈비, 네이버페이 '페이스사인' 결제 시 10% 적립",
-      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=419754",
-      "originallink": "https://www.bizwork.co.kr/news/articleView.html?idxno=419754",
-      "description": "페이스사인은 카드나 휴대폰을 별도로 꺼낼 필요 없이 얼굴인식만으로 결제할 수 있는 간편결제 서비스다. 이용 고객은 매장 방문 전 네이버페이 앱에서 얼굴과 결제수단을 등록하면 된다. 사전 등록을 마친 고객은 해당...",
-      "pubDate": "2026-10-12T00:36:00+00:00",
-      "category": "네이버페이",
-      "source": "비즈워크"
-    },
-    {
-      "title": "청년 취업난 속 채용문 넓힌 토스플레이스...신입·경력 세 자릿수 공채",
-      "link": "https://www.insight.co.kr/news/577315",
-      "originallink": "https://www.insight.co.kr/news/577315",
-      "description": "토스플레이스가 전 직군에서 신입과 경력을 합쳐 세 자릿수 인력을 채용한다. 모든 모집 직군에 연차 제한을 두지 않아 신입도 지원할 수 있다. 최근 지원했다가 탈락한 구직자에게도 다시 도전할 기회를 열었다.토스...",
-      "pubDate": "2026-10-12T00:34:00+00:00",
-      "category": "토스페이",
-      "source": "인사이트"
-    },
-    {
-      "title": "토스플레이스, 전 직군 공개채용…신입·경력 세 자릿수 선발",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706277",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706277",
-      "description": "토스플레이스가 법인 설립 이후 처음으로 전 직군을 대상으로 세 자릿수 규모의 공개채용에 나선다. 토스플레이스는 31일까지 비즈니스·세일즈, 데이터, 디자인, 엔지니어링, 파이낸스, 마케팅, HR, 프로덕트, 보안, 전략 등...",
-      "pubDate": "2026-10-12T00:16:00+00:00",
-      "category": "토스페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "[채용] 토스플레이스, 첫 세 자릿수 공개채용…31일까지 지원",
-      "link": "http://www.ttlnews.com/news/articleView.html?idxno=3150817",
-      "originallink": "http://www.ttlnews.com/news/articleView.html?idxno=3150817",
-      "description": "토스플레이스가 법인 설립 이후 처음으로 세 자릿수 규모의 공개채용을 진행한다. 이번 공개채용은 오는 31일까지 진행되며, 모집 직군은 ▲ 비즈니스·세일즈(Business & Sales) ▲ 데이터 ▲ 디자인 ▲ 엔지니어링...",
-      "pubDate": "2026-10-12T00:10:00+00:00",
-      "category": "토스페이",
-      "source": "퍼블릭뉴스통신(Public news-network for TTL)"
-    },
-    {
-      "title": "토스플레이스, 설립 후 첫 대규모 공채…전 직군 세 자릿수 채용",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=148915",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=148915",
-      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 법인 설립 이후 처음으로 전 직군을 대상으로 세 자릿수 규모의 공개채용에 나선다. 토스플레이스는 오는 31일까지 전 직군을...",
-      "pubDate": "2026-10-12T00:08:00+00:00",
-      "category": "토스페이",
-      "source": "직썰"
-    },
-    {
-      "title": "토스플레이스, 첫 대규모 공채 실시",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478764",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478764",
-      "description": "토스플레이스가 법인 설립 이후 처음으로 세 자릿수 규모의 공개채용에 나선다. 결제 단말기에서 매장 운영 전반으로 사업 영역을 넓히면서 개발과 영업, 데이터, 디자인 등 전 직군에 걸쳐 인력을 확보한다. 토스의 결제...",
-      "pubDate": "2026-10-12T00:05:00+00:00",
-      "category": "토스페이",
-      "source": "이뉴스투데이"
-    },
-    {
-      "title": "\"신입·경력 안 가리고 100명 이상 뽑는다\"…토스플레이스 첫 공채",
-      "link": "https://n.news.naver.com/mnews/article/421/0009221163?sid=101",
-      "originallink": "https://www.news1.kr/finance/bank/6316251",
-      "description": "토스의 오프라인 결제 사업을 담당하는 토스플레이스가 법인 설립 이후 처음으로 세 자릿수 규모의 공개채용에 나선다. 신입과 경력을 가리지 않고 사실상 전 직군에서 인재를 모집하는 대규모 채용이다. 지원자의...",
-      "pubDate": "2026-10-11T23:49:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "토스플레이스, 법인 설립 후 첫 대규모 공채…세 자릿수 채용",
-      "link": "https://n.news.naver.com/mnews/article/018/0006386220?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02184486645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "토스의 오프라인 결제 솔루션 자회사 토스플레이스가 법인 설립 이후 처음으로 대규모 공개채용에 나선다. 채용 규모는 세 자릿수로, 신입부터 경력직까지 전 직군에서 인재를 모집한다. 토스플레이스는 오는 31일까지...",
-      "pubDate": "2026-10-11T23:46:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "토스플레이스, 설립 후 첫 대규모 공채…전 직군 세 자릿수 채용",
-      "link": "https://www.ajunews.com/view/20261012081934280",
-      "originallink": "https://www.ajunews.com/view/20261012081934280",
-      "description": "경력·연차 제한 없애…계열사 중복 지원 허용 아주경제=김윤섭 기자 angks678@ajunews.com 토스플레이스가 법인 설립 후 첫 공개채용을 진행한다. [사진=토스플레이스] 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사...",
-      "pubDate": "2026-10-11T23:28:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "토스플레이스, 법인 설립 후 첫 대규모 공개채용···세 자릿수 선발",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713218",
-      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713218",
-      "description": "토스플레이스가 법인 설립 이후 처음으로 전 직군을 대상으로 세 자릿수 규모의 대규모 공개채용에 나선다. 토스플레이스는 10월31일까지 공개채용을 진행한다고 12일 밝혔다. 모집 직군은 비즈니스·세일즈, 데이터...",
-      "pubDate": "2026-10-11T23:22:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스프리존"
-    },
-    {
-      "title": "\"오프라인 결제 생태계 확장 속도전\"…토스플레이스, 법인 설립후 첫 '세...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90296",
-      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90296",
-      "description": "비바리퍼블리카(토스)의 오프라인 결제 단말기 및 포스(POS) 솔루션 자회사 토스플레이스가 법인 설립 이래 처음으로 전 직군 대상 대규모 공개채용에 나선다. 결제 단말기를 넘어 오프라인 매장 운영 전반으로 사업 영토를...",
-      "pubDate": "2026-10-11T23:14:00+00:00",
-      "category": "토스페이",
-      "source": "더페어"
-    },
-    {
-      "title": "삼성 월렛 USDC, 갤럭시 8,200만 대는 잠재 규모일 뿐…실사용자와 구분...",
-      "link": "https://www.wikitree.co.kr/articles/1165354",
-      "originallink": "https://www.wikitree.co.kr/articles/1165354",
-      "description": "삼성 월렛과 삼성페이가 솔라나(Solana) 블록체인 기반 USDC를 지원한다. 미국 내 호환 갤럭시 기기 최대 8,200만 대가 대상이며 시작 시점은 10월 마지막 주다. 이런 내용은 10월 11일(현지시각) 테크불리언(TechBullion) 보도를...",
-      "pubDate": "2026-10-11T15:10:00+00:00",
-      "category": "삼성페이",
-      "source": "위키트리"
-    },
-    {
-      "title": "광주은행, 토스와 ‘스테이블코인 QR결제’ 검증 성공",
-      "link": "http://www.jndn.com/article.php?aid=1791704721440865095",
-      "originallink": "http://www.jndn.com/article.php?aid=1791704721440865095",
-      "description": "광주은행은 은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 고객이 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR스캔 화면으로 연결되며, 가맹점...",
-      "pubDate": "2026-10-11T07:48:00+00:00",
-      "category": "토스페이",
-      "source": "jndn"
-    },
-    {
-      "title": "광주은행·토스 손잡고 '디지털 결제 실험' 성공",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=925746",
-      "originallink": "https://www.namdonews.com/news/articleView.html?idxno=925746",
-      "description": "이를 위해 양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스의 가맹점 결제 단말을 하나의 결제 과정으로 연결했다. 이용자가 광주은행 앱에서 스테이블코인 결제 메뉴를 선택하면 토스 앱의 QR코드 스캔 화면으로...",
-      "pubDate": "2026-10-11T07:06:00+00:00",
-      "category": "토스페이",
-      "source": "남도일보"
-    },
-    {
-      "title": "광주은행, 토스와 스테이블코인 결제 기술검증 성공",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871608",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871608",
-      "description": "양사는 광주은행 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 디지털자산 결제 기술을 확인했다. 11일 광주은행에 따르면 이번 검증은 가상 가맹점 환경에서 진행됐다. 고객이 광주은행 앱으로 결제하면 토스 앱...",
-      "pubDate": "2026-10-11T06:34:00+00:00",
-      "category": "토스페이",
-      "source": "한스경제"
     }
   ],
-  "lastFetch": "2026-11-10T04:40:37.107128+00:00"
+  "lastFetch": "2026-11-11T02:44:10.248104+00:00"
 }
