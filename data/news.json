@@ -1,6 +1,321 @@
 {
   "articles": [
     {
+      "title": "공정위, 네이버파이낸셜·두나무 결합 본심의 착수 \"연내 마무리\"",
+      "link": "https://www.globale.co.kr/news/articleView.html?idxno=41602",
+      "originallink": "https://www.globale.co.kr/news/articleView.html?idxno=41602",
+      "description": "국내 간편결제 1위 네이버파이낸셜과 가상자산거래소 업비트 운영사 두나무의 '빅딜'이 공정거래위원회의 최종 심판대에 올랐다. 공정위 사무처가 기존 결제·거래소 사업은 물론 양사가 추진 중인 원화 스테이블코인...",
+      "pubDate": "2026-11-12T03:34:00+00:00",
+      "category": "네이버페이",
+      "source": "글로벌E"
+    },
+    {
+      "title": "300억 걸음 모여 10억 기부... 카카오페이 'LONG RUN'에 28만명 동참",
+      "link": "https://www.insight.co.kr/news/581730",
+      "originallink": "https://www.insight.co.kr/news/581730",
+      "description": "카카오페이와 가수 션의 유튜브 채널 '션과 함께'가 손잡고 진행하는 기부 마라톤 캠페인 '2026 LONG RUN'이 온라인 대회 시작 20여 일 만에 누적 300억 걸음을 넘어서며 대한민국 단일 러닝 이벤트 최다 참가자 기록을...",
+      "pubDate": "2026-11-12T02:48:00+00:00",
+      "category": "카카오페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "카카오페이證, AI기반 이상거래탐지시스템 구축",
+      "link": "https://n.news.naver.com/mnews/article/016/0002722579?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10934947?ref=naver",
+      "description": "카카오페이증권은 인공지능(AI) 기반 이상거래탐지시스템(AI FDS)을 구축해 이달부터 거래에 적용하고 있다고 12일 밝혔다. 금융사기 수법과 범죄자금의 이동 방식이 복잡해지는 가운데, AI FDS를 축으로 이상거래 탐지와...",
+      "pubDate": "2026-11-12T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "카카오페이 LONG RUN, 300억 걸음 돌파…소상공인 기부금 10억원 확정",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579183331080",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579183331080",
+      "description": "카카오페이가 가수 션과 함께 진행하는 기부 마라톤 캠페인 2026 LONG RUN이 개막 20여 일 만에 누적 300억 걸음을 돌파하며 소상공인 지원 기부금 10억원을 확보했다. 참가자도 28만명을 넘어서며 지난해 대회 기록을...",
+      "pubDate": "2026-11-12T02:16:00+00:00",
+      "category": "카카오페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "카카오페이 걷기 캠페인 28만명 참여..소상공인 기부금 10억원 확보",
+      "link": "https://kpenews.com/View.aspx?No=4309140",
+      "originallink": "https://kpenews.com/View.aspx?No=4309140",
+      "description": "한국정경신문 이하정 기­자 sae256@hanmail.net [한국정경신문=이하정 기자] 카카오페이(대표 신원근)가 진행 중인 걷기 기부 캠페인에 28만여명이 참여하면서 소상공인 지원을 위한 기부금 10억원이 확정됐다. 온라인...",
+      "pubDate": "2026-11-12T02:02:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "카카오페이 '롱런' 28만명 참여…300억 걸음 모아 기부금 10억원 확정",
+      "link": "https://n.news.naver.com/mnews/article/119/0003154337?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1714106/?sc=Naver",
+      "description": "카카오페이의 기부 마라톤 캠페인 '2026 LONG RUN(롱런)'에 28만여명이 참여하면서 국내 단일 러닝 이벤트 최다 참가자 기록을 경신했다. 참가자들의 누적 걸음 수도 300억 걸음을 넘어서면서 소상공인 지원을 위한 기부금...",
+      "pubDate": "2026-11-12T02:01:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "카카오페이, '2026 롱런' 누적 300억 걸음 돌파",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325708",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325708",
+      "description": "이미지=카카오페이  카카오페이가 기부 마라톤 캠페인 '2026 롱런'이 뜨거운 참여 열기에 힘입어 누적 300억 걸음을 돌파하며 소상공인 지원 기부금 10억원을 최종 확정했다. 카카오페이는 가수 션의 유튜브 채널 '션과...",
+      "pubDate": "2026-11-12T01:58:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "카카오페이 ‘LONG RUN’ 누적 300억 걸음…기부금 10억원",
+      "link": "https://sateconomy.co.kr/news/view/1065576233163186",
+      "originallink": "https://sateconomy.co.kr/news/view/1065576233163186",
+      "description": "참가자 약 28만명…500억 걸음 달성 시 기부금 15억원 ▲카카오페이의 '2026 LONG RUN' 캠페인의 누적 걸음 수가 300억 걸음을 넘어섰다 [카카오페이] 카카오페이(대표 신원근)가 진행하는 ‘2026 LONG RUN’ 캠페인의...",
+      "pubDate": "2026-11-12T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "애플페이 넓히는 인뱅, 멈칫하는 카드사…수수료가 발목",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731382",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1731382",
+      "description": "카카오뱅크와 토스뱅크가 애플페이 도입에 속도를 내면서 먼저 준비해오던 카드사의 향방에 관심이 모아지고 있다. 다만 업계에선 인터넷은행의 합류가 카드사 도입을 앞당길 가능성이 크지 않다고 보고 있다....",
+      "pubDate": "2026-11-12T01:44:00+00:00",
+      "category": "애플페이",
+      "source": "EBN"
+    },
+    {
+      "title": "카카오페이證, AI로 이상 거래 탐지…주식 매도·환전까지 감시",
+      "link": "https://n.news.naver.com/mnews/article/421/0009285090?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-stock/6351557",
+      "description": "카카오페이증권은 인공지능(AI) 기반 이상거래탐지시스템 ‘AI FDS’를 구축해 이달부터 실제 거래에 적용하고 있다고 12일 밝혔다. AI FDS는 거래 정보와 금융사기 사례를 학습해 의심스러운 거래를 판별하는 시스템이다....",
+      "pubDate": "2026-11-12T01:26:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "네이버페이, 3분기 매출 4천877억…'분기 최대'",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444374",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444374",
+      "description": "단말기 보급 확대에 따른 비용 증가…수익성 부담은 과제 네이버 파이낸셜 부문이 단말기 보급 확대에... 김희철 최고재무책임자(CFO)도 \"QR 결제, 페이스사인, 머니카드, MST 결제 확대와 예약 주문 연계에 힘입어...",
+      "pubDate": "2026-11-12T01:20:00+00:00",
+      "category": "네이버페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "네이버파이낸셜 3분기 매출 4877억원 … 전년비 14.1%↑",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200049.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/12/2026111200049.html",
+      "description": "외부 결제가 늘면서 네이버페이 전체 결제액이 26조원을 넘어섰지만, 부문 이익률은 지난해 같은 기간보다 낮아졌다. 12일 네이버가 발표한 3분기 실적에 따르면 네이버파이낸셜의 올해 3분기 매출은 전년 동기...",
+      "pubDate": "2026-11-12T01:18:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "카카오페이 LONG RUN, 300억 걸음 돌파…기부금 10억원 확정",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882527",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882527",
+      "description": "카카오페이 '2026 LONG RUN'. 카카오페이 제공. | 서울=한스경제 유은주 기자 | 카카오페이가 가수 션의 유튜브 채널 '션과 함께'와 진행하는 기부 마라톤 캠페인 '2026 LONG RUN'이 누적 300억 걸음을 돌파했다. 참가자도...",
+      "pubDate": "2026-11-12T01:06:00+00:00",
+      "category": "카카오페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "카카오페이, 소상공인에 10억 기부… LONG RUN 300억 걸음 돌파",
+      "link": "https://www.g-enews.com/view.php?ud=202611120902584369cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202611120902584369cd0bfacc1c_1",
+      "description": "카카오페이가 걷기 참여를 소상공인 지원으로 연결하는 기부 캠페인을 통해 누적 기부금 10억원을 확정했다. 가수 션의 유튜브 채널과 함께 진행하는 러닝 캠페인에 28만여명이 참여해 누적 300억 걸음을 넘어선 데...",
+      "pubDate": "2026-11-12T01:00:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "한국형 결제 표준 재추진… 이번엔 모바일 간편결제에 집중",
+      "link": "https://n.news.naver.com/mnews/article/366/0001204252?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/11/12/CDF56QJBYJGPXJYPXCG6KFMSQE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "이에 여신금융협회는 이번 KLSC 보급은 모바일 간편결제에만 집중하겠다는 입장이다. 각 카드사는 신한페이·KB페이·하나원큐페이 등 자체 간편결제를 운영하고 있다. 다만 카드사별로 결제망이 달라 간편 결제를...",
+      "pubDate": "2026-11-12T01:00:00+00:00",
+      "category": "간편결제",
+      "source": "조선비즈"
+    },
+    {
+      "title": "카카오페이 ‘2026 LONG RUN’ 300억 걸음 돌파…기부금 10억원 확정",
+      "link": "https://www.socialvalue.kr/news/view/1065574353813160",
+      "originallink": "https://www.socialvalue.kr/news/view/1065574353813160",
+      "description": "카카오페이가 소상공인 지원을 위해 진행하는 기부 마라톤 캠페인 ‘2026 LONG RUN’의 누적 걸음 수가 300억 걸음을 돌파했다. 참가자는 28만여 명으로 지난해 최종 기록을 넘어섰으며, 이에 따라 소상공인 지원 기부금...",
+      "pubDate": "2026-11-12T00:56:00+00:00",
+      "category": "카카오페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "카카오페이, 만보기 마라톤에 28만명…소상공인 기부금 10억",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=563236",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=563236",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 가수 션의 유튜브 채널 '션과 함께'와 여는 소상공인 상생 기부 마라톤 '2026 LONG RUN'이 누적 300억 걸음을 넘어서며 소상공인 지원 기부금 10억원을 확정했다고 12일...",
+      "pubDate": "2026-11-12T00:50:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "[컨콜] 네이버 \"Npay 커넥트 설치 매장, 예약 상품 도입 최대 2배 증가\"",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731371",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1731371",
+      "description": "확보하기 위한 투자\"라며 \"보급 기반이 일정 궤도에 오르면 초기 설치에 따른 비용 부담도 점차 안정화될 것\"이라고 말했다. 네이버파이낸셜은 내년 상반기 활성 단말기 기준 국내 1위 사업자로 도약한다는 목표다.",
+      "pubDate": "2026-11-12T00:40:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "카카오페이 ‘2026 LONG RUN’, 누적 300억 걸음 돌파",
+      "link": "https://n.news.naver.com/mnews/article/018/0006408640?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02519046645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "카카오페이(377300)가 가수 션의 유튜브 채널 ‘션과 함께’와 개최한 온·오프라인 연계 기부 마라톤 캠페인 ‘2026 LONG RUN’이 누적 걸음 수 300억 걸음을 돌파했다. 이번 목표 달성으로 소상공인 지원을 위한 누적...",
+      "pubDate": "2026-11-12T00:35:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "28만명 달린 카카오페이 기부 마라톤…누적 300억 걸음 돌파로 기부금 ...",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87612",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87612",
+      "description": "카카오페이가 가수 션과 공동 기획한 소상공인 상생 마라톤 캠페인 2026 롱런(LONG RUN)이 누적 300억 걸음을 달성하며 역대급 흥행을 이어가고 있다. 단일 대회 최다 인원 참가 12일 카카오페이에 따르면 지난달 20일...",
+      "pubDate": "2026-11-12T00:32:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "300억 걸음 모인 카카오페이 '롱런'…소상공인 기부금 10억 원 확정",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=139719",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=139719",
+      "description": "카카오페이가 기부 마라톤 '2026 롱런(LONG RUN)'을 통해 소상공인에게 10억 원을 기부한다. 참가자들이 모은 걸음이 두 번째 목표인 300억 걸음을 넘어서면서 카카오페이가 약속한 기부금이 5억 원에서 10억 원으로...",
+      "pubDate": "2026-11-12T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "핀테크연구소, 유튜브 '핀테크TV' 개설…금융 대중화 나선다",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=397650",
+      "originallink": "https://www.fntoday.co.kr/news/articleView.html?idxno=397650",
+      "description": "모바일뱅킹과 간편결제, 비대면 대출 등 디지털 금융서비스가 확대되면서 금융거래의 편의성은 높아졌지만, 새로운 금융서비스에 익숙하지 않은 이용자에게는 또 다른 부담으로 작용할 수 있다. 특히 시니어층은 디지털...",
+      "pubDate": "2026-11-12T00:06:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸스투데이"
+    },
+    {
+      "title": "카카오페이, 만보기 300억 걸음 모아 소상공인 기부금 10억원 확정",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=756939",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=756939",
+      "description": "카카오페이가 12일 가수 션의 유튜브 채널 '션과 함께'와 진행 중인 온·오프라인 연계 기부 마라톤 캠페인 '2026 LONG RUN'이 누적 300억 걸음을 달성해 소상공인 지원 기부금 총 10억원을 확정했다고 밝혔다. 참가자 수도...",
+      "pubDate": "2026-11-12T00:04:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "NH농협카드, 중국 간편결제 수수료 면제…대만 최대 50% 할인",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=563177",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=563177",
+      "description": "현지 간편결제 수수료부터 공항철도 요금까지 여행 동선마다 혜택을 배치해 해외 결제 카드로 선택받으려는 전략이다. NH농협카드 관계자는 \"중국과 대만 여행객 급증과 연말 해외직구 수요가 늘어남에 따라...",
+      "pubDate": "2026-11-12T00:04:00+00:00",
+      "category": "간편결제",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "가민, 간편결제 서비스 ‘가민 페이’ 국내 첫 선보여",
+      "link": "https://n.news.naver.com/mnews/article/119/0003154214?sid=103",
+      "originallink": "https://www.dailian.co.kr/news/view/1713953/?sc=Naver",
+      "description": "스마트 기기 시장을 선도하는 Garmin(가민)이 티머니(Tmoney) 결제 서비스를 탑재한 간편결제 서비스 ‘가민 페이(Garmin Pay)’를 국내 공식 출시했다. 가민 페이는 별도의 카드나 스마트폰을 꺼낼 필요 없이 손목의...",
+      "pubDate": "2026-11-11T23:58:00+00:00",
+      "category": "간편결제",
+      "source": "데일리안"
+    },
+    {
+      "title": "핀테크 증권사 반대매매 대응법…카카오證 유예·토스證 기준 유지",
+      "link": "https://n.news.naver.com/mnews/article/421/0009284468?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-stock/6351062",
+      "description": "카카오페이증권 등 핀테크 증권사도 주식 강제 처분을 늦춰 투자자의 대응 시간을 늘리는 데 동참했다. 12일 금융위원회 등에 따르면 증권회사의 신용공여 담보비율 유지 의무를 이달 9일부터 내년 1월 31일까지...",
+      "pubDate": "2026-11-11T21:00:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "[김의석의 단상] 애플페이 앞에 선 박창훈의 딜레마",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611111626446790fa40c35055_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611111626446790fa40c35055_18",
+      "description": "반면 빅테크 자회사인 카카오뱅크와 토스뱅크는 연내 애플페이 도입을 추진하면서 현대카드가 3년여간 누려온 국내 독점 체제도 깨질 가능성이 커졌다. 애플페이를 도입하는 기술이 어려운 게 아니다. 얼마를 내고 무엇을...",
+      "pubDate": "2026-11-11T20:00:00+00:00",
+      "category": "애플페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "원화 스테이블코인 은행이 발행하면⋯충전ㆍ결제 시장 각축전 예고",
+      "link": "https://www.etoday.co.kr/news/view/2646772",
+      "originallink": "https://www.etoday.co.kr/news/view/2646772",
+      "description": "은행이 코인을 발행하더라도 소비자와 가맹점을 연결하는 역할은 거래소·간편결제사 등이 맡을 수 있어, 고객 접점과 사용처 확보가 주요 경쟁력으로 작용할 것이라는 관측이 나온다. 11일 가상자산 업계에 따르면 이달...",
+      "pubDate": "2026-11-11T20:00:00+00:00",
+      "category": "간편결제",
+      "source": "이투데이"
+    },
+    {
+      "title": "\"애플페이 특수 끝나나\"…현대카드, 점유율 방어 시험대",
+      "link": "https://n.news.naver.com/mnews/article/629/0000551060?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2387416.htm",
+      "description": "◆ 애플페이 등에 업고 점유율 확대…경쟁사와 격차 좁혀 카카오뱅크와 토스뱅크가 애플페이 서비스를 시작하면 지난 2023년부터 3년여간 지속된 현대카드의 독점 체제가 깨진다. 당시 금감원은 애플페이 국내 도입을...",
+      "pubDate": "2026-11-11T15:01:00+00:00",
+      "category": "애플페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "[가봤다] \"얼굴만 보여주면 결제 끝\"...커피 향 속 피어난 네이버페이의...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=157215",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=157215",
+      "description": "이어 \"제주도는 특히 외국인이 많이 방문하는 만큼 애플페이나 알리페이와도 연동돼 간단하게 터치로도 결제가 되는 만큼 외국인 관광객들도 편리하게 이용하는 모습을 볼 수 있었다\"고 덧붙였다. '장사노트'를 꾸미고 있는...",
+      "pubDate": "2026-11-11T09:02:00+00:00",
+      "category": "네이버페이",
+      "source": "테크M"
+    },
+    {
+      "title": "주가 맞히면 포인트…카카오페이 '오늘의 예감'에 폴리마켓 유사 지적",
+      "link": "https://n.news.naver.com/mnews/article/001/0016436724?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20261111153600017?input=1195m",
+      "description": "엔비디아 주가 예측에 1만6천여명 참여…해당 문항 보상 총 10만 포인트 카카오페이 \"사용자 자금 투입안돼…폴리마켓과 크게 달라\" 한상용 박수현 기자 = 카카오페이가 주가 등락 등 미래 사건의 결과를 맞히면...",
+      "pubDate": "2026-11-11T08:41:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[마켓+] 인뱅發 '애플페이 도입설' 솔솔···현대카드 독점 깨질까",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=642572",
+      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=642572",
+      "description": "네이버페이나 카카오페이도 결제 수단으로 카드를 등록하거나 신규 가입하는 고객에게 혜택을 제공하며 이용자를 늘리고 있다. 일정한 마케팅 비용을 부담하더라도 플랫폼에 고객을 유입시켜 지속적인 이용을 유도하는...",
+      "pubDate": "2026-11-11T08:34:00+00:00",
+      "category": "애플페이",
+      "source": "서울파이낸스"
+    },
+    {
+      "title": "예금 비교·추천 제도권 편입…핀테크, 상품 경쟁서 '추천 신뢰' 경쟁으...",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194501",
+      "originallink": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194501",
+      "description": "카카오페이는 올해 3분기 연결 기준 금융 서비스 매출이 1334억원으로 전년 동기 대비 41% 증가했다. 같은 기간 결제 서비스 매출은 1547억원으로 19% 늘었다. 금융 서비스 부문의 성장세가 결제보다 가팔랐지만, 해당 매출에는...",
+      "pubDate": "2026-11-11T07:48:00+00:00",
+      "category": "간편결제",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "'삼성 눈치보기' 언제까지…애플페이 두고 인뱅 선택은?",
+      "link": "https://theviewers.co.kr/View.aspx?No=4307790",
+      "originallink": "https://theviewers.co.kr/View.aspx?No=4307790",
+      "description": "국내 간편결제 시장내 삼성페이가 차지하는 위상 때문이다. 카드사에 이어 인터넷은행까지 삼성페이 눈치를... 토스뱅크 역시 애플페이 도입 준비를 마치고 출시 시점을 조율 중이다. 두 인터넷은행 모두 기술적인 준비는...",
+      "pubDate": "2026-11-11T06:16:00+00:00",
+      "category": "애플페이",
+      "source": "theviewers"
+    },
+    {
+      "title": "비에이치소프트 ‘에듀OK’, 번호 인증부터 토스플레이스 제휴 얼굴인식...",
+      "link": "https://www.globalepic.co.kr/view.php?ud=20261111150603712148439a4874_29",
+      "originallink": "https://www.globalepic.co.kr/view.php?ud=20261111150603712148439a4874_29",
+      "description": "학생이 직접 누르는 번호 인증과 토스플레이스 제휴로 도입된 얼굴인식 서비스 ‘페이스패스(FacePass)’를 자유롭게 교차 운용할 수 있다. 채현철 경영지원실 실장은 \"학원 현장의 행정 인프라와 원생 특성을...",
+      "pubDate": "2026-11-11T06:08:00+00:00",
+      "category": "토스페이",
+      "source": "글로벌에픽"
+    },
+    {
       "title": "카카오페이, ESG 평가 통합 A등급 획득",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325546",
       "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325546",
@@ -961,7 +1276,7 @@
       "description": "애플페이 연동 관련 안내 이미지./애플 홈페이지 갈무리 카카오뱅크와 토스뱅크가 연내 애플페이 도입을 추진하면서 카드업계의 셈법이 복잡해지고 있다. 애플페이 확산에 따른 경쟁 압박이 커질 것으로 예상되나 여전히...",
       "pubDate": "2026-11-10T01:22:00+00:00",
       "category": "애플페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "네이버페이, ‘2026 서울카페쇼’ 참가…‘Npay 커넥트’ 사업 알려",
@@ -2779,7 +3094,7 @@
       "description": "이미지=아이클릭아트-전년比 105% 증가…매출 3021억원·순이익 329억원 -전체 거래액 53조7000억원…결제 서비스 25% 성장 -일간 이용자 첫 700만명 돌파…금융 매출 41% 증가 -카카오페이증권 영업익 157억원…주식...",
       "pubDate": "2026-11-03T15:50:00+00:00",
       "category": "카카오페이",
-      "source": "jndmnews"
+      "source": "kjdaily"
     },
     {
       "title": "카카오페이, 3분기 거래액 53.7조 매출 3,021억",
@@ -5290,7 +5605,7 @@
       "description": "최명희 BNK경남은행 개인고객그룹 그룹장(왼쪽)과 김정열 토스플레이스 부대표가 기념촬영을 하고 있다./BNK경남은행 BNK경남은행이 지역 소상공인의 결제서비스 이용 편의성 확대를 위해 토스플레이스와 협력한다....",
       "pubDate": "2026-10-28T06:00:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "BNK경남은행, 토스와 지역 소상공인 지원 확대 맞손",
@@ -6217,7 +6532,7 @@
       "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 '삼성월렛 머니'로 결제할 수 있게 됐다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 상점의 QR 코드를 직접 스캔하는 방식으로...",
       "pubDate": "2026-10-27T01:18:00+00:00",
       "category": "삼성페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "중국서 삼성월렛 결제, 차량 점검은 앱으로… 고객 서비스 다변화",
@@ -8692,7 +9007,7 @@
       "description": "이용 방법은 간편하다. 고객은 별도의 현지 결제 앱을 설치하거나 여권 및 신용카드 등 개인정보를 추가로 등록할 필요없이 중국 현지 가맹점에 비치된 QR코드를 KB스타뱅킹으로 스캔해 결제하면 된다. 또한 직접...",
       "pubDate": "2026-10-22T07:08:00+00:00",
       "category": "간편결제",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "현장 간편결제 확산 제자리… 금융당국 \"제도 개선 검토\" [국감2026]",
@@ -8980,7 +9295,7 @@
       "description": "삼성월렛 머니·포인트는 삼성 월렛에 탑재된 충전식 간편결제 서비스다. 이용자가 머니를 충전해 결제하고... 결제 시 즉석 당첨 응모권 추가 지급 등 등급별 혜택이 제공된다. 영 등급 고객에게는 삼성 월렛으로 토스...",
       "pubDate": "2026-10-22T04:48:00+00:00",
       "category": "삼성페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "삼성전자 '삼성월렛 머니·포인트', 출시 1년 만에 가입자 300만 돌파",
@@ -9286,7 +9601,7 @@
       "description": "카카오페이·네이버페이·삼성페이·애플페이와 위챗페이·알리페이 등 간편 결제도 쓸 수 있다. 이번 도입으로 승객은 현금 없이 카드나 모바일 간편 결제로 1회권을 살 수 있게 됐다. 공사는 비정기 이용객과 외국인...",
       "pubDate": "2026-10-22T00:54:00+00:00",
       "category": "간편결제",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "삼성전자, ‘삼성월렛 머니·포인트’ 출시 1주년 가입자 300만명 돌파",
@@ -12689,646 +13004,7 @@
       "pubDate": "2026-10-13T05:00:00+00:00",
       "category": "카카오페이",
       "source": "뉴스토마토"
-    },
-    {
-      "title": "컴포즈커피, 카카오페이와 10월 제휴 프로모션 진행…첫 결제 시 '아아'...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494830",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494830",
-      "description": "컴포즈커피, 카카오페이와 10월 제휴 프로모션 진행…첫 결제 시 '아아' 쿠폰 증정·전 상품 10% 할인. 사진= 컴포즈커피. 커피 프랜차이즈의 결제 제휴가 신규 이용자 유입과 기존 고객의 구매 부담을 낮추는 수단으로...",
-      "pubDate": "2026-10-13T02:56:00+00:00",
-      "category": "카카오페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "카페인중독, 네이버 Npay 커넥트 결제 고객 대상 적립 프로모션 진행",
-      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069416",
-      "originallink": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069416",
-      "description": "혜택은 1인당 주 1회 적용되며, 포인트·머니 결제 방식은 Npay QR이나 삼성페이, 네이버페이(Npay)의 안면인식결제 서비스 '페이스사인' 결제 등 모두 무방하다. 특히 별도의 쿠폰을 구매하거나 추후 사용할 수 있는...",
-      "pubDate": "2026-10-13T02:54:00+00:00",
-      "category": "네이버페이",
-      "source": "경상일보"
-    },
-    {
-      "title": "네이버-네이버페이, 소상공인 ‘디지털 전환’ 돕는다…“상생 협력”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003754568?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20261013/134831974/1",
-      "description": "네이버와 네이버페이(Npay)가 소상공인의 디지털 전환을 돕기 위해 소상공인연합회·대한제과협회와 손을 잡았다고 13일 밝혔다. 소상공인의 지속 가능한 성장 기반을 마련하는 데도 협력하기로 했다. 앞으로도 현장에서...",
-      "pubDate": "2026-10-13T02:21:00+00:00",
-      "category": "네이버페이",
-      "source": "동아일보"
-    },
-    {
-      "title": "네이버 Npay, 소상공인연합회·제과협회와 디지털 전환 지원 협약",
-      "link": "https://www.sentv.co.kr/article/view/sentv202610130072",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202610130072",
-      "description": "네이버와 네이버페이(Npay)가 소상공인 단체들과 손잡고 매장 결제 환경 개선과 온라인 판로 확대를 지원한다. 디지털 결제 단말기 보급부터 매출 데이터 활용, 마케팅 교육까지 협력 범위를 넓힌다. 네이버와 Npay는...",
-      "pubDate": "2026-10-13T02:14:00+00:00",
-      "category": "네이버페이",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "네이버·네이버페이, 소상공인 디지털 전환 지원…제과협회 등과 협약",
-      "link": "http://www.paxetv.com/news/articleView.html?idxno=283963",
-      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=283963",
-      "description": "네이버와 네이버페이가 소상공인연합회, 대한제과협회와 소상공인 디지털 전환을 위한 업무협약을 체결했습니다. 제과·제빵 매장 등에 통합 결제 단말기 'Npay 커넥트' 도입을 지원하고 매출과 지역 상권 데이터를 활용한...",
-      "pubDate": "2026-10-13T01:50:00+00:00",
-      "category": "네이버페이",
-      "source": "팍스경제TV"
-    },
-    {
-      "title": "카카오페이, 장중 신저가 추락…LS증권 목표주가 하향에 실적 우려까지",
-      "link": "https://n.news.naver.com/mnews/article/629/0000541431?sid=101",
-      "originallink": "https://news.tf.co.kr/read/economy/2375511.htm",
-      "description": "장중 3만6350원까지 밀려…상장 초기 고점 대비 85% 넘게 하락 LS증권, 목표주가 6만1000원→5만7000원 하향 조정 카카오페이가 장중 신저가를 기록하며 하락세를 이어가고 있다. 증권 거래대금 감소에 따른 실적...",
-      "pubDate": "2026-10-13T01:47:00+00:00",
-      "category": "카카오페이",
-      "source": "더팩트"
-    },
-    {
-      "title": "컴포즈커피, 10월 카카오페이 첫 결제 시 '아아' 쿠폰 증정",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=554412",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=554412",
-      "description": "[사진=컴포즈커피]  커피 프랜차이즈 컴포즈커피가 카카오페이 이용 고객을 대상으로 혜택 강화에 나선다. 10월 첫 결제 고객에게 쿠폰 증정과 전 상품 할인을 제공해 합리적인 소비를 지원한다는 전략이다. 13일...",
-      "pubDate": "2026-10-13T01:42:00+00:00",
-      "category": "카카오페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "컴포즈커피, 카카오페이 제휴 프로모션 진행…쿠폰 증정 및 10% 할인",
-      "link": "https://www.betanews.net/article/view/beta202610130042",
-      "originallink": "https://www.betanews.net/article/view/beta202610130042",
-      "description": "컴포즈커피는 카카오페이와 손잡고 결제 혜택을 제공하는 제휴 프로모션을 진행한다고 13일 밝혔다. 이번 행사는 카카오페이 이용 고객의 결제 혜택을 늘려 합리적인 소비를 지원하기 위해 마련됐다. 31일까지 전국...",
-      "pubDate": "2026-10-13T01:26:00+00:00",
-      "category": "카카오페이",
-      "source": "베타뉴스"
-    },
-    {
-      "title": "5대 은행 간편송금 지급정지, 카카오페이 경유 ‘절반 이상’…피해금...",
-      "link": "https://n.news.naver.com/mnews/article/117/0004114541?sid=103",
-      "originallink": "https://www.mydaily.co.kr/page/view/2026101309541895786",
-      "description": "5대 은행이 간편송금 서비스를 거친 보이스피싱 피해와 관련해 지급정지 건수 가운데 절반 이상이 카카오페이 경유 거래인 것으로 나타났다. 피해금액 비중도 79%에 달했다. 13일 국회 정무위원회 소속 서일준...",
-      "pubDate": "2026-10-13T01:17:00+00:00",
-      "category": "카카오페이",
-      "source": "마이데일리"
-    },
-    {
-      "title": "5대은행 간편송금 피싱 지급정지 59%가 카카오페이 경유…금액은 79%",
-      "link": "https://sateconomy.co.kr/news/view/1065574358622614",
-      "originallink": "https://sateconomy.co.kr/news/view/1065574358622614",
-      "description": "2024년 9월~올해 6월 누적 기준 상반기 전체 지급정지 3273건…전년보다 3.5배 건당 피해금 321만원→110만원…소액 다건화 ▲ 카카오페이 5대 은행의 간편송금 관련 보이스피싱 지급정지 가운데 카카오페이를 거친...",
-      "pubDate": "2026-10-13T01:16:00+00:00",
-      "category": "카카오페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "지갑도 휴대폰도 필요 없다…네이버페이, 얼굴결제 시장 공략 본격화",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=156016",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=156016",
-      "description": "간편결제 시장의 경쟁이 모바일 결제를 넘어 생체인증 기반의 오프라인 결제로 확대되는 가운데 네이버페이가 얼굴결제 대중화에 승부수를 던졌다는 평가다. 13일 네이버페이에 따르면 오는 11월 30일까지 전국 'Npay...",
-      "pubDate": "2026-10-13T01:10:00+00:00",
-      "category": "네이버페이",
-      "source": "테크M"
-    },
-    {
-      "title": "네이버·토스 왜 싸우나…이면엔 ‘데이터 주도권’ 경쟁",
-      "link": "https://n.news.naver.com/mnews/article/009/0005747601?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12174177",
-      "description": "증인으로 출석한 최재호 토스플레이스 대표는 “2년 전부터 네이버에 포스 연동을 지속해서 요청해 왔지만 명확한 기준이나 설명을 듣지 못했다”고 주장했다. 네이버 측은 특정 사업자를 배제한 것이 아니라 내부 기준에...",
-      "pubDate": "2026-10-13T00:48:00+00:00",
-      "category": "토스페이",
-      "source": "매일경제"
-    },
-    {
-      "title": "컴포즈커피, 카카오페이와 프로모션...전상품 10% 할인 外",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=772963",
-      "originallink": "https://www.slist.kr/news/articleView.html?idxno=772963",
-      "description": "컴포즈커피가 카카오페이와 손잡고 10월 제휴 프로모션을 진행한다. 사진=컴포즈커피 먼저 10월 31일까지 전국 컴포즈커피 매장에서 카카오페이로 10월 첫 결제 시 1,800원 이상 결제한 고객에게 아이스 아메리카노...",
-      "pubDate": "2026-10-13T00:42:00+00:00",
-      "category": "카카오페이",
-      "source": "싱글리스트"
-    },
-    {
-      "title": "KT, Google AI 구독 상품 8종 출시…신규 고객 네이버페이 최대 1만원 혜...",
-      "link": "https://www.etoday.co.kr/news/view/2634994",
-      "originallink": "https://www.etoday.co.kr/news/view/2634994",
-      "description": "네이버페이 포인트를 제공하는 프로모션을 마련했다. KT가 Google AI와 다양한 생활 혜택을 결합한... 다이소·GS25·올리브영·카카오 이모티콘 플러스·스노우(SNOW) VIP 등 5종의 생활 혜택 중 하나를 선택하는...",
-      "pubDate": "2026-10-13T00:18:00+00:00",
-      "category": "네이버페이",
-      "source": "이투데이"
-    },
-    {
-      "title": "컴포즈커피, 카카오페이와 10월 제휴 프로모션 진행",
-      "link": "http://www.beyondpost.co.kr/view.php?ud=20261013090444436046a9e4dd7f_30",
-      "originallink": "http://www.beyondpost.co.kr/view.php?ud=20261013090444436046a9e4dd7f_30",
-      "description": "컴포즈커피가 카카오페이와 함께 10월 제휴 프로모션을 진행한다고 13일 밝혔다. 오는 31일까지 전국 컴포즈커피 매장에서 카카오페이로 10월 첫 결제를 한 고객에게 아이스 아메리카노 모바일 쿠폰을 제공한다. 1800원...",
-      "pubDate": "2026-10-13T00:08:00+00:00",
-      "category": "카카오페이",
-      "source": "비욘드포스트"
-    },
-    {
-      "title": "\"카카오페이 등 간편송금 피싱 지급정지 3천건\"…'소액 다건'으로 번지...",
-      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=65649",
-      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=65649",
-      "description": "올해 상반기 카카오페이·네이버페이·토스 등 간편송금 서비스를 악용한 보이스피싱 피해가 급증하면서 5대 시중은행이 계좌 지급정지 조치를 내린 건수가 3천건을 넘어선 것으로 나타났다. 피해금 규모는...",
-      "pubDate": "2026-10-13T00:06:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스로드"
-    },
-    {
-      "title": "컴포즈커피, 10월 카카오페이 첫 결제 고객에 '아아' 쿠폰 증정",
-      "link": "https://n.news.naver.com/mnews/article/421/0009223747?sid=101",
-      "originallink": "https://www.news1.kr/industry/distribution/6317737",
-      "description": "컴포즈커피는 10월 중 카카오페이로 1800원 이상 처음 결제한 고객에게 아이스 아메리카노 모바일 쿠폰을 증정한다고 13일 밝혔다. 쿠폰은 카카오페이 쿠폰 함을 통해 지급되며 카카오페이를 처음 이용하는 고객도...",
-      "pubDate": "2026-10-12T23:59:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "LS증권 \"카카오페이 목표주가 하향, 증권 수수료 감소에 매출 추정치 낮...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=449130",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=449130",
-      "description": "카카오페이가 증권 거래대금 감소 영향에 3분기 시장 기대에 미치지 못하는 실적을 낸 것으로 분석됐다. 선유진 LS증권 연구원은 13일 카카오페이 목표주가를 기존 6만1천 원에서 5만7천 원으로 낮춰 잡았다....",
-      "pubDate": "2026-10-12T23:58:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈니스포스트"
-    },
-    {
-      "title": "헥토파이낸셜, 간편현금결제 서비스 재개…3분기 실적 개선 기대",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=750658",
-      "originallink": "http://www.newsprime.co.kr/news/article.html?no=750658",
-      "description": "LS증권은 13일 헥토파이낸셜(234340)에 대해 신규 간편현금결제 서비스 재개에 따른 수익성 회복으로 3분기 실적 개선이 기대되는 가운데 크로스보더 정산 사업 확대와 디지털자산 결제 네트워크 구축이 중장기...",
-      "pubDate": "2026-10-12T23:46:00+00:00",
-      "category": "간편결제",
-      "source": "프라임경제"
-    },
-    {
-      "title": "[모닝 리포트] \"카카오페이, 실적 쉬어가도 플랫폼 확장\"",
-      "link": "https://www.newspim.com/news/view/20261013000106",
-      "originallink": "https://www.newspim.com/news/view/20261013000106",
-      "description": "이나영 기자 설희 인턴기자= LS증권은 13일 카카오페이에 대해 증권 거래대금 감소로 3분기 실적은 시장 기대치를 밑돌겠지만 결제와 대출, 보험 등 플랫폼 전반의 성장 흐름은 이어질 것으로 전망해 투자의견 '매수(Buy)...",
-      "pubDate": "2026-10-12T23:44:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "보이스피싱 피해 급증, 간편송금 사용 주의보 – 카카오페이·토스 피해...",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=881162",
-      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=881162",
-      "description": "특히, 카카오페이를 통한 보이스피싱 피해가 가장 두드러졌는데, 5대 은행이 지급정지한 전체 건수의 59%를 차지했다. 금액 기준으로는 더 큰 비중을 차지하며, 관련 피해가 심각한 수준임을 보여준다. 또한, 토스와...",
-      "pubDate": "2026-10-12T23:40:00+00:00",
-      "category": "카카오페이",
-      "source": "공감신문"
-    },
-    {
-      "title": "네이버와 토스플레이스의 갈등, 공정위 조사 착수…결제 시스템 불공정...",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=881151",
-      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=881151",
-      "description": "토스플레이스의 최재호 대표는 지난 2년간 네이버와의 매장 관리 플랫폼 연동에서 명확한 기준 없이 배제되었다고 주장했다. 이에 대해 네이버는 사실이 아니라고 반박하며, 공정거래위원회가 이 사안을 조사할 계획임을...",
-      "pubDate": "2026-10-12T23:38:00+00:00",
-      "category": "토스페이",
-      "source": "공감신문"
-    },
-    {
-      "title": "[2026 국정감사] 네이버 토스 POS 공방 '투닥투닥'",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=753351",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=753351",
-      "description": "주병기 공정거래위원장은 12일 국회 정무위원회 국정감사에 출석해 네이버와 토스플레이스의 포스 연동 갈등과 관련해 네이버의 자사 우대와 경쟁 사업자에 대한 불공정한 차별이 있었는지 살펴보겠다고 밝혔다....",
-      "pubDate": "2026-10-12T23:20:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "[핀테크핫이슈] 금융권 국감 '해킹·ETF' 공방…디지털자산 제도화 막바...",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706452",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706452",
-      "description": "네이버파이낸셜의 두나무 완전자회사 편입을 위한 주식교환 일정이 관계 당국의 심사 등으로 내년 3월31일로 다시 연기됐다. 또한 두나무는 업비트 계정과 API 키 대여·구매를 유도하는 사례가 늘자 투자자 주의를...",
-      "pubDate": "2026-10-12T22:30:00+00:00",
-      "category": "간편결제",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "삼성SDS, 10월 IT서비스 브랜드평판 1위…현대오토에버·카카오페이 2·...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494626",
-      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494626",
-      "description": "현대오토에버와 카카오페이가 뒤를 이었다. IT서비스 상장기업 브랜드 빅데이터는 한 달 전보다 17.91% 증가했다. 브랜드소통과 브랜드확산 지표가 큰 폭으로 상승한 가운데 상위 5개 기업의...",
-      "pubDate": "2026-10-12T21:56:00+00:00",
-      "category": "카카오페이",
-      "source": "핀포인트뉴스"
-    },
-    {
-      "title": "\"직원 절반 규모 뽑는다\"…AI 채용 한파에도 토스플레이스 '세 자릿수 공...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009223574?sid=101",
-      "originallink": "https://www.news1.kr/finance/bank/6317374",
-      "description": "인공지능(AI) 확산에 따른 청년 고용 한파가 몰아치는 분위기 속에서 비바리퍼블리카(토스) 자회사 토스플레이스가 대규모 채용에 나섰다. 토스플레이스는 전체 임직원 규모의 절반에 이르는 세 자릿수 채용을 통해 결제...",
-      "pubDate": "2026-10-12T21:20:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "국감장 나온 토스 \"네이버, POS 연동 2년간 퇴짜\"···네이버는 \"자체 주...",
-      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=424262",
-      "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=424262",
-      "description": "이상철 네이버 플레이스 사업부문장과 최재호 토스플레이스 대표는 이날 '특정 업체 POS기 사용 소상공인에 대한 차별 문제'와 관련한 증인으로 출석했다. 송언석 국민의힘 의원은 최 대표를 상대로 POS 연동 요청 경위와...",
-      "pubDate": "2026-10-12T12:10:00+00:00",
-      "category": "토스페이",
-      "source": "시사저널e"
-    },
-    {
-      "title": "네이버 POS 연동에 토스만 빠졌다?…국감서 불공정 논란",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727494",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1727494",
-      "description": "네이버와 토스플레이스의 판매시점정보관리시스템(POS) 연동을 둘러싼 갈등이 국회 국정감사에서 쟁점으로 떠올랐다. 토스플레이스는 네이버가 2년 넘게 명확한 기준 없이 연동 요청을 받아들이지 않았다고 주장한...",
-      "pubDate": "2026-10-12T11:08:00+00:00",
-      "category": "토스페이",
-      "source": "EBN"
-    },
-    {
-      "title": "토스 \"네이버, 2년째 POS 연동 거부\"···공정위, 조사 검토",
-      "link": "https://n.news.naver.com/mnews/article/422/0000914865?sid=101",
-      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261012190314wqT",
-      "description": "최재호 토스플레이스 대표가 네이버의 매장 관리 플랫폼 연동 과정에서 2년 넘게 명확한 기준 없이 배제당했다고 밝혔습니다. 이에 대해 네이버는 토스플레이스의 이러한 입장에 대해 사실이 아니라고 반박했습니다....",
-      "pubDate": "2026-10-12T10:04:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스TV"
-    },
-    {
-      "title": "[국감 2026] 국회 덮친 포스 갈등…토스 \"2년째 배제\" vs 네이버 \"사실무...",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=279938",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=279938",
-      "description": "12일 열린 국회 정무위원회 국정감사에서 결제 단말기인 포스 연동 문제를 두고 토스플레이스와 네이버가 정면으로 충돌했다. 최재호 토스플레이스 대표는 이날 국정감사에 출석해 \"2년 전부터 네이버에 포스 연동을...",
-      "pubDate": "2026-10-12T10:04:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "[포토] 답변하는 최재호 토스플레이스 대표",
-      "link": "https://www.ajunews.com/view/20261012185317869",
-      "originallink": "https://www.ajunews.com/view/20261012185317869",
-      "description": "아주경제=유대길 기자 dbeorlf123@ajunews.com 최재호 토스플레이스 대표가 12일 서울 여의도 국회에서 열린 정무위원회 국정감사에서 의원 질의에 답하고 있다. 2026.10.12",
-      "pubDate": "2026-10-12T09:54:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "주병기, 네이버·토스 POS 연동 갈등에 “불공정한 차별 있는지 살펴봐...",
-      "link": "https://www.kukinews.com/article/view/kuk202610120244",
-      "originallink": "https://www.kukinews.com/article/view/kuk202610120244",
-      "description": "쿠키뉴스=김미현 기자 | 주병기 공정거래위원장은 12일 네이버와 토스플레이스 간 포스(POS) 연동 갈등에 대해 “네이버의 자사 우대, 그리고 경쟁 사업자에 대한 불공정한 차별이 있는지 살펴봐야 할 것 같다”고 밝혔다....",
-      "pubDate": "2026-10-12T09:38:00+00:00",
-      "category": "토스페이",
-      "source": "kukinews"
-    },
-    {
-      "title": "토스플레이스·네이버 POS 연동 공방…공정위, 자사 우대 여부 검토",
-      "link": "https://n.news.naver.com/mnews/article/374/0000537375?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000339483?division=NAVER",
-      "description": "최재호 토스플레이스 대표가 네이버의 매장 관리 플랫폼 연동 과정에서 2년 넘게 명확한 기준 없이 배제당했다고 밝힌 가운데 네이버는 토스플레이스의 이러한 입장에 대해 사실이 아니라고 반박했습니다. 주무부처인...",
-      "pubDate": "2026-10-12T09:19:00+00:00",
-      "category": "토스페이",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "광주은행, 토스 연계 스테이블코인 QR결제 기술 검증 완료",
-      "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=183900",
-      "originallink": "http://www.newsmaker.or.kr/news/articleView.html?idxno=183900",
-      "description": "양사는 광주은행 모바일 앱과 토스 앱, 토스플레이스 결제 단말을 연계해 스테이블코인 기반 QR결제 과정을 구현했다. 이용자가 광주은행 앱에서 스테이블코인 결제를 선택하면 토스 앱의 QR 스캔 화면으로 연결되고...",
-      "pubDate": "2026-10-12T09:14:00+00:00",
-      "category": "토스페이",
-      "source": "Ŀ"
-    },
-    {
-      "title": "[2026 국감] POS 연동 공방…토스 \"2년째 요청\" vs 네이버 \"사실과 달라...",
-      "link": "https://n.news.naver.com/mnews/article/629/0000541306?sid=105",
-      "originallink": "https://news.tf.co.kr/read/economy/2375368.htm",
-      "description": "최재호 대표 \"2년째 연동 요청에도 특별한 기준도 못 들어\" 네이버 \"플레이스플러스 POS 연동은 지난해 6월 도입…순차적 진행\" 네이버와 토스플레이스 간 POS 연동 문제가 국정감사에서 제기됐다. 토스플레이스는 연동을...",
-      "pubDate": "2026-10-12T09:13:00+00:00",
-      "category": "토스페이",
-      "source": "더팩트"
-    },
-    {
-      "title": "최재호 토스플레이스 대표 “토스포스 2년 째 연동 안돼…기준 듣지 못...",
-      "link": "https://www.fntimes.com/html/view.php?ud=202610121727576416ed56b8e1f8_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=202610121727576416ed56b8e1f8_18",
-      "description": "최재호 토스플레이스 대표가 토스의 포스기 토스포스 네이버 ‘플레이스플러스’ 연동을 2년 째 요청했지만 구체적인 기준을 듣지 못했다며 차별적 대우를 받고 있다고 밝혔다. 최 대표는 12일 국회 정무위원회의...",
-      "pubDate": "2026-10-12T09:12:00+00:00",
-      "category": "토스페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "토스플레이스 \"네이버, 2년째 POS 연동 배제\"…공정위 \"불공정 여부 살펴...",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026101218015568174",
-      "originallink": "https://www.newsway.co.kr/news/view?ud=2026101218015568174",
-      "description": "토스플레이스가 네이버의 매장 관리 플랫폼과 포스(POS·결제 단말기) 연동을 추진하는 과정에서 장기간 명확한 기준을 안내받지 못했다고 주장했다. 공정거래위원회는 네이버가 경쟁 사업자를 부당하게 차별하거나 자사...",
-      "pubDate": "2026-10-12T09:06:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스웨이"
-    },
-    {
-      "title": "토스·네이버, 국감서 포스기 연동 갈등…공정위 \"불공정 차별 여부 살...",
-      "link": "https://www.ajunews.com/view/20261012180440735",
-      "originallink": "https://www.ajunews.com/view/20261012180440735",
-      "description": "토스 \"2년째 연동 요청에도 기준 설명 없어\" 아주경제=김지윤 기자 yoon0930@ajunews.com 최재호 토스플레이스 대표가 12일 국회에서 열린 정무위원회 국정감사에서 위원 질의에 답하고 있다. [사진=연합뉴스]...",
-      "pubDate": "2026-10-12T09:06:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "네이버·토스 POS 연동 갈등 표면화…\"2년 넘게 배제 vs 출시 2년 안돼\" ...",
-      "link": "https://n.news.naver.com/mnews/article/138/0002244441?sid=105",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026101217574043295",
-      "description": "토스플레이스 측이 네이버가 15개 POS 업체와 서비스를 연동하면서 토스플레이스의 '토스포스'만 제외한 것을 두고 차별이라는 지적을 제기한 가운데 공정거래위원회는 경쟁 사업자에 대한 차별이 있는지 살펴보겠다는...",
-      "pubDate": "2026-10-12T09:01:00+00:00",
-      "category": "토스페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "[슈퍼앱 전쟁①] 토스·네이버, 일상과 금융 경계 허문다",
-      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256294",
-      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256294",
-      "description": "2015년 네이버페이를 선보인 뒤 검색과 쇼핑에서 이뤄진 소비자 선택을 결제까지 연결했고 2019년에는 네이버페이 사업을 분사해 네이버파이낸셜을 설립했다. 당시부터 결제를 대출·보험·투자 등으로 연결하는 생활금융...",
-      "pubDate": "2026-10-12T08:56:00+00:00",
-      "category": "토스페이",
-      "source": "인사이트코리아"
-    },
-    {
-      "title": "리워드 마케팅 중단에도 POS 갈등…네이버·토스, 국감서 충돌",
-      "link": "https://n.news.naver.com/mnews/article/003/0014247977?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261012_0003822784",
-      "description": "네이버는 오케이포스와 페이히어 등 15개 포스 사업자와 연동하고 있지만, 토스플레이스의 토스포스는 대상에서 제외했다. 이에 토스플레이스는 해당 건과 관련해 네이버를 공정거래위원회에 신고한 상태다....",
-      "pubDate": "2026-10-12T08:56:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "토스 \"2년간 요청 거절\" VS 네이버 \"사실 아냐\" 국감서 POS 갈등(종합)",
-      "link": "https://n.news.naver.com/mnews/article/001/0016371835?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20261012150351017?input=1195m",
-      "description": "토스플레이스 대표 \"연동 기준·설명도 못 들어\" 공정위, 네이버 불공정 차별 여부 검토 최재호 토스플레이스 대표가 네이버의 매장 관리 플랫폼 연동 과정에서 2년 넘게 명확한 기준 없이 배제당했다고 밝혔다. 이에...",
-      "pubDate": "2026-10-12T08:46:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[국감2026] 네이버·토스 POS 갈등에 공정위 나서나…'차별 의혹' 제기",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706527",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706527",
-      "description": "12일 국회 정무위원회의 공정거래위원회 국정감사에서 송언석 국민의힘 의원이 증인으로 참석한 최재호 토스플레이스 대표에게 질의하고 있다. [사진: 국회방송 유튜브 갈무리] 네이버가 매장 판매관리시스템(POS) 연동...",
-      "pubDate": "2026-10-12T08:46:00+00:00",
-      "category": "토스페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "국감 간 네이버·토스 갈등…‘포스 연동 배제’ ‘검색 왜곡’ 공방",
-      "link": "https://n.news.naver.com/mnews/article/023/0004003364?sid=105",
-      "originallink": "https://www.chosun.com/economy/tech_it/2026/10/12/PYES2GTGPFDLHM6CGQ7OVHG7MY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "description": "12일 국회 정무위원회 국정감사에서는 토스플레이스의 ‘토스포스’가 네이버 ‘플레이스플러스’에 연동되지 않는 문제가 쟁점이 됐다. 플레이스플러스는 매장의 주문·결제 데이터를 네이버 검색·지도와 연결해 인기...",
-      "pubDate": "2026-10-12T08:45:00+00:00",
-      "category": "토스페이",
-      "source": "조선일보"
-    },
-    {
-      "title": "삼성월렛, 미국서 이달 마지막 주 USDC 송금 시작",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/421378",
-      "originallink": "https://www.tokenpost.kr/news/cryptocurrency/421378",
-      "description": "기존 간편결제와 비슷한 과정을 구현하고 온라인 결제와 지갑 간 송금도 시험했지만, 테스트 네트워크에서 진행돼 실제 발행이나 일반 소비자 서비스로 이어지지는 않았다. 해외송금 분야에서는 현대카드가 7월...",
-      "pubDate": "2026-10-12T08:42:00+00:00",
-      "category": "삼성페이",
-      "source": "토큰포스트"
-    },
-    {
-      "title": "토스플레이스, 첫 대규모 공채…전 직군 세 자릿수 채용",
-      "link": "https://www.ekn.kr/web/view.php?key=20261012029255156",
-      "originallink": "https://www.ekn.kr/web/view.php?key=20261012029255156",
-      "description": "비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 공급 자회사 토스플레이스가 법인 설립 이후 처음으로 대규모 공개채용을 실시한다. 12일 토스플레이스에 따르면 이번 공개채용은 오는 31일까지 진행되며, 총 세...",
-      "pubDate": "2026-10-12T08:36:00+00:00",
-      "category": "토스페이",
-      "source": "에너지경제"
-    },
-    {
-      "title": "[국감] 토스플레이스 \"네이버, 2년째 POS 연동 거부\"···공정위, 조사...",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=639873",
-      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=639873",
-      "description": "토스플레이스가 네이버의 매장 관리 플랫폼과 판매시점정보관리시스템(POS) 연동을 2년 넘게 요청했지만 명확한 이유 없이 배제됐다고 주장했다. 공정거래위원회는 네이버의 연동 정책이 경쟁 사업자에 대한 부당한...",
-      "pubDate": "2026-10-12T08:35:00+00:00",
-      "category": "토스페이",
-      "source": "서울파이낸스"
-    },
-    {
-      "title": "[포토] 증언대 선 최재호 토스플레이스 대표",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200387.html",
-      "originallink": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200387.html",
-      "description": "뉴데일리 서성진 기자 = 최재호 토스플레이스 대표가 12일 오후 서울 여의도 국회에서 열린 정무위원회 국정감사에서 의원들의 질의에 답하고 있다. 뉴데일리 서성진",
-      "pubDate": "2026-10-12T08:32:00+00:00",
-      "category": "토스페이",
-      "source": "뉴데일리"
-    },
-    {
-      "title": "국감 오른 네이버·토스 갈등 … 최재호 토스플레이스 대표 \"2년째 연동...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200366.html",
-      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200366.html",
-      "description": "뉴데일리 홍지아 기자 = 네이버와 토스플레이스의 POS(판매시점관리시스템) 연동 갈등이 국정감사 도마에 올랐다. 네이버의 토스포스 연동 제외가 소상공인 차별 논란으로 이어진 가운데, 최재호 토스플레이스 대표는...",
-      "pubDate": "2026-10-12T08:20:00+00:00",
-      "category": "토스페이",
-      "source": "뉴데일리경제"
-    },
-    {
-      "title": "\"2년간 요청해도 거절\"…네이버·토스 POS 갈등 국감 도마",
-      "link": "https://n.news.naver.com/mnews/article/001/0016371760?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20261012150300017?input=1195m",
-      "description": "토스플레이스 대표 \"연동 기준·설명도 못 들어\" 공정위, 네이버 불공정 차별 여부 검토 최재호 토스플레이스 대표가 네이버의 매장 관리 플랫폼 연동 과정에서 2년 넘게 명확한 기준 없이 배제당했다고 밝혔다....",
-      "pubDate": "2026-10-12T08:16:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "주병기 공정위원장, 네이버 '토스POS 연동 배제'에 \"불공정 차별 살펴봐...",
-      "link": "https://news.mtn.co.kr/article/2026101217022421938",
-      "originallink": "https://news.mtn.co.kr/article/2026101217022421938",
-      "description": "/제공=뉴스1주병기 공정거래위원장이 네이버의 토스플레이스 판매시점정보관리시스템(POS) 연동 거부 논란과 관련해 불공정한 차별이 있는지 살펴볼 필요가 있다고 밝혔다.12일 국회 정무위원회의 공정거래위원회...",
-      "pubDate": "2026-10-12T08:14:00+00:00",
-      "category": "토스페이",
-      "source": "MTN NEWS"
-    },
-    {
-      "title": "국감 오른 토스-네이버 POS 분쟁…주병기 \"차별 여부 살펴봐야\"",
-      "link": "https://n.news.naver.com/mnews/article/018/0006386652?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04001606645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "네이버와 토스플레이스 간 갈등이 국회 정무위원회 국정감사에 올랐다. 네이버가 15개 판매시점정보관리시스템(POS·포스) 업체와 서비스를 연동하면서 토스플레이스의 ‘토스포스’만 제외한 것을 두고 차별이라는...",
-      "pubDate": "2026-10-12T08:14:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "최재호 토스플레이스 대표",
-      "link": "https://n.news.naver.com/mnews/article/003/0014247769?sid=100",
-      "originallink": "https://www.newsis.com/view/NISI20261012_0021485692",
-      "description": "최재호 토스플레이스 대표가 12일 여의도 국회에서 열린 정무위원회의 공정거래위원회 등에 대한 국정감사에 출석해 의원 질의에 답변하고 있다. 2026.10.12. myjs@newsis.com",
-      "pubDate": "2026-10-12T07:57:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "국정감사 질의에 답하는 최재호 토스플레이스 대표",
-      "link": "https://n.news.naver.com/mnews/article/003/0014247770?sid=100",
-      "originallink": "https://www.newsis.com/view/NISI20261012_0021485693",
-      "description": "최재호 토스플레이스 대표가 12일 여의도 국회에서 열린 정무위원회의 공정거래위원회 등에 대한 국정감사에 출석해 의원 질의에 답변하고 있다. 2026.10.12. myjs@newsis.com",
-      "pubDate": "2026-10-12T07:57:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "토스플레이스, 대규모 채용…전 직군서 세 자릿수 뽑는다",
-      "link": "https://n.news.naver.com/mnews/article/119/0003141888?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1700530/?sc=Naver",
-      "description": "토스플레이스가 법인 설립 이후 처음으로 전 직군을 대상으로 한 대규모 공개채용에 나선다. 토스플레이스는 오는 31일까지 세 자릿수 규모의 인재를 선발하는 공개채용을 진행한다고 12일 밝혔다. 모집 분야는 비즈니스...",
-      "pubDate": "2026-10-12T07:55:00+00:00",
-      "category": "토스페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "[국감] 답변하는 최재호 토스플레이스 대표",
-      "link": "https://n.news.naver.com/mnews/article/421/0009222939?sid=100",
-      "originallink": "https://www.news1.kr/photos/8154699",
-      "description": "최재호 토스플레이스 대표가 12일 서울 여의도 국회에서 열린 정무위원회의 공정거래위원회 등에 대한 국정감사에 일반증인으로 출석해 의원 질의에 답하고 있다. 2026.10.12/뉴스1",
-      "pubDate": "2026-10-12T07:55:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "국감 답변하는 최재호 토스플레이스 대표",
-      "link": "https://n.news.naver.com/mnews/article/001/0016371677?sid=100",
-      "originallink": "https://www.yna.co.kr/view/PYH20261012184900013?input=1196m",
-      "description": "최재호 토스플레이스 대표가 12일 국회에서 열린 정무위원회 국정감사에서 위원 질의에 답하고 있다. 2026.10.12",
-      "pubDate": "2026-10-12T07:51:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "국감 답변하는 최재호 토스플레이스 대표",
-      "link": "https://n.news.naver.com/mnews/article/001/0016371674?sid=100",
-      "originallink": "https://www.yna.co.kr/view/PYH20261012184700013?input=1196m",
-      "description": "최재호 토스플레이스 대표가 12일 국회에서 열린 정무위원회 국정감사에서 위원 질의에 답하고 있다. 2026.10.12",
-      "pubDate": "2026-10-12T07:50:00+00:00",
-      "category": "토스페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "국감 질의 답하는 최재호 토스플레이스 대표",
-      "link": "https://www.newspim.com/news/view/20261012001317",
-      "originallink": "https://www.newspim.com/news/view/20261012001317",
-      "description": "최재호 토스플레이스 대표가 12일 오후 서울 여의도 국회에서 열린 정무위원회의 공정위 등에 대한 국정감사에서 의원 질의에 답하고 있다. 2026.10.12 jk31@newspim.com",
-      "pubDate": "2026-10-12T07:48:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "토스플레이스, 대규모 공개 채용…“세 자릿수 규모로 뽑을 계획”",
-      "link": "https://n.news.naver.com/mnews/article/020/0003754333?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20261012/134827100/1",
-      "description": "금융 플랫폼 토스의 자회사 토스플레이스가 이달 31일까지 대규모 공개 채용을 진행한다고 12일 밝혔다. 토스플레이스는 토스 결제 단말기와 포스(POS·판매시점정보관리 시스템) 솔루션을 공급하는 회사다....",
-      "pubDate": "2026-10-12T07:41:00+00:00",
-      "category": "토스페이",
-      "source": "동아일보"
-    },
-    {
-      "title": "[핀테크 NOW] 웹케시·토스",
-      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=193119",
-      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=193119",
-      "description": "■ 토스플레이스, 설립 후 첫 대규모 공채...세 자릿수 인재 채용 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 사업 확장에 맞춰 대규모 인재 확보에 나선다. 토스플레이스는 법인 설립 이후...",
-      "pubDate": "2026-10-12T07:40:00+00:00",
-      "category": "토스페이",
-      "source": "위키리크스한국"
-    },
-    {
-      "title": "토스, 블록체인 결제 검증 확대…지역상품권 이어 은행 QR결제",
-      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=193116",
-      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=193116",
-      "description": "양사는 광주은행 앱과 토스 앱, 토스플레이스 결제 단말기를 연결해 고객의 결제 요청부터 스테이블코인 전송, 결제 결과 확인까지 이어지는 구조를 구현했다. 고객이 광주은행 앱에서 결제를 선택한 뒤 토스 앱으로...",
-      "pubDate": "2026-10-12T07:36:00+00:00",
-      "category": "토스페이",
-      "source": "위키리크스한국"
-    },
-    {
-      "title": "토스플레이스, 세 자릿수 공채… 신입·경력 무관 지원 가능",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871759",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=871759",
-      "description": "| 서울=한스경제 김종효 기자 | 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 법인 설립 후 처음으로 전 직군 대상 대규모 공개채용을 진행한다. 이번 공개채용은 오는 31일까지 진행되며, 세 자릿수...",
-      "pubDate": "2026-10-12T07:10:00+00:00",
-      "category": "토스페이",
-      "source": "한스경제"
-    },
-    {
-      "title": "토스플레이스 첫 세자릿수 공채…결제 단말기 이어 매장 설루션 사업 가...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002708184?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10899817?ref=naver",
-      "description": "토스플레이스가 결제 단말기를 넘어 오프라인 매장 운영 전반으로 사업을 확대하면서 세 자릿수 규모의 인력 채용에 나선다. 법인 설립 이후 처음으로 전 직군을 대상으로 진행하는 대규모 공개채용으로, 신입부터...",
-      "pubDate": "2026-10-12T06:18:00+00:00",
-      "category": "토스페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "[단독]네이버페이 가맹점 10만개라더니…실제 설치는 8만개",
-      "link": "https://news.mtn.co.kr/news-detail/2026101211105010564",
-      "originallink": "https://news.mtn.co.kr/news-detail/2026101211105010564",
-      "description": "같은 기간 토스플레이스의 결제 단말기 설치 가맹점은 34만9189곳으로 네이버페이의 4.2배 수준이다. 지난해 2분기 12만6283곳에서 1년 만에 2.8배로 늘었다. 후발주자인 네이버페이도 지난해 말 4215곳이었던 설치 가맹점을...",
-      "pubDate": "2026-10-12T05:46:00+00:00",
-      "category": "네이버페이",
-      "source": "MTN NEWS"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 토스 소식…토스·타다·토스플레이스",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202266",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202266",
-      "description": "또 토스플레이스는 법인 설립 이후 처음으로 세 자릿수 규모의 전 직군 공개채용에 나선다. ◆ 토스, 현대백화점 신촌점에 페이스페이 첫 도입…18일까지 50% 할인 토스(운영사 비바리퍼블리카)가 현대백화점 신촌점과 함께...",
-      "pubDate": "2026-10-12T05:34:00+00:00",
-      "category": "토스페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "비에이치소프트, 토스 결합 1초 얼굴인식 출결 솔루션 ‘출결톡’ 신규...",
-      "link": "https://thetracker.co.kr/View.aspx?No=4259624",
-      "originallink": "https://thetracker.co.kr/View.aspx?No=4259624",
-      "description": "비에이치소프트는 토스플레이스와의 전략적 제휴를 통해 선보인 인공지능(AI) 얼굴인식 출결 서비스 ‘페이스패스(FacePass)’와의 연계를 본격 추진하며, 기존의 번호 입력이나 카드 태그 방식과의 유기적 결합을 완성해...",
-      "pubDate": "2026-10-12T05:28:00+00:00",
-      "category": "토스페이",
-      "source": "더트래커"
-    },
-    {
-      "title": "토스플레이스, 첫 대규모 공채…전 직군서 세 자릿수 채용",
-      "link": "https://n.news.naver.com/mnews/article/003/0014247016?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261012_0003822178",
-      "description": "토스의 오프라인 결제 솔루션 자회사 토스플레이스가 법인 설립 이후 처음으로 대규모 인재 확보에 나선다. 결제 단말기 중심이던 사업 영역을 매장 운영 솔루션 전반으로 넓히는 가운데 조직 규모를 확대한다는 계획이다....",
-      "pubDate": "2026-10-12T05:18:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "토스플레이스, 전 직군 세 자릿수 공채 개시… 연차·재지원 제한 파기",
-      "link": "https://www.thedailypost.kr/news/articleView.html?idxno=116142",
-      "originallink": "https://www.thedailypost.kr/news/articleView.html?idxno=116142",
-      "description": "ㅣ데일리포스트=곽민구 기자ㅣ토스의 결제 단말기 및 오프라인 포스(POS) 솔루션 자회사 토스플레이스가 법인 설립 이래 처음으로 전 직군 대상 대규모 공개채용에 나선다. 비바리퍼블리카(토스)의 자회사 토스플레이스는...",
-      "pubDate": "2026-10-12T04:44:00+00:00",
-      "category": "토스페이",
-      "source": "데일리포스트"
-    },
-    {
-      "title": "토스플레이스, 법인 설립 후 첫 전 직군 대규모 공채",
-      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=311585",
-      "originallink": "https://www.fetv.co.kr/news/articleView.html?idxno=311585",
-      "description": "토스플레이스는 법인 설립 이후 처음으로 전 직군 대상 세 자릿수 규모의 대규모 공개채용을 진행한다고 밝혔다. 12일 토스플레이스에 따르면 이번 채용은 오는 31일까지 진행되며 비즈니스, 데이터, 디자인, 엔지니어링...",
-      "pubDate": "2026-10-12T04:26:00+00:00",
-      "category": "토스페이",
-      "source": "FETV"
-    },
-    {
-      "title": "토스 결제 단말기 자회사 '토스플레이스', 세 자릿수 채용",
-      "link": "https://n.news.naver.com/mnews/article/092/0002440561?sid=105",
-      "originallink": "https://zdnet.co.kr/view/?no=20261012081318",
-      "description": "토스 결제 단말기 및 포스(POS) 솔루션 공급 자회사 '토스플레이스'가 전 직군 대상 세 자릿 수 규모의 공개 채용을 한다. 12일 토스플레이스는 오는 31일까지 채용을 진행한다고 밝혔다. 모집 직군은 ▲비즈니스·세일즈...",
-      "pubDate": "2026-10-12T03:33:00+00:00",
-      "category": "토스페이",
-      "source": "ZDNet"
     }
   ],
-  "lastFetch": "2026-11-11T02:44:10.248104+00:00"
+  "lastFetch": "2026-11-12T03:47:31.037939+00:00"
 }
