@@ -1,6 +1,411 @@
 {
   "articles": [
     {
+      "title": "토스, 3분기 순익 90.6% 감소…누적 매출은 51.6% 증가",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611140011",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202611140011",
+      "description": "(PG) 등 페이먼츠 네트워크 부문 매출은 8047억원으로 전체의 27.6%를 기록했다. 토스는 금융상품 중개와 투자 서비스, 간편결제 및 PG 사업 등의 매출 증가가 누적 실적 성장에 영향을 미쳤다고 설명했다.",
+      "pubDate": "2026-11-14T00:50:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "카카오페이, 마라톤 캠페인 기부액 20억으로 상향",
+      "link": "https://www.ajunews.com/view/20261113152610158",
+      "originallink": "https://www.ajunews.com/view/20261113152610158",
+      "description": "아주경제=권가림 기자 hidden@ajunews.com 카카오페이가 기부 마라톤 캠페인 ‘2026 LONG RUN’의 기부 규모를 최대 20억원으로 늘린다. 참가자 수가 단일 러닝 이벤트 세계 신기록을 달성하면 기존 목표액보다 5억원을...",
+      "pubDate": "2026-11-14T00:02:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "커피원두·머신 사이 포스기…카페쇼에 핀테크가 뜬 이유 [김윤주의 금...",
+      "link": "https://n.news.naver.com/mnews/article/243/0000105663?sid=101",
+      "originallink": "https://economist.co.kr/article/view/ecn202611130034",
+      "description": "페이히어는 자사 무선 단말기 ‘페이히어 터미널’뿐 아니라 ‘네이버페이 커넥트’, ‘토스 프론트’까지 포스에 연동했다. 카페쇼 현장에서는 결제부터 영수증 출력까지 가능한 무선 단말기와 얼굴인식 결제에 특화된...",
+      "pubDate": "2026-11-13T23:00:00+00:00",
+      "category": "간편결제",
+      "source": "이코노미스트"
+    },
+    {
+      "title": "토스, 3분기 만에 매출 2조9천억…작년 연간 실적 '조기 돌파'",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67725",
+      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=67725",
+      "description": "간편결제와 전자지급결제대행(PG), 오프라인 결제 단말기 '토스플레이스' 등을 포함하는 페이먼츠 네트워크 서비스 부문은 8천47억원을 기록해 비중 27.6%를 나타냈다. 페이스페이를 앞세운 간편결제와 금융상품 중개...",
+      "pubDate": "2026-11-13T23:00:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스로드"
+    },
+    {
+      "title": "진도군, 고향사랑 기부하면 네이버페이 최대 3만 원 지급",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000082481",
+      "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000082481",
+      "description": "행사 기간 동안 진도군에 10만 원 이상 기부하면 기존 혜택에 더해 누적 기부 횟수에 따라 최대 3만 원의 네이버페이 포인트가 추가로 제공된다. 기부자가 진도군에 처음 기부할 경우 1만 원, 두 번째 기부 시 2만 원, 세...",
+      "pubDate": "2026-11-13T22:55:00+00:00",
+      "category": "네이버페이",
+      "source": "전남일보"
+    },
+    {
+      "title": "[현장] 검색·리뷰도 '장사 전략'…네이버페이 '커넥트'의 승부수",
+      "link": "https://n.news.naver.com/mnews/article/119/0003155070?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1714781/?sc=Naver",
+      "description": "\"리뷰가 정말 중요해요.\" 13일 서울 강남구 코엑스에서 열린 '2026 서울카페쇼'에서 만난 이영욱 브리나케오슈 대표가 네이버페이 결제 단말기 'Npay 커넥트'를 사용하면서 강조한 말이다. 제주에서 카페 두 곳을 운영하는 그는...",
+      "pubDate": "2026-11-13T22:31:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "수수료에 발목 잡힌 애플페이, 간편결제 부상에 입지 좁아져",
+      "link": "https://n.news.naver.com/mnews/article/366/0001204730?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/11/14/LF6RRMZV2RCUZBYHOVTRSKEU4M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "현재 네이버페이·카카오페이·토스 등이 간편 결제 서비스를 제공하고 있다. 토스는 NFC 결제 대신 얼굴 인식 결제인 ‘페이스페이’를 제공하고 있다. 토스는 3분기 말 기준 총 50만 가맹점에 페이스페이 전용 단말기인...",
+      "pubDate": "2026-11-13T22:00:00+00:00",
+      "category": "애플페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "카카오페이, 기부형 러닝 캠페인 '2026 LONG RUN' 참가자 29만5000명 돌파",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211386",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=211386",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이가 기부형 러닝 캠페인 '2026 LONG RUN'의 참가자 수가 29만5000명을 넘어서자 세계기록 달성을 조건으로 기부금을 최대 20억원까지 확대하기로 했다. 현재까지 확정된 기부금은...",
+      "pubDate": "2026-11-13T21:00:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "[법조광장] 위법수집증거 덫에 걸린 핀테크 가상계좌",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228911",
+      "originallink": "https://www.lawtimes.co.kr/news/articleView.html?idxno=228911",
+      "description": "보이스피싱, 전세사기, 중고거래 사기 등 민생을 위협하는 금융범죄 수사 현장에서 핀테크 가상계좌(토스ㆍ카카오페이ㆍ핀스 등)는 범죄 자금의 회피 및 세탁 창구로 빈번히 악용되고 있다. 범죄의 지능화에 발맞추어...",
+      "pubDate": "2026-11-13T20:02:00+00:00",
+      "category": "간편결제",
+      "source": "법률신문"
+    },
+    {
+      "title": "토스, 3분기 누적 순이익 47% 증가…슈퍼앱 매출 2조 넘어",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=563803",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=563803",
+      "description": "간편결제와 PG, 오프라인 결제 단말기(토스플레이스)를 아우르는 페이먼츠 네트워크 서비스 부문은 8047억원(27.6%)이었다. 3분기만 보면 연결 기준 영업수익은 1조252억원으로 1년 전보다 48.7% 늘었고 영업이익은...",
+      "pubDate": "2026-11-13T10:36:00+00:00",
+      "category": "토스페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이, LONG RUN 세계 신기록 도전…최대 20억원 기부",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=151867",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=151867",
+      "description": "카카오페이가 기부 마라톤 캠페인 '2026 LONG RUN'에서 세계 신기록을 달성하면 기부금을 최대 20억원으로 확대한다. 사진=카카오페이  카카오페이(대표 신원근)가 기부 마라톤 캠페인 '2026 LONG RUN'에서 세계 신기록을...",
+      "pubDate": "2026-11-13T10:18:00+00:00",
+      "category": "카카오페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "이승건 토스 대표, 슈퍼앱 성장에 9개월 만에 작년 연매출 추월 [금융사...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611131712239955ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611131712239955ed56b8e1f8_18",
+      "description": "토스페이의 간편결제와 토스페이먼츠의 PG, 토스플레이스의 오프라인 결제 단말기 제작·판매 등이 여기에 포함된다. 금융상품 중개·투자와 간편결제·PG 사업의 고른 성장이 이번 실적을 이끌었다는 설명이다....",
+      "pubDate": "2026-11-13T10:04:00+00:00",
+      "category": "토스페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "네이버페이, 3분기 매출 4877억원… 분기 최대 기록",
+      "link": "https://n.news.naver.com/mnews/article/366/0001204700?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/11/13/CGNWWPX2W5GEJPP5XFK4KEUMJI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "네이버 파이낸셜 부문이 올해 3분기에도 매출 성장세를 이어갔다. 단말기 보급 확대에 따른 오프라인... 김희철 최고재무책임자(CFO)는 “QR 결제, 페이스사인, 머니카드, MST 결제 확대와 예약 주문 연계에 힘입어...",
+      "pubDate": "2026-11-13T09:57:00+00:00",
+      "category": "네이버페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "토스, 3분기 누적 영업수익 2조9179억원…지난해 연간 실적 넘어",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=89517",
+      "originallink": "https://www.industrynews.co.kr/news/articleView.html?idxno=89517",
+      "description": "금융상품 중개와 투자 서비스 등 슈퍼앱 사업과 간편결제 사업이 고르게 성장하면서 지난해 연간 영업수익을 3분기 만에 넘어섰다. 토스는 13일 올해 3분기 누적 연결 기준 영업수익이 2조9179억원으로 전년 동기...",
+      "pubDate": "2026-11-13T09:28:00+00:00",
+      "category": "토스페이",
+      "source": "인더스트리뉴스"
+    },
+    {
+      "title": "카카오페이 '롱런' 29만명 돌파…세계 기록 달성 시 최대 20억원 기부",
+      "link": "https://n.news.naver.com/mnews/article/119/0003155030?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1714885/?sc=Naver",
+      "description": "카카오페이가 기부 마라톤 캠페인 '2026 LONG RUN'의 세계 신기록 달성 여부에 따라 소상공인 지원 기부금을 최대 20억원까지 확대하기로 했다. 카카오페이는 13일 단일 러닝 이벤트 최다 참가자 세계 신기록을 달성할...",
+      "pubDate": "2026-11-13T09:15:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "토스, 3분기 누적 순익 2380억…전년 比 47.3%↑",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=140072",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=140072",
+      "description": "결제 부문에서는 토스페이를 통한 간편결제와 토스페이먼츠의 PG사업, 토스플레이스의 오프라인 결제 단말기 사업 등을 운영하고 있다. 지난해 출시한 얼굴인식 간편결제 서비스 페이스페이를 통해 오프라인 결제...",
+      "pubDate": "2026-11-13T09:06:00+00:00",
+      "category": "토스페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "\"커넥트로 가게 키워요\"…사장님 공략하는 네이버페이",
+      "link": "https://n.news.naver.com/mnews/article/215/0001272716?sid=101",
+      "originallink": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130125&t=NNv",
+      "description": "네이버페이의 오프라인 결제 단말기 ‘Npay 커넥트’를 체험하는 현장이다. 네이버페이는 오는 14일까지 열리는 ‘제25회 서울카페쇼’에 공식 스폰서로 참가해 커넥트를 활용한 결제와 매장 운영 서비스를 선보인다....",
+      "pubDate": "2026-11-13T09:00:00+00:00",
+      "category": "네이버페이",
+      "source": "owtv"
+    },
+    {
+      "title": "토스, 3분기 누적 매출 2.9조…지난해 연간 실적 '훌쩍'",
+      "link": "https://n.news.naver.com/mnews/article/119/0003155020?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1714877/?sc=Naver",
+      "description": "간편결제와 PG, 오프라인 결제 단말기 사업인 토스플레이스 등을 포함한 페이먼츠 네트워크 서비스 부문은 8047억원의 영업수익을 기록했다. 전체 매출의 27.6%에 해당한다. 올해 3분기 단일 연결 기준 영업수익은...",
+      "pubDate": "2026-11-13T08:57:00+00:00",
+      "category": "토스페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "카카오페이, '롱런 마라톤' 세계기록 달성 시 20억원 기부",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325948",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325948",
+      "description": "사진=카카오페이  카카오페이가 기부 마라톤 캠페인 '2026 LONG RUN'의 참가자가 단일 러닝 이벤트 최다 참가자 세계기록을 달성하면 기부금을 최대 20억원으로 확대한다. 카카오페이는 가수 션의 유튜브 채널 '션과 함께...",
+      "pubDate": "2026-11-13T08:54:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스, 3Q 누적 매출 2조9179억원…작년 연간 실적 추월",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=86301",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=86301",
+      "description": "토스 운영사 비바리퍼블리카는 올해 3분기 누적 연결 기준 영업수익이 2조9179억원으로 전년 동기 대비 51.6% 증가했다고 13일 공시했다. 금융상품 중개와 간편결제 등 핵심 사업이 성장하면서 9개월 만에 지난해 연간...",
+      "pubDate": "2026-11-13T08:48:00+00:00",
+      "category": "토스페이",
+      "source": "PRESS9"
+    },
+    {
+      "title": "토스, 3분기 영업이익 184억…전년 대비 79% 감소",
+      "link": "https://www.ajunews.com/view/20261113165540430",
+      "originallink": "https://www.ajunews.com/view/20261113165540430",
+      "description": "간편결제와 PG, 오프라인 결제 단말기(토스플레이스) 사업을 포함하는 페이먼츠 네트워크 서비스 부문은 8047억원(27.6%)을 기록했다. 토스 관계자는 \"슈퍼앱 내 다양한 금융 서비스들이 균형 있게 성장하며 지난해...",
+      "pubDate": "2026-11-13T08:32:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "토스, 3분기 만에 지난해 연간 매출 넘어…누적 매출 2조9179억원",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715398",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715398",
+      "description": "전체 매출의 72.4%를 차지하는 규모로, 토스의 핵심 수익 기반을 형성했다. 간편결제와 전자지급결제대행(PG), 오프라인 결제 단말기 사업을 담당하는 페이먼츠 네트워크 서비스 부문은 8047억원의 영업수익을...",
+      "pubDate": "2026-11-13T08:24:00+00:00",
+      "category": "토스페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "\"3분기 만에 작년 매출 넘었다\"···토스, 누적 영업수익 2.9조",
+      "link": "https://n.news.naver.com/mnews/article/014/0005604088?sid=101",
+      "originallink": "https://www.fnnews.com/news/202611131640133147",
+      "description": "금융상품 중개와 함께 페이스페이 등 간편결제 등 여러 부문이 고르게 성장한 결과다. 13일 업계에 따르면 토스의 올해 3·4분기까지 누적 연결 기준 영업수익은 2조9179억원으로 집계됐다. 전년 동기 대비 51.6% 증가한...",
+      "pubDate": "2026-11-13T08:16:00+00:00",
+      "category": "토스페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "토스, 3분기 누적 매출 2조9179억…작년 연간 실적 넘어",
+      "link": "https://www.etoday.co.kr/news/view/2648065",
+      "originallink": "https://www.etoday.co.kr/news/view/2648065",
+      "description": "페이스페이 등 간편결제와 전자지급결제대행(PG), 토스플레이스의 오프라인 결제 단말기 사업을 포함한 페이먼츠 네트워크 부문 매출은 8047억원으로 전체의 27.6%였다. 3분기 매출은 1조252억원으로 전년 동기 대비...",
+      "pubDate": "2026-11-13T08:06:00+00:00",
+      "category": "토스페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "토스, 3분기 만에 작년 매출 초과 달성…슈퍼앱으로 2조9천억 돌파",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=885492",
+      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=885492",
+      "description": "또한, 간편결제와 PG, 오프라인 결제 단말기(토스플레이스)를 포함하는 페이먼츠 네트워크 서비스 부문은 27.6%인 8천47억원을 달성했다. 올해 3분기만 따로 보면, 영업수익은 전년 동기 대비 48.7% 증가한 1조252억원...",
+      "pubDate": "2026-11-13T07:52:00+00:00",
+      "category": "토스페이",
+      "source": "공감신문"
+    },
+    {
+      "title": "박상진 네이버파이낸셜 대표, Npay 앞세워 '외국인 지갑' 정조준",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258860",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258860",
+      "description": "국내 간편결제를 넘어 외국인이 한국에서 여행하고 소비하는 과정까지 네이버페이 생태계를 넓히기 위한 전략으로 풀이된다. 13일 네이버에 따르면 올해 3분기 파이낸셜 플랫폼 매출은 4877억원으로 전년 동기 대비 14.1...",
+      "pubDate": "2026-11-13T07:42:00+00:00",
+      "category": "네이버페이",
+      "source": "인사이트코리아"
+    },
+    {
+      "title": "토스, 3분기 누적 매출 2조9천억원...작년 연간 매출보다 2200억원 많아",
+      "link": "https://www.livebiz.today/news/articleView.html?idxno=206504",
+      "originallink": "https://www.livebiz.today/news/articleView.html?idxno=206504",
+      "description": "간편결제와 PG, 오프라인 결제 단말기(토스플레이스) 사업을 포함하는 페이먼츠 네트워크 서비스 부문은 8047억원(27.6%)을 기록했다. 3분기(7∼9월) 단일 연결 기준 매출은 작년 동기 대비 48.7% 성장한 1조252억원...",
+      "pubDate": "2026-11-13T07:42:00+00:00",
+      "category": "토스페이",
+      "source": "생생비즈"
+    },
+    {
+      "title": "카카오페이, '롱런 마라톤' 세계 기록 도전…기부금 최대 20억원",
+      "link": "https://n.news.naver.com/mnews/article/003/0014321337?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261113_0003867576",
+      "description": "카카오페이가 기부 마라톤 캠페인 '2026 롱런(LONG RUN)'의 세계 최다 참가자 기록 달성에 따라 기부 규모를 최대 20억원으로 확대한다. 카카오페이는 단일 러닝 이벤트 최다 참가자 세계 신기록을 달성할 경우 기존 최대...",
+      "pubDate": "2026-11-13T07:34:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "토스, 3Q 누적 순익 2380억 전년比 47.3% 늘어",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=3000000001024",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000001024",
+      "description": "토스(비바리퍼블리카)는 3분기 누적 순이익이 연결 기준 2380억원으로 전년 동기 1616억원 대비 47.3... 간편결제와 결제대행(PG) 등 페이먼츠 네트워크 부문 매출은 8047억원으로 27.6% 수준이다. 누적 영업이익은...",
+      "pubDate": "2026-11-13T07:34:00+00:00",
+      "category": "토스페이",
+      "source": "IT조선"
+    },
+    {
+      "title": "토스, 3분기 당기순익 52억원…매출 성장세 이어가",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444713",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444713",
+      "description": "토스 측은 금융상품 중개와 투자 서비스 등 슈퍼앱 부문, 페이스페이를 포함한 간편결제와 전자지급결제대행(PG) 등 페이먼츠 네트워크 부문의 고른 성장이 실적 성장을 견인했다고 설명했다. 세부적으로 3분기...",
+      "pubDate": "2026-11-13T07:34:00+00:00",
+      "category": "토스페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "토스, 누적 매출 2조900억…3분기 만에 작년 연간치 넘어",
+      "link": "http://www.segyebiz.com/newsView/20261113512137?OutUrl=naver",
+      "originallink": "http://www.segyebiz.com/newsView/20261113512137?OutUrl=naver",
+      "description": "간편결제와 PG, 오프라인 결제 단말기(토스플레이스) 사업을 포함하는 페이먼츠 네트워크 서비스 부문은 8047억원(27.6%)을 기록했다. 3분기(7∼9월) 단일 연결 기준 영업수익은 작년 동기 대비 48.7% 성장한 1조252억원...",
+      "pubDate": "2026-11-13T07:32:00+00:00",
+      "category": "토스페이",
+      "source": "토스, 누적 매출 2조900억…3분기 만에 작년 연간치 넘어"
+    },
+    {
+      "title": "[애플페이 도입 3년②·完] 인뱅 참전 조짐에도…카드사 망설이는 이유",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=122067",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=122067",
+      "description": "카카오뱅크와 토스뱅크의 애플페이 도입 가능성이 구체화되면서다. 인터넷은행들의 진출이 현실화하면 애플페이 결제 인프라 확대, 결제 시장 경쟁에 속도가 붙을 것으로 전망된다. 다만 이러한 변화가 당장 기존...",
+      "pubDate": "2026-11-13T07:26:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "카카오페이, 기부 마라톤 29만명 몰려…소상공인 지원 최대 20억",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=563736",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=563736",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 가수 션의 유튜브 채널 '션과 함께'와 진행 중인 기부 마라톤 캠페인 '2026 LONG RUN'이 단일 러닝 이벤트 최다 참가자 세계 신기록을 세우면 기부 규모를 최대 20억원으로...",
+      "pubDate": "2026-11-13T07:18:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "토스, 3분기 누적 매출 2조9179억원...지난해 연간 실적 돌파",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=320898",
+      "originallink": "https://www.ppss.kr/news/articleView.html?idxno=320898",
+      "description": "간편결제와 전자지급결제대행(PG), 오프라인 결제 단말기 사업인 토스플레이스 등을 포함하는 페이먼츠 네트워크 서비스 부문은 8047억원의 영업수익을 거뒀다. 전체 매출에서 차지하는 비중은 27.6%다. 올해 3분기(7...",
+      "pubDate": "2026-11-13T07:15:00+00:00",
+      "category": "토스페이",
+      "source": "ㅍㅍㅅㅅ PPSS"
+    },
+    {
+      "title": "토스, 3분기 만에 작년 매출 넘어...2분기 연속 매출 1조원대",
+      "link": "https://n.news.naver.com/mnews/article/023/0004009472?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/11/13/VZDIC4RXNFGSZMOLM37KC53KCM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "토스 관계자는 “페이스페이를 앞세운 간편결제와 금융상품 중개, 투자, 전자지급결제대행(PG) 등 주요 사업이 고르게 성장한 결과”라며 “신규 성장사업에 대한 투자를 이어가는 동시에 핵심 사업의 수익성을...",
+      "pubDate": "2026-11-13T07:14:00+00:00",
+      "category": "토스페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "토스, 3분기 누적 매출 2조9천억원…작년 연간치 돌파",
+      "link": "https://n.news.naver.com/mnews/article/001/0016441030?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261113128800017?input=1195m",
+      "description": "간편결제와 PG, 오프라인 결제 단말기(토스플레이스) 사업을 포함하는 페이먼츠 네트워크 서비스 부문은 8천47억원(27.6%)을 기록했다. 3분기(7∼9월) 단일 연결 기준 영업수익은 작년 동기 대비 48.7% 성장한 1조252억원...",
+      "pubDate": "2026-11-13T07:10:00+00:00",
+      "category": "토스페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오페이, LONG RUN 29만5000명↑…세계 기록 도전·기부금 최대 20억원",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596593377249",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596593377249",
+      "description": "카카오페이가 소상공인 지원을 위한 기부 마라톤 캠페인 2026 LONG RUN의 참가자 29만5000명 돌파에 힘입어 세계 최다 참가 기록 도전에 나선다. 세계 신기록을 달성할 경우 기부금을 기존 최대 15억원에서 20억원으로...",
+      "pubDate": "2026-11-13T07:06:00+00:00",
+      "category": "카카오페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "카카오페이, LONG RUN 세계 신기록 달성 시 기부금 20억으로 확대",
+      "link": "https://www.g-enews.com/view.php?ud=202611131538496360cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202611131538496360cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 기부 마라톤 캠페인을 통한 소상공인 지원 규모를 최대 20억원으로 확대한다. 가수 션과 함께 진행하는 '2026 LONG RUN'이 단일 러닝 이벤트 참가자 수 세계 신기록을 달성할 경우 기존 기부...",
+      "pubDate": "2026-11-13T06:48:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오페이, 'LONG RUN' 세계기록 달성 시 기부금 확대",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=140031",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=140031",
+      "description": "카카오페이가 기부 마라톤 캠페인 '2026 LONG RUN'의 단일 러닝 이벤트 참가자 세계기록 달성 시 기부금을 기존 최대 15억 원에서 20억 원으로 확대한다. 13일 카카오페이에 따르면 가수 션의 유튜브 채널 '션과 함께'와...",
+      "pubDate": "2026-11-13T06:40:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "카카오페이 'LONG RUN' 29만5000명 달렸다…세계기록 달성하면 20억 원 기...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139780",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=139780",
+      "description": "카카오페이의 참여형 러닝 캠페인 '2026 LONG RUN'에 29만5000여 명이 참여하며 국내 단일 러닝 이벤트 최다 참가 기록을 넘어섰다. 세계기록까지 달성하면 기부금은 최대 20억 원으로 늘어난다. 카카오페이가 가수 션의...",
+      "pubDate": "2026-11-13T06:30:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "쿠팡 관련주 다시 꿈틀…물류·핀테크·콘텐츠주 어디까지 오르나",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503883",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503883",
+      "description": "네이버 증권. 쿠팡 관련주가 13일 로켓배송 인프라 확대와 쿠팡플레이 등 플랫폼 경쟁력 강화 기대감에... 결제 및 금융서비스 분야에서는 한국정보통신과 갤럭시아머니트리, 헥토파이낸셜이 관련주로 거론된다....",
+      "pubDate": "2026-11-13T06:14:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "애플페이 테스트하는 카카오뱅크, 일부 고객 결제 성공",
+      "link": "https://n.news.naver.com/mnews/article/366/0001204618?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/11/13/JFYTSHUWWVH63FOFNMIVIUELNA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "카카오뱅크가 애플페이를 도입하려는 이유는 미래 고객 선점 효과를 기대하기 때문이다. 현재 애플페이는 현대카드만 가능하다. 현대카드는 2023년 3월 21일 애플페이를 공식 출시했는데, 그해 3~5월 신규 회원 수는...",
+      "pubDate": "2026-11-13T05:51:00+00:00",
+      "category": "애플페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "[르포]얼굴로 결제하면 리뷰 쓰고 매출 분석…네이버페이 커넥트 진화",
+      "link": "https://n.news.naver.com/mnews/article/417/0001164263?sid=101",
+      "originallink": "https://www.sidae.com/article/2026111312312957477",
+      "description": "네이버페이가 토스 등 경쟁 결제 단말기와 차별화하는 지점도 결제 이후 서비스다. 결제 기능에 네이버 플레이스와 리뷰, 매장 분석 서비스를 연결해 가맹점의 영업을 지원한다. '플레이스 플러스'는 매장 POS 정보를...",
+      "pubDate": "2026-11-13T05:39:00+00:00",
+      "category": "네이버페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "11월 13일 카카오페이 퀴즈타임 정답…롱런 경품 빈칸은 ‘오픈핏’",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=404428",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=404428",
+      "description": "친구 초대 이벤트 당첨 경품 묻는 세 글자 문항 11월 13일 카카오페이 퀴즈타임에서 ‘션과 함께 롱런’ 친구 초대 이벤트의 경품 이름을 묻는 문항이 확인됐다. 세 글자 빈칸의 정답은 ‘오픈핏’이다. 문제는 친구 초대...",
+      "pubDate": "2026-11-13T05:10:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "빈칸 세 글자…카카오페이 퀴즈타임 정답 바로 공개 (11월 13일)",
+      "link": "https://www.wikitree.co.kr/articles/1174350",
+      "originallink": "https://www.wikitree.co.kr/articles/1174350",
+      "description": "11월 13일 카카오페이 앱에 '퀴즈타임' 문제와 정답이 올라와 이용자들의 관심을 끌고 있다.카카오페이 퀴즈타임 이미지 / AI 생성 이미지이날 출제된 문제는 \"션과 함께 롱런에서는 친구 초대 이벤트에 당첨되면 샥즈 OOO...",
+      "pubDate": "2026-11-13T03:52:00+00:00",
+      "category": "카카오페이",
+      "source": "위키트리"
+    },
+    {
       "title": "상하이 노점서도 삼성월렛 QR 결제 ‘척척’",
       "link": "https://n.news.naver.com/mnews/article/016/0002723061?sid=101",
       "originallink": "https://biz.heraldcorp.com/article/10936162?ref=naver",
@@ -2383,7 +2788,7 @@
       "description": "토스의 오프라인 결제 자회사 토스플레이스가 11월 2일 네이버를 시장지배적 지위 남용 및 불공정거래행위 혐의로 공정거래위원회에 신고했다. 네이버가 자사 ‘플레이스플러스’ 서비스에 토스 판매관리스시템(POS)을...",
       "pubDate": "2026-11-05T22:02:00+00:00",
       "category": "토스페이",
-      "source": "주간동아"
+      "source": "donga"
     },
     {
       "title": "결제 접점 쥐는 토스·네이버…\"종속될라\" 카드사들 바짝 긴장",
@@ -2923,7 +3328,7 @@
       "description": "삼성월렛 머니는 중국 전역의 위챗페이 가맹점에서 QR 결제를 지원한다. 식당 테이블 오더 결제도 가능하다. 중국 외 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개국에서는 근거리무선통신(NFC) 방식으로 1억5000만...",
       "pubDate": "2026-11-04T09:15:00+00:00",
       "category": "삼성페이",
-      "source": "스포츠동아"
+      "source": "donga"
     },
     {
       "title": "카카오페이證·쿠팡플레이, 스포츠 패스 1개월 이용권 증정 이벤트 진행",
@@ -3328,7 +3733,7 @@
       "description": "이미지=아이클릭아트-전년比 105% 증가…매출 3021억원·순이익 329억원 -전체 거래액 53조7000억원…결제 서비스 25% 성장 -일간 이용자 첫 700만명 돌파…금융 매출 41% 증가 -카카오페이증권 영업익 157억원…주식...",
       "pubDate": "2026-11-03T15:50:00+00:00",
       "category": "카카오페이",
-      "source": "jndmnews"
+      "source": "kjdaily"
     },
     {
       "title": "카카오페이, 3분기 거래액 53.7조 매출 3,021억",
@@ -6658,7 +7063,7 @@
       "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 바로 결제할 수 있게 됐다. 특히...",
       "pubDate": "2026-10-27T01:52:00+00:00",
       "category": "삼성페이",
-      "source": "부산일보"
+      "source": "busan"
     },
     {
       "title": "컨슈머인사이트 \"소비자, 금융앱 AI 기능 토스 1위 응답\"",
@@ -10276,7 +10681,7 @@
       "description": "삼성전자는 자사의 간편결제 서비스 ‘삼성월렛 머니·포인트’가 출시 1주년을 맞아 가입자 300만 명을... ‘해외 결제 적립 이벤트’도 운영한다. 특히, 영 등급 고객을 대상으로는 삼성 월렛으로 토스 유스카드 또는...",
       "pubDate": "2026-10-21T23:17:00+00:00",
       "category": "삼성페이",
-      "source": "부산일보"
+      "source": "busan"
     },
     {
       "title": "\"복잡한 조건 없앤 간편결제의 힘\"…삼성월렛 머니·포인트, 1년만에 30...",
@@ -12239,583 +12644,7 @@
       "pubDate": "2026-10-15T03:16:00+00:00",
       "category": "토스페이",
       "source": "SBS Biz"
-    },
-    {
-      "title": "“충전해놓고 깜빡했네”…네이버·카카오·토스, 남은 돈 알려준다",
-      "link": "https://www.kukinews.com/article/view/kuk202610150053",
-      "originallink": "https://www.kukinews.com/article/view/kuk202610150053",
-      "description": "16일 금융위원회와 금융감독원에 따르면 지난 8월 말 기준 네이버파이낸셜·카카오페이·비바리퍼블리카 등 3사의 장기 미사용 선불충전금 통지 대상은 중복을 포함해 176만명이다. 이들이 보유한 잔액은 255억원으로...",
-      "pubDate": "2026-10-15T03:02:00+00:00",
-      "category": "토스페이",
-      "source": "kukinews"
-    },
-    {
-      "title": "네이버페이·카카오페이·토스에 잠든 돈 255억원…19일부터 환급 안내",
-      "link": "https://n.news.naver.com/mnews/article/119/0003143126?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1701757/?sc=Naver",
-      "description": "금융위원회와 금융감독원은 15일 네이버파이낸셜과 카카오페이, 비바리퍼블리카 등 빅테크 3개사와 함께 장기 미사용 선불충전금에 대한 이용자 통지 및 환급 촉진 방안을 마련했다고 밝혔다. 올해 8월 말 기준 이들...",
-      "pubDate": "2026-10-15T03:02:00+00:00",
-      "category": "네이버페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "네이버페이·카카오페이·토스, 잠자는 선불충전금 알려준다",
-      "link": "https://n.news.naver.com/mnews/article/030/0003475400?sid=101",
-      "originallink": "https://www.etnews.com/20261015000087",
-      "description": "네이버파이낸셜과 비바리퍼블리카는 2년 이상, 카카오페이는 1년 이상 미사용한 경우를 대상으로 한다. 3개사는 해당 이용자에게 잔액 보유 사실과 유효기간 등을 연 1회 이상 정기적으로 알린다. 네이버톡톡과 카카오...",
-      "pubDate": "2026-10-15T03:01:00+00:00",
-      "category": "네이버페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "네이버·카카오·토스, 잠자는 충전금 알려준다…19일부터",
-      "link": "https://n.news.naver.com/mnews/article/079/0004199092?sid=101",
-      "originallink": "https://www.nocutnews.co.kr/news/6591820?utm_source=naver&utm_medium=article&utm_campaign=20261015120059",
-      "description": "장기 미사용 페이 이용자 통지·환급 촉진 방안 마련176만명·255억원 대상 통지 받으면 앱에서 바로 환급 네이버파이낸셜·카카오페이·비바리퍼블리카(토스)가 오랫동안 쓰지 않은 선불충전금 잔액을 이용자에게...",
-      "pubDate": "2026-10-15T03:01:00+00:00",
-      "category": "토스페이",
-      "source": "노컷뉴스"
-    },
-    {
-      "title": "네이버·카카오·토스에 잠든 충전금 255억…19일부터 “잔액 있어요”...",
-      "link": "https://n.news.naver.com/mnews/article/032/0003476449?sid=101",
-      "originallink": "https://www.khan.co.kr/article/202610151200041",
-      "description": "금융위원회·금융감독원은 네이버파이낸셜·카카오페이·비바리퍼블리카(토스) 3개사가 오래 쓰지 않은 선불충전금을 이용자에게 알리고 환급을 돕는 제도를 이달부터 시행한다고 15일 밝혔다. 지난 8월 말 기준으로 알림...",
-      "pubDate": "2026-10-15T03:00:00+00:00",
-      "category": "토스페이",
-      "source": "경향신문"
-    },
-    {
-      "title": "네이버페이·카카오페이·토스에 잠든 255억원…19일부터 환급 안내",
-      "link": "https://www.etoday.co.kr/news/view/2636054",
-      "originallink": "https://www.etoday.co.kr/news/view/2636054",
-      "description": "금융위원회와 금융감독원은 네이버파이낸셜·카카오페이·비바리퍼블리카 등 빅테크 3개사와 함께 장기 미사용 선불충전금의 이용자 통지 및 환급 촉진 방안을 마련했다고 15일 밝혔다. 올해 8월 말 기준 빅테크 3개사의...",
-      "pubDate": "2026-10-15T03:00:00+00:00",
-      "category": "네이버페이",
-      "source": "이투데이"
-    },
-    {
-      "title": "토스 \"2년 이상 잠든 선불충전금 잔액 알려준다\"",
-      "link": "https://n.news.naver.com/mnews/article/277/0005828968?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026101510051004335",
-      "description": "토스 외에도 네이버파이낸셜, 카카오페이 등 빅테크(대형 정보기술 기업) 3개사는 고객에게 장기간 쓰지 않은 선불잔액을 주기적으로 알려주는 서비스를 이달 우선 도입할 예정이다. 토스에 따르면 이번 조치는 오랜 기간...",
-      "pubDate": "2026-10-15T03:00:00+00:00",
-      "category": "토스페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "네이버·카카오·토스, 장기 미사용 선불잔액 정기 안내...간편 환급도 ...",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727942",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1727942",
-      "description": "네이버파이낸셜과 카카오페이, 비바리퍼블리카가 장기간 사용하지 않은 페이·머니형 선불잔액을 이용자에게 정기적으로 알리고 간편하게 환급할 수 있도록 제도를 개선한다. 지난 8월 말 기준 통지 대상은 중복을 포함해...",
-      "pubDate": "2026-10-15T03:00:00+00:00",
-      "category": "토스페이",
-      "source": "EBN"
-    },
-    {
-      "title": "금융당국, 네이버페이·카카오페이·토스 미사용 충전금 255억 환급 촉진",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=856555",
-      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=856555",
-      "description": "15일 금융당국에 따르면 네이버파이낸셜·카카오페이·비바리퍼블리카와 함께 장기 미사용 페이·머니형 선불충전금의 이용자 통지 강화 및 환급 촉진 방안을 마련했다. 지난 8월 말 기준 빅테크 3곳의 장기 미사용...",
-      "pubDate": "2026-10-15T03:00:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스웍스"
-    },
-    {
-      "title": "토스와의 분쟁으로 거래 막혔던 中企…1년 만에 족쇄 풀렸다",
-      "link": "https://n.news.naver.com/mnews/article/421/0009229448?sid=105",
-      "originallink": "https://www.news1.kr/it-science/internet-platform/6320953",
-      "description": "토스와 자회사 토스플레이스가 SCS프로에 총 150억 원을 투자하고 결제 단말기 사업에서 협력하는 내용이다. 텀시트에는 SCS프로가 네이버 및 계열사와 토스의 사업제휴와 동일하거나 유사한 거래를 하지 못하도록 하는...",
-      "pubDate": "2026-10-15T02:32:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "토스, 6개 계열사 보안역량 결집…내달 '가디언즈 26' 진행",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280597",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=280597",
-      "description": "가디언즈는 토스가 매년 개최하는 보안 전문 행사로, 올해는 토스와 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 참여한다. 주요 발표 주제는 ▲인공지능(AI) 기반...",
-      "pubDate": "2026-10-15T02:28:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "토스, 다음달 6일 보안 컨퍼런스 개최…AI 보안기술 공유",
-      "link": "https://n.news.naver.com/mnews/article/374/0000537933?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000340112?division=NAVER",
-      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나섭니다. 대표적으로 AI 기반 보안관제와 위협 탐지, 제로트러스트 기반의 접근 통제와...",
-      "pubDate": "2026-10-15T02:06:00+00:00",
-      "category": "토스페이",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "아이앤텍, e모바일 전자고지 솔루션 간편결제 기능 확대",
-      "link": "https://n.news.naver.com/mnews/article/030/0003475372?sid=101",
-      "originallink": "https://www.etnews.com/20261015000203",
-      "description": "이번 결제 서비스 확대의 핵심은 국내 카드 결제, 간편결제, 가상계좌 등 다양한 결제수단을 지원하는 것이다. 이용자는 고지 내용을 확인한 뒤 자신의 이용 환경과 선호에 맞는 결제수단을 선택할 수 있어 서비스 접근성과...",
-      "pubDate": "2026-10-15T02:05:00+00:00",
-      "category": "간편결제",
-      "source": "전자신문"
-    },
-    {
-      "title": "토스, 6개 계열사 보안기술 공유…내달 6일 '가디언즈 26' 개최",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=137371",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=137371",
-      "description": "행사에는 토스와 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사 보안 전문가들이 연사로 참여한다. 각 계열사가 금융과 결제, 디지털 서비스 운영 과정에서 축적한 보안 기술과 대응 경험을...",
-      "pubDate": "2026-10-15T01:52:00+00:00",
-      "category": "토스페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "AI 보안 현장 경험 공유의 장... 토스, 보안 콘퍼런스 '가디언즈 26' 접수...",
-      "link": "https://www.boannews.com/news/articleView.html?idxno=146409",
-      "originallink": "https://www.boannews.com/news/articleView.html?idxno=146409",
-      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나선다. 이들은 각 사의 보안 기술과 현장에서 쌓은 경험을 발표 세션을 통해 공유할...",
-      "pubDate": "2026-10-15T01:42:00+00:00",
-      "category": "토스페이",
-      "source": "보안뉴스"
-    },
-    {
-      "title": "[제2서울핀테크랩 스타트업 CEO] 도매시장에서 현금 대신 카드로 결제하...",
-      "link": "https://magazine.hankyung.com/job-joy/article/202610153458d",
-      "originallink": "https://magazine.hankyung.com/job-joy/article/202610153458d",
-      "description": "“입주 사무실 및 회의 미팅 공간, 그리고 매주 보내시는 핀테크 소식 및 업계 관련 지원 사업 소개, 정기적인 교육 프로그램이 도움이 됩니다.” 설립일 : 2024년 11월 주요사업 : NDPAY (농산물 도매시장 간편결제) 성과...",
-      "pubDate": "2026-10-15T01:26:00+00:00",
-      "category": "간편결제",
-      "source": "hankyung"
-    },
-    {
-      "title": "[금융계 소식] 카카오페이·미래에셋자산운용·NH투자증권·대신증권·토...",
-      "link": "https://sateconomy.co.kr/news/view/1065575782604879",
-      "originallink": "https://sateconomy.co.kr/news/view/1065575782604879",
-      "description": "카카오페이, 리코더 대회 개최…최대 5만 포인트 지급 미래에셋운용, 美 배당 ETF 개인 순매수 1위…증권사 연금 서비스 강화 ▲ [미래에셋자산운용] 증권·자산운용·핀테크업계가 고객 혜택과 연금자산 관리...",
-      "pubDate": "2026-10-15T01:20:00+00:00",
-      "category": "카카오페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "토스, 금융·통신 현장서 쌓은 보안 기술 나눈다...6개사 참여",
-      "link": "https://www.insight.co.kr/news/577818",
-      "originallink": "https://www.insight.co.kr/news/577818",
-      "description": "올해 행사에는 토스와 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일의 보안 전문가가 참여한다. 각 사에서 활용한 보안 기술과 현장에서 축적한 경험을 세션별로 소개할 예정이다.주요 발표 주제는 AI 기반...",
-      "pubDate": "2026-10-15T01:16:00+00:00",
-      "category": "토스페이",
-      "source": "인사이트"
-    },
-    {
-      "title": "토스 6개 계열사 보안 전문가 한자리에…‘가디언즈 26’ 개최",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202610151014168247de3f0aa1be_7",
-      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202610151014168247de3f0aa1be_7",
-      "description": "올해는 토스뿐 아니라 토스뱅크와 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가들이 연사로 나선다. 금융과 결제, 통신 등 서로 다른 서비스 환경에서 축적한 보안 경험을 그룹 차원에서...",
-      "pubDate": "2026-10-15T01:16:00+00:00",
-      "category": "토스페이",
-      "source": "더파워"
-    },
-    {
-      "title": "“리코더 완주하면 5만 포인트”…카카오페이, '노난날' 대회 개최",
-      "link": "https://n.news.naver.com/mnews/article/030/0003475290?sid=101",
-      "originallink": "https://www.etnews.com/20261015000113",
-      "description": "카카오페이가 오는 17일 서울 상암동 하늘공원에서 '노난날 리코더 대회'를 연다. 대표적인 가을 동요 '가을길'을 개사한 '노난날'을 완주하면 된다. 사전 신청이나 리코더 지참 없이 누구나 현장에서 참가할 수 있다. 곡을...",
-      "pubDate": "2026-10-15T01:10:00+00:00",
-      "category": "카카오페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "'리코더 좀 부세요?' 카카오페이, 대회연다",
-      "link": "https://n.news.naver.com/mnews/article/092/0002441021?sid=105",
-      "originallink": "https://zdnet.co.kr/view/?no=20261015095321",
-      "description": "리코더로 최대 카카오페이 5만 포인트를 받을 수 있는 이벤트가 진행된다. 카카오페이는 오는 17일 오후 3시 서울 마포구 하늘공원 동편에 위치한 힐링 쉼터 야외테라스에서 누구나 사전 신청없이, 리코더 없이도 참여할...",
-      "pubDate": "2026-10-15T01:09:00+00:00",
-      "category": "카카오페이",
-      "source": "ZDNet"
-    },
-    {
-      "title": "아이오로라, 알리페이플러스 결제 파트너 등록…해외 결제 서비스 확대",
-      "link": "https://n.news.naver.com/mnews/article/015/0005342775?sid=101",
-      "originallink": "https://www.hankyung.com/article/202610141090O",
-      "description": "회사는 지난해 앤트인터내셔널과 글로벌 핀테크·컬처 플랫폼 구축을 위한 MOU를 체결한 바 있으며, 이번 MPP 등록을 통해 국내 결제 서비스 기업으로서는 카카오페이, 네이버페이, 토스페이에 이어 알리페이플러스...",
-      "pubDate": "2026-10-15T01:01:00+00:00",
-      "category": "간편결제",
-      "source": "한국경제"
-    },
-    {
-      "title": "설빙, 네이버페이와 제휴 결제 프로모션 진행",
-      "link": "http://www.beyondpost.co.kr/view.php?ud=20261015094839179046a9e4dd7f_30",
-      "originallink": "http://www.beyondpost.co.kr/view.php?ud=20261015094839179046a9e4dd7f_30",
-      "description": "코리안 디저트 카페 설빙이 네이버페이(Npay)와 함께 15일부터 18일까지 나흘간 결제금액의 50%를 적립해 주는 프로모션을 진행한다고 밝혔다. 행사 기간 전국 설빙 매장에서 네이버페이 포인트·머니로 9900원 이상...",
-      "pubDate": "2026-10-15T00:52:00+00:00",
-      "category": "네이버페이",
-      "source": "비욘드포스트"
-    },
-    {
-      "title": "카카오페이, 리코더 완주하면 최대 5만원… '노난날 리코더 대회' 개최",
-      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44456",
-      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=44456",
-      "description": "카카오페이가 리코더 연주만으로 최대 5만원 상당의 카카오페이포인트를 받을 수 있는 이색 이벤트를 연다. 카카오페이는 오는 17일 서울 상암동 하늘공원 억새축제 행사장에서 '노난날 리코더 대회'를 개최한다고 15일...",
-      "pubDate": "2026-10-15T00:50:00+00:00",
-      "category": "카카오페이",
-      "source": "S저널"
-    },
-    {
-      "title": "토스, 계열사 보안 역량 한데 모은다…'가디언즈 26' 개최",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=214833",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=214833",
-      "description": "올해는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가들이 연사로 참여한다. 약 1,000명의 보안 전문가와 개발자가 참석할 예정이다. 주요 세션에서는 인공지능(AI)...",
-      "pubDate": "2026-10-15T00:50:00+00:00",
-      "category": "토스페이",
-      "source": "SR타임스"
-    },
-    {
-      "title": "카카오페이, 서울억새축제서 '노난날 리코더 대회'…완주 시 5만 포인트...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=136064",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=136064",
-      "description": "카카오페이가 서울억새축제 현장에서 리코더 연주에 도전하면 최대 5만 원 상당의 포인트를 지급하는 이색 행사를 개최한다. 카카오페이는 오는 17일 오후 3시 서울 마포구 상암동 하늘공원에서 '노난날 리코더 대회'를...",
-      "pubDate": "2026-10-15T00:46:00+00:00",
-      "category": "카카오페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "토스, 보안 콘퍼런스 '가디언즈 26' 개최…6개 계열사 경험 공유",
-      "link": "https://n.news.naver.com/mnews/article/030/0003475258?sid=101",
-      "originallink": "https://www.etnews.com/20261015000078",
-      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나선다. 이들은 각 사의 보안 기술과 현장에서 쌓은 경험을 세션을 통해 공유할 예정이다....",
-      "pubDate": "2026-10-15T00:44:00+00:00",
-      "category": "토스페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "설빙, 네이버페이 포인트·머니 결제 혜택…1인 최대 3만원 적립",
-      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131054",
-      "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=131054",
-      "description": "설빙이 네이버페이(Npay)와 손잡고 매장 방문 고객을 대상으로 결제금액의 50%를 적립해 주는 프로모션을 진행한다. 코리안 디저트 카페 설빙은 15일부터 18일까지 나흘간 전국 매장에서 네이버페이 포인트·머니 결제...",
-      "pubDate": "2026-10-15T00:40:00+00:00",
-      "category": "네이버페이",
-      "source": "스마트경제"
-    },
-    {
-      "title": "토스, 보안 콘퍼런스 '가디언즈 26' 열어",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322360",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322360",
-      "description": "이번 행사에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 그룹 내 6개 계열사가 참여한다. 각 계열사 보안 담당자들은 실제 서비스 운영 과정에서 축적한 보안 전략과 기술 사례를...",
-      "pubDate": "2026-10-15T00:28:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "설빙, 네이버페이 포인트·머니 현장 결제 시 50% 적립",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=773626",
-      "originallink": "https://www.slist.kr/news/articleView.html?idxno=773626",
-      "description": "설빙이 네이버페이 포인트·머니로 일정 금액 이상 현장 결제한 고객에게 한도 내에서 50% 적립 혜택을 제공한다. 사진=설빙 설빙은 네이버페이(Npay)와 함께 10월 15~18일 나흘간 전국 매장에서 결제 프로모션을 진행한다....",
-      "pubDate": "2026-10-15T00:24:00+00:00",
-      "category": "네이버페이",
-      "source": "싱글리스트"
-    },
-    {
-      "title": "카카오페이, 이색 오프라인 행사 진행..‘노난날 리코더 대회’ 개최",
-      "link": "https://kpenews.com/View.aspx?No=4264359",
-      "originallink": "https://kpenews.com/View.aspx?No=4264359",
-      "description": "한국정경신문 이하정 기­자 sae256@hanmail.net [한국정경신문=이하정 기자] 카카오페이가 오는 17일 이색 오프라인 행사를 연다. 카카오페이는 이날 서울 상암동 하늘공원 억새축제 행사장에서 ‘노난날 리코더 대회’를...",
-      "pubDate": "2026-10-15T00:24:00+00:00",
-      "category": "카카오페이",
-      "source": "한국정경신문"
-    },
-    {
-      "title": "AI엔 브레이크, 빵집엔 액셀…완급 조절하는 핀테크 [핀테크 톡톡]",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=2006146",
-      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2006146",
-      "description": "15일 업계에 따르면 뱅크샐러드는 AI 에이전트의 판단·실행 오류를 통제하는 '제동장치' 기술 특허 3건을 출원했고, 네이버와 네이버페이는 소상공인연합회·대한제과협회와 손잡고 제과·제빵 매장 등 소상공인 디지털...",
-      "pubDate": "2026-10-15T00:10:00+00:00",
-      "category": "간편결제",
-      "source": "매일일보"
-    },
-    {
-      "title": "토스, 보안 콘퍼런스 '가디언즈 26' 개최",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480365",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480365",
-      "description": "이번 행사에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가들이 연사로 참여한다. 주요 발표 주제는 AI 기반 보안관제와 위협 탐지, 제로트러스트 기반 접근...",
-      "pubDate": "2026-10-15T00:10:00+00:00",
-      "category": "토스페이",
-      "source": "이뉴스투데이"
-    },
-    {
-      "title": "토스, 보안 콘퍼런스 '가디언즈 26' 연다...\"6개 계열사 전문가 총집합\"",
-      "link": "https://www.newspim.com/news/view/20261015000139",
-      "originallink": "https://www.newspim.com/news/view/20261015000139",
-      "description": "토스, 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가들이 연사로 참여한다. AI 기반 보안관제와 위협 탐지, 제로트러스트 기반의 접근 통제, 레드티밍과 취약점 진단 등을 주제로...",
-      "pubDate": "2026-10-15T00:07:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "토스, 보안 콘퍼런스 '가디언즈 26' 개최…AI 보안 세션 운영",
-      "link": "https://n.news.naver.com/mnews/article/277/0005828717?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026101508572851782",
-      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나선다. 이들은 각 사의 보안 기술과 현장에서 쌓은 경험을 세션을 통해 공유할 예정이다....",
-      "pubDate": "2026-10-14T23:57:00+00:00",
-      "category": "토스페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "토스, 보안 전문가 1000명과 금융·디지털 보안 해법 논의",
-      "link": "https://www.g-enews.com/view.php?ud=202610150830018374cd0bfacc1c_1",
-      "originallink": "https://www.g-enews.com/view.php?ud=202610150830018374cd0bfacc1c_1",
-      "description": "올해는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가들이 연사로 참여한다. 각 계열사가 실제 업무 현장에서 축적한 보안 기술과 운영 경험을 발표 세션을 통해...",
-      "pubDate": "2026-10-14T23:52:00+00:00",
-      "category": "토스페이",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "토스, 6일 보안 콘퍼런스 '가디언즈 26' 연다…참가 접수 시작",
-      "link": "https://n.news.naver.com/mnews/article/018/0006388255?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02722406645613248&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "연사로는 토스·토스뱅크·토스증권·토스플레이스·토스인컴·토스모바일의 보안 담당자가 나선다. AI를 활용한 보안 관제와 위협 탐지, 제로트러스트 기반 접근 제어 및 정책 운용, 레드팀 점검과 취약점 분석을 통한 AI...",
-      "pubDate": "2026-10-14T23:44:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "토스 계열사 6곳, 보안 노하우 코엑스에 모은다",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=753651",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=753651",
-      "description": "토스를 비롯해 토스뱅크·토스증권·토스플레이스·토스인컴·토스모바일 등 6개 계열사의 보안 전문가가 연사로 나서 각 사의 보안 기술과 현장 경험을 세션에서 풀어낸다. 세션 주제는 실무에 가깝다. AI 기반 보안관제와...",
-      "pubDate": "2026-10-14T23:40:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "토스, 내달 6일 보안 콘퍼런스 개최…AI 보안 기술·대응 전략 공유",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=149418",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=149418",
-      "description": "이번 행사에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 담당자들이 연사로 참여한다. 주요 발표 주제는 ▲AI 기반 보안관제 및 위협 탐지 ▲제로트러스트 기반 접근...",
-      "pubDate": "2026-10-14T23:36:00+00:00",
-      "category": "토스페이",
-      "source": "직썰"
-    },
-    {
-      "title": "보안 전문가 한자리에…토스, 보안 콘퍼런스 '가디언즈 26' 개최",
-      "link": "https://www.ajunews.com/view/20261015082317971",
-      "originallink": "https://www.ajunews.com/view/20261015082317971",
-      "description": "올해 행사에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가들이 연사로 참여한다. 주요 발표 주제는 △인공지능(AI) 기반 보안관제 및 위협 탐지...",
-      "pubDate": "2026-10-14T23:36:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "토스, 보안 콘퍼런스 '가디언즈 26' 개최···AI 보안·제로트러스트 다...",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713984",
-      "originallink": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713984",
-      "description": "행사에는 토스를 비롯해 토스뱅크·토스증권·토스플레이스·토스인컴·토스모바일 등 6개 계열사 보안 전문가가 연사로 참여한다. AI 기반 보안관제와 위협 탐지, 제로트러스트 기반 접근통제·보안정책 운영...",
-      "pubDate": "2026-10-14T23:10:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스프리존"
-    },
-    {
-      "title": "네이버·토스 습격에 ‘이름표’ 뺏기는 카드사",
-      "link": "https://n.news.naver.com/mnews/article/050/0000111972?sid=101",
-      "originallink": "https://magazine.hankyung.com/business/article/202610080682b",
-      "description": "네이버페이·카카오페이·토스 같은 간편결제가 일상에 자리 잡으면서다. 카드 자체가 사라진 것은 아니다. 다만 소비자가 카드를 만나는 ‘창구’가 카드사에서 플랫폼으로 빠르게 옮겨가고 있다. 결제 시장의 주도권이...",
-      "pubDate": "2026-10-14T20:01:00+00:00",
-      "category": "토스페이",
-      "source": "hankyung"
-    },
-    {
-      "title": "[포커스] '4300만 지갑'의 변신…카카오페이, 스테이블코인에 미래 건다",
-      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815898",
-      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815898",
-      "description": "간편결제 시장에서 입지를 다져온 카카오페이가 스테이블코인을 비롯한 디지털자산 사업으로 영역을 넓히고 있다. 기존 전자지갑을 디지털자산 통합 플랫폼으로 발전시키고 인공지능(AI) 기반 결제 기술까지 접목하면서...",
-      "pubDate": "2026-10-14T19:30:00+00:00",
-      "category": "카카오페이",
-      "source": "오늘경제"
-    },
-    {
-      "title": "카카오페이, 타사 카드로 결제해도 멤버십 '사후 적립'… 마이데이터 혜...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=360670",
-      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=360670",
-      "description": "ㅣ카카오페이 카카오페이가 마이데이터에 연결된 결제 내역을 활용해 결제 당시 놓친 멤버십 포인트를 나중에 적립할 수 있는 '멤버십 사후 적립' 서비스를 전격 출시한다고 14일 밝혔다. 이 서비스는 이용자가 결제 시...",
-      "pubDate": "2026-10-14T11:24:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈트리뷴"
-    },
-    {
-      "title": "네이버페이, 제주전국체전에 NFT 티켓 도입…\"입장부터 관광 연계 혜택...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=322289",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=322289",
-      "description": "캡처 화면을 통한 이중 판매나 매크로 프로그램을 활용한 암표 거래 등 불법 유통 리스크를 원천적으로 차단하기 위해 네이버페이가 자사 월렛을 이용한 NFT 티켓 도입에 나선다. 네이버페이(Npay)가 오는 16일...",
-      "pubDate": "2026-10-14T09:56:00+00:00",
-      "category": "네이버페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "파리바게뜨 '파란라벨' 40% 할인…네이버페이 결제 시 15~18일 한정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3721729",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3721729",
-      "description": "파리바게뜨, 네이버페이와 '파란라벨' 전 제품 프로모션 진행(사진=파리바게뜨) 네이버페이 결제를 이용하는 고객을 대상으로 파리바게뜨가 15일부터 18일까지 '파란라벨' 전 제품에 대해 40% 가격 혜택을 제공하는...",
-      "pubDate": "2026-10-14T09:24:00+00:00",
-      "category": "네이버페이",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "파리바게뜨, '파란라벨' 전 제품 네이버페이 결제 40% 할인",
-      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=232350",
-      "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=232350",
-      "description": "파리바게뜨는 이달 15일부터 18일까지 네이버페이(Npay) 결제 시 '파란라벨' 전 제품에 40% 할인을 제공하는 프로모션을 진행한다고 14일 밝혔다. 파란라벨 빵, 식빵, 샌드위치, 케이크 등 총 27종 전 제품이 모두 행사...",
-      "pubDate": "2026-10-14T09:00:00+00:00",
-      "category": "네이버페이",
-      "source": "잡포스트(JOBPOST)"
-    },
-    {
-      "title": "네이버페이, 전국체전 NFT 티켓 첫 도입…관람 인증시 ‘탐나는전’ 최...",
-      "link": "https://n.news.naver.com/mnews/article/119/0003142826?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1701575/?sc=Naver",
-      "description": "네이버페이가 제주에서 열리는 전국체전에 NFT(대체불가능토큰) 티켓을 처음 도입한다. 경기 관람 인증과 제주 지역화폐 지급, 관광지 할인까지 연계해 NFT를 입장 수단뿐 아니라 지역 관광·상권 활성화에 활용한다....",
-      "pubDate": "2026-10-14T08:45:00+00:00",
-      "category": "네이버페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "계약서 검증해 월세 카드결제 연 핀테크, 도시·지역혁신대상 최우수상",
-      "link": "https://platum.kr/archives/296249",
-      "originallink": "https://platum.kr/archives/296249",
-      "description": "임차인은 분할결제와 간편결제로 당장 나가는 현금을 줄일 수 있고, 세무 서비스와 생활 혜택도 함께 이용할 수 있다. 데브디는 이 기술을 '임대차 계약 검증 기반 월세 안전결제 시스템 및 방법'으로 특허 등록했으며...",
-      "pubDate": "2026-10-14T08:44:00+00:00",
-      "category": "간편결제",
-      "source": "플래텀"
-    },
-    {
-      "title": "카카오페이, '멤버십 사후 적립' 서비스 출시...놓친 포인트 챙긴다",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=280462",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=280462",
-      "description": "카카오페이는 결제 당시 적립하지 못한 멤버십 포인트를 나중에 적립할 수 있는 '멤버십 사후 적립' 서비스를 출시했다고 14일 밝혔다. 이번 서비스는 마이데이터에 연결된 결제 내역을 바탕으로 누락된 멤버십 포인트를...",
-      "pubDate": "2026-10-14T07:44:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "종이 티켓 대신 NFT로 입장···네이버페이, 전국체전서 첫선",
-      "link": "https://n.news.naver.com/mnews/article/014/0005589233?sid=101",
-      "originallink": "https://www.fnnews.com/news/202610141432309839",
-      "description": "네이버페이(Npay)가 이달 제주특별자치도에서 열리는 전국체육대회에 'Npay 월렛' 기반 대체불가토큰(NFT) 티켓 및 방문 인증 체계를 도입한다. 14일 네이버페이에 따르면 오는 16일 제주특별자치도에서 개최되는...",
-      "pubDate": "2026-10-14T07:41:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "카카오페이, 마이데이터 기반 '멤버십 사후적립' 서비스 출시…첫 제휴...",
-      "link": "https://n.news.naver.com/mnews/article/277/0005828533?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026101416185991798",
-      "description": "카카오페이는 마이데이터에 연결된 결제 내역을 바탕으로 결제 시 적립하지 못한 포인트를 사후에 쌓을 수 있도록 하는 '멤버십 사후 적립' 서비스를 출시했다고 14일 밝혔다. 첫 제휴처는 편의점 CU다. 마이데이터를...",
-      "pubDate": "2026-10-14T07:18:00+00:00",
-      "category": "카카오페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "[핀테크 NOW] 네이버페이·카카오페이",
-      "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=193240",
-      "originallink": "http://www.wikileaks-kr.org/news/articleView.html?idxno=193240",
-      "description": "■ 카카오페이, 마이데이터 기반 '멤버십 사후 적립' 선봬 카카오페이가 마이데이터 가입자들의 편의성과 혜택을 대폭 강화하는 신규 서비스를 선보인다. 카카오페이는 결제 내역을 확인해 결제 당시 놓친 멤버십...",
-      "pubDate": "2026-10-14T07:16:00+00:00",
-      "category": "네이버페이",
-      "source": "위키리크스한국"
-    },
-    {
-      "title": "카카오그룹 인적분할 앞두고 카카오페이 카카오뱅크 카카오엔터 SM 등 주...",
-      "link": "https://gamefocus.co.kr/detail.php?number=179762",
-      "originallink": "https://gamefocus.co.kr/detail.php?number=179762",
-      "description": "이 자리에는 카카오를 비롯해 카카오페이, 카카오뱅크, 카카오엔터테인먼트, SM엔터테인먼트, 카카오픽코마 등 주요 계열사 CEO들이 참석해 직접 발표에 나섰다. 카카오그룹이 계열사 공동 IR 행사를 연 것은 이번이...",
-      "pubDate": "2026-10-14T07:04:00+00:00",
-      "category": "카카오페이",
-      "source": "gamefocus"
-    },
-    {
-      "title": "카카오페이, 마이데이터 활용 '멤버십 사후 적립' 개시",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=107155",
-      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=107155",
-      "description": "카카오페이가 마이데이터 기반 결제 내역을 활용해 놓친 포인트 혜택을 챙겨주는 '멤버십 사후 적립' 서비스를 시작했다고 14일 밝혔다. 이 서비스는 마이데이터에 연결된 결제 내역을 분석해 결제 당시 적립하지 못한...",
-      "pubDate": "2026-10-14T06:44:00+00:00",
-      "category": "카카오페이",
-      "source": "센트럴경제"
-    },
-    {
-      "title": "카카오페이 \"놓친 멤버십 포인트 찾아드려요\"…마이데이터 서비스",
-      "link": "https://n.news.naver.com/mnews/article/003/0014253385?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261014_0003825933",
-      "description": "카카오페이가 결제 당시 적립하지 못한 멤버십 포인트를 사후에 받을 수 있는 서비스를 선보인다. 마이데이터에 연결된 결제 내역을 활용해 적립하지 못한 포인트를 확인하고, 이용자가 혜택을 챙길 수 있도록 지원한다....",
-      "pubDate": "2026-10-14T06:40:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "얼굴이 지갑 되고, 놓친 포인트 찾아주고…빈틈없는 핀테크 [핀테크 톡...",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=2005866",
-      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2005866",
-      "description": "14일 업계에 따르면 카카오페이는 결제 때 놓친 멤버십 포인트를 사후에 적립해 주는 서비스를 선보였고 네이버페이는 안면인식 결제 '페이스사인' 이용 시 10%를 적립해 주는 프로모션을 시작했다. 카카오페이, 깜빡한...",
-      "pubDate": "2026-10-14T06:16:00+00:00",
-      "category": "간편결제",
-      "source": "매일일보"
-    },
-    {
-      "title": "[Fintech & Now] 카카오페이, 결제 때 놓친 멤버십 포인트 사후 적립 등",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1727816",
-      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1727816",
-      "description": "◆카카오페이, 결제 때 놓친 멤버십 포인트 사후 적립 카카오페이가 결제 당시 적립하지 못한 멤버십 포인트를 나중에 받을 수 있는 '멤버십 사후 적립' 서비스를 출시했다. 이번 서비스는 마이데이터에 연결된 결제...",
-      "pubDate": "2026-10-14T06:14:00+00:00",
-      "category": "카카오페이",
-      "source": "EBN"
-    },
-    {
-      "title": "카카오페이, CU서 카드 결제하고 깜빡한 포인트 적립 챙긴다",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=856480",
-      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=856480",
-      "description": "카카오페이가 카드 결제 당시 놓친 멤버십 포인트를 나중에 적립할 수 있는 서비스를 출시했다. 마이데이터에 연결된 결제 내역을 활용하는 방식으로 첫 제휴처는 CU편의점이다. 카카오페이는 14일 결제 당시 적립하지...",
-      "pubDate": "2026-10-14T06:12:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스웍스"
-    },
-    {
-      "title": "카카오페이, AI 금융 인프라 노린다…챗GPT 결제 연동 추진",
-      "link": "https://n.news.naver.com/mnews/article/421/0009227561?sid=105",
-      "originallink": "https://www.news1.kr/it-science/internet-platform/6319750",
-      "description": "김정현 기자 \"지난달 카카오페이로 얼마나 썼지?\" 앞으로는 인공지능(AI)에 이 같은 질문을 던지는 것만으로 결제 내역을 확인할 수 있게 될 전망이다. 카카오페이(377300)가 챗GPT와 카카오의 AI 서비스 '카나나'에 금융...",
-      "pubDate": "2026-10-14T06:02:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "카카오페이, 결제 후에도 멤버십 포인트 적립…CU부터 적용",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=322219",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=322219",
-      "description": "카카오페이가 마이데이터에 연결된 결제내역을 활용해 결제 당시 놓친 멤버십 포인트를 사후에 적립할 수 있는 서비스를 선보인다. 카카오페이는 '멤버십 사후 적립' 서비스를 출시하고 첫 제휴처로 CU멤버십을...",
-      "pubDate": "2026-10-14T05:52:00+00:00",
-      "category": "카카오페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "“깜빡한 포인트, 나중에 적립”…카카오페이, 멤버십 사후 적립 출시",
-      "link": "https://n.news.naver.com/mnews/article/030/0003474973?sid=101",
-      "originallink": "https://www.etnews.com/20261014000274",
-      "description": "카카오페이가 '멤버십 사후 적립' 서비스를 선보인다. 마이데이터로 결제 당시 놓친 멤버십 포인트를 나중에 적립할 수 있는 서비스다. 첫 제휴로 CU멤버십과 손을 잡았다. 마이데이터를 연결한 사용자는 CU편의점에서...",
-      "pubDate": "2026-10-14T05:12:00+00:00",
-      "category": "카카오페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "카카오페이, 결제 후 놓친 포인트도 적립…'멤버십 사후 적립' 서비스 출...",
-      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44440",
-      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=44440",
-      "description": "카카오페이가 결제 당시 적립하지 못한 멤버십 포인트를 나중에 받을 수 있는 서비스를 선보이며 사용자 편의성을 높인다. 카카오페이(대표 신원근)는 결제 내역을 기반으로 누락된 멤버십 포인트를 사후 적립할 수 있는...",
-      "pubDate": "2026-10-14T05:10:00+00:00",
-      "category": "카카오페이",
-      "source": "S저널"
-    },
-    {
-      "title": "놓친 포인트 챙긴다…카카오페이, '멤버십 사후 적립' 서비스 출시",
-      "link": "https://www.kpinews.kr/newsView/1065584954323770",
-      "originallink": "https://www.kpinews.kr/newsView/1065584954323770",
-      "description": "카카오페이가 마이데이터 기반으로 놓친 포인트를 찾아주는 차별화된 사용자 경험을 선보인다. ▲ 카카오페이 '멤버십 사후 적립' 서비스 출시 홍보 배너. [카카오페이 제공] 카카오페이가 결제 내역을 확인해 결제 당시...",
-      "pubDate": "2026-10-14T05:02:00+00:00",
-      "category": "카카오페이",
-      "source": "kpinews"
     }
   ],
-  "lastFetch": "2026-11-13T03:25:41.715987+00:00"
+  "lastFetch": "2026-11-14T03:05:07.877146+00:00"
 }
