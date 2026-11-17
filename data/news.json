@@ -1,6 +1,1203 @@
 {
   "articles": [
     {
+      "title": "대형사 '텃밭' 노리는 카카오페이·토스證, WM 부문 키운다",
+      "link": "https://www.g-enews.com/view.php?ud=202611171207546549923c501012_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202611171207546549923c501012_1",
+      "description": "토스증권과 카카오페이증권 등 이른바 '핀테크 증권사'들이 월간활성사용자(MAU)를 앞세워 리테일(위탁매매) 부문에서 가파른 성장세를 이어가고 있다. 다만 개인 투자자의 거래 대금에 의존하는 수익 구조가 한계로...",
+      "pubDate": "2026-11-17T05:02:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오뱅크 합류로 넓어진 애플페이…수수료 부담은 숙제",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301447",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=301447",
+      "description": "카카오뱅크의 합류로 국내 애플페이 이용 기반이 넓어지면서 금융사의 결제 수수료 부담에도 관심이 쏠린다. 아이폰을 사용하는 젊은 고객을 확보할 수 있다는 기대와 함께, 결제가 늘어날수록 발생하는 비용을 따져야...",
+      "pubDate": "2026-11-17T05:02:00+00:00",
+      "category": "애플페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "카뱅은 뛰어들었는데⋯카드사들 애플페이 도입 '일단 신중'",
+      "link": "https://www.etoday.co.kr/news/view/2649227",
+      "originallink": "https://www.etoday.co.kr/news/view/2649227",
+      "description": "이투데이=전아현 기자 | 현대카드 독점 3년 8개월 만에 종료⋯카뱅, 체크카드 결제 지원 애플페이 수수료 부담⋯삼성페이 유료화 가능성도 변수 카카오뱅크가 애플페이를 도입하면서 현대카드의 독점 구도가 깨졌지만...",
+      "pubDate": "2026-11-17T05:00:00+00:00",
+      "category": "애플페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털금융 소식...두나무·네이버페이",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203381",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=203381",
+      "description": "또 네이버페이는 ‘K-베이커리 페스티벌’ 공식 스폰서로 참여해 ‘페이스사인’ 기반 입장과 결제 서비스를 제공한다. ◆ 두나무, 금융 AI 학술대회 ‘ICAIF 2026’ 논문 3편 채택 두나무(대표 오경석)가 세계적인 금융...",
+      "pubDate": "2026-11-17T04:44:00+00:00",
+      "category": "네이버페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "[초점] 카카오뱅크, 은행권 최초 애플페이 도입…삼성페이 유료화로 번...",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=81929",
+      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=81929",
+      "description": "최근에는 토스플레이스의 '토스 프론트'와 네이버페이의 'Npay 커넥트' 등을 통해 NFC 결제 지원 단말기 보급이 확대되고 있다. 현대카드에 이어 카카오뱅크가 애플페이 서비스를 선보인 가운데 다른 국내 금융사들의...",
+      "pubDate": "2026-11-17T04:26:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스워치"
+    },
+    {
+      "title": "[테크 NOW] 네이버ㆍ네이버페이",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171258147910442",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171258147910442",
+      "description": "▲‘페이스사인’으로 입장부터 결제까지…네이버페이, ‘K-베이커리 페스티벌’ 공식 스폰서 참여 네이버페이가 전국 유명 베이커리와 디저트 브랜드가 한자리에 모이는 ‘K-베이커리 페스티벌’에 공식 스폰서로...",
+      "pubDate": "2026-11-17T04:02:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "中 국경 넘는 QR결제 주도한다...네이버·카카오·삼성페이 촉각",
+      "link": "https://dealsite.co.kr/articles/172970",
+      "originallink": "https://dealsite.co.kr/articles/172970",
+      "description": "국내에서는 네이버페이·카카오페이 등 간편결제사뿐 아니라 삼성전자와BC카드,은행들이 해외QR결제 시장을 넓히고 있다. APEC에서의 논의 진전으로 역내 결제망이 연결되면 새 시장에 진출할 때 드는 비용을 줄일...",
+      "pubDate": "2026-11-17T03:32:00+00:00",
+      "category": "삼성페이",
+      "source": "딜사이트"
+    },
+    {
+      "title": "네이버페이, 베이커리 축제서 안면인식 입장·결제 지원",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=93428",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=93428",
+      "description": "네이버페이(Npay)는 오는 18~20일 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에 공식 스폰서로 참여해 간편결제와 입장 서비스를 제공한다고 17일 밝혔다. 이번 행사에는 전국 베이커리·디저트 브랜드 110여...",
+      "pubDate": "2026-11-17T03:22:00+00:00",
+      "category": "네이버페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "네이버페이, 빵 축제 줄 서는 시간 얼굴로 줄인다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=757517",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=757517",
+      "description": "네이버페이(Npay 대표이사 박상진)가 안면인식 서비스 '페이스사인'과 AI 빵 스캐너로 현장의 대기 시간을 줄이겠다며 전국 유명 베이커리와 디저트 브랜드가 한자리에 모이는 'K-베이커리 페스티벌'에 공식 스폰서로...",
+      "pubDate": "2026-11-17T02:30:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "네이버페이, ‘K-베이커리 페스티벌’ 공식 스폰서 참여…‘페이스사인...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=94607",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=94607",
+      "description": "인더뉴스 이종현 기자ㅣ네이버페이(Npay)는 전국 베이커리·디저트 브랜드 110여 개가 참여해 18일부터 20일까지 서울 광화문광장에서 열리는 ‘K-베이커리 페스티벌’ 공식 스폰서로 참여한다고 17일 밝혔다. Npay는...",
+      "pubDate": "2026-11-17T02:12:00+00:00",
+      "category": "네이버페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "핀테크 증권사 '승부수'… 카카오페이증권 '국내 IB' 토스는 '해외'",
+      "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731525",
+      "originallink": "http://www.the-biz.co.kr/news/articleView.html?idxno=731525",
+      "description": "최근 국내 대표 핀테크 기반 증권사인 카카오페이증권과 토스증권이 증권업 확장 전략에서 서로 다른 길을 걷고 있다. 카카오페이증권이 국내 기업금융(IB) 시장에 진출하며 사업 영역을 넓히는 데 집중하는 반면...",
+      "pubDate": "2026-11-17T02:12:00+00:00",
+      "category": "토스페이",
+      "source": "THE Biz(더비즈)"
+    },
+    {
+      "title": "얼굴로 빵값 결제…네이버페이, 'K-베이커리 페스티벌'에 페이스사인 적...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=369906",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=369906",
+      "description": "네이버페이가 서울 광화문광장에서 열리는 베이커리 축제에 얼굴 인식 결제·입장 서비스를 선보인다. 네이버페이는 'K-베이커리 페스티벌'에 공식 스폰서로 참여한다고 17일 밝혔다. 18일부터 20일까지 서울...",
+      "pubDate": "2026-11-17T01:58:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "네이버페이, 'K-베이커리 페스티벌'서 안면인식 결제 선봬",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301387",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=301387",
+      "description": "네이버페이는 오는 18~20일 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에 공식 스폰서로 참여한다고 17일 밝혔다. 이 행사에는 전국 110여개 베이커리·디저트 브랜드가 참여한다. 네이버페이는 오프라인 통합...",
+      "pubDate": "2026-11-17T01:36:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…청소년도 체크카드로 간편결제",
+      "link": "https://www.todayeconomic.com/news/article.html?no=32865",
+      "originallink": "https://www.todayeconomic.com/news/article.html?no=32865",
+      "description": "지난해 7월에는 티머니와 연동해 애플페이 교통카드 기능이 도입됐으며, 네이버페이와 토스 등 간편결제 사업자들도 오프라인 결제 인프라 확대에 나서고 있다. 카카오뱅크는 “이번 애플페이 도입으로 고객의 결제...",
+      "pubDate": "2026-11-17T01:36:00+00:00",
+      "category": "애플페이",
+      "source": "todayeconomic"
+    },
+    {
+      "title": "카카오뱅크 애플페이 합류... 결제 편의 뒤에 숨은 '0.15% 수수료 셈법'",
+      "link": "https://www.lawtv.kr/news/articleView.html?idxno=61437",
+      "originallink": "https://www.lawtv.kr/news/articleView.html?idxno=61437",
+      "description": "다만 네이버페이와 토스 등 핀테크 기업이 오프라인 결제 단말기 사업에 뛰어들면서 NFC 기반 인프라는 점차 넓어지는 추세다. 오히려 압박은 후발 카드사 쪽으로 향한다. 아이폰 이용 비중이 높은 청년층과 청소년층을...",
+      "pubDate": "2026-11-17T01:22:00+00:00",
+      "category": "애플페이",
+      "source": "법률방송뉴스"
+    },
+    {
+      "title": "현대카드 독점 깬 카카오뱅크 애플페이…타 금융사 진입은 언제쯤",
+      "link": "https://n.news.naver.com/mnews/article/009/0005764732?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12210927",
+      "description": "토스플레이스의 ‘토스 프론트’와 네이버페이의 ‘Npay 커넥트’ 등 NFC 결제 단말기 보급이 늘었다. 한 업계 관계자는 “인터넷전문은행의 애플페이 도입만으로는 시장에 미치는 영향이 제한적이지만, 신한카드와...",
+      "pubDate": "2026-11-17T01:11:00+00:00",
+      "category": "애플페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "명륜진사갈비, 네이버 예약하면 된장찌개 무료…네이버페이 포인트 혜택...",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083568",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083568",
+      "description": "네이버 예약으로 매장을 방문해 리뷰를 작성하면 된장찌개를 무료로 제공하고 네이버페이 포인트 1000원을 적립해 준다. 매장별 쿠폰 혜택은 다를 수 있다. 또한 N pay 커넥트 단말기에서 네이버페이 페이스 사인으로...",
+      "pubDate": "2026-11-17T01:10:00+00:00",
+      "category": "네이버페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "네이버페이, 'K-베이커리 페스티벌'에서 '페이스사인' 결제 지원",
+      "link": "https://n.news.naver.com/mnews/article/421/0009293043?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6356200",
+      "description": "네이버페이(Npay)가 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에서 얼굴 인식만으로 입장부터 결제까지 가능한 서비스를 선보인다. 네이버페이는 오는 18일부터 20일까지 열리는 K-베이커리 페스티벌에 공식...",
+      "pubDate": "2026-11-17T01:10:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "“네이버가 차별” 공정위 제소한 토스… 유사 판례는 토스에 불리",
+      "link": "https://n.news.naver.com/mnews/article/366/0001205293?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/11/17/6RDEEO6S4ZGTNP5Q2OWCQLDSTU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "같은 해 7월엔 네이버 쇼핑 검색 결과의 페이지에서 자사 스마트스토어 입점 상품 비율이 15∼20%씩 나오도록 맞췄다. 네이버는 공정위 처분에 불복해 소송을 진행했고, 지난해 10월 대법원 2부(주심 오경미 대법관)는...",
+      "pubDate": "2026-11-17T01:01:00+00:00",
+      "category": "토스페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "네이버페이 '페이스사인', 입장부터 결제까지 '빵빵'",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315495",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=315495",
+      "description": "네이버페이가 안면인식 기반 결제 서비스 '페이스사인'을 앞세워 오프라인 간편결제 시장 공략에 나선다. 대규모 관람객이 몰리는 베이커리 축제에서 입장 인증부터 상품 결제까지 안면인식 기술을 적용해 차별화된...",
+      "pubDate": "2026-11-17T00:58:00+00:00",
+      "category": "네이버페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "애플페이에 카뱅 합류 …외연 넓혔지만 수수료 문제는 복병",
+      "link": "https://n.news.naver.com/mnews/article/277/0005843580?sid=105",
+      "originallink": "https://view.asiae.co.kr/article/2026111709390404908",
+      "description": "애플의 간편결제 서비스 애플페이가 카카오뱅크 합류로 국내 이용자 저변 확대를 위한 기반을 갖췄다. 17일 IT 업계에 따르면 카카오뱅크는 전날부터 애플페이 연동을 시작했다. 연동이 지원되는 카드는 카카오뱅크가...",
+      "pubDate": "2026-11-17T00:58:00+00:00",
+      "category": "애플페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "네이버페이, 광화문 빵 축제서 얼굴인식 결제 선보인다…구매금액 10% 적...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139950",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=139950",
+      "description": "| 이코노미사이언스 박성현 기자 | 네이버페이가 서울 광화문광장에서 열리는 베이커리 축제에 얼굴인식 결제 서비스 '페이스사인'을 도입한다. 관람객은 빵을 고른 뒤 별도 결제존에서 얼굴인식으로 결제할 수 있으며...",
+      "pubDate": "2026-11-17T00:52:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "신용카드 없어도 아이폰으로 '삑'...청소년까지 열린 애플페이",
+      "link": "https://www.insight.co.kr/news/582333",
+      "originallink": "https://www.insight.co.kr/news/582333",
+      "description": "이 번호는 암호화된 상태로 기기 내부의 보안 칩인 '시큐어 엘리먼트(Secure Element)'에 저장돼 결제에 활용된다.카카오뱅크의 합류로 국내 애플페이는 현대카드 중심의 이용 구조에서 벗어나 체크카드와 청소년용...",
+      "pubDate": "2026-11-17T00:48:00+00:00",
+      "category": "애플페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "은행 체크카드도 아이폰으로 ‘톡’⋯은행권 첫 카뱅 애플페이 써보니",
+      "link": "https://www.etoday.co.kr/news/view/2649033",
+      "originallink": "https://www.etoday.co.kr/news/view/2649033",
+      "description": "이번 카카오뱅크의 애플페이 도입은 단순히 결제수단이 하나 늘어난 것 이상의 의미가 있다. 현대카드에 한정됐던 국내 애플페이 서비스가 은행권으로 처음 확대됐기 때문이다. 카카오뱅크는 체크카드 시장에서 높은...",
+      "pubDate": "2026-11-17T00:44:00+00:00",
+      "category": "애플페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…체크카드·mini카드로 간편결제 확대",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=139920",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=139920",
+      "description": "| 이코노미사이언스 박성현 기자 | 카카오뱅크가 애플페이(Apple Pay)를 도입하면서 체크카드와 청소년용 mini카드 이용자의 간편결제 선택권이 확대됐다. 아이폰과 애플워치로 실물카드 없이 결제할 수 있으며...",
+      "pubDate": "2026-11-17T00:40:00+00:00",
+      "category": "애플페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "네이버페이, 광화문 빵 축제 '얼굴 결제' 지원",
+      "link": "https://n.news.naver.com/mnews/article/030/0003486415?sid=101",
+      "originallink": "https://www.etnews.com/20261117000064",
+      "description": "네이버페이가 'K-베이커리 페스티벌'에 공식 스폰서로 참여한다. 오는 18일부터 20일까지 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에는 전국 베이커리·디저트 브랜드 110여개가 참여한다. 네이버페이 단말기...",
+      "pubDate": "2026-11-17T00:36:00+00:00",
+      "category": "네이버페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "네이버페이, '전국 빵 페스티벌' 결제·입장 지원",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326239",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326239",
+      "description": "사진=네이버페이  네이버페이가 국내 대규모 베이커리 축제에서 안면인식 기반 입장과 결제 서비스를 제공한다. 네이버페이는 전국 베이커리·디저트 브랜드 110여 곳이 참여하는 'K-베이커리 페스티벌'에 공식 스폰서로...",
+      "pubDate": "2026-11-17T00:32:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "진도군 고향사랑기부 20억 돌파…재기부자에 네이버페이 추가 지급",
+      "link": "https://www.kpinews.kr/newsView/1065572572736305",
+      "originallink": "https://www.kpinews.kr/newsView/1065572572736305",
+      "description": "첫 기부자는 1만 원, 두 번째 기부자는 2만 원, 세 차례 이상 기부한 사람에게는 3만 원의 네이버페이 포인트를 지급한다. 진도군은 고향사랑기부제 모금액을 산후조리비와 응급실 의료진 인건비 지원, 마을 공동빨래방...",
+      "pubDate": "2026-11-17T00:30:00+00:00",
+      "category": "네이버페이",
+      "source": "kpinews"
+    },
+    {
+      "title": "네이버페이, K-베이커리 페스티벌 공식 스폰서…'페이스사인'으로 입장...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=564380",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=564380",
+      "description": "|중앙이코노미뉴스 정재혁 기자|네이버페이가 'K-베이커리 페스티벌'에 공식 스폰서로 참여한다. [사진=네이버페이] 네이버페이는 전국 유명 베이커리·디저트 브랜드가 모이는 'K-베이커리 페스티벌'에 공식 스폰서로...",
+      "pubDate": "2026-11-17T00:30:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "네이버페이, 광화문 빵 축제서 얼굴인식 결제·입장 지원",
+      "link": "https://n.news.naver.com/mnews/article/001/0016445566?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261117035100017?input=1195m",
+      "description": "18∼20일 'K-베이커리 페스티벌'…AI로 빵 인식하고 한번에 결제 네이버페이는 오는 18∼20일 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에 공식 후원사로 참여해 얼굴인식 결제와 입장 서비스를 제공한다고 17일...",
+      "pubDate": "2026-11-17T00:28:00+00:00",
+      "category": "네이버페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "네이버페이, 'K-베이커리 페스티벌' 참여…얼굴로 입장부터 결제까지",
+      "link": "https://n.news.naver.com/mnews/article/119/0003155963?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1715902/?sc=Naver",
+      "description": "네이버페이가 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에 안면인식 서비스 '페이스사인'을 도입한다. 관람객은 얼굴 인식만으로 행사장에 입장하고 빵을 구매할 수 있으며, 결제 시 적립 혜택도 받을 수 있다....",
+      "pubDate": "2026-11-17T00:28:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "네이버페이, 'K-베이커리 페스티벌' 결제 지원…안면인식 서비스 도입",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504863",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504863",
+      "description": "네이버페이(Npay)가 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에 공식 스폰서로 참여해 안면인식 기반 결제와 입장 서비스를 제공한다. 네이버페이는 오는 18일부터 20일까지 열리는 K-베이커리 페스티벌에...",
+      "pubDate": "2026-11-17T00:24:00+00:00",
+      "category": "네이버페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "네이버페이, 'K-베이커리 페스티벌'에 결제·안면인식 인프라 제공",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715916",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715916",
+      "description": "네이버페이는 오는 18~20일 서울 광화문광장에서 열리는 K-베이커리 페스티벌에 공식 스폰서로 참여한다. [사진: 네이버페이] 네이버페이(Npay)가 전국 베이커리·디저트 브랜드가 참여하는 'K-베이커리 페스티벌'에 결제와...",
+      "pubDate": "2026-11-17T00:18:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "‘K-베이커리 페스티벌’, 간편결제로 더 편하게 즐긴다",
+      "link": "https://n.news.naver.com/mnews/article/018/0006410900?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02706006645646704&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "네이버페이(Npay)가 전국 유명 베이커리와 디저트 브랜드가 한자리에 모이는 ‘K-베이커리 페스티벌’에 공식 스폰서로 참여한다. ‘K-베이커리 페스티벌’은 전국 110여개 베이커리·디저트 브랜드가 참여한 가운데...",
+      "pubDate": "2026-11-17T00:18:00+00:00",
+      "category": "간편결제",
+      "source": "이데일리"
+    },
+    {
+      "title": "카뱅 이어 토스뱅크도 연내 애플페이 출시…카드사 진입 포문 열리나",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445087",
+      "description": "높은 애플페이 수수료·삼성 수수료 도입 두고 '눈치싸움' 한상민 허동규 기자 = 인터넷전문은행... 이에 더해 최근 토스와 네이버가 근거리 무선통신(NFC) 결제를 지원하는 '토스 프론트'와 'Npay 커넥트' 단말기 보급을...",
+      "pubDate": "2026-11-17T00:06:00+00:00",
+      "category": "애플페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "[미르의 글로벌 레이더]삼성월렛, 비자와 아시아 QR 결제시장 확대…호...",
+      "link": "https://www.mediapen.com/news/view/1137879",
+      "originallink": "https://www.mediapen.com/news/view/1137879",
+      "description": "▲삼성월렛에 QR 스캔 결제 추가…현지 결제 앱 없이 해외 가맹점 이용 이번에 출시된 비자 스캔 투 페이는 삼성월렛에 등록된 비자카드를 이용해 해외 QR 결제망에서...",
+      "pubDate": "2026-11-16T23:56:00+00:00",
+      "category": "삼성페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "네이버페이, 광화문 K-베이커리 페스티벌서 결제·입장 서비스 지원",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883952",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883952",
+      "description": "네이버페이 제공. | 서울=한스경제 유은주 기자 | 네이버페이(Npay)는 오는 18일부터 20일까지 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에 공식 스폰서로 참여한다고 17일 밝혔다. 이번 행사에는 전국 베이커리...",
+      "pubDate": "2026-11-16T23:52:00+00:00",
+      "category": "네이버페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "광화문 빵 축제 찾은 생체 인식 기술…네이버페이, K-베이커리 페스티벌...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94423",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94423",
+      "description": "전국 각지의 유명 베이커리와 디저트를 한자리에서 만나는 대규모 미식 축제에 첨단 간편결제 및 인증 인프라가 대거 도입됐다며 네이버페이가 17일 밝혔다. 서울 광화문광장에서 펼쳐지는 이번 행사는 전국 110여 개에...",
+      "pubDate": "2026-11-16T23:46:00+00:00",
+      "category": "네이버페이",
+      "source": "더페어"
+    },
+    {
+      "title": "Npay, 광화문 'K-베이커리 페스티벌'에 오프라인 결제망 구축",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=87869",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=87869",
+      "description": "네이버페이(Npay)가 전국 유명 빵집이 모이는 대형 축제 현장에 첨단 결제와 입장 인프라를 지원한다. Npay는 오는 18일부터 20일까지 사흘간 서울 광화문광장에서 열리는 'K-베이커리 페스티벌'에 공식 스폰서로 나선다고...",
+      "pubDate": "2026-11-16T23:42:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "카카오뱅크 '애플페이' 출격…현대카드 독점에 균열",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=728081",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=728081",
+      "description": "컨슈머타임스=김하은 기자 | 카카오뱅크가 애플페이 서비스를 시작하면서 국내 아이폰 이용자들이 현대카드 외 다른 카드로도 결제할 수 있게 됐다. 2023년 3월 현대카드가 국내에 애플페이를 처음 도입한 이후 3년여 만에...",
+      "pubDate": "2026-11-16T22:54:00+00:00",
+      "category": "애플페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "[핀테크핫이슈] 금융지주 지배구조 개편 본격화…해킹 당한 금융보안원",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715826",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715826",
+      "description": "카카오페이증권은 AI 기반 이상거래탐지시스템(FDS)을 구축해 입출금뿐 아니라 주식 매도와 환전, 주식... 과제 네이버파이낸셜과 두나무의 기업결합 심의가 본격화되면서 디지털자산 시장의 경쟁구도 변화에 관심이...",
+      "pubDate": "2026-11-16T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "한신평, 개인투자자 정보 접근성 강화 박차...네이버페이와 콘텐츠 협업...",
+      "link": "https://www.fntimes.com/html/view.php?ud=2026111617210199111b5a221379_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=2026111617210199111b5a221379_18",
+      "description": "패트릭윤 대표이사가 이끄는 한국신용평가가 네이버페이(Npay)와 손잡고 전문 신용분석 콘텐츠의 제공 범위를 확대한다. 기업과 산업에 대한 신용평가사의 리서치를 일반 이용자가 쉽게 이해할 수 있도록 요약·영상...",
+      "pubDate": "2026-11-16T22:02:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "美 최대 은행 JP모건체이스 전산 장애…송금·결제 서비스 잇단 차질",
+      "link": "https://n.news.naver.com/mnews/article/014/0005605217?sid=101",
+      "originallink": "https://www.fnnews.com/news/202611170551371828",
+      "description": "개인 간(P2P) 간편송금 서비스인 젤은 뱅크오브아메리카, 캐피털원, JP모건체이스, PNC은행, 트루이스트... 고객의 결제가 지연되고 있는 것\"이라고 덧붙였다. 한편, 이번 금융권 전산 장애는 미국 산업계 전반에서 대형 IT...",
+      "pubDate": "2026-11-16T21:35:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카뱅, 은행권 최초 애플페이 도입…체크카드 중심 확산",
+      "link": "https://n.news.naver.com/mnews/article/011/0004682903?sid=101",
+      "originallink": "https://www.sedaily.com/article/20115053?ref=naver",
+      "description": "국내 은행 가운데 처음으로 카카오뱅크가 애플페이 서비스를 시작하면서 모바일 결제 시장 경쟁이 한층 치열해질 전망이다. 애플페이 이용이 청소년과 대학생 등 젊은 고객층을 중심으로 이용이 늘어날 것이라는 관측이...",
+      "pubDate": "2026-11-16T21:20:00+00:00",
+      "category": "애플페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "'애플페이' 품은 카카오뱅크…체크카드 시장 '메이저' 노린다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009292577?sid=101",
+      "originallink": "https://www.news1.kr/finance/bank/6355943",
+      "description": "카카오뱅크의 애플페이 관련 약관심사는 사후보고 방식으로 진행되는데, 아직 접수하진 않은 것으로 알려졌다. 카카오뱅크는 올해 초 금융위원회의 약관심사를 마친 토스뱅크보다 늦게 서비스 도입을 검토했다. 주요...",
+      "pubDate": "2026-11-16T21:20:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카뱅, 국내 두 번째 ‘애플페이’ 서비스 시작",
+      "link": "https://n.news.naver.com/mnews/article/022/0004175707?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261116518381?OutUrl=naver",
+      "description": "현대카드 이어 3년 8개월 만에 비용 부담에 업계 확산 관심 카카오뱅크가 애플페이 서비스를 시작한다. 현대카드에 이어 국내 금융사 가운데 두 번째이자 은행권 최초다. 주요 카드사들이 비용 부담으로 도입을 미뤄온...",
+      "pubDate": "2026-11-16T21:03:00+00:00",
+      "category": "애플페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "‘간편결제’ 산업 실적 성장 이면에…‘경영 기준 상습 미달’ 19개",
+      "link": "https://n.news.naver.com/mnews/article/028/0002832515?sid=102",
+      "originallink": "https://www.hani.co.kr/arti/society/society_general/1287646.html",
+      "description": "모바일 결제가 일상화되면서 전자금융업의 매출은 증가했지만, 자기자본 비율 등 경영지도기준 미달... 실적 호조는 충전식 페이결제, 결제대행서비스 등 전자금융업 이용 규모가 커진 데 따른 것으로 보인다. 고객이...",
+      "pubDate": "2026-11-16T21:02:00+00:00",
+      "category": "간편결제",
+      "source": "한겨레"
+    },
+    {
+      "title": "가민페이 상륙에 애플페이 확장까지… 뜨거워지는 간편결제 대전",
+      "link": "https://n.news.naver.com/mnews/article/023/0004010029?sid=105",
+      "originallink": "https://www.chosun.com/economy/tech_it/2026/11/17/LY72PS3DE5GRLNPWGQN7ZWXKQM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "이 외에 오프라인 매장 간편 결제를 놓고 네이버페이와 토스가 안면 인식 결제 기능으로 경쟁하고 있다. 특히 토스가 최근 네이버를 불공정 거래 혐의로 공정거래위원회에 제소하는 등 두 회사의 경쟁은 감정...",
+      "pubDate": "2026-11-16T21:01:00+00:00",
+      "category": "애플페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "'간편결제 일상화' 전자금융업 상반기 매출 6.3조…건전성 미달 24곳",
+      "link": "https://n.news.naver.com/mnews/article/421/0009292548?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-finance/6355683",
+      "description": "간편결제가 일상적인 결제 수단으로 자리 잡으면서 올해 상반기 전자금융업 매출이 6조 3000억 원으로 1년 새 14.5% 늘었다. 하지만 외형이 커진 것과 달리 자본금 등 재무 건전성 기준을 지키지 못한 업체도 24곳에...",
+      "pubDate": "2026-11-16T21:00:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스1"
+    },
+    {
+      "title": "[이코노 브리핑] 카뱅, 애플페이 서비스… 국내 2번째로 외",
+      "link": "https://n.news.naver.com/mnews/article/022/0004175683?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261116515043?OutUrl=naver",
+      "description": "신규 코픽스 3.62% 2년8개월來 최고 올해 10월 신규 취급액 기준 코픽스(COFIX·자금조달비용지수)가 9월보다 0.19%포인트 오른 연 3.62%로 집계됐다고 은행연합회가 16일 밝혔다. 이는 2024년 2월(3.62%) 이후 2년8개월 만에...",
+      "pubDate": "2026-11-16T20:03:00+00:00",
+      "category": "애플페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "[Biz & Now] 한국신용평가·네이버페이 업무협약",
+      "link": "https://n.news.naver.com/mnews/article/025/0003565624?sid=101",
+      "originallink": "https://www.joongang.co.kr/article/25479158",
+      "description": "한국신용평가는 16일 네이버페이와 기업 신용 분석 콘텐트 등을 공유하기 위한 협약을 맺었다. 한신평은 시장 흐름과 신용 이슈를 다룬 보고서·영상 등을 네이버페이에 제공하고, 네이버페이는 이를 가공해 결제 플랫폼을...",
+      "pubDate": "2026-11-16T15:02:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙일보"
+    },
+    {
+      "title": "현대카드 3년 8개월 독점 깨졌다…카카오뱅크, 애플페이 전격 도입",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3753980",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3753980",
+      "description": "특히 만 14세 이상 청소년 고객 역시 카카오뱅크 미니카드를 애플 지갑에 추가해 사용할 수 있어, 체크카드 시장에서 막강한 점유율을 확보한 카카오뱅크를 발판 삼아 애플페이 사용자가 대폭 늘어날 전망이다. 카카오뱅크...",
+      "pubDate": "2026-11-16T13:46:00+00:00",
+      "category": "애플페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "[금융 HOT 뉴스] 카카오뱅크, 애플페이 도입…체크·mini카드로 간편결제",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=152033",
+      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=152033",
+      "description": "카카오뱅크가 애플페이(Apple Pay) 서비스를 도입했다. 사진=카카오뱅크  카카오뱅크(대표 윤호영)가 애플페이(Apple Pay) 서비스를 도입해 고객의 결제 선택권을 확대한다. 카카오뱅크는 체크카드와 mini카드를...",
+      "pubDate": "2026-11-16T12:36:00+00:00",
+      "category": "애플페이",
+      "source": "비즈월드뉴스"
+    },
+    {
+      "title": "카카오뱅크 애플페이 합류…현대카드 이후 두 번째",
+      "link": "https://n.news.naver.com/mnews/article/658/0000161457?sid=101",
+      "originallink": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261116.99099004996",
+      "description": "카카오뱅크는 16일부터 아이폰의 애플 지갑(애플월렛)에 카카오뱅크 체크카드를 등록해 애플페이를 이용할 수 있다고 밝혔다. 만 14세 이상 청소년은 미니카드를 등록해 사용할 수 있다. 애플페이는 국내외 대형마트와...",
+      "pubDate": "2026-11-16T12:19:00+00:00",
+      "category": "애플페이",
+      "source": "kookje"
+    },
+    {
+      "title": "카카오뱅크도 애플페이 도입…아이폰 이용자 간편 결제",
+      "link": "https://n.news.naver.com/mnews/article/032/0003483033?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202611162032015",
+      "description": "국내외 대형할인점과 약국, 음식점, 카페, 편의점 등 컨택리스(비접촉식) 결제를 지원하는 오프라인 가맹점뿐 아니라 온라인과 앱에서도 애플페이를 쓸 수 있다. 카카오뱅크는 아이폰을 사용하는 카카오뱅크 고객의 결제...",
+      "pubDate": "2026-11-16T11:32:00+00:00",
+      "category": "애플페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "오픈놀, 핀테크 업계와 잇단 MOU 체결",
+      "link": "https://n.news.naver.com/mnews/article/092/0002445560?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20261116200123",
+      "description": "이어 국내 대표 금융 비즈니스 데이터 플랫폼 기업 쿠콘은 금융·공공 데이터 API와 간편결제·이체 등 페이먼트 API를 스타트업에 연계, 별도의 인프라 구축 없이도 혁신 금융 서비스를 빠르게 개발하고 시장에 선보일 수...",
+      "pubDate": "2026-11-16T11:02:00+00:00",
+      "category": "간편결제",
+      "source": "ZDNet"
+    },
+    {
+      "title": "카카오뱅크, '애플페이' 전격 도입… 1020 'mini카드'부터 체크카드 시장...",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=362618",
+      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=362618",
+      "description": "카카오뱅크 관계자는 \"이번 애플페이 도입으로 고객들의 결제 선택권을 넓히고 일상 속 금융 편의성을 한층 끌어올릴 수 있게 됐다\"라며 \"앞으로도 글로벌 결제 서비스 연동을 확대하는 동시에 국내 결제 인프라의...",
+      "pubDate": "2026-11-16T10:56:00+00:00",
+      "category": "애플페이",
+      "source": "비즈트리뷴"
+    },
+    {
+      "title": "카뱅으로도 애플페이 쓴다…체크·미니카드 지원",
+      "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101369",
+      "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=101369",
+      "description": "카카오뱅크는 애플페이 서비스를 도입했다고 16일 밝혔다. 비접촉(컨택리스) 결제가 가능한 오프라인 가맹점과 애플페이를 지원하는 앱, 온라인에서 사용할 수 있다. 체크카드 시장에서 높은 점유율을 보유한 카카오뱅크는...",
+      "pubDate": "2026-11-16T09:52:00+00:00",
+      "category": "애플페이",
+      "source": "뉴시안"
+    },
+    {
+      "title": "카뱅, 현대카드 이어 두번째 애플페이 도입",
+      "link": "https://n.news.naver.com/mnews/article/014/0005605071?sid=101",
+      "originallink": "https://www.fnnews.com/news/202611161827414179",
+      "description": "카카오뱅크 관계자는 \"이번 애플페이 도입으로 고객의 결제 선택권을 넓히고 일상 속 금융 편의성을 한층 높일 수 있게 됐다\"고 말했다. 카카오뱅크가 애플페이 서비스를 도입하면서 현대카드의 독점 체제도 깨지게 됐다.",
+      "pubDate": "2026-11-16T09:28:00+00:00",
+      "category": "애플페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "카카오뱅크 애플페이 서비스 도입, 체크카드 등록해 아이폰·애플워치로...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452111",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=452111",
+      "description": "<카카오뱅크> 애플페이는 애플 기기의 '지갑' 앱에 카드를 등록해 결제하는 간편결제 서비스다. 비접촉(컨택리스) 결제를 지원하는 오프라인 가맹점과 애플페이를 지원하는 애플리케이션, 온라인에서 사용할 수 있다. 이번...",
+      "pubDate": "2026-11-16T09:28:00+00:00",
+      "category": "애플페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "\"아이폰 유저 기다렸다\"…카카오뱅크, 애플페이 문 열었다",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=326978",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=326978",
+      "description": "카카오뱅크가 체크카드와 mini카드에 Apple Pay를 도입하며 지급결제 서비스 범위를 넓혔다. 카카오뱅크는 Apple Pay 서비스를 시작한다고 밝혔다. 고객은 카카오뱅크 카드를 Apple 지갑에 등록한 뒤 비접촉 결제를...",
+      "pubDate": "2026-11-16T09:28:00+00:00",
+      "category": "애플페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 서비스 시작",
+      "link": "http://www.paxetv.com/news/articleView.html?idxno=287109",
+      "originallink": "http://www.paxetv.com/news/articleView.html?idxno=287109",
+      "description": "카카오뱅크는 체크카드 이용 고객을 위한 애플페이(Apple Pay) 서비스를 도입했다고 16일 밝혔습니다. 아이폰과 애플워치 등 애플 기기를 활용해 온·오프라인에서 간편하게 결제할 수 있도록 했습니다. 카카오뱅크...",
+      "pubDate": "2026-11-16T09:16:00+00:00",
+      "category": "애플페이",
+      "source": "팍스경제TV"
+    },
+    {
+      "title": "거래 둔화에 3분기 영업익 ‘뚝’… 카카오페이·토스증권 수익 다변화...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003059453?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12095514?ref=naver",
+      "description": "◇거래 둔화·환율 직격탄… 3분기 영업익 나란히 뒷걸음 16일 금융투자업계에 따르면 토스증권과 카카오페이증권은 올해 3분기 전년 동기 대비 외형 성장을 이어갔지만, 직전 분기와 비교해서는 영업이익이 큰...",
+      "pubDate": "2026-11-16T09:11:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "카뱅, 은행 첫 애플페이 도입…체크카드 시장부터 확산",
+      "link": "https://n.news.naver.com/mnews/article/011/0004682820?sid=101",
+      "originallink": "https://www.sedaily.com/article/20115087?ref=naver",
+      "description": "금융계의 한 관계자는 “카카오뱅크가 애플페이를 도입하면서 체크카드 시장부터 애플페이에 뚫리게 됐다”며 “앞으로 페이 전쟁이 더 확산하게 될 것”이라고 전했다.",
+      "pubDate": "2026-11-16T09:09:00+00:00",
+      "category": "애플페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "카카오뱅크, '애플페이' 품었다",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326200",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326200",
+      "description": "카카오뱅크 관계자는 \"이번 애플페이 도입을 계기로 고객들의 결제 수단 선택지가 한층 다양해지고 일상 속 금융 편의성도 높아질 것\"이라며 \"향후 글로벌 결제 플랫폼과의 연동을 지속 확대하고 국내 지급결제...",
+      "pubDate": "2026-11-16T09:00:00+00:00",
+      "category": "애플페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스, 3분기 누적 매출 3조 육박…작년 연간치 추월",
+      "link": "https://www.news2day.co.kr/article/20261116500373",
+      "originallink": "https://www.news2day.co.kr/article/20261116500373",
+      "description": "간편결제(토스페이)·전자지급결제대행(PG)·결제 단말기 사업으로 구성된 페이먼츠 네트워크 부문 매출은 8047억원으로 비중은 27.6%였다. 지난해 연간 매출 1조135억원의 79.4% 수준이다. 토스는 페이스페이를...",
+      "pubDate": "2026-11-16T08:58:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "이제 카뱅도 애플페이 된다… 현대카드 이후 3년 만 도입",
+      "link": "https://n.news.naver.com/mnews/article/656/0000192577?sid=101",
+      "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2314036",
+      "description": "애플과 카카오뱅크 등에 따르면 이날부터 애플의 간편결제 서비스 '애플페이'에 카카오뱅크가 합류했다. 2023년 3월 현대카드 서비스 도입에 이어 3년 8개월여 만이다. 이에 따라 신용카드 발급이 어려운 대학생과...",
+      "pubDate": "2026-11-16T08:56:00+00:00",
+      "category": "애플페이",
+      "source": "대전일보"
+    },
+    {
+      "title": "토스, 개인정보 보호 강화…전담인력 두 배로",
+      "link": "https://n.news.naver.com/mnews/article/015/0005354446?sid=105",
+      "originallink": "https://www.hankyung.com/article/2026111600691",
+      "description": "네이버페이와 카카오페이의 개인정보 보호 전담 인력은 각각 10명 안팎이다. 토스는 2022년부터 정보보호최고책임자(CISO)와 개인정보보호책임자(CPO) 조직을 국내 핀테크 회사 중 처음으로 분리해 운영하고 있다. 일반적인...",
+      "pubDate": "2026-11-16T08:51:00+00:00",
+      "category": "토스페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "카뱅, 애플페이 도입",
+      "link": "https://n.news.naver.com/mnews/article/015/0005354440?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026111601661",
+      "description": "카카오뱅크는 16일 애플페이 서비스를 시작했다. ▶본지 11월 9일자 A2면 참조 카카오뱅크 체크카드를 아이폰의 애플 지갑에 등록하면 애플페이 결제가 가능하다. 오프라인에선 아이폰 암호로 인증한 뒤 결제단말기에...",
+      "pubDate": "2026-11-16T08:49:00+00:00",
+      "category": "애플페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "‘금융 도약’ 카카오페이, 토스 순익 제쳤다",
+      "link": "https://n.news.naver.com/mnews/article/081/0003699915?sid=101",
+      "originallink": "https://www.seoul.co.kr/news/economy/2026/11/16/20261116500327?wlog_tag3=naver",
+      "description": "3분기 329억으로 토스는 52억 그쳐 대출 중개·보험 등 수익 사업 효과 토스·네이버페이, 단말기 보급 부담 국내 대표 핀테크 기업인 토스(비바리퍼블리카)·네이버파이낸셜(네이버페이)·카카오페이가 올해 3분기...",
+      "pubDate": "2026-11-16T08:45:00+00:00",
+      "category": "카카오페이",
+      "source": "서울신문"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…청소년부터 사회초년생까지 이용 가능",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241906",
+      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=241906",
+      "description": "카카오뱅크가 애플페이(Apple Pay) 서비스를 도입하며 고객의 간편결제 선택권 확대에 나섰다. 카카오뱅크는 애플페이 서비스를 도입했다고 16일 밝혔다. 이번 서비스 도입으로 카카오뱅크 체크카드 고객은 물론 만...",
+      "pubDate": "2026-11-16T08:42:00+00:00",
+      "category": "애플페이",
+      "source": "이지경제"
+    },
+    {
+      "title": "[핀테크 NOW] 토스·웹케시·NHN KCP",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194701",
+      "originallink": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194701",
+      "description": "■ 토스, 사기업 최초 '통신 마이데이터' 지정...요금제 추천 출시 토스가 사기업 최초로 통신 마이데이터... 엄 이사는 스테이블코인이 상용화되기 위해서는 기존 간편결제에 필적하는 결제 속도와 정산 주기 단축이...",
+      "pubDate": "2026-11-16T08:34:00+00:00",
+      "category": "토스페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…체크카드 결제 지원",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715824",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715824",
+      "description": "16일 카카오뱅크에 애플페이가 도입됐다. [사진: 카카오뱅크] 카카오뱅크가 16일 애플페이(Apple Pay)를 도입해 체크카드와 만 14세 이상 청소년용 미니카드(mini카드) 고객도 아이폰과 애플워치로 결제할 수 있게 됐다....",
+      "pubDate": "2026-11-16T08:30:00+00:00",
+      "category": "애플페이",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 서비스 시작...현대카드 이어 두 번째, 은행권 최...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16277925",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16277925",
+      "description": "카카오뱅크의 애플페이 출시 이후 다른 금융사들의 서비스 도입 여부에도 관심이 모이고 있다. 신한카드와 KB국민카드 등 주요 카드사와 토스뱅크도 애플페이 도입을 위한 기술 개발과 관련 절차를 추진해 온 것으로...",
+      "pubDate": "2026-11-16T08:30:00+00:00",
+      "category": "애플페이",
+      "source": "톱스타뉴스"
+    },
+    {
+      "title": "현대카드 독점 깨졌다…애플페이에 카카오뱅크 체크카드도 '쏙'",
+      "link": "https://n.news.naver.com/mnews/article/092/0002445534?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20261116145058",
+      "description": "16일 카카오뱅크는 이날 오후부터 애플페이에 카카오뱅크 체크카드인 '프렌즈 카드'와 선불전자지급수단 연동 카드인 '카카오뱅크 미니(mini)카드'를 등록할 수 있다고 밝혔다. 그간 국내 아이폰 유저들은 애플페이를 쓰기...",
+      "pubDate": "2026-11-16T08:19:00+00:00",
+      "category": "애플페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…청소년·사회초년생도 쓴다",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=122265",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=122265",
+      "description": "카카오뱅크가 '애플페이' 서비스를 도입했다고 16일 밝혔다. 애플페이는 애플 기기를 이용해 비접촉 방식으로 결제할 수 있는 간편결제 서비스다. 이용자는 오프라인 매장 결제 시 실물 카드나 별도 앱 실행 없이 아이폰...",
+      "pubDate": "2026-11-16T08:18:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "한신평, 네이버페이와 리서치 콘텐츠 협업",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=134036",
+      "originallink": "http://www.efnews.co.kr/news/articleView.html?idxno=134036",
+      "description": "네이버페이 관계자는 \"한신평과의 협업을 통해, 금융투자에 관심있는 네이버페이 사용자를 위한 차별화된 오리지날 콘텐츠를 지속 제공할 수 있도록 노력하겠다\"고 말했다. [파이낸셜신문=]",
+      "pubDate": "2026-11-16T08:14:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜신문"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입으로 저변 확대…현대카드 이후 두번째",
+      "link": "https://n.news.naver.com/mnews/article/422/0000926690?sid=101",
+      "originallink": "http://www.yonhapnewstv.co.kr/news/AKR20261116171311NAT",
+      "description": "카카오뱅크가 애플페이 서비스를 오늘(16일) 도입했습니다. 지난 2023년 현대카드에서 국내 애플페이 서비스를 시작한 이후 3년여 만에 다른 금융사에서도 애플페이를 쓸 수 있게 됐습니다. 만 14세 이상 청소년 고객이라면...",
+      "pubDate": "2026-11-16T08:14:00+00:00",
+      "category": "애플페이",
+      "source": "연합뉴스TV"
+    },
+    {
+      "title": "[속보]카카오뱅크, 애플페이 도입",
+      "link": "https://n.news.naver.com/mnews/article/050/0000113312?sid=101",
+      "originallink": "https://magazine.hankyung.com/business/article/202611169933b",
+      "description": "카카오뱅크가 애플페이 서비스를 시작했다. 카카오뱅크는 16일 오후 애플페이 서비스를 정식 출시한다고 밝혔다. 현재 아이폰 애플월렛(지갑)에서 애플페이가 정식으로 등록이 가능하며 결제도 할 수 있다. 특히 만 14세...",
+      "pubDate": "2026-11-16T08:08:00+00:00",
+      "category": "애플페이",
+      "source": "hankyung"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입...아이폰으로 쉽게 결제한다",
+      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=320587",
+      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=320587",
+      "description": "카카오뱅크가 애플페이(Apple Pay) 서비스를 도입했다. 아이폰과 애플워치 등 애플 기기를 통해 온·오프라인에서 간편하게 결제할 수 있게 됐다. 16일 카카오뱅크는 \"컨택리스로 결제 가능한 오프라인 가맹점 및...",
+      "pubDate": "2026-11-16T08:06:00+00:00",
+      "category": "애플페이",
+      "source": "월요신문"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털금융 소식...두나무·카카오페이·NHN KCP",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203349",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=203349",
+      "description": "카카오페이가 기부 마라톤 캠페인 ‘2026 롱런(2026 LONG RUN)’에서 누적 300억 걸음을 돌파해 기부금 10억 원을 확정했다. 또 NHN KCP는 스테이블코인 토론회에서 가맹점 결제·정산 인프라 활용 방향을 제시했다. ◆ 두나무...",
+      "pubDate": "2026-11-16T08:04:00+00:00",
+      "category": "카카오페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "애플페이, 카카오뱅크 합류로 국내 시장 확대...삼성페이와 경쟁 본격화",
+      "link": "https://www.m-economynews.com/news/article.html?no=73122",
+      "originallink": "https://www.m-economynews.com/news/article.html?no=73122",
+      "description": "현대카드 이어 두 번째 금융사 참여...약 3년 8개월 만에 선택권 확대 교통카드·NFC 결제망 확충 긍정적...결제액 0.15% 수수료는 부담 애플의 간편결제 서비스 애플페이가 카카오뱅크로 지원 금융사를 확대하면서 국내...",
+      "pubDate": "2026-11-16T08:00:00+00:00",
+      "category": "삼성페이",
+      "source": "m-economynews"
+    },
+    {
+      "title": "카카오뱅크, '애플페이' 도입…현대카드 이후 처음",
+      "link": "https://n.news.naver.com/mnews/article/648/0000052674?sid=101",
+      "originallink": "https://news.bizwatch.co.kr/article/finance/2026/11/16/0031",
+      "description": "카카오뱅크가 애플페이 서비스를 도입했다. 체크카드와 청소년용 'mini(미니)카드'를 아이폰에 등록해 쓸 수 있다. 국내에서는 현대카드 이후 처음이다. 카카오뱅크는 16일 자사 카드를 애플 지갑에 추가해 애플페이로...",
+      "pubDate": "2026-11-16T07:59:00+00:00",
+      "category": "애플페이",
+      "source": "bizwatch"
+    },
+    {
+      "title": "아이폰 결제 선택지 늘었다…카카오뱅크, '애플페이' 합류",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6943691",
+      "originallink": "https://sports.hankooki.com/news/articleView.html?idxno=6943691",
+      "description": "카카오뱅크는 애플페이 서비스를 도입했다고 16일 밝혔다. 체크카드를 애플 지갑에 등록해 이용할 수 있으며, 만 14세 이상 청소년 고객은 미니카드를 추가하면 된다. 국내에서는 지난 2023년 3월 현대카드가 애플페이를...",
+      "pubDate": "2026-11-16T07:56:00+00:00",
+      "category": "애플페이",
+      "source": "스포츠한국"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…미니카드도 이용 가능",
+      "link": "https://byline.network/?p=9004111222627921",
+      "originallink": "https://byline.network/?p=9004111222627921",
+      "description": "카카오뱅크 관계자는 “이번 애플페이 도입으로 고객의 결제 선택권을 넓히고 일상 속 금융 편의성을 한층 높일 수 있게 됐다”며 “앞으로도 글로벌 결제 서비스 도입을 확대하는 동시에 국내 결제 인프라의...",
+      "pubDate": "2026-11-16T07:54:00+00:00",
+      "category": "애플페이",
+      "source": "byline"
+    },
+    {
+      "title": "토스, 3분기 누적 순익 2380억원…매출 작년 연간 실적 돌파",
+      "link": "https://n.news.naver.com/mnews/article/003/0014325472?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261116_0003870275",
+      "description": "토스의 3분기 누적 영업수익이 금융상품 중개와 투자 서비스 등 슈퍼앱 사업과 간편결제·전자지급결제대행(PG) 사업의 고른 성장에 힘입어 지난해 연간 실적을 넘어섰다. 토스는 3분기 연결 기준 누적 당기순이익이...",
+      "pubDate": "2026-11-16T07:54:00+00:00",
+      "category": "토스페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오뱅크까지 품은 애플페이…삼성페이와 경쟁 본격화하나",
+      "link": "https://n.news.naver.com/mnews/article/001/0016444731?sid=105",
+      "originallink": "https://www.yna.co.kr/view/AKR20261116147900017?input=1195m",
+      "description": "현대카드 독점 깨진 애플페이…카카오뱅크 두 번째 합류 16일 애플은 \"오늘 현대카드에 이어 카카오뱅크 카드 사용자에게 애플페이를 제공하게 되어 매우 기쁘며, 앞으로도 더 많은 은행과 함께하기를 기대한다\"고 밝혔다....",
+      "pubDate": "2026-11-16T07:51:00+00:00",
+      "category": "삼성페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 서비스 시작…현대카드 이후 두 번째",
+      "link": "https://n.news.naver.com/mnews/article/079/0004210316?sid=101",
+      "originallink": "https://www.nocutnews.co.kr/news/6607633?utm_source=naver&utm_medium=article&utm_campaign=20261116164558",
+      "description": "아이폰 애플월렛 정식 등록 가능신한·KB카드, 토스뱅크 애플페이 도입 여부 관심사 카카오뱅크가 애플페이 서비스를 시작한다. 현대카드가 국내 애플페이 서비스를 시작한 이후 3년여 만이다. 카카오뱅크는 16일 오후...",
+      "pubDate": "2026-11-16T07:46:00+00:00",
+      "category": "애플페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "카카오뱅크, 현대카드 이어 애플페이 도입…\"체크카드 등록후 결제\"",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1425608",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1425608",
+      "description": "카카오뱅크의 이번 애플페이 도입은 국내 간편결제 시장의 경쟁 구도에도 영향을 미칠 전망이다. 현대카드 외 금융회사의 서비스 제공이 시작되면서 다른 은행과 카드사의 애플페이 도입에도 관심이 쏠리고 있다....",
+      "pubDate": "2026-11-16T07:44:00+00:00",
+      "category": "애플페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "카카오뱅크에서도 애플페이 된다...현대카드 이어 두번째",
+      "link": "https://n.news.naver.com/mnews/article/057/0001978424?sid=102",
+      "originallink": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231122",
+      "description": "카카오뱅크는 \"이번 애플페이 도입으로 고객의 결제 선택권을 넓히고 일상 속 금융 편의성을 한층 높일 수 있게 됐다\"며 \"앞으로도 글로벌 결제 서비스 도입을 확대하는 동시에 국내 결제 인프라의 표준화와 발전을 위해...",
+      "pubDate": "2026-11-16T07:40:00+00:00",
+      "category": "애플페이",
+      "source": "MBN"
+    },
+    {
+      "title": "현대카드 3년 8개월 독주 끝…카뱅, 애플페이 도입",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2121970",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2121970",
+      "description": "포쓰저널 김지훈 기자 카카오뱅크 국내에서 현대카드만 이용할 수 있었던 애플페이가 카카오뱅크로 확대됐다. 2023년 3월 애플페이가 국내에 도입된 지 3년 8개월 만에 현대카드의 사실상 단독 지원 체제가 막을 내리면서...",
+      "pubDate": "2026-11-16T07:38:00+00:00",
+      "category": "애플페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "네이버페이, NFT 티켓 오프라인 접점 확장…관건은 '재방문'",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194690",
+      "originallink": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194690",
+      "description": "네이버의 3분기 파이낸셜 플랫폼 매출은 4877억원으로 전년 동기 대비 14.1% 증가했다. 같은 기간 Npay 결제액은 26조2000억원으로 15.6% 늘었으며 외부 결제액은 21.8% 증가했다. 오프라인 통합 단말기 Npay 커넥트와...",
+      "pubDate": "2026-11-16T07:26:00+00:00",
+      "category": "네이버페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "[금융소식] IBK기업은행·우리은행·카카오뱅크·하나카드·토스·농협상...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3448991",
+      "originallink": "https://www.newscj.com/news/articleView.html?idxno=3448991",
+      "description": "카카오페이 애플페이는 컨택리스로 결제 가능한 오프라인 가맹점과 애플페이를 지원하는 앱, 온라인 등에서 이용할 수 있다. 하나카드가 키움증권과 함께 '키움증권 하나카드'를 출시했다. 키움증권 하나카드는...",
+      "pubDate": "2026-11-16T07:26:00+00:00",
+      "category": "토스페이",
+      "source": "여론조사에 강한 신문- 천지일보"
+    },
+    {
+      "title": "카카오뱅크, 애플 페이 도입",
+      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367656",
+      "originallink": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367656",
+      "description": "카카오뱅크는 애플 페이 서비스를 도입했다고 16일 밝혔다. 컨택리스로 결제 가능한 오프라인 가맹점 및 애플 페이를 지원하는 앱과 온라인에서 사용 가능하다. 만 14세 이상 청소년 고객이라면 카카오뱅크 mini카드를 애플...",
+      "pubDate": "2026-11-16T07:20:00+00:00",
+      "category": "애플페이",
+      "source": "시사포커스"
+    },
+    {
+      "title": "카카오뱅크, '애플페이' 도입...결제 선택권 확대",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=157404",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=157404",
+      "description": "윤호영 카카오뱅크 대표/사진=카카오뱅크 카카오뱅크가 애플페이 서비스를 도입하면서 더욱 간편한 결제 경험을 제공한다. 철저한 보안이 강점인 애플 페이를 통해 이용자들의 결제 안정성을 확보하는 것은 물론, 온...",
+      "pubDate": "2026-11-16T07:20:00+00:00",
+      "category": "애플페이",
+      "source": "테크M"
+    },
+    {
+      "title": "현대카드 없이도 애플페이…카카오뱅크 합류에 카드사도 움직일까",
+      "link": "https://www.ajunews.com/view/20261116155804735",
+      "originallink": "https://www.ajunews.com/view/20261116155804735",
+      "description": "체크·mini카드로 이용…만 14세 이상 청소년도 가능 토스뱅크도 도입 준비…수수료 부담은 확산 변수 아주경제=김지윤 기자 yoon0930@ajunews.com 애플페이에 카카오뱅크 체크카드가 등록된 모습 [사진=독자제공] 현대카드...",
+      "pubDate": "2026-11-16T07:20:00+00:00",
+      "category": "애플페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…3년여 만에 현대카드 독점 체제 깨져",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=887335",
+      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=887335",
+      "description": "2023년 애플페이의 국내 상륙 이후 3년여간 이어져 온 현대카드의 독점 체제가 깨지면서 국내 간편결제... 인터넷은행이 먼저 애플페이 도입에 나서게 됐다. 토스뱅크 역시 애플페이 도입을 적극 추진 중인 것으로 알려졌다.",
+      "pubDate": "2026-11-16T07:10:00+00:00",
+      "category": "애플페이",
+      "source": "글로벌경제신문"
+    },
+    {
+      "title": "현대카드 독점 깨졌다…카카오뱅크도 애플페이 서비스 시작",
+      "link": "https://n.news.naver.com/mnews/article/018/0006410548?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02774886645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "카카오뱅크(323410)가 애플페이 서비스를 시작하면서 국내 애플페이 이용 가능 카드가 확대됐다. 2023년 현대카드가 국내에 애플페이를 처음 도입한 이후 다른 금융사가 서비스를 지원하는 것은 이번이 처음이다....",
+      "pubDate": "2026-11-16T07:09:00+00:00",
+      "category": "애플페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…체크카드·mini카드 결제 지원",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=153510",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=153510",
+      "description": "카카오뱅크가 애플페이(Apple Pay)를 도입하며 간편결제 서비스를 확대했다. 체크카드 고객은 아이폰과 애플워치 등으로 실물 카드 없이 결제할 수 있으며, 만 14세 이상 청소년도 mini카드를 등록해 이용할 수 있다....",
+      "pubDate": "2026-11-16T07:06:00+00:00",
+      "category": "애플페이",
+      "source": "직썰"
+    },
+    {
+      "title": "\"카카오뱅크 카드도 애플페이 된다\"…14세 청소년까지 이용 가능",
+      "link": "https://www.wikitree.co.kr/articles/1175032",
+      "originallink": "https://www.wikitree.co.kr/articles/1175032",
+      "description": "카카오뱅크 체크카드와 청소년용 mini카드 이용자도 아이폰이나 애플워치만 있으면 실물 카드 없이 결제할 수 있게 됐다.만 14세 이상 청소년부터 대학생, 직장인까지 카카오뱅크 카드를 애플페이에 등록해 편의점과 카페...",
+      "pubDate": "2026-11-16T06:58:00+00:00",
+      "category": "애플페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "카카오뱅크, 현대카드 이후 3년 만에 애플페이 도입… 국내 은행권 최초",
+      "link": "https://n.news.naver.com/mnews/article/366/0001205114?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/11/16/433XBGRIY5HQLPA73IKSYHSZXE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "카카오뱅크가 국내 은행권에서 최초로 애플페이 서비스를 도입했다. 2023년 현대카드가 국내 최초로 애플페이를 도입하고 3년 8개월 만이다. 카카오뱅크는 컨택리스(비접촉 결제)가 가능한 오프라인 가맹점과 애플페이를...",
+      "pubDate": "2026-11-16T06:57:00+00:00",
+      "category": "애플페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 서비스 도입",
+      "link": "https://www.mediapen.com/news/view/1137758",
+      "originallink": "https://www.mediapen.com/news/view/1137758",
+      "description": "카카오뱅크는 애플페이(Apple Pay) 서비스를 도입했다고 16일 밝혔다. 카카오뱅크는 애플페이(Apple Pay) 서비스를 도입했다고 16일 밝혔다./사진=카카오뱅크 제공 애플페이는 컨택리스로 결제 가능한 오프라인 가맹점 및...",
+      "pubDate": "2026-11-16T06:56:00+00:00",
+      "category": "애플페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 정식 도입…인뱅 중 최초",
+      "link": "https://www.news2day.co.kr/article/20261116500226",
+      "originallink": "https://www.news2day.co.kr/article/20261116500226",
+      "description": "16일, 카카오뱅크 애플페이 도입 공식화 체크카드 주 고객층인 10~20대에 어필 \"고객 결제 선택권 높이기 위한 선택\" [사진=카카오뱅크] [뉴스투데이=정진욱 기자] 국내 애플페이 2호 사업자는 카카오뱅크였다....",
+      "pubDate": "2026-11-16T06:54:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입⋯국내 은행 최초",
+      "link": "https://n.news.naver.com/mnews/article/031/0001075421?sid=101",
+      "originallink": "http://www.inews24.com/view/2026692",
+      "description": "카카오뱅크는 애플페이 서비스를 도입했다고 16일 밝혔다. 현대카드에 이어 두 번째이자 국내 은행 가운데 최초다. 애플페이는 실물 카드 없이 아이폰이나 애플워치에 암호를 인증하고 단말기에 기기를 대면 바로 결제하는...",
+      "pubDate": "2026-11-16T06:51:00+00:00",
+      "category": "애플페이",
+      "source": "아이뉴스24"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 전격 개시…현대카드 독주 끝나 [자막뉴스]",
+      "link": "https://n.news.naver.com/mnews/article/449/0000367659?sid=101",
+      "originallink": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560189",
+      "description": "카카오뱅크가 오늘(16일) 애플페이 서비스를 도입했다고 밝혔습니다. 현대카드가 2023년 국내 서비스를 첫 도입한 지 3년 8개월 만인데요. 카카오뱅크는 \"글로벌 결제 서비스 도입을 확대하는 동시에 국내 결제 인프라의...",
+      "pubDate": "2026-11-16T06:50:00+00:00",
+      "category": "애플페이",
+      "source": "채널A"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입···현대카드 이어 두번째",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=642968",
+      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=642968",
+      "description": "카카오뱅크가 애플의 간편결제 서비스 애플페이를 도입했다. 국내에서 애플페이 서비스를 도입한 건 2023년... 매장에서 결제까지 성공한 사례가 확인된 바 있다. 금융권에선 토스뱅크도 애플페이 도입을 추진하는...",
+      "pubDate": "2026-11-16T06:49:00+00:00",
+      "category": "애플페이",
+      "source": "서울파이낸스"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입 … 체크·미니카드 온·오프라인 결제 지원",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/16/2026111650263.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/16/2026111650263.html",
+      "description": "뉴데일리 윤세라 기자 = 카카오뱅크가 애플의 간편결제 서비스인 '애플페이(Apple Pay)'를 도입하며 지급결제 서비스 확대에 나섰다. 이번 서비스 도입으로 카카오뱅크 체크카드와 청소년 전용 선불카드로 온·오프라인...",
+      "pubDate": "2026-11-16T06:48:00+00:00",
+      "category": "애플페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "윤호영 카뱅 대표, 애플페이로 체크카드 영토 확장…신한카드 잡는다",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258987",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258987",
+      "description": "윤호영 카카오뱅크 대표가 애플페이(Apple Pay) 서비스를 도입하며 체크카드 시장에서의 영향력 확대에 나섰다. 체크카드 결제액이 꾸준히 증가하고 있는 가운데 애플페이를 통한 결제 편의성 강화가 고객 확보와 이용...",
+      "pubDate": "2026-11-16T06:48:00+00:00",
+      "category": "애플페이",
+      "source": "인사이트코리아"
+    },
+    {
+      "title": "카카오뱅크, 애플페이로 결제 접점 넓힌다…6.3조 체크카드에 건 기대",
+      "link": "https://n.news.naver.com/mnews/article/293/0000093319?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=678733",
+      "description": "현대카드가 2023년 국내에 처음 선보였던 애플페이 생태계에 카카오뱅크가 합류했다. 주요 카드사들이 도입 시기와 수익성을 검토하는 사이 카카오뱅크가 대규모 체크카드 고객 기반을 앞세워 먼저 결제 선택지를...",
+      "pubDate": "2026-11-16T06:45:00+00:00",
+      "category": "애플페이",
+      "source": "블로터"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…체크카드·mini카드도 이용 가능",
+      "link": "https://n.news.naver.com/mnews/article/629/0000552390?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2389401.htm",
+      "description": "아이폰·애플워치로 국내외 온오프라인 가맹점 간편결제 카카오뱅크가 애플의 간편결제 서비스 '애플페이(Apple Pay)'를 도입했다. 체크카드뿐 아니라 청소년 전용 mini카드도 애플페이에 등록할 수 있어 고객들의 결제...",
+      "pubDate": "2026-11-16T06:44:00+00:00",
+      "category": "애플페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "토스, 금주 '코인지갑' 출시…연락처로 가상자산 송금",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315447",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=315447",
+      "description": "토스와 광주은행은 지난달 8일 광주은행 앱과 토스 앱, 토스플레이스 단말기를 연결해 스테이블코인 QR 결제 기술검증을 마쳤다고 밝혔다. 광주은행 앱에서 결제 메뉴를 선택하고 토스 앱으로 매장 단말기의 QR코드를...",
+      "pubDate": "2026-11-16T06:42:00+00:00",
+      "category": "토스페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 정식 도입…현대카드 이후 첫 이용 금융사",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611161513146970280",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611161513146970280",
+      "description": "토스뱅크와 주요 카드사들도 서비스 도입을 준비하고 있어 국내 간편결제 시장에 변화가 예상된다. 16일 금융권에 따르면 카카오뱅크는 이날 애플페이 서비스를 공식 출시했다. 지난 2023년 3월 현대카드가 국내에...",
+      "pubDate": "2026-11-16T06:42:00+00:00",
+      "category": "애플페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 서비스 도입···체크카드 결제 지원",
+      "link": "http://www.finomy.com/news/articleView.html?idxno=266828",
+      "originallink": "http://www.finomy.com/news/articleView.html?idxno=266828",
+      "description": "현대경제신문 정준기 기자 | 카카오뱅크가 애플페이 서비스를 시작하면서 현대카드가 3년 8개월간 유지해 온 국내 애플페이 단독 제공 체제가 종료됐다. 카카오뱅크 체크카드 이용자는 물론 만 14세 이상 청소년도...",
+      "pubDate": "2026-11-16T06:40:00+00:00",
+      "category": "애플페이",
+      "source": "현대경제신문"
+    },
+    {
+      "title": "카카오뱅크 '애플페이' 가세…만 14세부터 실물카드 없이 결제",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903228",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=903228",
+      "description": "현대카드에 이어 카카오뱅크가 애플페이에 합류했다. 카카오뱅크의 애플페이 지원은 현대카드 이후 3년 8개월 만으로, 소비자들의 선택권이 넓혀지게 됐다. 카카오뱅크는 16일 체크카드와 mini카드를 애플 지갑에 등록해...",
+      "pubDate": "2026-11-16T06:38:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 서비스 도입…현대카드 이어 두 번째",
+      "link": "https://n.news.naver.com/mnews/article/277/0005843253?sid=101",
+      "originallink": "https://view.asiae.co.kr/article/2026111615360240517",
+      "description": "카카오뱅크가 애플페이 서비스를 16일 도입했다. 2023년 현대카드에서 국내 애플페이 서비스를 시작한 지 3년 만이다. 만 14세 이상 청소년 고객이라면 카카오뱅크 미니카드를 애플 지갑에 추가해 애플페이를 이용할 수...",
+      "pubDate": "2026-11-16T06:36:00+00:00",
+      "category": "애플페이",
+      "source": "아시아경제"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입…현대카드 3년 독점 깼다",
+      "link": "https://n.news.naver.com/mnews/article/138/0002248727?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026111615341844952",
+      "description": "카카오뱅크의 올해 3분기 체크카드 결제액은 6조3000억원에 달한다. 토스뱅크도 올해 초 금융감독원의 애플페이 관련 약관 심사를 마친 만큼 간편결제 시장을 둘러싼 인터넷은행과 카드사 간 경쟁은 한층 치열해질 전망이다.",
+      "pubDate": "2026-11-16T06:35:00+00:00",
+      "category": "애플페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 서비스 도입…은행권 최초",
+      "link": "http://datanews.co.kr/news/article.html?no=147622",
+      "originallink": "http://datanews.co.kr/news/article.html?no=147622",
+      "description": "카카오뱅크(대표 윤호영)는 애플페이 서비스를 도입했다고 16일 밝혔다. 금융권에서 현대카드에 이은 두 번째 도입이자, 은행권 최초다. 애플페이는 컨택리스로 결제 가능한 오프라인 가맹점 및 지원 앱과 온라인에서...",
+      "pubDate": "2026-11-16T06:32:00+00:00",
+      "category": "애플페이",
+      "source": "데이터뉴스"
+    },
+    {
+      "title": "카카오뱅크, '애플페이' 도입…현대카드 독점 깨져",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7194128",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7194128",
+      "description": "사진=카카오뱅크 카카오뱅크가 '애플페이'를 도입했다. 현대카드가 2023년 국내 처음으로 애플페이를 도입한 이후 3년 만이다. 16일 카카오뱅크는 앞으로 만 14세 이상 청소년 고객은 자사의 mini카드를 애플 지갑에 추가해...",
+      "pubDate": "2026-11-16T06:32:00+00:00",
+      "category": "애플페이",
+      "source": "주간한국"
+    },
+    {
+      "title": "[금융권 이모저모]카카오뱅크, 애플페이 도입…청소년도 이용 가능 外",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=119951",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=119951",
+      "description": "체크카드에도 애플페이가 도입되면서 청소년 고객까지 모바일 결제 서비스를 이용할 수 있게 됐다. 금융투자업계에서는 퇴직연금 제도 개편에 대비한 기업 대상 세미나가 열렸고, 은행권에서는 인공지능(AI) 개발...",
+      "pubDate": "2026-11-16T06:30:00+00:00",
+      "category": "애플페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "'아이폰만 갖다 대면 결제 끝'…카카오뱅크, 현대카드 이어 애플페이 도...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301219",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=301219",
+      "description": "카카오뱅크는 체크카드와 mini카드 고객을 대상으로 애플페이 서비스를 도입했다고 16일 밝혔다. 이번 서비스 도입으로 카카오뱅크 고객은 비접촉식(컨택리스) 결제를 지원하는 오프라인 가맹점과 애플페이를 지원하는...",
+      "pubDate": "2026-11-16T06:30:00+00:00",
+      "category": "애플페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "[이슈] 아이폰 유저에겐 희소식…카카오뱅크도 '애플페이' 합류",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=819109",
+      "originallink": "https://www.startuptoday.co.kr/news/articleView.html?idxno=819109",
+      "description": "카카오뱅크가 애플페이(Apple Pay)를 도입하며 모바일 결제 서비스 확대에 나섰다. 기존 현대카드 중심이던 국내 애플페이 이용 범위가 인터넷전문은행의 체크카드로 넓어졌다. 청소년 전용 mini카드도 지원하면서 젊은...",
+      "pubDate": "2026-11-16T06:30:00+00:00",
+      "category": "애플페이",
+      "source": "오늘경제"
+    },
+    {
+      "title": "카카오뱅크도 애플페이 탑승…청소년·2030까지 '간편결제 전면전'",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=67833",
+      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=67833",
+      "description": "카카오뱅크가 국내 시중 금융사 가운데 두 번째로 애플페이 서비스를 도입하며 간편결제 시장 경쟁에 불을 지폈다. 2023년 현대카드가 국내 최초로 애플페이를 선보인 지 3년여 만에 다른 금융사 고객들도 애플페이를 쓸...",
+      "pubDate": "2026-11-16T06:30:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스로드"
+    },
+    {
+      "title": "“애플 지갑에 등록만 하면 바로 결제”…카뱅 애플페이 써보니",
+      "link": "https://n.news.naver.com/mnews/article/009/0005764400?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12209953",
+      "description": "확인 절차를 마치자마자 애플 지갑의 안내가 해당 카드를 애플페이에서 사용할 수 있다는 내용으로 바뀌었다. 카카오톡으로도 카카오뱅크 명의의 ‘Apple Pay 설정 완료’ 알림톡이 도착했다. 등록한 카드의 끝 네 자리...",
+      "pubDate": "2026-11-16T06:26:00+00:00",
+      "category": "애플페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "카카오뱅크도 애플페이 서비스 시작",
+      "link": "https://n.news.naver.com/mnews/article/448/0000651351?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690185.html",
+      "description": "카카오뱅크가 애플페이 서비스를 도입한다. 16일 카카오뱅크가 애플페이(Apple Pay) 서비스를 도입했다고 밝혔다. 만 14세 이상 청소년 고객이라면 카카오뱅크 mini 카드를 애플 지갑에 추가해 애플페이를...",
+      "pubDate": "2026-11-16T06:23:00+00:00",
+      "category": "애플페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 은행권 첫 도입…현대카드 이어 두 번째",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=86411",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=86411",
+      "description": "도입을 계기로 고객의 결제 선택권을 확대하고 글로벌 결제 서비스와의 협력을 강화할 방침이다. 한편 토스뱅크도 애플페이 도입을 준비하고 있어 국내 간편결제 시장의 경쟁은 한층 확대될 전망이다. 사진제공=카카오뱅크",
+      "pubDate": "2026-11-16T06:18:00+00:00",
+      "category": "애플페이",
+      "source": "PRESS9"
+    },
+    {
+      "title": "카카오뱅크 애플페이 합류…체크·mini카드로 쓴다",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/113781",
+      "originallink": "https://www.smarttoday.co.kr/ko-kr/articles/113781",
+      "description": "추후 토스뱅크도 애플페이를 도입한다. 토스뱅크는 올해 초 금융감독원의 애플페이 관련 약관 심사를 마친... 오프라인에서는 애플페이를 지원하는 비접촉식 결제 가맹점에서 아이폰이나 애플워치로 결제한다....",
+      "pubDate": "2026-11-16T06:16:00+00:00",
+      "category": "애플페이",
+      "source": "스마트투데이"
+    },
+    {
+      "title": "카뱅, 애플페이 도입 2호…아이폰 생활결제 경쟁",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=315441",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=315441",
+      "description": "올해 4월 삼성전자 측은 \"삼성페이 수수료 인상 여부와 관련해 확정된 것은 없다\"고 밝혔다. 11월 현재 별도 결제 수수료를 부과하지 않는 정책이 이어지고 있다. 삼성전자가 공개한 2024년 삼성월렛 결제액은...",
+      "pubDate": "2026-11-16T06:14:00+00:00",
+      "category": "애플페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "간편결제·금융보안 시장 커지는데…핀테크株는 종목별 온도차 뚜렷",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504563",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504563",
+      "description": "네이버페이를 중심으로 한 간편결제와 온라인 금융 서비스 사업을 영위하고 있어 플랫폼 기반 핀테크... 전자결제 관련 기업인 KG이니시스와 NHN KCP, 한국정보통신, 헥토파이낸셜, 다날, 갤럭시아머니트리 등은 온라인...",
+      "pubDate": "2026-11-16T06:08:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "애플페이 현대카드 독점 깨졌다…카카오뱅크 서비스 시작",
+      "link": "https://n.news.naver.com/mnews/article/025/0003565495?sid=101",
+      "originallink": "https://www.joongang.co.kr/article/25479010",
+      "description": "카카오뱅크에 이어 토스뱅크도 애플페이 도입을 추진하고 있다. 인터넷전문은행들이 일상적인 결제 서비스로 영역을 넓히면서 간편결제 시장의 경쟁도 치열해질 전망이다. 카카오뱅크 관계자는 “이번 애플페이...",
+      "pubDate": "2026-11-16T06:07:00+00:00",
+      "category": "애플페이",
+      "source": "중앙일보"
+    },
+    {
+      "title": "카카오뱅크도 애플페이 뚫었다…체크·mini카드로 결제 가능",
+      "link": "https://n.news.naver.com/mnews/article/008/0005441716?sid=101",
+      "originallink": "https://www.mt.co.kr/finance/2026/11/17/2026111614423465991",
+      "description": "아이폰 간편결제를 이용할 수 있게 됐다. 이번 도입으로 신용카드 발급이 어려운 대학생과 사회초년생 등도... 한편 국내 은행 가운데는 토스뱅크도 애플페이 도입을 준비하고 있으며, 신한·KB국민 등 다른 카드사들도...",
+      "pubDate": "2026-11-16T06:04:00+00:00",
+      "category": "애플페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "애플페이 문턱 낮아졌다…카카오뱅크도 서비스 개시",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026111614463284286",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026111614463284286",
+      "description": "카카오뱅크의 이번 서비스 도입으로 인터넷은행의 간편결제 경쟁에도 변화가 예상된다. 토스뱅크 역시 애플페이 도입을 추진하고 있는 만큼 인터넷은행들이 기존 예금·대출 중심의 금융서비스를 넘어 일상적인 결제...",
+      "pubDate": "2026-11-16T05:52:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "[단독]카카오뱅크, 애플페이 서비스 시작",
+      "link": "https://n.news.naver.com/mnews/article/030/0003486096?sid=101",
+      "originallink": "https://www.etnews.com/20261116000304",
+      "description": "토스페이먼츠도 가맹점에 카카오뱅크 체크카드의 애플페이 지원을 예고하는 등 결제 인프라 구축을 마쳤다. 그동안 금융권에서는 신한카드와 KB국민카드 등 대형 카드사가 현대카드에 이어 애플페이를 도입할 것으로...",
+      "pubDate": "2026-11-16T05:18:00+00:00",
+      "category": "애플페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "네이버, 오는 19일 소상공인 대상 ‘Npay 플레이스 상품권’ 도입…”발...",
+      "link": "https://byline.network/?p=9004111222627837",
+      "originallink": "https://byline.network/?p=9004111222627837",
+      "description": "16일 네이버와 네이버파이낸셜에 따르면, Npay 플레이스 상품권은 네이버 플레이스에 등록된 사업주가 메뉴별 상품권을 발행하고 판매할 수 있도록 지원하는 솔루션이다. 네이버페이가 상품권 발행과 결제, 사용 처리...",
+      "pubDate": "2026-11-16T04:32:00+00:00",
+      "category": "네이버페이",
+      "source": "byline"
+    },
+    {
       "title": "토스, 3분기 누적 순익 2380억원…전년比 47.3%↑",
       "link": "http://www.newswatch.kr/news/articleView.html?idxno=81909",
       "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=81909",
@@ -61,7 +1258,7 @@
       "description": "산업·기업 신용 동향을 요약·영상·오디오로 제공 보고서 원문도 연결 /한국신용평가 개인투자자가 네이버페이에서 채권을 발행한 기업의 신용 이슈와 업종별 동향을 살펴볼 수 있게 된다. 채권과 신용상품에 투자하는...",
       "pubDate": "2026-11-16T01:34:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "한신평, 네이버페이와 금융 리서치 제공",
@@ -1654,7 +2851,7 @@
       "description": "네이버파이낸셜 주식회사(이하 '네이버파이낸셜')와 두나무 주식회사(이하 '두나무') 간 포괄적 주식교환1)을 통해 추진 중인 기업결합 건에 대한 공정거래위원회의 심의 절차가 개신된다. 공정거래위원회(위원장 주병기...",
       "pubDate": "2026-11-10T04:38:00+00:00",
       "category": "네이버페이",
-      "source": "데일리경제"
+      "source": "kdpress"
     },
     {
       "title": "Npay, '2026 서울카페쇼' 공식 스폰서 참가…'Npay 커넥트' 노하우 공유",
@@ -2077,7 +3274,7 @@
       "description": "네이버페이는 11일부터 14일까지 서울 강남구 코엑스에서 열리는 '제25회 서울카페쇼'에 공식 스폰서로 참가한다고 10일 밝혔다. 서울카페쇼는 매년 10만명 이상이...",
       "pubDate": "2026-11-10T01:40:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "네이버페이 서울카페쇼 공식 스폰서로 첫선 \"Npay 커넥트 앞세워 사장님...",
@@ -2104,7 +3301,7 @@
       "description": "애플페이 연동 관련 안내 이미지./애플 홈페이지 갈무리 카카오뱅크와 토스뱅크가 연내 애플페이 도입을 추진하면서 카드업계의 셈법이 복잡해지고 있다. 애플페이 확산에 따른 경쟁 압박이 커질 것으로 예상되나 여전히...",
       "pubDate": "2026-11-10T01:22:00+00:00",
       "category": "애플페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "네이버페이, ‘2026 서울카페쇼’ 참가…‘Npay 커넥트’ 사업 알려",
@@ -2266,7 +3463,7 @@
       "description": "박 대표는 캠페인 다음 참여자로 조창현 현대카드 대표와 신원근 카카오페이 대표를 지목했다. ◆ 티머니, ‘모두의카드’ 편의점 판매 개시…구매 접근성 확대 티머니(대표이사 최문근)가 ‘모두의카드(기후동행패스)...",
       "pubDate": "2026-11-09T07:54:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 금융계 소식…하나은행·토스",
@@ -2275,7 +3472,7 @@
       "description": "발표에는 토스·토스뱅크·토스증권·토스플레이스·토스인컴·토스모바일 등 6개 계열사의 보안 전문가가 참여했다. 3개 트랙에서 총 21개 세션이 열렸으며 AI 기반 보안관제와 위협 탐지, 제로트러스트 기반 접근 통제...",
       "pubDate": "2026-11-09T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "애플페이 도입 확산 조짐…카드사 수수료 부담 커질까",
@@ -2356,7 +3553,7 @@
       "description": "네이버페이가 서민금융진흥원이 주관하는 '사람 살리는 금융' 캠페인에 동참했다고 9일 밝혔다. '사람 살리는 금융'은 불법사금융으로부터 금융 취약계층을 보호하고...",
       "pubDate": "2026-11-09T01:54:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "카카오페이, 소상공인 온라인 기획전…결제 시 20% 할인",
@@ -2833,7 +4030,7 @@
       "description": "네이버페이는 제주 서귀포중심상가의 디지털 전환을 지원하며 지역 상권 활성화에 나선다. 신용보증기금은 성장 잠재력이 높은 혁신스타트업 4개사를 선정하고 금융·비금융 지원을 제공한다. ◆ KB국민카드, ‘KB...",
       "pubDate": "2026-11-06T02:20:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "인피니소프트, QR코드 기반 캐디피 카드결제 서비스 출시",
@@ -2977,7 +4174,7 @@
       "description": "토스의 오프라인 결제 자회사 토스플레이스가 11월 2일 네이버를 시장지배적 지위 남용 및 불공정거래행위 혐의로 공정거래위원회에 신고했다. 네이버가 자사 ‘플레이스플러스’ 서비스에 토스 판매관리스시템(POS)을...",
       "pubDate": "2026-11-05T22:02:00+00:00",
       "category": "토스페이",
-      "source": "주간동아"
+      "source": "donga"
     },
     {
       "title": "결제 접점 쥐는 토스·네이버…\"종속될라\" 카드사들 바짝 긴장",
@@ -3157,7 +4354,7 @@
       "description": "카카오페이가 소상공인의 날을 맞아 소상공인 브랜드의 온라인 판로 확대를 위한 특별 기획전을 개최한다. 신용보증기금은 청년창업 기업의 금융비용 부담을 낮추기 위한 우대보증을 공급하고, 5개 공공기관과 내부통제...",
       "pubDate": "2026-11-05T05:44:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "교촌치킨, 앱에서 삼성월렛 결제 고객에 최대 6.5% 적립",
@@ -3292,7 +4489,7 @@
       "description": "카카오페이가 소상공인의 날을 맞아 소상공인 브랜드의 온라인 판로 확대를 위한 특별 기획전을 연다. 카카오페이는 5일부터 12일까지 소상공인 상생 캠페인 '오래오래 함께가게' 온라인몰에서 '작은 가게, 큰 발견...",
       "pubDate": "2026-11-05T01:38:00+00:00",
       "category": "카카오페이",
-      "source": "더투데이"
+      "source": "the-today"
     },
     {
       "title": "카카오페이, 소상공인의 날 맞아 온라인몰 할인전",
@@ -3517,7 +4714,7 @@
       "description": "삼성월렛 머니는 중국 전역의 위챗페이 가맹점에서 QR 결제를 지원한다. 식당 테이블 오더 결제도 가능하다. 중국 외 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개국에서는 근거리무선통신(NFC) 방식으로 1억5000만...",
       "pubDate": "2026-11-04T09:15:00+00:00",
       "category": "삼성페이",
-      "source": "스포츠동아"
+      "source": "donga"
     },
     {
       "title": "카카오페이證·쿠팡플레이, 스포츠 패스 1개월 이용권 증정 이벤트 진행",
@@ -3643,7 +4840,7 @@
       "description": "네이버페이는 생체인식 정보보호 국제표준 'ISO 24745' 인증을 취득했다고 4일 밝혔다. 'ISO/IEC 24745:2022'는 국제표준화기구(ISO)와 국제전기기술위원회(IEC)가 함께 제정한...",
       "pubDate": "2026-11-04T01:54:00+00:00",
       "category": "네이버페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "신원근의 '체력 경영' 통했다…카카오페이, 변동장서도 3분기 이익 두 배...",
@@ -4165,7 +5362,7 @@
       "description": "토스플레이스는 서울 성수동 빵 축제에서 얼굴 인식 결제 서비스 페이스페이를 선보이고 인근 가맹점까지 할인 행사를 확대했다. 또 두나무의 투자 정보 플랫폼 증권플러스는 증권가 실적 전망과 주가 움직임을...",
       "pubDate": "2026-11-03T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스플레이스, 네이버 공정위 신고…“포스 연동 배제는 부당한 차별”",
@@ -4741,7 +5938,7 @@
       "description": "교보SBI저축은행이 사명 변경을 통해 새로운 출발을 알리고, 카카오페이는 인터넷전문은행의 개인사업자 대출 상품을 추가해 대출비교 서비스 범위를 확대한다. 신용보증기금은 한국개발연구원(KDI)과 협력해 교육·홍보...",
       "pubDate": "2026-11-02T08:04:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "카카오페이, 인터넷은행 3사 개인사업자 대출 한눈에 비교 가능해진다",
@@ -5146,7 +6343,7 @@
       "description": "또 카카오페이손해보험은 반려견 동반 행사에서 펫보험 체험과 상담 프로그램을 운영한다. ◆ 삼성생명, 11월 다이렉트 보험 이벤트…3회차 납입·정상 유지 시 경품 삼성생명은 11월 1일부터 30일까지 삼성생명...",
       "pubDate": "2026-10-30T06:50:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "뚜레쥬르, 토스페이 도입 기념 케이크 출시…100원 구매 이벤트 진행",
@@ -5182,7 +6379,7 @@
       "description": "CJ푸드빌이 운영하는 뚜레쥬르가 지난 20일 토스의 간편결제 서비스 토스페이를 도입한 것을 기념해 신제품 출시와 프로모션을 진행한다고 30일 밝혔다. 뚜레쥬르는...",
       "pubDate": "2026-10-30T04:28:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성생명, 11월 다이렉트 보험 가입 이벤트…네이버페이·모니머니 지급",
@@ -5875,7 +7072,7 @@
       "description": "BNK경남은행이 디지털 결제 솔루션 기업 토스플레이스와 협력해 경남 지역 소상공인의 결제서비스 이용 편의성을 높이고 공동마케팅을 추진한다. BNK경남은행은...",
       "pubDate": "2026-10-28T11:16:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "BNK경남은행, 토스플레이스와 지역 소상공인 지원 확대 '맞손'",
@@ -6037,7 +7234,7 @@
       "description": "국내에서 사용하던 갤럭시폰과 삼성월렛을 해외에서도 그대로 활용할 수 있도록 결제 절차를 간소화한 것이 특징이다. 중국에서는 위챗페이 가맹점을 중심으로 QR결제와 음식점 등의 테이블오더 결제를 지원한다. 중국...",
       "pubDate": "2026-10-28T08:52:00+00:00",
       "category": "삼성페이",
-      "source": "dealsite"
+      "source": "딜사이트"
     },
     {
       "title": "카드·현금·앱 없이 결제…우리은행, 삼성월렛 머니 서비스 확대",
@@ -6433,7 +7630,7 @@
       "description": "최명희 BNK경남은행 개인고객그룹 그룹장(왼쪽)과 김정열 토스플레이스 부대표가 기념촬영을 하고 있다./BNK경남은행 BNK경남은행이 지역 소상공인의 결제서비스 이용 편의성 확대를 위해 토스플레이스와 협력한다....",
       "pubDate": "2026-10-28T06:00:00+00:00",
       "category": "토스페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "BNK경남은행, 토스와 지역 소상공인 지원 확대 맞손",
@@ -7252,7 +8449,7 @@
       "description": "이번 업무 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이 기반의 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 삼성월렛 머니로 바로 결제할 수 있게 됐다. 특히...",
       "pubDate": "2026-10-27T01:52:00+00:00",
       "category": "삼성페이",
-      "source": "부산일보"
+      "source": "busan"
     },
     {
       "title": "컨슈머인사이트 \"소비자, 금융앱 AI 기능 토스 1위 응답\"",
@@ -7261,7 +8458,7 @@
       "description": "이어 카카오뱅크와 신한 슈퍼SOL(각 29%), 모니모(26%), KB국민은행 스타뱅킹(24%), 미래에셋증권 M-STOCK(22%), 삼성증권 mPOP와 네이버페이(각 19%) 순이었다. 컨슈머인사이트는...",
       "pubDate": "2026-10-27T01:48:00+00:00",
       "category": "토스페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성월렛 머니, 중국 QR 결제 지원",
@@ -7360,7 +8557,7 @@
       "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 '삼성월렛 머니'로 결제할 수 있게 됐다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 상점의 QR 코드를 직접 스캔하는 방식으로...",
       "pubDate": "2026-10-27T01:18:00+00:00",
       "category": "삼성페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "중국서 삼성월렛 결제, 차량 점검은 앱으로… 고객 서비스 다변화",
@@ -7477,7 +8674,7 @@
       "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이(WeChat Pay) 기반 QR 결제를 통해 중국 전역의 위챗페이 가맹점에서 ‘삼성월렛 머니’로...",
       "pubDate": "2026-10-27T00:50:00+00:00",
       "category": "삼성페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성전자·텐센트·우리은행, '삼성월렛 머니' 중국 QR 결제 협력",
@@ -8044,7 +9241,7 @@
       "description": "또 토스는 일부 고객을 대상으로 페이스페이 결제금액의 20%를 적립해 주는 프로모션을 진행한다.... 등을 카카오톡으로 주기적으로 제공하는 서비스다. 이번 개편으로 가입자는 카카오톡에서 연금자산 현황과 시장...",
       "pubDate": "2026-10-26T07:50:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스, 페이스페이 결제액 20% 적립…연말까지 프로모션",
@@ -9052,7 +10249,7 @@
       "description": "카카오페이는 김천김밥축제에서 QR오더를 통한 주문·결제와 할인 이벤트를 운영하며, 네이버페이는 서울레스토랑위크 참여 가맹점에서 결제 금액의 일부를 포인트로 적립하는 프로모션을 진행한다. ◆ 카카오페이...",
       "pubDate": "2026-10-23T04:54:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "'최대 7.5%' 삼성월렛 머니 vs '카드 혜택 그대로' 애플페이…간편결제...",
@@ -9835,7 +11032,7 @@
       "description": "이용 방법은 간편하다. 고객은 별도의 현지 결제 앱을 설치하거나 여권 및 신용카드 등 개인정보를 추가로 등록할 필요없이 중국 현지 가맹점에 비치된 QR코드를 KB스타뱅킹으로 스캔해 결제하면 된다. 또한 직접...",
       "pubDate": "2026-10-22T07:08:00+00:00",
       "category": "간편결제",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "현장 간편결제 확산 제자리… 금융당국 \"제도 개선 검토\" [국감2026]",
@@ -10123,7 +11320,7 @@
       "description": "삼성월렛 머니·포인트는 삼성 월렛에 탑재된 충전식 간편결제 서비스다. 이용자가 머니를 충전해 결제하고... 결제 시 즉석 당첨 응모권 추가 지급 등 등급별 혜택이 제공된다. 영 등급 고객에게는 삼성 월렛으로 토스...",
       "pubDate": "2026-10-22T04:48:00+00:00",
       "category": "삼성페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "삼성전자 '삼성월렛 머니·포인트', 출시 1년 만에 가입자 300만 돌파",
@@ -10411,7 +11608,7 @@
       "description": "이 카드는 온라인에서 하나페이·삼성페이·네이버페이·카카오페이·페이코로 결제하면 기본 1%가 적립된다. 3일 연속 사용 시에는 다음 날부터 적립률이 2배 상향돼...",
       "pubDate": "2026-10-22T01:00:00+00:00",
       "category": "간편결제",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "\"간편결제 적립 파격 파격\"…우리카드, 'Npay 우리 체크'로 2030 영머니 ...",
@@ -10429,7 +11626,7 @@
       "description": "카카오페이·네이버페이·삼성페이·애플페이와 위챗페이·알리페이 등 간편 결제도 쓸 수 있다. 이번 도입으로 승객은 현금 없이 카드나 모바일 간편 결제로 1회권을 살 수 있게 됐다. 공사는 비정기 이용객과 외국인...",
       "pubDate": "2026-10-22T00:54:00+00:00",
       "category": "간편결제",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "삼성전자, ‘삼성월렛 머니·포인트’ 출시 1주년 가입자 300만명 돌파",
@@ -10438,7 +11635,7 @@
       "description": "브레이크뉴스 정민우 기자= 삼성전자는 간편결제 서비스 ‘삼성월렛 머니... Young 등급 고객을 대상으로는 삼성 월렛으로 토스 유스카드 또는 카카오뱅크 mini카드...",
       "pubDate": "2026-10-22T00:54:00+00:00",
       "category": "삼성페이",
-      "source": "breaknews"
+      "source": "브레이크뉴스"
     },
     {
       "title": "삼성월렛 머니·포인트 등급제 도입..해외서도 쓴다",
@@ -10870,7 +12067,7 @@
       "description": "삼성전자는 자사의 간편결제 서비스 ‘삼성월렛 머니·포인트’가 출시 1주년을 맞아 가입자 300만 명을... ‘해외 결제 적립 이벤트’도 운영한다. 특히, 영 등급 고객을 대상으로는 삼성 월렛으로 토스 유스카드 또는...",
       "pubDate": "2026-10-21T23:17:00+00:00",
       "category": "삼성페이",
-      "source": "부산일보"
+      "source": "busan"
     },
     {
       "title": "\"복잡한 조건 없앤 간편결제의 힘\"…삼성월렛 머니·포인트, 1년만에 30...",
@@ -10969,7 +12166,7 @@
       "description": "카카오페이는 걸음 수에 따라 기부금을 조성하는 온·오프라인 마라톤을 개최하고, 토스페이먼츠는 생성형 AI 시대에 대응하는 마케팅 전략과 결제 데이터 활용 방안을 사업자들과 공유했다. ◆ 카카오페이, 기부...",
       "pubDate": "2026-10-21T07:44:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "10월 21일 카카오페이 퀴즈타임 정답은?",
@@ -11509,7 +12706,7 @@
       "description": "카카오페이가 디지털 금융 소외계층 지원과 결제 혜택 확대를 통해 금융 플랫폼의 사회적 역할과 고객 편의성을 강화한다. 청년들과 함께 일상 속 금융 불편을 해결할 아이디어를 발굴하는 한편, 온라인·오프라인...",
       "pubDate": "2026-10-19T05:20:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "50개 브랜드 최대 20% 할인까지…카카오페이, '2026 카카오페이 노난날'...",
@@ -11870,151 +13067,7 @@
       "pubDate": "2026-10-18T06:00:00+00:00",
       "category": "네이버페이",
       "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "카카오페이, 청년 100명과 금융 사각지대 해법 찾는다",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072981",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072981",
-      "description": "카카오페이가 금융교육을 넘어 이용자가 직접 디지털 금융의 불편을 찾아 해결책을 제안하는 참여형 상생활동을 확대하고 있다. 청소년을 대상으로 금융서비스 아이디어를 발굴했던 프로그램에 이어 올해는 대학생...",
-      "pubDate": "2026-10-18T04:52:00+00:00",
-      "category": "카카오페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "[핀테크] 네이버·카카오페이 잠자는 충전금 255억…176만명 환급 강화",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=616733",
-      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=616733",
-      "description": "네이버파이낸셜, 카카오페이, 비바리퍼블리카 등 빅테크 3개 사와 함께 장기 미사용 선불충전금에 대한 정기 통지 및 환급 촉진 방안을 마련했다고 한다. 자료사진=본 기사와 무관.  금융위원회와 금융감독원은 지난 15일...",
-      "pubDate": "2026-10-18T02:56:00+00:00",
-      "category": "카카오페이",
-      "source": "CBC뉴스"
-    },
-    {
-      "title": "카카오페이, '사각사각 서포터즈' 해커톤 개최 ··· 디지털 금융 아이...",
-      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215162",
-      "originallink": "https://www.datanet.co.kr/news/articleView.html?idxno=215162",
-      "description": "카카오페이(대표 신원근)는 청년 디지털 금융 리더 '사각사각 서포터즈' 1기 100명과 함께 일상 속 디지털 금융 불편을 해결하기 위한 아이디어를 모색하는 해커톤을 개최했다. 소상공인과 고객이 디지털 금융 서비스를 더...",
-      "pubDate": "2026-10-18T02:30:00+00:00",
-      "category": "카카오페이",
-      "source": "데이터넷"
-    },
-    {
-      "title": "카카오페이, 대학생 100명과 금융 해커톤…20개 팀 아이디어 제안",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189455",
-      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=189455",
-      "description": "17일 카카오페이가 경기도 용인시 카카오 AI캠퍼스에서 진행한 '사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤' 현장 모습. 카카오페이가 대학생 100명과 함께 지역 내 결제·금융 이용 과정의 불편을 주제로 한...",
-      "pubDate": "2026-10-18T02:24:00+00:00",
-      "category": "카카오페이",
-      "source": "한국면세뉴스"
-    },
-    {
-      "title": "\"우리 동네 금융 불편, 우리가 해결\"…대학생들, 카카오페이 해커톤서 ...",
-      "link": "https://www.ajunews.com/view/20261018103521365",
-      "originallink": "https://www.ajunews.com/view/20261018103521365",
-      "description": "20개 팀 참여해 디지털 금융 아이디어 발굴 아주경제=김지윤 기자 yoon0930@ajunews.com 카카오페이가 대학생 100명과 함께 일상 속 디지털 금융 불편을 해소하기 위한 아이디어 발굴에 나섰다. 카카오페이는 지난 17일 경기...",
-      "pubDate": "2026-10-18T02:06:00+00:00",
-      "category": "카카오페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "카카오페이가 대학생 100명에게 동네 결제 불편을 맡긴 이유는?",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=753991",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=753991",
-      "description": "토스와 네이버페이 같은 경쟁 사업자도 가맹점 기반을 넓히고 있는 가운데 가맹점주와 고객이 실제로 겪는 불편을 얼마나 빨리 풀어내느냐가 서비스 선택을 좌우할 수 있다는 분석이다. 사각사각 서포터즈는...",
-      "pubDate": "2026-10-18T02:00:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "카카오페이, 청년 100명과 디지털 금융 해커톤 개최",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=215056",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=215056",
-      "description": "카카오페이가 청년들과 함께 일상생활에서 발생하는 디지털 금융 이용 불편을 개선하기 위한 아이디어 발굴에 나섰다. 소상공인과 금융 소외계층이 겪는 문제를 청년들의 현장 경험을 바탕으로 분석하고 해결 방안을...",
-      "pubDate": "2026-10-18T02:00:00+00:00",
-      "category": "카카오페이",
-      "source": "SR타임스"
-    },
-    {
-      "title": "카카오페이, 디지털 포용 금융 아이디어 모색..‘사각사각 서포터즈’ ...",
-      "link": "https://kpenews.com/View.aspx?No=4267968",
-      "originallink": "https://kpenews.com/View.aspx?No=4267968",
-      "description": "한국정경신문 최현준 기­자 raysenel@naver.com [한국정경신문=최현준 기자] 카카오페이가 금융 사각지대를 줄이기 위해 디지털 포용 금융 아이디어를 모색하는 행사를 선보였다.카카오페이는 ‘사각사각 서포터즈’ 1기와...",
-      "pubDate": "2026-10-18T01:50:00+00:00",
-      "category": "카카오페이",
-      "source": "한국정경신문"
-    },
-    {
-      "title": "청년 100명과 머리 맞댄 카카오페이… 디지털 금융 사각지대 해법 모색",
-      "link": "https://n.news.naver.com/mnews/article/018/0006390578?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01279206645614232&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "카카오페이가 청년들과 함께 일상 속 디지털 금융 불편을 해소하고 포용 금융 문화를 확산하기 위한 아이디어 장을 마련했다. 카카오페이는 지난 17일 경기도 용인시 카카오 AI캠퍼스에서 청년 디지털 금융 리더...",
-      "pubDate": "2026-10-18T00:45:00+00:00",
-      "category": "카카오페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "카카오페이, 청년 서포터즈와 디지털 금융 불편 해소 아이디어 발굴",
-      "link": "https://www.sentv.co.kr/article/view/sentv202610180008",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202610180008",
-      "description": "카카오페이가 청년 서포터즈와 함께 일상 속 디지털 금융 불편을 해결하기 위한 아이디어 발굴에 나섰다. 카카오페이는 지난 17일 경기도 용인시 카카오 AI캠퍼스에서 ‘사각사각 서포터즈 디지털 금융 서비스 아이디어...",
-      "pubDate": "2026-10-18T00:40:00+00:00",
-      "category": "카카오페이",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "[금융레이더] NH농협생명/카카오페이/KB리브모바일",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180906003500002",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610180906003500002",
-      "description": "◆카카오페이, ‘사각사각 서포터즈’ 디지털 금융 해커톤 개최 카카오페이는 지난 17일 경기 용인시 카카오 AI캠퍼스에서 대학생 100명이 참여한 ‘사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤’을...",
-      "pubDate": "2026-10-18T00:40:00+00:00",
-      "category": "카카오페이",
-      "source": "대한경제"
-    },
-    {
-      "title": "카카오페이, 청년 100명과 디지털 금융 해커톤 개최…소상공인 불편 푼...",
-      "link": "https://n.news.naver.com/mnews/article/029/0003053611?sid=101",
-      "originallink": "https://www.dt.co.kr/article/12089608?ref=naver",
-      "description": "카카오페이가 대학생 100명과 함께 소상공인과 고객이 일상에서 겪는 디지털 금융의 불편을 해소할 아이디어 발굴에 나섰다. 다문화 청소년 금융교육과 소상공인 디지털 전환 지원 현장에서 확인한 문제를 토대로 누구나...",
-      "pubDate": "2026-10-18T00:36:00+00:00",
-      "category": "카카오페이",
-      "source": "디지털타임스"
-    },
-    {
-      "title": "\"청년 100명과 디지털 금융 사각지대 해법 찾는다\"… 카카오페이, '사각...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=136341",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=136341",
-      "description": "카카오페이는 지난 17일 경기도 용인시 카카오 AI캠퍼스에서 청년 디지털 금융 리더 '사각사각 서포터즈' 1기와 함께하는 서비스 아이디어 해커톤을 개최했다고 18일 밝혔다. 이번 행사에는 서포터즈 100명이 20개 팀으로...",
-      "pubDate": "2026-10-18T00:36:00+00:00",
-      "category": "카카오페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "카카오페이, 대학생과 생활 속 금융 불편 해소 나서",
-      "link": "https://www.viva100.com/article/20261018500176",
-      "originallink": "https://www.viva100.com/article/20261018500176",
-      "description": "카카오페이가 대학생들과 함께 지역 상권과 일상에서 겪는 결제·금융 불편을 줄일 방안을 찾았다. 다문화 청소년 교육과 소상공인 지원 활동에서 확인한 문제를 서비스 아이디어로 발전시키는 자리다. 카카오페이는...",
-      "pubDate": "2026-10-18T00:26:00+00:00",
-      "category": "카카오페이",
-      "source": "브릿지경제"
-    },
-    {
-      "title": "토스, 11월에 보안 콘퍼런스 '가디언즈 26' 개최…21일까지 참가 신청 접...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149118",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149118",
-      "description": "가디언즈에는 토스를 비롯해 토스뱅크, 토스증권, 토스플레이스, 토스인컴, 토스모바일 등 6개 계열사의 보안 전문가가 연사로 나선다. 이들은 각 사의 보안 기술과 현장에서 쌓은 경험을 세션을 통해 공유한다는...",
-      "pubDate": "2026-10-17T17:58:00+00:00",
-      "category": "토스페이",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "청양군, 고향사랑기부 참여하면 네이버페이 2만 포인트 쏜다",
-      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2446592",
-      "originallink": "https://www.ccdailynews.com/news/articleView.html?idxno=2446592",
-      "description": "청양군은 오는 19∼31일까지 '고향사랑기부제 가을맞이 이벤트'를 진행하고, 행사 기간 중 청양군에 10만 원 이상 기부한 선착순 250명에게 네이버페이 2만 포인트 쿠폰을 증정한다고 밝혔다. 이번 이벤트는...",
-      "pubDate": "2026-10-17T06:32:00+00:00",
-      "category": "네이버페이",
-      "source": "충청일보"
     }
   ],
-  "lastFetch": "2026-11-16T02:47:02.370856+00:00"
+  "lastFetch": "2026-11-17T05:06:19.405005+00:00"
 }
