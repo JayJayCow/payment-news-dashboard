@@ -1,6 +1,798 @@
 {
   "articles": [
     {
+      "title": "신원근 카카오페이 대표, ‘사람 살리는 금융 캠페인’ 참여",
+      "link": "https://n.news.naver.com/mnews/article/018/0006412460?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02925766645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "신원근 카카오페이 대표는 박상진 네이버페이 대표의 지목을 받아 이번 릴레이에 참여했다. 다음 주자로는 조대규 교보생명 대표와 이혜민 핀다 대표를 지목했다. 카카오페이는 ‘일상의 모든 금융을 카카오페이...",
+      "pubDate": "2026-11-19T04:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "애플페이 확산 후폭풍…연 3000억원 해외 유출 우려",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=757820",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=757820",
+      "description": "간편결제 업계에서는 최근 카카오뱅크의 애플페이 도입 이후 서비스가 확산될 경우, 수수료 부담으로 연간 3000억원에 달하는 금액이 애플과 비자, 마스터카드 등 해외 기업으로 유출될 것으로 전망하고 있다. 또한 해외로...",
+      "pubDate": "2026-11-19T04:00:00+00:00",
+      "category": "애플페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "네이버페이 투자 플랫폼서 첫 출자 연계, KB증권이 울산 VC 펀드에 출자",
+      "link": "https://platum.kr/archives/298947",
+      "originallink": "https://platum.kr/archives/298947",
+      "description": "네이버페이는 모험자본 투자 플랫폼 ‘Npay 스타트업'에서 KB증권과 울산 거점 VC 유니스트기술지주의 출자 연계가 이뤄졌다고 19일 밝혔다. KB증권은 유니스트기술지주가 결성할 예정인 '지역 관광 AI 특성화 딥테크...",
+      "pubDate": "2026-11-19T03:14:00+00:00",
+      "category": "네이버페이",
+      "source": "플래텀"
+    },
+    {
+      "title": "애플페이 확산에 연 3천억 해외 유출 우려…카드업계는 수수료 부담 '고...",
+      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963772",
+      "originallink": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963772",
+      "description": "카카오뱅크가 최근 애플페이 서비스를 도입한 가운데, 간편결제 사업자들의 수수료 유료화 검토를 자극할 경우 소비자 혜택 축소로 이어질 수 있다는 우려도 나옵니다. 카카오뱅크는 지난 16일부터 체크카드와 청소년용...",
+      "pubDate": "2026-11-19T03:12:00+00:00",
+      "category": "애플페이",
+      "source": "mbnmoney.mbn.co.kr"
+    },
+    {
+      "title": "애플페이 확산되면 연 3000억원 해외로…결국 소비자가 부담하나",
+      "link": "https://n.news.naver.com/mnews/article/053/0000063169?sid=101",
+      "originallink": "http://weekly.chosun.com/news/articleView.html?idxno=57250",
+      "description": "카카오뱅크의 애플페이 도입을 계기로 국내 간편결제 시장의 경쟁이 본격화하는 가운데, 애플페이 확산에 따른 해외 수수료 부담이 연간 3000억원에 달할 수 있다는 전망이 나왔다. 애플과 비자·마스터카드 등 해외...",
+      "pubDate": "2026-11-19T02:42:00+00:00",
+      "category": "애플페이",
+      "source": "주간조선"
+    },
+    {
+      "title": "국내서 쓴 카드, 수수료는 해외로…애플페이 확산 땐 연 3000억원 추산도",
+      "link": "http://www.knpnews.com/news/articleView.html?idxno=34880",
+      "originallink": "http://www.knpnews.com/news/articleView.html?idxno=34880",
+      "description": "카카오뱅크는 지난 16일 체크카드와 선불형 mini카드에 애플페이를 도입했다. 이에 따라 카카오뱅크 체크카드 고객과 mini카드를 쓰는 청소년도 해당 카드를 아이폰에 등록해 결제할 수 있게 됐다. 카카오뱅크는 고객의...",
+      "pubDate": "2026-11-19T02:40:00+00:00",
+      "category": "애플페이",
+      "source": "한국원자력신문"
+    },
+    {
+      "title": "\"애플페이 확산 시 카드사 수수료 부담 우려\"...간편결제 업계 전망 나와",
+      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54925",
+      "originallink": "https://www.koreareport.co.kr/news/articleView.html?idxno=54925",
+      "description": "간편결제 업계가 최근 카카오뱅크의 애플페이 도입 이후 애플페이가 확산하면 수수료 부담으로 연간 3000억원 안팎이 애플, 비자, 마스터카드 등 해외 기업으로 유출될 것으로 전망했다. 이렇게 빠져나가는 금액만큼 국내...",
+      "pubDate": "2026-11-19T02:28:00+00:00",
+      "category": "애플페이",
+      "source": "코리아리포트"
+    },
+    {
+      "title": "애플페이, 3000억원 비용 유출 논란...데이터 주권 상실 우려도",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=157545",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=157545",
+      "description": "애플페이가 국내 결제 산업 글로벌 종속을 초래할 수 있다는 걱정이 커지고 있다/사진=애플 홈페이지 애플 간편결제 서비스 '애플페이' 논란이 확산하고 있다. 과다 수수료 및 데이터 유출 우려에 이어 간편결제 시장...",
+      "pubDate": "2026-11-19T02:28:00+00:00",
+      "category": "애플페이",
+      "source": "테크M"
+    },
+    {
+      "title": "[탐사경] 애플페이 확산 시 연간 3천억이 국부 유출...\"국내금융사 비용...",
+      "link": "https://www.moneystorm.kr/news/articleView.html?idxno=8592",
+      "originallink": "https://www.moneystorm.kr/news/articleView.html?idxno=8592",
+      "description": "간편결제 업계는 최근 카카오뱅크의 애플페이 도입 이후, 애플페이가 확산될 경우 수수료 비용부담으로 연간 3천억에 달하는 금액이 애플, 비자, 마스터카드 등 해외 기업으로 유출될 것으로 전망했다. 또한, 유출되는...",
+      "pubDate": "2026-11-19T02:21:00+00:00",
+      "category": "애플페이",
+      "source": "머니스톰"
+    },
+    {
+      "title": "애플페이 확산에 수수료 폭탄 현실화되나···소비자 혜택 축소도 우려",
+      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408839",
+      "originallink": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408839",
+      "description": "투데이코리아=안현준 기자 | 최근 업계에서는 카카오페이가 국내에서 두 번째로 애플페이 서비스를 도입한 것을 두고 우려의 목소리가 일고 있다. 애플페이가 확산으로 소비자의 결제 선택권을 넓혀졌지만, 수수료...",
+      "pubDate": "2026-11-19T02:20:00+00:00",
+      "category": "애플페이",
+      "source": "투데이코리아"
+    },
+    {
+      "title": "애플페이發 수수료 폭탄 현실화되나…해외로 연 '3000억원' 빠져나갈 판",
+      "link": "https://www.dizzotv.com/site/data/html_dir/2026/11/19/2026111980071.html",
+      "originallink": "https://www.dizzotv.com/site/data/html_dir/2026/11/19/2026111980071.html",
+      "description": "19일 간편결제 업계에 따르면 최근 카카오뱅크의 애플페이 도입을 계기로 국내 시장에서 서비스 이용이 확대될 경우 카드사의 비용 부담이 커지고 간편결제 시장 전반의 유료화로 이어질 가능성이 제기되고 있다....",
+      "pubDate": "2026-11-19T02:20:00+00:00",
+      "category": "애플페이",
+      "source": "디지틀조선TV"
+    },
+    {
+      "title": "\"애플페이 수수료로 매년 3000억원 샌다\"…국부유출 우려 확산",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1426880",
+      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1426880",
+      "description": "애플페이로 결제하는 모습. 사진=애플페이. 우리나라에서 애플페이 도입이 늘어날수록 높은 수수료 부담으로 연간 3000억원에 달하는 국부가 해외로 빠져나갈 수 있다는 우려가 나오고 있다. 특히 국내 결제 산업의...",
+      "pubDate": "2026-11-19T02:16:00+00:00",
+      "category": "애플페이",
+      "source": "데일리한국"
+    },
+    {
+      "title": "네이버페이 플랫폼, KB증권·지역 VC 첫 출자 연계",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=93502",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=93502",
+      "description": "네이버페이(Npay)는 모험자본 투자 플랫폼 'Npay 스타트업'을 통해 KB증권과 울산 지역 벤처캐피털(VC) 유니스트기술지주 간 첫 출자 연계가 이뤄졌다고 19일 밝혔다. KB증권은 유니스트기술지주가 결성할 예정인...",
+      "pubDate": "2026-11-19T02:14:00+00:00",
+      "category": "네이버페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "네이버페이, 모험자본 플랫폼 첫 출자 연계 성과",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326630",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326630",
+      "description": "사진=네이버페이  네이버페이(Npay)가 모험자본 투자 플랫폼을 통해 지역 벤처캐피털(VC)과 증권사 간 첫 출자 연계를 성사시켰다. 네이버페이는 모험자본 투자 플랫폼 'Npay 스타트업'을 통해 KB증권과 울산 거점 VC인...",
+      "pubDate": "2026-11-19T02:14:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "카드사 이어 인뱅도 애플페이 도입…미래 주거래 고객 잡는다",
+      "link": "https://n.news.naver.com/mnews/article/016/0002725647?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10942523?ref=naver",
+      "description": "현대카드가 처음 서비스를 도입한 2023년과 달리 최근 토스와 네이버페이 등이 근거리무선통신(NFC) 지원 단말기 보급을 확대하면서 애플페이를 사용할 수 있는 가맹점도 늘고 있다. 결제 편의성을 앞세워 고객을...",
+      "pubDate": "2026-11-19T02:13:00+00:00",
+      "category": "애플페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "애플페이 확산 시 3000억 수수료 유출...무이자할부 축소·알짜카드 단종...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=768652",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=768652",
+      "description": "현대카드에 이어 카카오뱅크까지 애플페이를 도입한 가운데 간편결제 업계에서는 수천억 원대의 수수료 비용이 해외 기업으로 유출될 것이란 우려가 나온다. 카드사들이 비용 부담을 줄이기 위해 혜택 축소에 나서고...",
+      "pubDate": "2026-11-19T02:06:00+00:00",
+      "category": "애플페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "네이버페이 'Npay 스타트업', 첫 출자 결실 맺어...KB증권 '20억' 출자 연...",
+      "link": "https://www.techm.kr/news/articleView.html?idxno=157539",
+      "originallink": "https://www.techm.kr/news/articleView.html?idxno=157539",
+      "description": "네이버페이가 모험자본 투자 플랫폼 'Npay 스타트업'을 활용한 첫 출자 연계 사례를 이뤄냈다 / 사진=네이버페이 제공 네이버페이(Npay)가 모험자본 투자 플랫폼 'Npay 스타트업'을 통해 첫 출자 연계 성과를 거뒀다....",
+      "pubDate": "2026-11-19T02:00:00+00:00",
+      "category": "네이버페이",
+      "source": "테크M"
+    },
+    {
+      "title": "애플페이 확산의 대가...국내 카드사는 비용, 해외 사업자는 수익",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=271901",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=271901",
+      "description": "애플페이 이용이 확대될수록 국내 카드사의 비용 부담은 커지고 해외 사업자들의 수익은 늘어나는 구조다. 애플과 비자·마스터카드 등 국제 브랜드사가 결제 및 토큰 수수료를 각각 받기 때문이다. 국내에서 발생한 결제...",
+      "pubDate": "2026-11-19T01:56:00+00:00",
+      "category": "애플페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "[뉴스워커_카카오페이] 시니어 1,000명 금융교육…신원근 대표, 포용금융...",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514965",
+      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=514965",
+      "description": "신 대표는 박상진 네이버페이 대표의 지목을 받아 참여했으며, 다음 주자로 조대규 교보생명 대표와 이혜민 핀다 대표를 지목했다. 카카오페이는 '사각사각 페이스쿨'을 통해 디지털 금융교육을 지원하고 있다. 올해 전국...",
+      "pubDate": "2026-11-19T01:54:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "모험자본 투자 플랫폼 ‘Npay 스타트업’ 첫 성과…증권사-지역 VC 출자...",
+      "link": "https://n.news.naver.com/mnews/article/020/0003763630?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20261119/135052941/1",
+      "description": "네이버페이(Npay)가 모험자본 투자 플랫폼 ‘Npay 스타트업’을 통해 증권사와 벤처캐피털 간 출자 연계가 이뤄졌다고 19일 밝혔다. Npay 스타트업은 스타트업·벤처기업과 투자자를 연결하는 투자 플랫폼이다. 올해 7월...",
+      "pubDate": "2026-11-19T01:53:00+00:00",
+      "category": "네이버페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "네이버페이, KB증권 모험자본 투자 연계 첫 성과…지역 벤처기업 지원 ...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140191",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=140191",
+      "description": "| 이코노미사이언스 박성현 기자 | 네이버페이의 모험자본 투자 플랫폼 'Npay 스타트업'이 증권사와 지역 벤처캐피털(VC)을 연결하는 첫 출자 성과를 거뒀다. KB증권이 플랫폼을 통해 울산 지역 투자기관을 발굴하고...",
+      "pubDate": "2026-11-19T01:48:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "애플페이 연간 3000억원 ‘국부 유출’… 유료화 도미노에 1.1조원 수수...",
+      "link": "https://www.mediapen.com/news/view/1138519",
+      "originallink": "https://www.mediapen.com/news/view/1138519",
+      "description": "최근 카카오뱅크의 애플페이 도입으로 서비스 확산세가 빨라지면서, 연간 3000억 원에 달하는 결제 수수료가 해외 기업으로 빠져나가는 ‘국부 유출’과 국내 간편결제 시장의 유료화 도미노를 우려하는 목소리가...",
+      "pubDate": "2026-11-19T01:48:00+00:00",
+      "category": "애플페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "[이슈+]애플페이 수수료 청구서, 소비자와 소상공인이 떠안나",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=120123",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=120123",
+      "description": "카카오뱅크 합류로 애플페이 이용 고객이 늘면 매장의 단말기 교체 압박도 커진다. 단말기 전환이 추가 매출로 이어질지, 기존 현금이나 실물카드 결제가 애플페이로 옮겨가는 데 그칠지는 알 수 없다. 금융업계...",
+      "pubDate": "2026-11-19T01:42:00+00:00",
+      "category": "애플페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "홍천에 10만원 이상 고향사랑기부하면 네이버페이 1만 포인트",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611190080",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202611190080",
+      "description": "강원 홍천군이 연말 고향사랑기부 참여자를 대상으로 네이버페이 포인트와 추첨 경품을 제공한다고 19일 밝혔다. 이벤트는 오는 23일부터 12월 20일까지 진행된다. 고향사랑e음과 위기브, 농협 등 금융기관을 통해...",
+      "pubDate": "2026-11-19T01:40:00+00:00",
+      "category": "네이버페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "신원근 카카오페이 대표, '사람 살리는 금융' 동참",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=370107",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=370107",
+      "description": "신원근 카카오페이 대표는 박상진 네이버페이 대표의 지목을 받아 릴레이에 참여했다. 다음 주자로는 조대규 교보생명 대표와 이혜민 핀다 대표를 지목했다. 카카오페이는 '일상의 모든 금융을 카카오페이 하나로'라는...",
+      "pubDate": "2026-11-19T01:32:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "애플페이 확산에 카드업계 '수수료 폭탄' 우려",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626098",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626098",
+      "description": "2023년 현대카드에 이어 카카오뱅크까지 애플페이를 도입했지만, 지급결제 시장의 중심에 있는 대다수 카드사는 여전히 도입 여부를 결정하지 못하고 있다. 카드업계는 결제 편의성 확대와 별개로 수수료 부담과 비용 전가...",
+      "pubDate": "2026-11-19T01:32:00+00:00",
+      "category": "애플페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "네이버페이 ‘Npay 스타트업’, 첫 출자 성과...KB증권·울산 VC 연계",
+      "link": "https://www.dizzotv.com/site/data/html_dir/2026/11/19/2026111980052.html",
+      "originallink": "https://www.dizzotv.com/site/data/html_dir/2026/11/19/2026111980052.html",
+      "description": "네이버페이는 Npay 스타트업을 통해 KB증권과 유니스트기술지주 간 출자 연계가 성사됐다고 19일 밝혔다. 해당 플랫폼은 지난 7월 금융감독원과 중소벤처기업부 주도로 출범했으며, 네이버페이와 코드박스가 시범...",
+      "pubDate": "2026-11-19T01:30:00+00:00",
+      "category": "네이버페이",
+      "source": "디지틀조선TV"
+    },
+    {
+      "title": "'사람 살리는 금융' 캠페인에 핀테크 CEO 잇따라 동참",
+      "link": "https://n.news.naver.com/mnews/article/001/0016451380?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261119061500017?input=1195m",
+      "description": "네이버페이 이어 카카오페이 대표 참여…핀다·교보생명 대표 지목 금융 취약계층을 불법사금융으로부터 보호하기 위한 '사람 살리는 금융 캠페인'에 핀테크 기업 대표들이 잇따라 동참했다. 19일 핀테크 업계에 따르면...",
+      "pubDate": "2026-11-19T01:28:00+00:00",
+      "category": "간편결제",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "신원근 카카오페이 대표, 불법사금융 피해 예방 캠페인 동참",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=140706",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=140706",
+      "description": "카카오페이는 신 대표가 박상진 네이버페이 대표의 지목을 받아 캠페인에 동참했다고 19일 밝혔다. 서민금융진흥원이 주관하는 이번 캠페인은 지난 7월 시작됐다. 금융회사와 공공기관, 지방자치단체 등이 SNS로 금융...",
+      "pubDate": "2026-11-19T01:28:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "카카오페이, 시니어 3833명 금융교육…이용자 의견 서비스 개선에 반영",
+      "link": "https://sateconomy.co.kr/news/view/1065575787098200",
+      "originallink": "https://sateconomy.co.kr/news/view/1065575787098200",
+      "description": "3년간 시니어 금융교육 강사 128명 양성…지난해 청소년 8093명 교육 올해 AI 금융 활용 교육 도입…금융취약계층 지원 다각화 ▲카카오페이 신원근 대표가 '사람 살리는 금융 캠페인'에 동참했다 [카카오페이]...",
+      "pubDate": "2026-11-19T01:20:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "네이버페이, KB증권·울산 VC 출자 연계…154억 펀드 조성",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885017",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885017",
+      "description": "네이버페이 제공. | 서울=한스경제 유은주 기자 | 네이버페이의 모험자본 투자 플랫폼 'Npay 스타트업'이 증권사와 지역 거점 벤처캐피털(VC) 간 출자 연계 첫 성과를 냈다. 네이버페이는 Npay 스타트업을 통해 KB증권과...",
+      "pubDate": "2026-11-19T01:16:00+00:00",
+      "category": "네이버페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "네이버페이 모험자본 플랫폼 첫 성과…KB증권, 울산 VC에 20억 출자",
+      "link": "https://n.news.naver.com/mnews/article/018/0006412329?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02358326645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "네이버페이의 모험자본 투자 플랫폼을 통해 KB증권이 울산 지역 벤처캐피털(VC)이 조성하는 펀드에 20억원을 출자하기로 했다. 지난 7월 모험자본 투자 플랫폼이 출범한 이후 출자 연계가 이뤄진 첫 성과다. 이로써...",
+      "pubDate": "2026-11-19T01:14:00+00:00",
+      "category": "네이버페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "신원근 카카오페이 대표, '사람 살리는 금융' 캠페인 동참",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=140695",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=140695",
+      "description": "19일 카카오페이에 따르면 신 대표는 박상진 네이버페이 대표의 지목을 받아 서민금융진흥원이 주관하는 '사람 살리는 금융 캠페인'에 동참했다. 이번 캠페인은 불법사금융으로부터 금융취약계층을 보호하고 금융을 통한...",
+      "pubDate": "2026-11-19T01:12:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "네이버페이 스타트업, KB증권과 울산 거점 VC간 출자 연계 첫 성과",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=94729",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=94729",
+      "description": "154억원 규모 벤처펀드에 20억원 출자 예정 기존 출자 네트워크 넘어 지역 운용사와 연결 인더뉴스 이종현 기자ㅣ네이버페이는 모험자본 투자 플랫폼 'Npay 스타트업'을 통해 KB증권과 울산 거점의 벤처캐피털(VC)...",
+      "pubDate": "2026-11-19T01:04:00+00:00",
+      "category": "네이버페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "토스 슈퍼앱, 3분기에만 7800억원...1년 전 토스 전체 매출 넘었다",
+      "link": "https://www.insight.co.kr/news/582695",
+      "originallink": "https://www.insight.co.kr/news/582695",
+      "description": "토스는 간편결제와 가맹점 결제대행, 카드 단말기 매출을 '페이먼츠 네트워크 서비스'(이하 페이먼츠)로 따로 집계한다.토스 운영사 비바리퍼블리카의 올해 3분기 보고서에서 '슈퍼앱 서비스' 아래에는 송금, 중개...",
+      "pubDate": "2026-11-19T01:04:00+00:00",
+      "category": "토스페이",
+      "source": "인사이트"
+    },
+    {
+      "title": "너도나도 애플페이?… 1조 '통행세' 날아든다",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61381",
+      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61381",
+      "description": "가맹점 수수료 인상 압박 =제미나이 이미지 생성 [디지털포스트(PC사랑)=김호정 기자] 국내 간편결제 시장에 다시금 애플페이발 파장이 일고 있다. 지난 16일 카카오뱅크는 체크카드와 청소년용 mini카드에 애플페이를...",
+      "pubDate": "2026-11-19T01:00:00+00:00",
+      "category": "애플페이",
+      "source": "디지털포스트(PC사랑 AI 에디션)"
+    },
+    {
+      "title": "1인당 '생활필수 금융앱' 7개 … 토스 정체 속 네이버·카카오 약진",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=300320",
+      "originallink": "https://www.datanet.co.kr/news/articleView.html?idxno=300320",
+      "description": "이어 카카오뱅크 42%, 네이버페이 40%, KB스타뱅킹과 카카오페이가 각각 39%였다. 상위 10개에는 핀테크∙빅테크 3개, 은행 3개, 카드∙멤버스가 4개였다. '꼭 쓰는 금융앱'의 자리가 특정 업권에 몰리지 않고 송금...",
+      "pubDate": "2026-11-19T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "데이터넷"
+    },
+    {
+      "title": "카카오페이 신원근 대표, 포용금융 릴레이 참여…교보생명·핀다 지목",
+      "link": "https://www.socialvalue.kr/news/view/1065574313104314",
+      "originallink": "https://www.socialvalue.kr/news/view/1065574313104314",
+      "description": "카카오페이가 불법사금융 피해 예방과 금융취약계층 보호를 위한 ‘사람 살리는 금융’ 릴레이 캠페인에 동참했다고 19일 밝혔다. 신원근 카카오페이 대표는 박상진 네이버페이 대표의 지목으로 참여했으며, 다음 주자로...",
+      "pubDate": "2026-11-19T00:54:00+00:00",
+      "category": "카카오페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "카카오뱅크까지 합류한 애플페이…수수료 부담, 소비자 혜택 축소로 이...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211628",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=211628",
+      "description": "라이센스뉴스 = 박창배 기자 | 국내 주요 카드사들이 비용 부담을 이유로 도입에 신중했던 애플페이를 카카오뱅크가 전격 도입하면서 금융권의 이목이 쏠리고 있다. 카카오뱅크는 11월 16일 체크카드와 청소년용 'mini카드...",
+      "pubDate": "2026-11-19T00:50:00+00:00",
+      "category": "애플페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "카카오페이 신원근 대표, '사람 살리는 금융 캠페인' 동참…교보생명·...",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202611190933298550be44c0aacd_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202611190933298550be44c0aacd_30",
+      "description": "카카오페이 신원근 대표가 불법사금융 피해로부터 금융취약계층을 보호하고 포용금융의 가치를 알리기 위한 '사람 살리는 금융 캠페인'에 동참했다. 19일 카카오페이는 신 대표가 서민금융진흥원이 주관하는 사람 살리는...",
+      "pubDate": "2026-11-19T00:42:00+00:00",
+      "category": "카카오페이",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "카카오페이, 금융취약계층 보호·금융교육 확대",
+      "link": "https://www.g-enews.com/view.php?ud=202611190929088844cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202611190929088844cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 금융취약계층을 위한 금융교육과 디지털 금융 접근성 개선, 금융소비자 보호 활동을 확대하고 있다. 서민금융진흥원이 주관하는 공익 캠페인에 참여하는 한편 시니어와 청소년, 다문화...",
+      "pubDate": "2026-11-19T00:34:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오페이 신원근 대표, '사람 살리는 금융 캠페인' 동참",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=728543",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=728543",
+      "description": "컨슈머타임스=김지훈 기자 | 카카오페이(대표 신원근)가 서민금융진흥원이 주관하는 '사람 살리는 금융 캠페인'에 동참했다. 해당 캠페인은 불법사금융으로부터 금융 취약계층을 보호하고, 금융을 통한 새 출발을 지원하는...",
+      "pubDate": "2026-11-19T00:30:00+00:00",
+      "category": "카카오페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "카카오페이 신원근 대표, '사람 살리는 금융' 릴레이 동참…다음은 교보...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=565021",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=565021",
+      "description": "|중앙이코노미뉴스 정재혁 기자|신원근 카카오페이 대표(가운데)와 임직원들이 '사람 살리는 금융 캠페인'에 동참했다. [사진=카카오페이] 카카오페이는 신원근 대표가 서민금융진흥원이 주관하는 '사람 살리는 금융...",
+      "pubDate": "2026-11-19T00:20:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이가 포용금융 릴레이 바통을 이어받았다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=757778",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=757778",
+      "description": "카카오페이가 19일 서민금융진흥원이 주관하는 '사람 살리는 금융 캠페인'에 동참해 금융 취약계층 보호와 포용금융의 가치를 알렸다고 밝혔다. 이번 릴레이에는 신원근 카카오페이 대표가 박상진 네이버페이 대표의...",
+      "pubDate": "2026-11-19T00:10:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 디지털 금융 사각지대 해소 앞장..‘사람 살리는 금융 캠페...",
+      "link": "https://kpenews.com/View.aspx?No=4319745",
+      "originallink": "https://kpenews.com/View.aspx?No=4319745",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] 카카오페이가 고령층과 다문화 청소년 등 디지털 금융 소외계층의 금융 접근성을 높이고 소비자보호 문화를 확산하는 데 힘을 쏟고 있다....",
+      "pubDate": "2026-11-19T00:10:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "애플페이 카카오뱅크까지 확대…카드 혜택 축소 우려",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=104705",
+      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=104705",
+      "description": "애플페이가 국내 출시 3년 8개월 만에 현대카드를 넘어 카카오뱅크로 확대되면서 간편결제 시장의 경쟁 구도에 변화가 나타나고 있다. 이용자의 결제 선택권은 넓어졌지만 금융사가 부담하는 수수료가 장기적으로 카드...",
+      "pubDate": "2026-11-19T00:10:00+00:00",
+      "category": "애플페이",
+      "source": "데일리팝"
+    },
+    {
+      "title": "단말기로 판 까는 토스·네이버페이…카카오페이는 수익성 '업'",
+      "link": "https://n.news.naver.com/mnews/article/119/0003156907?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1716800/?sc=Naver",
+      "description": "네이버의 파이낸셜 플랫폼 부문 매출은 4877억원으로 14.1% 증가했지만 부문별 손익률은 6.6%에서 2.2%로 하락했다. 반면 카카오페이는 매출이 26.7% 증가한 3021억원, 영업이익은 105.4% 늘어난 325억원을 기록했다....",
+      "pubDate": "2026-11-18T22:07:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "애플페이 도입에 몽골 진출까지…카카오뱅크, 사업 확장 ‘광폭행보’",
+      "link": "https://www.ceoscoredaily.com/page/view/2026111815590152724",
+      "originallink": "https://www.ceoscoredaily.com/page/view/2026111815590152724",
+      "description": "카카오뱅크의 애플페이 도입은 서비스 운영에 따른 비용 부담보다 고객 확보와 이용 활성화에 따른 기대 효과가 크다는 판단에 따른 것으로 풀이된다. 실제 애플페이의 경우 서비스를 제공하는 금융사가 애플에...",
+      "pubDate": "2026-11-18T22:02:00+00:00",
+      "category": "애플페이",
+      "source": "CEOSCOREDAILY"
+    },
+    {
+      "title": "약관까지 공개됐는데…카드업계, 애플페이 출시는 '감감'",
+      "link": "https://www.newspim.com/news/view/20261118001304",
+      "originallink": "https://www.newspim.com/news/view/20261118001304",
+      "description": "최근 인터넷은행인 카카오뱅크가 애플페이 서비스를 시작했지만, 그보다 먼저 도입 준비에 나선 신한카드와 KB국민카드 등 카드사들은 출시 시점을 정하지 못하고 있다. 지난 3월 신한카드 약관이 홈페이지에 잠시...",
+      "pubDate": "2026-11-18T21:00:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "휴머스온, 카카오페이 대량 메시징 구축·운영 지원",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=407449",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=407449",
+      "description": "휴머스온은 카카오페이(377300)의 결제 완료·송금 내역 등 이용자 안내 메시지를 발송하는 대량 메시징 솔루션을 구축해 운영을 지원하고 있다고 18일 밝혔다. 휴머스온에 따르면 시스템은 결제 완료와 송금 내역, 혜택...",
+      "pubDate": "2026-11-18T20:00:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "토스플레이스, 소상공인 매장 운영 비용 덜어줄 '사장님 쿠폰팩' 서비스...",
+      "link": "https://www.thedailypost.kr/news/articleView.html?idxno=117035",
+      "originallink": "https://www.thedailypost.kr/news/articleView.html?idxno=117035",
+      "description": "ㅣ데일리포스트=곽민구 기자ㅣ토스(비바리퍼블리카)의 결제 단말기 및 포스(POS) 솔루션 자회사 토스플레이스가 소상공인들의 매장 운영 부담을 덜어주기 위해 식자재와 마케팅 등 다양한 혜택을 매달 무료로 제공하는...",
+      "pubDate": "2026-11-18T14:14:00+00:00",
+      "category": "토스페이",
+      "source": "데일리포스트"
+    },
+    {
+      "title": "11월 18일 카카오페이 퀴즈타임…벌금액 빈칸 정답은",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=407224",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=407224",
+      "description": "숫자 네 자리 묻는 문항…앱 회차 확인 후 입력 11월 18일 카카오페이 퀴즈타임에는 실수로 불이 났을 때의 벌금액을 묻는 문항이 나왔다. 문항은 최대 벌금액을 ‘OOOO만원’이라는 빈칸으로 제시했다. 정답은 ‘2000’...",
+      "pubDate": "2026-11-18T10:14:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "카카오뱅크 품은 애플페이…카드업계 '연 1.1조 수수료 폭탄' 공포 현실...",
+      "link": "https://n.news.naver.com/mnews/article/092/0002445918?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20261118172419",
+      "description": "카카오뱅크 애플페이 서비스 화면. 현재 삼성페이 등 국내 주요 간편결제 서비스는 카드사가 부담하는 별도의 결제 이용 수수료가 없다. 반면 애플페이는 카드사가 애플 본사에 결제 이용금액의 0.15%를 수수료로 지불하는...",
+      "pubDate": "2026-11-18T09:36:00+00:00",
+      "category": "애플페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "[디깅 인사이드] 애플페이 확산에 '유료화' 우려…청구서는 소비자·소...",
+      "link": "https://www.newsian.co.kr/news/articleView.html?idxno=101528",
+      "originallink": "https://www.newsian.co.kr/news/articleView.html?idxno=101528",
+      "description": "/ 편집자 주 카카오뱅크가 지난 16일 애플페이 서비스를 전격 도입하자 국내 지급결제 시장에서는 의견이 분분하다. 지난 2023년 현대카드가 국내 최초로 애플페이를 선보인 이후 3년간 관망세를 유지해 온 전업...",
+      "pubDate": "2026-11-18T09:02:00+00:00",
+      "category": "애플페이",
+      "source": "뉴시안"
+    },
+    {
+      "title": "KB국민카드·웹케시, 한경핀테크대상",
+      "link": "https://n.news.naver.com/mnews/article/015/0005355481?sid=101",
+      "originallink": "https://www.hankyung.com/article/2026111856001",
+      "description": "KB국민카드는 카드와 은행 계좌, 포인트 등을 한데 묶은 간편결제 플랫폼 ‘KB페이’의 혁신성을 인정받아... 서비스 부문 최우수상은 미래에셋증권, 토스뱅크, 디지털엑스에 돌아갔다. 링크알파코리아, 볼트테크코리아...",
+      "pubDate": "2026-11-18T09:02:00+00:00",
+      "category": "간편결제",
+      "source": "한국경제"
+    },
+    {
+      "title": "삼성페이는 무료인데…애플페이 확산에 수수료 부담",
+      "link": "https://n.news.naver.com/mnews/article/079/0004211335?sid=101",
+      "originallink": "https://www.nocutnews.co.kr/news/6609089?utm_source=naver&utm_medium=article&utm_campaign=20261118175252",
+      "description": "카카오뱅크는 지난 16일부터 애플페이 서비스를 시작했다. 2023년 3월 현대카드가 국내 최초로 애플페이를 도입한 지 약 3년 8개월 만이다. 신용카드 없이도 체크카드로 아이폰과 애플워치를 이용해 결제할 수 있게 되면서...",
+      "pubDate": "2026-11-18T08:53:00+00:00",
+      "category": "삼성페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "토스플레이스, 식자재부터 마케팅까지 매달 쿠폰 지원…소상공인 운영...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140162",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=140162",
+      "description": "토스플레이스가 매장 운영에 필요한 각종 할인 혜택을 한곳에 모은 '사장님 쿠폰팩'을 선보이며 소상공인 지원 영역을 확대하고 있다. 토스의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스는 18일 소상공인 전용 혜택...",
+      "pubDate": "2026-11-18T08:52:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "'수수료 0원' 삼성페이와 극명한 대조…애플페이 확산에 연간 1.1조 '수수...",
+      "link": "https://www.thebigdata.co.kr/view.php?ud=202611181714095229bbceadc3c9_23",
+      "originallink": "https://www.thebigdata.co.kr/view.php?ud=202611181714095229bbceadc3c9_23",
+      "description": "카카오뱅크가 애플페이를 전격 도입하면서 국내 간편결제 시장의 비용 구조를 둘러싼 논쟁이 다시 불붙고 있다. 지난 2023년 현대카드의 국내 첫 도입 이후 3년이 지났음에도 주요 전업 카드사들이 여전히 도입을 주저하는...",
+      "pubDate": "2026-11-18T08:26:00+00:00",
+      "category": "삼성페이",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "카카오페이 퀴즈타임 문제·정답 (11월 18일)",
+      "link": "https://www.wikitree.co.kr/articles/1175685",
+      "originallink": "https://www.wikitree.co.kr/articles/1175685",
+      "description": "카카오페이 퀴즈타임 11월 18일 자 문제 및 정답이 공개됐다.▲문제 : 내 실수로 불났을 때 최대 OOOO만원 벌금 내야 해요정답 : 2000카카오페이 퀴즈타임은 이용자가 자체 애플리케이션 내부에서 직접 참여할 수 있도록...",
+      "pubDate": "2026-11-18T08:26:00+00:00",
+      "category": "카카오페이",
+      "source": "위키트리"
+    },
+    {
+      "title": "[초점] 체크카드까지 도입한 애플페이… '연 최대 1.1조 수수료 폭탄' 현...",
+      "link": "http://www.rightknow.co.kr/news/articleView.html?idxno=35441",
+      "originallink": "http://www.rightknow.co.kr/news/articleView.html?idxno=35441",
+      "description": "애플의 근거리무선통신(NFC) 결제 서비스 '애플페이'가 국내 서비스를 시작한 21일 서울 한 애플 스토어에 안내문 카카오뱅크가 지난 16일 애플페이를 전격 도입하면서 국내 간편결제 시장에 다시 한 번 파장이 일고 있는...",
+      "pubDate": "2026-11-18T08:22:00+00:00",
+      "category": "애플페이",
+      "source": "알티케이뉴스"
+    },
+    {
+      "title": "트리니티항공, '페이팔 간편결제 서비스' 개시…고객 편의성 강화",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=218012",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=218012",
+      "description": "트리니티항공이 방한 외국인 관광객의 항공권 예매 편의성을 높이기 위해 글로벌 간편결제 시스템을 도입하고 연말까지 할인 마케팅 활동을 진행한다. 현지 통화 결제를 지원해 환전·결제 장벽을 낮추는 동시에...",
+      "pubDate": "2026-11-18T08:20:00+00:00",
+      "category": "간편결제",
+      "source": "SR타임스"
+    },
+    {
+      "title": "'결제망 전쟁' 토스·네이버페이, 최대 매출에도 출혈 과다",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026111813422926579",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026111813422926579",
+      "description": "토스는 3분기 누적 매출이 지난해 연간 실적을 넘어섰고 네이버파이낸셜(네이버페이)의 매출도 분기 기준 역대 최대를 기록했다. 그러나 3분기 단독으로 보면 양사 모두 이익 지표가 전년 동기 대비 절반 넘게 감소한...",
+      "pubDate": "2026-11-18T08:08:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "삼성페이 무료 정책에 쏠린 눈…애플페이 확산에 카드업계 수수료 부담",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140147",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=140147",
+      "description": "18일 금융업계에 따르면 카카오뱅크는 지난 16일 애플페이 서비스를 도입했다. 2023년 현대카드가 국내 최초로 애플페이를 선보인 이후 서비스 이용 범위가 체크카드로 확대되면서 카드업계의 비용 부담 문제가 다시...",
+      "pubDate": "2026-11-18T08:06:00+00:00",
+      "category": "삼성페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "애플페이 확산에 카드사 수수료 우려…소비자 부담 번지나",
+      "link": "https://dealsite.co.kr/articles/173084",
+      "originallink": "https://dealsite.co.kr/articles/173084",
+      "description": "카드업계 부담 최대 1조1000억원 추정…혜택 축소·수수료 인상 압박 가능성 카카오뱅크가 애플페이를 도입하면서 카드업계에서는 애플페이 확산에 따른 수수료 부담을 우려하는 목소리가 나온다. 애플페이 도입에 따른...",
+      "pubDate": "2026-11-18T08:02:00+00:00",
+      "category": "애플페이",
+      "source": "딜사이트"
+    },
+    {
+      "title": "카뱅 '애플페이' 도입에 셈법 복잡…토뱅 \"연내 도입\"·카드사 \"수수료...",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7194600",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7194600",
+      "description": "사진=각 사 ◇ 인뱅, 카드사 머뭇거린 틈 타 '애플페이' 진입…토뱅 도입은 '시간 문제' 본지 취재를 종합하면 인터넷전문은행과 카드사들은 카카오뱅크의 애플페이 도입에 촉각을 기울이고 있지만 말을 아끼는 모양새다....",
+      "pubDate": "2026-11-18T08:02:00+00:00",
+      "category": "애플페이",
+      "source": "주간한국"
+    },
+    {
+      "title": "토스플레이스, 사장님 쿠폰팩 선보여",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884465",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884465",
+      "description": "| 서울=한스경제 김종효 기자 | 비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스가 소상공인을 위한 혜택 꾸러미 '사장님 쿠폰팩' 서비스를 선보였다고 11월 18일 밝혔다. 사장님 쿠폰팩은...",
+      "pubDate": "2026-11-18T08:00:00+00:00",
+      "category": "토스페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "독점 깨진 애플페이···수수료 체계 바뀔까",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494161",
+      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494161",
+      "description": "카카오뱅크의 애플페이 도입으로 현대카드가 유지해 온 단독 지원 체제가 약 3년 8개월 만에 막을 내렸다. 토스뱅크와 주요 카드사들도 서비스 도입을 추진하면서 금융권의 결제 경쟁이 확대되는 가운데, 참여사 증가가...",
+      "pubDate": "2026-11-18T07:58:00+00:00",
+      "category": "애플페이",
+      "source": "이뉴스투데이"
+    },
+    {
+      "title": "1.1조 수수료 '불씨' 카뱅 애플페이…'무료' 삼성페이 흔들면 소비자 직...",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=49145",
+      "originallink": "https://www.newstopkorea.com/news/articleView.html?idxno=49145",
+      "description": "카카오뱅크의 애플페이 합류로 카드사들의 연간 수수료 비용이 최대 1조1000억원에 달할 수 있다는 관측이 제기되면서, 수수료 무료 정책을 유지해 온 삼성페이의 입지도 시험대에 올랐다. 애플페이 확산이 간편결제...",
+      "pubDate": "2026-11-18T07:56:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴스톱"
+    },
+    {
+      "title": "카카오뱅크 '선점' vs 토스뱅크 '해외결제'…애플페이 경쟁 본격화",
+      "link": "https://n.news.naver.com/mnews/article/293/0000093466?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=679006",
+      "description": "카카오뱅크는 최근 애플페이를 출시했다. 현대카드가 2023년 3월 국내에 애플페이를 도입한 지 3년8개월 만에 다른 금융사가 합류했다. 신한·KB국민카드 등 대형 카드사가 수수료 부담을 검토하는 사이 인터넷은행이 먼저...",
+      "pubDate": "2026-11-18T07:46:00+00:00",
+      "category": "애플페이",
+      "source": "블로터"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 금융계 소식...NH농협금융·토스플레이스·JT저...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203440",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=203440",
+      "description": "토스플레이스가 식자재·마케팅 비용을 덜어주는 ‘사장님 쿠폰팩’을 선보였고, 또 JT저축은행은 JT친애저축은행과 함께 지역 아동센터 2곳의 학습환경 개선을 위한 인테리어를 후원했다. ◆ NH농협금융, 스포츠단...",
+      "pubDate": "2026-11-18T07:44:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "'애플페이' 결제 편의성 뒤 '1조원 수수료 부메랑'…카드사·영세 가맹점...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=301767",
+      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=301767",
+      "description": "카카오뱅크가 애플페이 서비스를 개시하며 간편결제 시장의 지각변동이 예고됐지만, 국내 신용카드 업계는 여전히 도입을 주저하고 있다. 결제 편의성이라는 명분 이면에 업계의 수익 기반을 흔들 막대한 수수료 부담과...",
+      "pubDate": "2026-11-18T07:40:00+00:00",
+      "category": "애플페이",
+      "source": "파이낸셜포스트"
+    },
+    {
+      "title": "'수수료 부담' 애플페이 확산에 소비자 혜택 축소 우려",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=755515",
+      "originallink": "http://www.newsprime.co.kr/news/article.html?no=755515",
+      "description": "카카오뱅크가 애플페이를 도입하면서 국내 간편결제 시장에 파장이 일고 있다. 간편결제 시장 확대에 대한 기대감이 커지는 가운데 금융사가 부담하는 수수료와 추가 비용이 결국 소비자 혜택 축소로 이어질 수 있다는...",
+      "pubDate": "2026-11-18T07:36:00+00:00",
+      "category": "애플페이",
+      "source": "프라임경제"
+    },
+    {
+      "title": "대구 동구, 환경개선부담금 체납액 카톡 '고지·간편결제'",
+      "link": "https://n.news.naver.com/mnews/article/003/0014330860?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20261118_0003873634",
+      "description": "체납 내역을 확인한 후 카카오페이와 네이버페이 등으로 납부할 수 있다. 동구는 모바일기기 사용이 익숙하지 않은 주민을 위해 기존 종이고지서도 함께 발송할 계획이다. 우성진 동구청장은 \"주민들이 환경개선부담금을...",
+      "pubDate": "2026-11-18T07:20:00+00:00",
+      "category": "간편결제",
+      "source": "뉴시스"
+    },
+    {
+      "title": "체크카드까지 확대된 애플페이…카드업계 수수료 부담에 소비자·소상공...",
+      "link": "http://www.econonews.co.kr/news/articleView.html?idxno=447370",
+      "originallink": "http://www.econonews.co.kr/news/articleView.html?idxno=447370",
+      "description": "/뉴시스 카카오뱅크가 애플페이 서비스를 도입하면서 간편결제 수수료 부담 문제가 다시 부각되고 있다. 애플페이 이용 확대로 결제 편의성이 높아질 수 있지만, 카드사들이 부담하는 추가 비용이 증가할 경우...",
+      "pubDate": "2026-11-18T07:16:00+00:00",
+      "category": "애플페이",
+      "source": "이코노뉴스"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 결합 오늘 심의…네이버 검색과 업비트에서 계...",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=514832",
+      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=514832",
+      "description": "공정거래위원회가 18일 네이버파이낸셜과 두나무의 기업결합을 심의한다. 네이버가 검색과 쇼핑에서 업비트를 먼저 보여주고, 업비트가 네이버페이 이용자에게만 혜택을 주면 경쟁 거래소와 결제업체는 고객을 확보하기...",
+      "pubDate": "2026-11-18T07:02:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "카카오뱅크 올라탄 애플페이 '연 최대 1.1조 수수료 폭탄'...청구서는 소...",
+      "link": "http://www.srtimes.kr/news/articleView.html?idxno=217990",
+      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=217990",
+      "description": "지난 16일 카카오뱅크가 애플페이를 전격 도입하면서 국내 간편결제 시장에 또 한 번 파장이 일고 있다. 그러나 정작 지급결제 시장의 표정은 어둡기만 하다. 지난 2023년 현대카드가 국내 최초로 애플페이를 도입한 이후...",
+      "pubDate": "2026-11-18T06:48:00+00:00",
+      "category": "애플페이",
+      "source": "SR타임스"
+    },
+    {
+      "title": "애플페이, 카뱅·토뱅 낙점...해외선 이미 네오뱅크 주도",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1320923&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1320923&inflow=N",
+      "description": "뉴스토마토 = 신수정 기자 |  애플페이가 현대카드에 이어 카카오뱅크와 토스뱅크를 국내 파트너사로 낙점하면서 배경에 관심이 쏠리는 가운데, 해외에서는 이미 인터넷전문은행(인뱅·네오뱅크)과 핀테크 플랫폼을...",
+      "pubDate": "2026-11-18T06:02:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스토마토"
+    },
+    {
+      "title": "인뱅도 '애플페이' 진출했지만…카드업계, 자칫 삼성페이도 유료화될까...",
+      "link": "https://n.news.naver.com/mnews/article/448/0000651829?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890165.html",
+      "description": "최근 인터넷은행을 중심으로 애플페이 서비스가 확산되고 있지만 카드업계에서는 별다른 움직임이 나오지 않고 있다. 애플페이의 확산이 아이폰 유저들의 결제 편의성은 높이겠지만, 카드사 입장에서는 수수료 부담이...",
+      "pubDate": "2026-11-18T05:48:00+00:00",
+      "category": "삼성페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "토스플레이스, 소상공인 매장 운영비 낮춘다…매월 무료 ‘사장님 쿠폰...",
+      "link": "https://n.news.naver.com/mnews/article/021/0002833747?sid=101",
+      "originallink": "https://www.munhwa.com/article/11632277?ref=naver",
+      "description": "식자재 구매부터 마케팅·예약·웨이팅까지 매장 운영 혜택 한데 모아 토스 비즈니스앱 회원 누구나 이용…매월 1일 신규 쿠폰 발급 토스플레이스가 매장 운영에 필요한 비용 부담을 줄이기 위해 소상공인 대상 할인 혜택을...",
+      "pubDate": "2026-11-18T05:42:00+00:00",
+      "category": "토스페이",
+      "source": "문화일보"
+    },
+    {
+      "title": "토스플레이스, 소상공인 대상 ‘사장님 쿠폰팩’ 출시…매월 무료 제공",
+      "link": "https://n.news.naver.com/mnews/article/021/0002833750?sid=101",
+      "originallink": "https://www.munhwa.com/article/11632280?ref=naver",
+      "description": "토스플레이스가 소상공인의 매장 운영 비용 부담을 덜어주는 서비스를 내놨다. 비바리퍼블리카(토스)의 결제 단말기·포스(POS) 솔루션 자회사 토스플레이스는 소상공인을 위한 ‘사장님 쿠폰팩’ 서비스를 출시했다고 18일...",
+      "pubDate": "2026-11-18T05:42:00+00:00",
+      "category": "토스페이",
+      "source": "문화일보"
+    },
+    {
+      "title": "토스플레이스, 소상공인 위한 '사장님 쿠폰팩' 출시",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326502",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326502",
+      "description": "이미지=토스플레이스  비바리퍼블리카(토스)의 결제 솔루션 자회사 토스플레이스가 소상공인들의 고정 비용 부담을 덜어주기 위해 실속 있는 혜택을 담은 '사장님 쿠폰팩'을 전격 공개했다. 토스플레이스는 매장을...",
+      "pubDate": "2026-11-18T05:28:00+00:00",
+      "category": "토스페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "카카오뱅크, 애플페이 도입이 의미하는 것 [뉴스Q]",
+      "link": "https://www.newsq.co.kr/news/articleView.html?idxno=500922",
+      "originallink": "https://www.newsq.co.kr/news/articleView.html?idxno=500922",
+      "description": "뉴스Q(큐) 김채완 기자 / 카카오뱅크가 애플페이 서비스를 시작하고 간편결제 시장 공략에 나섰다. 기존 고객의 결제 편의성을 높이는 동시에 아이폰을 사용하는 청년층과 청소년층까지 고객 접점을 넓혀 카드 이용...",
+      "pubDate": "2026-11-18T05:26:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스Q(뉴스큐)"
+    },
+    {
+      "title": "토스플레이스, 소상공인 매장 운영비 절감 지원…매월 쿠폰 제공",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=153786",
+      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=153786",
+      "description": "토스의 결제 단말기 및 판매시점정보관리(POS) 솔루션 자회사 토스플레이스가 소상공인의 매장 운영비 부담을 줄이기 위해 매월 무료 쿠폰을 제공하는 서비스를 도입했다. 식자재 구매부터 가게 홍보와 고객 리뷰 관리까지...",
+      "pubDate": "2026-11-18T05:24:00+00:00",
+      "category": "토스페이",
+      "source": "직썰"
+    },
+    {
+      "title": "[똑똑한 소비] 카카오뱅크까지 온 애플페이…결제 수수료, 소비자 혜택...",
+      "link": "https://www.cfnews.kr/news/article.html?no=113601",
+      "originallink": "https://www.cfnews.kr/news/article.html?no=113601",
+      "description": "체크카드 가맹점 수수료 낮아 소액 결제 잦을수록 건당 비용 부담 김용만 의원, 국감서 국내 애플페이 수수료 ‘중국의 5배’ 지적…카카오뱅크 계약 요율은 비공개 기존 캐시백은 유지…해외 사업자에 지급하는 비용과...",
+      "pubDate": "2026-11-18T05:22:00+00:00",
+      "category": "애플페이",
+      "source": "cfnews"
+    },
+    {
+      "title": "토스·네이버가 차린 애플페이 밥상…카뱅 \"잘 먹겠습니다\"",
+      "link": "https://www.asiatime.co.kr/article/20261118500266",
+      "originallink": "https://www.asiatime.co.kr/article/20261118500266",
+      "description": "네이버파이낸셜의 모회사 네이버도 단말기 보급 확대에 따른 비용 부담을 떠안았다. 네이버의 3분기 연결 기준 파트너비는 1조3240억원으로 18.8%(2099억원) 증가했다. 마케팅비도 6639억원으로 32.3%(1619억원) 늘었다....",
+      "pubDate": "2026-11-18T05:06:00+00:00",
+      "category": "토스페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "토스플레이스, 소상공인 운영비 부담 덜어준다…‘사장님 쿠폰팩’ 출시",
+      "link": "https://n.news.naver.com/mnews/article/119/0003156688?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1716606/?sc=Naver",
+      "description": "토스플레이스가 식자재 구매부터 마케팅, 리뷰 관리까지 소상공인의 매장 운영에 필요한 비용 부담을 덜어주는 쿠폰 서비스를 선보였다. 토스의 결제 단말기 및 포스(POS) 솔루션 공급 자회사 토스플레이스는 소상공인을...",
+      "pubDate": "2026-11-18T05:01:00+00:00",
+      "category": "토스페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "토스플레이스, 소상공인 위한 ‘사장님 쿠폰팩’ 출시…매달 무료 쿠폰...",
+      "link": "https://n.news.naver.com/mnews/article/468/0001281789?sid=101",
+      "originallink": "https://www.sportsseoul.com/news/read/1650612?ref=naver",
+      "description": "비바리퍼블리카(토스)의 결제 단말기 및 포스(POS) 솔루션 자회사 토스플레이스가 소상공인의 매장 운영 고정비 부담을 낮춰주는 ‘사장님 쿠폰팩’ 서비스를 출시했다고 18일 밝혔다. ‘사장님 쿠폰팩’은 자영업자가...",
+      "pubDate": "2026-11-18T04:29:00+00:00",
+      "category": "토스페이",
+      "source": "스포츠서울"
+    },
+    {
+      "title": "삼성페이와 비교되는 애플페이 수수료 논란…카카오뱅크 합류에도 카드...",
+      "link": "http://www.lkp.news/news/articleView.html?idxno=86206",
+      "originallink": "http://www.lkp.news/news/articleView.html?idxno=86206",
+      "description": "카카오뱅크의 애플페이 도입으로 촉발된 국내 간편결제 시장의 변화가 카드사 수익성과 소비자 혜택에 대한 우려를 다시 불러일으키고 있다. 출시 이래 10년 가까이 국내 카드사에 결제 수수료를 면제하며 상생을 실천해...",
+      "pubDate": "2026-11-18T04:22:00+00:00",
+      "category": "삼성페이",
+      "source": "리버티코리아포스트"
+    },
+    {
       "title": "韓 시장 세력 넓히는 '애플페이'…체크카드 수익성·혜택 축소 우려",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903463",
       "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=903463",
@@ -2176,7 +2968,7 @@
       "description": "산업·기업 신용 동향을 요약·영상·오디오로 제공 보고서 원문도 연결 /한국신용평가 개인투자자가 네이버페이에서 채권을 발행한 기업의 신용 이슈와 업종별 동향을 살펴볼 수 있게 된다. 채권과 신용상품에 투자하는...",
       "pubDate": "2026-11-16T01:34:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "한신평, 네이버페이와 금융 리서치 제공",
@@ -4219,7 +5011,7 @@
       "description": "애플페이 연동 관련 안내 이미지./애플 홈페이지 갈무리 카카오뱅크와 토스뱅크가 연내 애플페이 도입을 추진하면서 카드업계의 셈법이 복잡해지고 있다. 애플페이 확산에 따른 경쟁 압박이 커질 것으로 예상되나 여전히...",
       "pubDate": "2026-11-10T01:22:00+00:00",
       "category": "애플페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "네이버페이, ‘2026 서울카페쇼’ 참가…‘Npay 커넥트’ 사업 알려",
@@ -8548,7 +9340,7 @@
       "description": "최명희 BNK경남은행 개인고객그룹 그룹장(왼쪽)과 김정열 토스플레이스 부대표가 기념촬영을 하고 있다./BNK경남은행 BNK경남은행이 지역 소상공인의 결제서비스 이용 편의성 확대를 위해 토스플레이스와 협력한다....",
       "pubDate": "2026-10-28T06:00:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "BNK경남은행, 토스와 지역 소상공인 지원 확대 맞손",
@@ -9475,7 +10267,7 @@
       "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 '삼성월렛 머니'로 결제할 수 있게 됐다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 상점의 QR 코드를 직접 스캔하는 방식으로...",
       "pubDate": "2026-10-27T01:18:00+00:00",
       "category": "삼성페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "중국서 삼성월렛 결제, 차량 점검은 앱으로… 고객 서비스 다변화",
@@ -11950,7 +12742,7 @@
       "description": "이용 방법은 간편하다. 고객은 별도의 현지 결제 앱을 설치하거나 여권 및 신용카드 등 개인정보를 추가로 등록할 필요없이 중국 현지 가맹점에 비치된 QR코드를 KB스타뱅킹으로 스캔해 결제하면 된다. 또한 직접...",
       "pubDate": "2026-10-22T07:08:00+00:00",
       "category": "간편결제",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "현장 간편결제 확산 제자리… 금융당국 \"제도 개선 검토\" [국감2026]",
@@ -12238,7 +13030,7 @@
       "description": "삼성월렛 머니·포인트는 삼성 월렛에 탑재된 충전식 간편결제 서비스다. 이용자가 머니를 충전해 결제하고... 결제 시 즉석 당첨 응모권 추가 지급 등 등급별 혜택이 제공된다. 영 등급 고객에게는 삼성 월렛으로 토스...",
       "pubDate": "2026-10-22T04:48:00+00:00",
       "category": "삼성페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "삼성전자 '삼성월렛 머니·포인트', 출시 1년 만에 가입자 300만 돌파",
@@ -12544,7 +13336,7 @@
       "description": "카카오페이·네이버페이·삼성페이·애플페이와 위챗페이·알리페이 등 간편 결제도 쓸 수 있다. 이번 도입으로 승객은 현금 없이 카드나 모바일 간편 결제로 1회권을 살 수 있게 됐다. 공사는 비정기 이용객과 외국인...",
       "pubDate": "2026-10-22T00:54:00+00:00",
       "category": "간편결제",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "삼성전자, ‘삼성월렛 머니·포인트’ 출시 1주년 가입자 300만명 돌파",
@@ -13319,367 +14111,7 @@
       "pubDate": "2026-10-20T06:07:00+00:00",
       "category": "카카오페이",
       "source": "tvchosun"
-    },
-    {
-      "title": "잠자는 충전금 깨우고, 기저귀 바우처 품고…생활 파고든 핀테크 [핀테...",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=2007979",
-      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2007979",
-      "description": "매일일보 = 기영미 기자   |  지갑 구석에서 잠자던 선불충전금은 알림으로 깨워 돌려주고 기저귀·분유 바우처는 간편결제에 올라탔다. 제주 소상공인에게는 75억원 규모의 보증을 채워주고 보험 영업 현장에는 새 고객...",
-      "pubDate": "2026-10-20T01:58:00+00:00",
-      "category": "간편결제",
-      "source": "매일일보"
-    },
-    {
-      "title": "[금융계 소식] NH투자증권·키움증권·삼성증권·토스·금투협·카카오페...",
-      "link": "https://sateconomy.co.kr/news/view/1065576340736059",
-      "originallink": "https://sateconomy.co.kr/news/view/1065576340736059",
-      "description": "NH투자증권, 퇴직연금 ELS 100호 발행…키움증권, 연금저축 고객 혜택 강화 카카오페이, 500억 걸음 기부 캠페인…금투협, 11월 채권시장 심리 개선 ▲ NH투자증권 사옥 [NH투자증권] 증권·금융업계가 연금상품과 고객...",
-      "pubDate": "2026-10-20T01:36:00+00:00",
-      "category": "토스페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "카카오페이, 가수 션과 기부 마라톤 ‘2026 롱런’ 개최⋯최대 15억 기부",
-      "link": "https://www.etoday.co.kr/news/view/2637789",
-      "originallink": "https://www.etoday.co.kr/news/view/2637789",
-      "description": "이투데이=연희진 기자 | 카카오페이는 가수 션의 유튜브 채널(션과 함께)과 손잡고 소상공인 지원을 위한 온·오프라인 기부 마라톤 ‘2026 LONG RUN(롱런)’을 연다고 20일 밝혔다. ‘롱런’에는 오래 달린다는 뜻과 함께...",
-      "pubDate": "2026-10-20T01:24:00+00:00",
-      "category": "카카오페이",
-      "source": "이투데이"
-    },
-    {
-      "title": "카카오페이·션, 소상공인 위해 달린다…500억 걸음 도전",
-      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=240957",
-      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=240957",
-      "description": "카카오페이가 가수 션과 손잡고 소상공인 지원을 위한 기부 마라톤 캠페인을 개최한다. 올해는 누적 500억 걸음을 목표로 최대 15억원의 기부금을 조성할 계획이다. 카카오페이는 가수 션의 유튜브 채널 '션과 함께...",
-      "pubDate": "2026-10-20T01:22:00+00:00",
-      "category": "카카오페이",
-      "source": "이지경제"
-    },
-    {
-      "title": "걸음 모아 소상공인 돕는다…카카오페이, 기부 마라톤 '롱런' 개최",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=136573",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=136573",
-      "description": "카카오페이가 이용자들의 걸음 수를 모아 소상공인을 지원하는 기부 캠페인을 진행한다. 온라인 걷기 행사와 오프라인 마라톤을 함께 열고 목표 달성에 따라 기부금을 조성한다. 카카오페이는 가수 션의 유튜브...",
-      "pubDate": "2026-10-20T01:08:00+00:00",
-      "category": "카카오페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "아이앤텍, e모바일 전자고지 결제 서비스 확대..디지털 서비스 경쟁력 ...",
-      "link": "https://www.kdpress.co.kr/news/articleView.html?idxno=209379",
-      "originallink": "https://www.kdpress.co.kr/news/articleView.html?idxno=209379",
-      "description": "국내 카드 결제와 간편결제, 가상계좌 등 다양한 결제수단을 지원하기 때문이다. 아이앤텍은 기존 종이 고지서를 디지털 문서로 전환하는 수준을 넘어 정보 전달과 확인, 후속 업무를 연결하는 디지털 서비스로 발전하고...",
-      "pubDate": "2026-10-20T01:04:00+00:00",
-      "category": "간편결제",
-      "source": "데일리경제"
-    },
-    {
-      "title": "[금융권 이모저모]토스, 불법도박 의심계좌 송금 전 경고 外",
-      "link": "https://www.businessplus.kr/news/articleView.html?idxno=118421",
-      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=118421",
-      "description": "/ 사진=BC카드 ◇BC카드, 불법사금융 예방 캠페인 동참…다음 주자로 네이버페이 지목 BC카드는 김영우 사장이 서민금융진흥원 주관 '사람 살리는 금융' 릴레이 캠페인에 참여했다고 20일 밝혔다. 이 캠페인은 불법사금융...",
-      "pubDate": "2026-10-20T00:52:00+00:00",
-      "category": "토스페이",
-      "source": "비즈니스플러스"
-    },
-    {
-      "title": "카카오페이·션, 기부 마라톤 '롱런' 개최…최대 15억 기부",
-      "link": "https://n.news.naver.com/mnews/article/421/0009237807?sid=105",
-      "originallink": "https://www.news1.kr/it-science/internet-platform/6325424",
-      "description": "카카오페이(377300)가 가수 션의 유튜브 채널 '션과 함께'와 손잡고 기부 마라톤 캠페인 '2026 롱런'(LONG RUN)을 개최한다고 20일 밝혔다. 롱런은 카카오페이 만보기 서비스를 통해 집계된 참가자들의 누적 걸음 수에 따라...",
-      "pubDate": "2026-10-20T00:46:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "카카오페이, 션과 '2026 롱런' 개최…35만명 세계 신기록 정조준",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=86274",
-      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=86274",
-      "description": "카카오페이가 가수 션이 운영하는 유튜브 채널과 손을 잡고 소상공인 지원 목적의 2026 롱런 마라톤 대회를 연다고 20일 밝혔다. 지난해 26만5000명이 동참해 역대급 흥행을 거둔 성과를 바탕으로 올해는 총참여자...",
-      "pubDate": "2026-10-20T00:32:00+00:00",
-      "category": "카카오페이",
-      "source": "포인트경제"
-    },
-    {
-      "title": "카카오페이가 걸음으로 500억 걸음 도전에 나선다",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=754196",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754196",
-      "description": "카카오페이가 이 방식을 이어가며 규모를 키우고 있다. 가수 션의 유튜브 채널 션과 함께와 손잡고 소상공인을 위한 온·오프라인 기부 마라톤 캠페인 2026 LONG RUN(롱런)을 개최하고 올해 500억 걸음 달성에 나선다고 20일...",
-      "pubDate": "2026-10-20T00:30:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "카카오페이, 500억 걸음 모아 소상공인에 최대 15억 기부",
-      "link": "https://www.g-enews.com/view.php?ud=202610200916566785cd0bfacc1c_1",
-      "originallink": "https://www.g-enews.com/view.php?ud=202610200916566785cd0bfacc1c_1",
-      "description": "카카오페이(대표 신원근)가 시민들의 걷기와 달리기를 소상공인 지원으로 연결하는 기부 마라톤 캠페인을 진행한다. 참가자들이 모은 걸음 수에 따라 최대 15억원을 기부하고, 온라인 걷기 행사와 오프라인 마라톤을...",
-      "pubDate": "2026-10-20T00:24:00+00:00",
-      "category": "카카오페이",
-      "source": "글로벌이코노믹"
-    },
-    {
-      "title": "카카오페이, 소상공인 위한 온·오프라인 기부 마라톤 개최",
-      "link": "https://n.news.naver.com/mnews/article/018/0006391978?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02889686645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "카카오페이(377300)가 소상공인을 위한 온·오프라인 기부 마라톤 캠페인을 개최한다. 카카오페이는 가수 션의 유튜브 채널 ‘션과 함께’와 손잡고 ‘2026 LONG RUN(롱런)’을 연다고 20일 밝혔다. ‘LONG RUN’은 ‘오래...",
-      "pubDate": "2026-10-20T00:19:00+00:00",
-      "category": "카카오페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "카카오페이, 500억 걸음 모이면 15억원 기부…소상공인 지원",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708346",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708346",
-      "description": "카카오페이가 이용자들의 걸음 수에 따라 소상공인 지원 기부금을 조성하는 마라톤 캠페인을 시작한다. 올해 누적 500억 걸음을 목표로 설정하고 달성 구간에 따라 최대 15억원을 기부할 계획이다. 카카오페이는 20일...",
-      "pubDate": "2026-10-20T00:16:00+00:00",
-      "category": "카카오페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "카카오페이, 스테이블코인 생태계 구축 속도..결제·유통 기반 확대",
-      "link": "https://kpenews.com/View.aspx?No=4270424",
-      "originallink": "https://kpenews.com/View.aspx?No=4270424",
-      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] 카카오페이가 글로벌 디지털자산 기업과의 협력을 확대하고 스테이블코인 지갑·송금·결제부터 인공지능(AI) 기반 거래까지 기술 실증을...",
-      "pubDate": "2026-10-19T23:42:00+00:00",
-      "category": "카카오페이",
-      "source": "한국정경신문"
-    },
-    {
-      "title": "네이버·카카오·토스, ‘잠자는 페이 잔액’ 255억원 찾아준다",
-      "link": "http://www.datanews.co.kr/news/article.html?no=146972",
-      "originallink": "http://www.datanews.co.kr/news/article.html?no=146972",
-      "description": "네이버페이·카카오페이·토스 등 간편결제 3사가 장기간 사용하지 않은 선불충전금의 잔액과 환급 방법을 이용자에게 알려주는 제도를 시작했다. 충전해 놓고 잊어버린 돈을 이용자가 쉽게 확인해 돌려받도록 안내를...",
-      "pubDate": "2026-10-19T23:38:00+00:00",
-      "category": "토스페이",
-      "source": "데이터뉴스"
-    },
-    {
-      "title": "KB페이, 올 2030 관심도 1년새 급등…’간편결제 할인·카드 바로할인' ...",
-      "link": "https://www.thebigdata.co.kr/view.php?ud=202610192227168762fdcde0ec8c_23",
-      "originallink": "https://www.thebigdata.co.kr/view.php?ud=202610192227168762fdcde0ec8c_23",
-      "description": "15%, 네이버·카카오·토스페이는 10% 할인을 해 주는 고효율 간편결제 카드로, 간편결제에 익숙한 2030 세대라면 연회비가 더 저렴한 모바일 단독 카드로 발급받아 15% 할인을 알뜰하게 누려 보길 추천한다”고 평가했다....",
-      "pubDate": "2026-10-19T23:32:00+00:00",
-      "category": "간편결제",
-      "source": "빅데이터뉴스"
-    },
-    {
-      "title": "[핀테크핫이슈] 금융권 '해킹 사태' 일파만파...힘받는 디지털자산 과세...",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708202",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708202",
-      "description": "탑재 네이버페이·카카오페이·토스는 장기간 사용하지 않은 선불충전금 보유자 176만명에게 잔액을 안내하기로 했다. 또한 네이버페이는 제주 소상공인을 대상으로 75억원 규모의 특별보증을 지원하고, 네이버와 함께...",
-      "pubDate": "2026-10-19T22:30:00+00:00",
-      "category": "간편결제",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "카카오페이 3분기 경영실적 발표 11월 3일",
-      "link": "https://www.vegannews.co.kr/news/article.html?no=394404",
-      "originallink": "https://www.vegannews.co.kr/news/article.html?no=394404",
-      "description": "카카오페이가 11월 3일 오후 4시 2026년 3분기 경영실적을 발표한다. 금융감독원 전자공시시스템(DART)에 접수된 기업설명회 안내 공시에 따르면 발표는 컨퍼런스콜로 진행한다. 대상은 국내외 증권사 애널리스트와...",
-      "pubDate": "2026-10-19T21:10:00+00:00",
-      "category": "카카오페이",
-      "source": "vegannews"
-    },
-    {
-      "title": "[송호길의 금융人] 카카오페이 신원근, 흑자전환에도…주가 74% 내리막 ...",
-      "link": "http://www.newswatch.kr/news/articleView.html?idxno=81562",
-      "originallink": "http://www.newswatch.kr/news/articleView.html?idxno=81562",
-      "description": "신원근 카카오페이 대표이사. 사진= 카카오페이 | 뉴스워치= 송호길 기자 | 신원근 카카오페이 대표 재임 중 회사가 지난해 상장 이후 첫 연간 연결 영업흑자를 달성했다. 올해 상반기에는 영업이익이 908억원으로...",
-      "pubDate": "2026-10-19T21:00:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스워치"
-    },
-    {
-      "title": "잇다, 코리아 핀테크 위크서 AI 음성 주문·결제 시연",
-      "link": "https://n.news.naver.com/mnews/article/008/0005428570?sid=101",
-      "originallink": "https://www.mt.co.kr/industry/2026/10/19/2026101913085019462",
-      "description": "이 서비스는 고객이 키오스크에 음성으로 메뉴를 말하면 AI가 주문 의도를 파악해 장바구니에 담고 간편결제까지 처리한다. 회사는 LLM(거대언어모델)으로 의도를 추출해 POS 주변기기를 제어하는 기술을 특허...",
-      "pubDate": "2026-10-19T09:09:00+00:00",
-      "category": "간편결제",
-      "source": "머니투데이"
-    },
-    {
-      "title": "카카오페이, 이달 말까지 '노난날' 이벤트 진행",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322843",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322843",
-      "description": "사진=카카오페이  카카오페이는 '2026 카카오페이 노난날' 캠페인을 이달 30일까지 진행한다고 19일 밝혔다. '노난날'은 차별화된 온·오프라인·해외 결제 혜택과 매일 받을 수 있는 쿠폰, 사용자별 맞춤 할인 등...",
-      "pubDate": "2026-10-19T08:58:00+00:00",
-      "category": "카카오페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "카카오페이, '2026 노난날' 개최...전 국민 대상 맞춤형 결제 할인 프로...",
-      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=266957",
-      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=266957",
-      "description": "카카오페이는 10월 말까지 '2026 카카오페이 노난날' 행사를 진행하며, 전 국민이 누릴 수 있는 다양한 결제 할인과 맞춤형 혜택을 선보인다고 19일 밝혔다. 이번 행사는 뷰티, 패션, 여행, 통신, 편의점, 음식 및 생활용품...",
-      "pubDate": "2026-10-19T08:30:00+00:00",
-      "category": "카카오페이",
-      "source": "아시아A"
-    },
-    {
-      "title": "카카오페이, 50여개 브랜드서 최대 15만원 할인…'노난날' 개최",
-      "link": "https://www.ajunews.com/view/20261019170944600",
-      "originallink": "https://www.ajunews.com/view/20261019170944600",
-      "description": "오는 30일까지 진행 아주경제=김지윤 기자 yoon0930@ajunews.com 카카오페이가 온라인·오프라인·해외 결제 할인 혜택을 제공하는 '2026 카카오페이 노난날'을 개최한다. 카카오페이는 오는 30일까지 뷰티·패션, 여행, 해외...",
-      "pubDate": "2026-10-19T08:18:00+00:00",
-      "category": "카카오페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "카카오페이, '2026 카카오페이 노난날' 개최… 이달 말까지 진행",
-      "link": "https://www.tournews21.com/news/articleView.html?idxno=146080",
-      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=146080",
-      "description": "카카오페이가 이달 말까지 온·오프라인과 해외 결제를 아우르는 할인 행사를 연다. 7개 업종 50여 개 가맹 브랜드의 할인을 한데 묶은 행사다. 카카오페이는 19일 '2026 카카오페이 노난날' 행사를 시작했다고 밝혔다....",
-      "pubDate": "2026-10-19T08:04:00+00:00",
-      "category": "카카오페이",
-      "source": "투어코리아"
-    },
-    {
-      "title": "카카오페이, '2026 카카오페이 노난날' 진행…최대 15만원 할인 혜택 제...",
-      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44604",
-      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=44604",
-      "description": "카카오페이(대표 신원근)가 전 국민을 대상으로 다양한 결제 혜택을 제공하는 '2026 카카오페이 노난날'을 이달 말일까지 진행한다. '노난날'은 온라인·오프라인·해외 결제 혜택과 매일 제공되는 쿠폰, 사용자 맞춤형...",
-      "pubDate": "2026-10-19T08:00:00+00:00",
-      "category": "카카오페이",
-      "source": "S저널"
-    },
-    {
-      "title": "카카오페이, 전 국민 할인받고 노나는 날 '노난날' 개최",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322825",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322825",
-      "description": "이미지=카카오페이  카카오페이가 온·오프라인과 해외를 아우르는 대규모 결제 할인 행사를 이달 말일까지 개최한다. 카카오페이는 전 국민 할인받고 노나는 날 '2026 카카오페이 노난날'을 이달 말일까지 진행한다고...",
-      "pubDate": "2026-10-19T07:58:00+00:00",
-      "category": "카카오페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "요거트월드, 카카오페이 제휴로 오프라인 결제 프로모션 확대",
-      "link": "https://www.lawissue.co.kr/view.php?ud=202610191543552743204ead0791_12",
-      "originallink": "https://www.lawissue.co.kr/view.php?ud=202610191543552743204ead0791_12",
-      "description": "요거트월드가 카카오페이와 협력해 오프라인 매장의 결제 프로모션을 운영한다. 배달 중심으로 진행해 온 판촉 활동을 매장 결제 영역으로 넓혀 가맹점의 판매 채널을 다각화하는 취지다. 이번 제휴는 카카오페이를 통한...",
-      "pubDate": "2026-10-19T06:46:00+00:00",
-      "category": "카카오페이",
-      "source": "로이슈"
-    },
-    {
-      "title": "카카오페이, 시그니처 캠페인 '노난날'로 결제 생태계 확장",
-      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1019902",
-      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1019902",
-      "description": "카카오페이가 온·오프라인과 해외 결제 전반을 아우르는 고객 혜택 캠페인을 전개한다. 카카오페이는 자사 결제 혜택을 한데 모은 시그니처 캠페인 '2026 노난날'을 19일부터 오는 30일까지 진행한다고 밝혔다. 행사에서는...",
-      "pubDate": "2026-10-19T06:40:00+00:00",
-      "category": "카카오페이",
-      "source": "CNB뉴스"
-    },
-    {
-      "title": "\"전 국민 할인받고 노나는 날\"…카카오페이, '2026 노난날' 개최",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=556221",
-      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=556221",
-      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 전 국민 할인받고 노나는 날 '2026 카카오페이 노난날'을 이달 말일까지 진행한다고 19일 밝혔다. [사진=카카오페이]  카카오페이는 전 국민 할인받고 노나는 날 '2026...",
-      "pubDate": "2026-10-19T06:12:00+00:00",
-      "category": "카카오페이",
-      "source": "중앙이코노미뉴스"
-    },
-    {
-      "title": "카카오페이, 온·오프라인 제후사 할인 '2026 노난날' 개시",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=107268",
-      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=107268",
-      "description": "카카오페이가 온·오프라인 및 해외 결제 이용자를 대상으로 대규모 할인 혜택을 제공하는 통합 프로모션을 진행한다. 카카오페이는 전 국민 결제 할인 행사 '2026 카카오페이 노난날'을 오는 30일까지 실시한다고 19일...",
-      "pubDate": "2026-10-19T06:06:00+00:00",
-      "category": "카카오페이",
-      "source": "센트럴경제"
-    },
-    {
-      "title": "카카오페이, 50여개 브랜드 할인 모은 '노난날'…최대 15만원 혜택",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=91993",
-      "originallink": "https://www.the-today.com/news/articleView.html?idxno=91993",
-      "description": "카카오페이는 온라인·오프라인·해외결제 혜택을 한데 모은 '2026 카카오페이 노난날'을 오는 30일까지 진행한다고 19일 밝혔다. '노난날'은 '횡재를 하거나 운수가 대통해 모든 일이 잘 풀린다'는 의미의 우리말...",
-      "pubDate": "2026-10-19T06:00:00+00:00",
-      "category": "카카오페이",
-      "source": "더투데이"
-    },
-    {
-      "title": "신한은행·케이에스넷, 스테이블코인 간편결제 실증 완료",
-      "link": "https://n.news.naver.com/mnews/article/374/0000538578?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000340460?division=NAVER",
-      "description": "케이에스넷은 스테이블코인 간편결제 서비스 '크립토닷컴 페이'의 결제 인프라 실증을 K-뷰티와 의료 관광 가맹점을 중심으로 완료했다고 오늘(19일) 밝혔습니다. 이번 실증은 외국인 관광객이 크립토닷컴 페이를 통해...",
-      "pubDate": "2026-10-19T06:00:00+00:00",
-      "category": "간편결제",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "쇼핑·여행·외식 할인 한 곳에···'카카오페이 노난날'",
-      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=92426",
-      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=92426",
-      "description": "카카오페이가 오는 30일까지 온오프라인과 해외 결제 혜택을 제공하는 '2026 카카오페이 노난날'을 진행한다. 이번 행사는 뷰티·패션, 여행, 해외, 통신, 편의점, 식음료(F&B), 리빙 등 7개 분야 50여개 브랜드에서...",
-      "pubDate": "2026-10-19T05:20:00+00:00",
-      "category": "카카오페이",
-      "source": "더리포트"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 카카오페이 소식…디지털 금융 포용·결제 할인...",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202459",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202459",
-      "description": "카카오페이가 디지털 금융 소외계층 지원과 결제 혜택 확대를 통해 금융 플랫폼의 사회적 역할과 고객 편의성을 강화한다. 청년들과 함께 일상 속 금융 불편을 해결할 아이디어를 발굴하는 한편, 온라인·오프라인...",
-      "pubDate": "2026-10-19T05:20:00+00:00",
-      "category": "카카오페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "50개 브랜드 최대 20% 할인까지…카카오페이, '2026 카카오페이 노난날'...",
-      "link": "https://n.news.naver.com/mnews/article/448/0000645697?sid=101",
-      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/10/19/2026101990145.html",
-      "description": "카카오페이가 온라인·오프라인 등 할인 혜택을 받을 수 있는 이벤트를 진행한다. 19일 카카오페이는 온라인·오프라인·해외 결제 혜택과 쿠폰, 사용자별 맞춤 할인 등 혜택을 선보이는 ‘2026 카카오페이 노난날’을...",
-      "pubDate": "2026-10-19T05:20:00+00:00",
-      "category": "카카오페이",
-      "source": "tvchosun"
-    },
-    {
-      "title": "해킹으로 부정 결제 시 ‘선보상’…핀테크 194곳 중 5곳만 도입",
-      "link": "https://n.news.naver.com/mnews/article/016/0002711285?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10907246?ref=naver",
-      "description": "금융사고에 따른 부정결제 피해 시 ‘선보상 제도’를 도입한 업체도 194개 중 헥토파이낸셜, 네이버파이낸셜, 비바리퍼블리카(토스 운영사), 카카오페이, 지머니트랜스 등 5곳에 불과했다. 소비자에게 선제적으로...",
-      "pubDate": "2026-10-19T05:13:00+00:00",
-      "category": "간편결제",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "카카오페이, 50여 브랜드 할인 '노난날' 30일까지 개최",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=215165",
-      "originallink": "http://www.srtimes.kr/news/articleView.html?idxno=215165",
-      "description": "카카오페이(대표 신원근)가 전 국민이 할인 혜택을 누릴 수 있는 시그니처 캠페인 '2026 카카오페이 노난날'을 오는 30일까지 진행한다고 19일 밝혔다. '노난날'은 온라인·오프라인·해외 결제 혜택과 매일 제공되는 선착순...",
-      "pubDate": "2026-10-19T05:04:00+00:00",
-      "category": "카카오페이",
-      "source": "SR타임스"
-    },
-    {
-      "title": "요거트월드, 카카오페이 할인 프로모션 진행",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113181",
-      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113181",
-      "description": "디저트카페 프랜차이즈 요거트월드가 카카오페이와 손잡고 가맹점 홀 매출 활성화를 위한 할인 프로모션을 진행합니다. 이번 프로모션은 오는 31일까지 카카오페이 가맹이 완료된 요거트월드 오프라인 매장에서...",
-      "pubDate": "2026-10-19T05:00:00+00:00",
-      "category": "카카오페이",
-      "source": "불교방송"
-    },
-    {
-      "title": "카카오페이, 50여 브랜드 할인 한자리에…'노난날' 31일까지",
-      "link": "https://n.news.naver.com/mnews/article/030/0003476312?sid=101",
-      "originallink": "https://www.etnews.com/20261019000214",
-      "description": "카카오페이가 '2026 카카오페이 노난날'을 10월 31일까지 진행한다. '노난날'은 온라인·오프라인·해외 결제 혜택과 매일 받을 수 있는 쿠폰, 사용자별 맞춤 할인 등 카카오페이만의 혜택을 한자리에 선보이는...",
-      "pubDate": "2026-10-19T04:40:00+00:00",
-      "category": "카카오페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "카카오페이, 디지털 금융 불편 해결 방안 모색",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149246",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149246",
-      "description": "참가자들이 '사각사각 서포터즈 디지털 금융 서비스 아이디어 해커톤'의 한 프로그램인 '카카오페이 현직 멘토와 함께 하는 SOS클리닉'을 진행하고 있다. 사진=카카오페이  카카오페이(대표 신원근)가 청년 디지털 금융...",
-      "pubDate": "2026-10-19T04:34:00+00:00",
-      "category": "카카오페이",
-      "source": "비즈월드뉴스"
     }
   ],
-  "lastFetch": "2026-11-18T04:12:33.635792+00:00"
+  "lastFetch": "2026-11-19T04:09:18.440981+00:00"
 }
