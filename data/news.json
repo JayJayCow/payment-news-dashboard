@@ -1,6 +1,654 @@
 {
   "articles": [
     {
+      "title": "카카오페이, 2400만 마이데이터 활용 확대…맞춤형 금융·신용평가 강화",
+      "link": "https://www.newspim.com/news/view/20261123000605",
+      "originallink": "https://www.newspim.com/news/view/20261123000605",
+      "description": "카카오페이가 4400만명의 누적 가입자와 2400만명의 마이데이터 가입자를 기반으로 맞춤형 금융서비스와 대안신용평가 사업을 확대한다. 결제·송금 이력과 금융정보를 결합해 이용자의 금융 수요를 분석하고...",
+      "pubDate": "2026-11-23T03:34:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "AI 날개 단 카카오페이···4400만 누적가입자 기반 생활금융 승부수",
+      "link": "https://n.news.naver.com/mnews/article/018/0006414113?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02263206645648672&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "카카오페이가 4400만명의 누적 가입자로부터 확보한 방대한 금융·생활 데이터에 인공지능(AI)을 결합해 사업 영역 확장에 나선다. 송금과 결제 중심의 생활금융 플랫폼에서 벗어나 이용자의 금융 수요를 미리 파악하고...",
+      "pubDate": "2026-11-23T03:28:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, 2400만 마이데이터로 금융AI 키운다…신용평가도 확대",
+      "link": "https://n.news.naver.com/mnews/article/421/0009304812?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6362691",
+      "description": "카카오페이(377300)가 2400만 명의 마이데이터 가입자를 기반으로 금융 인공지능(AI) 서비스와 대안 신용평가 사업을 확대한다. 개인의 금융·소비 데이터를 활용해 맞춤형 AI 서비스를 제공하고 기존 신용평가에서 충분히...",
+      "pubDate": "2026-11-23T03:25:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "[카카오페이:D의 의지⑥] 소비습관으로 AI한테 탈탈 털린 '썰'",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758156",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758156",
+      "description": "카카오페이가 23일 서울 센트로폴리스에서 2026 카카오페이 Pay Talk를 연 가운데 현장에서 스마트한 소비습관을 알려주는 AI 코치를 만났다. 시작. 그리고 나는 나를 안다. 나는 절대 말로 해서는 안될 놈이라는 것을. 주변인....",
+      "pubDate": "2026-11-23T03:06:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "선물·축의금도 신용평가에…카카오페이, 데이터 사업 확대",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611230112",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202611230112",
+      "description": "카카오페이가 송금·결제 내역과 마이데이터를 결합한 대안신용평가 사업을 확대한다. 금융거래 이력이 부족한 소비자의 상환 능력을 생활 속 금융 행동으로 살피고, 제휴 금융사와 전용 대출상품도 선보일 계획이다....",
+      "pubDate": "2026-11-23T03:02:00+00:00",
+      "category": "카카오페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "카카오페이 \"2027년까지 신용평가 모형 고도화…포용금융 확대\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446028",
+      "originallink": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446028",
+      "description": "카카오페이가 오는 2027년까지 카카오페이 스코어를 고도화해 씬파일러, 개인사업자 등 취약계층 대상 신용평가를 강화하고 전용 여신 상품을 선보이겠다는 목표를 제시했다. 이민수 크레딧사업부문장[카카오페이 제공]...",
+      "pubDate": "2026-11-23T02:54:00+00:00",
+      "category": "카카오페이",
+      "source": "연합인포맥스"
+    },
+    {
+      "title": "카카오페이, 전세대출보증 문턱 낮춰…거절 고객 50.4% 추가 승인",
+      "link": "https://n.news.naver.com/mnews/article/003/0014339521?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261123_0003879120",
+      "description": "카카오페이가 자체 결제·송금 데이터와 마이데이터를 결합한 대안신용평가모형으로 금융 사각지대 해소에 나섰다. 기존 신용평가에서 대출 심사를 통과하지 못했던 고객 가운데 절반 이상을 추가 승인하는 성과를...",
+      "pubDate": "2026-11-23T02:47:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "[현장] “더치페이 속도도 신용평가에”…카카오페이가 찾은 새로운 신...",
+      "link": "https://n.news.naver.com/mnews/article/117/0004127307?sid=103",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026112311364602105",
+      "description": "카카오페이가 4400만명에 달하는 누적 가입자를 기반으로 금융 서비스 개인화에 속도를 낸다. 결제·송금 내역과 마이데이터를 결합해 맞춤형 금융 서비스를 강화하고, 인공지능(AI)과 대안신용평가를 활용한 사업...",
+      "pubDate": "2026-11-23T02:46:00+00:00",
+      "category": "카카오페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "위조 신분증 걸러낸다…카카오페이·네이버페이·토스, 주민등록증 진위...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=327976",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=327976",
+      "description": "이번 서비스는 지난 7월 행안부가 카카오페이·토스·네이버페이, 금융감독원, 금융결제원과 체결한 업무협약에 따라 추진됐다. 행안부는 이후 '주민등록증 진위확인시스템 이용에 관한 고시'를 마련해 서비스 이용 대상과...",
+      "pubDate": "2026-11-23T02:40:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "[카카오페이:D의 의지⑤] 카카오페이 \"남들은 클로드 잘만 쓰는데 우리...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758170",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758170",
+      "description": "카카오페이가 23일 서울 센트로폴리스에서 미디어 세미나 '2026 카카오페이 페이톡(Pay Talk)'을 열어 초개인화 금융 AI 에이전트가 활성화되려면 해외 프런티어 AI 모델을 적법하게 활용할 수 있는 제도적 장치가 필요하다고...",
+      "pubDate": "2026-11-23T02:40:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "캐나다까지 간 토스 … 국내외 동시 확장에 투자 부담 가중",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350137.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350137.html",
+      "description": "토스플레이스는 결제 단말기 '토스프론트' 보급 확대를 위해 신규 설치 점주와 추천인에게 각각 현금 5만원을 지급하는 행사를 꾸준히 진행해왔다. 그 결과 토스프론트 설치 가맹점은 지난 3월 30만곳에서 9월 50만곳으로...",
+      "pubDate": "2026-11-23T02:36:00+00:00",
+      "category": "토스페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "카카오페이 “4400만 사용자 데이터로 초개인화…금융 AI 에이전트로 진...",
+      "link": "https://n.news.naver.com/mnews/article/021/0002834727?sid=101",
+      "originallink": "https://www.munhwa.com/article/11633272?ref=naver",
+      "description": "카카오페이가 결제·송금 등 자체 데이터와 업계 최대 규모의 마이데이터를 결합한 데이터 사업 전략을 23일 공개했다. 초개인화 마케팅과 대안신용평가에서 거둔 성과를 바탕으로, 앞으로 사용자 한 명 한 명에게 맞춘...",
+      "pubDate": "2026-11-23T02:30:00+00:00",
+      "category": "카카오페이",
+      "source": "문화일보"
+    },
+    {
+      "title": "경조사 송금도 신용평가에…카카오페이, 전세대출 보증 문턱 낮춘다",
+      "link": "https://n.news.naver.com/mnews/article/016/0002727070?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10945986?ref=naver",
+      "description": "카카오페이가 대안신용평가모형을 적용한 결과, 기존 전월세대출 보증 심사에서 거절된 고객의 절반가량이 추가 승인 대상이 될 수 있는 것으로 나타났다. 카드·대출 이용 이력이 부족한 고객도 생활 속 금융거래를...",
+      "pubDate": "2026-11-23T02:23:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "\"4400만 가입자 데이터로 금융 확장\"…카카오페이, 초개인화 승부수",
+      "link": "https://www.ajunews.com/view/20261123110341565",
+      "originallink": "https://www.ajunews.com/view/20261123110341565",
+      "description": "2400만 마이데이터 기반 AI코치 고도화 대안신용평가 확대…고객 대출 문턱 낮춰 아주경제=김윤섭 기자 angks678@ajunews.com 박정호 카카오페이 서비스 총괄 부사장(CPO)가 23일 열린 미디어 세미나 '카카오페이 페이톡'에서...",
+      "pubDate": "2026-11-23T02:22:00+00:00",
+      "category": "카카오페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "[카카오페이:D의 의지④] \"카톡 선물하기로 대출 신용도 파악\"",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758152",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758152",
+      "description": "카카오페이는 이 지점에서 새로운 가능성을 타진하는 중이다. 일상의 송금과 결제에서 그 해법을 찾고 있다. 카카오페이가 23일 서울 센트로폴리스에서 미디어 세미나 '2026 카카오페이 페이톡(Pay Talk)'을 열어 송금과 결제...",
+      "pubDate": "2026-11-23T02:20:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "\"데이터 활용해 초개인화\"…카카오페이, 맞춤형 자산관리 강화",
+      "link": "https://n.news.naver.com/mnews/article/374/0000545253?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000348142?division=NAVER",
+      "description": "카카오페이가 개최한 미디어 세미나 ‘페이톡(Paytalk)’에서 데이터 비즈니스 전략을 밝혔습니다. 오늘(23일) 카카오페이는 데이터 사업 현황과 전략을 주제로 서비스 총괄 부사장, 유미 마케팅실장, 이민수...",
+      "pubDate": "2026-11-23T02:19:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "박정호 카카오페이 CPO \"송금·결제 데이터 압도적…AI로 숨겨진 혜택 찾...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026112310510089023",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026112310510089023",
+      "description": "\"압도적인 데이터를 기반으로 일상과 가족의 숨은 인사이트를 발견하고 이를 액션으로 연결할 수 있는 여러 서비스를 만들겠습니다\" 박정호 카카오페이 최고제품책임자(CPO·부사장)는 23일 열린 '카카오페이 데이터...",
+      "pubDate": "2026-11-23T02:18:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "경조사 송금도 신용평가에…카카오페이, 전세대출 보증 문턱 낮춘다",
+      "link": "https://n.news.naver.com/mnews/article/016/0002727039?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10945888?ref=naver",
+      "description": "카카오페이가 대안신용평가모형을 적용한 결과, 기존 전월세대출 보증 심사에서 거절된 고객의 절반가량이 추가 승 인 대상이 될 수 있는 것으로 나타났다. 카드·대출 이용 이력이 부족한 고객도 생활 속 금융거래를...",
+      "pubDate": "2026-11-23T02:01:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "[카카오페이:D의 의지①] 4400만 일상 데이터로 신용평가 판 흔든다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758139",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758139",
+      "description": "당장 네이버페이는 결제·송금 데이터를 활용한 '네이버페이 스코어'를 케이뱅크와 한국투자저축은행 등의 신용대출에 적용하며 SGI서울보증과 함께 사잇돌대출 심사로까지 쓰임새를 넓혔다. 토스는 소상공인을 위한...",
+      "pubDate": "2026-11-23T02:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "[카카오페이:D의 의지②] 송금ㆍ결제ㆍ마이데이터 엮어 생활금융 '맥락...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758141",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758141",
+      "description": "토스는 송금에서 출발해 은행과 증권까지 품은 금융 슈퍼앱으로 몸집을 키웠으며 네이버페이는 쇼핑 결제를 기반으로 자산관리 서비스를 넓히고 있다. 시중은행과 금융지주도 자체 앱에 마이데이터 기능을 붙이며 이용자...",
+      "pubDate": "2026-11-23T02:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "[카카오페이:D의 의지③] \"한 사람 단위 초개인화로 리텐션 잡는다\"",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758144",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758144",
+      "description": "특히 토스와 네이버페이 등 주요 플랫폼이 이미 대규모 이용자를 확보한 상황에서 이용자는 혜택에 따라 언제든 다른 앱으로 옮겨갈 수 있다. 실제로 토스는 앱 안의 광고와 혜택 서비스를 키우고 있으며 네이버페이는...",
+      "pubDate": "2026-11-23T02:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 4400만 데이터 무기로 초개인화 승부…금융 AI·신용평가 확...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026112310351825070",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026112310351825070",
+      "description": "카카오페이가 4400만 가입자 기반의 결제·송금 데이터와 2400만 마이데이터를 앞세워 데이터 사업 확장에 나섰다. 고객의 금융·소비 패턴을 분석해 맞춤형 마케팅 성과를 높이는 한편, 대안신용평가와 금융 인공지능...",
+      "pubDate": "2026-11-23T02:00:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "카카오페이·토스, 은행 수준 신분증 검증 적용…네이버페이는 12월부터",
+      "link": "https://www.kukinews.com/article/view/kuk202611230069",
+      "originallink": "https://www.kukinews.com/article/view/kuk202611230069",
+      "description": "네이버페이도 다음 달부터 서비스를 도입한다. 행정안전부는 23일부터 카카오페이와 토스의 비대면 고객확인 과정에 정부의 주민등록증 진위확인 서비스를 적용한다고 밝혔다. 이번 서비스는 간편결제와 송금 등...",
+      "pubDate": "2026-11-23T01:54:00+00:00",
+      "category": "네이버페이",
+      "source": "kukinews"
+    },
+    {
+      "title": "카카오페이·토스, 오늘부터 '주민등록증 진위확인'",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=243917",
+      "originallink": "https://news.skbroadband.com/news/articleView.html?idxno=243917",
+      "description": "행정안전부는 지난 7월 9일 카카오페이·토스·네이버페이, 금융감독원, 금융결제원과 업무협약을 맺고 전자금융업계로 진위확인 서비스를 넓히는 작업을 진행해 왔습니다. 7월 27일에는 '주민등록증 진위확인시스템...",
+      "pubDate": "2026-11-23T01:38:00+00:00",
+      "category": "카카오페이",
+      "source": "B tv news"
+    },
+    {
+      "title": "카카오페이·토스, 주민등록증 사진까지 진위확인…23일부터 적용",
+      "link": "https://idsn.co.kr/news/view/1065575433789010",
+      "originallink": "https://idsn.co.kr/news/view/1065575433789010",
+      "description": "네이버페이는 오는 12월 중 시스템 연계를 마치고 서비스를 시작할 예정이다. 이번 조치로 카카오페이와 토스는 간편결제·송금 등 전자금융서비스의 비대면 고객확인 과정에서 주민등록증에 기재된 성명, 주민등록번호...",
+      "pubDate": "2026-11-23T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "idsn"
+    },
+    {
+      "title": "카카오페이·토스, 23일부터 주민등록증 사진 대조해 신분 확인",
+      "link": "https://ditoday.com/%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%8e%98%ec%9d%b4%c2%b7%ed%86%a0%ec%8a%a4-23%ec%9d%bc%eb%b6%80%ed%84%b0-%ec%a3%bc%eb%af%bc%eb%93%b1%eb%a1%9d%ec%a6%9d-%ec%82%ac%ec%a7%84-%eb%8c%80%ec%a1%b0%ed%95%b4/",
+      "originallink": "https://ditoday.com/%ec%b9%b4%ec%b9%b4%ec%98%a4%ed%8e%98%ec%9d%b4%c2%b7%ed%86%a0%ec%8a%a4-23%ec%9d%bc%eb%b6%80%ed%84%b0-%ec%a3%bc%eb%af%bc%eb%93%b1%eb%a1%9d%ec%a6%9d-%ec%82%ac%ec%a7%84-%eb%8c%80%ec%a1%b0%ed%95%b4/",
+      "description": "네이버페이는 다음 달 중 서비스를 도입할 예정이다. 그동안 전자금융업자는 고객확인 때 주민등록증에 적힌 성명과 주민등록번호, 발급일자가 유효한지만 확인할 수 있었다. 앞으로는 사진정보를 포함해 신분증의 위...",
+      "pubDate": "2026-11-23T01:10:00+00:00",
+      "category": "카카오페이",
+      "source": "ditoday"
+    },
+    {
+      "title": "토스, 캐나다 법인 설립…해외 진출 5개 권역으로 확대",
+      "link": "https://n.news.naver.com/mnews/article/011/0004685003?sid=101",
+      "originallink": "https://www.sedaily.com/article/20117587?ref=naver",
+      "description": "토스는 국내에서 간편송금으로 고객을 모은 뒤 서비스를 넓힌 경험을 살려, 현지에서도 자주 찾는... 송금·결제까지 넓힐 기회를 모색할 것으로 보인다. 올 3분기 누적 순이익은 2380억 원으로 전년 동기보다 47.3...",
+      "pubDate": "2026-11-23T00:56:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "카카오페이·토스, 비대면 신분확인 때 주민등록증 사진까지 대조",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=114140",
+      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=114140",
+      "description": "카카오페이와 토스가 23일부터 비대면으로 고객 신원을 확인할 때 주민등록증의 사진 정보까지 대조해 위·변조 여부를 확인한다. 기존 은행·증권·보험사 등이 이용해 온 정부의 주민등록증 진위확인 서비스가...",
+      "pubDate": "2026-11-23T00:29:00+00:00",
+      "category": "카카오페이",
+      "source": "키즈맘"
+    },
+    {
+      "title": "네이버파이낸셜·두나무, 공정위 심의 이후 금융당국 관문 주목",
+      "link": "https://www.sentv.co.kr/article/view/sentv202611230015",
+      "originallink": "https://www.sentv.co.kr/article/view/sentv202611230015",
+      "description": "네이버파이낸셜·두나무 기업결합에 대한 공정거래위원회 심의가 시작되면서 이후 금융당국 관문에도 관심이 모인다. 외형상 대주주 변경 승인·신고가 첫 고비지만, 업권 안팎에서는 조만간 발표될 디지털자산법상...",
+      "pubDate": "2026-11-23T00:20:00+00:00",
+      "category": "네이버페이",
+      "source": "서울경제TV"
+    },
+    {
+      "title": "카카오페이·토스, 주민등록증 사진까지 진위 확인…비대면 보안 강화",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885982",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885982",
+      "description": "| 서울=한스경제 유은주 기자 | 카카오페이와 토스가 비대면 고객확인 과정에서 주민등록증 사진정보까지 검증하는 서비스를 도입한다. 기존 은행·증권·보험사 중심이던 주민등록증 진위확인 체계가 간편결제와 송금 등...",
+      "pubDate": "2026-11-22T23:52:00+00:00",
+      "category": "카카오페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "네이버파이낸셜·두나무, 공정위 넘어도 금융당국 '관문'",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1732621",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1732621",
+      "description": "네이버 금융 계열사 네이버파이낸셜과 가상자산거래소 업비트 운영사 두나무의 기업결합이 공정거래위원회 심의에 들어간 가운데, 금융당국의 대주주 변경 절차와 향후 디지털자산법상 지분 규제가 또 다른 변수로...",
+      "pubDate": "2026-11-22T23:50:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "네이버파이낸셜·두나무 결합···스테이블코인 규제·가상자산 약세에...",
+      "link": "https://www.globale.co.kr/news/articleView.html?idxno=41782",
+      "originallink": "https://www.globale.co.kr/news/articleView.html?idxno=41782",
+      "description": "네이버파이낸셜과 두나무의 기업결합을 위한 공정거래위원회 심의가 시작된 가운데, 결합 성사 이후에도 가상자산 시세 하락과 스테이블코인 발행 규제라는 이중 파고가 양사 시너지의 핵심 변수로 떠올랐다. 거대...",
+      "pubDate": "2026-11-22T23:16:00+00:00",
+      "category": "네이버페이",
+      "source": "글로벌E"
+    },
+    {
+      "title": "오늘부터 카카오페이·토스서 주민등록증 진위확인 가능",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=209112",
+      "originallink": "https://www.tfmedia.co.kr/news/article.html?no=209112",
+      "description": "전자금융업계 최초 사진정보까지 확인…12월 네이버페이로 확대  오늘부터 카카오페이와 토스에서도... 윤호중 행안부 장관은 \"국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의 안전하고 정확한 신분증...",
+      "pubDate": "2026-11-22T23:06:00+00:00",
+      "category": "카카오페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "[N2 포커스] 애플페이 문 연 인터넷은행…지주계 카드사는 '관망'",
+      "link": "https://www.news2day.co.kr/article/20261120500308",
+      "originallink": "https://www.news2day.co.kr/article/20261120500308",
+      "description": "토스의 '토스프론트'와 네이버페이의 'Npay 커넥트' 등 간편결제 사업자가 깐 단말기 상당수가 근거리무선통신(NFC)을 지원한다. 토스는 올해 들어 9월까지 토스프론트 보급처를 50만곳으로 늘렸다. [표=뉴스투데이] ■ 삼성...",
+      "pubDate": "2026-11-22T21:48:00+00:00",
+      "category": "애플페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "네이버파이낸셜과 두나무 합병, 디지털자산법 규제가 변수될까",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=886789",
+      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=886789",
+      "description": "네이버파이낸셜과 두나무의 기업 결합을 둘러싼 공정거래위원회의 심의가 시작되며, 금융 당국의 규제 절차에도 큰 관심이 쏠리고 있다. 특히 디지털자산법에 따른 대주주 지분 규제가 주요한 경영 변수로 작용할...",
+      "pubDate": "2026-11-22T21:38:00+00:00",
+      "category": "네이버페이",
+      "source": "공감신문"
+    },
+    {
+      "title": "[위기의 핀테크 ①] 혁신금융이라더니… 돈도 못벌고, 고사 직전",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000566",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000000566",
+      "description": "간편결제, 대출비교, 마이데이터... 핀테크가 지난 10여년 동안 금융 소비자 일상을 바꿔놓았지만, 정작 다수의 1세대 핀테크 업체들은 당장 생존을 걱정해야 하는 처지다. 투자 시장은 얼어붙었고, 보안 사고와 규제...",
+      "pubDate": "2026-11-22T21:30:00+00:00",
+      "category": "간편결제",
+      "source": "IT조선"
+    },
+    {
+      "title": "현대카드·카뱅은 '진격'하는데…신한·KB국민카드, 애플페이 도입 주저...",
+      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=768682",
+      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=768682",
+      "description": "국내 주요 카드사들이 '애플페이' 도입을 위한 기술적 준비를 수 년 전에 마치고도 실제 도입은 주저하고 있는 것으로 나타났다. 애플페이 결제 수수료 부과와 상대적으로 적은 가맹점으로 도입시 수익성 부담 요인이...",
+      "pubDate": "2026-11-22T21:10:00+00:00",
+      "category": "애플페이",
+      "source": "소비자가 만드는 신문"
+    },
+    {
+      "title": "[간편결제신분증확인] 카카오페이·토스도 '은행급' 본인확인… 사진정...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=629570",
+      "originallink": "https://www.cbci.co.kr/news/articleView.html?idxno=629570",
+      "description": "카카오페이·토스, 23일부터 주민등록증 진위확인…사진정보까지 확인 [행안부 제공. 재판매 및 DB 금지]... 윤호중 행정안전부 장관은 국민이 자주 사용하는 간편결제와 송금 환경에서도 은행과 같은 수준의 안전하고...",
+      "pubDate": "2026-11-22T15:30:00+00:00",
+      "category": "카카오페이",
+      "source": "CBC뉴스"
+    },
+    {
+      "title": "카카오페이·토스도 23일부터 주민증 사진 활용 신분 확인",
+      "link": "https://n.news.naver.com/mnews/article/032/0003484300?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202611222045005",
+      "description": "금융결제원과 함께 기존 금융회사가 이용하는 주민등록증 진위 확인 중계 기반을 활용해 카카오페이·토스와 정부 시스템 간 연계도 마쳤다. 최근 전자금융업자가 제공하는 간편결제와 간편송금을 통한 금융서비스...",
+      "pubDate": "2026-11-22T11:45:00+00:00",
+      "category": "카카오페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "카카오페이·토스, 주민등록증 '사진까지' 진위확인…은행 수준 신원검...",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=322255",
+      "originallink": "https://www.ppss.kr/news/articleView.html?idxno=322255",
+      "description": "배경에는 간편결제와 송금 서비스의 성장에 따른 비대면 금융거래 확대가 있다. 행안부에 따르면 지난해 카카오페이와 토스에서 이뤄진 비대면 고객확인은 각각 약 750만건과 1000만건으로, 두 플랫폼을 합쳐 약 1750만건에...",
+      "pubDate": "2026-11-22T10:33:00+00:00",
+      "category": "카카오페이",
+      "source": "ㅍㅍㅅㅅ PPSS"
+    },
+    {
+      "title": "[단독]유럽·남미 이어 북미까지…토스, 전세계인 쓰는 ‘금융 슈퍼앱’...",
+      "link": "https://n.news.naver.com/mnews/article/011/0004684817?sid=101",
+      "originallink": "https://www.sedaily.com/article/20117415?ref=naver",
+      "description": "금융계의 한 관계자는 “토스는 국내에서 간편송금으로 이용자를 모으고 결제·투자로 서비스를 넓혀 수익성을 확보한 경험을 갖췄다”며 “디지털 금융 인프라가 갖춰진 시장을 중심으로 진출하는 만큼 국내에서...",
+      "pubDate": "2026-11-22T08:32:00+00:00",
+      "category": "토스페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "23일부터 토스·카카오페이에서 신분증 진위 확인… 비대면 거래 안정성...",
+      "link": "https://n.news.naver.com/mnews/article/469/0000967062?sid=101",
+      "originallink": "https://www.hankookilbo.com/news/article/A2026112215280002856?did=NA",
+      "description": "앞으로 카카오페이와 토스, 네이버페이에서 비대면 금융거래를 할 때 주민등록증 사진정보를 포함한 신분증... 윤호중 행안부 장관은 \"국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의 안전하고 정확한...",
+      "pubDate": "2026-11-22T07:52:00+00:00",
+      "category": "카카오페이",
+      "source": "hankookilbo"
+    },
+    {
+      "title": "[위클리 뱅크이슈] 은행권 첫 애플페이 연 카뱅… 인터넷銀 '결제 판' 키...",
+      "link": "http://www.the-biz.co.kr/news/articleView.html?idxno=731735",
+      "originallink": "http://www.the-biz.co.kr/news/articleView.html?idxno=731735",
+      "description": "토스뱅크도 연내 출시를 목표로 막바지 준비에 한창이다. 올해 초 금융감독원 약관 심사를 마쳤으며 결제... 애플페이 도입 금융사가 늘어나면 다른 간편결제 사업자들도 형평성을 이유로 유료화를 검토할 수 있기...",
+      "pubDate": "2026-11-22T07:00:00+00:00",
+      "category": "애플페이",
+      "source": "THE Biz(더비즈)"
+    },
+    {
+      "title": "카카오페이도 토스도…내일부터 주민등록증 사진까지 확인",
+      "link": "https://n.news.naver.com/mnews/article/374/0000545137?sid=101",
+      "originallink": "https://biz.sbs.co.kr/article_hub/20000348029?division=NAVER",
+      "description": "그동안 은행과 증권사, 보험사 등에서 이용하던 정부의 신분증 진위확인 서비스가 간편결제·송금업체로 확대되는 것입니다. 행정안전부는 오늘(22일) 카카오페이와 토스에 정부의 주민등록증 진위확인 서비스를...",
+      "pubDate": "2026-11-22T05:48:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS Biz"
+    },
+    {
+      "title": "카카오페이·토스서 주민등록증 진위확인 가능",
+      "link": "https://n.news.naver.com/mnews/article/656/0000193198?sid=101",
+      "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2315521",
+      "description": "카카오페이와 토스에서도 은행·증권·보험사 등 금융회사와 동일한 수준의 신분증 진위확인이 가능해진다.... 윤호중 행안부 장관은 \"매일 이용하는 간편결제와 송금 환경에서도 은행 수준의 안전하고 정확한 신분증...",
+      "pubDate": "2026-11-22T05:31:00+00:00",
+      "category": "카카오페이",
+      "source": "대전일보"
+    },
+    {
+      "title": "늘어나는 애플페이 도입 비용…대안으로 떠오른 '한국형 결제표준 규격...",
+      "link": "https://n.news.naver.com/mnews/article/030/0003488248?sid=101",
+      "originallink": "https://www.etnews.com/20261120000219",
+      "description": "토스플레이스 단말기가 설치된 가맹점은 9월 기 약 50만 곳 이상, 네이버페이 커넥트 단말기가 설치된 가맹점은 6월 기준 10만 곳 이상이다. 현재 협회에서 준비하고 있는 결제표준 규격은 보안을 강화하는 등 저스터치를...",
+      "pubDate": "2026-11-22T05:01:00+00:00",
+      "category": "애플페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[르포]스테이블코인 충전하니 원화 나온다…싱가포르서 만난 K핀테크",
+      "link": "https://n.news.naver.com/mnews/article/030/0003488252?sid=101",
+      "originallink": "https://www.etnews.com/20261122000066",
+      "description": "국내 간편결제뿐 아니라 현지 결제수단도 연결한다. 스테이블코인 USDC를 활용한 국가 간 자금 이동과 정산도 사업 영역에 포함했다. AI 기반 금융기술도 눈길을 끌었다. PFCT는 금융기관의 대출 심사와 신용평가를...",
+      "pubDate": "2026-11-22T05:01:00+00:00",
+      "category": "간편결제",
+      "source": "전자신문"
+    },
+    {
+      "title": "현대카드, 해외 결제 점유율 28%...애플페이 기반 장악력 '굳건'",
+      "link": "https://n.news.naver.com/mnews/article/293/0000093638?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=679282",
+      "description": "국내 카드사 중 첫 애플페이 사업자로서 결제 편의성을 높이고 해외 특화 프리미엄 시장 공략을 병행한 성과다. 22일 여신금융협회에 따르면 현대카드의 10월 누적 기준 개인의 해외 신용카드 결제액은 3조6243억원으로...",
+      "pubDate": "2026-11-22T05:00:00+00:00",
+      "category": "애플페이",
+      "source": "블로터"
+    },
+    {
+      "title": "내일부터 카카오페이·토스서 주민등록증 진위 확인 가능",
+      "link": "https://n.news.naver.com/mnews/article/055/0001404883?sid=101",
+      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008857676&plink=ORI&cooper=NAVER",
+      "description": "▲ 토스 내일부터 카카오페이와 토스에서도 주민등록증 사진정보를 포함한 신분증 진위확인 서비스를... 윤호중 행안부 장관은 \"이번 서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의...",
+      "pubDate": "2026-11-22T04:57:00+00:00",
+      "category": "카카오페이",
+      "source": "SBS"
+    },
+    {
+      "title": "애플페이 쓰면 카드 혜택 줄어드나?… 카카오뱅크 도입에 커지는 수수료...",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1194000",
+      "originallink": "https://www.ggilbo.com/news/articleView.html?idxno=1194000",
+      "description": "애플페이.사진=연합 카카오뱅크가 애플페이 서비스를 시작하면서 아이폰 이용자들의 결제 선택지가 넓어졌다. 그러나 서비스 확대에 따른 금융사의 수수료 부담이 카드 할인이나 포인트 적립 등 소비자 혜택에 영향을 줄...",
+      "pubDate": "2026-11-22T04:46:00+00:00",
+      "category": "애플페이",
+      "source": "금강일보"
+    },
+    {
+      "title": "정부 주민증 진위확인 민간 확대… 카카오페이·쿠콘·알체라 수혜 가능...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506707",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506707",
+      "description": "금융감독원은 서비스 개시를 앞두고 카카오페이와 토스, 네이버페이를 대상으로 신분증 진위확인 기술과 운영·관리 체계에 대한 보안점검을 진행했다. 이번 서비스 확대는 간편결제와 송금 시장의 성장에 맞춰 비대면...",
+      "pubDate": "2026-11-22T04:44:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "카카오페이·토스도 주민증 사진 진위 검증…23일부터 은행 수준 적용",
+      "link": "https://www.raonnews.com/news/article.html?no=62966",
+      "originallink": "https://www.raonnews.com/news/article.html?no=62966",
+      "description": "카카오페이와 토스에서도 23일부터 은행과 같은 수준의 주민등록증 진위 검증이 가능해진다. 성명과... 윤호중 행안부 장관은 \"이번 서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의...",
+      "pubDate": "2026-11-22T04:34:00+00:00",
+      "category": "카카오페이",
+      "source": "raonnews"
+    },
+    {
+      "title": "카카오페이·토스, 23일부터 주민등록증 사진까지 진위확인",
+      "link": "https://n.news.naver.com/mnews/article/138/0002249481?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026112213150893790",
+      "description": "오는 23일부터 카카오페이와 토스에서도 주민등록증 진위확인 서비스가 도입된다. 네이버페이는 12월 중 서비스를 시작할 예정이다. 행정안전부는 22일 간편결제·송금 등 전자금융서비스의 비대면 고객확인 과정에...",
+      "pubDate": "2026-11-22T04:16:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "카카오페이·토스서도 주민등록증 진위확인…23일부터 시행",
+      "link": "https://n.news.naver.com/mnews/article/092/0002446356?sid=105",
+      "originallink": "https://zdnet.co.kr/view/?no=20261122130203",
+      "description": "카카오페이와 토스에서도 은행과 동일한 수준의 주민등록증 진위확인이 가능해진다. 간편결제와 송금 서비스의 비대면 고객확인 과정에서 신분증 사진정보까지 검증해 위·변조 신분증을 악용한 금융범죄를 예방한다는...",
+      "pubDate": "2026-11-22T04:04:00+00:00",
+      "category": "카카오페이",
+      "source": "ZDNet"
+    },
+    {
+      "title": "카카오페이·토스, 23일부터 주민등록증 진위확인 서비스",
+      "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626867",
+      "originallink": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626867",
+      "description": "간편결제나 송금 앱에서 신분증을 촬영해 본인을 확인할 때도 같은 수준의 확인을 거치게 되는 것이다. 전자금융업계에서 이를 처음 도입하는 곳은 카카오페이와 토스다. 확인 대상에는 주민등록증의 발급일자와 성명...",
+      "pubDate": "2026-11-22T03:56:00+00:00",
+      "category": "카카오페이",
+      "source": "메디컬투데이"
+    },
+    {
+      "title": "카카오페이·토스, 23일부터 주민등록증 사진까지 진위확인",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086245",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086245",
+      "description": "카카오페이와 토스에서도 은행 등 기존 금융회사와 동일한 수준의 신분증 진위확인이 가능해진다.... 윤호중 행안부 장관은 \"이번 서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의 안전하고...",
+      "pubDate": "2026-11-22T03:50:00+00:00",
+      "category": "카카오페이",
+      "source": "신아일보"
+    },
+    {
+      "title": "카카오페이·토스에서도 23일부터 주민등록증 위조 여부 확인…네이버페...",
+      "link": "https://n.news.naver.com/mnews/article/023/0004011012?sid=101",
+      "originallink": "https://www.chosun.com/economy/economy_general/2026/11/22/ZQ5IZ26C4JHWDCN4MDF44TD2LM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "description": "3줄 요약 ㆍ사진 정보까지 대조해 위·변조 검증 ㆍ위조 신분증 악용한 금융범죄 예방 ㆍ정부, 다른 간편결제·송금 업체로 확대 방침 앞으로 카카오페이와 토스에서도 은행처럼 주민등록증이 위조되거나 변조됐는지...",
+      "pubDate": "2026-11-22T03:37:00+00:00",
+      "category": "카카오페이",
+      "source": "조선일보"
+    },
+    {
+      "title": "카카오페이·토스, 내일부터 주민등록증 진위확인 가능",
+      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005964143",
+      "originallink": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005964143",
+      "description": "내일(23일)부터 카카오페이와 토스에서도 주민등록증 사진정보까지 포함한 신분증 진위확인 서비스를 이용할... 윤호중 행안부 장관은 \"이번 서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의...",
+      "pubDate": "2026-11-22T03:14:00+00:00",
+      "category": "카카오페이",
+      "source": "mbnmoney.mbn.co.kr"
+    },
+    {
+      "title": "카카오페이·토스서도 '주민등록증 진위확인'…사진정보까지 검증한다",
+      "link": "https://n.news.naver.com/mnews/article/119/0003158016?sid=102",
+      "originallink": "https://www.dailian.co.kr/news/view/1718058/?sc=Naver",
+      "description": "행정안전부는 오는 23일부터 카카오페이와 토스에서도 정부의 주민등록증 진위확인 서비스를 이용할 수 있다고 밝혔다. 네이버페이는 다음 달 중 서비스 연계를 마치고 개시할 예정이다. 이에 따라 간편결제와 송금 등...",
+      "pubDate": "2026-11-22T03:02:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "카카오페이·토스 '주민등록증 진위확인' 가능해진다",
+      "link": "https://www.asiatime.co.kr/article/20261122500018",
+      "originallink": "https://www.asiatime.co.kr/article/20261122500018",
+      "description": "카카오페이와 토스에서도 기존 금융사와 동일한 수준의 신분증 진위확인이 가능해진다. (자료=행정안전부)... 윤호중 행안부 장관은 \"이번 서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의...",
+      "pubDate": "2026-11-22T03:02:00+00:00",
+      "category": "카카오페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "카카오페이·토스, 23일부터 주민등록증 사진까지 진위 확인",
+      "link": "http://www.metroseoul.co.kr/article/20261122500005",
+      "originallink": "http://www.metroseoul.co.kr/article/20261122500005",
+      "description": "카카오페이와 토스가 23일부터 비대면 고객확인 과정에서 주민등록증의 사진정보까지 포함해 신분증 진위를... 윤호중 행안부 장관은 \"간편결제와 송금 환경에서도 은행 수준의 정확한 신분증 진위확인이 가능해진다\"며...",
+      "pubDate": "2026-11-22T03:02:00+00:00",
+      "category": "카카오페이",
+      "source": "metroseoul"
+    },
+    {
+      "title": "카카오페이·토스도 주민증 진위 확인한다…은행 수준 보안 적용",
+      "link": "https://n.news.naver.com/mnews/article/018/0006413675?sid=102",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01538326645648344&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "간편결제·송금 애플리케이션(앱)에서 신분증을 촬영해 본인 확인을 하는 과정에서도 은행과 같은 수준의... 행정안전부 청사(사진=행안부 제공) 행정안전부는 23일부터 카카오페이와 토스에서 정부의 주민등록증 진위확인...",
+      "pubDate": "2026-11-22T03:02:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "행안부 신분증 검증망, 카카오페이·토스까지 확대…전자 금융 안전성 ...",
+      "link": "https://n.news.naver.com/mnews/article/030/0003488224?sid=105",
+      "originallink": "https://www.etnews.com/20261121000055",
+      "description": "행안부는 이번 서비스 확대를 통해 간편결제와 송금 등 전자금융서비스의 비대면 본인확인 절차가 한층 강화될 것으로 보고 있다. 카카오페이와 토스에서는 지난해 각각 약 750만건, 1000만건의 비대면 고객확인이 이뤄졌다....",
+      "pubDate": "2026-11-22T03:01:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "주민등록증 진위확인 서비스, 23일부터 카카오페이·토스 연계… 네이버...",
+      "link": "https://n.news.naver.com/mnews/article/029/0003060418?sid=105",
+      "originallink": "https://www.dt.co.kr/article/12096493?ref=naver",
+      "description": "정부의 주민등록증 진위확인 서비스가 23일부터 카카오페이와 토스에 연계된다. 네이버페이는 다음달 12월에... 윤호중 행안부 장관은 \"서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의...",
+      "pubDate": "2026-11-22T03:01:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "카카오페이·토스·네이버페이서 주민등록증 변조 잡는다",
+      "link": "https://n.news.naver.com/mnews/article/079/0004212432?sid=103",
+      "originallink": "https://www.nocutnews.co.kr/news/6610599?utm_source=naver&utm_medium=article&utm_campaign=20261122120037",
+      "description": "앞으로 카카오페이와 토스, 네이버페이에서도 주민등록증 진위 여부를 확인할 수 있어 신분증을 위... 윤호중 행안부 장관은 \"이번 서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의 안전하고...",
+      "pubDate": "2026-11-22T03:01:00+00:00",
+      "category": "카카오페이",
+      "source": "노컷뉴스"
+    },
+    {
+      "title": "내일부터 카카오페이·토스서 주민등록증 진위확인 가능",
+      "link": "https://n.news.naver.com/mnews/article/001/0016456362?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261120141900530?input=1195m",
+      "description": "전자금융업계 최초 사진정보까지 확인…12월 네이버페이로 확대 오는 23일부터 카카오페이와 토스에서도... 윤호중 행안부 장관은 \"이번 서비스 개시는 국민이 매일 이용하는 간편결제와 송금 환경에서도 은행 수준의...",
+      "pubDate": "2026-11-22T03:00:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "카카오페이·토스, '주민등록증 위·변조 확인'…네이버페이는 12월 합류",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=903937",
+      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=903937",
+      "description": "카카오페이와 토스 등 간편결제 서비스에서도 주민등록증 진위확인이 가능해진다. 기존 금융회사 중심으로 운영되던 신분증 검증 체계가 전자금융업계로 확대되면서 비대면 금융거래의 보안성이 강화될 전망이다. 22일...",
+      "pubDate": "2026-11-22T03:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스웍스"
+    },
+    {
+      "title": "23일부터 카카오페이·토스도 ‘사진 포함’ 주민등록증 진위확인 강화",
+      "link": "https://n.news.naver.com/mnews/article/032/0003484175?sid=101",
+      "originallink": "https://www.khan.co.kr/article/202611221200001",
+      "description": "금융결제원과 함께 기존 금융회사가 이용하는 주민등록증 진위 확인 중계 기반을 활용해 카카오페이·토스와 정부 시스템 간 연계를 마쳤다. 최근 전자금융업자가 제공하는 간편결제와 간편송금을 통한 금융서비스...",
+      "pubDate": "2026-11-22T03:00:00+00:00",
+      "category": "카카오페이",
+      "source": "경향신문"
+    },
+    {
+      "title": "카카오페이·토스서도 주민등록증 진위확인…23일부터 시행",
+      "link": "https://n.news.naver.com/mnews/article/008/0005444566?sid=102",
+      "originallink": "https://www.mt.co.kr/policy/2026/11/22/2026112016245089198",
+      "description": "행정안전부는 오는 23일부터 카카오페이와 토스에서도 정부의 주민등록증 진위확인 서비스를 이용할 수 있게 된다고 22일 밝혔다. 이에 따라 간편결제·송금 등 전자금융서비스의 비대면 고객확인 과정에서도 은행·증권...",
+      "pubDate": "2026-11-22T03:00:00+00:00",
+      "category": "카카오페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "카카오페이·토스도 주민증 사진까지 진위확인…금융범죄 예방 기대",
+      "link": "https://www.etoday.co.kr/news/view/2651044",
+      "originallink": "https://www.etoday.co.kr/news/view/2651044",
+      "description": "간편결제·송금 등 전자금융서비스에서도 기존 은행·증권·보험사와 동일한 수준의 신분증 진위확인이 가능해지는 것이다. 서비스 확대는 7월 9일 행안부가 카카오페이·토스·네이버페이, 금융감독원, 금융결제원과...",
+      "pubDate": "2026-11-22T03:00:00+00:00",
+      "category": "카카오페이",
+      "source": "이투데이"
+    },
+    {
+      "title": "카카오페이·토스도 주민등록증 진위확인 가능…네이버페이는 다음 달부...",
+      "link": "https://n.news.naver.com/mnews/article/421/0009303265?sid=101",
+      "originallink": "https://www.news1.kr/finance/general-finance/6361899",
+      "description": "박재찬 보험전문기자 = 카카오페이와 토스에서도 은행과 동일한 수준의 주민등록증 진위확인이 가능해진다. 간편결제와 송금 등 전자금융서비스의 비대면 고객확인 과정에서 위·변조 신분증을 이용한 금융범죄를...",
+      "pubDate": "2026-11-22T03:00:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이·토스·네이버페이에서 주민등록증 위·변조 가려낸다",
+      "link": "https://www.public25.com/news/articleView.html?idxno=58790",
+      "originallink": "https://www.public25.com/news/articleView.html?idxno=58790",
+      "description": "이번에 간편결제와 송금 서비스를 제공하는 전자금융업계로 적용 범위가 확대되면서 비대면 금융거래의 신분확인 체계도 한층 강화될 것으로 보인다. 서비스 확대는 지난 7월 9일 행안부가 카카오페이·토스·네이버페이...",
+      "pubDate": "2026-11-22T03:00:00+00:00",
+      "category": "네이버페이",
+      "source": "퍼블릭타임스"
+    },
+    {
       "title": "카카오페이·토스 본인인증 더 깐깐해진다…주민등록증 사진까지 대조",
       "link": "https://n.news.naver.com/mnews/article/009/0005767128?sid=101",
       "originallink": "https://www.mk.co.kr/article/12215463",
@@ -295,7 +943,7 @@
       "description": "2025년 8월 삼성월렛 출시 10주년 관련 이미지./삼성전자 카카오뱅크에 이어 주요 금융사들이 애플페이 도입을 추진하면서 국내 간편결제 시장의 수수료 논란이 재점화되고 있다. 삼성월렛과 달리 카드사에 수수료를...",
       "pubDate": "2026-11-20T07:00:00+00:00",
       "category": "삼성페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "네이버페이, 기업 전용 복지몰 출시…중소기업도 구축비 없이 도입",
@@ -4075,7 +4723,7 @@
       "description": "산업·기업 신용 동향을 요약·영상·오디오로 제공 보고서 원문도 연결 /한국신용평가 개인투자자가 네이버페이에서 채권을 발행한 기업의 신용 이슈와 업종별 동향을 살펴볼 수 있게 된다. 채권과 신용상품에 투자하는...",
       "pubDate": "2026-11-16T01:34:00+00:00",
       "category": "네이버페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "한신평, 네이버페이와 금융 리서치 제공",
@@ -6118,7 +6766,7 @@
       "description": "애플페이 연동 관련 안내 이미지./애플 홈페이지 갈무리 카카오뱅크와 토스뱅크가 연내 애플페이 도입을 추진하면서 카드업계의 셈법이 복잡해지고 있다. 애플페이 확산에 따른 경쟁 압박이 커질 것으로 예상되나 여전히...",
       "pubDate": "2026-11-10T01:22:00+00:00",
       "category": "애플페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "네이버페이, ‘2026 서울카페쇼’ 참가…‘Npay 커넥트’ 사업 알려",
@@ -10447,7 +11095,7 @@
       "description": "최명희 BNK경남은행 개인고객그룹 그룹장(왼쪽)과 김정열 토스플레이스 부대표가 기념촬영을 하고 있다./BNK경남은행 BNK경남은행이 지역 소상공인의 결제서비스 이용 편의성 확대를 위해 토스플레이스와 협력한다....",
       "pubDate": "2026-10-28T06:00:00+00:00",
       "category": "토스페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "BNK경남은행, 토스와 지역 소상공인 지원 확대 맞손",
@@ -11374,7 +12022,7 @@
       "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 '삼성월렛 머니'로 결제할 수 있게 됐다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 상점의 QR 코드를 직접 스캔하는 방식으로...",
       "pubDate": "2026-10-27T01:18:00+00:00",
       "category": "삼성페이",
-      "source": "메트로신문"
+      "source": "metroseoul"
     },
     {
       "title": "중국서 삼성월렛 결제, 차량 점검은 앱으로… 고객 서비스 다변화",
@@ -12743,430 +13391,7 @@
       "pubDate": "2026-10-24T05:00:00+00:00",
       "category": "애플페이",
       "source": "데일리한국"
-    },
-    {
-      "title": "Npay, '페이스사인' 결제 프로모션 실시…'Npay 커넥트' 가맹점 어디서든...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149598",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149598",
-      "description": "네이버페이가 오는 11월 30일까지 전국 'Npay 커넥트' 가맹점에서 페이스사인 결제 시 10% 적립혜택을 제공하는 프로모션을 한다. 사진=네이버페이  네이버페이(이하 Npay)가 오는 11월 30일까지 전국 'Npay 커넥트...",
-      "pubDate": "2026-10-24T03:42:00+00:00",
-      "category": "네이버페이",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "네이버페이, 서울레스토랑위크 맞춰 50% 적립…오프라인 결제 공략 속도",
-      "link": "https://www.tournews21.com/news/articleView.html?idxno=146523",
-      "originallink": "https://www.tournews21.com/news/articleView.html?idxno=146523",
-      "description": "네이버페이(Npay)가 서울시 미식 행사에 맞춰 오프라인 결제 혜택을 내걸었다. 자체 결제 단말기를 앞세워 오프라인 결제 시장 공략에 속도를 내는 모습이다. 23일 네이버페이에 따르면 이날부터 29일까지 '2026...",
-      "pubDate": "2026-10-24T01:16:00+00:00",
-      "category": "네이버페이",
-      "source": "투어코리아"
-    },
-    {
-      "title": "부산은행, 지역화폐 결제망에 해외 간편결제 연결…수익원 확대",
-      "link": "https://n.news.naver.com/mnews/article/030/0003478231?sid=101",
-      "originallink": "https://www.etnews.com/20261023000100",
-      "description": "BNK부산은행이 지역화폐 QR 결제망을 국내외 간편결제까지 아우르는 통합 결제 플랫폼으로 확대하는 것으로 확인됐다. 지역 상권 중심의 결제서비스를 외국인 관광객과 국내외 결제사업자로 넓히고, 향후 스테이블코인 등...",
-      "pubDate": "2026-10-24T01:01:00+00:00",
-      "category": "간편결제",
-      "source": "전자신문"
-    },
-    {
-      "title": "KB국민은행, 중국서 QR 간편결제 서비스 확대",
-      "link": "https://www.job-post.co.kr/news/articleView.html?idxno=234271",
-      "originallink": "https://www.job-post.co.kr/news/articleView.html?idxno=234271",
-      "description": "KB국민은행이 중국에서도 별도의 현지 결제 앱 없이 'KB스타뱅킹'으로 간편하게 결제할 수 있는 서비스를 선보였다. 중국 국가 결제망과 직접 연계한 국내 금융사 최초의 서비스로, 결제 편의성을 높이고 해외 이용...",
-      "pubDate": "2026-10-24T00:26:00+00:00",
-      "category": "간편결제",
-      "source": "잡포스트(JOBPOST)"
-    },
-    {
-      "title": "서울 맛집 124곳 일주일 할인…참여 매장선 Npay 결제 50% 포인트 환급",
-      "link": "http://www.dailypop.kr/news/articleView.html?idxno=103659",
-      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=103659",
-      "description": "올해 처음 생긴 혜택은 네이버페이 적립이다. 프로모션에 참여한 매장에서 Npay QR결제나 페이스사인으로 값을 치르면 결제금액의 50%를 포인트로 곧바로 돌려받는다. 1인 1회, 최대 1만원까지다. 참여 매장 목록은...",
-      "pubDate": "2026-10-24T00:06:00+00:00",
-      "category": "네이버페이",
-      "source": "데일리팝"
-    },
-    {
-      "title": "\"2026 김천김밥축제에서 카카오페이 QR 쓰세요\"",
-      "link": "https://www.ajunews.com/view/20261023123717898",
-      "originallink": "https://www.ajunews.com/view/20261023123717898",
-      "description": "QR오더로 5000원 이상 결제 시 1000원 할인 아주경제=권가림 기자 hidden@ajunews.com 카카오페이가 '2026 김천김밥축제'에서 QR오더 서비스를 제공한다고 24일 밝혔다. 현장에서 줄을 서지 않고 김밥을 주문할 수 있도록 하고...",
-      "pubDate": "2026-10-24T00:02:00+00:00",
-      "category": "카카오페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "'커넥트'로 완성한 네이버 생태계…네이버페이 새광고",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3052385",
-      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3052385",
-      "description": "※ 평가 기간: 2026년 10월 12일~2026년 10월 16일   네이버페이가 오프라인 통합 결제 단말기 '커넥트' 캠페인을 공개했다. 사진 네이버페이 유튜브 캡처ⓒAP신문(AP뉴스)   1643번째 AP신문 광고평론은 네이버페이(Npay)가 지난...",
-      "pubDate": "2026-10-24T00:00:00+00:00",
-      "category": "네이버페이",
-      "source": "AP신문 |  온라인뉴스미디어  에이피신문"
-    },
-    {
-      "title": "신한투자증권, Npay 간편주문 챌린지…NH투자증권, 퇴직연금 장기수익률...",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=724706",
-      "originallink": "https://www.newstnt.com/news/articleView.html?idxno=724706",
-      "description": "신한투자증권은 네이버페이증권(Npay증권) 간편주문 이용 고객을 대상으로 혜택을 제공하는 이벤트를 열고, NH투자증권은 금융감독원 공시에서 퇴직연금 장기 운용성과 전 부문 최상위권을 기록한 것으로...",
-      "pubDate": "2026-10-23T16:16:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스티앤티"
-    },
-    {
-      "title": "[핀테크 NOW] 네이버페이·카카오페이",
-      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193671",
-      "originallink": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193671",
-      "description": "■ 네이버페이, 서울미식주간 맞아 Npay 50% 적립 혜택 네이버페이가 서울시의 대표 미식 축제인 '2026 서울레스토랑위크' 기간을 맞아 서울 시내 맛집을 방문하는 이용자들에게 결제 금액의 절반을 돌려주는 대규모...",
-      "pubDate": "2026-10-23T08:16:00+00:00",
-      "category": "네이버페이",
-      "source": "위키리크스한국"
-    },
-    {
-      "title": "카카오페이, 김천김밥축제 줄서기 없앤다…QR오더 도입",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075265",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075265",
-      "description": "카카오페이가 김천김밥축제에 QR오더를 도입해 현장 주문 대기 시간을 줄인다. 주문 부스 앞에 줄을 서는 대신 스마트폰으로 김밥을 주문·결제하고 알림에 맞춰 음식을 받는 방식이다. 23일 금융권에 따르면...",
-      "pubDate": "2026-10-23T08:14:00+00:00",
-      "category": "카카오페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "토스, 온라인투자연계업 진출 본격화… 준비법인 설립",
-      "link": "https://n.news.naver.com/mnews/article/366/0001199994?sid=101",
-      "originallink": "https://biz.chosun.com/stock/finance/2026/10/23/ODTLBXLBSFBKXEQGOI4R4N3ERA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "description": "대표는 김진형 토스 금융 마켓플레이스 사업 총괄이 맡은 것으로 전해졌다. 이르면 다음 달 초 금융위원회에 온투업 등록을 신청할 예정이다. 온투업은 대출을 받으려는 차입자와 투자자를 온라인으로 연결하는...",
-      "pubDate": "2026-10-23T07:32:00+00:00",
-      "category": "토스페이",
-      "source": "조선비즈"
-    },
-    {
-      "title": "[금융 브리핑] 토스·네이버페이",
-      "link": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91509",
-      "originallink": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91509",
-      "description": "[사진 = 네이버페이 제공] ◇ 네이버페이, '서울레스토랑위크' 참여 Npay 커넥트 가맹점에 50% 적립 프로모션 진행 네이버페이(이하 Npay)는 10월 23일부터 29일까지 진행되는 '2026 서울레스토랑위크'를 맞아, 행사에...",
-      "pubDate": "2026-10-23T07:24:00+00:00",
-      "category": "네이버페이",
-      "source": "나이스경제"
-    },
-    {
-      "title": "네이버페이, 서울레스토랑위크서 결제하면 50% 적립",
-      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408695",
-      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=408695",
-      "description": "네이버페이(Npay)가 '2026 서울레스토랑위크'에 참여하는 네이버페이 가맹점 결제 고객을 대상으로 결제 금액의 50%를 적립하는 프로모션을 진행한다고 23일 밝혔다. 2026 서울레스토랑위크는 시민과 관광객이 서울 곳곳의...",
-      "pubDate": "2026-10-23T06:58:00+00:00",
-      "category": "네이버페이",
-      "source": "테크월드"
-    },
-    {
-      "title": "삼성월렛 머니·포인트, 1년 만에 가입자 300만명…해외 결제 확대",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=361150",
-      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=361150",
-      "description": "출처=삼성전자 삼성전자의 충전식 간편결제 서비스 '삼성월렛 머니·포인트'가 출시 1년 만에 가입자... 해외 결제 고객에게는 포인트 2.5% 추가 적립 혜택이 제공된다. Young 등급 고객은 삼성월렛으로 토스 유스카드나...",
-      "pubDate": "2026-10-23T06:56:00+00:00",
-      "category": "삼성페이",
-      "source": "비즈트리뷴"
-    },
-    {
-      "title": "“김천김밥축제서 QR 주문·결제”…카카오페이, QR오더 운영",
-      "link": "https://n.news.naver.com/mnews/article/138/0002245820?sid=101",
-      "originallink": "https://www.ddaily.co.kr/page/view/2026102315460853590",
-      "description": "카카오페이가 김천김밥축제에서 QR코드를 활용한 주문·결제 서비스를 운영한다. 방문객은 판매 부스에 줄을 서지 않고 스마트폰으로 김밥을 주문한 뒤 알림에 따라 음식을 받을 수 있다. 23일 카카오페이에 따르면...",
-      "pubDate": "2026-10-23T06:47:00+00:00",
-      "category": "카카오페이",
-      "source": "디지털데일리"
-    },
-    {
-      "title": "현대카드만 쓰는 애플페이, 국감장 소환…수수료에 가로막힌 추가 도입",
-      "link": "https://www.mediapen.com/news/view/1132099",
-      "originallink": "https://www.mediapen.com/news/view/1132099",
-      "description": "국정감사장에 애플페이가 소환되면서 국내 서비스 확산 여부에 다시 관심이 쏠리고 있다. 애플페이는 높은 수수료 부담과 결제 단말기 설치 비용 등의 문제로 추가 도입이 지연되고 있어 아이폰 사용자들은 현대카드를...",
-      "pubDate": "2026-10-23T06:46:00+00:00",
-      "category": "애플페이",
-      "source": "미디어펜"
-    },
-    {
-      "title": "카카오페이, 김천김밥축제 QR오더 도입···주문·결제 대기시간 단축",
-      "link": "http://www.finomy.com/news/articleView.html?idxno=264470",
-      "originallink": "http://www.finomy.com/news/articleView.html?idxno=264470",
-      "description": "현대경제신문 강나연 기자 | 카카오페이가 23일부터 열리는 '2026 김천김밥축제'에서 QR코드를 활용한 주문·결제 서비스를 제공한다고 23일 밝혔다. 관람객은 현장에 설치된 QR코드를 스마트폰으로 스캔해 김밥을...",
-      "pubDate": "2026-10-23T06:44:00+00:00",
-      "category": "카카오페이",
-      "source": "현대경제신문"
-    },
-    {
-      "title": "[단독] 토스, 온투업 진출 본격화…저축은행과 자금 협력 추진",
-      "link": "https://n.news.naver.com/mnews/article/009/0005753140?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12184205",
-      "description": "대표에는 김진형 토스 금융 마켓플레이스 사업 총괄이 선임된 것으로 알려졌다. 토스포용준비법인은 이르면 다음 달 초 금융위원회에 온투업 등록을 신청할 예정이다. 토스는 그동안 직접 등록하거나 별도 자회사를...",
-      "pubDate": "2026-10-23T06:40:00+00:00",
-      "category": "토스페이",
-      "source": "매일경제"
-    },
-    {
-      "title": "[포토] 토스플레이스, '2026 하반기 IFS 프랜차이즈 창업·산업 박람회'...",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483854",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483854",
-      "description": "토스플레이스가 '2026 하반기 IFS 프랜차이즈 창업·산업 박람회'에 참가했다. 사진은 23일 오전 서울 강남구 코엑스에서 열린 '2026 하반기 IFS 프랜차이즈 창업·산업 박람회' 행사장에 마련된 토스플레이스 부스...",
-      "pubDate": "2026-10-23T06:40:00+00:00",
-      "category": "토스페이",
-      "source": "이뉴스투데이"
-    },
-    {
-      "title": "네이버페이, 서울 미식주간 Npay 가맹점서 50% 적립…최대 1만원",
-      "link": "https://n.news.naver.com/mnews/article/119/0003146384?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1705448/?sc=Naver",
-      "description": "네이버페이(Npay)가 ‘2026 서울레스토랑위크’ 기간 행사 참여 음식점에서 Npay로 결제하면 결제금액의 절반을 포인트로 돌려주는 프로모션을 진행한다. 네이버페이는 오는 29일까지 서울레스토랑위크에 참여하는...",
-      "pubDate": "2026-10-23T06:32:00+00:00",
-      "category": "네이버페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "\"줄 안 서는 김밥 축제\" 카카오페이 QR오더로 김천김밥축제 4무 완성한다",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=754661",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754661",
-      "description": "카카오페이(대표 신원근)는 23일 개막한 '2026 김천김밥축제'에서 QR오더로 줄을 서지 않고 김밥을 주문하는 서비스를 선보인다고 밝혔다. 대기 없이 앉아서 주문하는 김밥과 컬래버 굿즈 그리고 현장 이벤트와 할인...",
-      "pubDate": "2026-10-23T06:30:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "카카오페이 '노난날' 흥행…나흘간 결제 2,500만건",
-      "link": "https://n.news.naver.com/mnews/article/215/0001270243?sid=101",
-      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230117&t=NN",
-      "description": "카카오페이가 진행 중인 전 국민 할인 행사 ‘2026 카카오페이 노난날'이 시작 나흘 만에 결제 2,500만건을 넘어섰다. 1초에 72건꼴로 나흘 내내 결제가 이어진 셈이다. 카카오페이는 지난 19일 시작한 '노난날' 캠페인의...",
-      "pubDate": "2026-10-23T06:30:00+00:00",
-      "category": "카카오페이",
-      "source": "owtv"
-    },
-    {
-      "title": "네이버페이, 서울 맛집 결제금액 50% 적립",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114338",
-      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114338",
-      "description": "네이버페이가 '2026 서울레스토랑위크' 개최에 맞춰 행사 참여 음식점에서 결제금액의 50%를 포인트로 적립해 주는 프로모션을 진행합니다. 서울 곳곳의 맛집을 찾는 시민과 관광객에게 실질적인 할인 혜택을 제공하고...",
-      "pubDate": "2026-10-23T06:20:00+00:00",
-      "category": "네이버페이",
-      "source": "불교방송"
-    },
-    {
-      "title": "신한투자증권, 'Npay 증권 간편주문 8weeks 챌린지' 12월 4일까지 진행",
-      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44761",
-      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=44761",
-      "description": "신한투자증권은 네이버페이증권(이하 Npay 증권) 간편주문 서비스 이용 고객을 대상으로 'Npay 증권 간편주문 8weeks 챌린지'를 12월 4일까지 진행한다고 23일 밝혔다. 이번 이벤트는 만 19세 이상 내국인 개인 고객...",
-      "pubDate": "2026-10-23T06:14:00+00:00",
-      "category": "네이버페이",
-      "source": "S저널"
-    },
-    {
-      "title": "카카오페이, 김천 김밥축제서 'QR오더' 도입…줄 서지 않고 김밥 주문",
-      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=44757",
-      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=44757",
-      "description": "카카오페이가 22일 개막하는 '2026 김천김밥축제'에서 QR오더 서비스를 선보인다고 밝혔다. 축제 현장 곳곳에 설치된 QR오더를 스마트폰으로 스캔하면 별도 줄을 서지 않고 원하는 자리에서 김밥을 주문하고 결제할 수...",
-      "pubDate": "2026-10-23T06:12:00+00:00",
-      "category": "카카오페이",
-      "source": "S저널"
-    },
-    {
-      "title": "네이버·카카오페이, 미식 행사서 결제 편의·혜택 제공",
-      "link": "https://n.news.naver.com/mnews/article/003/0014274674?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261023_0003838589",
-      "description": "네이버페이와 카카오페이가 지역 축제와 미식주간에 참여해 간편결제 서비스를 제공한다. 각각 QR코드를 활용해 주문·결제 편의성을 높이고 안면인식 결제에 적립금을 지급하는 혜택을 제공한다. 23일 업계에...",
-      "pubDate": "2026-10-23T06:10:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "신한투자증권, Npay 고객에 최대 80만원",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=666861",
-      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=666861",
-      "description": "신한투자증권은 네이버페이증권 간편주문 고객을 대상으로 'Npay 증권 간편주문 8weeks 챌린지'를 오는 12월 4일까지 진행한다고 23일 밝혔다. 사진=신한투자증권 한국금융경제신문=박상민 기자 | 신한투자증권은...",
-      "pubDate": "2026-10-23T06:08:00+00:00",
-      "category": "네이버페이",
-      "source": "한국금융경제신문"
-    },
-    {
-      "title": "네이버페이 \"AX시대, 韓금융에 기회…인증·위임한도 규칙마련 시급\"",
-      "link": "https://n.news.naver.com/mnews/article/018/0006394736?sid=101",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=04428006645615872&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "그런 점에서 한국은 AX(AI 전환) 시대에 가장 잘 할 수 있는 기회를 가지고 있습니다.” 조재박 네이버페이 부사장 겸 최고비즈니스책임자(CBO) (사진= 이정훈 기자) 조재박 네이버페이 부사장 겸 최고비즈니스책임자(CBO)는...",
-      "pubDate": "2026-10-23T06:07:00+00:00",
-      "category": "네이버페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "신한투자증권, 네이버페이 주식 거래 이벤트…신규 고객 최대 80만원",
-      "link": "https://www.newspim.com/news/view/20261023000787",
-      "originallink": "https://www.newspim.com/news/view/20261023000787",
-      "description": "신한투자증권이 네이버페이증권 간편주문 서비스를 이용하는 고객을 대상으로 최대 80만원 상당의 경품을 제공하는 이벤트를 진행한다. 국내주식 누적 거래금액과 주간 거래 실적에 따라 네이버페이 포인트와...",
-      "pubDate": "2026-10-23T06:04:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "“얼굴만 ‘쓱’ 하면 결제 끝”…네이버·토스, 파격 혜택 앞세워 고객...",
-      "link": "https://n.news.naver.com/mnews/article/117/0004117809?sid=103",
-      "originallink": "https://www.mydaily.co.kr/page/view/2026102314214195947",
-      "description": "네이버페이와 토스가 얼굴인식 결제 서비스를 앞세워 오프라인 결제시장 선점 경쟁에 나섰다. 23일 금융권과 핀테크업계에 따르면 네이버페이와 토스는 얼굴인식 결제 서비스의 이용자와 가맹점 확대에 주력하고 있다....",
-      "pubDate": "2026-10-23T05:38:00+00:00",
-      "category": "토스페이",
-      "source": "마이데일리"
-    },
-    {
-      "title": "정부가 도와주는 애플페이 확대…카드업계는 '글쎄'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1317791&inflow=N",
-      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1317791&inflow=N",
-      "description": "뉴스토마토 = 장선영 기자 | 정부가 애플페이 등 간편결제 인프라 확대를 위한 제도적 지원 검토에 나섰지만, 업계에서는 삼성페이 수수료 부과 등 오히려 부작용을 키울 수 있다는 우려의 시각을 보내고 있습니다. 23일...",
-      "pubDate": "2026-10-23T05:28:00+00:00",
-      "category": "애플페이",
-      "source": "뉴스토마토"
-    },
-    {
-      "title": "카카오페이 ‘노난날’, 나흘간 결제 2500만건 나오며 흥행",
-      "link": "https://n.news.naver.com/mnews/article/366/0001199926?sid=101",
-      "originallink": "https://biz.chosun.com/stock/finance/2026/10/23/FKUB6DESUFAVRJMYTZRONYUVKA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "description": "카카오페이가 기획한 전 국민 할인받고 노나는 날, ’2026 카카오페이 노난날’이 흥행몰이 중이다. 50여개 인기 브랜드의 혜택을 모은 다양한 콘텐츠가 호응을 얻고 있다. 23일 카카오페이에 따르면 노난날 캠페인...",
-      "pubDate": "2026-10-23T05:17:00+00:00",
-      "category": "카카오페이",
-      "source": "조선비즈"
-    },
-    {
-      "title": "HSBC, 홍콩달러 스테이블코인 상용화...330만 간편결제 서비스에 탑재",
-      "link": "https://www.decenter.kr/article/20105346?ref=naverdc",
-      "originallink": "https://www.decenter.kr/article/20105346?ref=naverdc",
-      "description": "홍콩 HSBC가 자체 발행한 홍콩달러 연동 스테이블코인을 자사 간편결제 서비스에 도입하며 상용화에 나섰다. 기존 간편결제 서비스 이용자 330만 명을 대상으로 스테이블코인 송금과 결제를 지원하고 향후...",
-      "pubDate": "2026-10-23T05:12:00+00:00",
-      "category": "간편결제",
-      "source": "Decenter"
-    },
-    {
-      "title": "아트앤하트, 'Npay 커넥트' 전국 확대…페이스사인 결제 시 10% 적립",
-      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=396086",
-      "originallink": "https://www.fntoday.co.kr/news/articleView.html?idxno=396086",
-      "description": "아동 미술교육 브랜드 아트앤하트가 네이버페이(Npay)와 제휴를 통해 전국 가맹점에 통합 결제 단말기 'Npay 커넥트'를 도입하고 학부모 결제 편의성과 가맹점 운영 효율을 높인다. 아트앤하트는 10월부터 전국 450여 개...",
-      "pubDate": "2026-10-23T05:06:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸스투데이"
-    },
-    {
-      "title": "아트앤하트, 네이버페이와 'Npay 커넥트'로 학부모 리뷰 활성화",
-      "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279548",
-      "originallink": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279548",
-      "description": "아동 미술교육 브랜드 아트앤하트가 학부모와 가맹 교육원의 소통을 강화하기 위해 네이버페이(Npay)의 오프라인 통합 단말기 'Npay 커넥트'를 도입한다고 23일 밝혔다. 아트앤하트는 네이버페이와 제휴를 맺고 전국...",
-      "pubDate": "2026-10-23T04:54:00+00:00",
-      "category": "네이버페이",
-      "source": "Businesskorea"
-    },
-    {
-      "title": "[더밸류 브리핑] 오늘의 핀테크 소식…카카오페이·네이버페이",
-      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=202603",
-      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=202603",
-      "description": "카카오페이는 김천김밥축제에서 QR오더를 통한 주문·결제와 할인 이벤트를 운영하며, 네이버페이는 서울레스토랑위크 참여 가맹점에서 결제 금액의 일부를 포인트로 적립하는 프로모션을 진행한다. ◆ 카카오페이...",
-      "pubDate": "2026-10-23T04:54:00+00:00",
-      "category": "네이버페이",
-      "source": "더밸류뉴스"
-    },
-    {
-      "title": "'최대 7.5%' 삼성월렛 머니 vs '카드 혜택 그대로' 애플페이…간편결제...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=352839",
-      "originallink": "https://www.greened.kr/news/articleView.html?idxno=352839",
-      "description": "전자는 통장 신규 개설·연결·충전이, 후자는 삼성월렛 머니 첫 결제가 지급 조건이다. 애플페이, 현대카드 상품 혜택 그대로…전월 실적은 확인해야 애플페이는 국내에서 현대카드만 제휴하고 있다. 2023년 3월 도입...",
-      "pubDate": "2026-10-23T04:52:00+00:00",
-      "category": "삼성페이",
-      "source": "녹색경제신문"
-    },
-    {
-      "title": "네이버페이, '서울레스토랑위크'서 결제금액 50% 적립 혜택",
-      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=90858",
-      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=90858",
-      "description": "네이버페이(Npay)가 '2026 서울레스토랑위크'를 맞아 행사 참여 음식점에서 결제금액의 50%를 포인트로 돌려주는 프로모션을 진행한다. 안면인식 결제 서비스 '페이스사인'을 이용하면 별도의 10% 적립 혜택도 중복으로...",
-      "pubDate": "2026-10-23T04:40:00+00:00",
-      "category": "네이버페이",
-      "source": "워크투데이"
-    },
-    {
-      "title": "아트앤하트, 전국 450여 개 가맹점에 ‘Npay 커넥트' 도입... 교육원 운영...",
-      "link": "https://www.lawissue.co.kr/view.php?ud=20261023132937880537600e7ec7_12",
-      "originallink": "https://www.lawissue.co.kr/view.php?ud=20261023132937880537600e7ec7_12",
-      "description": "아동 미술교육 브랜드 아트앤하트가 네이버페이(Npay)와 제휴를 맺고 전국 450여 개 가맹점에 오프라인 통합 단말기 ‘Npay 커넥트'를 순차적으로 도입한다고 밝혔다. 이번 제휴는 아트앤하트 가맹점의 결제 편의성을...",
-      "pubDate": "2026-10-23T04:34:00+00:00",
-      "category": "네이버페이",
-      "source": "로이슈"
-    },
-    {
-      "title": "아트앤하트, 네이버페이와 'Npay 커넥트' 도입 제휴",
-      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070414",
-      "originallink": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070414",
-      "description": "아동 미술교육 브랜드 '아트앤하트'가 네이버페이(Npay)와 제휴를 맺고 전국 450여 개 가맹점에 오프라인 통합 단말기 'Npay 커넥트'를 도입한다고 밝혔다. 아트앤하트 본사는 전국 가맹점 원장님들이 네이버 플레이스...",
-      "pubDate": "2026-10-23T04:32:00+00:00",
-      "category": "네이버페이",
-      "source": "경상일보"
-    },
-    {
-      "title": "신한투자증권, Npay 증권 간편주문 '8weeks 챌린지' 진행",
-      "link": "https://www.the-today.com/news/articleView.html?idxno=92275",
-      "originallink": "https://www.the-today.com/news/articleView.html?idxno=92275",
-      "description": "신한투자증권은 네이버페이증권(Npay 증권) 간편주문 서비스 이용 고객을 대상으로 '8weeks 챌린지' 이벤트를 오는 12월4일까지 진행한다고 23일 밝혔다. 이벤트 기간 Npay 증권 간편주문을 통해 신한투자증권...",
-      "pubDate": "2026-10-23T04:26:00+00:00",
-      "category": "네이버페이",
-      "source": "더투데이"
-    },
-    {
-      "title": "카카오페이 '노난날', 4일간 2500만건 결제 흥행",
-      "link": "https://n.news.naver.com/mnews/article/003/0014274261?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261023_0003838382",
-      "description": "카카오페이가 기획한 전 국민 할인받고 노나는 날, '2026 카카오페이 노난날'이 흥행 궤도를 그리고 있다. 캠페인에 앞서 이색적인 리코더 대회로 이목을 끈 데 이어, 50여개 인기 브랜드의 혜택을 모은 재미있는...",
-      "pubDate": "2026-10-23T04:22:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "아트앤하트, 가맹점 디지털 운영 지원 강화…네이버페이 ‘Npay 커넥트’...",
-      "link": "https://www.kbsm.net/news/view.php?idx=538813",
-      "originallink": "https://www.kbsm.net/news/view.php?idx=538813",
-      "description": "네이버페이(Npay)와 제휴해 오프라인 통합 단말기 ‘Npay 커넥트’를 도입하고 결제부터 학부모 리뷰 관리까지 연계한다.도입 대상은 전국 450여 개 아트앤하트 가맹점이다. 아트앤하트는 10월부터 순차적으로 단말기...",
-      "pubDate": "2026-10-23T04:20:00+00:00",
-      "category": "네이버페이",
-      "source": "경북신문"
-    },
-    {
-      "title": "줄 서지 않고 김밥 주문…카카오페이, 축제에 'QR오더' 도입",
-      "link": "https://www.kpinews.kr/newsView/1065582301794590",
-      "originallink": "https://www.kpinews.kr/newsView/1065582301794590",
-      "description": "카카오페이가 관람객들의 대기 시간을 대폭 줄이기 위해 '2026 김천김밥축제' 현장에 QR 결제 시스템을 적용하고, 즉시 할인과 쿠폰 증정 등 다채로운 혜택을 제공한다. ▲ 카카오페이, '2026 김천 김밥축제' QR오더...",
-      "pubDate": "2026-10-23T04:00:00+00:00",
-      "category": "카카오페이",
-      "source": "kpinews"
-    },
-    {
-      "title": "카카오페이, 김천김밥축제에 QR오더 도입…줄 서지 않고 김밥 주문",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138008",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=138008",
-      "description": "| 이코노미사이언스 박성현 기자 | 카카오페이가 '2026 김천김밥축제'에 QR코드 기반 주문·결제 서비스인 'QR오더'를 도입한다. 방문객은 음식 판매 부스에 줄을 서지 않고 스마트폰으로 김밥을 주문한 뒤 카카오톡...",
-      "pubDate": "2026-10-23T03:28:00+00:00",
-      "category": "카카오페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "네이버페이, 서울레스토랑위크 결제금액 50% 적립…최대 1만 원 제공",
-      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=138010",
-      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=138010",
-      "description": "| 이코노미사이언스 박성현 기자 | 네이버페이가 '2026 서울레스토랑위크' 참여 음식점에서 네이버페이 포인트·머니로 결제하면 결제금액의 50%를 적립해 준다. 안면인식 결제 서비스 '페이스사인'을 이용하면 기존 10...",
-      "pubDate": "2026-10-23T03:26:00+00:00",
-      "category": "네이버페이",
-      "source": "이코노미사이언스"
-    },
-    {
-      "title": "네이버페이, 서울레스토랑위크 '커넥트 가맹점'서 결제액 50% 적립",
-      "link": "https://n.news.naver.com/mnews/article/030/0003478039?sid=101",
-      "originallink": "https://www.etnews.com/20261023000150",
-      "description": "네이버페이가 10월 23일부터 29일에 열리는 '2026 서울레스토랑위크'를 맞아 행사에 참여하는 '네이버페이 커넥트' 가맹점에서 네이버페이 포인트·머니로 결제하면 결제금액의 50%를 적립하는 프로모션을 진행한다....",
-      "pubDate": "2026-10-23T03:18:00+00:00",
-      "category": "네이버페이",
-      "source": "전자신문"
     }
   ],
-  "lastFetch": "2026-11-22T03:00:38.305119+00:00"
+  "lastFetch": "2026-11-23T03:44:56.338985+00:00"
 }
