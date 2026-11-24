@@ -1,6 +1,789 @@
 {
   "articles": [
     {
+      "title": "고향사랑기부제 추천하면 네이버페이 포인트",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=938848",
+      "originallink": "http://www.cctimes.kr/news/articleView.html?idxno=938848",
+      "description": "가족·친구·지인 등 주변 사람에게 영동군 고향사랑기부제를 추천해 실제 기부로 이어질 경우 추천인에게 네이버페이 포인트 1만원을 지급하는 행사다. 추천인이 네이버폼을 통해 추천받은 사람(피추천자)의 정보를...",
+      "pubDate": "2026-11-24T06:54:00+00:00",
+      "category": "네이버페이",
+      "source": "충청타임즈"
+    },
+    {
+      "title": "카카오페이 굿딜, 스타벅스서 매일 3% 할인…제휴 브랜드 111개",
+      "link": "https://n.news.naver.com/mnews/article/119/0003158908?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1718965/?sc=Naver",
+      "description": "카카오페이의 할인 결제 서비스 '굿딜'이 스타벅스로 사용처를 확대한다. 별도의 실적 조건이나 할인 한도 없이 결제할 때마다 3% 할인받을 수 있다. 카카오페이는 스타벅스가 굿딜 제휴 브랜드에 새롭게 합류했다고 24일...",
+      "pubDate": "2026-11-24T06:31:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "스타벅스에서도 3% 할인···카카오페이 굿딜 입점",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=93677",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=93677",
+      "description": "카카오페이가 상시 할인 결제 서비스 '굿딜'에 스타벅스를 추가했다. 이에 따라 전국 스타벅스 매장에서 전월 실적이나 할인 한도, 기간 제한 없이 결제할 때마다 3% 할인받을 수 있다. 이용자는 카카오페이 결제...",
+      "pubDate": "2026-11-24T06:12:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "학생증 지운 네이버페이, 스타벅스 품은 카카오페이 [핀테크 톡톡]",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2022633",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2022633",
+      "description": "24일 업계에 따르면 네이버페이는 단국대학교와 손잡고 얼굴 인증 '페이스사인' 기반 도서관 출입 서비스를 열었고 카카오페이는 조건 없는 할인 결제 '굿딜'에 스타벅스를 새로 입점시켰다. 네이버페이, 단국대...",
+      "pubDate": "2026-11-24T06:04:00+00:00",
+      "category": "네이버페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "스테이블코인, 은행권 과반·핀테크 최대주주 허용…거래소 지분 최대 ...",
+      "link": "https://n.news.naver.com/mnews/article/016/0002727802?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10947548?ref=naver",
+      "description": "코인원(차명훈 대표·지분율 30.36%)을 제외하면, 네이버파이낸셜과의 합병을 추진 중인 두나무와 빗썸·디지털엑스 등 국내 원화거래소는 대주주 지분율이 예외 한도인 34%를 웃돌아 유예기간 내 지분 구조를 손봐야 할...",
+      "pubDate": "2026-11-24T06:01:00+00:00",
+      "category": "간편결제",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "\"얼굴이 곧 학생증\"…네이버페이, 단국대 출입인증 시장 진출",
+      "link": "https://n.news.naver.com/mnews/article/215/0001273782?sid=101",
+      "originallink": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240124&t=NN",
+      "description": "네이버페이가 단국대학교와 협력해 캠퍼스 내 '페이스사인(Facesign)' 기반의 출입 인증 서비스를 오픈했다고 24일 밝혔다. 단국대학교 학생과 교직원은 Npay 앱에서 '페이스사인' 출입 정보를 간편하게 등록하면...",
+      "pubDate": "2026-11-24T05:53:00+00:00",
+      "category": "네이버페이",
+      "source": "owtv"
+    },
+    {
+      "title": "\"빠른 결제가 먼저\"···간편결제 선택한 소비자, 절반은 오류 경험",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=160410",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=160410",
+      "description": "최근 토스와 네이버페이는 각각 안면인식결제 서비스인 '페이스페이'와 '페이스사인'을 앞세워 오프라인 결제 시장 공략에 나서고 있다. 여기에 카카오뱅크의 애플페이 도입과 카드사들의 자체 결제 플랫폼 강화까지...",
+      "pubDate": "2026-11-24T05:50:00+00:00",
+      "category": "간편결제",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "[MD포커스] 카드사도 망설이는 애플페이…카카오뱅크가 뛰어든 이유는",
+      "link": "https://n.news.naver.com/mnews/article/117/0004127633?sid=103",
+      "originallink": "https://www.mydaily.co.kr/page/view/2026112414215999063",
+      "description": "그럼에도 카카오뱅크가 애플페이 도입에 나선 것은 지급결제가 은행의 다른 금융서비스로 고객을 끌어들이는 주요 접점이기 때문이다. 체크카드 이용을 활성화해 고객 자금을 자사 계좌에 머물게 하고 앱 이용 빈도를...",
+      "pubDate": "2026-11-24T05:45:00+00:00",
+      "category": "애플페이",
+      "source": "마이데일리"
+    },
+    {
+      "title": "\"얼굴 인증만으로 도서관 출입\"…네이버페이 '페이스사인', 단국대 캠퍼...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=328237",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=328237",
+      "description": "네이버페이(Npay)가 단국대학교와 협력해 캠퍼스 내 '페이스사인(Facesign)' 기반의 출입인증 서비스를 오픈했다. 이번 도입으로 단국대 죽전·천안캠퍼스 학생과 교직원은 Npay 앱에서 페이스사인 출입정보를 등록하면...",
+      "pubDate": "2026-11-24T05:40:00+00:00",
+      "category": "네이버페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "카카오페이, '굿딜' 스타벅스 입점…상시 3% 할인",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327188",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327188",
+      "description": "이미지=카카오페이  카카오페이의 무제한 상시 할인 결제 서비스 '굿딜'이 국내 대표 커피 프랜차이즈 스타벅스를 신규 가맹점으로 확보하며 제휴처 110곳 시대를 열었다. 카카오페이는 조건 없는 할인 결제 서비스 '굿딜...",
+      "pubDate": "2026-11-24T05:28:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "“카카오페이 개인정보 4319만건 팝니다”…알고 보니 가짜 해커 광고",
+      "link": "https://n.news.naver.com/mnews/article/025/0003567538?sid=102",
+      "originallink": "https://www.joongang.co.kr/article/25481478",
+      "description": "24일 정보통신기술 업계에 따르면 최근 엑스(X·옛 트위터)에는 ‘tet’라는 이름의 위협행위자가 카카오페이 관련 데이터베이스 4319만건을 판매한다는 게시글이 올라왔다. 게시자는 자신이 보유한 데이터에 고객 이름과...",
+      "pubDate": "2026-11-24T05:19:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙일보"
+    },
+    {
+      "title": "카카오페이 '굿딜', 스타벅스 입점…상시 3% 할인 결제처 확대",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=45587",
+      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=45587",
+      "description": "카카오페이(대표 신원근)의 조건 없는 할인 결제 서비스 '굿딜'에 스타벅스가 새롭게 입점했다. 이번 입점으로 굿딜 제휴 브랜드는 총 111개로 늘어나며 일상 속 할인 결제 혜택이 한층 확대됐다. 이제 전국 스타벅스...",
+      "pubDate": "2026-11-24T05:16:00+00:00",
+      "category": "카카오페이",
+      "source": "S저널"
+    },
+    {
+      "title": "단국대, 대학 최초 네이버페이 얼굴 인식 출입 시스템 도입",
+      "link": "https://www.jbnews.com/news/articleView.html?idxno=1516768",
+      "originallink": "https://www.jbnews.com/news/articleView.html?idxno=1516768",
+      "description": "［중부매일 송문용 기자］ 단국대(총장 안순철)가 네이버페이와 협력해 얼굴 인식 서비스 'Npay 페이스사인'을 활용한 캠퍼스 출입 시스템을 도입한다. 일부 대학이 페이스사인을 캠퍼스 내 결제 수단으로 쓰고 있지만...",
+      "pubDate": "2026-11-24T05:12:00+00:00",
+      "category": "네이버페이",
+      "source": "중부매일 - 충청권 대표 뉴스 플랫폼"
+    },
+    {
+      "title": "11월 24일 카카오페이 퀴즈타임 정답…파라타항공 첫 미국 취항지는?",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=410460",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=410460",
+      "description": "2027년 5월 취항 예정 도시를 묻는 빈칸 문항 24일 카카오페이 퀴즈타임에 나온 파라타항공 문항의 정답은 ‘LA’다. ◆ 첫 미국 취항지 문항 문제는 파라타항공이 2027년 5월 처음 취항할 미국 도시를 묻는다. 빈칸에는...",
+      "pubDate": "2026-11-24T05:10:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "카카오페이 고객 정보 4300만건이 다크웹에?… 허위 정보 기승",
+      "link": "https://n.news.naver.com/mnews/article/366/0001206964?sid=101",
+      "originallink": "https://biz.chosun.com/stock/finance/2026/11/24/S2WEFHNUTFEQXNZ4YZNIALKWBY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "최근 금융권을 상대로 해킹 공격이 잇따라 발생하는 가운데, 다크웹(일반 검색으로는 찾을 수 없는 비공개 인터넷 공간)에서 카카오페이 고객의 개인 정보를 판매한다는 글이 확인됐다. 카카오페이는 다크웹에 올라온...",
+      "pubDate": "2026-11-24T05:08:00+00:00",
+      "category": "카카오페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "네이버페이, 단국대 도서관에 얼굴 인증 출입 서비스 도입",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120554",
+      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120554",
+      "description": "네이버페이가 단국대학교와 협력해 캠퍼스 내 페이스사인 기반 출입인증 서비스를 시작했습니다. 네이버페이는 학생과 교직원이 Npay 앱에 출입정보를 등록하면 실물이나 모바일 학생증 없이 얼굴 인증만으로 도서관에...",
+      "pubDate": "2026-11-24T05:02:00+00:00",
+      "category": "네이버페이",
+      "source": "불교방송"
+    },
+    {
+      "title": "\"단국대는 학생 얼굴 본다\"…국내 대학 첫 'Npay 페이스사인' 도입",
+      "link": "https://n.news.naver.com/mnews/article/008/0005445596?sid=102",
+      "originallink": "https://www.mt.co.kr/policy/2026/11/24/2026112413233939652",
+      "description": "단국대학교가 네이버페이와 협력해 국내 대학 가운데 처음으로 네이버페이 얼굴 인식 서비스 'Npay 페이스사인' 기반의 캠퍼스 출입 시스템을 정식 도입한다고 24일 밝혔다. 이번에 적용하는 Npay 페이스사인은 Npay 앱에...",
+      "pubDate": "2026-11-24T04:46:00+00:00",
+      "category": "네이버페이",
+      "source": "머니투데이"
+    },
+    {
+      "title": "스타벅스도 카카오페이로 조건 없이 3% 할인…카카오페이 굿딜 제휴 확...",
+      "link": "https://n.news.naver.com/mnews/article/448/0000653069?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/24/2026112490165.html",
+      "description": "카카오페이 굿딜 제휴 브랜드로 스타벅스가 합류했다. 24일 카카오페이는 ‘굿딜’에 스타벅스가 새롭게 입점했다고 밝혔다. 이번 입점으로 전국 스타벅스 매장에서 굿딜로 결제하면 매일 결제할 때마다 3% 상시 할인...",
+      "pubDate": "2026-11-24T04:43:00+00:00",
+      "category": "카카오페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "더즌, 인도네시아 간편결제 플랫폼 다나와 전략적 파트너십",
+      "link": "https://magazine.hankyung.com/money/article/202611246798c",
+      "originallink": "https://magazine.hankyung.com/money/article/202611246798c",
+      "description": "디지털 금융 서비스 기업 더즌이 인도네시아 간편결제 플랫폼 다나(DANA)와 전략적 파트너십을 체결했다. 양사는 다나의 현지 사업 네트워크와 더즌의 금융 인프라 구축 경험을 바탕으로 인도네시아 은행과 기업을...",
+      "pubDate": "2026-11-24T04:38:00+00:00",
+      "category": "간편결제",
+      "source": "hankyung"
+    },
+    {
+      "title": "네이버페이 '페이스사인', 단국대 도서관 출입 인증 도입",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327170",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327170",
+      "description": "사진=네이버페이  네이버페이(Npay)가 단국대학교와 협력해 캠퍼스 내 얼굴인식 기반 출입인증 서비스 '페이스사인(Facesign)'을 도입했다고 24일 밝혔다. 단국대 학생과 교직원은 Npay 앱에서 출입정보를 등록하면...",
+      "pubDate": "2026-11-24T04:32:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "경산시, 고향사랑기부 10만 원 이상 참여자 500명에 네이버페이 증정",
+      "link": "http://www.breaknews.com/1253439",
+      "originallink": "http://www.breaknews.com/1253439",
+      "description": "시는 추첨을 통해 총 500명에게 네이버페이 쿠폰을 제공할 예정이다. 경품은 5만 원권 10명, 3만 원권 30명, 1만 원권 460명에게 각각 돌아간다. 당첨자에게는 12월 24일 이후...",
+      "pubDate": "2026-11-24T04:24:00+00:00",
+      "category": "네이버페이",
+      "source": "브레이크뉴스"
+    },
+    {
+      "title": "학생증 없이 얼굴로 도서관 출입…단국대, 대학 최초 Npay 연동",
+      "link": "https://n.news.naver.com/mnews/article/656/0000193396?sid=102",
+      "originallink": "https://www.daejonilbo.com/news/articleView.html?idxno=2315997",
+      "description": "단국대학교는 네이버페이와 협력해 국내 대학 최초로 얼굴 인식 서비스 'Npay 페이스사인'을 학내 출입 시스템에 도입했다고 24일 밝혔다. Npay 페이스사인은 Npay 앱에 얼굴과 출입정보를 등록하면 별도의 학생증 없이 얼굴...",
+      "pubDate": "2026-11-24T04:21:00+00:00",
+      "category": "네이버페이",
+      "source": "대전일보"
+    },
+    {
+      "title": "\"얼굴이 곧 학생증\" … 단국대, 국내 대학 최초 도서관에 네이버페이 '페...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450208.html",
+      "originallink": "https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450208.html",
+      "description": "뉴데일리 임정환 = 단국대학교가 국내 대학 최초로 네이버페이의 얼굴 인식 서비스를 활용한 캠퍼스 출입 시스템을 도입했다고 24일 밝혔다. 이번에 도입한 ‘Npay 페이스사인’은 Npay 앱에 얼굴과 출입정보를 등록하면...",
+      "pubDate": "2026-11-24T04:18:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴데일리경제"
+    },
+    {
+      "title": "경산시, 고향사랑기부제 연말 특별이벤트…최대 5만 원 네이버페이 혜택",
+      "link": "https://www.kbsm.net/news/view.php?idx=543072",
+      "originallink": "https://www.kbsm.net/news/view.php?idx=543072",
+      "description": "행사 기간 경산시에 10만 원 이상 기부한 사람 가운데 500명을 추첨해 네이버페이 쿠폰을 제공한다.경품은 5만 원권 10명, 3만 원권 30명, 1만 원권 460명으로 구성되며 당첨자에게는 12월 24일 이후 문자메시지로 발송할...",
+      "pubDate": "2026-11-24T04:06:00+00:00",
+      "category": "네이버페이",
+      "source": "경북신문"
+    },
+    {
+      "title": "더즌, 인니 대표 간편결제 '다나'와 전략적 파트너십 체결",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=304544",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=304544",
+      "description": "디지털 금융 서비스 전문기업 더즌이 싱가포르 엑스포에서 개최된 '싱가포르 핀테크 페스티벌(SFF) 2026' 현장에서 인도네시아 간편결제 플랫폼 다나(DANA)와 전략적 파트너십을 맺었다고 24일 밝혔다. 다나는 온·오프라인...",
+      "pubDate": "2026-11-24T04:02:00+00:00",
+      "category": "간편결제",
+      "source": "와이드경제"
+    },
+    {
+      "title": "단국대, 국내 대학 최초 'Npay 페이스사인' 도입…\"학생증 없이 얼굴로 ...",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=2026112412440718792e75d13a3_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=2026112412440718792e75d13a3_30",
+      "description": "단국대(총장 안순철)가 네이버페이와 협력해 국내 대학 최초로 얼굴 인식 기술을 연동한 캠퍼스 출입 시스템을 도입한다고 24일 밝혔다. 이번에 적용된 ‘Npay 페이스사인’은 네이버페이(Npay) 앱에 얼굴과 출입 정보를...",
+      "pubDate": "2026-11-24T03:48:00+00:00",
+      "category": "네이버페이",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "[담양 소식] 고향사랑기부자 700명에 네이버페이 2만원 지급",
+      "link": "https://n.news.naver.com/mnews/article/417/0001165423?sid=102",
+      "originallink": "https://www.sidae.com/article/2026112412292015108",
+      "description": "이번 행사는 담양군에 10만원 이상 기부한 참여자 중 선착순 700명에게 네이버페이 2만원권을 지급한다. 기존 세액공제와 답례품 혜택에 추가 혜택을 제공해 기부 참여를 유도할 계획이다. 이벤트는 예산 소진 시까지...",
+      "pubDate": "2026-11-24T03:38:00+00:00",
+      "category": "네이버페이",
+      "source": "동행미디어 시대"
+    },
+    {
+      "title": "\"학생증 깜빡해도 얼굴로 쓱\"…단국대, 대학 최초 'Npay 페이스사인' 출...",
+      "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=133043",
+      "originallink": "http://www.dailysmart.co.kr/news/articleView.html?idxno=133043",
+      "description": "단국대학교(총장 안순철)가 네이버페이와 협력해 국내 대학 가운데 처음으로 네이버페이의 얼굴 인식 서비스를 활용한 캠퍼스 출입 체계를 도입한다고 24일 밝혔다. 새롭게 선보이는 'Npay 페이스사인'은 Npay 앱에 얼굴...",
+      "pubDate": "2026-11-24T03:12:00+00:00",
+      "category": "네이버페이",
+      "source": "스마트경제"
+    },
+    {
+      "title": "간편결제 개인정보 유출 2배 쑥…디지털금융 이용률 하락",
+      "link": "https://n.news.naver.com/mnews/article/009/0005768125?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12216894",
+      "description": "간편결제 유출 경험 25% 달해 마이데이터·오픈뱅킹도 감소 AI 이용자 절반 금융판단 영향 간편결제 이용자의 개인정보 유출 경험률이 1년 새 2배 가까이 증가한 것으로 나타났다. 간편결제와 금융 마이데이터...",
+      "pubDate": "2026-11-24T03:02:00+00:00",
+      "category": "간편결제",
+      "source": "매일경제"
+    },
+    {
+      "title": "카카오페이, '굿딜' 제휴 브랜드 111개로 확대",
+      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1025017",
+      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1025017",
+      "description": "카카오페이가 전월 실적이나 할인 한도 없이 정률 할인을 제공하는 결제 서비스 '굿딜'에 스타벅스를 추가했다. 카카오페이는 '굿딜'에 스타벅스가 입점해 전국 매장에서 결제할 때마다 매일 3% 상시 할인 혜택을...",
+      "pubDate": "2026-11-24T02:56:00+00:00",
+      "category": "카카오페이",
+      "source": "CNB뉴스"
+    },
+    {
+      "title": "카카오페이 굿딜 뭐길래? 한도 횟수제한 없이 매일 할인",
+      "link": "https://m.skyedaily.com/news_view.html?ID=315123",
+      "originallink": "https://m.skyedaily.com/news_view.html?ID=315123",
+      "description": "스카이데일리 이세희기자 = 별도 쿠폰 없이 카카오페이머니로 간편결제 ▲ 24일부터 전국 스타벅스 매장에서 카카오페이 굿딜로 결제하면 한도와 횟수 제한 없이 3% 할인 혜택을 받을 수 있다. 카카오페이 신용카드 할인...",
+      "pubDate": "2026-11-24T02:48:00+00:00",
+      "category": "카카오페이",
+      "source": "skyedaily"
+    },
+    {
+      "title": "[테크 NOW] 네이버 해피빈ㆍ네이버페이ㆍ카카오ㆍ한국인터넷기업협회",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241119430260352",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611241119430260352",
+      "description": "▲네이버페이 '페이스사인', 단국대 캠퍼스 내 출입인증 서비스 제공 네이버페이가 단국대학교와 협력해 캠퍼스 내 '페이스사인(Facesign)' 기반의 출입인증 서비스를 오픈했다고 24일 밝혔다. 단국대학교 학생과...",
+      "pubDate": "2026-11-24T02:40:00+00:00",
+      "category": "네이버페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "단국대, 국내 대학 최초 'Npay 페이스사인' 출입 시스템 도입",
+      "link": "https://n.news.naver.com/mnews/article/421/0009306919?sid=102",
+      "originallink": "https://www.news1.kr/local/gyeonggi/6364053",
+      "description": "단국대학교가 네이버페이와 손잡고 국내 대학 최초로 'Npay 페이스사인'을 학내 출입 시스템에 연동했다. 단국대는 지난 5월 대학 축제 행사장 입장에 이 서비스를 시범 적용한 데 이어 이달부터 도서관 출입에...",
+      "pubDate": "2026-11-24T02:32:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "[뉴스워커_카카오페이] 스타벅스도 매일 3% 할인…'굿딜' 제휴 브랜드 3...",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=515796",
+      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=515796",
+      "description": "카카오페이의 상시 할인 결제 서비스 '굿딜'이 스타벅스 입점을 계기로 제휴 브랜드를 111개까지 확대했다. 지난해 3월 정식 출시 당시 37개와 비교해 3배 늘어난 규모다. 카카오페이는 전국 스타벅스 매장에서 굿딜로...",
+      "pubDate": "2026-11-24T02:24:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "더즌, SFF 2026서 인도네시아 간편결제 플랫폼 DANA와 파트너십 체결",
+      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073421",
+      "originallink": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073421",
+      "description": "DANA는 온·오프라인 결제와 송금 등 디지털 금융 서비스를 제공하는 인도네시아 간편결제 플랫폼이다. 이번 파트너십을 통해 DANA의 현지 이용자 기반과 사업 역량에 더즌의 디지털 금융 인프라 구축 및 운영 경험을...",
+      "pubDate": "2026-11-24T02:22:00+00:00",
+      "category": "간편결제",
+      "source": "경상일보"
+    },
+    {
+      "title": "네이버페이 '페이스사인', 단국대 도서관에 도입",
+      "link": "https://n.news.naver.com/mnews/article/030/0003489000?sid=101",
+      "originallink": "https://www.etnews.com/20261124000226",
+      "description": "네이버페이가 단국대 도서관에 얼굴인증 서비스 '페이스사인'을 도입했다. 네이버 외부 시설에 상시 출입인증 수단으로 도입된 첫 사례다. 단국대학교 학생과 교직원은 '페이스사인' 출입정보를 등록하면 실물이나 모바일...",
+      "pubDate": "2026-11-24T02:13:00+00:00",
+      "category": "네이버페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "카카오페이 '굿딜'에 스타벅스 입점",
+      "link": "https://n.news.naver.com/mnews/article/030/0003488990?sid=101",
+      "originallink": "https://www.etnews.com/20261124000212",
+      "description": "카카오페이 '굿딜'에 스타벅스가 입점했다. 이번 입점으로 굿딜 제휴 브랜드는 총 111개로 늘어나며 일상 속 할인 결제처가 넓어졌다. 이제 전국 스타벅스 매장에서도 굿딜로 결제하면 매일 결제할 때마다 3% 할인 혜택을...",
+      "pubDate": "2026-11-24T02:01:00+00:00",
+      "category": "카카오페이",
+      "source": "전자신문"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 디지털금융 소식...네이버페이·카카오페이·DS...",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203576",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=203576",
+      "description": "네이버페이가 단국대학교 죽전·천안캠퍼스 도서관 출입 게이트에 얼굴 인증 서비스 페이스사인(Facesign)을 적용했다. 카카오페이가 ‘굿딜’에 스타벅스를 입점시켜 조건 없이 매일 3% 상시 할인을 제공한다. 또 DSRV가...",
+      "pubDate": "2026-11-24T02:00:00+00:00",
+      "category": "네이버페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "담양군, 고향사랑기부 10만 원에 네이버페이 2만 원 더 준다",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=325997",
+      "originallink": "https://www.geconomy.co.kr/news/article.html?no=325997",
+      "description": "- 24일부터 선착순 700명…세액공제·답례품에 추가 혜택 지이코노미 김정훈 기자 | 전남광주 담양군이 연말정산을 앞두고 고향사랑기부제 참여를 늘리기 위해 10만 원 이상 기부하는 사람에게 네이버페이 2만 원권을...",
+      "pubDate": "2026-11-24T01:54:00+00:00",
+      "category": "네이버페이",
+      "source": "geconomy"
+    },
+    {
+      "title": "학생증 대신 얼굴로 도서관 출입…네이버페이, 단국대에 '페이스사인' ...",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=304489",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=304489",
+      "description": "네이버페이(Npay)의 안면인식 서비스인 '페이스사인'이 대학 캠퍼스 시설의 일상적인 출입 인증 수단으로 본격 활용된다. 그동안 대형 이벤트 현장의 일회성 입장 확인 용도로 주로 쓰이던 기술이 상시 이용 시설로...",
+      "pubDate": "2026-11-24T01:50:00+00:00",
+      "category": "네이버페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "카카오페이, '스코어' 도입해 포용금융 확대",
+      "link": "https://news.dealsitetv.com/articles/179046",
+      "originallink": "https://news.dealsitetv.com/articles/179046",
+      "description": "더치페이·청구서 납부 패턴까지 평가…신파일러·중저신용자에게 혜택 제공 \"카카오페이 스코어를 통해 기존 신용평가 방식으로는 제대로 평가 받지 못하던 고객의 신용도를 더 정확히 제공하기 위해 노력 중이다...",
+      "pubDate": "2026-11-24T01:46:00+00:00",
+      "category": "카카오페이",
+      "source": "dealsitetv"
+    },
+    {
+      "title": "[시선] 빵 축제인가, 배민·네이버페이 홍보인가...K-베이커리 페스티벌",
+      "link": "http://wemakenews.co.kr/news/view.php?no=26933",
+      "originallink": "http://wemakenews.co.kr/news/view.php?no=26933",
+      "description": "사전 예약을 마쳤더라도 현장 안내 혼선과 얼굴 등록(페이스페이·페이스사인) 요구를 둘러싼 불만이 겹쳤다. 일부 관람객은 얼굴 등록 절차를 꺼려 할인 없이 입장 예약만 해뒀다가 현장 안내가 엇갈리면서 혼란을...",
+      "pubDate": "2026-11-24T01:44:00+00:00",
+      "category": "네이버페이",
+      "source": "emakenews"
+    },
+    {
+      "title": "“얼굴 인식으로 캠퍼스 출입”…단국대 ‘Npay 페이스사인’ 도입",
+      "link": "https://n.news.naver.com/mnews/article/081/0003702535?sid=102",
+      "originallink": "https://www.seoul.co.kr/news/society/2026/11/24/20261124500084?wlog_tag3=naver",
+      "description": "네이버페이와 협력, 학생증 없이 출입 AI 서비스 확대 등 디지털 인프라 가속 단국대학교(총장 안순철)는 네이버페이와 국내 대학 최초로 네이버페이의 얼굴 인식 서비스를 활용한 캠퍼스 출입 시스템을 도입한다고...",
+      "pubDate": "2026-11-24T01:42:00+00:00",
+      "category": "네이버페이",
+      "source": "서울신문"
+    },
+    {
+      "title": "카카오페이 '굿딜', 스타벅스 입점…결제 시 3% 상시 할인",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=328153",
+      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=328153",
+      "description": "카카오페이의 할인 결제 서비스 '굿딜'에 스타벅스가 새롭게 입점했다. 카카오페이는 전국 스타벅스 매장에서 굿딜로 결제하면 결제 금액의 3%를 상시 할인받을 수 있다고 밝혔다. 이용자는 카카오페이 결제 탭에서...",
+      "pubDate": "2026-11-24T01:42:00+00:00",
+      "category": "카카오페이",
+      "source": "더퍼블릭"
+    },
+    {
+      "title": "학생증 대신 얼굴로 출입…네이버페이, 단국대에 페이스사인 도입",
+      "link": "https://n.news.naver.com/mnews/article/003/0014341540?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261124_0003880536",
+      "description": "네이버페이(Npay)의 얼굴인증 서비스 '페이스사인'이 대학 캠퍼스의 상시 출입인증 수단으로 활용된다. 대형 행사장에서 입장 확인 용도로 쓰이던 서비스를 일상적인 시설 이용 영역으로 확대한 것으로, 향후 교내...",
+      "pubDate": "2026-11-24T01:38:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "단국대·네이버페이 맞손 국내 대학 첫 '얼굴 인식' 출입 시스템 가동",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3761161",
+      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3761161",
+      "description": "단국대가 국내 대학 최초로 네이버페이의 얼굴 인식 서비스를 활용한 캠퍼스 출입 시스템을 도입했다.(사진/대학 제공) 24일 단국대학교는 네이버페이와 협력해 국내 대학 최초로 얼굴 인식 기반의 캠퍼스 출입...",
+      "pubDate": "2026-11-24T01:32:00+00:00",
+      "category": "네이버페이",
+      "source": "국제뉴스"
+    },
+    {
+      "title": "\"얼굴이 학생증\"…네이버페이, 단국대에 얼굴인식 '페이스사인' 도입",
+      "link": "https://n.news.naver.com/mnews/article/015/0005357474?sid=101",
+      "originallink": "https://www.hankyung.com/article/202611246204i",
+      "description": "네이버페이가 단국대학교와 협력해 캠퍼스 내 얼굴인증 기술인 '페이스사인' 기반의 출입인증 서비스를 시작했다고 24일 밝혔다. 단국대학교 학생과 교직원은 네이버페이 앱에서 페이스사인 출입정보를 간편하게 등록하면...",
+      "pubDate": "2026-11-24T01:22:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "스타벅스서도 3% 할인…카카오페이 굿딜, 제휴 111곳으로 확대",
+      "link": "https://n.news.naver.com/mnews/article/009/0005768046?sid=101",
+      "originallink": "https://www.mk.co.kr/article/12216893",
+      "description": "혜택 앞세워 오프라인 결제 공략 카카오페이의 상시 할인 결제 서비스 ‘굿딜’에 스타벅스가 입점했다. 스타벅스에서 굿딜로 결제하면 전월 실적이나 할인 한도, 기간 제한 없이 결제할 때마다 3%를 할인받을 수 있다....",
+      "pubDate": "2026-11-24T01:22:00+00:00",
+      "category": "카카오페이",
+      "source": "매일경제"
+    },
+    {
+      "title": "페이업, '코리아 핀테크위크 2026'서 모바일 기반 결제 솔루션 소개",
+      "link": "http://www.e2news.com/news/articleView.html?idxno=336420",
+      "originallink": "http://www.e2news.com/news/articleView.html?idxno=336420",
+      "description": "지원하는 결제 수단에는 네이버페이, 카카오페이, 애플페이, 삼성페이 등이 포함된다. 해외 카드인 Visa, Mastercard, JCB, UnionPay와 글로벌 간편결제 서비스인 알리페이, 위챗페이도 이용할 수 있다. 전시 현장에서는 QR코드를...",
+      "pubDate": "2026-11-24T01:06:00+00:00",
+      "category": "간편결제",
+      "source": "이투뉴스"
+    },
+    {
+      "title": "카카오페이 '굿딜'에 스타벅스 합류…매일 조건 없이 3% 할인",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=88332",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=88332",
+      "description": "카카오페이의 할인 결제 서비스 '굿딜' 가맹점에 스타벅스가 합류했다. 이로써 별도 조건 없이 할인을 제공하는 굿딜의 제휴 브랜드는 총 111개로 늘어났다. 소비자는 전국 스타벅스 매장에서 굿딜로 결제할 때마다 매일 3...",
+      "pubDate": "2026-11-24T00:54:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "카카오페이, '4천만건 개인정보 유출' 주장 허위...다크웹 허풍 광고 기...",
+      "link": "https://www.cwn.kr/news/articleView.html?idxno=62413",
+      "originallink": "https://www.cwn.kr/news/articleView.html?idxno=62413",
+      "description": "24일 정보통신기술(ICT) 업계에 따르면, 'tet'라는 닉네임을 사용하는 위협행위자가 최근 엑스(X·옛 트위터)에 카카오페이와 관련된 4,319만건 규모의 데이터베이스(DB)를 판매한다고 알렸다. 해당 게시물에서는 고객 이름...",
+      "pubDate": "2026-11-24T00:50:00+00:00",
+      "category": "카카오페이",
+      "source": "CWN뉴스"
+    },
+    {
+      "title": "[금융레이더]JB금융그룹/카카오페이",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611240918184640294",
+      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611240918184640294",
+      "description": "◆카카오페이 굿딜, 스타벅스 입점…조건 없이 매일 3% 상시 할인 카카오페이는 조건 없는 할인 결제를 제공하는‘굿딜’에 스타벅스가 새롭게 입점했다고 24일 밝혔다. 이번 입점으로 굿딜 제휴 브랜드는 총...",
+      "pubDate": "2026-11-24T00:42:00+00:00",
+      "category": "카카오페이",
+      "source": "대한경제"
+    },
+    {
+      "title": "카카오페이, 스타벅스서 굿딜 결제 때마다 3% 할인",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=566101",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=566101",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이는 조건 없는 할인 결제 '굿딜'에 스타벅스가 새롭게 입점했다고 24일 밝혔다. [사진=카카오페이] 카카오페이는 조건 없는 할인 결제 '굿딜'에 스타벅스가 새롭게 입점했다고 24일...",
+      "pubDate": "2026-11-24T00:36:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오페이 굿딜에 스타벅스 입점…조건 없이 3% 할인",
+      "link": "https://n.news.naver.com/mnews/article/421/0009306269?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6363709",
+      "description": "카카오페이(377300)는 조건 없이 상시 할인 혜택을 제공하는 결제 서비스 '굿딜'에 스타벅스가 입점했다고 24일 밝혔다. 이번 입점으로 전국 스타벅스 매장에서 굿딜로 결제하면 전월 실적이나 할인 한도, 기간 제한 없이...",
+      "pubDate": "2026-11-24T00:27:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이 굿딜에 스타벅스 입점…결제할 때마다 3% 할인",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=141196",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=141196",
+      "description": "카카오페이가 '굿딜' 결제 제휴처에 스타벅스를 추가했다. 이용자는 전국 스타벅스 매장에서 굿딜로 결제하면 전월 실적이나 할인 한도 제한 없이 매번 결제금액의 3%를 할인받는다. 카카오페이는 스타벅스 입점으로 굿딜...",
+      "pubDate": "2026-11-24T00:26:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "[이슈] 카카오페이의 대안신용평가 ··· 금융 문턱 낮출까",
+      "link": "https://www.datasom.co.kr/news/articleView.html?idxno=210945",
+      "originallink": "https://www.datasom.co.kr/news/articleView.html?idxno=210945",
+      "description": "이러한 변화 속에서 카카오페이는 결제 데이터를 활용한 신용평가와 금융 서비스 고도화를 추진하며 데이터 사업 영역을 넓히고 있다. 기존 신용평가에서 포착하지 못한 금융 행동 활용 카카오페이는 지난 23일 미디어...",
+      "pubDate": "2026-11-24T00:24:00+00:00",
+      "category": "카카오페이",
+      "source": "데이터솜"
+    },
+    {
+      "title": "카카오페이 '굿딜', 스타벅스 입점…조건 없이 매일 3% 할인",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=370409",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=370409",
+      "description": "카카오페이의 상시 할인 결제 서비스 '굿딜'에 스타벅스가 합류했다. 카카오페이는 굿딜에 스타벅스가 새로 입점했다고 24일 밝혔다. 이번 입점으로 굿딜 제휴 브랜드는 총 111개로 늘었다. 이용자는 전국 스타벅스...",
+      "pubDate": "2026-11-24T00:24:00+00:00",
+      "category": "카카오페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "네이버페이 '페이스사인'…캠퍼스 결제로 확대 추진",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=370404",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=370404",
+      "description": "네이버페이의 얼굴 인증 서비스가 대학 캠퍼스 일상으로 들어왔다. 네이버페이(Npay)는 단국대학교와... 출입인증과 결제를 페이스사인으로 편리하게 경험할 수 있도록 지속 확대하겠다\"고 말했다. 파이낸셜투데이",
+      "pubDate": "2026-11-24T00:20:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "카카오페이 굿딜에 스타벅스 입점 \"조건 없는 할인으로 일상 결제 공략...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758279",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758279",
+      "description": "카카오페이가 24일 조건 없는 할인 결제 서비스 '굿딜'에 스타벅스가 새로 입점했다고 밝혔다. 이번 입점으로 굿딜 제휴 브랜드는 모두 111개로 늘었다. 소비자가 일상에서 할인 결제를 이용할 수 있는 곳이 한층 넓어졌다는...",
+      "pubDate": "2026-11-24T00:14:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, 조건 없는 할인 결제 확대..스타벅스도 매일 3% 할인",
+      "link": "https://kpenews.com/View.aspx?No=4326223",
+      "originallink": "https://kpenews.com/View.aspx?No=4326223",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] 카카오페이가 복잡한 할인 조건 없이 실질적인 혜택을 누릴 수 있는 결제 환경을 확대하고 있다. 카카오페이는 상시 할인 결제 서비스 '굿딜'에...",
+      "pubDate": "2026-11-24T00:14:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "카카오페이 굿딜, 스타벅스 입점…매일 3% 상시 할인",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886467",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886467",
+      "description": "카카오페이의 '굿딜'에 스타벅스가 새롭게 입점했다. 카카오페이 제공. | 서울=한스경제 유은주 기자 | 카카오페이가 상시 할인 결제 서비스 '굿딜'의 제휴처를 스타벅스로 확대했다. 전국 스타벅스 매장에서 전월 실적이나...",
+      "pubDate": "2026-11-24T00:08:00+00:00",
+      "category": "카카오페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "\"카카오페이 개인정보 4천만건 팝니다\"…가짜 해커 광고 기승",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=729107",
+      "originallink": "https://www.cstimes.com/news/articleView.html?idxno=729107",
+      "description": "판매자가 X 상에 공개한 카카오페이 개인정보 피싱 게시글 컨슈머타임스=김동역 기자 | 국내 기업이 관리하는 개인정보가 대량 유출된 것처럼 꾸민 뒤 돈을 주면 이들 데이터를 팔겠다고 광고하는 허위 게시글이...",
+      "pubDate": "2026-11-23T23:54:00+00:00",
+      "category": "카카오페이",
+      "source": "컨슈머타임스(Consumertimes)"
+    },
+    {
+      "title": "\"카카오페이 고객정보 4319만건 팝니다\"…알고 보니 가짜",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000085875",
+      "originallink": "https://www.jnilbo.com/news/articleView.html?idxno=90000085875",
+      "description": "24일 정보통신기술(ICT) 업계에 따르면 최근 엑스(X·옛 트위터) 등에 'tet'라는 이름의 위협행위자가 카카오페이와 관련한 4319만건 규모의 데이터베이스(DB)를 판매한다는 게시글이 올라왔다. 게시물에 따르면 'tet'는 자신이...",
+      "pubDate": "2026-11-23T22:40:00+00:00",
+      "category": "카카오페이",
+      "source": "전남일보"
+    },
+    {
+      "title": "미국 디지털 금융주 폭등랠리… 카카오페이·헥토파이낸셜 매수 노려라",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507282",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507282",
+      "description": "가장 먼저 살펴볼 기업은 카카오페이다. 카카오페이는 송금과 결제, 정산 기능을 기반으로 디지털 금융서비스를 제공하고 있으며, 카카오그룹 차원에서 스테이블코인 지갑과 유통 인프라 구축도 추진하고 있다....",
+      "pubDate": "2026-11-23T22:38:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "[핀테크핫이슈] 바닥 뚫린 韓 증시...AI·스테이블코인이 달군 SFF 2026",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717428",
+      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717428",
+      "description": "두나무는 네이버파이낸셜과의 기업결합을 통해 금융·결제와 디지털자산 사업을 연계하는 방안을 추진 중이며, 빗썸은 금·귀금속 유통과 부동산 플랫폼으로 사업 영역을 넓히고 있다. 업비트의 적립식 투자 서비스...",
+      "pubDate": "2026-11-23T22:30:00+00:00",
+      "category": "간편결제",
+      "source": "디지털투데이"
+    },
+    {
+      "title": "송금을 바꾼 토스, 이번엔 '디지털 돈의 길'을 연다…계열사 4곳이 그린...",
+      "link": "https://www.e-science.co.kr/news/articleView.html?idxno=140417",
+      "originallink": "https://www.e-science.co.kr/news/articleView.html?idxno=140417",
+      "description": "토스와 주요 계열사의 올해 발표 자료를 한데 모아 보면, 토스(비바리퍼블리카)·토스뱅크·토스페이먼츠·토스플레이스 4개사가 각자의 자리에서 디지털 돈이 오가는 길을 동시에 닦아 온 것으로 나타났다. 하나하나는...",
+      "pubDate": "2026-11-23T22:00:00+00:00",
+      "category": "토스페이",
+      "source": "이코노미사이언스"
+    },
+    {
+      "title": "다크웹 공포: 개인정보 유출 속임수, 카카오페이도 당했다?",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=886991",
+      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=886991",
+      "description": "정보통신기술 업계에 따르면, 최근 다크웹에는 'tet'라는 이름의 위협 행위자가 카카오페이와 관련해 수천만 건의 개인정보를 판매한다고 주장하는 게시글이 올라왔다. 이 게시물은 고객의 이름, 이메일 주소, 전화번호...",
+      "pubDate": "2026-11-23T21:54:00+00:00",
+      "category": "카카오페이",
+      "source": "공감신문"
+    },
+    {
+      "title": "\"카카오페이 개인정보 4천만건 팝니다\"…가짜 해커 광고 기승",
+      "link": "https://n.news.naver.com/mnews/article/001/0016459386?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261123158600017?input=1195m",
+      "description": "韓기업 개인정보 대량 유출된 것처럼 속여 다크웹서 구매자 모집 4천만건 데이터가 단돈 67만원?…카카오페이 \"조작된 허위글로 확인\" 국내 기업이 관리하는 개인정보가 대량 유출된 것처럼 꾸민 뒤 돈을 주면 이들...",
+      "pubDate": "2026-11-23T21:15:00+00:00",
+      "category": "카카오페이",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "‘유료’ 애플페이 도입 확산… 연 3000억 국부 유출 가능성",
+      "link": "https://n.news.naver.com/mnews/article/022/0004177567?sid=101",
+      "originallink": "https://www.segye.com/newsView/20261123514857?OutUrl=naver",
+      "description": "15% 애플에 수수료 해외 결제규격 기반 운영도 문제 국내 간편결제 유료화 부추길 수도 '수수료 유출 최소화 장치 만들어야” 카카오뱅크에 이어 일부 인터넷은행과 카드사들도 애플페이 도입을 검토하면서 국내 정보기술...",
+      "pubDate": "2026-11-23T21:03:00+00:00",
+      "category": "애플페이",
+      "source": "세계일보"
+    },
+    {
+      "title": "네이버파이낸셜·신한銀, 원화 코인 사업 머리 맞댄다",
+      "link": "https://n.news.naver.com/mnews/article/011/0004685347?sid=101",
+      "originallink": "https://www.sedaily.com/article/20118002?ref=naver",
+      "description": "네이버파이낸셜이 신한은행과 원화 스테이블코인 사업 협력에 나섰다. 정부의 디지털자산기본법 공개를 전후로 관련 사업을 선점하기 위한 움직임이 활발해지는 양상이다. 23일 금융계에 따르면 네이버파이낸셜과...",
+      "pubDate": "2026-11-23T20:31:00+00:00",
+      "category": "네이버페이",
+      "source": "서울경제"
+    },
+    {
+      "title": "카카오페이 송금봉투·선물하기도 신용평가에 반영된다",
+      "link": "https://byline.network/?p=9004111222628807",
+      "originallink": "https://byline.network/?p=9004111222628807",
+      "description": "금융사들은 신용도를 판단할 새로운 데이터와 평가 요소를 찾고 있습니다.” 이민수 카카오페이 크레딧사업부문장은 23일 열린 카카오페이 미디어 세미나 ‘페이톡(Paytalk)’에서 대안신용평가모형 ‘카카오페이 스코어’...",
+      "pubDate": "2026-11-23T16:36:00+00:00",
+      "category": "카카오페이",
+      "source": "byline"
+    },
+    {
+      "title": "경조사 송금도 신용평가에…카카오페이, 전세대출 보증 문턱 낮춘다",
+      "link": "https://n.news.naver.com/mnews/article/016/0002727291?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10946567?ref=naver",
+      "description": "카카오페이가 대안신용평가모형을 적용한 결과, 기존 전월세대출 보증 심사에서 거절된 고객의 상당 부분 재평가가 가능할 것으로 분석됐다. 카드·대출 이용 이력이 부족한 고객도 생활 속 금융거래를 바탕으로...",
+      "pubDate": "2026-11-23T09:28:00+00:00",
+      "category": "카카오페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "카카오페이, ‘나만을 위한 AI 에이전트’로 초개인화 승부수 [카카오페...",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611231517277277ed56b8e1f8_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611231517277277ed56b8e1f8_18",
+      "description": "카카오페이가 이용자의 소비 습관을 분석해 절약할 항목을 짚어주는 ‘AI코치’를 고도화한다. 지출 관리에 보험·대출·투자 분야별 인공지능(AI)을 더해 자산관리 전반으로 ‘초개인화’ 서비스를 넓힐 계획이다....",
+      "pubDate": "2026-11-23T08:54:00+00:00",
+      "category": "카카오페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "[현장] 카카오페이, 결제·송금 넘어 데이터로 승부수",
+      "link": "https://n.news.naver.com/mnews/article/119/0003158507?sid=101",
+      "originallink": "https://www.dailian.co.kr/news/view/1718407/?sc=Naver",
+      "description": "카카오페이가 결제·송금 중심의 사업 영역을 데이터 기반 금융서비스로 넓힌다. 이용자의 거래 기록과 금융정보를 결합해 금융 수요를 파악하고, 이를 맞춤형 마케팅과 자산관리, 신용평가 등으로 연결하는 전략이다....",
+      "pubDate": "2026-11-23T08:41:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리안"
+    },
+    {
+      "title": "“더치페이 빨리 내면 신용도 높다”…카카오페이가 찾은 금융평가 새 ...",
+      "link": "https://www.ekn.kr/web/view.php?key=20261123022283477",
+      "originallink": "https://www.ekn.kr/web/view.php?key=20261123022283477",
+      "description": "카카오페이는 23일 서울 중구 센트로폴리스에서 진행한 데이터 비즈니스 전략 발표 미디어 세미나 페이톡(Paytalk)에서 대안신용평가모형 '카카오페이 스코어'의 성과와 비전을 발표하며 이같이 밝혔다. 이민수 카카오페이...",
+      "pubDate": "2026-11-23T08:38:00+00:00",
+      "category": "카카오페이",
+      "source": "에너지경제"
+    },
+    {
+      "title": "법인카드부터 애플페이까지…카카오·토스·케이뱅크 결제시장 총공세",
+      "link": "https://www.ceoscoredaily.com/page/view/2026112315453060548",
+      "originallink": "https://www.ceoscoredaily.com/page/view/2026112315453060548",
+      "description": "인터넷전문은행 3사(카카오·토스·케이뱅크)가 간편결제와 신용카드 등 결제 비즈니스 진출에 속도를 내고 있다. 안정기에 접어든 인터넷전문은행들이 가계대출 규제와 금리 인상으로 예대마진 확대가 한계에...",
+      "pubDate": "2026-11-23T08:30:00+00:00",
+      "category": "토스페이",
+      "source": "CEOSCOREDAILY"
+    },
+    {
+      "title": "카카오페이·토스, 23일부터 주민증 사진까지 진위 확인",
+      "link": "http://www.dailypop.kr/news/articleView.html?idxno=104860",
+      "originallink": "http://www.dailypop.kr/news/articleView.html?idxno=104860",
+      "description": "카카오페이와 토스에서 비대면 고객확인을 할 때 주민등록증 사진을 포함한 진위 검증이 이뤄진다. 간편결제나 송금 서비스를 이용하면서 신분 확인 절차를 거치는 이용자가 적용 대상이다. 행정안전부에 따르면...",
+      "pubDate": "2026-11-23T08:20:00+00:00",
+      "category": "카카오페이",
+      "source": "데일리팝"
+    },
+    {
+      "title": "카카오페이·토스 이어 네이버페이도 합류...간편결제 본인확인 강화",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=272447",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=272447",
+      "description": "카카오페이와 토스에서도 주민등록증 위·변조 여부를 확인할 수 있게 됐다. 간편결제와 송금 플랫폼의 비대면 고객확인 절차에 은행·증권사 등 금융회사와 같은 수준의 신분증 진위확인 체계가 도입되면서...",
+      "pubDate": "2026-11-23T07:40:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "외형 성장 뒤 수익성 숙제… 네이버페이·토스 ‘페이 전쟁’",
+      "link": "https://n.news.naver.com/mnews/article/029/0003060673?sid=101",
+      "originallink": "https://www.dt.co.kr/article/12096749?ref=naver",
+      "description": "네이버의 파이낸셜 플랫폼 부문의 3분기 매출은 4877억원으로 전년 동기 대비 14.1% 증가했지만 해당 부문의 손익률은 같은 기간 6.6%에서 2.2%로 하락했다. 네이버는 3분기 실적과 관련해 Npay 커넥트 단말기 투자 확대와...",
+      "pubDate": "2026-11-23T07:39:00+00:00",
+      "category": "네이버페이",
+      "source": "디지털타임스"
+    },
+    {
+      "title": "두나무 지분 100% 인수하려는 네이버파이낸셜, 공정위 문턱 넘어도 지분...",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=515620",
+      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=515620",
+      "description": "가상자산거래소 업비트 운영사 두나무의 지분 100%를 인수하려는 네이버파이낸셜이 공정거래위원회의 승인을 받더라도 두나무를 완전자회사로 유지하기 어려울 수 있다. 이번 주 공개가 예상되는 디지털자산기본법...",
+      "pubDate": "2026-11-23T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "네이버파이낸셜 ‘두나무 지분 100% 보유’ 제동 걸릴수도",
+      "link": "https://n.news.naver.com/mnews/article/020/0003764441?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20261123/135074324/1",
+      "description": "네이버파이낸셜과 두나무의 기업결합에 대한 공정거래위원회 심의가 진행 중인 가운데 금융당국이 곧 공개할 가상자산거래소의 최대주주 지분 제한 규제가 새로운 변수로 떠오르고 있다. 규제가 시행되면...",
+      "pubDate": "2026-11-23T07:30:00+00:00",
+      "category": "네이버페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "카카오페이·토스, 오늘부터 주민등록증 진위확인 강화…네이버페이는...",
+      "link": "https://www.gosiweek.com/article/1065597213344140",
+      "originallink": "https://www.gosiweek.com/article/1065597213344140",
+      "description": "기존 은행과 증권사, 보험사에서 활용하던 정부의 주민등록증 진위확인 서비스를 간편결제·송금 등 전자금융서비스로 확대한 것이다. 행정안전부는 23일부터 카카오페이와 토스에 주민등록증 진위확인 서비스를...",
+      "pubDate": "2026-11-23T07:16:00+00:00",
+      "category": "네이버페이",
+      "source": "gosiweek"
+    },
+    {
+      "title": "카카오뱅크 남들 주저하는 '애플페이'로 고객 장기 확보 시도 : 높은 수...",
+      "link": "https://www.huffingtonpost.kr/article/262304",
+      "originallink": "https://www.huffingtonpost.kr/article/262304",
+      "description": "카카오뱅크가 애플페이 지원을 시작했다. 애플페이가 국내에 들어온 지 3년 8개월 만에 은행사 가운데 최초 도입이다. 카카오뱅크의 서비스 출범을 두고 애플의 비싼 수수료 정책에 대한 논란이 재점화됐다. 애플은...",
+      "pubDate": "2026-11-23T07:00:00+00:00",
+      "category": "애플페이",
+      "source": "허프포스트코리아"
+    },
+    {
+      "title": "카카오페이·토스, 비대면으로 '주민등록증 사진' 검증…12월 도입",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507040",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507040",
+      "description": "23일 행정안전부에 따르면, 카카오페이와 토스는 간편결제·송금 서비스에서 고객확인이 필요한 때 정부의 주민등록증 진위확인 시스템을 이용한다. 은행·증권사·보험사가 사용해 온 시스템을 전자금융업체에 연결한 첫...",
+      "pubDate": "2026-11-23T05:56:00+00:00",
+      "category": "카카오페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "카카오페이·토스도 주민등록증 진위확인…위·변조 걸러낸다",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148976306&call_from=naver_news",
+      "originallink": "https://www.korea.kr/news/policyNewsView.do?newsId=148976306&call_from=naver_news",
+      "description": "카카오페이와 토스에서도 비대면 고객확인 과정에서 주민등록증의 기재정보와 사진정보를 검증하는 '주민등록증 진위확인' 서비스를 23일부터 이용할 수 있다. 간편결제·송금 등 전자금융서비스에서도 은행·증권...",
+      "pubDate": "2026-11-23T05:13:00+00:00",
+      "category": "카카오페이",
+      "source": "korea"
+    },
+    {
+      "title": "카뱅 뛰어들고 카드사들 주춤…애플페이 경쟁 본격화",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886069",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886069",
+      "description": "카카오뱅크 제공 | 서울=한스경제 이현정 기자 | 카카오뱅크가 현대카드에 이어 국내 금융사 중 두 번째로 애플페이를 도입하면서 간편결제 시장의 경쟁이 본격화하고 있다. 토스뱅크도 연내 서비스 출시를 추진하면서...",
+      "pubDate": "2026-11-23T05:10:00+00:00",
+      "category": "애플페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "카카오페이·토스 본인인증 더 까다로워진다",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=108220",
+      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=108220",
+      "description": "23일부터 카카오페이와 토스에서 비대면 고객확인을 거칠 때 주민등록증 사진까지 정부 시스템으로 대조한다. 은행·증권사·보험사가 이미 쓰던 검증 절차를 간편결제·송금 업체에도 적용한 것이다. 네이버페이는 12월 중...",
+      "pubDate": "2026-11-23T05:06:00+00:00",
+      "category": "카카오페이",
+      "source": "센트럴경제"
+    },
+    {
       "title": "카카오페이, 2400만 마이데이터 활용 확대…맞춤형 금융·신용평가 강화",
       "link": "https://www.newspim.com/news/view/20261123000605",
       "originallink": "https://www.newspim.com/news/view/20261123000605",
@@ -13256,142 +14039,7 @@
       "pubDate": "2026-10-25T09:22:00+00:00",
       "category": "간편결제",
       "source": "서울경제"
-    },
-    {
-      "title": "서울, 글로벌 금융도시 입지 강화…26일 핀테크 위크 개막",
-      "link": "https://n.news.naver.com/mnews/article/014/0005593982?sid=102",
-      "originallink": "https://www.fnnews.com/news/202610251432019797",
-      "description": "신원근 카카오페이 대표는 행사 기조연설자로 나서 개인의 금융 데이터를 활용하는 AI 에이전트의 발전... 제2서울핀테크랩은 네이버클라우드와 함께 6개 기업의 발표를 진행하고, 우수기업에 입주 연계와 클라우드...",
-      "pubDate": "2026-10-25T05:38:00+00:00",
-      "category": "간편결제",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "AI 금융 미래상 '서울핀테크위크' 26일 개막...스타트업 투자유치",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=208337",
-      "originallink": "https://www.tfmedia.co.kr/news/article.html?no=208337",
-      "description": "이어 신원근 카카오페이 대표는 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설을 한다. 오후엔 ▲금융 AI전환(AX), 혁신의 속도를 높이다 ▲AX의 진화: 에이전트로 다시 쓰는 금융 ▲글로벌...",
-      "pubDate": "2026-10-25T02:54:00+00:00",
-      "category": "간편결제",
-      "source": "더팩트"
-    },
-    {
-      "title": "AI 금융 미래부터 스타트업 투자유치까지…'서울 핀테크 위크' 26일 개막",
-      "link": "https://n.news.naver.com/mnews/article/421/0009248155?sid=102",
-      "originallink": "https://www.news1.kr/local/moi/6330480",
-      "description": "이어 신원근 카카오페이 대표가 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설에... 제2서울핀테크랩은 네이버클라우드와 함께 6개 기업의 발표를 진행하고, 서울핀테크랩은 IBK기업은행과...",
-      "pubDate": "2026-10-25T02:15:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스1"
-    },
-    {
-      "title": "AI 금융의 미래 모습 한 자리에…'서울 핀테크 위크 2026' 개최",
-      "link": "https://n.news.naver.com/mnews/article/008/0005431223?sid=102",
-      "originallink": "https://www.mt.co.kr/policy/2026/10/25/2026102510194638892",
-      "description": "이어 신원근 카카오페이 대표이사가 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설을 진행한다. 금융 AI 에이전트가 개인의 금융정보와 데이터를 바탕으로 맞춤형 금융서비스를 제공하는...",
-      "pubDate": "2026-10-25T02:15:00+00:00",
-      "category": "간편결제",
-      "source": "머니투데이"
-    },
-    {
-      "title": "'서울 핀테크 위크 2026' 개최...AI 금융 미래 조망",
-      "link": "https://www.newspim.com/news/view/20261023001111",
-      "originallink": "https://www.newspim.com/news/view/20261023001111",
-      "description": "이어 신원근 카카오페이 대표이사가 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설에 나선다. 개인의 금융정보와 데이터를 활용한 맞춤형 금융서비스의 발전 방향을 소개할 예정이다....",
-      "pubDate": "2026-10-25T02:15:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "서울 핀테크 위크 26일 개막…'AI 에이전트가 바꿀 금융' 화두",
-      "link": "https://n.news.naver.com/mnews/article/629/0000545230?sid=102",
-      "originallink": "https://news.tf.co.kr/read/life/2380231.htm",
-      "description": "이어 신원근 카카오페이 대표이사가 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설을 한다. 개인의 금융정보와 데이터를 바탕으로 맞춤형 서비스를 제공하는 금융 AI 에이전트의 역할과...",
-      "pubDate": "2026-10-25T02:15:00+00:00",
-      "category": "간편결제",
-      "source": "더팩트"
-    },
-    {
-      "title": "금융미래 조망·스타트업 투자유치…26∼28일 '서울핀테크위크'",
-      "link": "https://n.news.naver.com/mnews/article/001/0016398737?sid=102",
-      "originallink": "https://www.yna.co.kr/view/AKR20261024023400004?input=1195m",
-      "description": "신원근 카카오페이 대표이사는 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설을 한다. 오후에는 ▲ 금융 AI전환(AX), 혁신의 속도를 높이다 ▲ AX의 진화: 에이전트로 다시 쓰는 금융 ▲ 글로벌...",
-      "pubDate": "2026-10-25T02:15:00+00:00",
-      "category": "간편결제",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "할인에 적립까지...간편결제 혜택 신용카드 ‘톱5’ 보니",
-      "link": "https://n.news.naver.com/mnews/article/024/0000109151?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12184154",
-      "description": "네이버페이·카카오페이 등 핀테크 간편결제뿐 아니라 카드사 자체 결제 서비스를 이용하면 추가 할인이나 적립 혜택을 제공하는 상품도 등장했다. 신용카드 플랫폼 카드고릴라는 10월 22일 ‘간편결제 혜택 인기...",
-      "pubDate": "2026-10-25T00:01:00+00:00",
-      "category": "간편결제",
-      "source": "매일경제"
-    },
-    {
-      "title": "네이버페이, '서울레스토랑위크' 프로모션…\"QR·페이스사인 결제 시 50...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=323591",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=323591",
-      "description": "네이버페이(Npay)는 23일부터 오는 29일까지 진행되는 '2026 서울레스토랑위크'를 맞아, 행사에 참여하는 'Npay 커넥트' 가맹점에서 Npay 포인트·머니로 결제하면 결제금액의 50%를 즉시 적립하는 프로모션을 진행한다....",
-      "pubDate": "2026-10-24T23:44:00+00:00",
-      "category": "네이버페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "카카오페이, 김천김밥축제에 'QR오더' 도입…현장 대기 줄인다",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=323552",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=323552",
-      "description": "카카오페이가 '2026 김천김밥축제'에 QR오더 서비스를 도입해 현장 주문과 결제 편의성을 높인다. 카카오페이는 23일 개막하는 김천김밥축제에서 현장 곳곳에 QR오더를 설치하고 관람객이 스마트폰으로 김밥을 주문...",
-      "pubDate": "2026-10-24T23:40:00+00:00",
-      "category": "카카오페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "간편결제 인기 신용카드 1위는 하나카드 'MOVING카드 ALLDAY모드'",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=149666",
-      "originallink": "http://www.bizwnews.com/news/articleView.html?idxno=149666",
-      "description": "이 카드는 온라인에서 하나페이·삼성페이·네이버페이·카카오페이·페이코로 결제하면 기본 1%를 적립해 준다. 3일 연속 사용하면 다음 날부터 적립률이 2배로 올라 최대 2%까지 적립할 수 있다. 전월 이용 실적 조건...",
-      "pubDate": "2026-10-24T09:42:00+00:00",
-      "category": "간편결제",
-      "source": "비즈월드뉴스"
-    },
-    {
-      "title": "“20만원 운동화 17만원 되면 구매해” 네이버페이가 준비하는 ‘AI에이...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002713840?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10913544?ref=naver",
-      "description": "조재박 네이버페이 부사장은 이 같이 밝혔다. 현재 금융결제원과 네이버페이는 AI 에이전트에 결제 권한과 한도를 부여해 상품 탐색부터 구매까지 맡기는 기술검증(PoC)을 진행하고 있다. 이용자가 “20만원짜리 운동화...",
-      "pubDate": "2026-10-24T08:09:00+00:00",
-      "category": "네이버페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "“미식 즐기고 혜택도 챙긴다”…네이버페이, 서울미식주간 맞이 프로모...",
-      "link": "https://n.news.naver.com/mnews/article/468/0001274890?sid=101",
-      "originallink": "https://www.sportsseoul.com/news/read/1643708?ref=naver",
-      "description": "네이버페이(Npay)가 ‘2026 서울레스토랑위크’를 맞아 행사 참여 가맹점에서 결제금액의 50%를 포인트로 돌려주는 프로모션을 진행한다. 네이버페이는 오는 29일까지 서울레스토랑위크에 참여하는 ‘Npay 커넥트’...",
-      "pubDate": "2026-10-24T05:21:00+00:00",
-      "category": "네이버페이",
-      "source": "스포츠서울"
-    },
-    {
-      "title": "네이버페이, 서울레스토랑위크 결제액 50% 즉시 적립…최대 1만원",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875656",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=875656",
-      "description": "네이버페이가 23일부터 오는 29일까지 '2026 서울레스토랑위크' 참여 가맹점에서 결제 시 결제액의 50%를 즉시 적립하는 행사를 연다. 네이버페이 제공 | 서울=한스경제 김진영 기자 | 네이버페이가 오는 29일까지 '2026...",
-      "pubDate": "2026-10-24T05:00:00+00:00",
-      "category": "네이버페이",
-      "source": "한스경제"
-    },
-    {
-      "title": "애플페이 추가 도입 '또 안갯속'…금융당국 개입에 확산 물꼬 트일까",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1417930",
-      "originallink": "https://daily.hankooki.com/news/articleView.html?idxno=1417930",
-      "description": "모바일 간편결제 서비스 애플페이의 국내 추가 도입이 지연되면서 아이폰 이용자들의 불만도 이어지고... 이후 신한카드와 KB국민카드, 하나카드, 토스뱅크 등이 잇따라 애플페이 도입을 추진했다. 올해 초 신한카드는...",
-      "pubDate": "2026-10-24T05:00:00+00:00",
-      "category": "애플페이",
-      "source": "데일리한국"
     }
   ],
-  "lastFetch": "2026-11-23T03:44:56.338985+00:00"
+  "lastFetch": "2026-11-24T06:59:21.552781+00:00"
 }
