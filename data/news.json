@@ -1,6 +1,1050 @@
 {
   "articles": [
     {
+      "title": "금융 경계 허무는 AI·디지털자산…핀테크 기술 한자리에",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087683",
+      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087683",
+      "description": "네이버페이는 손동작과 얼굴 인식으로 결제할 수 있는 핸드사인·페이스사인과 보험금 청구, 소상공인 매장 분석 등을 지원하는 네이버페이 커넥트 서비스를 선보였다. 네이버페이 부스를 체험한 하수호씨(72·서울...",
+      "pubDate": "2026-11-25T05:16:00+00:00",
+      "category": "간편결제",
+      "source": "신아일보"
+    },
+    {
+      "title": "카카오페이, AI 금융·스테이블코인 사업 확대…코리아 핀테크 위크 202...",
+      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590072739561",
+      "originallink": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590072739561",
+      "description": "카카오페이가 인공지능(AI) 기반 맞춤형 자산관리 서비스와 스테이블코인을 활용한 차세대 결제시장 공략에 속도를 내고 있다. 금융당국이 은행 중심의 스테이블코인 발행 체계 마련에 나선 가운데 국내외 금융회사 및...",
+      "pubDate": "2026-11-25T05:16:00+00:00",
+      "category": "카카오페이",
+      "source": "megaeconomy"
+    },
+    {
+      "title": "네이버페이, 호반프라퍼티와 맞손…오프라인 결제 생태계 확대",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2023294",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2023294",
+      "description": "매일일보 = 안종열 기자   |  네이버페이가 호반프라퍼티와 손잡고 오프라인 결제 서비스 확대에 나선다. 네이버페이는 호반프라퍼티와 오프라인 상업시설 결제 혁신 및 상권 활성화를 위한 업무협약(MOU)을 체결했다고...",
+      "pubDate": "2026-11-25T05:12:00+00:00",
+      "category": "네이버페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "손바닥만 대면 결제부터 보험금 청구까지…핀테크 기술 한자리에",
+      "link": "https://www.cwn.kr/news/articleView.html?idxno=62594",
+      "originallink": "https://www.cwn.kr/news/articleView.html?idxno=62594",
+      "description": "네이버페이와 카카오페이, 토스 등 국내 주요 핀테크 기업들은 25일부터 27일까지 서울 서초구 양재 aT센터에서 열리는 '코리아 핀테크 위크 2026'에 참가해 각사의 금융기술과 서비스를 선보인다. 행사는 금융위원회가...",
+      "pubDate": "2026-11-25T05:04:00+00:00",
+      "category": "간편결제",
+      "source": "CWN뉴스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 맞손…상업시설 디지털 경쟁력 강화",
+      "link": "https://www.newspost.kr/news/articleView.html?idxno=227760",
+      "originallink": "https://www.newspost.kr/news/articleView.html?idxno=227760",
+      "description": "호반프라퍼티가 네이버페이(Npay)와 협력해 상업시설 내 결제 데이터를 분석해 맞춤형 정보를 제공하는 등 입점 매장의 디지털 경쟁력 강화에 나선다. 호반그룹의 호반프라퍼티는 지난 24일 서울 서초구 본사에서...",
+      "pubDate": "2026-11-25T05:04:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스포스트"
+    },
+    {
+      "title": "[현장] AI 로봇이 송금 하고 투자 상담까지…'코리아핀테크 2026' 가보니",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259727",
+      "originallink": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259727",
+      "description": "생활비 관리부터 구독 해지 권유까지…카카오페이의 AI 승부수 이 위원장 다음 코스는 '카카오페이' 부스였다. 간편결제에서 출발해 종합 금융 플랫폼으로 영역을 넓혀 온 카카오페이는 AI를 활용한 맞춤형 금융 생활...",
+      "pubDate": "2026-11-25T05:04:00+00:00",
+      "category": "간편결제",
+      "source": "인사이트코리아"
+    },
+    {
+      "title": "AI 상담부터 자산 관리까지…금융위원장이 체험한 핀테크 혁신",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1321787&inflow=N",
+      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1321787&inflow=N",
+      "description": "이외에도 이 위원장 일행은 카카오페이와 루모스, 백석대학교 협력관 부스 등도 둘러봤습니다. 남은 행사 기간에는 날짜별 주제에 맞춰 다양한 프로그램이 이어집니다. 첫날은 '디지털금융 DAY'로 글로벌 금융 동향과...",
+      "pubDate": "2026-11-25T05:02:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스토마토"
+    },
+    {
+      "title": "\"손바닥만 대면 결제 끝\"…네이버페이, 장정맥 인증기술 공개",
+      "link": "https://www.ajunews.com/view/20261125134827336",
+      "originallink": "https://www.ajunews.com/view/20261125134827336",
+      "description": "코리아 핀테크 위크서 '핸드사인' 첫선 오프라인 결제 기반 금융서비스 확장 아주경제=김윤섭 기자 angks678@ajunews.com 네이버페이 장정맥 인증기술 'Npay 핸드사인'. [사진=네이버페이] 네이버페이가 얼굴인식에 이어 손바닥...",
+      "pubDate": "2026-11-25T05:00:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 결제∙데이터 분석 협력…입점사 지원",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=191421",
+      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=191421",
+      "description": "호반프라퍼티가 네이버페이와 손잡고 상업시설의 결제 환경 개선과 입점 매장 운영 지원에 나선다. 간편결제 서비스 도입과 결제 데이터 분석, 공동 프로모션 등을 통해 고객 편의를 높이고 매장의 디지털 운영을 지원할...",
+      "pubDate": "2026-11-25T05:00:00+00:00",
+      "category": "네이버페이",
+      "source": "한국면세뉴스"
+    },
+    {
+      "title": "호반프라퍼티, 아브뉴프랑·삼성금거래소에 'Npay 커넥트' 도입",
+      "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308162",
+      "originallink": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308162",
+      "description": "호반프라퍼티가 네이버페이와 손잡고 아브뉴프랑·삼성금거래소에 'Npay 커넥트'를 도입한다고 25일 밝혔다. 두 회사는 24일 서울 서초구 호반프라퍼티 본사에서 업무협약(MOU)을 맺었다. 협약식에는 김윤혜 호반프라퍼티...",
+      "pubDate": "2026-11-25T04:56:00+00:00",
+      "category": "네이버페이",
+      "source": "그린포스트코리아"
+    },
+    {
+      "title": "네이버페이, ‘코리아 핀테크 위크’ 참여…장정맥 인증 기술 ‘핸드사...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=94999",
+      "originallink": "https://www.inthenews.co.kr/news/article.html?no=94999",
+      "description": "차세대 생체인증기술 프로토타입 시연 손바닥 인식으로 병원 진료비 결제 인더뉴스 이종현 기자ㅣ네이버페이가 '코리아 핀테크 위크 2026'에 참여해 장정맥 인증 기술인 'Npay 핸드사인'을 비롯한 혁신 기술을 선보인다고...",
+      "pubDate": "2026-11-25T04:54:00+00:00",
+      "category": "네이버페이",
+      "source": "inthenews"
+    },
+    {
+      "title": "감성커피, 토스 페이스페이 결제 고객 대상 '페페데이' 26일부터",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=887240",
+      "originallink": "https://www.gokorea.kr/news/articleView.html?idxno=887240",
+      "description": "토스 페이스페이는 미리 등록해 둔 얼굴 정보로 매장에서 결제하는 간편결제 서비스다. 이용자는 얼굴 인증을 거쳐 서비스에 등록한다. 그다음 계좌나 신용·체크카드 같은 기존 결제수단을 연결해 쓴다. 페이스페이를...",
+      "pubDate": "2026-11-25T04:54:00+00:00",
+      "category": "토스페이",
+      "source": "공감신문"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 '맞손'…아브뉴프랑 등에 간편결제 도입",
+      "link": "https://n.news.naver.com/mnews/article/448/0000653311?sid=101",
+      "originallink": "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590154.html",
+      "description": "호반프라퍼티가 네이버페이(Npay)와 손잡고 아브뉴프랑 등 매장에 간편 결제 기능을 도입한다. 호반그룹의 호반프라퍼티는 지난 24일 서울 서초구 본사에서 네이버페이와 디지털 경쟁력 강화를 위한 업무협약(MOU)을...",
+      "pubDate": "2026-11-25T04:42:00+00:00",
+      "category": "네이버페이",
+      "source": "tvchosun"
+    },
+    {
+      "title": "[오늘의 게임·IT 소식] 빗썸, NHN페이코와 ‘더블적립 카드’ 선보여 外",
+      "link": "https://dealsite.co.kr/articles/173475",
+      "originallink": "https://dealsite.co.kr/articles/173475",
+      "description": "빗썸이 NHN페이코와 손잡고 페이코 포인트 결제 실적에 따라 비트코인(BTC) 리워드를 제공하는 ‘PAYCO X 빗썸... 헥토파이낸셜은 간편현금결제, 가상계좌, PG, 펌뱅킹 등 결제 인프라 전반을 갖춘 전자금융 기업으로...",
+      "pubDate": "2026-11-25T04:42:00+00:00",
+      "category": "페이코",
+      "source": "딜사이트"
+    },
+    {
+      "title": "네이버페이 손바닥, 카카오페이 코인, 뱅크샐러드·토스 AI…양재 달군 ...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2023247",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2023247",
+      "description": "25일 업계에 따르면 이날 서울 양재 aT센터에서 개막한 '코리아 핀테크 위크 2026'에서 뱅크샐러드와 카카오페이, 네이버페이, 토스가 저마다의 차세대 기술과 서비스를 꺼내 들고 관람객 맞이에 나섰다. 올해로 8회째인...",
+      "pubDate": "2026-11-25T04:36:00+00:00",
+      "category": "네이버페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "카카오페이, AI 자산관리·스테이블코인으로 미래 금융 제시",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=93702",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=93702",
+      "description": "카카오페이가 25일 서울 양재 aT센터에서 개막한 '코리아 핀테크 위크 2026'에 참가해 마이데이터 기반 인공지능(AI) 금융 에이전트 'AI코치'와 스테이블코인 관련 사업 구상을 소개한다. 오는 27일까지 열리는 '코리아...",
+      "pubDate": "2026-11-25T04:36:00+00:00",
+      "category": "카카오페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "카카오페이, AI 금융·스테이블코인 미래 금융 선점",
+      "link": "https://www.g-enews.com/view.php?ud=202611251141197407cd0bfacc1c_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=202611251141197407cd0bfacc1c_1",
+      "description": "카카오페이(대표 신원근)가 인공지능(AI) 금융 서비스와 스테이블코인을 중심으로 차세대 금융사업 확대에 나선다. 마이데이터를 활용한 맞춤형 자산관리 서비스를 고도화하는 한편 글로벌 기업들과의 협력을 통해...",
+      "pubDate": "2026-11-25T04:32:00+00:00",
+      "category": "카카오페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오페이, 미래 금융 혁신 '넥스트 파이낸스' 본격화",
+      "link": "http://www.newswell.co.kr/news/articleView.html?idxno=23948",
+      "originallink": "http://www.newswell.co.kr/news/articleView.html?idxno=23948",
+      "description": "인공지능이 자산을 관리하고 디지털 자산이 결제의 미래를 바꾸는 시대, 카카오페이가 AI와 스테이블코인을 앞세워 차세대 금융 혁신에 나섰습니다. 카카오페이는 25일부터 27일까지 서울 양재 aT센터에서 열리는...",
+      "pubDate": "2026-11-25T04:18:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스웰"
+    },
+    {
+      "title": "네이버페이·카카오페이, 핀테크 위크 참여…미래 금융 기술 선보여",
+      "link": "https://n.news.naver.com/mnews/article/421/0009309145?sid=105",
+      "originallink": "https://www.news1.kr/it-science/internet-platform/6365505",
+      "description": "네이버페이가 '코리아 핀테크 위크 2026'에서 차세대 생체인증 기술 '네이버페이 핸드사인'을 선보인다. 카카오페이(377300)는 인공지능(AI) 금융 에이전트 'AI코치'와 스테이블코인 구상을 소개할 예정이다. 금융위원회가...",
+      "pubDate": "2026-11-25T04:16:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "카카오페이, ‘코리아 핀테크 위크 2026’ 참가...MZ세대 관심도 44.9%↑",
+      "link": "https://www.thebigdata.co.kr/view.php?ud=202611251311375809d0a8833aad_23",
+      "originallink": "https://www.thebigdata.co.kr/view.php?ud=202611251311375809d0a8833aad_23",
+      "description": "카카오페이(대표 신원근)가 25일 개막한 ‘코리아 핀테크 위크 2026’에서 카카오페이만의 앞선 AI 서비스와 스테이블코인 구상을 선보인다고 이날 밝혔다. ‘코리아 핀테크 위크’는 금융위원회가 주최하고 유수의...",
+      "pubDate": "2026-11-25T04:16:00+00:00",
+      "category": "카카오페이",
+      "source": "빅데이터뉴스"
+    },
+    {
+      "title": "'다음 금융은 이미 시작됐다'...은행·핀테크 한자리에 펼쳐진 AI 금융 ...",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026112512515928257",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026112512515928257",
+      "description": "KB·신한·하나·우리·NH농협 등 5대 금융그룹을 비롯해 카카오페이·네이버페이·토스·프리핀스 등 국내외 140개 기업·기관이 참여해 115개 부스에서 인공지능(AI)과 디지털자산 등 혁신 금융서비스를 선보인다.",
+      "pubDate": "2026-11-25T04:08:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "네이버페이, 장정맥 Npay 핸드사인",
+      "link": "https://www.newspim.com/news/view/20261125000687",
+      "originallink": "https://www.newspim.com/news/view/20261125000687",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객이 네이버페이 장정맥 인증기술 'Npay 핸드사인' 기반 결제를 체험을 하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:47:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "네이버페이, 장정맥 인증기술 'Npay 핸드사인'",
+      "link": "https://www.newspim.com/news/view/20261125000677",
+      "originallink": "https://www.newspim.com/news/view/20261125000677",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객이 네이버페이 장정맥 인증기술 'Npay 핸드사인' 기반 결제를 체험을 하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:46:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "네이버페이 부스 찾은 관람객들",
+      "link": "https://www.newspim.com/news/view/20261125000676",
+      "originallink": "https://www.newspim.com/news/view/20261125000676",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객들이 카카오페이 부스를 체험하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:45:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "카카오페이 부스 찾은 관람객들",
+      "link": "https://www.newspim.com/news/view/20261125000674",
+      "originallink": "https://www.newspim.com/news/view/20261125000674",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객들이 카카오페이 부스를 체험하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "카카오페이, 스테이블코인",
+      "link": "https://www.newspim.com/news/view/20261125000673",
+      "originallink": "https://www.newspim.com/news/view/20261125000673",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객들이 카카오페이 스테이블코인을 체험하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "카카오페이 인간 가계부 체험하는 관람객",
+      "link": "https://www.newspim.com/news/view/20261125000671",
+      "originallink": "https://www.newspim.com/news/view/20261125000671",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객들이 카카오페이 부스를 체험하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "카카오페이 부스 체험하는 관람객",
+      "link": "https://www.newspim.com/news/view/20261125000670",
+      "originallink": "https://www.newspim.com/news/view/20261125000670",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객들이 카카오페이 부스를 체험하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "카카오페이 스테이블코인 체험하는 관람객",
+      "link": "https://www.newspim.com/news/view/20261125000675",
+      "originallink": "https://www.newspim.com/news/view/20261125000675",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객들이 카카오페이 스테이블코인을 체험하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "카카오페이, 스테이블코인 체험하는 관람객",
+      "link": "https://www.newspim.com/news/view/20261125000672",
+      "originallink": "https://www.newspim.com/news/view/20261125000672",
+      "description": "25일 오전 서울 서초구 aT센터에서 열린 코리아 핀테크 위크 2026에서 관람객들이 카카오페이 스테이블코인을 체험하고 있다. 2026.11.25 khwphoto@newspim.com",
+      "pubDate": "2026-11-25T03:45:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스핌"
+    },
+    {
+      "title": "카카오페이, '코리아 핀테크 위크 2026'서 AI코치와 스테이블코인 미래...",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=45642",
+      "originallink": "https://www.s-journal.co.kr/news/articleView.html?idxno=45642",
+      "description": "카카오페이가 25일 서울 양재 aT센터에서 개막한 코리아 핀테크 위크 2026에 참여해 마이데이터 기반 AI 금융 에이전트 AI코치와 차세대 스테이블코인 구상을 선보였다. 오는 27일까지 열리는 이번 박람회에서...",
+      "pubDate": "2026-11-25T03:34:00+00:00",
+      "category": "카카오페이",
+      "source": "S저널"
+    },
+    {
+      "title": "네이버페이·호반프라퍼티, 오프라인 결제·상권 활성화 협력",
+      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=93699",
+      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=93699",
+      "description": "네이버페이(Npay)는 호반프라퍼티와 '오프라인 상업시설 결제 편의 및 상권 활성화를 위한 업무협약(MOU)'을 했다고 25일 밝혔다. 양사는 호반프라퍼티가 운영하는 상업시설 '아브뉴프랑'과 호반그룹 관계사인...",
+      "pubDate": "2026-11-25T03:16:00+00:00",
+      "category": "네이버페이",
+      "source": "더리포트"
+    },
+    {
+      "title": "네이버페이, 손바닥 인증 결제 기술 '핸드사인' 공개",
+      "link": "https://www.itdaily.kr/news/articleView.html?idxno=243188",
+      "originallink": "https://www.itdaily.kr/news/articleView.html?idxno=243188",
+      "description": "(사진: 네이버페이)  네이버페이(Npay)가 손바닥 혈관을 이용한 생체인증 결제 기술을 공개했다. 기존 안면인식에 이어 인증 수단을 다변화하고, 카드나 스마트폰 없이 병원 진료비를 결제한 뒤 실손보험금 청구까지...",
+      "pubDate": "2026-11-25T03:02:00+00:00",
+      "category": "네이버페이",
+      "source": "아이티데일리"
+    },
+    {
+      "title": "금감원·네이버페이 모험자본 플랫폼 첫 성과…KB증권, 지역 벤처펀드 ...",
+      "link": "https://n.news.naver.com/mnews/article/014/0005609512?sid=101",
+      "originallink": "https://www.fnnews.com/news/202611251043217333",
+      "description": "금융감독원과 네이버페이가 구축한 모험자본 투자 플랫폼을 통해 종합금융투자사업자가 실제 출자에 나선 첫 사례가 나왔다. 금감원은 KB증권이 모험자본 투자 플랫폼을 활용해 울산 소재 유니스트기술지주의...",
+      "pubDate": "2026-11-25T03:01:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜뉴스"
+    },
+    {
+      "title": "손바닥으로 결제하고 AI 금융코치도…핀테크 3사 신기술 총출동",
+      "link": "https://n.news.naver.com/mnews/article/001/0016462460?sid=101",
+      "originallink": "https://www.yna.co.kr/view/AKR20261125073000017?input=1195m",
+      "description": "'핀테크 위크'에 네이버페이·카카오페이·토스 참가 네이버페이와 카카오페이, 토스가 25일 개막한 '코리아 핀테크 위크 2026'에서 손바닥 인증 결제와 인공지능(AI) 자산관리, 금리인하요구권 자동 신청 등 금융 기술과...",
+      "pubDate": "2026-11-25T02:40:00+00:00",
+      "category": "간편결제",
+      "source": "연합뉴스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 맞손...오프라인 결제 환경 개선",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1732940",
+      "originallink": "https://www.ebn.co.kr/news/articleView.html?idxno=1732940",
+      "description": "네이버페이의 결제 인프라와 데이터 분석 기술을 활용해 쇼핑 편의성을 높이고 입점 사업자의 경쟁력 확보를 지원한다는 구상이다. 호반프라퍼티는 지난 24일 서울 서초구 호반그룹 본사에서 네이버페이와 업무협약(MOU)...",
+      "pubDate": "2026-11-25T02:34:00+00:00",
+      "category": "네이버페이",
+      "source": "EBN"
+    },
+    {
+      "title": "카카오페이, 오프라인 가맹점 우대수수료 인하…연매출 30억원까지 확대",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=5056148",
+      "originallink": "https://www.newsinside.kr/news/articleView.html?idxno=5056148",
+      "description": "카카오페이가 오프라인 가맹점의 우대수수료 적용 대상을 확대하고 일부 매출 구간의 수수료율을 인하한다. 변경된 수수료 체계는 오는 12월 9일부터 카카오페이머니·상품권·포인트를 이용한 오프라인 결제...",
+      "pubDate": "2026-11-25T02:28:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스인사이드"
+    },
+    {
+      "title": "[더밸류 브리핑] 오늘의 금융계 소식...카카오뱅크·토스",
+      "link": "http://www.thevaluenews.co.kr/news/view.php?idx=203636",
+      "originallink": "http://www.thevaluenews.co.kr/news/view.php?idx=203636",
+      "description": "관람객은 토스플레이스의 올인원 결제 단말기 '토스 프론트'에 설치된 '토스철학관'에서 얼굴을 비춰 간단한 관상과 돈과의 궁합을 볼 수 있다. 인식한 얼굴 정보는 저장하지 않으며, 참여자에게는 기념품과 함께...",
+      "pubDate": "2026-11-25T02:24:00+00:00",
+      "category": "토스페이",
+      "source": "더밸류뉴스"
+    },
+    {
+      "title": "토스, '코리아 핀테크 위크 2026' 참가…생활금융 서비스 선보여",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507878",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507878",
+      "description": "토스플레이스의 올인원 결제 단말기 '토스 프론트'를 활용한 '토스철학관'에서는 얼굴 인식을 통해 관상과 돈의 궁합을 확인할 수 있다. 인식된 얼굴 정보는 저장하지 않으며, 참여자에게는 기념품과 추첨을 통한...",
+      "pubDate": "2026-11-25T02:22:00+00:00",
+      "category": "토스페이",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "[세이브택스 횡포②] '정부 환급금'으로 소비자 낚는 카카오페이…수익...",
+      "link": "https://n.news.naver.com/mnews/article/629/0000555351?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2392841.htm",
+      "description": "카카오페이라는 대형 금융 플랫폼의 신뢰도에 '정부 환급금'이라는 공적 표현까지 더해지면서 소비자의 합리적인 판단을 흐릴 수 있다는 지적이 나온다. 환급액의 최대 44%를 수수료로 청구하고 미납 고객의 은행 계좌까지...",
+      "pubDate": "2026-11-25T02:21:00+00:00",
+      "category": "카카오페이",
+      "source": "더팩트"
+    },
+    {
+      "title": "카카오페이, 핀테크위크서 AI코치·스테이블코인 신금융 생태계 전략 공...",
+      "link": "https://sateconomy.co.kr/news/view/1065575469152524",
+      "originallink": "https://sateconomy.co.kr/news/view/1065575469152524",
+      "description": "디지털자산 지갑·AI 결제기술 실증 등 차세대 금융서비스 부각 스테이블코인 제도화 움직임에 맞춰 관련 사업 기반 구축 추진 ▲ 카카오페이가 코리아 핀테크 위크 2026에 참가한다 [카카오페이] 카카오페이가 인공지능...",
+      "pubDate": "2026-11-25T02:20:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "카카오페이, 핀테크 위크서 'AI코치' 체험 부스",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=108292",
+      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=108292",
+      "description": "카카오페이가 출시 석 달 만에 45만명이 찾은 인공지능(AI) 금융 에이전트 'AI코치'를 앞세워 핀테크 박람회에 나섰다. 스테이블코인 사업 구상도 함께 내놨다. 카카오페이는 25일 개막한 '코리아 핀테크 위크 2026'에 체험...",
+      "pubDate": "2026-11-25T02:18:00+00:00",
+      "category": "카카오페이",
+      "source": "센트럴경제"
+    },
+    {
+      "title": "카카오페이, '코리아 핀테크 위크 2026'서 AI코치·스테이블코인 청사진...",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=88424",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=88424",
+      "description": "카카오페이가 25일 개막한 '코리아 핀테크 위크 2026'에 참가해 자체 인공지능(AI) 금융 서비스와 스테이블코인 기반 차세대 금융 구상을 공개한다. 금융위원회가 주최하는 이번 박람회는 오는 27일까지 서울 양재...",
+      "pubDate": "2026-11-25T02:18:00+00:00",
+      "category": "카카오페이",
+      "source": "포인트경제"
+    },
+    {
+      "title": "핀테크, 코인 발행 준비하고 저축은행 인수…금융중개 틀 깬다",
+      "link": "http://www.seouleconews.com/news/articleView.html?idxno=95238",
+      "originallink": "http://www.seouleconews.com/news/articleView.html?idxno=95238",
+      "description": "25일 핀테크 업계에 따르면 네이버페이와 토스, 카카오페이를 비롯해 KG이니시스·NHN KCP·헥토파이낸셜·쿠콘·다날 등이 국내외 금융회사 및 블록체인 기업과 협력해 스테이블코인 사업을 추진하고 있다. 정부가 지난...",
+      "pubDate": "2026-11-25T02:16:00+00:00",
+      "category": "간편결제",
+      "source": "서울이코노미뉴스"
+    },
+    {
+      "title": "네이버페이, 호반 상업시설 디지털화 지원...결제·마케팅 등 협력",
+      "link": "https://www.dizzotv.com/site/data/html_dir/2026/11/25/2026112580083.html",
+      "originallink": "https://www.dizzotv.com/site/data/html_dir/2026/11/25/2026112580083.html",
+      "description": "네이버페이는 호반프라퍼티와 ‘오프라인 상업시설 결제 혁신 및 상권 활성화를 위한 업무협약’을 체결했다고 25일 밝혔다. 양사는 네이버페이의 핀테크 기술과 호반프라퍼티의 상업시설 운영 역량을 결합해 방문객의...",
+      "pubDate": "2026-11-25T02:14:00+00:00",
+      "category": "네이버페이",
+      "source": "디지틀조선TV"
+    },
+    {
+      "title": "네이버파이낸셜, 두나무 지분 100% 인수해도 금융위 '20% 상한'에 의결권...",
+      "link": "https://www.newsworker.co.kr/news/articleView.html?idxno=516055",
+      "originallink": "https://www.newsworker.co.kr/news/articleView.html?idxno=516055",
+      "description": "네이버파이낸셜이 업비트의 운영사 두나무를 완전자회사로 편입하기 위해 공정거래위원회의 심의를 받는 사이, 금융위원회가 거래소 대주주의 지분을 20%로 제한하는 법안을 내놨다. 공정위가 결합을 승인해 두나무...",
+      "pubDate": "2026-11-25T02:14:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스워커"
+    },
+    {
+      "title": "네이버페이, 얼굴 이어 손바닥 정맥…오프라인 사업 영토 넓힌다",
+      "link": "https://n.news.naver.com/mnews/article/293/0000093791?sid=101",
+      "originallink": "https://www.bloter.net/news/articleView.html?idxno=679637",
+      "description": "네이버페이(Npay)가 얼굴 인식에 이어 손바닥 정맥을 활용한 생체인증 기술을 개발하며 오프라인 사업 영역을 넓히고 있다. 결제 단말기를 중심으로 생체인증과 보험금 청구, 소상공인 경영 지원 서비스를 연결하는...",
+      "pubDate": "2026-11-25T02:07:00+00:00",
+      "category": "네이버페이",
+      "source": "블로터"
+    },
+    {
+      "title": "네이버페이, 손바닥으로 병원비 결제하고 실손보험 청구까지 시연",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=566463",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=566463",
+      "description": "[사진=네이버페이] 네이버페이(Npay)는 25일 개막한 '코리아 핀테크 위크 2026'에서 장정맥 인증기술 'Npay 핸드사인' 등 혁신기술을 선보인다고 밝혔다. '결제를 넘어선 확장'을 주제로 한 Npay 부스에서는 오프라인 통합...",
+      "pubDate": "2026-11-25T02:06:00+00:00",
+      "category": "네이버페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "호반프라퍼티-네이버페이, 디지털 경쟁력 강화 MOU 체결",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=141451",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=141451",
+      "description": "호반그룹의 호반프라퍼티가 지난 24일 서울 서초구 본사에서 네이버페이(Npay)와 디지털 경쟁력 강화를 위한 업무협약(MOU)을 체결했다고 밝혔다. 이날 협약식에는 김윤혜 호반프라퍼티 경영총괄사장과 박상진 네이버페이...",
+      "pubDate": "2026-11-25T02:02:00+00:00",
+      "category": "네이버페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "네이버페이 손바닥으로 진료비 결제부터 보험금 청구까지 잇는다",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758455",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758455",
+      "description": "네이버페이(Npay)가 11월 25일 서울 서초구 양재 aT센터에서 개막한 코리아 핀테크 위크 2026에 참여해 장정맥 인증기술인 Npay 핸드사인 등 다양한 혁신기술을 선보인다고 밝혔다. 오프라인 통합 단말기 Npay 커넥트를...",
+      "pubDate": "2026-11-25T02:02:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "네이버페이, 장정맥 인증 '핸드사인' 시제품 공개",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=160551",
+      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=160551",
+      "description": "| 스마트비즈 = 신동현 기자 | 네이버페이가 안면인식에 이어 손바닥 정맥을 활용한 생체인증 기술을 개발한다. 기존 '페이스사인'은 매장 결제와 대학 출입인증으로 적용처를 넓히고 장정맥 인증 '핸드사인'은 사내...",
+      "pubDate": "2026-11-25T02:00:00+00:00",
+      "category": "네이버페이",
+      "source": "스마트비즈"
+    },
+    {
+      "title": "네이버페이, 손바닥으로 여는 결제 세상",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=316167",
+      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=316167",
+      "description": "[사진=네이버페이] 네이버페이(Npay)가 장정맥(손바닥 정맥) 인증을 활용한 차세대 생체인증 기술과 결제·보험을 연계한 서비스를 선보이며 오프라인 금융 생태계 확장에 나섰다. 네이버페이는 25일부터 27일까지 서울...",
+      "pubDate": "2026-11-25T02:00:00+00:00",
+      "category": "네이버페이",
+      "source": "스트레이트뉴스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 맞손…결제 편의·매장 경쟁력 강화",
+      "link": "https://www.g-enews.com/view.php?ud=2026112510561351092aa6f4cdad_1",
+      "originallink": "https://www.g-enews.com/view.php?ud=2026112510561351092aa6f4cdad_1",
+      "description": "호반그룹 계열사 호반프라퍼티가 네이버페이(Npay)와 손잡고 상업시설의 디지털 경쟁력 강화에 나선다. 간편결제 서비스를 확대하고 결제 데이터 분석을 통해 입점 매장의 운영 효율과 매출 증대를 지원한다는 계획이다....",
+      "pubDate": "2026-11-25T02:00:00+00:00",
+      "category": "네이버페이",
+      "source": "글로벌이코노믹"
+    },
+    {
+      "title": "카카오페이, 핀테크 위크서 AI코치·스테이블코인 앞세워 다음 금융 주...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758449",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758449",
+      "description": "2025년에는 네이버페이와 토스가 얼굴 인식 결제 등 오프라인 결제 서비스를 부스 전면에 내세웠다. 올해 카카오페이는 결제 접점보다 사용자의 소비 데이터를 분석해 조언하는 에이전트, 그리고 차세대 결제 인프라로...",
+      "pubDate": "2026-11-25T01:56:00+00:00",
+      "category": "카카오페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "카카오페이, '핀테크 위크' 참가... AI 및 스테이블코인 관련 핵심 서비...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=140893",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=140893",
+      "description": "카카오페이가 인공지능 기반 금융 서비스와 스테이블코인을 앞세워 미래 금융 시장 선점에 나선다. 카카오페이(대표 신원근)가 오늘 개막한 '코리아 핀테크 위크 2026'에서 카카오페이만의 앞선 AI 서비스와 스테이블코인...",
+      "pubDate": "2026-11-25T01:52:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 손잡고 상업시설 디지털 전환 추진",
+      "link": "http://www.beyondpost.co.kr/view.php?ud=202611251047159103205868f676_30",
+      "originallink": "http://www.beyondpost.co.kr/view.php?ud=202611251047159103205868f676_30",
+      "description": "호반프라퍼티가 네이버페이와 손잡고 상업시설의 디지털 전환과 입점 매장의 경쟁력 강화에 나선다. 호반그룹의 호반프라퍼티는 지난 24일 서울 서초구 본사에서 네이버페이(Npay)와 디지털 경쟁력 강화를 위한 업무협약...",
+      "pubDate": "2026-11-25T01:50:00+00:00",
+      "category": "네이버페이",
+      "source": "비욘드포스트"
+    },
+    {
+      "title": "네이버페이, 호반프라퍼티와 상업시설 결제 혁신 나선다",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887045",
+      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=887045",
+      "description": "네이버페이와 호반프라퍼티는 '오프라인 상업시설 결제 혁신 및 상권 활성화를 위한 업무협약(MOU)'을 체결했다.  24일 서울 서초구 호반프라퍼티 본사에서 호반프라퍼티 김윤혜 경영총괄사장(왼쪽)과 Npay 박상진 대표가...",
+      "pubDate": "2026-11-25T01:48:00+00:00",
+      "category": "네이버페이",
+      "source": "한스경제"
+    },
+    {
+      "title": "NHN페이코, ‘빗썸 더블적립 카드 by PAYCO’ 출시",
+      "link": "https://news.mtn.co.kr/article/2026112510242727156",
+      "originallink": "https://news.mtn.co.kr/article/2026112510242727156",
+      "description": "NHN페이코(NHN PAYCO)는 2017년 NHN에서 분사한 핀테크 기업으로, 간편결제 플랫폼 페이코(PAYCO)를 중심으로 B2C 결제·포인트 서비스와 B2B 기업복지 솔루션을 운영하는 회사다.NHN페이코 관계자는 “페이코 포인트 결제라는...",
+      "pubDate": "2026-11-25T01:46:00+00:00",
+      "category": "페이코",
+      "source": "MTN NEWS"
+    },
+    {
+      "title": "호반프라퍼티 네이버페이와 디지털 경쟁력 강화 맞손, 김윤혜 \"입점 매...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=452860",
+      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=452860",
+      "description": "김윤혜 호반프라퍼티 경영총괄사장(왼쪽)과 박상진 네이버페이 대표가 24일 서울 서초구 호반그룹 본사에서 열린 업무협약식에서 기념사진을 찍고 있다. <호반그룹> 호반프라퍼티가 네이버페이와 손잡고 결제 인프라...",
+      "pubDate": "2026-11-25T01:38:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈니스포스트"
+    },
+    {
+      "title": "토스, '코리아 핀테크 위크 2026' 참가…생활금융 서비스 선봬",
+      "link": "https://www.ajunews.com/view/20261125101930624",
+      "originallink": "https://www.ajunews.com/view/20261125101930624",
+      "description": "토스플레이스의 결제 단말기 '토스 프론트'를 활용한 '토스철학관'을 운영하고 참여자에게 기념품과 추첨을 통한 토스포인트를 제공한다. 토스 관계자는 \"이번 부스는 토스가 이용자의 돈을 실제로 찾아주고 챙겨주는...",
+      "pubDate": "2026-11-25T01:36:00+00:00",
+      "category": "토스페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "NHN페이코, 빗썸 제휴 '더블적립' 서비스·전용 카드 출시",
+      "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50892",
+      "originallink": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50892",
+      "description": "한편 NHN페이코는 지난 9월 배달의민족 앱에 페이코 간편결제와 모바일 식권 서비스를 도입했다. 페이코 카드·쿠폰·포인트 결제에 이어 모바일 식권까지 연동해 페이코 식권 이용 범위를 배달의민족 가맹점으로...",
+      "pubDate": "2026-11-25T01:36:00+00:00",
+      "category": "페이코",
+      "source": "스마트타임스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 손잡고 오프라인 결제·데이터 협력 추진",
+      "link": "https://www.businessplus.kr/news/articleView.html?idxno=120455",
+      "originallink": "https://www.businessplus.kr/news/articleView.html?idxno=120455",
+      "description": "양사는 앞으로 △간편결제 인프라 구축 △결제 데이터 분석 지원 △공동 마케팅 등 다방면에서 협력을 이어갈 예정이다. 우선 호반프라퍼티가 운영하는 복합상업시설 '아브뉴프랑' 입점 매장과 계열사 삼성금거래소...",
+      "pubDate": "2026-11-25T01:36:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈니스플러스"
+    },
+    {
+      "title": "카카오페이, 핀테크 위크 부스서 AI코치 체험·스테이블코인 설명",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=566452",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=566452",
+      "description": "|중앙이코노미뉴스 정재혁 기자|카카오페이가 '코리아 핀테크 위크 2026'에서 AI코치와 스테이블코인 구상을 선보인다. [사진=카카오페이] 카카오페이는 25일 개막한 '코리아 핀테크 위크 2026'에서 AI 금융 에이전트...",
+      "pubDate": "2026-11-25T01:34:00+00:00",
+      "category": "카카오페이",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "카카오뱅크 '애플페이' 전격 합류…현대카드 독점 깨고 삼성페이와 본격...",
+      "link": "https://www.widedaily.com/news/articleView.html?idxno=304670",
+      "originallink": "https://www.widedaily.com/news/articleView.html?idxno=304670",
+      "description": "카카오뱅크가 애플페이 서비스를 본격적으로 시작하면서 그동안 현대카드가 단독으로 지원해 온 국내 아이폰 간편결제 시장의 경쟁 구도가 한층 뜨거워지고 있다. 지난 23일 뉴시스 공식 유튜브 채널 'tv 뉴시스' 보도에...",
+      "pubDate": "2026-11-25T01:34:00+00:00",
+      "category": "삼성페이",
+      "source": "와이드경제"
+    },
+    {
+      "title": "내 소비 습관에 맞는 AI코치는? 카카오페이, 핀테크 위크 체험 부스 운영",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=141431",
+      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=141431",
+      "description": "카카오페이가 '코리아 핀테크 위크 2026'에서 맞춤형 금융관리 서비스 'AI코치'와 스테이블코인 활용 구상을 선보인다. 방문객이 자신의 소비 습관을 진단하고 AI코치와 자산 목표를 세워보는 체험 부스도 운영한다....",
+      "pubDate": "2026-11-25T01:32:00+00:00",
+      "category": "카카오페이",
+      "source": "팝콘뉴스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 업무협약… 디지털 경쟁력 강화",
+      "link": "http://www.ikld.kr/news/articleView.html?idxno=344821",
+      "originallink": "http://www.ikld.kr/news/articleView.html?idxno=344821",
+      "description": "양사는 간편결제 서비스 도입, 데이터 분석, 공동 프로모션 등 다양한 분야에서 협력할 계획이다. 먼저 호반프라퍼티가 운영하는 아브뉴프랑의 입점 매장을 비롯해 삼성금거래소 대리점 등을 대상으로 오프라인 통합...",
+      "pubDate": "2026-11-25T01:30:00+00:00",
+      "category": "네이버페이",
+      "source": "국토일보"
+    },
+    {
+      "title": "카카오페이, 핀테크 위크서 AI 금융 에이전트·스테이블코인 선보여",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=211975",
+      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=211975",
+      "description": "라이센스뉴스 = 김상미 기자 | 카카오페이가 '코리아 핀테크 위크 2026'에서 마이데이터 기반 인공지능(AI) 금융 에이전트와 스테이블코인 관련 사업 구상을 선보인다. AI를 활용한 개인 자산관리 서비스와 디지털 자산...",
+      "pubDate": "2026-11-25T01:28:00+00:00",
+      "category": "카카오페이",
+      "source": "라이센스뉴스"
+    },
+    {
+      "title": "“카드 쓰면 비트코인 쌓인다”…NHN페이코·빗썸, 적립카드 출시",
+      "link": "https://n.news.naver.com/mnews/article/018/0006415226?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02328806645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "간편결제 업체와 가상자산 거래소가 일상 소비에 가상자산 적립 혜택을 결합하며 고객 확보에 나서고 있다. NHN페이코(대표 정승규)는 가상자산 거래소 빗썸(대표 이재원)과 제휴해 ‘페이코 X 빗썸 더블적립’ 서비스와...",
+      "pubDate": "2026-11-25T01:28:00+00:00",
+      "category": "페이코",
+      "source": "이데일리"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 손잡고 디지털 경쟁력 강화",
+      "link": "https://www.public25.com/news/articleView.html?idxno=59013",
+      "originallink": "https://www.public25.com/news/articleView.html?idxno=59013",
+      "description": "양사는 간편결제 서비스 확대와 데이터 기반 매장 운영 지원, 공동 프로모션 등을 중심으로 협력할 계획이다. 우선 호반프라퍼티가 운영하는 아브뉴프랑 입점 매장과 삼성금거래소 대리점 등에 오프라인 통합 단말기 'Npay...",
+      "pubDate": "2026-11-25T01:28:00+00:00",
+      "category": "네이버페이",
+      "source": "퍼블릭타임스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 협약...아브뉴프랑에 간편결제 도입",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=140888",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=140888",
+      "description": "호반프라퍼티가 네이버페이와 협력해 아브뉴프랑과 삼성금거래소 대리점 등에 간편결제 서비스를 도입하고 입점 매장의 운영 효율 개선을 추진한다. 호반그룹 계열사 호반프라퍼티는 지난 24일 서울 서초구 본사에서...",
+      "pubDate": "2026-11-25T01:24:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스락"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 협약…아브뉴프랑 3곳에 간편결제 도입",
+      "link": "https://n.news.naver.com/mnews/article/015/0005357920?sid=101",
+      "originallink": "https://www.hankyung.com/article/202611258911i",
+      "description": "운영 중인 상업시설 입점 매장에 네이버페이 간편결제를 도입한다. 결제 데이터를 활용해 매장 운영도 돕는다. 호반프라퍼티는 지난 24일 서울 서초구 본사에서 네이버페이와 디지털 경쟁력 강화를 위한 업무협약을...",
+      "pubDate": "2026-11-25T01:23:00+00:00",
+      "category": "네이버페이",
+      "source": "한국경제"
+    },
+    {
+      "title": "토스, 핀테크 위크서 보험금 청구·금리인하 자동 신청 서비스 선보여",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202611251018169334de3f0aa1be_7",
+      "originallink": "https://www.thepowernews.co.kr/view.php?ud=202611251018169334de3f0aa1be_7",
+      "description": "토스플레이스의 통합 결제 단말기 '토스 프론트'를 활용한 체험 프로그램 '토스철학관'도 운영한다. 방문객이 얼굴을 비추면 관상과 금전 관련 궁합을 확인할 수 있으며, 인식한 얼굴 정보는 저장하지 않는다....",
+      "pubDate": "2026-11-25T01:20:00+00:00",
+      "category": "토스페이",
+      "source": "더파워"
+    },
+    {
+      "title": "카카오페이, 핀테크 위크서 AI 금융관리·스테이블코인 로드맵 공개",
+      "link": "https://n.news.naver.com/mnews/article/138/0002249830?sid=101",
+      "originallink": "https://www.ddaily.co.kr/page/view/2026112510171014150",
+      "description": "카카오페이가 인공지능(AI) 기반 자산관리 서비스와 스테이블코인 사업 구상을 공개한다. 금융 데이터를 활용한 맞춤형 자산관리와 디지털자산 결제 기술을 중심으로 사업을 확대한다는 계획이다. 25일 카카오페이에...",
+      "pubDate": "2026-11-25T01:18:00+00:00",
+      "category": "카카오페이",
+      "source": "디지털데일리"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 손잡고 상업시설 디지털 전환",
+      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1107788",
+      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1107788",
+      "description": "간편결제 이용 환경을 확대하고 매장 안내와 홍보를 통해 고객 접근성을 높일 계획이다. 결제 데이터 분석을 통한 매장별 맞춤형 정보 제공도 추진한다. 입점 업체가 소비 흐름과 운영 현황을 파악하고 이를 경영 전략에...",
+      "pubDate": "2026-11-25T01:18:00+00:00",
+      "category": "네이버페이",
+      "source": "디스커버리뉴스(DISCOVERYNEWS)"
+    },
+    {
+      "title": "'코리아 핀테크 위크 2026' 참가하는 토스...빅테크존에 독립 부스 마련",
+      "link": "https://n.news.naver.com/mnews/article/109/0005644891?sid=105",
+      "originallink": "http://www.osen.co.kr/article/G1112914654",
+      "description": "관람객은 토스플레이스의 올인원 결제 단말기 '토스 프론트'에 설치된 '토스철학관'에서 얼굴을 비춰 간단한 관상과 돈과의 궁합을 볼 수 있다. 행사 기간에는 별도 프로그램도 마련된다. 26일에는 '토스는 왜...",
+      "pubDate": "2026-11-25T01:17:00+00:00",
+      "category": "토스페이",
+      "source": "osen"
+    },
+    {
+      "title": "카카오페이, 핀테크 위크서 AI 자산관리·스테이블코인 선보여",
+      "link": "https://n.news.naver.com/mnews/article/018/0006415215?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02282886645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "카카오페이(377300)가 인공지능(AI)을 활용한 맞춤형 자산관리 서비스와 스테이블코인 기반의 미래 금융 사업 구상을 선보인다. 카카오페이(대표 신원근)는 25일부터 27일까지 서울 양재 aT센터에서 열리는 ‘코리아...",
+      "pubDate": "2026-11-25T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "카카오페이, 핀테크 위크서 AI 자산관리 체험…스테이블코인 청사진 소...",
+      "link": "https://www.socialvalue.kr/news/view/1065575541935670",
+      "originallink": "https://www.socialvalue.kr/news/view/1065575541935670",
+      "description": "카카오페이가 맞춤형 인공지능(AI) 금융 서비스를 체험하고 스테이블코인 기반의 미래 금융 환경을 살펴볼 수 있는 전시 공간을 마련했다. 카카오페이는 25일부터 오는 27일까지 서울 양재 aT센터에서 열리는 ‘코리아...",
+      "pubDate": "2026-11-25T01:14:00+00:00",
+      "category": "카카오페이",
+      "source": "socialvalue"
+    },
+    {
+      "title": "카카오페이, AI 자산관리·디지털자산 구상 공개..핀테크 위크 참가",
+      "link": "https://kpenews.com/View.aspx?No=4328287",
+      "originallink": "https://kpenews.com/View.aspx?No=4328287",
+      "description": "한국정경신문 정주희 기­자 zooey0805@gmail.com [한국정경신문=정주희 기자] 카카오페이가 맞춤형 AI 자산관리 서비스와 스테이블코인 구상을 앞세워 미래 금융 경험을 제시한다. 소비 분석부터 자산 목표 설정까지 돕는...",
+      "pubDate": "2026-11-25T01:12:00+00:00",
+      "category": "카카오페이",
+      "source": "한국정경신문"
+    },
+    {
+      "title": "토스, ‘코리아 핀테크 위크 2026’ 참가…“혜택 대신 챙겨주는 서비스...",
+      "link": "https://n.news.naver.com/mnews/article/020/0003765005?sid=101",
+      "originallink": "https://www.donga.com/news/Economy/article/all/20261125/135086062/1",
+      "description": "방문자는 토스플레이스의 올인원 결제 단말기 ‘토스 프론트’ 내 토스 철학관에 얼굴을 비춰 간단한 관상, 돈과의 궁합을 볼 수 있다. 얼굴 정보는 저장되지 않는다. 토스는 참여자에게 기념품뿐 아니라 추첨을 통해...",
+      "pubDate": "2026-11-25T01:11:00+00:00",
+      "category": "토스페이",
+      "source": "동아일보"
+    },
+    {
+      "title": "토스, 코리아 핀테크 위크 참가…실손보험 청구·금리인하 자동 신청 소...",
+      "link": "https://n.news.naver.com/mnews/article/018/0006415208?sid=105",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02256646645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "토스플레이스의 결제 단말기 ‘토스 프론트’를 활용해 얼굴을 인식하고 재물운 등을 보여주는 ‘토스철학관’을 운영한다. 회사 측은 인식한 얼굴 정보는 저장하지 않는다고 설명했다. 26일에는 ‘토스는 왜...",
+      "pubDate": "2026-11-25T01:10:00+00:00",
+      "category": "토스페이",
+      "source": "이데일리"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 디지털 경쟁력 강화 업무협약 체결",
+      "link": "https://www.news2day.co.kr/article/20261125500058",
+      "originallink": "https://www.news2day.co.kr/article/20261125500058",
+      "description": "양사는 상업시설 운영 노하우와 결제·데이터 기술을 결합해 간편결제 도입, 데이터 분석, 공동 프로모션 등을 추진한다. 우선 호반프라퍼티가 운영하는 아브뉴프랑 입점 매장과 삼성금거래소 대리점에 오프라인 통합...",
+      "pubDate": "2026-11-25T01:06:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스투데이"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 '맞손'…간편결제 도입",
+      "link": "https://n.news.naver.com/mnews/article/003/0014343579?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261125_0003882245",
+      "description": "호반프라퍼티가 네이버페이(Npay)와 손잡고 아브뉴프랑 등 매장에 간편결제 기능을 도입한다. 호반그룹 호반프라퍼티는 지난 24일 서울 서초구 본사에서 네이버페이와 디지털 경쟁력 강화를 위한 업무협약(MOU)을...",
+      "pubDate": "2026-11-25T00:48:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 맞손 … 상업시설 디지털 전환 속도",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92624",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=92624",
+      "description": "간편결제 시스템을 확대하고 결제 데이터를 활용한 매장 운영 지원에 나서 고객 편의와 입점 업체의 사업 경쟁력을 함께 높인다는 구상이다. 호반프라퍼티는 지난 24일 서울 서초구 본사에서 네이버페이와 디지털 경쟁력...",
+      "pubDate": "2026-11-25T00:46:00+00:00",
+      "category": "네이버페이",
+      "source": "워크투데이"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 맞손…아브뉴프랑에 간편결제 도입",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327322",
+      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327322",
+      "description": "사진=호반프라퍼티 호반프라퍼티가 네이버페이와 손잡고 아브뉴프랑 입점 매장과 삼성금거래소 대리점 등에 오프라인 간편결제를 도입한다. 결제 데이터를 활용해 입점 매장의 운영과 매출 확대도 지원할 계획이다....",
+      "pubDate": "2026-11-25T00:44:00+00:00",
+      "category": "네이버페이",
+      "source": "포인트데일리"
+    },
+    {
+      "title": "토스, 핀테크 위크서 '놓친 돈 찾기' 승부수...금융 혜택 서비스 공개",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=272722",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=272722",
+      "description": "토스플레이스의 결제 단말기 '토스 프론트'를 활용한 '토스철학관'에서는 얼굴을 인식해 간단한 관상과 돈과의 궁합을 확인할 수 있다. 얼굴 정보는 저장하지 않으며, 참여자에게 기념품과 토스포인트 추첨 기회를...",
+      "pubDate": "2026-11-25T00:38:00+00:00",
+      "category": "토스페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "토스, '코리아 핀테크 위크 2026' 협력기관 첫 참가",
+      "link": "http://www.press9.kr/news/articleView.html?idxno=86976",
+      "originallink": "http://www.press9.kr/news/articleView.html?idxno=86976",
+      "description": "토스플레이스의 결제 단말기 '토스 프론트'를 활용한 '토스철학관'에서는 얼굴 인식을 통해 관상과 돈과의 궁합을 확인할 수 있다. 얼굴 정보는 별도로 저장하지 않으며 참여자에게 기념품과 추첨을 통한...",
+      "pubDate": "2026-11-25T00:32:00+00:00",
+      "category": "토스페이",
+      "source": "PRESS9"
+    },
+    {
+      "title": "호반프라퍼티, 아브뉴프랑·삼성금거래소에 'Npay 커넥트' 도입",
+      "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=421138",
+      "originallink": "https://www.bizwork.co.kr/news/articleView.html?idxno=421138",
+      "description": "양사는 상업시설 운영 역량과 결제·데이터 기술을 결합해 간편결제 도입과 데이터 분석, 공동 프로모션을 추진한다. 아브뉴프랑 입점 매장과 삼성금거래소 대리점 등에 오프라인 통합 단말기 'Npay 커넥트'를 도입한다....",
+      "pubDate": "2026-11-25T00:30:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈워크"
+    },
+    {
+      "title": "잠자는 금융 혜택 찾아주는 생활 밀착형 기술 전면 배치…토스, '코리아...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95424",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95424",
+      "description": "제1전시장 1층에 자리한 전시 공간은 11개의 미디어 화면을 통해 토스의 일상 금융 장면을 입체 아이콘으로 시각화했으며 토스플레이스의 올인원 결제 단말기 '토스 프론트'에 구현된 '토스철학관'에서는 관람객이 화면에...",
+      "pubDate": "2026-11-25T00:26:00+00:00",
+      "category": "토스페이",
+      "source": "더페어"
+    },
+    {
+      "title": "호반프라퍼티·네이버페이, 디지털 경쟁력 강화 업무협약 체결",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=122958",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=122958",
+      "description": "양사는 호반프라퍼티의 상업시설 운영 역량에 네이버페이의 결제·데이터 기술을 결합해 간편결제 서비스 구축, 데이터 분석, 공동 마케팅 등을 추진할 계획이다. 우선 판교·광명·광교 등 3개 지점으로 운영되는...",
+      "pubDate": "2026-11-25T00:26:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "호반프라퍼티·네이버페이, 상업시설 디지털 전환에 '맞손'",
+      "link": "https://www.fntimes.com/html/view.php?ud=202611250849236751b372994c95_18",
+      "originallink": "https://www.fntimes.com/html/view.php?ud=202611250849236751b372994c95_18",
+      "description": "간편결제 서비스와 데이터 분석을 접목해 고객 편의를 높이고 입점 매장의 운영 효율과 매출 확대를 지원한다. 호반그룹의 호반프라퍼티는 지난 24일 서울 서초구 본사에서 네이버페이와 디지털 경쟁력 강화를 위한...",
+      "pubDate": "2026-11-25T00:14:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융신문"
+    },
+    {
+      "title": "카이아, 헥토 손잡고 스테이블코인 기업 결제 시장 공략",
+      "link": "https://n.news.naver.com/mnews/article/018/0006415150?sid=101",
+      "originallink": "https://www.edaily.co.kr/News/Read?newsId=01981126645649328&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+      "description": "헥토월렛원은 가상자산사업자(VASP) 신고를 마친 블록체인 지갑 인프라 기업이며, 헥토파이낸셜은 간편현금결제, 가상계좌, PG, 펌뱅킹 등 결제 인프라 전반을 갖춘 전자금융 기업이다. 현재 헥토이노베이션은 카이아...",
+      "pubDate": "2026-11-25T00:13:00+00:00",
+      "category": "간편결제",
+      "source": "이데일리"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 업무협약…간편결제·데이터 활용 확대",
+      "link": "https://www.asiatime.co.kr/article/20261125500030",
+      "originallink": "https://www.asiatime.co.kr/article/20261125500030",
+      "description": "함께 간편결제 서비스를 도입하고 결제 데이터 활용을 확대한다. 이를 바탕으로 고객 편의와 상업시설 입점 매장의 디지털 경쟁력을 강화하겠다는 구상이다. (왼쪽부터) 김윤혜 호반프라퍼티 경영총괄사장과 박상진...",
+      "pubDate": "2026-11-25T00:10:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아타임즈"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 손잡고 쇼핑 편의 높인다",
+      "link": "https://n.news.naver.com/mnews/article/421/0009308436?sid=101",
+      "originallink": "https://www.news1.kr/realestate/general/6365083",
+      "description": "네이버페이는 네이버파이낸셜이 운영하는 간편결제 서비스다. 이용자가 카드나 계좌를 등록해 온라인 쇼핑몰과 오프라인 매장에서 결제할 수 있다. 네이버페이 포인트를 적립하거나 쓸 수도 있다. 김윤혜 호반프라퍼티...",
+      "pubDate": "2026-11-25T00:09:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴스1"
+    },
+    {
+      "title": "네이버페이, 호반프라퍼티와 오프라인 상업시설 공략 결제부터 상권 분...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=758426",
+      "originallink": "https://www.econovill.com/news/articleView.html?idxno=758426",
+      "description": "토스가 자체 결제 단말기로 오프라인 매장을 공략하는 등 간편결제 기업들이 앞다퉈 계산대 확보에 나선 가운데 상업시설 단위의 제휴는 다수의 매장을 한 번에 확보할 수 있는 효과적인 방법이기 때문이다. 상업시설...",
+      "pubDate": "2026-11-25T00:08:00+00:00",
+      "category": "네이버페이",
+      "source": "이코노믹리뷰"
+    },
+    {
+      "title": "오프라인 상권에 심는 핀테크 인프라…네이버페이, 호반프라퍼티와 결...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95419",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95419",
+      "description": "간편결제 플랫폼들이 온라인 중심의 결제 생태계를 넘어 대형 복합상업시설과 오프라인 가맹점 현장에 통합 단말기와 데이터 분석 솔루션을 직접 보급하며 현장 점유율 확대에 속도를 내는 가운데 네이버페이(Npay)가...",
+      "pubDate": "2026-11-25T00:08:00+00:00",
+      "category": "네이버페이",
+      "source": "더페어"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 손잡고 고객 편의·디지털 경쟁력 강화",
+      "link": "https://n.news.naver.com/mnews/article/081/0003702920?sid=101",
+      "originallink": "https://www.seoul.co.kr/news/economy/industry/2026/11/25/20261125500017?wlog_tag3=naver",
+      "description": "판교·광명·광교의 복합문화공간인 아브뉴프랑 입점 매장에 얼굴 인증 결제 ‘페이스사인’ 등 네이버페이 간편결제가 들어오게 됐다. 호반그룹의 호반프라퍼티는 지난 24일 서울 서초구 본사에서 네이버페이와 디지털...",
+      "pubDate": "2026-11-25T00:06:00+00:00",
+      "category": "네이버페이",
+      "source": "서울신문"
+    },
+    {
+      "title": "빗썸, 페이코 결제 때 비트코인 적립…전용 카드 최대 3%",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=566360",
+      "originallink": "https://www.joongangenews.com/news/articleView.html?idxno=566360",
+      "description": "혜택은 빗썸 회원가입과 고객확인(KYC)을 마치고 페이코 앱에서 제휴를 연동한 뒤 받을 수 있다. 평소 쓰던 간편결제로 소액 비트코인을 모을 수 있어 가상자산 입문자의 진입 문턱을 낮춘 셈이다. NHN페이코 관계자는...",
+      "pubDate": "2026-11-25T00:04:00+00:00",
+      "category": "페이코",
+      "source": "중앙이코노미뉴스"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 맞손…상업시설에 'Npay 커넥트' 도입",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7195573",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7195573",
+      "description": "양사는 호반프라퍼티의 상업시설 운영 역량에 네이버페이의 결제·데이터 기술을 접목해 간편결제 도입, 데이터 분석, 공동 프로모션 등에서 협력한다. 우선 아브뉴프랑 입점 매장과 삼성금거래소 대리점에 오프라인...",
+      "pubDate": "2026-11-25T00:02:00+00:00",
+      "category": "네이버페이",
+      "source": "주간한국"
+    },
+    {
+      "title": "호반프라퍼티, 네이버페이와 손잡고 얼굴결제 확대",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2122622",
+      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2122622",
+      "description": "호반프라퍼티는 11월 24일 서울 서초구 호반그룹 본사에서 네이버페이와 간편결제 도입과 입점 매장 지원을... 오프라인 얼굴결제 시장에서는 네이버페이와 토스가 이용처를 넓히고 있다. 네이버페이는 네이버 지도에서...",
+      "pubDate": "2026-11-24T23:52:00+00:00",
+      "category": "네이버페이",
+      "source": "포쓰저널"
+    },
+    {
+      "title": "호반프라퍼티-네이버페이, 업무협약… 아브뉴프랑 매장에 Npay 커넥트 도...",
+      "link": "https://n.news.naver.com/mnews/article/366/0001207126?sid=101",
+      "originallink": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/6634QMAURRDC7PKHHANZBQSCDE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "description": "양사는 간편결제 서비스 도입, 데이터 분석, 공동 프로모션 등 다양한 분야에서 협력할 계획이다. 먼저 호반프라퍼티가 운영하는 아브뉴프랑의 입점 매장을 비롯해 삼성금거래소 대리점 등을 대상으로 오프라인 통합...",
+      "pubDate": "2026-11-24T23:50:00+00:00",
+      "category": "네이버페이",
+      "source": "조선비즈"
+    },
+    {
+      "title": "빗썸·NHN페이코, 결제 시 비트코인 주는 '더블적립 카드' 출시",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=122940",
+      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=122940",
+      "description": "가상자산 거래소 빗썸이 간편결제 기업 NHN페이코와 제휴해 결제 실적에 따라 비트코인(BTC)을 지급하는 리워드 서비스와 전용 선불카드를 출시한다고 25일 밝혔다. 양사가 선보인 'PAYCO X 빗썸 더블적립'은 페이코...",
+      "pubDate": "2026-11-24T23:46:00+00:00",
+      "category": "페이코",
+      "source": "뉴스드림"
+    },
+    {
+      "title": "빗썸·NHN페이코, 결제하면 비트코인 적립 … 최대 3% 리워드 제공",
+      "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=92609",
+      "originallink": "http://www.worktoday.co.kr/news/articleView.html?idxno=92609",
+      "description": "혜택을 받으려면 빗썸 회원가입과 고객확인(KYC) 절차를 마치고 페이코 앱에서 제휴 연동을 완료해야 한다. 양사의 이번 협력은 간편결제와 가상자산을 연결해 고객 접점을 확대하려는 전략으로 풀이된다. 페이코는...",
+      "pubDate": "2026-11-24T23:44:00+00:00",
+      "category": "페이코",
+      "source": "워크투데이"
+    },
+    {
+      "title": "\"페이코 결제하면 비트코인이 쌓인다\"…빗썸, 전용 선불카드·더블적립...",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=88400",
+      "originallink": "https://www.pointe.co.kr/news/articleView.html?idxno=88400",
+      "description": "가상자산 거래소 빗썸이 간편결제 플랫폼 NHN페이코와 손을 맞잡고 결제 실적에 따라 비트코인(BTC)을 보상하는 'PAYCO X 빗썸 더블적립' 서비스와 전용 선불 포인트카드 '빗썸 더블적립 카드 by PAYCO'를 출시한다. 결제 한...",
+      "pubDate": "2026-11-24T23:12:00+00:00",
+      "category": "페이코",
+      "source": "포인트경제"
+    },
+    {
+      "title": "일상 결제 영역으로 확장된 가상자산 생태계…빗썸·NHN페이코, '더블적...",
+      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95396",
+      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95396",
+      "description": "가상자산 거래소들이 투자 중심의 거래 플랫폼을 넘어 간편결제 및 선불카드 등 일상 소비 영역과의 제휴를 통해 신규 이용자 유입과 실생활 접점 넓히기에 속도를 내는 가운데 빗썸이 NHN페이코와 손잡고 결제 연동형...",
+      "pubDate": "2026-11-24T23:06:00+00:00",
+      "category": "페이코",
+      "source": "더페어"
+    },
+    {
+      "title": "현대카드만 되던 '애플페이', 카뱅도 뚫었다…삼성페이와 경쟁 본격화",
+      "link": "https://n.news.naver.com/mnews/article/003/0014343313?sid=102",
+      "originallink": "https://www.newsis.com/view/NISX20261124_0003880603",
+      "description": "장인혜 인턴 기자 = 카카오뱅크가 애플페이 서비스를 시작하면서 현대카드가 단독으로 지원해 온 국내 아이폰 간편결제 시장에 경쟁이 본격화하고 있다. 지난 23일 뉴시스 공식 유튜브 채널 'tv 뉴시스'에 따르면...",
+      "pubDate": "2026-11-24T23:00:00+00:00",
+      "category": "삼성페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "핀테크, 원화 스테이블코인 발행 주역?…네이버·두나무 재편 주목",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=370495",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=370495",
+      "description": "디지털자산 산업의 제도화가 본격화하면서 네이버파이낸셜과 두나무의 지배구조 재편 가능성도 다시 주목받고 있다. 금융위원회는 24일 '디지털자산업의 혁신과 이용자 보호에 관한 법률' 제정안을 공개했다. 제정안은...",
+      "pubDate": "2026-11-24T22:58:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸셜투데이"
+    },
+    {
+      "title": "[위기의 핀테크 ③] 스테이블코인 새 시장 개척… 발행·결제·송금 연결",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=3000000000806",
+      "originallink": "https://it.chosun.com/news/articleView.html?idxno=3000000000806",
+      "description": "25일 핀테크 업계에 따르면 네이버페이와 토스, 카카오페이를 비롯해 KG이니시스·NHN KCP·헥토파이낸셜·쿠콘·다날 등이 국내외 금융사 및 블록체인 기업과 스테이블코인 사업을 추진하고 있다. 지난 24일 정부가...",
+      "pubDate": "2026-11-24T21:30:00+00:00",
+      "category": "간편결제",
+      "source": "IT조선"
+    },
+    {
+      "title": "카카오, 자체 AI 기술 활용 '쬬르디타운' 운영 / 카카오페이 '굿딜' 스타...",
+      "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2388328",
+      "originallink": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2388328",
+      "description": "카카오페이는 할인 결제 서비스 '굿딜'에 스타벅스를 추가해 제휴 브랜드를 111개로 확대했다. 카카오, AI 기반 '쬬르디타운' 이벤트 진행 카카오는 24일부터 30일까지 자체 AI 이미지 생성 기술 'Kanana-Kollage'로 이용자...",
+      "pubDate": "2026-11-24T14:50:00+00:00",
+      "category": "카카오페이",
+      "source": "웹이코노미"
+    },
+    {
+      "title": "안창국 금융위 상임위원 \"간편결제 서비스 확산, 여전업권에 도전이자 ...",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7195544",
+      "originallink": "https://weekly.hankooki.com/news/articleView.html?idxno=7195544",
+      "description": "사진=여신금융협회 \"간편결제 서비스 확산과 스테이블코인 등장은 여신전문금융업권(여전업권)에 도전임과 동시에 역할을 확대할 수 있는 기회이기도 하다.\" 여신금융협회가 24일 오후 서울 중구 은행연합회서 '여신금융...",
+      "pubDate": "2026-11-24T10:58:00+00:00",
+      "category": "간편결제",
+      "source": "주간한국"
+    },
+    {
+      "title": "11월 24일 카카오페이 퀴즈타임 정답…삿포로 할인·내 보험 탐험",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=410585",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=410585",
+      "description": "결제 할인액과 보험 탐험 이름을 묻는 빈칸 두 문항 11월 24일 카카오페이 퀴즈타임에 일본 삿포로 드럭스토어 결제 할인과 ‘내 보험 탐험’을 주제로 한 빈칸 문제가 나왔다. ◆ 삿포로 드럭스토어 결제 할인 삿포로...",
+      "pubDate": "2026-11-24T10:10:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "[핀테크 NOW] 네이버페이·카카오페이·더존비즈온",
+      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195178",
+      "originallink": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195178",
+      "description": "■ 카카오페이 굿딜, 스타벅스 제휴로 브랜드 111개로 확대 카카오페이가 독보적인 상시 할인 결제 서비스의 가맹 생태계를 대폭 확장하며 일상 생활 속 포용적 금융 혜택 강화에 박차를 가하고 있다. 카카오페이는 조건...",
+      "pubDate": "2026-11-24T08:52:00+00:00",
+      "category": "네이버페이",
+      "source": "위키리크스한국"
+    },
+    {
+      "title": "카카오페이, 스타벅스까지 '굿딜' 확대…상시 할인 제휴 브랜드 111개 확...",
+      "link": "https://sateconomy.co.kr/news/view/1065597538852058",
+      "originallink": "https://sateconomy.co.kr/news/view/1065597538852058",
+      "description": "지난해 3월 37개에서 3배 성장…8월 이후 13개 브랜드 추가 스타벅스 결제 시 매일 3% 할인…생활 밀착형 가맹점 중심으로 결제 접점 확대 ▲ 카카오페이가 스타벅스를 상시 할인 결제 서비스 '굿딜'에 추가했다...",
+      "pubDate": "2026-11-24T08:36:00+00:00",
+      "category": "카카오페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "카카오페이·토스도 '주민등록증 진위확인' 가능···네이버페이는 12월...",
+      "link": "https://www.koscaj.com/news/articleView.html?idxno=327620",
+      "originallink": "https://www.koscaj.com/news/articleView.html?idxno=327620",
+      "description": "카카오페이와 토스에서도 비대면 고객확인 과정에서 주민등록증의 기재정보와 사진정보를 검증하는 '주민등록증 진위확인' 서비스를 이용할 수 있다. 이에 따라 간편결제·송금 등 전자금융서비스에서도 은행·증권...",
+      "pubDate": "2026-11-24T08:12:00+00:00",
+      "category": "네이버페이",
+      "source": "대한전문건설신문"
+    },
+    {
+      "title": "인뱅 뛰어드는데 카드사는 관망···애플페이 뒤에 숨은 '삼성페이 딜레...",
+      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=425280",
+      "originallink": "https://www.sisajournal-e.com/news/articleView.html?idxno=425280",
+      "description": "카카오뱅크의 애플페이 도입에 이어 토스뱅크가 연내 서비스 출시를 추진하면서 국내 간편결제 시장의 경쟁 구도가 달라지고 있다. 현대카드의 독점 체제가 깨졌지만 신한카드와 KB국민카드 등 주요 전업 카드사들은...",
+      "pubDate": "2026-11-24T08:00:00+00:00",
+      "category": "삼성페이",
+      "source": "시사저널e"
+    },
+    {
+      "title": "AX 바람 타고 IT서비스주 강세…핀테크·보안주까지 온기 번졌다",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507606",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507606",
+      "description": "핀테크와 간편결제, 전자지급결제대행(PG) 분야에서는 카카오페이와 NHN, 헥토파이낸셜이 주요 종목으로 꼽혔다. 카카오페이는 모바일 금융·결제 플랫폼을 운영하며, NHN은 게임과 클라우드, 커머스 및 IT서비스 사업을...",
+      "pubDate": "2026-11-24T07:54:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "\"스타벅스도 조건 없이 3% 할인\"... 카카오페이, 굿딜 영토 확장",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=140849",
+      "originallink": "http://www.newslock.co.kr/news/articleView.html?idxno=140849",
+      "description": "카카오페이가 조건 없는 할인 결제 서비스의 외연을 국내 대표 커피 프랜차이즈로 넓히며 일상 결제 시장 공략에 속도를 낸다. 카카오페이(대표 신원근)가 상시 할인 결제 수단인 '굿딜'에 스타벅스가 새롭게 합류해 전체...",
+      "pubDate": "2026-11-24T07:46:00+00:00",
+      "category": "카카오페이",
+      "source": "뉴스락"
+    },
+    {
       "title": "고향사랑기부제 추천하면 네이버페이 포인트",
       "link": "http://www.cctimes.kr/news/articleView.html?idxno=938848",
       "originallink": "http://www.cctimes.kr/news/articleView.html?idxno=938848",
@@ -1330,7 +2374,7 @@
       "description": "카카오페이와 토스가 23일부터 비대면 고객확인 과정에서 주민등록증의 사진정보까지 포함해 신분증 진위를... 윤호중 행안부 장관은 \"간편결제와 송금 환경에서도 은행 수준의 정확한 신분증 진위확인이 가능해진다\"며...",
       "pubDate": "2026-11-22T03:02:00+00:00",
       "category": "카카오페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "카카오페이·토스도 주민증 진위 확인한다…은행 수준 보안 적용",
@@ -1726,7 +2770,7 @@
       "description": "2025년 8월 삼성월렛 출시 10주년 관련 이미지./삼성전자 카카오뱅크에 이어 주요 금융사들이 애플페이 도입을 추진하면서 국내 간편결제 시장의 수수료 논란이 재점화되고 있다. 삼성월렛과 달리 카드사에 수수료를...",
       "pubDate": "2026-11-20T07:00:00+00:00",
       "category": "삼성페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "네이버페이, 기업 전용 복지몰 출시…중소기업도 구축비 없이 도입",
@@ -1870,7 +2914,7 @@
       "description": "최근 카카오뱅크가 애플페이를 도입하면서 일부 카드사와 인터넷은행들도 도입을 검토하고 있다. 애플페이 수수료 부담에 국내 결제망이 위축될 수 있는 만큼 이를 막기 위한 국가 차원의 근본적인 대책 마련이...",
       "pubDate": "2026-11-20T03:10:00+00:00",
       "category": "애플페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "대한안경사협회, 네이버페이와 디지털 결제 업무협약 체결",
@@ -3112,7 +4156,7 @@
       "description": "카드업계 부담 최대 1조1000억원 추정…혜택 축소·수수료 인상 압박 가능성 카카오뱅크가 애플페이를 도입하면서 카드업계에서는 애플페이 확산에 따른 수수료 부담을 우려하는 목소리가 나온다. 애플페이 도입에 따른...",
       "pubDate": "2026-11-18T08:02:00+00:00",
       "category": "애플페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "카뱅 '애플페이' 도입에 셈법 복잡…토뱅 \"연내 도입\"·카드사 \"수수료...",
@@ -3184,7 +4228,7 @@
       "description": "카카오뱅크가 애플페이를 도입하면서 국내 간편결제 시장에 파장이 일고 있다. 간편결제 시장 확대에 대한 기대감이 커지는 가운데 금융사가 부담하는 수수료와 추가 비용이 결국 소비자 혜택 축소로 이어질 수 있다는...",
       "pubDate": "2026-11-18T07:36:00+00:00",
       "category": "애플페이",
-      "source": "프라임경제"
+      "source": "newsprime"
     },
     {
       "title": "대구 동구, 환경개선부담금 체납액 카톡 '고지·간편결제'",
@@ -4309,7 +5353,7 @@
       "description": "국내에서는 네이버페이·카카오페이 등 간편결제사뿐 아니라 삼성전자와BC카드,은행들이 해외QR결제 시장을 넓히고 있다. APEC에서의 논의 진전으로 역내 결제망이 연결되면 새 시장에 진출할 때 드는 비용을 줄일...",
       "pubDate": "2026-11-17T03:32:00+00:00",
       "category": "삼성페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "네이버페이, 베이커리 축제서 안면인식 입장·결제 지원",
@@ -5299,7 +6343,7 @@
       "description": "카카오뱅크(대표 윤호영)는 애플페이 서비스를 도입했다고 16일 밝혔다. 금융권에서 현대카드에 이은 두 번째 도입이자, 은행권 최초다. 애플페이는 컨택리스로 결제 가능한 오프라인 가맹점 및 지원 앱과 온라인에서...",
       "pubDate": "2026-11-16T06:32:00+00:00",
       "category": "애플페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "카카오뱅크, '애플페이' 도입…현대카드 독점 깨져",
@@ -5506,7 +6550,7 @@
       "description": "산업·기업 신용 동향을 요약·영상·오디오로 제공 보고서 원문도 연결 /한국신용평가 개인투자자가 네이버페이에서 채권을 발행한 기업의 신용 이슈와 업종별 동향을 살펴볼 수 있게 된다. 채권과 신용상품에 투자하는...",
       "pubDate": "2026-11-16T01:34:00+00:00",
       "category": "네이버페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "한신평, 네이버페이와 금융 리서치 제공",
@@ -7549,7 +8593,7 @@
       "description": "애플페이 연동 관련 안내 이미지./애플 홈페이지 갈무리 카카오뱅크와 토스뱅크가 연내 애플페이 도입을 추진하면서 카드업계의 셈법이 복잡해지고 있다. 애플페이 확산에 따른 경쟁 압박이 커질 것으로 예상되나 여전히...",
       "pubDate": "2026-11-10T01:22:00+00:00",
       "category": "애플페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "네이버페이, ‘2026 서울카페쇼’ 참가…‘Npay 커넥트’ 사업 알려",
@@ -11482,7 +12526,7 @@
       "description": "국내에서 사용하던 갤럭시폰과 삼성월렛을 해외에서도 그대로 활용할 수 있도록 결제 절차를 간소화한 것이 특징이다. 중국에서는 위챗페이 가맹점을 중심으로 QR결제와 음식점 등의 테이블오더 결제를 지원한다. 중국...",
       "pubDate": "2026-10-28T08:52:00+00:00",
       "category": "삼성페이",
-      "source": "딜사이트"
+      "source": "dealsite"
     },
     {
       "title": "카드·현금·앱 없이 결제…우리은행, 삼성월렛 머니 서비스 확대",
@@ -11815,7 +12859,7 @@
       "description": "해당 협약을 통해 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이 기반 QR결제를 통해 삼성월렛 머니를 이용할 수 있게 됐다. 중국 외에 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개국에서는...",
       "pubDate": "2026-10-28T07:26:00+00:00",
       "category": "삼성페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "BNK경남은행, 토스플레이스와 지역 소상공인 지원·디지털 전환 맞손",
@@ -11878,7 +12922,7 @@
       "description": "최명희 BNK경남은행 개인고객그룹 그룹장(왼쪽)과 김정열 토스플레이스 부대표가 기념촬영을 하고 있다./BNK경남은행 BNK경남은행이 지역 소상공인의 결제서비스 이용 편의성 확대를 위해 토스플레이스와 협력한다....",
       "pubDate": "2026-10-28T06:00:00+00:00",
       "category": "토스페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "BNK경남은행, 토스와 지역 소상공인 지원 확대 맞손",
@@ -12805,7 +13849,7 @@
       "description": "이번 협약에 따라 국내 삼성월렛 사용자는 중국 전역의 위챗페이(WeChat Pay) 가맹점에서 '삼성월렛 머니'로 결제할 수 있게 됐다. 삼성월렛 앱에서 결제용 QR 코드를 제시하거나 상점의 QR 코드를 직접 스캔하는 방식으로...",
       "pubDate": "2026-10-27T01:18:00+00:00",
       "category": "삼성페이",
-      "source": "metroseoul"
+      "source": "메트로신문"
     },
     {
       "title": "중국서 삼성월렛 결제, 차량 점검은 앱으로… 고객 서비스 다변화",
@@ -12931,7 +13975,7 @@
       "description": "이번 협약에 따라 한국의 삼성월렛 사용자는 중국 방문 시 텐센트에서 운영하는 결제 서비스인 위챗페이(WeChat Pay) 기반 QR 결제를 통해 중국 전역 위챗페이 가맹점에서 삼성월렛 머니로 결제할 수 있게 됐다. 사용자는...",
       "pubDate": "2026-10-27T00:46:00+00:00",
       "category": "삼성페이",
-      "source": "데이터뉴스"
+      "source": "datanews"
     },
     {
       "title": "삼성전자·텐센트 ‘삼성월렛 머니’ 해외 결제 서비스 지원 업무 협약...",
@@ -13580,466 +14624,7 @@
       "pubDate": "2026-10-26T05:33:00+00:00",
       "category": "간편결제",
       "source": "kpinews"
-    },
-    {
-      "title": "'서울 핀테크 위크 2026 컨퍼런스' [포토오늘]",
-      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205472",
-      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=205472",
-      "description": "오세훈 서울시장(오른쪽 다섯번째)과 신원근 카카오페이 대표이사, 장민영 IBK기업은행장, 진옥동 신한금융그룹 회장, 이세훈 금융감독원 수석부원장, 조용병 전국은행연합회 회장 등이 26일 오전 서울 여의도...",
-      "pubDate": "2026-10-26T05:16:00+00:00",
-      "category": "간편결제",
-      "source": "시사오늘(시사ON)"
-    },
-    {
-      "title": "머스크도 어린이 주식 선물 계획…카카오페이證 주식 수령자 중 신규 고...",
-      "link": "https://www.viva100.com/article/20261021500492",
-      "originallink": "https://www.viva100.com/article/20261021500492",
-      "description": "일론 머스크 스페이스X 최고경영자(CEO)가 미국 어린이들에게 주식을 나눠주겠다는 계획을 밝힌 가운데, 국내에서는 카카오페이증권이 주식 선물 캠페인을 통해 신규 고객을 확보한 것으로 나타났다. 회사는 내년...",
-      "pubDate": "2026-10-26T05:06:00+00:00",
-      "category": "카카오페이",
-      "source": "브릿지경제"
-    },
-    {
-      "title": "신원근 카카오페이 대표 '금융AI 에이전트가 개인의 금융생활 바꿀 것'...",
-      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=205476",
-      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=205476",
-      "description": "신원근 카카오페이 대표이사가 26일 오전 서울 여의도 콘래드호텔에서 열린 '서울 핀테크 위크 2026 컨퍼런스'에서 '금융의 새로운 전화 나만을 위한 금융 AI 에이전트' 기조강연을 하고 있다. ⓒ시사오늘 2026.10.26.",
-      "pubDate": "2026-10-26T05:04:00+00:00",
-      "category": "카카오페이",
-      "source": "시사오늘(시사ON)"
-    },
-    {
-      "title": "신원근 카카오페이 대표 “금융 AI 에이전트 시대 왔다⋯스테이블코인...",
-      "link": "https://www.etoday.co.kr/news/view/2640080",
-      "originallink": "https://www.etoday.co.kr/news/view/2640080",
-      "description": "이투데이=연희진 기자 | 한국 마이데이터 강점⋯“AI 통제·보안·책임 체계 갖춰야” 카카오페이, 소비 분석 넘어 종합 금융관리로 확장 추진 스테이블코인 준비 강조⋯AI 간 초소액 결제 등에 유리 AI가 개인의...",
-      "pubDate": "2026-10-26T05:00:00+00:00",
-      "category": "카카오페이",
-      "source": "이투데이"
-    },
-    {
-      "title": "국감서 또 도마 오른 애플페이…후발 카드사 커지는 '신중론'",
-      "link": "https://n.news.naver.com/mnews/article/629/0000545529?sid=101",
-      "originallink": "https://news.tf.co.kr/read/economy/2380643.htm",
-      "description": "수수료 논란에 정무 부담…기존 대비 유리한 계약 조건 관건 비용 전가 제한에 수익성 계산 복잡…결제 인프라 놓곤 '낙관적' 애플페이 수수료가 또다시 국정감사에서 도마에 오른 가운데 카드업계를 중심으로 신규...",
-      "pubDate": "2026-10-26T04:53:00+00:00",
-      "category": "애플페이",
-      "source": "더팩트"
-    },
-    {
-      "title": "신원근 카카오페이 대표 “금융 AI 에이전트 시대, 마이데이터가 경쟁력...",
-      "link": "https://n.news.naver.com/mnews/article/030/0003478674?sid=101",
-      "originallink": "https://www.etnews.com/20261026000252",
-      "description": "신원근 카카오페이 대표는 26일 서울 여의도에서 열린 서울핀테크위크에서 “AI가 실제로 나를 대신한 행동까지 한다”며 금융 분야에서도 AI 에이전트의 역할이 확대될 것으로 내다봤다. 신 대표는 금융 AI 에이전트가...",
-      "pubDate": "2026-10-26T04:34:00+00:00",
-      "category": "카카오페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "신원근 카카오페이 대표 \"AI 시대, 최적 결제수단은 스테이블코인\"",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092172766",
-      "originallink": "https://it.chosun.com/news/articleView.html?idxno=2023092172766",
-      "description": "신원근 카카오페이 대표가 금융 AI 에이전트 시대에 대비하려면 스테이블코인 제도 정비가 빨라져야 한다고 밝혔다. 원화 스테이블코인 법제화가 늦어지는 가운데 관련 사업에 공을 들여온 카카오페이가 공개석상에서...",
-      "pubDate": "2026-10-26T04:12:00+00:00",
-      "category": "카카오페이",
-      "source": "IT조선"
-    },
-    {
-      "title": "'서울 핀테크 위크 2026 컨퍼런스'[한 컷]",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026102612075166149",
-      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102612075166149",
-      "description": "오세훈 서울시장과 (앞 줄 왼쪽 첫 번째부터 네 번째)신원근 카카오페이 대표이사, 장민영 IBK기업은행장, 진옥동 신한금융그룹 회장, 이세훈 금융감독원 수석부원장, (앞 줄 오른쪽 두 번째) 조용병은 전국은행연합회...",
-      "pubDate": "2026-10-26T04:12:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스웨이"
-    },
-    {
-      "title": "신원근 카카오페이 대표 \"온체인 결제 인프라 구축 핵심\"[한 컷]",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026102611590100171",
-      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102611590100171",
-      "description": "'금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'에 대한 주제를 맡은 원근 카카오페이 대표이사가 26일 오전 서울 여의도 콘래드호텔에서 열린 '서울 핀테크 위크 2026 컨퍼런스'에서 기조연설을 하고 있다.",
-      "pubDate": "2026-10-26T04:10:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스웨이"
-    },
-    {
-      "title": "기조연설 맡은 신원근 카카오페이 대표[한 컷]",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026102611553940356",
-      "originallink": "https://www.newsway.co.kr/news/view?ud=2026102611553940356",
-      "description": "신원근 카카오페이 대표이사가 26일 오전 서울 여의도 콘래드호텔에서 열린 '서울 핀테크 위크 2026 컨퍼런스'에서 '금융의 새로운 전환, 나만을 위한 금융 AI 에이전트'를 주제로 기조연설을 하고 있다.",
-      "pubDate": "2026-10-26T04:08:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스웨이"
-    },
-    {
-      "title": "신원근 카카오페이 대표 \"AI코치, 투자·대출·보험 확장\"",
-      "link": "https://n.news.naver.com/mnews/article/417/0001162054?sid=101",
-      "originallink": "https://www.sidae.com/article/2026102611333523310",
-      "description": "카카오페이가 소비 분석에 머물러 있는 AI 금융 에이전트 'AI코치'의 서비스 범위를 투자·대출·보험으로 넓힌다. 이미 구매한 그래픽처리장치(GPU)를 들여와 연산 용량을 키운 뒤 금융 전반을 다루는 에이전트로...",
-      "pubDate": "2026-10-26T03:09:00+00:00",
-      "category": "카카오페이",
-      "source": "동행미디어 시대"
-    },
-    {
-      "title": "내일부터 토스도 무료반품…플랫폼 '쇼핑' 쟁탈전",
-      "link": "https://n.news.naver.com/mnews/article/374/0000539749?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000342081?division=NAVER",
-      "description": "선물하기와 톡딜 등 쇼핑 서비스를 이용하면 최대 5%를 적립해 주고, 카카오페이 결제 시 추가 적립도 제공합니다. 네이버는 다음 달 25일부터 기존에 제공하던 N배송 새벽배송을 유료 회원인 네이버플러스 멤버십 회원...",
-      "pubDate": "2026-10-26T02:49:00+00:00",
-      "category": "토스페이",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "카카오페이 \"에이전트 금융 선도국가 가능…스테이블코인 준비 서둘러야...",
-      "link": "https://n.news.naver.com/mnews/article/018/0006396234?sid=101",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02728966645616856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "이에 맞춰 최적화된 결제 수단인 스테이블코인을 중심으로 한 온체인 결제 인프라 구축에 서둘러야 합니다.” 신원근 카카오페이 대표이사가 26일 여의도 콘래드서울에서 열린 ‘서울 핀테크 위크 2026’ 첫날 ‘AX 기반...",
-      "pubDate": "2026-10-26T02:31:00+00:00",
-      "category": "카카오페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "토스, 간편결제에서 쇼핑까지 전선 확대...커머스 영역 생태계 경쟁 본...",
-      "link": "https://www.techm.kr/news/articleView.html?idxno=156456",
-      "originallink": "https://www.techm.kr/news/articleView.html?idxno=156456",
-      "description": "이러한 토스의 쇼핑 사업 확대는 네이버와의 경쟁 구도가 커머스 영역으로 확장되고 있다는 점에서도 주목된다. 양사는 이미 간편결제와 금융 서비스를 비롯한 다양한 사업 영역에서 경쟁을 벌이고 있다. 이 가운데...",
-      "pubDate": "2026-10-26T02:20:00+00:00",
-      "category": "토스페이",
-      "source": "테크M"
-    },
-    {
-      "title": "네이버 이어 토스도 ‘얼굴결제 전쟁’…20% 적립으로 승부",
-      "link": "https://n.news.naver.com/mnews/article/117/0004118359?sid=103",
-      "originallink": "https://www.mydaily.co.kr/page/view/2026102611105951589",
-      "description": "토스의 이번 프로모션은 간편결제 업계가 얼굴 인식 기술을 활용한 결제 서비스 확대에 속도를 내는 가운데 나왔다. 앞서 네이버페이는 지난 13일부터 얼굴 인식 결제 서비스 ‘페이스사인’ 이용 고객에게 결제...",
-      "pubDate": "2026-10-26T02:14:00+00:00",
-      "category": "토스페이",
-      "source": "마이데일리"
-    },
-    {
-      "title": "배민·교촌치킨 할인 행사…쿠팡·토스는 결제 적립 혜택 확대",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=189877",
-      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=189877",
-      "description": "쿠팡과 토스도 카드 및 간편결제 이용 고객을 대상으로 적립 혜택을 확대한다. 배달의민족 운영사 우아한형제들은 11월 1일까지 맥도날드 신메뉴 '빅아치'를 3000원 할인하는 프로모션을 진행한다. 배민에서만...",
-      "pubDate": "2026-10-26T02:14:00+00:00",
-      "category": "토스페이",
-      "source": "한국면세뉴스"
-    },
-    {
-      "title": "카카오페이 '新성장' 뭘로 하나 … 증권 시들, 스테이블코인 답보",
-      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61088",
-      "originallink": "https://www.ilovepc.co.kr/news/articleView.html?idxno=61088",
-      "description": "디지털포스트(PC사랑 AI 에디션) 이백현 기자 = 3분기 영업익 317억 전망… 46% 감소 내년 영업익 전망치도 16.4% 하향 주식 거래대금 위축에 금융사업 주춤 새로운 성장동력 가시화 멀어 사진=카카오페이 [디지털포스트...",
-      "pubDate": "2026-10-26T02:02:00+00:00",
-      "category": "카카오페이",
-      "source": "디지털포스트(PC사랑 AI 에디션)"
-    },
-    {
-      "title": "불붙은 얼굴결제 경쟁…토스, 페이스페이 20% 적립 프로모션",
-      "link": "https://www.ajunews.com/view/20261026104017466",
-      "originallink": "https://www.ajunews.com/view/20261026104017466",
-      "description": "토스는 토스플레이스의 50만개 가맹점을 기반으로 페이스페이 생태계 확장에 속도를 내고 있다. 토스 페이스페이 누적 가입자는 이달 900만명을 돌파했다. 지난해 9월 정식 출시 이후 올해 초 200만명, 6월 600만명으로...",
-      "pubDate": "2026-10-26T01:58:00+00:00",
-      "category": "토스페이",
-      "source": "아주경제"
-    },
-    {
-      "title": "[금융계 소식] 메리츠증권·하나증권·신한투자증권·DB증권·토스",
-      "link": "https://sateconomy.co.kr/news/view/1065577546126622",
-      "originallink": "https://sateconomy.co.kr/news/view/1065577546126622",
-      "description": "결제금액의 30%를 하루 최대 2000원까지 적립하고, CU에서는 오전 6시부터 오후 1시까지 간편식 구매 시 최대 4000원 한도로 40% 할인한다. 다만 20% 적립 프로모션과 가맹점별 혜택은 중복 적용하지 않는다. 토스에 따르면...",
-      "pubDate": "2026-10-26T01:56:00+00:00",
-      "category": "토스페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "치열해지는 '얼굴결제' 혜택 전쟁… 토스, 결제 금액 20% 적립",
-      "link": "https://n.news.naver.com/mnews/article/008/0005431534?sid=101",
-      "originallink": "https://www.mt.co.kr/finance/2026/10/26/2026102609495923828",
-      "description": "얼굴 인식 결제를 활성화하려는 간편결제사의 프로모션 경쟁이 치열해지고 있다. 네이버페이가 '페이스사인' 결제에 10% 적립 이벤트를 진행하자 '페이스페이'를 서비스하는 토스는 20% 혜택으로 맞불을 놨다. 토스는...",
-      "pubDate": "2026-10-26T01:44:00+00:00",
-      "category": "토스페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "\"토스 페이스페이 가입자 900만 명 돌파\" 결제액 20% 적립으로 얼굴 결제...",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=754814",
-      "originallink": "https://www.econovill.com/news/articleView.html?idxno=754814",
-      "description": "지갑이나 휴대전화를 꺼내지 않고 얼굴 인식만으로 결제할 수 있다는 점이 특징이다. 토스는 이 편리함을... 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식을...",
-      "pubDate": "2026-10-26T01:32:00+00:00",
-      "category": "토스페이",
-      "source": "이코노믹리뷰"
-    },
-    {
-      "title": "네이버 ‘10% 적립’ 내놓자…토스, 페이스페이 20% 적립 ‘맞불’",
-      "link": "https://n.news.naver.com/mnews/article/009/0005753850?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12185477",
-      "description": "토스, 최대 6만원 적립 프로모션 토스가 얼굴 인식 결제 서비스 ‘페이스페이’ 이용 고객에게 결제 금액의... GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립해준다. CU에서는 오전 6시부터 오후 1시 사이 간편식...",
-      "pubDate": "2026-10-26T01:23:00+00:00",
-      "category": "토스페이",
-      "source": "매일경제"
-    },
-    {
-      "title": "토스, 연말까지 페이스페이 20% 적립…최대 6만원 혜택",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368077",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=368077",
-      "description": "별도로 지갑이나 휴대전화를 꺼내지 않고 얼굴 인식만으로 결제할 수 있는 것이 특징이다. 토스는... GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립 받을 수 있고, CU에서는 오전 6시부터 오후 1시까지 간편식...",
-      "pubDate": "2026-10-26T00:56:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜투데이"
-    },
-    {
-      "title": "토스, 페이스페이 연말까지 20% 적립…오프라인 결제 확대",
-      "link": "https://www.viva100.com/article/20261026500225",
-      "originallink": "https://www.viva100.com/article/20261026500225",
-      "description": "토스가 얼굴 인식 결제 서비스 페이스페이(FacePay)의 이용 활성화를 위해 연말까지 결제 금액의 20%를 적립해... GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립할 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편...",
-      "pubDate": "2026-10-26T00:42:00+00:00",
-      "category": "토스페이",
-      "source": "브릿지경제"
-    },
-    {
-      "title": "토스 페이스페이 가입자 900만명...연말까지 결제액 20% 적립",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709812",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709812",
-      "description": "토스가 얼굴 인식 결제 서비스 '페이스페이(FacePay)' 이용 확대를 위해 결제금액의 20%를 적립하는... GS25에서는 결제금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식을...",
-      "pubDate": "2026-10-26T00:36:00+00:00",
-      "category": "토스페이",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "\"결제액 20% 돌려받자\"…토스, 페이스페이 적립 혜택 확대",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=282425",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=282425",
-      "description": "토스는 얼굴 인식 결제 서비스 '페이스페이' 이용 활성화를 위해 결제 금액의 20%를 적립해 주는 프로모션을... 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식 구매...",
-      "pubDate": "2026-10-26T00:28:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "\"괴산김장축제서 네이버페이 2만 포인트 받자\"",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=454623",
-      "originallink": "https://www.goodmorningcc.com/news/articleView.html?idxno=454623",
-      "description": "충북 괴산군이 '2026 괴산 김장축제'를 기념해 네이버페이 2만 포인트를 지급한다. 26일 군에 따르면 이날부터 다음달 8일까지 민간 기부 플랫폼 '위기브'에서 괴산군에 10만 원 이상 기부하고 이벤트 페이지에 안내된...",
-      "pubDate": "2026-10-26T00:20:00+00:00",
-      "category": "네이버페이",
-      "source": "굿모닝충청"
-    },
-    {
-      "title": "괴산 김장축제 연계 '고향사랑기부' 300명에 네이버페이 지급",
-      "link": "https://www.newspim.com/news/view/20261026000176",
-      "originallink": "https://www.newspim.com/news/view/20261026000176",
-      "description": "괴산군이 11월 김장축제와 연계해 고향사랑기부 참여자를 대상으로 네이버페이 포인트를 지급한다. 괴산군은 오는 11월 8일까지 민간 기부 플랫폼 위기브에서 10만원 이상 기부하고 지정 답례품을 선택한 참여자 중...",
-      "pubDate": "2026-10-26T00:07:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스핌"
-    },
-    {
-      "title": "토스, 연말까지 페이스페이 20% 적립 이벤트…최대 6만원 혜택",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323502",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=323502",
-      "description": "토스는 이와 별도로 주요 제휴 가맹점에서 할인 및 적립 혜택도 운영한다. GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시 사이 간편식을 구매할 경우 최대 4000원...",
-      "pubDate": "2026-10-26T00:06:00+00:00",
-      "category": "토스페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "토스, 페이스페이 결제액 20% 적립",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484235",
-      "originallink": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484235",
-      "description": "토스가 얼굴 인식 결제 서비스 '페이스페이' 이용 고객을 대상으로 결제 금액의 20%를 적립해 주는 행사를... 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식을...",
-      "pubDate": "2026-10-26T00:03:00+00:00",
-      "category": "토스페이",
-      "source": "이뉴스투데이"
-    },
-    {
-      "title": "카카오페이, 주식 거래 위축에 3분기 실적 '주춤'…새 성장동력 절실",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=752252",
-      "originallink": "http://www.newsprime.co.kr/news/article.html?no=752252",
-      "description": "한국투자증권은 26일 카카오페이(377300)에 대해 주식 거래대금 감소로 3분기 실적이 시장 기대치를 밑돌 것으로 예상되는 가운데 새로운 성장동력 확보가 필요하다며 투자의견 '중립'을 유지했다. 목표주가는 별도로...",
-      "pubDate": "2026-10-25T23:54:00+00:00",
-      "category": "카카오페이",
-      "source": "프라임경제"
-    },
-    {
-      "title": "토스, 페이스페이 결제액 20% 적립…연말까지 프로모션",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075749",
-      "originallink": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075749",
-      "description": "대상 여부는 토스 애플리케이션(앱) 내 페이스페이 혜택 화면에서 확인할 수 있다. 가맹점별 혜택도 제공한다. GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립한다. CU에서는 오전 6시부터 오후 1시까지 간편식...",
-      "pubDate": "2026-10-25T23:52:00+00:00",
-      "category": "토스페이",
-      "source": "신아일보"
-    },
-    {
-      "title": "토스, 30일간 페이스페이 결제액 20% 적립 프로모션",
-      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319549",
-      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=319549",
-      "description": "여부는 토스 앱 내 페이스페이 혜택 화면에서 확인할 수 있다. 가맹점별 결제 혜택도 마련했다. GS25에서는 결제 금액의 30%를 하루 최대 2000원까지 적립받을 수 있으며, CU에서는 오전 6시부터 오후 1시까지 간편식을...",
-      "pubDate": "2026-10-25T23:52:00+00:00",
-      "category": "토스페이",
-      "source": "월요신문"
-    },
-    {
-      "title": "토스, 얼굴 인식 결제 '페이스페이' 20% 적립 프로모션",
-      "link": "https://n.news.naver.com/mnews/article/018/0006396084?sid=105",
-      "originallink": "https://www.edaily.co.kr/News/Read?newsId=02128726645616856&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-      "description": "토스가 얼굴 인식 결제 서비스 ‘페이스페이(FacePay)’ 이용 활성화를 위해 결제 금액의 20%를 적립해 주는... 결제 금액의 30%를 하루 최대 2000원까지 적립 받을 수 있다. CU에서는 오전 6시부터 오후 1시까지 간편식 구매...",
-      "pubDate": "2026-10-25T23:51:00+00:00",
-      "category": "토스페이",
-      "source": "이데일리"
-    },
-    {
-      "title": "괴산군, 고향사랑기부 300명에게 네이버페이 2만포인트 쏜다",
-      "link": "https://n.news.naver.com/mnews/article/421/0009248992?sid=102",
-      "originallink": "https://www.news1.kr/local/sejong-chungbuk/6331375",
-      "description": "조건을 충족한 선착순 300명에게 네이버페이 2만 포인트를 지급한다. 고향사랑기부자는 세액공제와 기부 금액 30% 상당의 답례품을 받는다. 세액공제율은 10만 원까지 전액, 10만 원 초과 20만 원 이하는 44%, 20만 원...",
-      "pubDate": "2026-10-25T23:43:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "한투證 \"카카오페이, 증시 조정에 성장성 둔화…새 성장동력 필요\"",
-      "link": "https://n.news.naver.com/mnews/article/421/0009248993?sid=101",
-      "originallink": "https://www.news1.kr/finance/market-exr/6331328",
-      "description": "한국투자증권은 26일 카카오페이(377300)에 대해 '중립' 수준의 투자 의견을 유지했다. 밸류에이션 부담은 낮아졌지만, 주식시장 조정에 카카오페이증권의 성장성 둔화가 불가피한 만큼 새로운 성장 동력이 필요하다는...",
-      "pubDate": "2026-10-25T23:43:00+00:00",
-      "category": "카카오페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "\"카카오페이, 주식 거래대금 감소에 3Q 영업익 전망치 밑돌 듯\"-한투",
-      "link": "https://n.news.naver.com/mnews/article/008/0005431407?sid=101",
-      "originallink": "https://www.mt.co.kr/stock/2026/10/26/2026102608125913691",
-      "description": "한국투자증권이 주식 거래대금 위축으로 카카오페이의 3분기 영업이익이 시장 전망치를 밑돌 것이라고 26일 분석했다. 투자의견 '중립'을 유지하고 목표주가는 제시하지 않았다. 정호윤·황인준 한국투자증권 연구원은...",
-      "pubDate": "2026-10-25T23:43:00+00:00",
-      "category": "카카오페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "\"카드 찾던 손, 잠시 쉬세요\"...토스 '페이스페이'로 결제하면 20% 적립",
-      "link": "https://www.insight.co.kr/news/579096",
-      "originallink": "https://www.insight.co.kr/news/579096",
-      "description": "토스는 편의점과 외식, 서점 등 평소 자주 찾는 매장에서 페이스페이를 이용할 수 있도록 결제 혜택을 마련했다.출근길 간편식을 사거나 집에 돌아가는 길에 편의점에 들를 때도 이용 조건에 따라 할인과 적립을 받을...",
-      "pubDate": "2026-10-25T23:40:00+00:00",
-      "category": "토스페이",
-      "source": "인사이트"
-    },
-    {
-      "title": "서울시, '핀테크 주간' 2026년 10월 여의도서 개최",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3732164",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3732164",
-      "description": "신원근 카카오페이 대표이사는 '금융 AI 에이전트'를 주제로 기조연설을 진행한다. 26일부터 28일까지... 27일에는 제2서울핀테크랩과 네이버클라우드가 함께하는 데모데이, 그리고 서울핀테크랩과 IBK기업은행이...",
-      "pubDate": "2026-10-25T23:36:00+00:00",
-      "category": "간편결제",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "\"얼굴로 결제하고 20% 적립\"…토스, 연말까지 '페이스페이' 대규모 프로...",
-      "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91800",
-      "originallink": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91800",
-      "description": "결제액의 30%를 적립받을 수 있고 CU에서는 오전 6시부터 오후 1시 사이 간편식 구매 시 최대 4,000원 한도로 40% 즉시 할인을 제공한다. 영풍문고, 피자헛 등 생활 밀착형 브랜드에서도 전용 혜택이 연계된다. 토스...",
-      "pubDate": "2026-10-25T23:34:00+00:00",
-      "category": "토스페이",
-      "source": "더페어"
-    },
-    {
-      "title": "한국투자증권 \"카카오페이 실적 회복세 미확인…목표가 중립\"",
-      "link": "https://www.jasm.co.kr/news/view/322834/?sc=Naver",
-      "originallink": "https://www.jasm.co.kr/news/view/322834/?sc=Naver",
-      "description": "카카오페이가 증시 거래대금 감소에 따른 증권 자회사의 매출 위축으로 올해 3분기 다소 아쉬운 실적을 기록할 것이라는 전망이 나왔다. 한국투자증권은 26일 보고서를 통해 카카오페이에 대한 투자의견 '중립(Hold)'을...",
-      "pubDate": "2026-10-25T23:22:00+00:00",
-      "category": "카카오페이",
-      "source": "중앙신문"
-    },
-    {
-      "title": "주식 거래대금 위축에 카카오페이 '급브레이크'…다음 성장 카드는",
-      "link": "https://n.news.naver.com/mnews/article/014/0005594187?sid=101",
-      "originallink": "https://www.fnnews.com/news/202610260713133001",
-      "description": "한국투자증권은 26일 카카오페이에 대해 주식 거래대금 감소로 올해 3·4분기 실적이 시장 기대치를 밑돌 것으로 전망했다. 투자의견은 '중립'을 유지했다. 정호윤 한국투자증권 연구원은 \"3·4분기 매출액과 영업이익은...",
-      "pubDate": "2026-10-25T23:16:00+00:00",
-      "category": "카카오페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "괴산김장축제 고향사랑기부 이벤트…300명에 네이버페이 지급",
-      "link": "https://n.news.naver.com/mnews/article/001/0016399519?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20261026018100064?input=1195m",
-      "description": "선착순 300명에게 네이버페이 2만포인트를 지급한다. 10만원 기부 시 세액공제(전액) 혜택과 함께 3만원 상당의 답례품, 네이버페이 2만포인트를 받는 셈이다. 답례품은 김장축제 이용권 등 이벤트 페이지에서 고르면...",
-      "pubDate": "2026-10-25T23:06:00+00:00",
-      "category": "네이버페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[가보니] [카카오페이] 디지털 금융 사각지대 타파 위해 대학생이 떴다",
-      "link": "https://news.dealsitetv.com/articles/177182",
-      "originallink": "https://news.dealsitetv.com/articles/177182",
-      "description": "특히 이날 AI 캠퍼스에 모인 대학생들은 지난 7월, 카카오페이와 아이들과미래재단이 함께 운영하는 청년 디지털 금융 리더 양성 프로그램에 선발된 '사각사각 서포터즈' 1기다 보니 첫 기수다운 뜨거운 에너지가 넘쳤다....",
-      "pubDate": "2026-10-25T23:02:00+00:00",
-      "category": "카카오페이",
-      "source": "DealSite경제TV"
-    },
-    {
-      "title": "[르포]\"김천김밥축제선 줄 안서요\"…카카오페이 'QR 오더'가 바꾼 풍경",
-      "link": "https://n.news.naver.com/mnews/article/648/0000051918?sid=101",
-      "originallink": "https://news.bizwatch.co.kr/article/finance/2026/10/25/0002",
-      "description": "카카오페이가 도입한 QR 오더가 축제 풍경을 바꾼 모습이었다. 지난 24일 오전 10시께 김천구미역에서 셔틀버스를 타고 '2026 김천김밥축제' 현장으로 향했다. 축제는 오전 9시부터 시작된 터라 마음이 급했다. 버스...",
-      "pubDate": "2026-10-25T23:00:00+00:00",
-      "category": "카카오페이",
-      "source": "bizwatch"
-    },
-    {
-      "title": "괴산군, 26일~11월 8일 고향사랑기부 이벤트…선착순 300명 네이버페이...",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114565",
-      "originallink": "https://news.bbsi.co.kr/news/articleView.html?idxno=4114565",
-      "description": "기간 중 위기브 전용 링크로 괴산군에 10만원 이상 기부하고 대상 답례품을 고른 선착순 300명에게 네이버페이 2만 포인트를 줍니다. 10만원을 기부하면 세액공제와 3만원 상당의 답례품, 네이버페이 2만 포인트를 받는...",
-      "pubDate": "2026-10-25T22:54:00+00:00",
-      "category": "네이버페이",
-      "source": "불교방송"
-    },
-    {
-      "title": "[현장] 채병득號 금결원, 네이버페이와 AI 결제 실증…디지털자산 시대...",
-      "link": "https://www.fntimes.com/html/view.php?ud=2026102318251636181b5a221379_18",
-      "originallink": "https://www.fntimes.com/html/view.php?ud=2026102318251636181b5a221379_18",
-      "description": "네이버페이와 진행 중인 AI 결제 에이전트 개념검증(PoC)부터 디지털화폐를 활용한 결제망 구축, AI 금융의 현장 적용 방안까지 논의가 이어졌다. 안전한 디지털금융 생태계 조성 금융결제원은 23일 서울...",
-      "pubDate": "2026-10-25T21:02:00+00:00",
-      "category": "네이버페이",
-      "source": "한국금융신문"
-    },
-    {
-      "title": "‘내 돈 아는 AI’가 금융 비서로…여의도에 핀테크 총집결",
-      "link": "https://n.news.naver.com/mnews/article/029/0003055122?sid=101",
-      "originallink": "https://www.dt.co.kr/article/12091126?ref=naver",
-      "description": "신원근 카카오페이 대표는 ‘나만을 위한 금융 AI 에이전트’를 주제로 기조연설을 맡는다. 금융 분야 AI 전환과 해외 핀테크 협력 방안을 다루는 토론회도 진행된다. 기업을 위한 프로그램도 이어진다. 26~27일 약...",
-      "pubDate": "2026-10-25T20:00:00+00:00",
-      "category": "간편결제",
-      "source": "디지털타임스"
-    },
-    {
-      "title": "AI로 바뀌는 미래 금융서비스를 한눈에… ‘서울 핀테크 위크 2026’ 개최",
-      "link": "https://n.news.naver.com/mnews/article/020/0003757581?sid=102",
-      "originallink": "https://www.donga.com/news/Society/article/all/20261025/134905656/2",
-      "description": "이어 행사 기조연설자로 신원근 카카오페이 대표가 개인의 금융 데이터를 활용하는 AI 에이전트의 발전... 서울핀테크랩은 네이버클라우드와 함께 6개 기업의 발표를 진행하고, 우수기업에 입주 연계와 클라우드 이용...",
-      "pubDate": "2026-10-25T19:36:00+00:00",
-      "category": "간편결제",
-      "source": "동아일보"
-    },
-    {
-      "title": "금융 AI부터 스테이블코인까지…'서울 핀테크 위크 2026' 개막",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709765",
-      "originallink": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709765",
-      "description": "기조연설은 신원근 카카오페이 대표가 맡는다. 신 대표는 '금융의 새로운 전환, 나만을 위한 금융 AI... 오전에는 제2서울핀테크랩과 네이버클라우드가 공동으로 마련한 데모데이에서 사전 선발된 6개 기업이...",
-      "pubDate": "2026-10-25T13:12:00+00:00",
-      "category": "간편결제",
-      "source": "디지털투데이"
-    },
-    {
-      "title": "AI가 바꾸는 금융의 미래…‘서울 핀테크 위크’ 26일 개막",
-      "link": "https://n.news.naver.com/mnews/article/011/0004674942?sid=102",
-      "originallink": "https://www.sedaily.com/article/20105525?ref=naver",
-      "description": "이어 신원근 카카오페이 대표가 ‘나만을 위한 금융 AI 에이전트’를 주제로 기조연설에 나선다. 금융 AI... 제2서울핀테크랩과 네이버클라우드가 선정한 6개사, 서울핀테크랩과 IBK기업은행이 선정한 12개사가 각각...",
-      "pubDate": "2026-10-25T09:22:00+00:00",
-      "category": "간편결제",
-      "source": "서울경제"
     }
   ],
-  "lastFetch": "2026-11-24T06:59:21.552781+00:00"
+  "lastFetch": "2026-11-25T05:27:20.175445+00:00"
 }
