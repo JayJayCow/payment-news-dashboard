@@ -1,6 +1,240 @@
 {
   "articles": [
     {
+      "title": "에이핑크 오하영, 카카오페이 롱런 션과 동참",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16288340",
+      "originallink": "https://www.topstarnews.net/news/articleView.html?idxno=16288340",
+      "description": "에이핑크 오하영, 카카오페이 롱런 션과 동참. 에이핑크 오하영이 카카오페이 롱런 션과 동참했다. 에이핑크 오하영은 11월 28일 오후 인스타그램에 \"카카오페이 X 션과 함께 2026 LONG RUN 함께 달려, 더 오래 뽐언니와...",
+      "pubDate": "2026-11-28T03:22:00+00:00",
+      "category": "카카오페이",
+      "source": "톱스타뉴스"
+    },
+    {
+      "title": "케이뱅크, 네이버페이 데이터로 사장님 대출 넓힌다...최대 3억원",
+      "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=273384",
+      "originallink": "https://www.asiaa.co.kr/news/articleView.html?idxno=273384",
+      "description": "케이뱅크가 네이버페이와 손잡고 개인사업자 대출 심사를 고도화한다. 기존 금융정보에 결제·쇼핑·판매 등 비금융데이터를 결합해 신용평가 범위를 넓히는 방식이다. 금융거래 이력만으로 신용도를 판단하기 어려웠던...",
+      "pubDate": "2026-11-28T00:06:00+00:00",
+      "category": "네이버페이",
+      "source": "아시아A"
+    },
+    {
+      "title": "케이뱅크, '네이버페이 사장님 신용대출' 출시",
+      "link": "https://www.ajunews.com/view/20261127163203013",
+      "originallink": "https://www.ajunews.com/view/20261127163203013",
+      "description": "결제·판매 데이터 활용 대안신용평가 강화 아주경제=권가림 기자 hidden@ajunews.com 케이뱅크는 네이버페이의 대안신용평가를 접목한 '네이버페이 사장님 신용대출'을 출시했다고 28일 밝혔다. 대출 대상은 사업자등록 후...",
+      "pubDate": "2026-11-28T00:02:00+00:00",
+      "category": "네이버페이",
+      "source": "아주경제"
+    },
+    {
+      "title": "미국 핀테크 인프라주 동반 강세…NHN KCP·KG이니시스도 수혜 '촉각'",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509088",
+      "originallink": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509088",
+      "description": "금융 플랫폼과 디지털 금융 서비스 분야에서는 카카오페이와 헥토파이낸셜도 관련 흐름을 살펴볼 만하다. 간편결제와 송금, 정산 서비스의 이용이 늘어나면 결제 인프라 사업자의 거래 처리 규모와 수익성 개선 기대가...",
+      "pubDate": "2026-11-27T22:16:00+00:00",
+      "category": "간편결제",
+      "source": "핀포인트뉴스"
+    },
+    {
+      "title": "10년째 답 못 찾은 하나금융의 핀테크 실험…핀크, 돌파구는",
+      "link": "https://n.news.naver.com/mnews/article/629/0000556433?sid=101",
+      "originallink": "https://news.tf.co.kr/read/economy/2394246.htm",
+      "description": "그러나 지난 10년간 국내 핀테크 시장은 토스와 카카오페이 등 대형 사업자를 중심으로 재편됐다. 토스가 간편송금으로 확보한 고객 기반을 토대로 은행과 증권 등으로 사업 영역을 확장한 것과 달리 핀크는...",
+      "pubDate": "2026-11-27T15:01:00+00:00",
+      "category": "간편결제",
+      "source": "더팩트"
+    },
+    {
+      "title": "네이버페이, 대출 중개 넘어 신용심사 영역 진출…금융 경쟁력 강화",
+      "link": "https://www.thedailypost.kr/news/articleView.html?idxno=117365",
+      "originallink": "https://www.thedailypost.kr/news/articleView.html?idxno=117365",
+      "description": "|데일리포스트=송협 대표기자| \"Npay의 방대한 데이터 역량을 바탕으로 더 많은 개인과 사업자를 포용할 수 있는 금융 서비스를 만들어 가겠습니다\" (Npay 관계자) 네이버페이(Npay)가 케이뱅크·웰컴저축은행과 제휴해...",
+      "pubDate": "2026-11-27T12:24:00+00:00",
+      "category": "네이버페이",
+      "source": "데일리포스트"
+    },
+    {
+      "title": "\"얼굴 결제\" 선점, 네이버페이·토스 사투…할인·적립에 체험 행사까지",
+      "link": "https://www.consumuch.com/news/articleView.html?idxno=79638",
+      "originallink": "https://www.consumuch.com/news/articleView.html?idxno=79638",
+      "description": "얼굴만 비추면 결제가 끝나는 '얼굴 결제' 시장에서 네이버페이와 토스가 이용자 확보전을 벌이고 있다. 결제금액의 일정 비율을 포인트로 돌려주는 프로모션을 진행하는 한편 오프라인 행사에도 참여해 소비자 접점을...",
+      "pubDate": "2026-11-27T09:48:00+00:00",
+      "category": "네이버페이",
+      "source": "컨슈머치"
+    },
+    {
+      "title": "나주시, 고향사랑기부 참여자 333명에 네이버페이 포인트 추가 지급",
+      "link": "http://www.newsmaker.or.kr/news/articleView.html?idxno=186581",
+      "originallink": "http://www.newsmaker.or.kr/news/articleView.html?idxno=186581",
+      "description": "나주시가 고향사랑기부 참여자 선착순 333명에게 네이버페이 2만 포인트를 추가로 지급한다. 나주시에 10만 원 이상 기부하면 세액공제와 답례품을 포함해 최대 15만 원 상당의 혜택을 받을 수 있다. 이벤트는 11월...",
+      "pubDate": "2026-11-27T09:18:00+00:00",
+      "category": "네이버페이",
+      "source": "Ŀ"
+    },
+    {
+      "title": "웰컴저축은행, 네이버페이와 대안신용평가 대출 출시…금융 접근성 확대",
+      "link": "https://sateconomy.co.kr/news/view/1065584198299162",
+      "originallink": "https://sateconomy.co.kr/news/view/1065584198299162",
+      "description": "결제·쇼핑·금융자산 정보 여신심사에 반영 최대 한도 1억원…금리 연 9.90~15.27% ▲ [연합뉴스] 웰컴저축은행이 네이버페이와 손잡고 금융거래 이력이 부족한 고객을 위한 신용대출 상품을 선보인다. 웰컴저축은행은...",
+      "pubDate": "2026-11-27T09:16:00+00:00",
+      "category": "네이버페이",
+      "source": "위성경제신문"
+    },
+    {
+      "title": "정맥으로 결제하고, 단말기가 사주보고…코리아핀테크위크 가보니",
+      "link": "https://news.mtn.co.kr/article/2026112716193736487",
+      "originallink": "https://news.mtn.co.kr/article/2026112716193736487",
+      "description": "[기사내용]140개 기업·기관이 선보인 핀테크 혁신의 방점은 간편결제와 AI 에이전트에 찍혔습니다.네이버페이가 시연한 핸드 사인 간편결제. 손바닥을 인식시키는 것만으로 결제가 완료되는 기술입니다.병원에서 사용할...",
+      "pubDate": "2026-11-27T08:38:00+00:00",
+      "category": "간편결제",
+      "source": "MTN NEWS"
+    },
+    {
+      "title": "네이버페이, 대출심사도 직접 한다…쇼핑·매출 데이터로 신용평가",
+      "link": "https://n.news.naver.com/mnews/article/016/0002729652?sid=101",
+      "originallink": "https://biz.heraldcorp.com/article/10952180?ref=naver",
+      "description": "네이버페이가 대출 비교를 넘어 금융회사의 대출심사까지 직접 맡는다. 금융거래 이력만으로는 파악하기 어려운 차주의 상환능력을 쇼핑·결제 내역과 사업장 매출 등 비금융데이터로 평가해 씬파일러와 중·저신용자...",
+      "pubDate": "2026-11-27T08:26:00+00:00",
+      "category": "네이버페이",
+      "source": "헤럴드경제"
+    },
+    {
+      "title": "GLN, 말레이시아 QR결제 서비스 출시…글로벌 17개국으로 확대",
+      "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=7343",
+      "originallink": "https://www.newscammp.co.kr/news/articleView.html?idxno=7343",
+      "description": "통해 간편하게 결제할 수 있게 됐다. 가맹점 QR결제(P2M)뿐만 아니라 개인 간 QR결제(P2P)도 지원한다. 고객은 퍼플GLN, 토스, 하나원큐, 하나머니, 하나페이 등 국내 주요 앱을 이용해 별도의 현지 계좌 개설이나 추가...",
+      "pubDate": "2026-11-27T08:26:00+00:00",
+      "category": "간편결제",
+      "source": "뉴스캠프"
+    },
+    {
+      "title": "웰컴저축은행, 네이버페이와 대안신용평가 협력",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=668999",
+      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=668999",
+      "description": "사진=웰컴저축은행 한국금융경제신문=양지훈 기자 | 웰컴저축은행이 네이버페이의 비금융정보 기반 신용평가 기술을 대출 심사에 도입하며 포용금융 확대에 나선다. 금융거래 이력이 부족해 기존 신용평가 체계에서...",
+      "pubDate": "2026-11-27T08:00:00+00:00",
+      "category": "네이버페이",
+      "source": "한국금융경제신문"
+    },
+    {
+      "title": "얼굴로 결제하는 시대…네이버·토스는 왜 '페이스페이' 집중할까",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026112715412806233",
+      "originallink": "https://www.newsway.co.kr/news/view?ud=2026112715412806233",
+      "description": "27일 정보기술(IT) 업계에 따르면 네이버페이와 토스는 얼굴 인식 결제 서비스인 '페이스사인'과 '페이스페이'를 각각 운영하고 있다. 네이버는 얼굴인식 결제 서비스 '페이스사인'과 오프라인 단말기 '네이버페이(Npay)...",
+      "pubDate": "2026-11-27T07:48:00+00:00",
+      "category": "토스페이",
+      "source": "뉴스웨이"
+    },
+    {
+      "title": "웰컴저축은행, 네이버페이 대안신용평가 활용 대출 출시",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=644212",
+      "originallink": "https://www.seoulfn.com/news/articleView.html?idxno=644212",
+      "description": "웰컴저축은행은 네이버페이의 대안신용평가모형 'Npay 스코어'를 활용한 개인신용대출 상품 '웰컴Npay신용대출'을 출시했다고 27일 밝혔다. 네이버페이는 웰컴저축은행의 지정대리인으로서 Npay 스코어를 활용해...",
+      "pubDate": "2026-11-27T07:39:00+00:00",
+      "category": "네이버페이",
+      "source": "서울파이낸스"
+    },
+    {
+      "title": "웰컴저축은행, 네이버페이와 '웰컴Npay신용대출' 선봬… 대안정보 활용",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=363360",
+      "originallink": "http://www.biztribune.co.kr/news/articleView.html?idxno=363360",
+      "description": "웰컴저축은행이 네이버페이(Npay) 대안신용평가모형을 활용해 금융거래 이력이 부족한 신파일러와 중·저신용자 등을 위한 개인 신용대출 상품을 선보인다. 웰컴저축은행은 'Npay 스코어'를 활용한 '웰컴Npay신용대출...",
+      "pubDate": "2026-11-27T07:34:00+00:00",
+      "category": "네이버페이",
+      "source": "비즈트리뷴"
+    },
+    {
+      "title": "웰컴저축은행, 네이버페이 점수로 최대 1억 대출",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=108366",
+      "originallink": "http://www.newskr.kr/news/articleView.html?idxno=108366",
+      "description": "금융거래 이력이 적은 사람도 네이버페이 결제·쇼핑 기록을 근거로 저축은행에서 최대 1억원까지 신용대출을 받을 수 있게 됐다. 웰컴저축은행은 27일 네이버페이의 대안신용평가모형 'Npay 스코어'로 심사하는 개인...",
+      "pubDate": "2026-11-27T07:26:00+00:00",
+      "category": "네이버페이",
+      "source": "센트럴경제"
+    },
+    {
+      "title": "네이버페이, 케이뱅크·웰컴저축은행과 신용대출 상품 출시",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=2024452",
+      "originallink": "https://www.m-i.kr/news/articleView.html?idxno=2024452",
+      "description": "매일일보 = 안종열 기자   |  네이버페이가 자체 신용평가모형을 활용해 중·저신용자, 소상공인의 금융 접근성을 높인다. 네이버페이는 케이뱅크, 웰컴저축은행과 함께 대안신용평가모형 'Npay 스코어'를 기반으로 직접...",
+      "pubDate": "2026-11-27T07:14:00+00:00",
+      "category": "네이버페이",
+      "source": "매일일보"
+    },
+    {
+      "title": "11월 27일 카카오페이 퀴즈타임 정답…비교할 수 있는 금융사 수는?",
+      "link": "https://www.vegannews.co.kr/news/article.html?no=412178",
+      "originallink": "https://www.vegannews.co.kr/news/article.html?no=412178",
+      "description": "오전 10시 회차, 금융사 수 묻는 두 자리 숫자 문항 27일 오전 10시 카카오페이 퀴즈타임에는 금융사 비교 서비스의 제휴 금융사 수를 묻는 문제가 나왔다. ◆ 오전 10시 퀴즈 정답 문제는 신용점수에 영향 없이 여러...",
+      "pubDate": "2026-11-27T07:10:00+00:00",
+      "category": "카카오페이",
+      "source": "vegannews"
+    },
+    {
+      "title": "나주시, 고향사랑기부자 333명에 네이버페이 2만 포인트 추가 지급",
+      "link": "https://www.betanews.net/article/view/beta202611270095",
+      "originallink": "https://www.betanews.net/article/view/beta202611270095",
+      "description": "나주시가 연말 고향사랑기부금 모금 확대를 위해 기부자 333명에게 네이버페이 2만 포인트를 추가 지급한다. 나주시는 지난 18일부터 민간 고향사랑기부 플랫폼 ‘위기브’를 통해 10만원 이상 기부한 개인을 대상으로...",
+      "pubDate": "2026-11-27T07:08:00+00:00",
+      "category": "네이버페이",
+      "source": "베타뉴스"
+    },
+    {
+      "title": "하나은행 GLN, 말레이시아 QR결제 서비스…총 17개국서 제공",
+      "link": "https://n.news.naver.com/mnews/article/003/0014349960?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261127_0003886560",
+      "description": "가맹점 QR결제(P2M)뿐 아니라 개인 간 QR결제(P2P)도 지원한다. 이용 방법은 퍼플GLN 앱과 토스, 하나원큐, 하나머니, 하나페이 등 국내에서 사용하던 앱을 통해 별도의 현지 계좌 개설이나 추가 앱 설치 없이 결제할 수...",
+      "pubDate": "2026-11-27T07:07:00+00:00",
+      "category": "간편결제",
+      "source": "뉴시스"
+    },
+    {
+      "title": "카카오뱅크 뛰어든 애플페이, 카드사 '발 동동'",
+      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=206474",
+      "originallink": "https://www.sisaon.co.kr/news/articleView.html?idxno=206474",
+      "description": "카카오뱅크가 애플페이를 도입하면서 현대카드가 약 3년 8개월간 유지해 온 독점 구도가 깨졌다. 인터넷전문은행이 간편결제 서비스를 앞세워 고객과의 접점을 넓히면서 전업 카드사들의 고민도 깊어지고 있다. 본업인...",
+      "pubDate": "2026-11-27T06:58:00+00:00",
+      "category": "애플페이",
+      "source": "시사오늘(시사ON)"
+    },
+    {
+      "title": "네이버페이, 'Npay 스코어' 기반 대출상품 3종 출시",
+      "link": "https://n.news.naver.com/mnews/article/003/0014349923?sid=101",
+      "originallink": "https://www.newsis.com/view/NISX20261127_0003886510",
+      "description": "금융사별 맞춤형 신용평가모형 개발을 위한 업무협약을 체결했다. 카카오페이도 자체 대안신용평가모형인 '카카오페이 스코어'를 SBI저축은행 등 금융사에 제공하며 중·저신용자 대상 대출심사 활용을 확대하고 있다.",
+      "pubDate": "2026-11-27T06:55:00+00:00",
+      "category": "네이버페이",
+      "source": "뉴시스"
+    },
+    {
+      "title": "“내 카드는 언제 되나”…카뱅도 쓰는데 카드사 애플페이 감감무소식",
+      "link": "https://www.mediapen.com/news/view/1140639",
+      "originallink": "https://www.mediapen.com/news/view/1140639",
+      "description": "카카오뱅크가 애플페이 서비스를 시작하면서 아이폰 이용자들의 선택지가 넓어지고 있지만 정작 주요 카드사들의 합류는 여전히 감감무소식이다. 인터넷은행의 가세에도 카드사들은 실익을 계산하며 주저하는...",
+      "pubDate": "2026-11-27T06:12:00+00:00",
+      "category": "애플페이",
+      "source": "미디어펜"
+    },
+    {
+      "title": "하나은행 GLN, 말레이시아 QR결제 서비스 개시…글로벌 결제망 17개국으...",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=401030",
+      "originallink": "https://www.fntoday.co.kr/news/articleView.html?idxno=401030",
+      "description": "하나은행 제공 하나은행의 해외 간편결제 전문 자회사 GLN 인터내셔널(대표 이석)은 말레이시아 국가... 앱으로 결제할 수 있다. 사용 가능한 앱은 ▲퍼플GLN ▲토스 ▲하나원큐 ▲하나머니 ▲하나페이 등이다....",
+      "pubDate": "2026-11-27T05:52:00+00:00",
+      "category": "간편결제",
+      "source": "파이낸스투데이"
+    },
+    {
+      "title": "케이뱅크, 네이버페이 결제·쇼핑 정보로 대출 심사…사장님 대출 최대...",
+      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=370735",
+      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=370735",
+      "description": "케이뱅크가 네이버페이의 결제·쇼핑·판매 정보 등을 대출 심사에 활용해 개인사업자와 중·저신용자의... 대안신용평가 역량을 강화해 많은 고객에게 금융 기회를 제공하겠다\"고 말했다. 파이낸셜투데이",
+      "pubDate": "2026-11-27T05:12:00+00:00",
+      "category": "네이버페이",
+      "source": "파이낸셜투데이"
+    },
+    {
       "title": "웰컴저축은행, ‘Npay 스코어’로 신용대출 심사⋯\"포용금융 확대\"",
       "link": "https://www.etoday.co.kr/news/view/2653949",
       "originallink": "https://www.etoday.co.kr/news/view/2653949",
@@ -1708,7 +1942,7 @@
       "description": "관람객은 토스플레이스의 올인원 결제 단말기 '토스 프론트'에 설치된 '토스철학관'에서 얼굴을 비춰 간단한 관상과 돈과의 궁합을 볼 수 있다. 인식한 얼굴 정보는 저장하지 않으며, 참여자에게는 기념품과 함께...",
       "pubDate": "2026-11-25T02:24:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스, '코리아 핀테크 위크 2026' 참가…생활금융 서비스 선보여",
@@ -2752,7 +2986,7 @@
       "description": "네이버페이가 단국대학교 죽전·천안캠퍼스 도서관 출입 게이트에 얼굴 인증 서비스 페이스사인(Facesign)을 적용했다. 카카오페이가 ‘굿딜’에 스타벅스를 입점시켜 조건 없이 매일 3% 상시 할인을 제공한다. 또 DSRV가...",
       "pubDate": "2026-11-24T02:00:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "담양군, 고향사랑기부 10만 원에 네이버페이 2만 원 더 준다",
@@ -2779,7 +3013,7 @@
       "description": "더치페이·청구서 납부 패턴까지 평가…신파일러·중저신용자에게 혜택 제공 \"카카오페이 스코어를 통해 기존 신용평가 방식으로는 제대로 평가 받지 못하던 고객의 신용도를 더 정확히 제공하기 위해 노력 중이다...",
       "pubDate": "2026-11-24T01:46:00+00:00",
       "category": "카카오페이",
-      "source": "dealsitetv"
+      "source": "DealSite경제TV"
     },
     {
       "title": "[시선] 빵 축제인가, 배민·네이버페이 홍보인가...K-베이커리 페스티벌",
@@ -4102,7 +4336,7 @@
       "description": "또 네이버페이가 대한안경사협회와 업무협약을 체결하고 기업 전용 복지몰 ‘N페이 복지마켓’을 열었다. ◆ 삼성생명, ‘청년희망터’ 5기 성과공유회 개최…5주년 성과 결산 삼성생명(대표이사 사장 홍원학)이 서울...",
       "pubDate": "2026-11-20T07:44:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[진단] 애플페이 확산에 해외 수수료 부담… 한국형 결제 규격 논의 필...",
@@ -4129,7 +4363,7 @@
       "description": "◇박리다매 카드 통한 카카오페이…팔수록 손해볼 수도 카카오페이가 결제 사업에서 '박리다매' 전략으로 실적을 개선했지만, 지속가능성에는 물음표가 붙는다. 플랫폼의 실질적인 수익화를 보여주는 지표인...",
       "pubDate": "2026-11-20T07:22:00+00:00",
       "category": "카카오페이",
-      "source": "dealsitetv"
+      "source": "DealSite경제TV"
     },
     {
       "title": "삼성월렛은 무료인데…유료 애플페이 확산에 국내 결제망 '경고등'",
@@ -4471,7 +4705,7 @@
       "description": "20일 카드업계에 따르면, 최근 카카오뱅크의 애플페이 도입 이후 타 카드사로 서비스가 확대될 경우 애플과 비자(Visa)·마스터카드 등 국제 브랜드사에 지급하는 수수료가 연간 3000억 원규모에 이를 것으로 추산됐다. 현재...",
       "pubDate": "2026-11-20T01:38:00+00:00",
       "category": "애플페이",
-      "source": "마켓뉴스"
+      "source": "한양경제"
     },
     {
       "title": "애플페이 수수료 논란 재점화… \"국부 유출·결제 주권 상실 막을 '한국...",
@@ -4615,7 +4849,7 @@
       "description": "결제 거래액 25%·영업이익 160% 늘었지만 영세 가맹점서 역마진 카카오페이가 결제 사업에서 덜 받고 많이 파는 '박리다매' 방식으로 3분기 실적 전반을 개선하는데 성공했다. 가맹점 수수료 인하로 제휴처를 확대하고...",
       "pubDate": "2026-11-19T22:02:00+00:00",
       "category": "카카오페이",
-      "source": "dealsitetv"
+      "source": "DealSite경제TV"
     },
     {
       "title": "생체결제부터 매장관리까지…네이버페이, 오프라인 단말기 시장 공략",
@@ -5578,7 +5812,7 @@
       "description": "토스플레이스가 식자재·마케팅 비용을 덜어주는 ‘사장님 쿠폰팩’을 선보였고, 또 JT저축은행은 JT친애저축은행과 함께 지역 아동센터 2곳의 학습환경 개선을 위한 인테리어를 후원했다. ◆ NH농협금융, 스포츠단...",
       "pubDate": "2026-11-18T07:44:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "'애플페이' 결제 편의성 뒤 '1조원 수수료 부메랑'…카드사·영세 가맹점...",
@@ -6694,7 +6928,7 @@
       "description": "또 네이버페이는 ‘K-베이커리 페스티벌’ 공식 스폰서로 참여해 ‘페이스사인’ 기반 입장과 결제 서비스를 제공한다. ◆ 두나무, 금융 AI 학술대회 ‘ICAIF 2026’ 논문 3편 채택 두나무(대표 오경석)가 세계적인 금융...",
       "pubDate": "2026-11-17T04:44:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[초점] 카카오뱅크, 은행권 최초 애플페이 도입…삼성페이 유료화로 번...",
@@ -7387,7 +7621,7 @@
       "description": "카카오페이가 기부 마라톤 캠페인 ‘2026 롱런(2026 LONG RUN)’에서 누적 300억 걸음을 돌파해 기부금 10억 원을 확정했다. 또 NHN KCP는 스테이블코인 토론회에서 가맹점 결제·정산 인프라 활용 방향을 제시했다. ◆ 두나무...",
       "pubDate": "2026-11-16T08:04:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "애플페이, 카카오뱅크 합류로 국내 시장 확대...삼성페이와 경쟁 본격화",
@@ -10123,7 +10357,7 @@
       "description": "박 대표는 캠페인 다음 참여자로 조창현 현대카드 대표와 신원근 카카오페이 대표를 지목했다. ◆ 티머니, ‘모두의카드’ 편의점 판매 개시…구매 접근성 확대 티머니(대표이사 최문근)가 ‘모두의카드(기후동행패스)...",
       "pubDate": "2026-11-09T07:54:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "[더밸류 브리핑] 오늘의 금융계 소식…하나은행·토스",
@@ -10132,7 +10366,7 @@
       "description": "발표에는 토스·토스뱅크·토스증권·토스플레이스·토스인컴·토스모바일 등 6개 계열사의 보안 전문가가 참여했다. 3개 트랙에서 총 21개 세션이 열렸으며 AI 기반 보안관제와 위협 탐지, 제로트러스트 기반 접근 통제...",
       "pubDate": "2026-11-09T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "애플페이 도입 확산 조짐…카드사 수수료 부담 커질까",
@@ -10690,7 +10924,7 @@
       "description": "네이버페이는 제주 서귀포중심상가의 디지털 전환을 지원하며 지역 상권 활성화에 나선다. 신용보증기금은 성장 잠재력이 높은 혁신스타트업 4개사를 선정하고 금융·비금융 지원을 제공한다. ◆ KB국민카드, ‘KB...",
       "pubDate": "2026-11-06T02:20:00+00:00",
       "category": "네이버페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "인피니소프트, QR코드 기반 캐디피 카드결제 서비스 출시",
@@ -11014,7 +11248,7 @@
       "description": "카카오페이가 소상공인의 날을 맞아 소상공인 브랜드의 온라인 판로 확대를 위한 특별 기획전을 개최한다. 신용보증기금은 청년창업 기업의 금융비용 부담을 낮추기 위한 우대보증을 공급하고, 5개 공공기관과 내부통제...",
       "pubDate": "2026-11-05T05:44:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "교촌치킨, 앱에서 삼성월렛 결제 고객에 최대 6.5% 적립",
@@ -12022,7 +12256,7 @@
       "description": "토스플레이스는 서울 성수동 빵 축제에서 얼굴 인식 결제 서비스 페이스페이를 선보이고 인근 가맹점까지 할인 행사를 확대했다. 또 두나무의 투자 정보 플랫폼 증권플러스는 증권가 실적 전망과 주가 움직임을...",
       "pubDate": "2026-11-03T07:54:00+00:00",
       "category": "토스페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "토스플레이스, 네이버 공정위 신고…“포스 연동 배제는 부당한 차별”",
@@ -12598,7 +12832,7 @@
       "description": "교보SBI저축은행이 사명 변경을 통해 새로운 출발을 알리고, 카카오페이는 인터넷전문은행의 개인사업자 대출 상품을 추가해 대출비교 서비스 범위를 확대한다. 신용보증기금은 한국개발연구원(KDI)과 협력해 교육·홍보...",
       "pubDate": "2026-11-02T08:04:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "카카오페이, 인터넷은행 3사 개인사업자 대출 한눈에 비교 가능해진다",
@@ -13003,7 +13237,7 @@
       "description": "또 카카오페이손해보험은 반려견 동반 행사에서 펫보험 체험과 상담 프로그램을 운영한다. ◆ 삼성생명, 11월 다이렉트 보험 이벤트…3회차 납입·정상 유지 시 경품 삼성생명은 11월 1일부터 30일까지 삼성생명...",
       "pubDate": "2026-10-30T06:50:00+00:00",
       "category": "카카오페이",
-      "source": "thevaluenews"
+      "source": "더밸류뉴스"
     },
     {
       "title": "뚜레쥬르, 토스페이 도입 기념 케이크 출시…100원 구매 이벤트 진행",
@@ -13265,1069 +13499,7 @@
       "pubDate": "2026-10-29T05:04:00+00:00",
       "category": "삼성페이",
       "source": "뉴스퀘스트"
-    },
-    {
-      "title": "우리은행, 삼성월렛 신용카드 확대 '양날의 검'…새 수익원이냐 기존 결...",
-      "link": "http://sateconomy.co.kr/news/view/1065587435709234",
-      "originallink": "http://sateconomy.co.kr/news/view/1065587435709234",
-      "description": "29일 금융권에 따르면 삼성전자(전영현·노태문)는 우리은행(정진완), 중국 텐센트와 협력해 2027년 1분기 중국 위챗페이(WeChat Pay) 가맹점의 QR결제 수단을 신용카드까지 확대할 계획이다. 현재는 삼성월렛 머니에 연결된...",
-      "pubDate": "2026-10-29T04:34:00+00:00",
-      "category": "삼성페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "카카오페이 퀴즈타임, 10월 29일 정답은 ‘81’",
-      "link": "https://www.vegannews.co.kr/news/article.html?no=398058",
-      "originallink": "https://www.vegannews.co.kr/news/article.html?no=398058",
-      "description": "금융사 비교 문구 속 빈칸 묻는 문제 10월 29일 공개된 카카오페이 퀴즈타임에서 금융사 비교 안내 문구의 빈칸에 들어갈 숫자를 묻는 문제가 나왔다. 정답은 ‘81’이다. 문제는 10초 만에 비교할 수 있다고 안내한...",
-      "pubDate": "2026-10-29T04:18:00+00:00",
-      "category": "카카오페이",
-      "source": "vegannews"
-    },
-    {
-      "title": "“최고수준 보안시스템”… ‘삼성월렛 머니’ 글로벌 서비스",
-      "link": "https://n.news.naver.com/mnews/article/021/0002828820?sid=101",
-      "originallink": "https://www.munhwa.com/article/11627279?ref=naver",
-      "description": "방식으로, 중국 전역에서는 위챗페이 QR 결제 및 테이블오더 방식으로 즉시 결제할 수 있다. 정진완 우리은행장은 “삼성월렛 머니의 편의성과 혜택, 안전성을 지속 고도화해 해외 결제 시장의 판도를 바꾸겠다”고 말했다.",
-      "pubDate": "2026-10-29T02:36:00+00:00",
-      "category": "삼성페이",
-      "source": "문화일보"
-    },
-    {
-      "title": "카카오페이 퀴즈타임 정답 바로 공개 (10월 29일)",
-      "link": "https://www.wikitree.co.kr/articles/1170136",
-      "originallink": "https://www.wikitree.co.kr/articles/1170136",
-      "description": "10월 29일 오전 카카오페이 퀴즈타임 문제와 정답이 공개돼 눈길을 끌고 있다. 이날 카카오페이 앱에는 \"10초 만에 OO개 금융사 비교하고 100P 받아요!\"라는 문제가 출제됐다.카카오페이 퀴즈타임 이미지 / AI 생성 이미지이...",
-      "pubDate": "2026-10-29T02:26:00+00:00",
-      "category": "카카오페이",
-      "source": "위키트리"
-    },
-    {
-      "title": "네이버페이, 'Npay 비즈 우리 가게 리포트' 베타 버전 오픈",
-      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319757",
-      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=319757",
-      "description": "네이버페이(Npay)가 소상공인·사업자용 사업 운영 서비스 'Npay 비즈' 고객들에게 '우리 가게 리포트' 서비스 베타 버전을 공개했다고 29일 밝혔다. Npay 비즈 우리 가게 리포트는 오프라인 단말기 'Npay 커넥트'를 설치하고...",
-      "pubDate": "2026-10-29T02:16:00+00:00",
-      "category": "네이버페이",
-      "source": "월요신문"
-    },
-    {
-      "title": "명륜진사갈비, 네이버페이 페이스사인 결제하면 10% 포인트 적립",
-      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66692",
-      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=66692",
-      "description": "숯불돼지갈비 프랜차이즈 명륜진사갈비가 네이버페이의 얼굴인식 결제 서비스 '페이스사인'을 도입하고, 이를 이용하는 고객에게 결제금액의 10%를 네이버페이 포인트로 적립해주는 혜택을 제공한다. 이번 혜택은...",
-      "pubDate": "2026-10-29T02:14:00+00:00",
-      "category": "네이버페이",
-      "source": "뉴스로드"
-    },
-    {
-      "title": "신한카드, 인도네시아서 QR결제 서비스 개시…실물카드·환전 없이 결제",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=124075",
-      "originallink": "https://www.delighti.co.kr/news/articleView.html?idxno=124075",
-      "description": "베트남과 홍콩 등에서 이용할 수 있는 비자 QR결제 서비스도 출시할 예정이다. 신한카드 관계자는 \"다양한 결제 수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를 확대하겠다\"고 말했다.",
-      "pubDate": "2026-10-29T02:12:00+00:00",
-      "category": "간편결제",
-      "source": "딜라이트닷넷"
-    },
-    {
-      "title": "‘주변 장사 현황’ 한눈에…네이버페이, ‘Npay biz 우리 가게 리포트’...",
-      "link": "https://n.news.naver.com/mnews/article/020/0003758617?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20261029/134930850/1",
-      "description": "네이버페이(Npay)가 오프라인 통합 단말기 ‘Npay 커넥트’를 설치한 가맹점주들에게 매장과 주변 장사 현황, 상권 흐름을 분석해 제공하는 ‘Npay biz 우리 가게 리포트’ 서비스를 베타 오픈했다고 29일 밝혔다. 이용...",
-      "pubDate": "2026-10-29T02:04:00+00:00",
-      "category": "네이버페이",
-      "source": "동아일보"
-    },
-    {
-      "title": "빽다방, 당근페이 결제 연계 프로모션 실시… 간편결제 서비스 확대",
-      "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1105238",
-      "originallink": "https://www.discoverynews.kr/news/articleView.html?idxno=1105238",
-      "description": "더본코리아의 커피 전문 브랜드 빽다방이 간편결제 서비스 당근페이 도입을 기념해 10월 29일부터 30일까지 이틀간 당근페이 결제 연계 프로모션을 진행한다. 이번 프로모션은 소비자 결제 편의성을 제고하고 신규...",
-      "pubDate": "2026-10-29T02:02:00+00:00",
-      "category": "간편결제",
-      "source": "디스커버리뉴스(DISCOVERYNEWS)"
-    },
-    {
-      "title": "[증권 소식] 삼성증권·KB증권·토스·대신증권·우리투자증권·카카오페...",
-      "link": "https://sateconomy.co.kr/news/view/1065577630492303",
-      "originallink": "https://sateconomy.co.kr/news/view/1065577630492303",
-      "description": "◆카카오페이증권, 불법사금융 예방 릴레이 캠페인 참여 카카오페이증권은 서민금융진흥원이 주관하는 '사람 살리는 금융' 릴레이 캠페인에 참여했다고 29일 밝혔다. 이번 캠페인은 불법사금융 피해를 예방하고 금융...",
-      "pubDate": "2026-10-29T01:56:00+00:00",
-      "category": "토스페이",
-      "source": "위성경제신문"
-    },
-    {
-      "title": "신한카드, 인도네시아 현지 QR결제 서비스 개시",
-      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1021507",
-      "originallink": "https://www.cnbnews.com/news/articleView.html?idxno=1021507",
-      "description": "여신전문금융업권에서는 국가간 결제 인프라 연동과 선불전자지급수단 결합을 통해 해외 간편결제 편의성을 강화하려는 움직임이 활발하다. 실물카드나 환전 부담을 낮춰 글로벌 결제 접점을 넓히려는 전략적...",
-      "pubDate": "2026-10-29T01:54:00+00:00",
-      "category": "간편결제",
-      "source": "CNB뉴스"
-    },
-    {
-      "title": "네이버페이, 소상공인 매출 분석 서비스 출시…상권 정보까지 한눈에",
-      "link": "https://www.cwn.kr/news/articleView.html?idxno=60439",
-      "originallink": "https://www.cwn.kr/news/articleView.html?idxno=60439",
-      "description": "네이버페이가 오프라인 식음료 매장 사업자를 대상으로 실시간 매출과 상권 정보를 분석해 제공하는 서비스를 선보였다. 네이버페이는 29일 'Npay biz 우리 가게 리포트'를 베타 서비스로 출시했다고 밝혔다. 통합 결제...",
-      "pubDate": "2026-10-29T01:38:00+00:00",
-      "category": "네이버페이",
-      "source": "CWN뉴스"
-    },
-    {
-      "title": "네이버페이, '우리 가게 리포트' 출시...매출 비교·분석",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324118",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324118",
-      "description": "사진=네이버페이  네이버페이(Npay)가 소상공인의 매장 매출과 상권 흐름을 분석해 제공하는 서비스를 선보이며 자영업자 지원을 강화한다. 네이버페이는 가맹점주 대상 데이터 분석 서비스 'Npay biz 우리 가게 리포트'를...",
-      "pubDate": "2026-10-29T01:38:00+00:00",
-      "category": "네이버페이",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "네이버페이, 상권정보 제공 '우리가게 리포트' 베타오픈",
-      "link": "https://n.news.naver.com/mnews/article/277/0005835144?sid=101",
-      "originallink": "https://view.asiae.co.kr/article/2026102910375544098",
-      "description": "네이버페이는 식음료 업종 가맹점주에게 자신의 매장과 동네의 장사 현황 및 상권 흐름을 제공하는 'Npay biz 우리 가게 리포트' 서비스를 베타 오픈했다고 29일 밝혔다. 이 서비스는 오프라인 통합 단말기 'Npay 커넥트'를...",
-      "pubDate": "2026-10-29T01:37:00+00:00",
-      "category": "네이버페이",
-      "source": "아시아경제"
-    },
-    {
-      "title": "명륜진사갈비, 네이버페이 페이스사인 10% 포인트 적립 가능",
-      "link": "https://www.gosiweek.com/article/1065576803967434",
-      "originallink": "https://www.gosiweek.com/article/1065576803967434",
-      "description": "▲사진 제공=명륜진사갈비 숯불돼지갈비 프랜차이즈 명륜진사갈비에서도 네이버페이의 얼굴인식 결제 서비스 ‘페이스사인’을 이용하고 결제금액의 10%를 네이버페이 포인트로 적립받을 수 있다. 이번 혜택은...",
-      "pubDate": "2026-10-29T01:34:00+00:00",
-      "category": "네이버페이",
-      "source": "gosiweek"
-    },
-    {
-      "title": "동네 장사 흐름 읽는다···네이버페이, '우리 가게 리포트'",
-      "link": "https://www.thereport.co.kr/news/articleView.html?idxno=92792",
-      "originallink": "https://www.thereport.co.kr/news/articleView.html?idxno=92792",
-      "description": "네이버페이(Npay)는 가맹점주가 매장 매출과 주변 상권 흐름을 확인할 수 있는 'Npay biz 우리 가게 리포트'를 베타 오픈했다고 29일 밝혔다. 이 서비스는 오프라인 통합 단말기 'Npay 커넥트'의 결제 데이터 등을...",
-      "pubDate": "2026-10-29T01:32:00+00:00",
-      "category": "네이버페이",
-      "source": "더리포트"
-    },
-    {
-      "title": "'삼성월렛 머니' 해외 결제 210개국으로 확대",
-      "link": "https://n.news.naver.com/mnews/article/055/0001399015?sid=101",
-      "originallink": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820457&plink=ORI&cooper=NAVER",
-      "description": "▲ 삼성월렛 머니 해외 결제 210개국 확대 우리은행과 삼성전자는 삼성월렛 머니의 해외 결제를 210개국으로 확대합니다. 중국에서는 위챗페이 QR과 테이블오더를, 다른 지역에서는 마스터카드 결제망을 이용합니다....",
-      "pubDate": "2026-10-29T01:29:00+00:00",
-      "category": "삼성페이",
-      "source": "SBS"
-    },
-    {
-      "title": "[테크 NOW] 카카오ㆍ카카오엔터ㆍ네이버페이",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610291016317510698",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610291016317510698",
-      "description": "▲네이버페이, 상권 분석 서비스 출시 네이버페이가 가맹점주들에게 내 매장과 동네의 장사 현황 및 상권 흐름을 제공하는 ‘Npay biz 우리 가게 리포트’ 서비스를 베타 오픈했다고 밝혔다. 새롭게 선보이는...",
-      "pubDate": "2026-10-29T01:22:00+00:00",
-      "category": "네이버페이",
-      "source": "대한경제"
-    },
-    {
-      "title": "신한카드, 인도네시아서 환전·실물카드 없는 QR결제 서비스 개시",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610290919242220671",
-      "originallink": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610290919242220671",
-      "description": "신한카드 관계자는 \"앞으로도 다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를 확대할 것\"이라고 말했다. 설효 기자 eddsul@",
-      "pubDate": "2026-10-29T01:22:00+00:00",
-      "category": "간편결제",
-      "source": "대한경제"
-    },
-    {
-      "title": "\"옆 가게는 장사 잘되나?\"… 네이버페이가 동네 상권 분석해준다",
-      "link": "https://n.news.naver.com/mnews/article/008/0005433459?sid=101",
-      "originallink": "https://www.mt.co.kr/finance/2026/10/29/2026102909113834478",
-      "description": "네이버페이(Npay)는 가맹점주에게 매장과 동네 장사 현황 및 상권 흐름을 제공하는 'Npay biz 우리 가게 리포트' 서비스를 베타 오픈했다고 29일 밝혔다. 새롭게 선보이는 'Npay biz 우리 가게 리포트'는 오프라인 통합 단말기...",
-      "pubDate": "2026-10-29T01:21:00+00:00",
-      "category": "네이버페이",
-      "source": "머니투데이"
-    },
-    {
-      "title": "신한카드, 인니서 QR결제 서비스 개시...\"해외 간편결제 확대\"",
-      "link": "https://thetracker.co.kr/View.aspx?No=4288157",
-      "originallink": "https://thetracker.co.kr/View.aspx?No=4288157",
-      "description": "이용할 수 있는 비자 QR결제 서비스도 선보인다는 계획이다. 신한카드 관계자는 “앞으로도 다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를 확대할 것”이라고 말했다.",
-      "pubDate": "2026-10-29T01:19:00+00:00",
-      "category": "간편결제",
-      "source": "더트래커"
-    },
-    {
-      "title": "신한카드, 인도네시아 QR결제 서비스 개시",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268242",
-      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268242",
-      "description": "신한카드 관계자는 \"QR결제 서비스가 보편화된 해외 국가에서 환전 없이도 편리하게 결제할 수 있게 됐다\"며 \"앞으로도 다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를...",
-      "pubDate": "2026-10-29T01:16:00+00:00",
-      "category": "간편결제",
-      "source": "화이트페이퍼"
-    },
-    {
-      "title": "\"동네 가게들 얼마나 벌까\"···네이버페이, 매출·상권 한눈에",
-      "link": "https://n.news.naver.com/mnews/article/014/0005596298?sid=101",
-      "originallink": "https://www.fnnews.com/news/202610290837424150",
-      "description": "네이버페이(Npay)가 가맹점주들을 대상으로 자신의 매장과 동네 장사 현황 및 상권 흐름을 파악한 결과를 시범 제공한다. 29일 네이버페이에 따르면 'Npay biz 우리 가게 리포트' 서비스가 베타 오픈했다. 오프라인 통합...",
-      "pubDate": "2026-10-29T01:15:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "네이버페이, 매출부터 상권 분석까지…'우리 가게 리포트' 선보여",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=283254",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=283254",
-      "description": "네이버페이는 가맹점주들이 매장 매출과 주변 상권의 흐름을 한눈에 확인할 수 있는 'Npay biz 우리 가게 리포트' 서비스를 베타 오픈했다고 29일 밝혔다. 이번 서비스는 오프라인 통합 단말기 'Npay 커넥트'의 결제 데이터를...",
-      "pubDate": "2026-10-29T01:14:00+00:00",
-      "category": "네이버페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "[카드 Pick] 하나·신한카드, 국경 넘는 간편결제 확대…해외시장 공략",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210484",
-      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=210484",
-      "description": "라이센스뉴스 = 이소라 기자 | 하나카드와 신한카드가 국경 간 간편결제 시장 공략에 속도를 내고 있다. 하나카드는 방한 대만 관광객을 위한 국내 결제망 확충에 나섰고, 신한카드는 한국 고객이 해외에서 이용할 수...",
-      "pubDate": "2026-10-29T01:12:00+00:00",
-      "category": "간편결제",
-      "source": "라이센스뉴스"
-    },
-    {
-      "title": "우리은행·삼성전자, 갤럭시폰으로 글로벌 결제 시장 공략",
-      "link": "https://www.mhj21.com/news/articleView.html?idxno=254552",
-      "originallink": "https://www.mhj21.com/news/articleView.html?idxno=254552",
-      "description": "이번 확장에 따라 지난 26년부터 이용자들은 중국 내 위챗페이 가맹점과 전 세계 마스터카드 가맹점에서 갤럭시폰 삼성월렛을 통해 태그 한 번으로 신속하게 결제할 수 있게 됐다. 삼성월렛 머니는 QR·NFC 결제는 물론...",
-      "pubDate": "2026-10-29T01:04:00+00:00",
-      "category": "간편결제",
-      "source": "문화저널21"
-    },
-    {
-      "title": "네이버페이, \"우리 가게만 장사 안 되나?\"…동네 매출 비교 서비스 출시",
-      "link": "https://www.kizmom.com/news/articleView.html?idxno=113609",
-      "originallink": "https://www.kizmom.com/news/articleView.html?idxno=113609",
-      "description": "네이버페이가 매장 매출과 주변 상권의 흐름을 비교해 볼 수 있는 서비스를 선보였다. 가맹점주는 매출 변화가 개별 매장의 문제인지, 동네 전반의 흐름인지 데이터를 통해 살펴볼 수 있다. 네이버페이는 결제 데이터...",
-      "pubDate": "2026-10-29T01:01:00+00:00",
-      "category": "네이버페이",
-      "source": "키즈맘"
-    },
-    {
-      "title": "신한카드, 인도네시아 QR결제 서비스 개시",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877452",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877452",
-      "description": "신한카드 관계자는 \"QR결제 서비스가 보편화된 해외 국가에서 환전 없이도 편리하게 결제할 수 있게 됐다\"며 \"다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를 확대할 것...",
-      "pubDate": "2026-10-29T00:54:00+00:00",
-      "category": "간편결제",
-      "source": "한스경제"
-    },
-    {
-      "title": "신한카드, 인도네시아 QR결제 서비스 개시…환전없이 결제",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324100",
-      "originallink": "https://www.pointdaily.co.kr/news/articleView.html?idxno=324100",
-      "description": "사진=신한카드  신한카드가 환전이나 실물카드 없이 인도네시아 현지에서 QR코드로 결제할 수 있는 서비스를 선보이며 해외 간편결제 시장 확대에 나섰다. 신한카드는 인도네시아에서 자사 간편결제 앱 '신한 SOL페이'를...",
-      "pubDate": "2026-10-29T00:52:00+00:00",
-      "category": "간편결제",
-      "source": "포인트데일리"
-    },
-    {
-      "title": "네이버페이, 우리 가게 매출·동네 상권 한눈에 비교",
-      "link": "https://n.news.naver.com/mnews/article/001/0016407888?sid=105",
-      "originallink": "https://www.yna.co.kr/view/AKR20261029057000017?input=1195m",
-      "description": "시간대별 매출·배달 주문·동종 업종 분석 무료 제공 네이버페이는 오프라인 가맹점주를 대상으로 매장과 주변 상권의 장사 현황을 분석해 제공하는 'Npay biz 우리 가게 리포트' 서비스를 베타 오픈했다고 29일 밝혔다....",
-      "pubDate": "2026-10-29T00:48:00+00:00",
-      "category": "네이버페이",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "네이버페이, '우리 가게 리포트' 출시…매출 비교부터 상권 분석까지",
-      "link": "https://n.news.naver.com/mnews/article/030/0003479912?sid=101",
-      "originallink": "https://www.etnews.com/20261029000077",
-      "description": "네이버페이가 '우리 가게 리포트' 서비스를 시작한다. 가맹점주들에게 내 매장과 동네의 장사 현황, 상권 흐름을 제공한다. 네이버페이 단말기인 커넥트를 설치한 가맹점주들이 결제 데이터 등으로 분석된 동네 장사 현황을...",
-      "pubDate": "2026-10-29T00:42:00+00:00",
-      "category": "네이버페이",
-      "source": "전자신문"
-    },
-    {
-      "title": "신한카드, 인도네시아서 환전∙카드없이 QR결제 서비스",
-      "link": "https://n.news.naver.com/mnews/article/001/0016407807?sid=101",
-      "originallink": "https://www.yna.co.kr/view/AKR20261029052000002?input=1195m",
-      "description": "이용할 수 있는 비자 QR결제 서비스도 선보인다는 계획이다. 신한카드 관계자는 \"앞으로도 다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를 확대할 것\"이라고 전했다.",
-      "pubDate": "2026-10-29T00:32:00+00:00",
-      "category": "간편결제",
-      "source": "연합뉴스"
-    },
-    {
-      "title": "신한카드, 환전∙카드 필요없는 '인도네시아 QR결제 서비스' 개시",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=885233",
-      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=885233",
-      "description": "신한카드 관계자는 \"QR결제 서비스가 보편화된 해외 국가에서 환전 없이도 편리하게 결제할 수 있게 됐다\"며 \"앞으로도 다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를...",
-      "pubDate": "2026-10-29T00:12:00+00:00",
-      "category": "간편결제",
-      "source": "글로벌경제신문"
-    },
-    {
-      "title": "[현장] \"실물카드·환전·앱 설치 제로\"…우리은행, '삼성월렛 머니' 해...",
-      "link": "http://www.economytalk.kr/news/articleView.html?idxno=424959",
-      "originallink": "http://www.economytalk.kr/news/articleView.html?idxno=424959",
-      "description": "이에 따라 삼성월렛 머니 이용자는 중국 전역의 위챗페이 가맹점에서 QR코드 결제는 물론 테이블오더 결제도 이용할 수 있다. 한편 중국 외 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개 국가에서는 NFC...",
-      "pubDate": "2026-10-29T00:10:00+00:00",
-      "category": "삼성페이",
-      "source": "이코노미톡뉴스"
-    },
-    {
-      "title": "신한카드, 인도네시아 QR결제 서비스 개시...연내 베트남·홍콩 론칭",
-      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66677",
-      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=66677",
-      "description": "신한카드 관계자는 \"QR결제 서비스가 보편화된 해외 국가에서 환전 없이도 편리하게 결제할 수 있게 됐다\"며, \"앞으로도 다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를...",
-      "pubDate": "2026-10-29T00:06:00+00:00",
-      "category": "간편결제",
-      "source": "뉴스로드"
-    },
-    {
-      "title": "'삼성월렛 머니' 결제 서비스 해외로…우리은행 \"최상위 수준 보안 적용...",
-      "link": "https://www.itbiznews.com/news/articleView.html?idxno=229543",
-      "originallink": "https://www.itbiznews.com/news/articleView.html?idxno=229543",
-      "description": "우리은행 설명에 따르면, 충전식 간편결제 서비스인 삼성월렛 머니는 지난해 10월 출시 후 이달 27일 기준 유효 가입자 300만명을 달성했다. 충전계좌 가운데 우리은행 계좌가 차지하는 비중은 20개 은행 중 42%로 점유율...",
-      "pubDate": "2026-10-29T00:00:00+00:00",
-      "category": "삼성페이",
-      "source": "IT비즈뉴스"
-    },
-    {
-      "title": "신호철 카카오페이證 대표, 불법사금융 예방 릴레이 동참",
-      "link": "https://n.news.naver.com/mnews/article/011/0004676394?sid=101",
-      "originallink": "https://www.sedaily.com/article/20107507?ref=naver",
-      "description": "신호철 카카오페이증권 대표가 불법사금융 피해 예방을 위한 릴레이 캠페인에 참여했다. 카카오페이증권은 신 대표가 서민금융진흥원이 주관하는 ‘사람 살리는 금융’ 캠페인에 동참했다고 29일 밝혔다. 이번 캠페인은...",
-      "pubDate": "2026-10-28T23:57:00+00:00",
-      "category": "카카오페이",
-      "source": "서울경제"
-    },
-    {
-      "title": "인도네시아에서도 QR결제로 간편하게…신한카드, 간편결제 서비스 확대",
-      "link": "https://www.ajunews.com/view/20261029085106271",
-      "originallink": "https://www.ajunews.com/view/20261029085106271",
-      "description": "등에서 이용할 수 있는 비자 QR결제 서비스도 선보일 예정이다. 신한카드 관계자는 \"앞으로도 다양한 결제수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를 확대하겠다\"고 말했다.",
-      "pubDate": "2026-10-28T23:52:00+00:00",
-      "category": "간편결제",
-      "source": "아주경제"
-    },
-    {
-      "title": "100% 자회사 합병도 넉 달 연기…토스 결제 통합에 남은 세 가지 의문",
-      "link": "https://www.peoplewatch.co.kr/article/view/ppw202610290003",
-      "originallink": "https://www.peoplewatch.co.kr/article/view/ppw202610290003",
-      "description": "비바리퍼블리카의 간편결제 서비스인 토스페이와 토스페이먼츠의 PG 사업을 통합하는 과정에서 사업별 역할과 의사결정 권한을 어떻게 배분할지도 관심이다. 토스페이먼츠의 VAN(부가통신망) 사업을 별도 법인으로...",
-      "pubDate": "2026-10-28T23:48:00+00:00",
-      "category": "토스페이",
-      "source": "피플워치"
-    },
-    {
-      "title": "신한카드, 印尼서 SOL페이 QR결제 서비스 개시",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=667144",
-      "originallink": "https://www.kfenews.co.kr/news/articleView.html?idxno=667144",
-      "description": "신한카드 관계자는 \"QR결제 서비스가 보편화된 해외 국가에서 환전 없이도 편리하게 결제할 수 있게 됐다\"며 \"앞으로도 다양한 결제 수단과 해외 결제 인프라를 연계해 고객 편의성을 높이고 글로벌 간편결제 서비스를...",
-      "pubDate": "2026-10-28T23:40:00+00:00",
-      "category": "간편결제",
-      "source": "한국금융경제신문"
-    },
-    {
-      "title": "신한카드, 인도네시아 QR결제 서비스 출시",
-      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=81022",
-      "originallink": "http://www.issuenbiz.com/news/articleView.html?idxno=81022",
-      "description": "신한카드 관계자는 \"QR결제가 보편화된 해외에서도 환전 없이 편리하게 결제할 수 있게 됐다\"며 \"다양한 결제수단과 해외 결제 인프라를 연계해 글로벌 간편결제 서비스를 확대하겠다\"고 말했다.",
-      "pubDate": "2026-10-28T23:36:00+00:00",
-      "category": "간편결제",
-      "source": "이슈앤비즈"
-    },
-    {
-      "title": "신한카드, 인도네시아 QR결제 서비스 개시…환전·실물카드 없이 결제",
-      "link": "https://www.sentv.co.kr/article/view/sentv202610290003",
-      "originallink": "https://www.sentv.co.kr/article/view/sentv202610290003",
-      "description": "신한카드 관계자는 “QR결제 서비스가 보편화된 해외 국가에서 환전 없이도 편리하게 결제할 수 있게 됐다”며 “다양한 결제수단과 해외 결제 인프라를 연계해 글로벌 간편결제 서비스를 확대하겠다”고 말했다.",
-      "pubDate": "2026-10-28T23:14:00+00:00",
-      "category": "간편결제",
-      "source": "서울경제TV"
-    },
-    {
-      "title": "AI와 함께하는 금융의 미래… 국내 최대 핀테크 박람회 열린다",
-      "link": "https://n.news.naver.com/mnews/article/020/0003758499?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20261028/134919982/2",
-      "description": "네이버파이낸셜, 카카오페이 등이 참여해 결제와 송금, 투자와 자산관리, AI 금융 서비스 등을 선보인다. 금융관에서는 KB·신한·NH농협 등 주요 금융그룹이 디지털 금융 전략을 소개할 예정이다. 글로벌관에선 해외...",
-      "pubDate": "2026-10-28T19:33:00+00:00",
-      "category": "간편결제",
-      "source": "동아일보"
-    },
-    {
-      "title": "[Biz & Now] 우리은행 ‘삼성월렛 머니’ 해외결제 확대",
-      "link": "https://n.news.naver.com/mnews/article/025/0003561270?sid=101",
-      "originallink": "https://www.joongang.co.kr/article/25473792",
-      "description": "우리은행은 실물카드나 사전 환전 없이 갤럭시폰으로 이용할 수 있는 ‘삼성월렛 머니’ 해외 결제 서비스를 확대했다고 28일 밝혔다. 중국 위챗페이 가맹점에서는 QR코드로, 세계 210개국 마스터카드 가맹점에서는...",
-      "pubDate": "2026-10-28T15:01:00+00:00",
-      "category": "삼성페이",
-      "source": "중앙일보"
-    },
-    {
-      "title": "\"카드·환전·앱 No\"…우리은행, 삼성월렛 머니 결제 전세계로 확장",
-      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=66662",
-      "originallink": "http://www.newsroad.co.kr/news/articleView.html?idxno=66662",
-      "description": "이 같은 구상에 따라 삼성월렛 머니는 중국 전역의 위챗페이 가맹점에서 QR결제를 지원하며, 음식점 등에서 널리 사용되는 테이블오더 결제도 가능하다. 중국 외 북미·유럽·일본 등 마스터카드 결제망이 연결된...",
-      "pubDate": "2026-10-28T13:50:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스로드"
-    },
-    {
-      "title": "카카오페이·토스, AI 결제 규약 1단계 참여",
-      "link": "https://www.tokenpost.kr/news/ai/428601",
-      "originallink": "https://www.tokenpost.kr/news/ai/428601",
-      "description": "카카오페이(377300)와 토스가 앤트인터내셔널(Ant International)의 AI 에이전트 결제 규약 ‘AMP’ 1단계 참여 지갑 명단에 포함됐다. 앤트인터내셔널은 9월 11일 알리페이플러스(Alipay+)의 에이전트 모바일 프로토콜...",
-      "pubDate": "2026-10-28T13:20:00+00:00",
-      "category": "카카오페이",
-      "source": "tokenpost"
-    },
-    {
-      "title": "마이프차, 토스플레이스·당근·배민·카카오와 프랜차이즈 마케팅 전략...",
-      "link": "https://www.venturesquare.net/1123849/",
-      "originallink": "https://www.venturesquare.net/1123849/",
-      "description": "행사에는 토스플레이스와 당근, 배달의민족, 카카오, 마이프차 등 5개 플랫폼 기업이 참여한다. 프랜차이즈 본사 대표와 마케팅 담당자 등 500명 규모로 진행될 예정이다....",
-      "pubDate": "2026-10-28T12:37:00+00:00",
-      "category": "토스페이",
-      "source": "벤처스퀘어"
-    },
-    {
-      "title": "삼성월렛 머니, 우리은행과 손잡고 210개국 결제 확대…위챗페이·마스...",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3735805",
-      "originallink": "https://www.gukjenews.com/news/articleView.html?idxno=3735805",
-      "description": "삼성월렛 머니는 위챗페이 가맹점에서 QR결제, 테이블오더 결제 등을 지원하며, 마스터카드 결제망이 연결된 국가에서는 NFC 방식으로 1억5천만개 이상의 가맹점에서 사용할 수 있다. 해외 결제에도 리워드가 적용된다....",
-      "pubDate": "2026-10-28T12:36:00+00:00",
-      "category": "삼성페이",
-      "source": "국제뉴스"
-    },
-    {
-      "title": "[현장] 210개국 결제에도 정보는 '빗장'…우리銀 '삼성월렛' 보안 비밀은",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3052570",
-      "originallink": "https://www.apnews.kr/news/articleView.html?idxno=3052570",
-      "description": "이날 정진완 우리은행 은행장은 중국에서 삼성월렛 머니를 직접 사용한 경험을 공유했다. 선전에서는 위챗페이 QR코드로 기념품과 음료를, 홍콩에서는 마스터카드 NFC 결제로 식품을 구매했다. 현장에서는 정 은행장의...",
-      "pubDate": "2026-10-28T12:34:00+00:00",
-      "category": "삼성페이",
-      "source": "AP신문 |  온라인뉴스미디어  에이피신문"
-    },
-    {
-      "title": "카카오뱅크, 내달 애플페이 합류?…결제업계 \"글쎄\"",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=314165",
-      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=314165",
-      "description": "[이미지=생성형AI 활용 제작] 카카오뱅크의 애플페이 적용 여부를 신중하게 지켜봐야 한다는 목소리가 나오는 배경에는 과거 카드업계 선례가 있다. 카드업계에 따르면 신한카드와 KB국민카드 등 주요 카드사는 현대카드의...",
-      "pubDate": "2026-10-28T12:04:00+00:00",
-      "category": "애플페이",
-      "source": "스트레이트뉴스"
-    },
-    {
-      "title": "우리은행·삼성전자, 삼성월렛 머니 해외서비스",
-      "link": "https://n.news.naver.com/mnews/article/032/0003479255?sid=101",
-      "originallink": "https://www.khan.co.kr/article/202610282029005",
-      "description": "밀어올려 삼성월렛 머니를 실행해 NFC(근거리무선통신) 방식으로 사용하면 된다. 마스터카드와 제휴를 맺어 세계 210개국 1억5000만개 이상의 마스터 가맹점에서 결제할 수 있다. 페이 결제가 활성화된 중국에선...",
-      "pubDate": "2026-10-28T11:29:00+00:00",
-      "category": "삼성페이",
-      "source": "경향신문"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 손잡고 소상공인 결제서비스 지원",
-      "link": "http://www.breaknews.com/1246629",
-      "originallink": "http://www.breaknews.com/1246629",
-      "description": "BNK경남은행이 디지털 결제 솔루션 기업 토스플레이스와 협력해 경남 지역 소상공인의 결제서비스 이용 편의성을 높이고 공동마케팅을 추진한다. BNK경남은행은...",
-      "pubDate": "2026-10-28T11:16:00+00:00",
-      "category": "토스페이",
-      "source": "브레이크뉴스"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 지역 소상공인 지원 확대 '맞손'",
-      "link": "https://n.news.naver.com/mnews/article/079/0004204119?sid=102",
-      "originallink": "https://www.nocutnews.co.kr/news/6598828?utm_source=naver&utm_medium=article&utm_campaign=20261028072837",
-      "description": "BNK경남은행이 토스플레이스와 '공동마케팅 업무협약'을 체결했다. 토스 신논현 오피스에서 열린 업무협약식에는 BNK경남은행 최명희 그룹장과 토스플레이스 김정열 부대표 등이 참석했다. 업무협약에 따라 두 기관은...",
-      "pubDate": "2026-10-28T10:29:00+00:00",
-      "category": "토스페이",
-      "source": "노컷뉴스"
-    },
-    {
-      "title": "[단독] 애플페이, 카카오뱅크 체크카드로 넓어진다",
-      "link": "https://www.ekn.kr/web/view.php?key=20261028020402457",
-      "originallink": "https://www.ekn.kr/web/view.php?key=20261028020402457",
-      "description": "애플페이에 카카오뱅크 체크카드 등록이 가능해질 전망이다. 토스페이먼츠는 28일 오후 애플페이와 국민카드(카카오뱅크 매입사) 가맹점들에게 이 같은 내용을 공지했다. 토스페이먼츠는 가맹점에서 애플페이 결제가...",
-      "pubDate": "2026-10-28T10:24:00+00:00",
-      "category": "애플페이",
-      "source": "에너지경제"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 소상공인 지원 '맞손'",
-      "link": "https://n.news.naver.com/mnews/article/003/0014285664?sid=102",
-      "originallink": "https://www.newsis.com/view/NISX20261028_0003845416",
-      "description": "BNK경남은행은 지난 27일 토스플레이스와 경남 소상공인의 결제서비스 이용 편의성 제고를 위한 전략적 제휴 업무협약을 체결했다고 28일 밝혔다. 토스 신논현 오피스에서 열린 협약식에는 BNK경남은행 최명희...",
-      "pubDate": "2026-10-28T10:08:00+00:00",
-      "category": "토스페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 해외 결제 210개국 확대…“해외 결제시장 판...",
-      "link": "https://www.todayeconomic.com/news/article.html?no=32645",
-      "originallink": "https://www.todayeconomic.com/news/article.html?no=32645",
-      "description": "3% 적립 투데이e코노믹 = 우혜정 기자 | 우리은행이 삼성전자와 손잡고 ‘삼성월렛 머니’의 해외 결제 서비스를 210개국으로 확대한다. 중국에서는 위챗페이 기반 QR코드 결제를, 북미와 유럽 등에서는 마스터카드...",
-      "pubDate": "2026-10-28T10:06:00+00:00",
-      "category": "삼성페이",
-      "source": "todayeconomic"
-    },
-    {
-      "title": "토스플레이스·경남은행 맞손…경남 소상공인 결제 인프라 확대",
-      "link": "http://www.segyebiz.com/newsView/20261028519106?OutUrl=naver",
-      "originallink": "http://www.segyebiz.com/newsView/20261028519106?OutUrl=naver",
-      "description": "토스플레이스가 지난 27일 서울 서초구 토스 신논현 오피스에서 (왼쪽부터)최명희 BNK경남은행 개인고객그룹장과 김정열 토스플레이스 부대표가 업무협약 기념 사진을 찍고 있다. 토스플레이스 제공 토스플레이스가...",
-      "pubDate": "2026-10-28T09:54:00+00:00",
-      "category": "토스페이",
-      "source": "토스플레이스·경남은행 맞손…경남 소상공인 결제 인프라 확대"
-    },
-    {
-      "title": "[현장] 우리은행 '삼성월렛 머니'로 해외 결제시장 공략, 정진완 \"노 카...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=450576",
-      "originallink": "https://www.businesspost.co.kr/BP?command=article_view&num=450576",
-      "description": "정 행장은 26일 중국 선전에서 삼성전자, 위챗페이 운영사 텐센트 측과 만나 '삼성월렛 머니 해외 결제 서비스 지원과 협력 강화를 위한 업무 협약'을 맺었다. 이 중국 출장은 정 행장의 '삼성월렛 머니 해외 결제 체험기'가...",
-      "pubDate": "2026-10-28T09:42:00+00:00",
-      "category": "삼성페이",
-      "source": "비즈니스포스트"
-    },
-    {
-      "title": "우리銀, 삼성월렛 머니로 해외 결제시장 공략",
-      "link": "https://n.news.naver.com/mnews/article/014/0005596044?sid=101",
-      "originallink": "https://www.fnnews.com/news/202610281827571444",
-      "description": "조부현 우리은행 플랫폼사업부 부장은 기존 간편결제사와의 차별점을 묻는 질문에 \"삼성월렛 머니는 위챗페이와 제휴해 테이블오더 기능까지 탑재한 것이 차별점\"이라며 \"향후 중국 현지의 다른 서비스와 지하철...",
-      "pubDate": "2026-10-28T09:30:00+00:00",
-      "category": "삼성페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 해외 결제 시작",
-      "link": "https://n.news.naver.com/mnews/article/374/0000540383?sid=101",
-      "originallink": "https://biz.sbs.co.kr/article_hub/20000342801?division=NAVER",
-      "description": "이용자는 실물카드나 사전 환전 없이도 삼성월렛 머니로 결제할 수 있습니다. 이 서비스는 210개국 마스터카드 가맹점에서 사용이 가능하며, 중국 위챗페이와 테이블오더 결제도 지원합니다.",
-      "pubDate": "2026-10-28T09:28:00+00:00",
-      "category": "삼성페이",
-      "source": "SBS Biz"
-    },
-    {
-      "title": "정진완 우리은행장, 中서 삼성월렛 머니 결제…\"노 카드·앱\"",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268226",
-      "originallink": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268226",
-      "description": "은행 측은 주요 간편결제 서비스인 네이버페이·카카오페이와의 차별점을 묻는 질문에  QR과 NFC 결제가 모두 가능하다고 답했다. 중국에서는 테이블오더까지 지원해 현지 앱을 따로 설치할 필요가 없다. 서비스 보안...",
-      "pubDate": "2026-10-28T09:24:00+00:00",
-      "category": "삼성페이",
-      "source": "화이트페이퍼"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스 손잡고 '지역 소상공인 결제서비스' 확대",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=137786",
-      "originallink": "http://www.popcornnews.net/news/articleView.html?idxno=137786",
-      "description": "BNK경남은행이 토스플레이스와 손잡고 경남지역 소상공인을 위한 결제·금융서비스 확대에 나선다. 은행의 금융서비스와 토스플레이스의 디지털 결제 기술을 연계해 지역 가맹점의 결제 편의성을 높이고 공동마케팅을...",
-      "pubDate": "2026-10-28T09:18:00+00:00",
-      "category": "토스페이",
-      "source": "팝콘뉴스"
-    },
-    {
-      "title": "삼성월렛 머니, 중국 위챗페이 QR 결제 연동 추진",
-      "link": "https://www.tokenpost.kr/news/breaking/427984",
-      "originallink": "https://www.tokenpost.kr/news/breaking/427984",
-      "description": "삼성전자와 우리은행, 텐페이글로벌이 삼성월렛 머니의 중국 위챗페이 QR 결제 연동을 추진한다. 연동이 이뤄지면 국내 삼성월렛 이용자는 중국 내 위챗페이 가맹점에서 QR 코드를 스캔하거나 결제 코드를 제시해 결제할...",
-      "pubDate": "2026-10-28T09:18:00+00:00",
-      "category": "삼성페이",
-      "source": "tokenpost"
-    },
-    {
-      "title": "[기업] 우리은행, 삼성월렛 머니 결제 210개국으로 확대",
-      "link": "https://n.news.naver.com/mnews/article/052/0002425070?sid=101",
-      "originallink": "https://www.ytn.co.kr/_ln/0102_202610281817027424",
-      "description": "우리은행은 '삼성월렛 머니' 1주년 기자간담회를 열고, 최근 관련 기업들과의 업무 협약을 통해 실물카드 발급이나 사전 환전 없이 중국 위챗페이 가맹점과 세계 마스터카드 가맹점에서 결제할 수 있게 됐다고...",
-      "pubDate": "2026-10-28T09:17:00+00:00",
-      "category": "삼성페이",
-      "source": "YTN"
-    },
-    {
-      "title": "\"해외결제시장 판도바꾸겠다\" 우리은행 '삼성월렛 머니' 210개국으로 확...",
-      "link": "https://www.catchnews.kr/news/articleView.html?idxno=129898",
-      "originallink": "https://www.catchnews.kr/news/articleView.html?idxno=129898",
-      "description": "서비스인 '삼성월렛 머니'의 해외 결제 서비스를 전 세계 210개국으로 본격 확대한다. 이에 따라 실물 카드나 사전 환전, 별도의 현지 결제 앱 설치 없이 갤럭시폰 하나만으로 중국 위챗페이 가맹점과 전 세계 마스터카드...",
-      "pubDate": "2026-10-28T09:15:00+00:00",
-      "category": "삼성페이",
-      "source": "CatchNews"
-    },
-    {
-      "title": "[핀테크 스테이블코인 승부수] ② 기술 검증 넘어 실제 서비스로...상용...",
-      "link": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193867",
-      "originallink": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193867",
-      "description": "카카오페이는 디지털자산 지갑 기술을 검증하는 데서 나아가 스테이블코인을 미래 금융서비스의 결제 인프라로 활용하는 방안을 모색하고 있다. 지난 9월 기존 카카오페이머니 지갑을 스테이블코인 등 온체인 자산까지...",
-      "pubDate": "2026-10-28T09:14:00+00:00",
-      "category": "간편결제",
-      "source": "위키리크스한국"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 해외 결제 확대…“전세계 확장”",
-      "link": "https://n.news.naver.com/mnews/article/119/0003148370?sid=101",
-      "originallink": "https://www.dailian.co.kr/news/view/1707629/?sc=Naver",
-      "description": "우리은행이 삼성전자와 손잡고 충전식 간편결제 서비스인 ‘삼성월렛 머니’의 결제 범위를 전 세계로 대폭... 이번 서비스 확장을 통해 이용자들은 중국 내 위챗페이 가맹점과 전 세계 210개국 1억5000만개 이상의...",
-      "pubDate": "2026-10-28T09:13:00+00:00",
-      "category": "삼성페이",
-      "source": "데일리안"
-    },
-    {
-      "title": "\"카드·환전·앱 없이\"...우리은행 삼성월렛 머니, 글로벌 결제 시장 공...",
-      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319718",
-      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=319718",
-      "description": "현재 국내 간편결제 시장에서는 네이버페이와 카카오페이가 간편결제 방식과 적극적인 마케팅을 통해 이용자를 확보하고 있고, 중국에서는 일반적으로 위챗페이나 알리페이 등 현지 결제 앱을 설치하고 여권과 카드...",
-      "pubDate": "2026-10-28T09:10:00+00:00",
-      "category": "삼성페이",
-      "source": "월요신문"
-    },
-    {
-      "title": "토스플레이스, 경남은행과 맞손···부산·경남 오프라인 결제망 확대",
-      "link": "https://www.smartbizn.com/news/articleView.html?idxno=157836",
-      "originallink": "https://www.smartbizn.com/news/articleView.html?idxno=157836",
-      "description": "비바리퍼블리카의 결제 단말기·POS 솔루션 공급 자회사 토스플레이스는 BNK경남은행과 경상남도 지역경제 활성화를 위한 업무협약(MOU)을 체결했다고 28일 밝혔다. 협약식은 지난 27일 서울 서초구 토스 신논현 오피스에서...",
-      "pubDate": "2026-10-28T08:54:00+00:00",
-      "category": "토스페이",
-      "source": "스마트비즈"
-    },
-    {
-      "title": "정진완 \"카드 발급 없이 해외 결제\"…삼성월렛 머니 직접 시연",
-      "link": "https://dealsite.co.kr/articles/171550",
-      "originallink": "https://dealsite.co.kr/articles/171550",
-      "description": "국내에서 사용하던 갤럭시폰과 삼성월렛을 해외에서도 그대로 활용할 수 있도록 결제 절차를 간소화한 것이 특징이다. 중국에서는 위챗페이 가맹점을 중심으로 QR결제와 음식점 등의 테이블오더 결제를 지원한다. 중국...",
-      "pubDate": "2026-10-28T08:52:00+00:00",
-      "category": "삼성페이",
-      "source": "딜사이트"
-    },
-    {
-      "title": "카드·현금·앱 없이 결제…우리은행, 삼성월렛 머니 서비스 확대",
-      "link": "https://n.news.naver.com/mnews/article/081/0003693531?sid=101",
-      "originallink": "https://www.seoul.co.kr/news/economy/finance/2026/10/28/20261028500398?wlog_tag3=naver",
-      "description": "맺으며 삼성월렛 머니의 중국 도입도 공식화했다. 실물 카드 발급이나 사전 환전, 별도 앱 설치 없이 갤럭시 스마트폰으로 중국 위챗페이 가맹점과 세계 마스터카드 가맹점에서 결제할 수 있다. 중국에서 위챗페이...",
-      "pubDate": "2026-10-28T08:49:00+00:00",
-      "category": "삼성페이",
-      "source": "서울신문"
-    },
-    {
-      "title": "우리은행 '삼성월렛 머니' 해외 결제 개시…카드·환전·앱 없이 중국·...",
-      "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=767046",
-      "originallink": "http://www.consumernews.co.kr/news/articleView.html?idxno=767046",
-      "description": "이날 카카오페이·네이버페이나 지난 22일 중국 QR결제 서비스를 시작한 KB국민은행 'KB스타뱅킹'과 차이점에 대해 조부현 우리은행 플랫폼사업부장은 앱 하나로 QR결제와 NFC 결제, 중국 테이블오더 결제를 모두 할 수...",
-      "pubDate": "2026-10-28T08:48:00+00:00",
-      "category": "삼성페이",
-      "source": "소비자가 만드는 신문"
-    },
-    {
-      "title": "정진완 우리은행장 써본 '삼성월렛 머니'⋯\"카드·현금·현지 앱 없어도...",
-      "link": "https://n.news.naver.com/mnews/article/031/0001070221?sid=101",
-      "originallink": "http://www.inews24.com/view/2020044",
-      "description": "정 행장은 28일 서울 중구 우리은행 본점에서 열린 '삼성월렛 머니 기자간담회'에서 \"우리은행의 입장이 아니라 고객의 한 사람으로서 경험한 것을 설명하겠다\"며 운을 뗐다. 중국 선전에서는 위챗페이와 연동된 QR코드로...",
-      "pubDate": "2026-10-28T08:48:00+00:00",
-      "category": "삼성페이",
-      "source": "아이뉴스24"
-    },
-    {
-      "title": "\"카드·환전·앱 필요없다\"…우리은행, '삼성월렛 머니'로 해외 결제시...",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=885184",
-      "originallink": "https://www.getnews.co.kr/news/articleView.html?idxno=885184",
-      "description": "이에 따라 삼성월렛 머니는 중국 전역의 위챗페이 가맹점에서 QR 결제를 지원하며, 음식점 등에서 널리 사용되는 테이블오더 결제도 가능하다. 중국 외 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개국에서는 NFC...",
-      "pubDate": "2026-10-28T08:42:00+00:00",
-      "category": "삼성페이",
-      "source": "글로벌경제신문"
-    },
-    {
-      "title": "해외 간편결제 경쟁 격화…우리은행 \"삼성월렛 타고 고객 잡는다\"",
-      "link": "https://news.mtn.co.kr/article/2026102816274576773",
-      "originallink": "https://news.mtn.co.kr/article/2026102816274576773",
-      "description": "그래서 제가 바로 선전에 있는 커피잔을 만드는 가게에 들어가서 커피잔 세트를 하나 샀어요.\"]'삼성월렛 머니'가 출시 1년 만에 해외로 결제 영역을 넓힙니다.중국에서는 위챗페이와 연계한 QR 결제를, 그 밖의 국가에서는...",
-      "pubDate": "2026-10-28T08:40:00+00:00",
-      "category": "삼성페이",
-      "source": "MTN NEWS"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 경남지역 소상공인 지원 나선다...공동마...",
-      "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=368388",
-      "originallink": "http://www.ftoday.co.kr/news/articleView.html?idxno=368388",
-      "description": "BNK경남은행이 토스플레이스와 손잡고 지역 소상공인의 결제 편의성과 매장 운영 지원을 확대한다. BNK경남은행은 지난 27일 서울 서초구 토스 신논현 오피스에서 토스플레이스와 공동마케팅 업무협약을 체결했다고 28일...",
-      "pubDate": "2026-10-28T08:38:00+00:00",
-      "category": "토스페이",
-      "source": "파이낸셜투데이"
-    },
-    {
-      "title": "우리銀, 삼성월렛머니로 글로벌 결제 시장 공략",
-      "link": "https://n.news.naver.com/mnews/article/009/0005755480?sid=101",
-      "originallink": "https://www.mk.co.kr/article/12188662",
-      "description": "추후 해외 결제 서비스를 더욱 확장해 나간다는 계획이다. 우리은행 관계자는 \"위챗페이와 제휴를 확대해 삼성월렛머니에 중국 택시 호출 서비스인 '디디'와 지하철 교통카드 등을 모두 포함시킬 예정\"이라고 말했다.",
-      "pubDate": "2026-10-28T08:34:00+00:00",
-      "category": "간편결제",
-      "source": "매일경제"
-    },
-    {
-      "title": "토스플레이스, 경남은행 손잡고 지역 가맹점 확보 나선다",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877306",
-      "originallink": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877306",
-      "description": "토스플레이스, 경남은행과 협약. 토스플레이스 제공 | 서울=한스경제 박정현 기자 | 토스플레이스가 BNK경남은행과 경상남도 지역경제 활성화를 위한 업무협약을 체결했다. 비바리퍼블리카의 결제 단말기 및 포스(POS)...",
-      "pubDate": "2026-10-28T08:32:00+00:00",
-      "category": "토스페이",
-      "source": "한스경제"
-    },
-    {
-      "title": "[현장] 보안에 범용성까지…우리銀, 삼성월렛 머니 '해외결제' 승부수",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=121047",
-      "originallink": "http://www.newsdream.kr/news/articleView.html?idxno=121047",
-      "description": "보안 역량과 함께 우리은행이 강조한 삼성월렛 머니의 경쟁력은 '결제 범용성'이다. 중국 위챗페이 가맹점에서는 QR결제를, 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개국 1억5000만개 이상의 가맹점에서는 NFC...",
-      "pubDate": "2026-10-28T08:30:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스드림"
-    },
-    {
-      "title": "우리은행장, 삼성월렛 머니 고객 입장서 써보니…\"노카드·노캐시·노앱...",
-      "link": "https://n.news.naver.com/mnews/article/421/0009256317?sid=101",
-      "originallink": "https://www.news1.kr/finance/general-finance/6335123",
-      "description": "한병찬 기자 삼성월렛 머니의 메시지는 딱 세 가지입니다. 노 카드, 노 캐시, 노 앱입니다. 정진완... 특히 중국 국경을 넘자 위챗페이 QR 결제 기능이 자동으로 생성되는 등 현지에서 별도 결제 앱을 설치하지 않고도...",
-      "pubDate": "2026-10-28T08:30:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스1"
-    },
-    {
-      "title": "삼성월렛 머니, 300만 돌파 이어 해외 결제 전 세계로 확장",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=725527",
-      "originallink": "https://www.newstnt.com/news/articleView.html?idxno=725527",
-      "description": "지난 26일부터 중국 전역 위챗페이 가맹점과 마스터카드 결제망이 연결된 210개국 1억5천만여 가맹점에서 삼성월렛 머니 결제가 가능해졌다. 우리은행은 28일 기자간담회를 열고 출시 1년 만의 성과와 해외 확대 전략을...",
-      "pubDate": "2026-10-28T08:24:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스티앤티"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 해외 결제 확대 본격화",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1318345&inflow=N",
-      "originallink": "http://www.newstomato.com/ReadNews.aspx?no=1318345&inflow=N",
-      "description": "앞으로 삼성월렛 머니는 중국 전역의 위챗페이 가맹점에서 QR결제를 지원하며, 음식점 등에서 사용되는 테이블오더 결제도 가능합니다. 북미·유럽·일본 등 마스터카드 결제망이 연결된 국가에서는 근거리무선통신(NFC)...",
-      "pubDate": "2026-10-28T08:22:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스토마토"
-    },
-    {
-      "title": "중국서 ‘삼성월렛 머니’ 직접 써본 정진완 우리은행장 “편하고 안전...",
-      "link": "https://n.news.naver.com/mnews/article/020/0003758391?sid=101",
-      "originallink": "https://www.donga.com/news/Economy/article/all/20261028/134926703/1",
-      "description": "이달 26일부터 삼성 갤럭시 이용자는 중국 내 위챗페이 가맹점과 전 세계 마스터카드 가맹점에서 삼성월렛 머니를 이용할 수 있다. 이용자는 갤럭시 휴대전화 하단을 밀어 올려 삼성월렛 머니를 실행한 뒤 결제용 QR...",
-      "pubDate": "2026-10-28T08:18:00+00:00",
-      "category": "삼성페이",
-      "source": "동아일보"
-    },
-    {
-      "title": "[현장] 우리은행, 삼성월렛 머니 해외 결제 확대…마스터카드 글로벌 가...",
-      "link": "https://www.ceoscoredaily.com/page/view/2026102815283097207",
-      "originallink": "https://www.ceoscoredaily.com/page/view/2026102815283097207",
-      "description": "우리은행은 특히 중국에서 국내 간편결제 서비스를 사용한다고 하더라도 알리 혹은 위챗페이 앱이 필요한 과정을 생략하는 데 중점을 뒀다. 삼성월렛 머니 서비스는 앱 내에서 테이블 오더를 지원하고 한국어 자동...",
-      "pubDate": "2026-10-28T08:18:00+00:00",
-      "category": "삼성페이",
-      "source": "CEOSCOREDAILY"
-    },
-    {
-      "title": "중국서 원화로 충전, 위안화로 결제…삼성월렛 세계로",
-      "link": "https://n.news.naver.com/mnews/article/417/0001162437?sid=101",
-      "originallink": "https://www.sidae.com/article/2026102814574163086",
-      "description": "이를 통해 삼성월렛 머니는 전 세계 마스터카드 가맹점에 더해 중국 전역의 위챗페이 가맹점에서 QR결제를 지원하며, 음식점 등에서 널리 사용되는 테이블오더 결제도 가능하다. 해외 결제에도 리워드를 그대로 적용한다....",
-      "pubDate": "2026-10-28T08:17:00+00:00",
-      "category": "삼성페이",
-      "source": "동행미디어 시대"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 직가맹점 확대…온라인 결제처도 늘린다",
-      "link": "http://www.4th.kr/news/articleView.html?idxno=2120597",
-      "originallink": "http://www.4th.kr/news/articleView.html?idxno=2120597",
-      "description": "- 네이버페이·카카오페이 등 기존 간편결제 서비스나 KB국민은행의 중국 QR 결제와 비교한 차별점은. ▶(허 과장) 기존 간편결제 서비스도 해외에서 QR 결제나 NFC 결제를 지원하고 있다. 다만 중국에서는 단순 결제를 넘어...",
-      "pubDate": "2026-10-28T08:12:00+00:00",
-      "category": "삼성페이",
-      "source": "포쓰저널"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 해외결제 시작…210개국 지원",
-      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=251248",
-      "originallink": "https://www.safetynews.co.kr/news/articleView.html?idxno=251248",
-      "description": "이번 서비스 확대로 삼성월렛 머니 이용자는 중국 전역의 위챗페이 가맹점에서 QR코드를 이용해 결제할 수 있게 됐다. 음식점 등에서 사용하는 테이블오더 QR결제도 지원하며, 중국 외 북미·유럽·일본 등 마스터카드...",
-      "pubDate": "2026-10-28T08:10:00+00:00",
-      "category": "삼성페이",
-      "source": "안전신문"
-    },
-    {
-      "title": "[EZ 현장] '300만 가입자 품고 세계로'…우리은행, 삼성월렛 머니 해외 ...",
-      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=241301",
-      "originallink": "https://www.ezyeconomy.com/news/articleView.html?idxno=241301",
-      "description": "우리은행이 삼성전자와 손잡고 삼성월렛 머니의 결제 범위를 해외로 확대하며 글로벌 간편결제 시장 공략에... 중국에서는 위챗페이 가맹점의 QR코드를 활용하고, 북미·유럽·일본 등에서는 마스터카드 결제망을 통해...",
-      "pubDate": "2026-10-28T08:10:00+00:00",
-      "category": "삼성페이",
-      "source": "이지경제"
-    },
-    {
-      "title": "우리은행, 삼성전자,손잡고 글로벌 결제망 구축…삼성월렛 머니 '해외 ...",
-      "link": "https://www.newsmap.co.kr/news/articleView.html?idxno=4562",
-      "originallink": "https://www.newsmap.co.kr/news/articleView.html?idxno=4562",
-      "description": "마스터카드와 위챗페이 등과 연계해 해외 결제의 안전성도 높였다. 또한 우리은행의 이상금융거래탐지시스템과 삼성월렛 머니 전용 탐지체계를 결합해 이중 모니터링을 실시하고, 부정 사용이나 전기통신금융사기 의심...",
-      "pubDate": "2026-10-28T08:10:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스맵"
-    },
-    {
-      "title": "우리은행·삼성전자, 삼성월렛 머니 해외 결제 확대…전 세계 210개국서...",
-      "link": "http://www.babytimes.co.kr/news/articleView.html?idxno=74491",
-      "originallink": "http://www.babytimes.co.kr/news/articleView.html?idxno=74491",
-      "description": "실물 카드·사전 환전·추가 앱 설치 없는 해외 결제 삼성월렛 머니는 중국 위챗페이 가맹점에서 QR 및 테이블오더 결제를 지원한다. 중국 외 지역에서는 마스터카드 결제망을 통해 북미·유럽·일본 등 210개국의...",
-      "pubDate": "2026-10-28T08:08:00+00:00",
-      "category": "삼성페이",
-      "source": "베이비타임즈"
-    },
-    {
-      "title": "태그 한번으로 세계 어디서나 한번에...우리은행, 삼성월렛 머니 해외결...",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210455",
-      "originallink": "https://www.lcnews.co.kr/news/articleView.html?idxno=210455",
-      "description": "라이센스뉴스 = 김재용 기자 | 카카오페이, 삼성페이, 네이버페이 등 디지털 사업자의 전유물로 여겨졌던 실물카드 없는 결제 서비스에 은행권이 본격적으로 뛰어들고 있다. 우리은행(은행장 정진완)이 삼성전자와의...",
-      "pubDate": "2026-10-28T07:56:00+00:00",
-      "category": "삼성페이",
-      "source": "라이센스뉴스"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 손잡고 소상공인 결제서비스 확대",
-      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212090",
-      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=212090",
-      "description": "사진=BNK경남은행 BNK경남은행이 토스플레이스와 손잡고 경남지역 소상공인을 위한 디지털 결제·금융서비스 확대에 나선다. 은행의 금융서비스와 토스플레이스의 결제 기술을 연계해 지역 가맹점의 디지털 전환을...",
-      "pubDate": "2026-10-28T07:54:00+00:00",
-      "category": "토스페이",
-      "source": "더퍼스트미디어"
-    },
-    {
-      "title": "정진완 \"삼성월렛, 해외서도 한국처럼 결제\"",
-      "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=226288",
-      "originallink": "https://www.kbanker.co.kr/news/articleView.html?idxno=226288",
-      "description": "우리은행은 삼성전자와 함께 지난 26일부터 삼성월렛 머니의 해외 결제 서비스를 시작했다. 중국에서는 텐센트의 위챗페이 가맹점에서 QR코드로, 중국 외 지역에서는 마스터카드 가맹점에서 근거리무선통신(NFC) 방식으로...",
-      "pubDate": "2026-10-28T07:54:00+00:00",
-      "category": "삼성페이",
-      "source": "DFT 대한금융신문"
-    },
-    {
-      "title": "정진완의 플랫폼 금융 승부수... 삼성월렛 앞세워 글로벌 결제시장 공략",
-      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=212094",
-      "originallink": "http://www.thefirstmedia.net/news/articleView.html?idxno=212094",
-      "description": "사진=우리은행 우리은행이 삼성전자와 손잡고 구축한 모바일 결제 서비스 '삼성월렛 머니'를 앞세워 글로벌 결제시장 공략에 나섰다. 출시 1년 만에 가입자 300만명을 확보한 데 이어 중국 위챗페이와 글로벌 마스터카드...",
-      "pubDate": "2026-10-28T07:54:00+00:00",
-      "category": "삼성페이",
-      "source": "더퍼스트미디어"
-    },
-    {
-      "title": "우리銀 '삼성월렛 머니'로 해외 공략",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=314088",
-      "originallink": "https://www.straightnews.co.kr/news/articleView.html?idxno=314088",
-      "description": "가서 마스터카드와 연결된 삼성페이로 똑같이 결제하는 거에요.\" 정진완 우리은행장은 28일 서울 중구 본점에서 열린 '삼성월렛 머니 기자간담회'에서 중국 선전과 홍콩에서 직접 결제한 경험을 소개하며 이같이 말했다....",
-      "pubDate": "2026-10-28T07:50:00+00:00",
-      "category": "삼성페이",
-      "source": "스트레이트뉴스"
-    },
-    {
-      "title": "“No 카드, No 현금, No 앱”…정진완 행장, 삼성월렛 머니로 중국 결제...",
-      "link": "https://n.news.naver.com/mnews/article/022/0004170532?sid=101",
-      "originallink": "https://www.segye.com/newsView/20261028516517?OutUrl=naver",
-      "description": "국내에서 우리은행 계좌에 미리 연동만 하면 삼성전자 스마트폰 하나로 해외에서 위챗·알리페이 설치 없이 결제가 됩니다.” 28일 서울 중구 우리은행 본사에서 열린 ‘삼성월렛 머니’ 출시 1주년 기념 기자간담회에서...",
-      "pubDate": "2026-10-28T07:46:00+00:00",
-      "category": "삼성페이",
-      "source": "세계일보"
-    },
-    {
-      "title": "우리은행, '삼성 월렛 머니'로 결제 서비스 혁신…\"보안·편의성 잡고 해...",
-      "link": "https://www.epnc.co.kr/news/articleView.html?idxno=408908",
-      "originallink": "https://www.epnc.co.kr/news/articleView.html?idxno=408908",
-      "description": "삼성 월렛 머니는 현재 마스터카드 가맹점의 경우 근거리무선통신(NFC) 결제를, 중국의 경우 위챗페이 기반 QR결제를 지원하고 있다. 우리은행 측에 따르면 이용자는 해외 결제를 위해 별도의 앱을 설치하거나 현지 결제...",
-      "pubDate": "2026-10-28T07:46:00+00:00",
-      "category": "삼성페이",
-      "source": "테크월드"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 해외 결제 확대…개인정보 유출 걱정 없이 중...",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=130420",
-      "originallink": "https://www.ntoday.co.kr/news/articleView.html?idxno=130420",
-      "description": "ⓒ투데이신문 우리은행이 삼성전자와 손잡고 간편결제 서비스 '삼성월렛 머니'의 해외 결제 시장 공략에 나섰다. 중국에서는 위챗페이 가맹점에서 QR결제를, 중국 외 210개국에서는 마스터카드 결제망을 통한 비접촉식...",
-      "pubDate": "2026-10-28T07:46:00+00:00",
-      "category": "삼성페이",
-      "source": "투데이신문"
-    },
-    {
-      "title": "우리은행·삼성전자, '삼성월렛 머니' 해외 결제 확대…210개국서 이용",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=151142",
-      "originallink": "https://www.ziksir.com/news/articleView.html?idxno=151142",
-      "description": "협력해 '삼성월렛 머니'의 해외 결제 서비스를 확대했다. 중국 위챗페이 가맹점에서는 QR결제를, 북미와 유럽 등 마스터카드 결제망이 구축된 국가에서는 근거리무선통신(NFC) 결제를 지원해 별도 실물카드나 사전 환전...",
-      "pubDate": "2026-10-28T07:44:00+00:00",
-      "category": "삼성페이",
-      "source": "직썰"
-    },
-    {
-      "title": "\"카드·환전·앱 필요없다\" 우리銀, 삼성월렛 머니로 해외 결제시장 도...",
-      "link": "https://n.news.naver.com/mnews/article/014/0005595944?sid=101",
-      "originallink": "https://www.fnnews.com/news/202610281455429332",
-      "description": "조부현 우리은행 플랫폼사업부 부장은 기존 간편결제사와의 차별점을 묻는 질문에 \"삼성월렛 머니는 위챗페이와 제휴해 테이블오더 기능까지 탑재한 것이 차별점\"이라며 \"향후 중국 현지의 다른 서비스와 지하철...",
-      "pubDate": "2026-10-28T07:43:00+00:00",
-      "category": "삼성페이",
-      "source": "파이낸셜뉴스"
-    },
-    {
-      "title": "[현장] 정진완 우리은행장 '삼성월렛 머니' 해외 결제시장 공략 직접 설...",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=283096",
-      "originallink": "https://www.financialpost.co.kr/news/articleView.html?idxno=283096",
-      "description": "네이버페이와 카카오페이 역시 해외 결제를 지원하는 만큼 삼성월렛 머니만의 차별화된 경쟁력이 필요하다는 지적이 나왔다. 우리은행 측은 중국에서 별도 현지 앱 없이 음식 주문부터 결제까지 가능한 테이블오더...",
-      "pubDate": "2026-10-28T07:36:00+00:00",
-      "category": "삼성페이",
-      "source": "파이낸셜포스트"
-    },
-    {
-      "title": "금융은 우리은행, 기술은 삼성전자...삼성월렛 해외 결제 확대",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=228995",
-      "originallink": "https://www.youthdaily.co.kr/news/article.html?no=228995",
-      "description": "보안 강화하고 글로벌 시장 확대 【 청년일보 】 우리은행이 삼성전자와 손잡고 간편결제 서비스 ‘삼성월렛 머니’의 해외 결제 시장 공략에 나섰다. 중국 내 위챗페이 가맹점과 전 세계 마스터카드 가맹점으로 결제...",
-      "pubDate": "2026-10-28T07:34:00+00:00",
-      "category": "삼성페이",
-      "source": "청년일보"
-    },
-    {
-      "title": "경남은행-토스플레이스, 지역 소상공인 지원 맞손",
-      "link": "https://www.idomin.com/news/articleView.html?idxno=2018159",
-      "originallink": "https://www.idomin.com/news/articleView.html?idxno=2018159",
-      "description": "BNK경남은행이 토스플레이스와 손잡고 지역 소상공인 결제 편의성을 높이고 금융서비스 지원을 확대한다. 경남은행은 토스플레이스와 '공동마케팅 업무협약'을 체결했다고 28일 밝혔다. 토스 신논현 오피스에서 열린...",
-      "pubDate": "2026-10-28T07:32:00+00:00",
-      "category": "토스페이",
-      "source": "idomin"
-    },
-    {
-      "title": "우리은행·삼성전자, '삼성월렛 머니' 해외 결제 확대…210개국서 이용",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=190059",
-      "originallink": "http://www.kdfnews.com/news/articleView.html?idxno=190059",
-      "description": "우리은행과 삼성전자가 간편결제 서비스 '삼성월렛 머니'의 해외 결제 기능을 확대했다. 중국 위챗페이 가맹점과 전 세계 마스터카드 결제망을 연결해 별도의 실물 카드나 현지 결제 애플리케이션(앱) 없이 갤럭시...",
-      "pubDate": "2026-10-28T07:30:00+00:00",
-      "category": "삼성페이",
-      "source": "한국면세뉴스"
-    },
-    {
-      "title": "'카드·환전·앱 설치 3無'…정진완 우리은행장 \"삼성월렛 머니로 전 세...",
-      "link": "https://n.news.naver.com/mnews/article/003/0014285388?sid=101",
-      "originallink": "https://www.newsis.com/view/NISX20261028_0003845149",
-      "description": "삼성월렛 머니는 중국 전역의 위챗페이 가맹점에서 QR결제를 지원한다. 음식점 등에서 사용되는 테이블오더 결제도 가능하다. 중국 외 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개국에서는 근거리무선통신(NFC)...",
-      "pubDate": "2026-10-28T07:30:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴시스"
-    },
-    {
-      "title": "우리은행, 삼성월렛 머니 해외 결제 시작…사용처·충전 조건은?",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=901144",
-      "originallink": "https://www.newsworks.co.kr/news/articleView.html?idxno=901144",
-      "description": "전홍철 우리은행 플랫폼사업부 부장은 네이버페이·카카오페이 등 국내 간편결제 서비스와의 차별점으로 중국에서 QR 결제와 테이블오더를 함께 지원한다는 점을 들었다. 별도의 현지 앱 설치 없이 주문과 결제를...",
-      "pubDate": "2026-10-28T07:28:00+00:00",
-      "category": "삼성페이",
-      "source": "뉴스웍스"
-    },
-    {
-      "title": "300만 쓰는 ‘우리 삼성월렛 머니’, 전세계로 결제 확장",
-      "link": "http://www.datanews.co.kr/news/article.html?no=147185",
-      "originallink": "http://www.datanews.co.kr/news/article.html?no=147185",
-      "description": "해당 협약을 통해 한국의 삼성월렛 사용자는 중국 방문 시 텐센트의 위챗페이 기반 QR결제를 통해 삼성월렛 머니를 이용할 수 있게 됐다. 중국 외에 북미·유럽·일본 등 마스터카드 결제망이 연결된 210개국에서는...",
-      "pubDate": "2026-10-28T07:26:00+00:00",
-      "category": "삼성페이",
-      "source": "데이터뉴스"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 지역 소상공인 지원·디지털 전환 맞손",
-      "link": "https://n.news.naver.com/mnews/article/022/0004170515?sid=101",
-      "originallink": "https://www.segye.com/newsView/20261028515213?OutUrl=naver",
-      "description": "BNK경남은행이 혁신적인 디지털 결제 기술을 보유한 토스플레이스와 손을 잡고 경남 지역 소상공인의 결제 편의성 향상과 지역경제 활성화를 위한 전방위적 공동 마케팅에 나선다. 전통적인 금융 서비스와 핀테크 기술의...",
-      "pubDate": "2026-10-28T07:04:00+00:00",
-      "category": "토스페이",
-      "source": "세계일보"
-    },
-    {
-      "title": "“카카오·네이버페이와 다르다”...우리은행이 승부 건 ‘중국 결제’",
-      "link": "https://www.ekn.kr/web/view.php?key=20261028028182276",
-      "originallink": "https://www.ekn.kr/web/view.php?key=20261028028182276",
-      "description": "우리은행이 삼성전자와 손잡고 선보인 간편결제 서비스 '삼성월렛머니'를 앞세워 카카오페이와 네이버페이에 도전장을 내밀었다. 국내 결제 편의성은 물론 앱 설치 없이 주문·결제가 가능한 해외 결제 경쟁력을 차별화...",
-      "pubDate": "2026-10-28T06:46:00+00:00",
-      "category": "네이버페이",
-      "source": "에너지경제"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 손잡고 경남 소상공인 결제서비스 확대",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=324109",
-      "originallink": "https://www.thepublic.kr/news/articleView.html?idxno=324109",
-      "description": "BNK경남은행은 토스플레이스와 지역 소상공인 지원을 위한 공동마케팅 업무협약을 체결했다고 28일 밝혔다. 협약식은 토스 신논현 오피스에서 열렸으며 최명희 BNK경남은행 개인고객그룹장과 김정열 토스플레이스 부대표...",
-      "pubDate": "2026-10-28T06:28:00+00:00",
-      "category": "토스페이",
-      "source": "더퍼블릭"
-    },
-    {
-      "title": "토스플레이스, 부산은행 이어 경남은행과 손잡고 지역 결제망 확대",
-      "link": "https://n.news.naver.com/mnews/article/016/0002715610?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10917830?ref=naver",
-      "description": "토스플레이스가 부산은행에 이어 경남은행과 손잡고 지역 소상공인 결제시장 공략을 확대한다. BNK금융그룹 계열 은행들의 지역 영업망과 자체 결제 기술을 결합해 가맹점을 늘리고 공동 마케팅을 추진할 계획이다....",
-      "pubDate": "2026-10-28T06:27:00+00:00",
-      "category": "토스페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "우리은행·삼성전자, 전세계 마스터카드 가맹점에 ‘삼성월렛 머니’ 결...",
-      "link": "https://n.news.naver.com/mnews/article/016/0002715604?sid=101",
-      "originallink": "https://biz.heraldcorp.com/article/10917815?ref=naver",
-      "description": "서비스를 출시하면서 향후 카드·핀테크업계의 경쟁 구도에도 지각 변동이 일어날 전망이다. 네이버페이와 카카오페이 역시 QR 결제가 보편화된 아시아 주요 국가에서 덩치를 키우고 있는 만큼, 경쟁이 치열해질 전망이다.",
-      "pubDate": "2026-10-28T06:18:00+00:00",
-      "category": "삼성페이",
-      "source": "헤럴드경제"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 '공동마케팅 업무협약' 체결…지역 소상공...",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=581990",
-      "originallink": "https://www.newsgn.com/news/articleView.html?idxno=581990",
-      "description": "BNK경남은행은 토스플레이스와 '공동마케팅 업무협약'을 체결했다고 28일 밝혔다. 토스 신논현 오피스에서 열린 업무협약식에는 BNK경남은행 최명희 그룹장과 토스플레이스 김정열 부대표 등이 참석했다. 이번 업무협약에...",
-      "pubDate": "2026-10-28T06:04:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스경남"
-    },
-    {
-      "title": "BNK경남은행, 토스플레이스와 '공동마케팅' MOU",
-      "link": "http://www.metroseoul.co.kr/article/20261028500376",
-      "originallink": "http://www.metroseoul.co.kr/article/20261028500376",
-      "description": "최명희 BNK경남은행 개인고객그룹 그룹장(왼쪽)과 김정열 토스플레이스 부대표가 기념촬영을 하고 있다./BNK경남은행 BNK경남은행이 지역 소상공인의 결제서비스 이용 편의성 확대를 위해 토스플레이스와 협력한다....",
-      "pubDate": "2026-10-28T06:00:00+00:00",
-      "category": "토스페이",
-      "source": "메트로신문"
-    },
-    {
-      "title": "BNK경남은행, 토스와 지역 소상공인 지원 확대 맞손",
-      "link": "http://www.newscape.co.kr/news/articleView.html?idxno=125405",
-      "originallink": "http://www.newscape.co.kr/news/articleView.html?idxno=125405",
-      "description": "지난 27일 토스 신논현 오피스에서 열린 업무협약식에 참석한 최명희 BNK경남은행 그룹장(왼쪽)과 김정열 토스플레이스 부대표가 기념촬영을 하고 있다. (사진=BNK경남은행)  BNK경남은행이 토스플레이스와 손잡고 지역...",
-      "pubDate": "2026-10-28T06:00:00+00:00",
-      "category": "토스페이",
-      "source": "뉴스케이프"
-    },
-    {
-      "title": "가르시아 GFA 회장 “핀테크 다보스포럼, 내년 서울서 추진”",
-      "link": "https://n.news.naver.com/mnews/article/030/0003479673?sid=101",
-      "originallink": "https://www.etnews.com/20261028000335",
-      "description": "네이버페이와 카카오페이, 토스 등 대형 플랫폼도 국내에서 수천만명 규모 이용자를 확보했다. 기술과 이용자 기반은 충분하지만, 글로벌 기업으로 나아가지는 못했다. 그는 “한국 핀테크 기업은 국내 시장에 한정돼 더...",
-      "pubDate": "2026-10-28T05:52:00+00:00",
-      "category": "간편결제",
-      "source": "전자신문"
-    },
-    {
-      "title": "소상공인 디지털 결제 부담 덜까…BNK경남은행·토스플레이스 협력",
-      "link": "https://www.dailyt.co.kr/newsView/dlt202610280024",
-      "originallink": "https://www.dailyt.co.kr/newsView/dlt202610280024",
-      "description": "지역 소상공인의 디지털 결제 환경 개선을 위해 BNK경남은행과 토스플레이스가 협력에 나섰다. 금융서비스와 디지털 결제 기술을 결합해 소상공인의 매장 운영 편의성을 높이고 지역경제 활성화를 지원한다는 구상이다....",
-      "pubDate": "2026-10-28T05:26:00+00:00",
-      "category": "토스페이",
-      "source": "데일리환경"
-    },
-    {
-      "title": "NHN '페이코' 11주년…'미션일레븐' 등 이벤트 전개",
-      "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=319696",
-      "originallink": "https://www.wolyo.co.kr/news/articleView.html?idxno=319696",
-      "description": "페이코는 NHN에서 2015년 8월 선보인 간편결제 서비스다. 오프라인 결제는 물론 앱 결제, 웹 결제까지 폭넓게 지원하며 국내 약 60만개의 온·오프라인 가맹점을 두고 있다. / 월요신문=",
-      "pubDate": "2026-10-28T05:02:00+00:00",
-      "category": "페이코",
-      "source": "월요신문"
     }
   ],
-  "lastFetch": "2026-11-27T05:00:57.528721+00:00"
+  "lastFetch": "2026-11-28T04:45:16.283510+00:00"
 }
